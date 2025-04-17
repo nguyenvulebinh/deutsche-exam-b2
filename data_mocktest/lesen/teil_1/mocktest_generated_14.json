@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Magazin für Beruf und Karriere und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia braucht Rat, wie sie ein gutes Anschreiben formuliert."
+        },
+        {
+            "id": 2,
+            "description": "Markus will wissen, was er rechtlich als Nebenerwerbs-Freiberufler beachten muss."
+        },
+        {
+            "id": 3,
+            "description": "Fatima fühlt sich überarbeitet und sucht Zeitmanagement-Strategien."
+        },
+        {
+            "id": 4,
+            "description": "Ben prüft Optionen für eine fachliche Weiterbildung in seinem Technikbereich."
+        },
+        {
+            "id": 5,
+            "description": "Anna möchte wissen, wie man bei Events erfolgreich Kontakte knüpft."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Karriere-Boost durch Weiterbildung: Spezialisierung für Fachkräfte",
+            "description": "Lebenslanges Lernen ist im technischen Bereich unerlässlich. Entdecken Sie passende Weiterbildungsmöglichkeiten, die Ihre Fachkenntnisse vertiefen und neue Karrierewege eröffnen. Von Zertifikatskursen bis zum berufsbegleitenden Studium – finden Sie die Qualifikation, die Sie weiterbringt.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Was gute Führungskräfte auszeichnet",
+            "description": "Nicht jeder ist zur Führung geboren, aber vieles kann man lernen. Dieser Artikel beleuchtet die wichtigsten Eigenschaften und Kompetenzen erfolgreicher Führungskräfte in der heutigen Arbeitswelt. Analysieren Sie Ihren eigenen Führungsstil und holen Sie sich Anregungen für Ihre Entwicklung.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Schluss mit dem Stress: Effektives Zeitmanagement im Job",
+            "description": "Fühlen Sie sich oft gehetzt und schaffen Ihr Pensum nicht? Lernen Sie bewährte Methoden des Zeitmanagements kennen, von der Priorisierung von Aufgaben bis zur Planung realistischer Tagesziele. Mit diesen Tipps gewinnen Sie mehr Kontrolle über Ihren Arbeitstag und reduzieren Stress nachhaltig.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Die 10 besten Jobportale im Vergleich",
+            "description": "Die Suche nach dem Traumjob beginnt oft online. Doch welches Jobportal ist das richtige? Wir haben die größten Plattformen getestet und verglichen – von allgemeinen Anbietern bis zu spezialisierten Börsen. Finden Sie heraus, wo Ihre Stellensuche am erfolgreichsten ist.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreich Netzwerken: Kontakte knüpfen auf Veranstaltungen",
+            "description": "Fachmessen und Konferenzen sind ideale Orte, um wichtige berufliche Kontakte zu knüpfen. Doch wie geht man das am besten an? Dieser Ratgeber gibt praktische Tipps, wie Sie Gespräche beginnen, einen guten Eindruck hinterlassen und Ihr Netzwerk strategisch erweitern.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Das perfekte Anschreiben: Überzeugen Sie mit Worten",
+            "description": "Ein gutes Anschreiben ist der Türöffner zum Vorstellungsgespräch. Wir zeigen Ihnen Schritt für Schritt, wie Sie ein individuelles und überzeugendes Motivationsschreiben formulieren, das genau auf die Stellenanzeige zugeschnitten ist und Personaler neugierig macht. Vermeiden Sie typische Fehler!\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gesund am Arbeitsplatz: Ergonomie und Bewegungspausen",
+            "description": "Langes Sitzen und einseitige Belastungen können zu gesundheitlichen Problemen führen. Erfahren Sie, wie Sie Ihren Arbeitsplatz ergonomisch gestalten und mit einfachen Übungen für Bewegungspausen sorgen können. Investieren Sie in Ihre Gesundheit und beugen Sie Beschwerden vor.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Nebenberuflich selbstständig: Was rechtlich zu beachten ist",
+            "description": "Viele träumen davon, neben dem Hauptjob ein eigenes kleines Business aufzubauen. Doch welche rechtlichen Hürden gibt es? Dieser Artikel klärt über Anmeldepflichten, Steuern und die Absprache mit dem Hauptarbeitgeber auf, damit Ihr Start in die nebenberufliche Selbstständigkeit reibungslos verläuft.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "a",
+        "3": "b",
+        "4": "g",
+        "5": "f"
+    }
+}

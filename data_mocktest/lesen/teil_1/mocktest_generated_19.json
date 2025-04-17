@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia braucht Rat, wie sie Meinungsverschiedenheiten mit Kollegen klärt."
+        },
+        {
+            "id": 2,
+            "description": "Markus möchte seine privaten Projekte professionell präsentieren."
+        },
+        {
+            "id": 3,
+            "description": "Sofia sucht einen Job mit Reisetätigkeit und Kulturaustausch."
+        },
+        {
+            "id": 4,
+            "description": "David bereitet sich auf sein Gespräch zur Gehaltserhöhung vor."
+        },
+        {
+            "id": 5,
+            "description": "Leon interessiert sich für KI-Tools zur Effizienzsteigerung im Job."
+        }
+    ],
+    "articles": [
+        {
+            "id": "d",
+            "title": "Gehaltsverhandlung: Gut vorbereitet zum Erfolg",
+            "description": "Viele scheuen das Gespräch über Geld, doch gute Vorbereitung ist der Schlüssel. Dieser Artikel zeigt, wie Sie realistische Gehaltsvorstellungen entwickeln und Ihre Leistungen überzeugend darstellen. Erfahren Sie, welche Argumente ziehen und wie Sie souverän verhandeln, um finanzielle Anerkennung zu erhalten. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Team-Building-Events: Mehr als nur Spaß?",
+            "description": "Gemeinsame Aktivitäten können den Teamgeist stärken, doch der Erfolg hängt von der richtigen Planung ab. Wir beleuchten, welche Events wirklich zur Verbesserung der Zusammenarbeit beitragen und welche eher Zeitverschwendung sind. Lesen Sie, wie Sie solche Maßnahmen sinnvoll und zielgerichtet gestalten können. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Konflikte im Team lösen",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind normal, können aber die Zusammenarbeit belasten. Wichtig ist ein konstruktiver Umgang damit, statt Probleme zu ignorieren. Hier finden Sie praxiserprobte Strategien zur Deeskalation und zur fairen Kommunikation, um Lösungen zu finden, die für alle Beteiligten akzeptabel sind. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "KI im Büroalltag: Smarte Helfer nutzen",
+            "description": "Künstliche Intelligenz ist längst nicht mehr nur Zukunftsmusik, sondern bietet praktische Unterstützung. Diverse KI-Anwendungen können Routineaufgaben erleichtern und die Produktivität spürbar steigern. Entdecken Sie nützliche Tools für Textoptimierung, Datenanalyse sowie Zeitmanagement und lernen Sie, wie Sie diese effektiv einsetzen. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Reisekostenabrechnung leicht gemacht",
+            "description": "Dienstreisen gehören für viele zum Berufsalltag, doch die anschließende Abrechnung kann kompliziert und zeitaufwendig sein. Dieser Leitfaden erklärt Schritt für Schritt, welche Kosten erstattungsfähig sind. Informieren Sie sich über geltende Pauschalen und Belegpflichten, um Fehler bei der Einreichung zu vermeiden. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Portfolio-Aufbau für Kreative",
+            "description": "Ob Designer, Texter oder Entwickler – wer freiberuflich arbeitet oder sich auf Stellen bewirbt, braucht ein überzeugendes Portfolio. Erfahren Sie detailliert, wie Sie Ihre besten Arbeiten auswählen und diese online wirkungsvoll präsentieren. Wir geben konkrete Tipps zur Struktur, visuellen Gestaltung und technischen Umsetzung Ihrer digitalen Mappe. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die Zukunft der KI-Forschung",
+            "description": "Autonomes Fahren, medizinische Diagnostik, Sprachmodelle – die Potenziale Künstlicher Intelligenz scheinen enorm. Führende Wissenschaftler aus verschiedenen Disziplinen diskutieren aktuelle Durchbrüche und die damit verbundenen ethischen Fragen. Ein tiefer Einblick in die wissenschaftlichen Trends, die unsere Gesellschaft langfristig verändern werden. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Jobs, die die Welt verbinden",
+            "description": "Sie möchten beruflich viel reisen und dabei intensiv andere Kulturen kennenlernen? Es gibt vielfältige Möglichkeiten, von Tätigkeiten in internationalen Organisationen bis hin zu Positionen im globalen Handel oder Tourismussektor. Entdecken Sie Berufsfelder, die explizit Auslandserfahrung und hohe interkulturelle Kompetenz erfordern. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "h",
+        "3": "f",
+        "4": "d",
+        "5": "c"
+    }
+}

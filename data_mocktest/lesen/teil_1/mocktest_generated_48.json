@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna sucht Tipps für bessere Kommunikation im Homeoffice-Team."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte wissen, wie er nebenberuflich ein kleines Online-Geschäft starten kann."
+        },
+        {
+            "id": 3,
+            "description": "Carla fühlt sich in ihrem Job unterfordert und sucht nach Weiterbildungsmöglichkeiten in Projektmanagement."
+        },
+        {
+            "id": 4,
+            "description": "David hat oft Konflikte mit einem bestimmten Kollegen und sucht Ratschläge zur Konfliktlösung."
+        },
+        {
+            "id": 5,
+            "description": "Eva ist unsicher, ob ihre Bewerbungsunterlagen aktuell sind und dem Standard entsprechen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Reibung im Team? Konstruktiver Umgang mit Kollegenkonflikten",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind normal, können aber belasten. Lernen Sie Strategien, wie Sie Konflikte frühzeitig erkennen, sachlich ansprechen und gemeinsam mit Kollegen faire Lösungen finden, um die Arbeitsatmosphäre zu verbessern.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Work-Life-Balance für Führungskräfte: Mehr Zeit für Privates",
+            "description": "Hoher Druck, lange Arbeitszeiten? Führungskräfte stehen oft vor besonderen Herausforderungen. Dieser Artikel zeigt Strategien, wie Manager ihre Zeit besser einteilen und Stress reduzieren können, um Beruf und Privatleben in Einklang zu bringen.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Nebenberuflich gründen: Der Leitfaden für den Start ins Online-Business",
+            "description": "Viele träumen vom eigenen Shop, doch wie gelingt der Start neben dem Hauptjob? Dieser Artikel erklärt Schritt für Schritt, was Sie von der Idee über die Rechtsform bis zur Vermarktung beachten müssen, um erfolgreich nebenberuflich durchzustarten.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Perfekte Bewerbung 2.0: Lebenslauf und Anschreiben optimieren",
+            "description": "Was gehört heute in eine überzeugende Bewerbungsmappe? Wir zeigen Ihnen aktuelle Trends, typische Fehler und wie Sie Ihre Qualifikationen und Erfahrungen im Lebenslauf und Anschreiben optimal präsentieren, um Personaler zu überzeugen.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Digitale Nomaden: Arbeiten von überall auf der Welt",
+            "description": "Immer mehr Menschen nutzen die Möglichkeiten der Digitalisierung, um ortsunabhängig zu arbeiten. Erfahren Sie, welche Voraussetzungen nötig sind, welche Jobs sich eignen und welche rechtlichen Aspekte (Steuern, Versicherung) Sie als digitaler Nomade beachten müssen.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Virtuelle Teams, echte Verbindung: Kommunikationstools und -strategien fürs Homeoffice",
+            "description": "Wie Sie trotz räumlicher Distanz effektiv kommunizieren, Missverständnisse vermeiden und den Teamgeist stärken. Erfahren Sie, welche digitalen Werkzeuge wirklich helfen und wie man virtuelle Meetings produktiv gestaltet.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Die Zukunft der Arbeit: Megatrends, die den Arbeitsmarkt verändern",
+            "description": "Künstliche Intelligenz, Globalisierung, demografischer Wandel – wie wird sich unsere Arbeitswelt in den nächsten zehn Jahren entwickeln? Ein Überblick über die wichtigsten Trends und was sie für Arbeitnehmer und Unternehmen bedeuten.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Karriere-Boost durch Weiterbildung: Zertifizierte Kurse im Projektmanagement",
+            "description": "Projektmanagement-Kenntnisse sind in vielen Branchen gefragt. Finden Sie hier einen Überblick über anerkannte Zertifikate und Kurse – von agilen Methoden bis zu klassischen Ansätzen – die Ihnen helfen, den nächsten Karriereschritt zu machen und anspruchsvollere Aufgaben zu übernehmen.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "c",
+        "3": "b",
+        "4": "g",
+        "5": "e"
+    }
+}

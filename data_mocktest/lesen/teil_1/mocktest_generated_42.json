@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Sofia möchte beruflich aufsteigen, weiß aber nicht genau wie."
+        },
+        {
+            "id": 2,
+            "description": "Ben leitet zum ersten Mal ein Team und braucht Führungstipps."
+        },
+        {
+            "id": 3,
+            "description": "Leyla hat Schwierigkeiten, überzeugende Anschreiben für Bewerbungen zu verfassen."
+        },
+        {
+            "id": 4,
+            "description": "David sucht Ratschläge, um sein Deutsch für berufliche Besprechungen zu verbessern."
+        },
+        {
+            "id": 5,
+            "description": "Maria fühlt sich von der Flut an E-Mails und digitalen Aufgaben überfordert."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Personalentwicklung: Strategien für Unternehmen",
+            "description": "Wie können Unternehmen ihre Mitarbeiter gezielt fördern und langfristig binden? Dieser Artikel beleuchtet verschiedene Instrumente der Personalentwicklung, von Mentoring-Programmen bis zu externen Schulungen. Ein Einblick für HR-Manager und Geschäftsführer, die in ihre Belegschaft investieren wollen.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Erfolgreiche Teamleitung: Grundlagen für neue Führungskräfte",
+            "description": "Der Übergang vom Kollegen zum Vorgesetzten bringt Herausforderungen mit sich. Lernen Sie die wichtigsten Grundlagen der Mitarbeiterführung kennen: von klarer Kommunikation über Motivation bis hin zur Delegation von Aufgaben. Dieser Leitfaden hilft Ihnen, Ihr Team von Anfang an effektiv zu führen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Souverän in Meetings: Deutsch für den Berufsalltag",
+            "description": "Deutschkenntnisse sind vorhanden, aber in Besprechungen fühlen Sie sich unsicher? Dieser Artikel bietet gezielte Redewendungen und Vokabular für typische Situationen in Meetings, von der Meinungsäußerung bis zur Diskussion von Ergebnissen. Verbessern Sie Ihre sprachliche Kompetenz im Job.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Gehaltsverhandlung: So holen Sie mehr raus",
+            "description": "Sind Sie mit Ihrem Gehalt zufrieden? Eine gute Vorbereitung ist der Schlüssel zu einer erfolgreichen Gehaltsverhandlung. Erfahren Sie, wie Sie Ihren Marktwert ermitteln, überzeugende Argumente finden und selbstbewusst in das Gespräch mit Ihrem Chef gehen.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Das perfekte Anschreiben: Mehr Erfolg bei der Bewerbung",
+            "description": "Das Anschreiben ist oft der erste Eindruck beim potenziellen Arbeitgeber. Wir erklären Schritt für Schritt, wie Sie ein individuelles und aussagekräftiges Anschreiben formulieren, das Ihre Motivation und Eignung hervorhebt. Vermeiden Sie typische Fehler und erhöhen Sie Ihre Chancen auf ein Vorstellungsgespräch.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Digitale Überlastung ade: Strategien für den Arbeitsplatz",
+            "description": "Ständige Erreichbarkeit, volle E-Mail-Postfächer, zu viele Online-Tools? Wir zeigen Ihnen Methoden, wie Sie Ihre digitale Arbeitsorganisation verbessern, Prioritäten setzen und so Stress reduzieren können. Holen Sie sich die Kontrolle über Ihren digitalen Arbeitsalltag zurück.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Deutsch lernen mit Apps: Die besten Tools im Test",
+            "description": "Sprachenlernen geht heute auch mobil. Wir haben die beliebtesten Sprachlern-Apps für Deutsch als Fremdsprache getestet: von Vokabeltrainern bis zu Grammatikübungen. Finden Sie die App, die am besten zu Ihrem Lernstil passt, egal ob Anfänger oder Fortgeschrittener.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Karriere-Boost: So planen Sie den nächsten Schritt",
+            "description": "Fühlen Sie sich in Ihrer aktuellen Position festgefahren? Dieser Artikel zeigt bewährte Strategien, wie Sie Ihre Stärken erkennen, Weiterbildungsmöglichkeiten nutzen und gezielt auf eine Beförderung hinarbeiten. Wir geben praktische Tipps für das Gespräch mit dem Vorgesetzten und die langfristige Karriereplanung.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "g",
+        "3": "h",
+        "4": "d",
+        "5": "c"
+    }
+}

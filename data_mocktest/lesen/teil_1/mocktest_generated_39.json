@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia sucht nach Möglichkeiten, ihr Zeitmanagement im Homeoffice zu verbessern."
+        },
+        {
+            "id": 2,
+            "description": "Markus möchte wissen, welche digitalen Kompetenzen heute im Berufsleben wichtig sind."
+        },
+        {
+            "id": 3,
+            "description": "Fatima überlegt, wie sie ihr kleines Unternehmen international ausrichten kann."
+        },
+        {
+            "id": 4,
+            "description": "Leon braucht Ratschläge für sein erstes Gehaltsverhandlungsgespräch nach der Probezeit."
+        },
+        {
+            "id": 5,
+            "description": "Sabine interessiert sich für flexible Arbeitsmodelle wie Jobsharing oder Vertrauensarbeitszeit."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Ergonomie am Arbeitsplatz: Der richtige Stuhl macht den Unterschied",
+            "description": "Langes Sitzen belastet den Rücken. Die Wahl des passenden Bürostuhls und die richtige Einstellung von Tisch und Bildschirm sind entscheidend für Gesundheit und Wohlbefinden. Experten erklären, worauf beim Kauf ergonomischer Büromöbel zu achten ist.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Flexibel Arbeiten: Modelle jenseits der 9-to-5-Woche",
+            "description": "Immer mehr Beschäftigte wünschen sich mehr Flexibilität bei Arbeitszeit und -ort. Jobsharing, Vertrauensarbeitszeit oder Remote Work sind nur einige Optionen. Wir stellen verschiedene flexible Arbeitsmodelle vor, erklären Vor- und Nachteile und zeigen rechtliche Aspekte auf.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Digitale Fitness: Unverzichtbare Skills für die moderne Arbeitswelt",
+            "description": "Cloud-Computing, Datenanalyse, Online-Kollaboration – die Digitalisierung verändert die Anforderungen an Arbeitnehmer rasant. Erfahren Sie, welche digitalen Fähigkeiten heute branchenübergreifend gefragt sind und wie Sie diese gezielt aufbauen oder nachweisen können.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Konjunkturprognose: Wirtschaftliche Aussichten für das kommende Jahr",
+            "description": "Wie entwickelt sich die Wirtschaftslage in Deutschland und Europa? Führende Institute analysieren aktuelle Trends und geben eine Prognose für Wachstum, Inflation und Arbeitsmarkt im nächsten Geschäftsjahr. Ein Überblick für strategische Unternehmensentscheidungen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Vom lokalen Anbieter zum Global Player: Internationalisierung für KMU",
+            "description": "Der Schritt ins Ausland kann kleinen und mittleren Unternehmen neue Wachstumschancen eröffnen. Dieser Ratgeber beleuchtet wichtige Aspekte wie Marktanalyse, rechtliche Rahmenbedingungen, kulturelle Unterschiede und Förderprogramme für den internationalen Markteintritt.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Ausbildungsvergütung: Was verdienen Azubis in Deutschland?",
+            "description": "Die Höhe des Gehalts während der Ausbildung variiert stark je nach Branche und Lehrjahr. Diese Übersicht zeigt aktuelle Durchschnittsvergütungen in beliebten Ausbildungsberufen und erklärt die rechtlichen Grundlagen der Ausbildungsvergütung.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Effizient im Heimbüro: Mehr schaffen, weniger Stress",
+            "description": "Die Arbeit von zu Hause bietet Freiheiten, birgt aber auch Ablenkungen. Dieser Artikel zeigt bewährte Methoden, um den Arbeitstag im Homeoffice besser zu strukturieren, Prioritäten zu setzen und Störungen zu minimieren. Praktische Checklisten helfen bei der sofortigen Umsetzung.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Die erste Gehaltsverhandlung: Gut vorbereitet zum Erfolg",
+            "description": "Die Probezeit ist bestanden, nun steht das Gespräch über das Gehalt an. Wie bereitet man sich optimal vor? Welche Argumente zählen? Dieser Artikel gibt konkrete Tipps für Berufseinsteiger, wie sie selbstbewusst verhandeln und ein faires Einstiegsgehalt erzielen.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "b",
+        "3": "g",
+        "4": "f",
+        "5": "h"
+    }
+}

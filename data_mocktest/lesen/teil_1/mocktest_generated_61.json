@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Martin möchte sich mit einem Online-Shop selbstständig machen."
+        },
+        {
+            "id": 2,
+            "description": "Julia tritt ihre erste Stelle an und ist unsicher wegen der Gehaltsverhandlung."
+        },
+        {
+            "id": 3,
+            "description": "Kenji fühlt sich überarbeitet und sucht nach flexibleren Arbeitsmodellen."
+        },
+        {
+            "id": 4,
+            "description": "Sofia muss oft Präsentationen halten und möchte überzeugender wirken."
+        },
+        {
+            "id": 5,
+            "description": "David plant einen beruflichen Neustart in einer anderen Branche."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Der Weg zum eigenen Chef",
+            "description": "Sie träumen davon, Ihr eigener Herr zu sein? Eine gute Geschäftsidee allein reicht nicht aus. Dieser Artikel beleuchtet die wichtigsten Schritte von der Planung und Finanzierung bis hin zu rechtlichen Aspekten und häufigen Stolpersteinen für Gründer, insbesondere im Online-Bereich. Experten geben praxisnahe Ratschläge.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Ausbildungsplätze finden: Tipps für Schulabgänger",
+            "description": "Der Übergang von der Schule in den Beruf ist ein großer Schritt. Wir geben Tipps zur Berufsorientierung, zur Suche nach dem passenden Ausbildungsplatz und zur erfolgreichen Bewerbung. Eine Übersicht über gefragte Ausbildungsberufe rundet den Artikel ab. Richtet sich speziell an Jugendliche.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Das erste Gehalt richtig verhandeln",
+            "description": "Die erste Gehaltsverhandlung ist eine besondere Herausforderung. Wie bereitet man sich optimal vor? Welche Argumente zählen? Dieser Ratgeber erklärt, wie Berufseinsteiger realistische Gehaltsvorstellungen entwickeln, selbstbewusst auftreten und typische Fehler vermeiden, um fair entlohnt zu werden.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Online-Shops optimieren: Mehr Umsatz durch Kundendaten",
+            "description": "Ihr Online-Shop läuft, aber Sie möchten mehr erreichen? Erfahren Sie, wie Sie Kundendaten analysieren, personalisierte Angebote erstellen und die Benutzerfreundlichkeit verbessern können. Steigern Sie Ihre Konversionsraten und Kundenbindung durch gezielte Optimierungsmaßnahmen. Für etablierte Händler.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreich präsentieren – So überzeugen Sie Ihr Publikum",
+            "description": "Egal ob vor Kollegen, Kunden oder Vorgesetzten – eine gelungene Präsentation ist oft entscheidend. Lernen Sie, wie Sie Ihre Inhalte klar strukturieren, Ihre Körpersprache wirkungsvoll einsetzen, Lampenfieber reduzieren und mit Fragen souverän umgehen. Mit Checkliste für die Vorbereitung.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Quereinstieg wagen: So gelingt der Branchenwechsel",
+            "description": "Unzufrieden im Job? Ein Wechsel in eine neue Branche kann neue Perspektiven eröffnen. Dieser Artikel zeigt auf, wie Sie Ihre übertragbaren Fähigkeiten erkennen, passende Weiterbildungen finden und Netzwerke nutzen, um den beruflichen Neustart erfolgreich zu gestalten. Erfolgsbeispiele inklusive.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Moderne Führung: Was Mitarbeiter wirklich motiviert",
+            "description": "Gutes Personal zu finden ist schwer, es zu halten noch schwerer. Dieser Beitrag diskutiert aktuelle Führungsstile und zeigt auf, welche Faktoren die Mitarbeitermotivation und -zufriedenheit nachhaltig steigern. Interviews mit erfahrenen Führungskräften geben Einblicke in die Praxis.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Mehr Zeit für Leben: Flexible Arbeitszeiten",
+            "description": "Immer mehr Angestellte wünschen sich eine bessere Balance zwischen Beruf und Privatleben. Modelle wie Teilzeit, flexible Gleitzeit oder Homeoffice können dabei helfen. Erfahren Sie, welche Möglichkeiten es gibt, welche rechtlichen Ansprüche bestehen und wie Sie das Gespräch mit Ihrem Arbeitgeber führen.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "d",
+        "3": "b",
+        "4": "h",
+        "5": "a"
+    }
+}

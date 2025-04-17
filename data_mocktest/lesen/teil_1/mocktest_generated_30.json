@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia möchte nach ihrer Probezeit über ihr Gehalt verhandeln."
+        },
+        {
+            "id": 2,
+            "description": "David sucht Ratschläge für sein erstes Bewerbungsgespräch als Projektmanager."
+        },
+        {
+            "id": 3,
+            "description": "Anja leidet unter starkem Stress im Job und sucht Entspannungstechniken."
+        },
+        {
+            "id": 4,
+            "description": "Michael möchte wissen, wie er eine professionelle Online-Präsenz aufbaut."
+        },
+        {
+            "id": 5,
+            "description": "Fatima überlegt, ein Sabbatical zu nehmen, und braucht Infos zur Planung."
+        }
+    ],
+    "articles": [
+        {
+            "id": "d",
+            "title": "Personal Branding: Sichtbar werden im Netz",
+            "description": "Egal ob angestellt oder selbstständig, eine überzeugende Online-Präsenz ist heute unerlässlich. Erfahren Sie, wie Sie auf Plattformen wie LinkedIn oder Xing ein professionelles Profil erstellen, sich richtig vernetzen und Ihre Expertise sichtbar machen, um beruflich voranzukommen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Der richtige Ausbildungsplatz: So finden Jugendliche ihren Traumberuf",
+            "description": "Nach der Schule stehen viele junge Menschen vor der Qual der Wahl. Welcher Ausbildungsberuf passt zu mir? Dieser Leitfaden hilft Schülern und Schulabgängern bei der Orientierung, gibt Tipps für die Bewerbung um einen Ausbildungsplatz und stellt beliebte Branchen vor.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Souverän im Vorstellungsgespräch für Führungskräfte",
+            "description": "Sie bewerben sich auf eine Position mit Personalverantwortung, wie z.B. Projektmanager? Hier erfahren Sie, welche Fragen typischerweise gestellt werden, wie Sie Ihre Führungskompetenzen überzeugend darstellen und welche Fehler Sie im Gespräch unbedingt vermeiden sollten.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die Auszeit planen: Das Sabbatical erfolgreich gestalten",
+            "description": "Ein Sabbatjahr kann eine wertvolle persönliche und berufliche Erfahrung sein, braucht aber gute Vorbereitung. Von der Finanzierung über die Absprache mit dem Arbeitgeber bis zur Organisation der Reise oder Weiterbildung – dieser Ratgeber deckt alle wichtigen Aspekte für eine gelungene Auszeit ab.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Gesund am Arbeitsplatz: Ergonomie im Büro optimieren",
+            "description": "Rückenschmerzen durch langes Sitzen? Verspannungen durch falsche Bildschirmhöhe? Eine ergonomische Gestaltung des Arbeitsplatzes kann die Gesundheit fördern und die Produktivität steigern. Wir zeigen Ihnen, wie Sie Ihren Schreibtisch, Stuhl und Monitor richtig einstellen.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Mehr Geld verdienen: So gelingt die Gehaltsverhandlung",
+            "description": "Die Probezeit ist geschafft, die Leistung stimmt – Zeit für mehr Gehalt? Viele scheuen sich, das Thema anzusprechen. Dieser Artikel gibt praktische Tipps für die Vorbereitung und Durchführung des Gehaltsgesprächs, von der richtigen Argumentation bis zum Umgang mit Gegenangeboten.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreich im E-Commerce: Den eigenen Online-Shop aufbauen",
+            "description": "Immer mehr Unternehmen setzen auf den Verkauf im Internet. Von der Wahl der richtigen Shop-Software über rechtliche Grundlagen bis hin zu Marketingstrategien – dieser Artikel erklärt Schritt für Schritt, wie Sie erfolgreich einen Online-Shop für Ihre Produkte oder Dienstleistungen starten.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Wege aus der Stressfalle: Entspannung im Berufsalltag",
+            "description": "Hoher Termindruck, ständige Erreichbarkeit – Stress am Arbeitsplatz ist weit verbreitet. Lernen Sie einfache, aber effektive Methoden zur Stressbewältigung kennen, die Sie direkt am Schreibtisch oder in kurzen Pausen anwenden können, um konzentrierter und gelassener zu bleiben.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "a",
+        "3": "c",
+        "4": "d",
+        "5": "b"
+    }
+}

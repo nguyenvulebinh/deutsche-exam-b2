@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kolleginnen und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna möchte wissen, wie man eine überzeugende Bewerbung schreibt."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte Teamleiter werden, hat aber wenig Führungserfahrung."
+        },
+        {
+            "id": 3,
+            "description": "Clara fällt es schwer, im Homeoffice produktiv zu sein."
+        },
+        {
+            "id": 4,
+            "description": "David überlegt, freiberuflich zu arbeiten, scheut aber den Papierkram."
+        },
+        {
+            "id": 5,
+            "description": "Emilia muss oft Präsentationen halten, fühlt sich aber unsicher."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Konflikte im Team lösen: Strategien für Harmonie",
+            "description": "Wo Menschen zusammenarbeiten, entstehen manchmal Spannungen. Ungelöste Konflikte können die Teamleistung erheblich beeinträchtigen. Dieser Artikel stellt bewährte Methoden zur Konfliktlösung vor und zeigt, wie man als Teammitglied oder Führungskraft konstruktiv mit Meinungsverschiedenheiten umgeht und das Arbeitsklima verbessert. Praktische Beispiele illustrieren die Ansätze. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Ergonomie am Arbeitsplatz: Gesund im Büro",
+            "description": "Langes Sitzen belastet den Körper. Ein ergonomisch gestalteter Arbeitsplatz kann helfen, Rückenproblemen und Verspannungen vorzubeugen. Erfahren Sie, wie Sie Ihren Schreibtisch, Stuhl und Bildschirm richtig einstellen und welche kleinen Übungen Sie im Büroalltag integrieren können, um gesund und fit zu bleiben. Wichtige Tipps für Arbeitgeber und Angestellte. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Souverän präsentieren: Tipps gegen Lampenfieber",
+            "description": "Eine Präsentation steht an und Sie werden nervös? Lampenfieber ist normal, aber man kann lernen, damit umzugehen. In diesem Artikel finden Sie nützliche Techniken zur Vorbereitung, zum Umgang mit Nervosität und für einen überzeugenden Auftritt. Stärken Sie Ihre rhetorischen Fähigkeiten und präsentieren Sie selbstbewusst und wirkungsvoll vor Kollegen oder Kunden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Die Zukunft der Arbeit: Trends und Prognosen",
+            "description": "Digitalisierung, künstliche Intelligenz, neue Arbeitsmodelle – die Arbeitswelt verändert sich rasant. Welche Berufe haben Zukunft? Wie werden wir in zehn Jahren arbeiten? Experten analysieren die wichtigsten Entwicklungen und geben einen Ausblick auf die Herausforderungen und Chancen des zukünftigen Arbeitsmarktes. Ein Muss für alle, die strategisch planen wollen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Perfekte Unterlagen: So überzeugen Sie Personaler",
+            "description": "Eine gute Bewerbung ist der erste Schritt zum Traumjob. Oft entscheiden Kleinigkeiten über Erfolg oder Absage. Dieser Artikel erklärt, worauf es beim Anschreiben und Lebenslauf wirklich ankommt, wie Sie häufige Fehler vermeiden und Ihre Stärken optimal präsentieren. Experten geben praxisnahe Tipps für einen professionellen Eindruck von Anfang an. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Vom Kollegen zum Chef: Erste Schritte als Führungskraft",
+            "description": "Der Aufstieg zur Führungskraft ist eine Herausforderung, besonders ohne Vorerfahrung. Wie motiviert man ein Team? Wie delegiert man Aufgaben richtig? Dieses Dossier bietet praktische Ratschläge für angehende Teamleiter, wie sie Vertrauen aufbauen und ihre neue Rolle erfolgreich gestalten können. Lernen Sie die Grundlagen effektiver Mitarbeiterführung kennen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Fokus im Homeoffice: Schluss mit Ablenkungen",
+            "description": "Die Arbeit von zu Hause bietet Flexibilität, birgt aber auch viele Ablenkungsgefahren. Schwierigkeiten bei der Konzentration? Dieser Ratgeber zeigt bewährte Methoden für mehr Struktur und Produktivität im Heimbüro. Von Zeitmanagement-Techniken bis zur optimalen Arbeitsplatzgestaltung – finden Sie heraus, was Ihnen hilft, effizienter zu arbeiten und die Work-Life-Balance zu wahren. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Selbstständigkeit ohne Stress: Bürokratie meistern",
+            "description": "Der Schritt in die Freiberuflichkeit bedeutet Freiheit, aber auch administrative Pflichten. Von der Anmeldung beim Finanzamt über Rechnungsstellung bis zur Buchhaltung – viele Gründer fürchten den „Papierkrieg“. Dieser Leitfaden erklärt verständlich die wichtigsten bürokratischen Hürden und gibt Tipps, wie Sie Ihre Administration effizient organisieren können. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "e",
+        "3": "b",
+        "4": "h",
+        "5": "a"
+    }
+}

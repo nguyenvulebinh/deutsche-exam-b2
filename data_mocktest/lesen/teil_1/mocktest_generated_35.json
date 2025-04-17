@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Finn möchte wissen, wie man Feedback professionell gibt und annimmt."
+        },
+        {
+            "id": 2,
+            "description": "Sabine überlegt, ob sie für eine Führungsposition geeignet ist."
+        },
+        {
+            "id": 3,
+            "description": "David sucht nach Wegen, seine Präsentationsfähigkeiten zu verbessern."
+        },
+        {
+            "id": 4,
+            "description": "Anja braucht Informationen über flexible Arbeitszeitmodelle für Eltern."
+        },
+        {
+            "id": 5,
+            "description": "Robert interessiert sich für die rechtlichen Aspekte von Arbeitsverträgen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Die perfekte E-Mail: Kommunikation im Büro",
+            "description": "Tausende E-Mails werden täglich in Büros verschickt. Doch welche Formulierungen sind angemessen? Wann ist eine Antwort erforderlich? Dieser Leitfaden hilft Ihnen, Missverständnisse zu vermeiden und professionell per E-Mail zu kommunizieren. So verbessern Sie die interne und externe Korrespondenz nachhaltig.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Bin ich zur Führungskraft geboren?",
+            "description": "Viele träumen von einer Leitungsposition, doch nicht jeder ist dafür gemacht. Wir beleuchten die Eigenschaften erfolgreicher Führungskräfte und typische Herausforderungen beim Aufstieg. Finden Sie heraus, wie Sie Ihre eigenen Potenziale realistisch einschätzen können, bevor Sie den nächsten Karriereschritt planen.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Familie und Beruf: Flexible Arbeitsmodelle im Überblick",
+            "description": "Wie lassen sich Kinderbetreuung und Job vereinbaren? Von Teilzeit über Homeoffice bis zu flexiblen Arbeitszeiten – wir stellen verschiedene Modelle vor, die Eltern mehr Spielraum ermöglichen. Informieren Sie sich über Ihre Rechte und wie Sie erfolgreich mit Ihrem Arbeitgeber darüber verhandeln können.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Arbeitsvertrag verstehen: Worauf Sie achten müssen",
+            "description": "Ihr Arbeitsvertrag legt die Grundlage für Ihr Beschäftigungsverhältnis fest. Wir erklären wichtige Klauseln wie Probezeit, Kündigungsfristen, Urlaubsanspruch und Gehaltsbestandteile. Vermeiden Sie häufige Fallstricke und lernen Sie, Ihre Rechte als Arbeitnehmer effektiv wahrzunehmen und durchzusetzen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gesetzlich oder privat? Die richtige Krankenversicherung wählen",
+            "description": "Die Wahl der Krankenversicherung ist eine wichtige Entscheidung mit langfristigen finanziellen Folgen. Wir vergleichen die Vor- und Nachteile der gesetzlichen und privaten Krankenversicherung in Deutschland. Erfahren Sie, welche Option für Angestellte, Selbstständige oder Beamte sinnvoll sein kann.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Konstruktives Feedback: Geben und Nehmen im Job",
+            "description": "Effektive Kommunikation ist entscheidend für den Teamerfolg. Dieser Artikel erklärt, wie Sie Feedback so formulieren, dass es motiviert und nicht verletzt. Erfahren Sie auch, wie Sie selbst Kritik professionell annehmen und gezielt für Ihre persönliche Weiterentwicklung nutzen können.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "KI am Arbeitsplatz: Revolution oder Risiko?",
+            "description": "Künstliche Intelligenz verändert die Arbeitswelt rasant. Welche Chancen ergeben sich für Unternehmen und Mitarbeiter durch Automatisierung und neue Tools? Welche Berufe sind besonders betroffen? Ein Ausblick auf die technologischen Entwicklungen und ihre gesellschaftlichen Auswirkungen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Souverän präsentieren: Tipps für Ihren Auftritt",
+            "description": "Ob vor Kollegen, Kunden oder Vorgesetzten – eine überzeugende Präsentation öffnet Türen. Lernen Sie bewährte Methoden zur Strukturierung Ihrer Inhalte und zum Umgang mit Lampenfieber. Wir zeigen Ihnen, wie Sie mit visuellen Hilfsmitteln Ihr Publikum effektiv fesseln und Ihre Botschaft klar vermitteln.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "a",
+        "3": "e",
+        "4": "h",
+        "5": "g"
+    }
+}

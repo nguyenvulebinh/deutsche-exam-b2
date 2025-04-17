@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Portal und möchten Ihren Freunden oder Kollegen einige Artikel weiterleiten.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Marta hat ihr Studium abgeschlossen und sucht nun nach einer Einstiegsposition."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte lernen, wie er in Gehaltsverhandlungen besser argumentiert."
+        },
+        {
+            "id": 3,
+            "description": "Sophia hat Schwierigkeiten, effektiv mit ihren neuen Teamkollegen zusammenzuarbeiten."
+        },
+        {
+            "id": 4,
+            "description": "David muss oft Überstunden machen und ist unsicher bezüglich seiner Rechte."
+        },
+        {
+            "id": 5,
+            "description": "Julia denkt darüber nach, beruflich in den digitalen Sektor zu wechseln."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Überstunden: Was Arbeitnehmer wissen müssen",
+            "description": "Viele Arbeitnehmer leisten regelmäßig Mehrarbeit. Doch wann sind Überstunden verpflichtend und wie müssen sie vergütet oder durch Freizeit ausgeglichen werden? Ein Fachanwalt für Arbeitsrecht klärt über die aktuelle Rechtslage, Ihre Ansprüche als Angestellter und mögliche Fallstricke auf.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Der Arbeitsmarkt der Zukunft: Trends 2024",
+            "description": "Welche Branchen boomen, welche Qualifikationen werden in Zukunft noch wichtiger? Unsere Analyse zeigt die wichtigsten Entwicklungen auf dem deutschen Arbeitsmarkt und gibt einen Ausblick auf die kommenden fünf Jahre. Bleiben Sie informiert über die generellen Tendenzen und langfristigen Perspektiven für verschiedene Sektoren.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Mehr Gehalt? So überzeugen Sie Ihren Chef!",
+            "description": "Die nächste Gehaltsverhandlung steht an? Lernen Sie bewährte Strategien und Formulierungen kennen, um Ihre Leistungen selbstbewusst zu präsentieren und Ihre Gehaltsvorstellungen erfolgreich durchzusetzen. Wir zeigen, wie Sie auf Gegenargumente reagieren und das richtige Timing für das Gespräch wählen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Quereinstieg in die Digitalbranche: Chancen und Wege",
+            "description": "Die Digitalisierung schafft stetig neue Berufsfelder und verändert bestehende. Dieser Artikel beleuchtet, welche digitalen Jobs besonders gefragt sind und wie auch Fachfremde ohne IT-Studium den Wechsel erfolgreich gestalten können. Erfahrungsberichte und Tipps zu relevanten Weiterbildungen inklusive.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Steuererklärung leicht gemacht: Tipps für Angestellte",
+            "description": "Die jährliche Steuererklärung muss kein Albtraum sein. Hier finden Sie nützliche Hinweise, welche berufsbedingten Ausgaben Sie absetzen können, um Geld vom Finanzamt zurückzubekommen. Optimieren Sie Ihre Steuerlast mit unseren praxisnahen Tricks für Arbeitnehmer und Freiberufler.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Der erfolgreiche Berufseinstieg für Absolventen",
+            "description": "Das Ende des Studiums ist erreicht, doch wie findet man den passenden ersten Job? Dieser Artikel bietet praxisnahe Tipps für die Stellensuche, das Verfassen überzeugender Bewerbungen und die Vorbereitung auf Vorstellungsgespräche speziell für Hochschulabsolventen. Experten geben Einblicke in typische Hürden und wie man sie meistert.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Gesund am Arbeitsplatz: Ergonomie im Büro",
+            "description": "Langes Sitzen am Schreibtisch kann zu gesundheitlichen Problemen führen. Erfahren Sie, wie Sie Ihren Arbeitsplatz ergonomisch optimal einrichten, um Rückenschmerzen und Verspannungen vorzubeugen. Einfache Übungen für die Pause runden den Beitrag zur Gesundheitsförderung im Büro ab.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Konflikte im Team konstruktiv lösen",
+            "description": "Unterschiedliche Meinungen und Arbeitsstile können zu Spannungen im Team führen. Dieser Beitrag zeigt Methoden auf, wie Sie die Zusammenarbeit verbessern, Missverständnisse proaktiv ansprechen und eine positive, produktive Teamdynamik fördern können. Fallbeispiele illustrieren erfolgreiche Lösungsansätze.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "b",
+        "3": "a",
+        "4": "g",
+        "5": "d"
+    }
+}

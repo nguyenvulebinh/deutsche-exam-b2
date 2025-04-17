@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Online-Magazin für Karrierefragen und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna möchte sich selbstständig machen und braucht erste Orientierung."
+        },
+        {
+            "id": 2,
+            "description": "Ben sucht Tipps für eine bessere Zusammenarbeit in seinem Team."
+        },
+        {
+            "id": 3,
+            "description": "Carla fühlt sich im Job überfordert und sucht nach Entspannungstechniken."
+        },
+        {
+            "id": 4,
+            "description": "David möchte sich neben dem Beruf weiterbilden, weiß aber nicht, wie."
+        },
+        {
+            "id": 5,
+            "description": "Eva bewirbt sich oft, erhält aber Absagen und braucht Bewerbungstipps."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Berufsbegleitend lernen: Optionen für die Weiterbildung",
+            "description": "Die Karriereleiter erklimmen oder neue Fähigkeiten erwerben, ohne den Job aufzugeben? Dieser Artikel stellt verschiedene Modelle vor – vom Abendstudium über Online-Kurse bis hin zu Wochenendseminaren. Erfahren Sie mehr über Zeitmanagement-Strategien und Finanzierungsmöglichkeiten für Ihre berufliche Weiterentwicklung. \nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Das moderne Büro: Trends in der Arbeitsplatzgestaltung",
+            "description": "Wie sieht der Arbeitsplatz der Zukunft aus? Wir beleuchten aktuelle Trends von ergonomischen Möbeln über flexible Desk-Sharing-Konzepte bis hin zu Grünpflanzen für ein besseres Raumklima. Erfahren Sie, wie moderne Bürogestaltung die Kreativität und das Wohlbefinden der Mitarbeiter steigern kann.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Effektive Teamarbeit: Strategien für bessere Kommunikation",
+            "description": "Reibungsverluste im Team kosten Zeit und Nerven. Dieser Beitrag zeigt auf, wie Sie Meetings effizienter gestalten, klare Kommunikationsregeln etablieren und eine Kultur des konstruktiven Feedbacks fördern können. Praktische Tipps für eine harmonischere und produktivere Zusammenarbeit im Team.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Interne Fortbildungen: Wie Unternehmen Mitarbeiter fördern",
+            "description": "Lebenslanges Lernen ist entscheidend für den Unternehmenserfolg. Lesen Sie, wie Firmen maßgeschneiderte Weiterbildungsprogramme entwickeln können, um ihre Angestellten gezielt zu fördern und an das Unternehmen zu binden. Beispiele erfolgreicher interner Akademien und Schulungskonzepte.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die perfekte Bewerbung: So überzeugen Sie Personaler",
+            "description": "Der erste Eindruck zählt! Dieser Ratgeber erklärt Schritt für Schritt, wie Sie ein aussagekräftiges Anschreiben formulieren und Ihren Lebenslauf optimal gestalten. Lernen Sie, typische Fehler zu vermeiden und Ihre Stärken wirkungsvoll zu präsentieren, um die Chancen auf ein Vorstellungsgespräch deutlich zu erhöhen.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Der Sprung in die Selbstständigkeit: Ein Leitfaden",
+            "description": "Sie träumen davon, Ihr eigener Chef zu sein? Dieser Artikel bietet eine praxisnahe Checkliste für Gründer: Von der ersten Geschäftsidee über den Businessplan und die Wahl der Rechtsform bis hin zu Finanzierungsfragen und wichtigen Anmeldungen. Ein unverzichtbarer Kompass für die ersten Schritte.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Führungskompetenz entwickeln: Was gute Chefs ausmacht",
+            "description": "Was unterscheidet eine durchschnittliche Führungskraft von einem inspirierenden Leader? Dieser Artikel analysiert zentrale Eigenschaften erfolgreicher Führungspersönlichkeiten, wie Kommunikationsstärke, Empathie und Entscheidungsfähigkeit. Erfahren Sie, wie Sie Ihre eigenen Führungsqualitäten gezielt weiterentwickeln können.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Stressfrei durch den Arbeitsalltag: Tipps zur Entspannung",
+            "description": "Hoher Termindruck, ständige Erreichbarkeit – der moderne Job kann belasten. Erkennen Sie Ihre persönlichen Stressoren und lernen Sie bewährte Methoden zur Bewältigung kennen. Von kurzen Achtsamkeitsübungen über Priorisierungstechniken bis hin zu Tipps für einen gesunden Feierabend – finden Sie Ihre Balance.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "h",
+        "2": "e",
+        "3": "g",
+        "4": "f",
+        "5": "b"
+    }
+}

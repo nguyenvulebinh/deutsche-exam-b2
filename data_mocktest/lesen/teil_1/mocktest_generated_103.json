@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Online-Karriereportal und möchten Ihren Kolleginnen und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Felix muss bald eine wichtige Präsentation halten und sucht Tipps."
+        },
+        {
+            "id": 2,
+            "description": "Julia fühlt sich in ihrem Job nicht wertgeschätzt und überlegt zu kündigen."
+        },
+        {
+            "id": 3,
+            "description": "Markus wurde zum Teamleiter befördert und sucht Ratschläge zur Mitarbeiterführung."
+        },
+        {
+            "id": 4,
+            "description": "Anja möchte wissen, unter welchen Bedingungen sie ihren Arbeitsvertrag ändern kann."
+        },
+        {
+            "id": 5,
+            "description": "David sucht nach Methoden, um kreativer und innovativer zu arbeiten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Arbeitsvertrag Ändern: Ihre Rechte als Arbeitnehmer",
+            "description": "Ob Reduzierung der Arbeitszeit, Wechsel der Position oder Anpassung des Gehalts – Vertragsänderungen müssen rechtlich korrekt sein. Informieren Sie sich über die Voraussetzungen, Fristen und typischen Klauseln. So wissen Sie genau, worauf Sie bei Gesprächen mit Ihrem Arbeitgeber achten müssen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Das Moderne Büro: Ergonomie und Wohlbefinden am Arbeitsplatz",
+            "description": "Verbringen Sie viel Zeit am Schreibtisch? Die richtige Gestaltung des Arbeitsplatzes beeinflusst Gesundheit und Produktivität. Erfahren Sie, wie höhenverstellbare Tische, ergonomische Stühle und gute Beleuchtung zu einem besseren Arbeitsgefühl beitragen können. Tipps für mehr Bewegung im Büro inklusive.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Toxisches Arbeitsumfeld? Anzeichen Erkennen und Handeln",
+            "description": "Mangelnde Anerkennung, ständige Kritik oder schlechte Stimmung im Team? Lernen Sie, Warnsignale für ein ungesundes Arbeitsklima zu identifizieren. Der Artikel diskutiert Strategien zur Verbesserung der Situation oder zeigt auf, wann ein Jobwechsel die bessere Lösung sein könnte.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Kundenverträge Sicher Gestalten: Fallstricke Vermeiden",
+            "description": "Klare Verträge sind die Basis jeder guten Geschäftsbeziehung. Worauf müssen Sie achten, wenn Sie Verträge mit Kunden oder Lieferanten abschließen? Dieser Artikel erläutert wichtige rechtliche Aspekte und hilft Ihnen, Risiken bei Vertragsverhandlungen zu minimieren. Musterklauseln werden besprochen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Kreativität im Job: Neue Ideen Finden und Umsetzen",
+            "description": "Stecken Sie in Routinen fest? Entdecken Sie bewährte Techniken wie Brainstorming, Mind-Mapping oder Design Thinking, um innovative Lösungen zu entwickeln. Dieser Artikel liefert Impulse, wie Sie Ihr kreatives Potenzial wecken und frischen Wind in Ihren Berufsalltag bringen können.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Überzeugend Präsentieren: So Gelingt's!",
+            "description": "Von der Struktur über visuelle Hilfsmittel bis zum souveränen Auftreten – dieser Leitfaden zeigt Ihnen Schritt für Schritt, wie Sie Ihr Publikum fesseln. Erfahren Sie, welche Fehler Sie vermeiden sollten und wie Sie Lampenfieber in positive Energie umwandeln. Praktische Checklisten helfen bei der Vorbereitung.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Digitalisierung in der Industrie: Trends und Prognosen 2024",
+            "description": "Künstliche Intelligenz, Automatisierung, Big Data – die digitale Transformation verändert Branchen grundlegend. Welche Technologien werden in Zukunft dominieren? Experten analysieren aktuelle Entwicklungen und geben einen Ausblick auf die Herausforderungen und Chancen für Unternehmen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Erfolgreiche Teamführung: Mehr als nur Delegieren",
+            "description": "Eine gute Führungskraft motiviert, fördert und schafft ein produktives Umfeld. Dieser Beitrag beleuchtet essenzielle Führungskompetenzen – von effektiver Kommunikation über Konfliktlösung bis hin zur Teamentwicklung. Werden Sie zum Vorbild für Ihr Team und steigern Sie gemeinsam den Erfolg.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "e",
+        "3": "a",
+        "4": "b",
+        "5": "g"
+    }
+}

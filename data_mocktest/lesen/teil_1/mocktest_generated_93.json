@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Maria sucht ihren ersten Job nach dem Studium."
+        },
+        {
+            "id": 2,
+            "description": "Jan muss oft Präsentationen halten, ist aber unsicher."
+        },
+        {
+            "id": 3,
+            "description": "Sofia will nebenberuflich online verkaufen und braucht Infos zu Regeln."
+        },
+        {
+            "id": 4,
+            "description": "David möchte sich weiterbilden, hat aber wenig Zeit."
+        },
+        {
+            "id": 5,
+            "description": "Fatima hat Probleme mit einem Kollegen und sucht Rat."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Weiterbildung neben dem Beruf: So klappt's!",
+            "description": "Lebenslanges Lernen ist wichtiger denn je, doch wie integriert man Weiterbildung in einen vollen Arbeitsalltag? Wir stellen flexible Lernformate wie Fernstudiengänge, Online-Kurse und Wochenendseminare vor. Zusätzlich gibt es Tipps zur Finanzierung und wie Sie Ihr Zeitmanagement optimieren, um Beruf und Lernen erfolgreich zu verbinden.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Recruiting-Fehler: Was Unternehmen falsch machen",
+            "description": "Gute Fachkräfte sind schwer zu finden. Umso wichtiger ist ein professioneller Einstellungsprozess. Viele Unternehmen schrecken jedoch Bewerber durch langsame Reaktionen, unklare Anforderungen oder schlechte Kommunikation ab. Wir analysieren die häufigsten Fehler im Recruiting und wie Firmen sie vermeiden können.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Sicher und überzeugend präsentieren",
+            "description": "Viele Berufstätige müssen regelmäßig vor Kollegen oder Kunden sprechen. Lampenfieber und Unsicherheit sind häufige Begleiter. Dieser Ratgeber zeigt Techniken, wie Sie Ihre Präsentationen klar strukturieren, visuelle Hilfsmittel wirkungsvoll einsetzen und durch selbstbewusstes Auftreten überzeugen. Praktische Übungen helfen, die Nervosität zu überwinden.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Umgang mit schwierigen Kollegen: Konflikte lösen",
+            "description": "Nicht immer ist die Zusammenarbeit im Team harmonisch. Schwierige Persönlichkeiten können den Arbeitsalltag belasten. Dieser Beitrag zeigt konstruktive Wege auf, wie Sie mit Konflikten am Arbeitsplatz umgehen können. Lernen Sie Kommunikationsstrategien, wie Sie Grenzen setzen und wann es sinnvoll ist, Unterstützung von Vorgesetzten zu suchen.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Sprachen lernen für den Urlaub",
+            "description": "Möchten Sie im nächsten Urlaub mehr als nur 'Hallo' und 'Danke' sagen können? Es gibt viele effektive Methoden, schnell Grundkenntnisse in einer Fremdsprache zu erwerben. Von Sprach-Apps über Online-Kurse bis zu Tandempartnern – wir stellen die besten Tipps für Reisebegeisterte vor, die sich sprachlich vorbereiten wollen.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreicher Start ins Berufsleben",
+            "description": "Gerade die Universität oder Ausbildung abgeschlossen? Der Übergang in die Arbeitswelt kann herausfordernd sein. Dieser Artikel bietet praktische Ratschläge für Absolventen, von der Optimierung des Lebenslaufs bis zu Strategien für das erste Vorstellungsgespräch. Erfahren Sie, wie Sie häufige Anfängerfehler vermeiden.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Die Arbeitswelt im Wandel: Trends 2025",
+            "description": "Künstliche Intelligenz, Remote Work und der Fachkräftemangel verändern die Art, wie wir arbeiten. Welche Kompetenzen werden in Zukunft entscheidend sein? Welche Branchen wachsen, welche schrumpfen? Dieser Artikel gibt einen Ausblick auf die wichtigsten Entwicklungen und Herausforderungen der Arbeitswelt von morgen.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Online-Shop starten: Was rechtlich zu beachten ist",
+            "description": "Ein eigener Online-Shop ist verlockend, doch rechtliche Fallstricke können teuer werden. Dieser Artikel erklärt die wichtigsten Schritte von der Gewerbeanmeldung über Impressumspflicht bis zu Datenschutz und Widerrufsrecht. Vermeiden Sie Abmahnungen und starten Sie rechtssicher in den E-Commerce.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "b",
+        "3": "g",
+        "4": "e",
+        "5": "a"
+    }
+}

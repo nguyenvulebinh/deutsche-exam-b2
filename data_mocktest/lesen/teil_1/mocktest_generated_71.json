@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia möchte wissen, wie sie sich effektiv auf Gehaltsverhandlungen vorbereitet."
+        },
+        {
+            "id": 2,
+            "description": "Martin überlegt, ob ein berufsbegleitendes Masterstudium für ihn sinnvoll ist."
+        },
+        {
+            "id": 3,
+            "description": "Fatima sucht nach Wegen, ihr Zeitmanagement im Homeoffice zu verbessern."
+        },
+        {
+            "id": 4,
+            "description": "David möchte als Freiberufler Aufträge im Ausland akquirieren."
+        },
+        {
+            "id": 5,
+            "description": "Sophia braucht Ratschläge zur Mitarbeiterführung in einem jungen Startup."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Freelancer International: So finden Sie Aufträge weltweit",
+            "description": "Der globale Markt bietet Freiberuflern riesige Chancen. Doch wie findet man internationale Kunden und wickelt Aufträge rechtssicher ab? Dieser Ratgeber zeigt Ihnen die besten Plattformen für globale Projekte, gibt Tipps zur interkulturellen Kommunikation und erklärt wichtige Aspekte wie Rechnungsstellung und Steuern im internationalen Kontext.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Ergonomie im Homeoffice: Gesund arbeiten am Schreibtisch",
+            "description": "Langes Sitzen und falsche Haltung im Homeoffice können zu gesundheitlichen Problemen führen. Dieser Artikel gibt praktische Tipps zur ergonomischen Einrichtung Ihres Arbeitsplatzes zu Hause. Von der richtigen Stuhleinstellung über die Bildschirmposition bis hin zu einfachen Übungen für zwischendurch – so bleiben Sie fit und vermeiden Rückenschmerzen.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Master neben dem Job: Lohnt sich die Doppelbelastung?",
+            "description": "Ein Masterabschluss kann die Karriere beflügeln, doch ein Studium neben dem Beruf erfordert viel Disziplin und Zeitmanagement. Wir analysieren die Vor- und Nachteile eines berufsbegleitenden Masterstudiums. Erfahren Sie, für wen es geeignet ist, welche Finanzierungsmöglichkeiten es gibt und wie Sie die passende Hochschule finden.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Startup-Leadership: Teamführung in dynamischen Zeiten",
+            "description": "Ein Startup zu leiten, stellt besondere Anforderungen an die Führungskraft. Flexibilität, Motivation und klare Kommunikation sind entscheidend. Erfahren Sie, wie Sie ein starkes Team aufbauen, Mitarbeiter auch in stressigen Phasen motivieren und eine positive Unternehmenskultur etablieren, die Wachstum fördert. Experteninterviews und Fallbeispiele inklusive.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Jobzufriedenheit steigern: Mehr als nur das Gehalt",
+            "description": "Ein gutes Gehalt ist wichtig, aber nicht alles. Was macht wirklich zufrieden im Job? Wir beleuchten Faktoren wie Arbeitsklima, Anerkennung, Entwicklungsmöglichkeiten und Sinnhaftigkeit der Tätigkeit. Mit unserem Selbsttest finden Sie heraus, welche Aspekte für Sie persönlich zählen und wie Sie Ihre Zufriedenheit aktiv verbessern können.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Mehr Geld für Ihre Leistung: Erfolgreich verhandeln",
+            "description": "Sie finden, Ihr Gehalt entspricht nicht mehr Ihrer Erfahrung und Ihren Aufgaben? Höchste Zeit für eine Gehaltsverhandlung! Dieser Artikel erklärt Schritt für Schritt, wie Sie sich optimal vorbereiten, Ihre Argumente überzeugend präsentieren und typische Fallstricke vermeiden. Erfahren Sie, welche psychologischen Tricks helfen und wie Sie selbstbewusst auftreten.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Weiterbildung fördern: Investition in die Zukunft Ihres Unternehmens",
+            "description": "Qualifizierte Mitarbeiter sind das Kapital jedes Unternehmens. Erfahren Sie, wie Sie als Arbeitgeber gezielte Weiterbildungsmaßnahmen planen und finanzieren können. Von internen Schulungen bis zu externen Seminaren – wir zeigen auf, welche Modelle sich bewährt haben und wie Sie den Lernerfolg messen und die Motivation Ihrer Angestellten steigern.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Produktivität im Homeoffice: Schluss mit Ablenkungen!",
+            "description": "Die Arbeit von zu Hause bietet Flexibilität, birgt aber auch viele Ablenkungsgefahren. Lernen Sie bewährte Methoden kennen, um Ihre Arbeitszeit effektiv zu strukturieren, Prioritäten zu setzen und Prokrastination zu vermeiden. Praktische Tipps für eine optimale Arbeitsumgebung und digitale Tools, die Sie unterstützen.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "c",
+        "3": "g",
+        "4": "a",
+        "5": "b"
+    }
+}

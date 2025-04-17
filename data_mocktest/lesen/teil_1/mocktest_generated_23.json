@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia hat ihr Studium beendet und sucht Ratschläge für den Berufseinstieg."
+        },
+        {
+            "id": 2,
+            "description": "Ben fühlt sich bei der Arbeit oft gestresst und sucht nach Entspannungsmethoden."
+        },
+        {
+            "id": 3,
+            "description": "Maria möchte lernen, wie sie überzeugender vor Gruppen präsentieren kann."
+        },
+        {
+            "id": 4,
+            "description": "David plant die Gründung eines kleinen Online-Shops und braucht praktische Tipps."
+        },
+        {
+            "id": 5,
+            "description": "Anja möchte wissen, wie sie erfolgreich eine Gehaltserhöhung aushandeln kann."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "E-Commerce für Einsteiger: Ihr Weg zum Online-Shop",
+            "description": "Sie träumen vom eigenen Online-Geschäft? Von der Wahl der richtigen Plattform über rechtliche Grundlagen bis hin zu Marketingstrategien – dieser Artikel erklärt Schritt für Schritt, was Sie für einen erfolgreichen Start im E-Commerce beachten müssen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Fachkräftemangel: Wie Unternehmen Talente finden",
+            "description": "Viele Branchen suchen dringend qualifizierte Mitarbeiter. Dieser Artikel beleuchtet Strategien, die Unternehmen anwenden können, um attraktive Arbeitgeber zu werden und die besten Talente anzuziehen und zu halten. Fokus auf Recruiting aus Firmensicht.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Weniger Stress im Job: Strategien für mehr Gelassenheit",
+            "description": "Ständiger Druck und hohe Anforderungen können belasten. Lernen Sie effektive Methoden zur Stressbewältigung kennen, von Achtsamkeitsübungen bis zu Zeitmanagement-Techniken, die Sie direkt im Arbeitsalltag anwenden können.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Der digitale Arbeitsplatz der Zukunft",
+            "description": "Wie werden wir in zehn Jahren arbeiten? Experten diskutieren Trends wie Remote Work, künstliche Intelligenz und die Bedeutung von lebenslangem Lernen. Ein Überblick über die großen Veränderungen in der Arbeitswelt, ohne direkte Handlungsempfehlungen für heute.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Mehr Gehalt: So verhandeln Sie erfolgreich",
+            "description": "Die Gehaltsverhandlung ist ein wichtiger Karriereschritt. Bereiten Sie sich optimal vor: Analysieren Sie Ihren Marktwert, sammeln Sie Argumente für Ihre Leistung und lernen Sie Verhandlungstaktiken kennen, um Ihre finanziellen Ziele zu erreichen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Karrierestart: Erfolgreich in den ersten Beruf",
+            "description": "Der Übergang vom Studium ins Berufsleben ist eine Herausforderung. Dieser Artikel gibt Absolventen praktische Tipps für die Jobsuche, das Bewerbungsgespräch und die ersten Wochen im neuen Job. Erfahren Sie, wie Sie typische Fehler vermeiden.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Büroorganisation: Effiziente Ablagesysteme schaffen",
+            "description": "Schluss mit dem Papierchaos! Ein gut organisiertes Büro spart Zeit und Nerven. Lernen Sie bewährte Methoden kennen, um Ihre Dokumente digital und physisch optimal zu strukturieren und jederzeit schnell wiederzufinden. Praktische Tipps für den Alltag.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Überzeugend Präsentieren: Tipps für Ihren Auftritt",
+            "description": "Eine gute Präsentation kann Türen öffnen. Dieser Leitfaden zeigt Ihnen, wie Sie Inhalte klar strukturieren, visuelle Hilfsmittel wirkungsvoll einsetzen und Nervosität kontrollieren. Verbessern Sie Ihre Wirkung bei Vorträgen und Meetings.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "c",
+        "3": "h",
+        "4": "b",
+        "5": "a"
+    }
+}

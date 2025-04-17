@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Bekannten einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Florian möchte wissen, wie er seine Präsentationen überzeugender gestalten kann."
+        },
+        {
+            "id": 2,
+            "description": "Anna interessiert sich dafür, wie künstliche Intelligenz ihre Branche verändern wird."
+        },
+        {
+            "id": 3,
+            "description": "Cem sucht eine neue Stelle, die vollständig im Homeoffice ausgeübt werden kann."
+        },
+        {
+            "id": 4,
+            "description": "Sofia braucht praktische Ratschläge für den Start als Freiberuflerin."
+        },
+        {
+            "id": 5,
+            "description": "David muss verstehen, was die neuesten Datenschutzänderungen für sein Kleinunternehmen bedeuten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Jobportale für Remote-Arbeit: Die besten Plattformen",
+            "description": "Immer mehr Unternehmen bieten Stellen an, die ortsunabhängig sind. Doch wo findet man diese Angebote? Wir stellen die wichtigsten Jobbörsen vor, die sich auf Remote-Positionen spezialisiert haben, und geben Tipps für die erfolgreiche Bewerbung aus der Ferne. Finden Sie Ihren Traumjob ohne Bürozwang.",
+            "link_placeholder": "mehr..."
+        },
+        {
+            "id": "f",
+            "title": "Die digitale Transformation gestalten",
+            "description": "Die Digitalisierung verändert Wirtschaft und Gesellschaft grundlegend. Unternehmen müssen neue Technologien einführen und Prozesse anpassen, um wettbewerbsfähig zu bleiben. Lesen Sie, welche strategischen Überlegungen für eine erfolgreiche digitale Zukunft notwendig sind und wie Mitarbeiter aktiv eingebunden werden können.",
+            "link_placeholder": "mehr..."
+        },
+        {
+            "id": "c",
+            "title": "Sicher Auftreten vor Publikum",
+            "description": "Viele Fachkräfte müssen regelmäßig Ergebnisse oder Projekte präsentieren. Dieser Artikel zeigt Techniken auf, wie Sie Ihre Nervosität überwinden, Ihre Argumente klar strukturieren und Ihr Publikum durch Körpersprache und Stimme fesseln können. Mit praktischen Übungsbeispielen für den Berufsalltag.",
+            "link_placeholder": "mehr..."
+        },
+        {
+            "id": "e",
+            "title": "Update DSGVO: Was kleine Betriebe jetzt wissen müssen",
+            "description": "Die Datenschutz-Grundverordnung wurde kürzlich angepasst. Welche neuen Pflichten kommen auf Selbstständige und KMUs zu, besonders bei der Kundenkommunikation und dem Betrieb von Webseiten? Dieser Artikel fasst die wichtigsten Änderungen verständlich zusammen und gibt konkrete Handlungsempfehlungen zur Umsetzung.",
+            "link_placeholder": "mehr..."
+        },
+        {
+            "id": "g",
+            "title": "Ergonomie am Heimarbeitsplatz",
+            "description": "Arbeiten von zu Hause bietet Flexibilität, birgt aber auch Gesundheitsrisiken, wenn der Arbeitsplatz nicht passt. Falsches Sitzen kann zu Rückenschmerzen führen. Wir zeigen Ihnen, wie Sie Ihren Arbeitsplatz zu Hause optimal einrichten, vom richtigen Stuhl bis zur idealen Bildschirmeinstellung.",
+            "link_placeholder": "mehr..."
+        },
+        {
+            "id": "a",
+            "title": "Erfolgreich verhandeln im Einkauf",
+            "description": "Gute Verhandlungstechniken sind im Einkauf entscheidend, um Kosten zu senken und bessere Lieferkonditionen zu erzielen. Dieser Artikel stellt bewährte Strategien vor, wie Einkäufer Preise analysieren, Lieferanten effektiv bewerten und langfristige, stabile Partnerschaften aufbauen können. Mit Checkliste zur Vorbereitung.",
+            "link_placeholder": "mehr..."
+        },
+        {
+            "id": "d",
+            "title": "KI-Revolution im Marketing: Was kommt auf uns zu?",
+            "description": "Künstliche Intelligenz ist mehr als nur ein kurzlebiger Trend in der Werbe- und Kommunikationswelt. Erfahren Sie, wie Algorithmen bereits heute Kampagnen optimieren, Kundenverhalten präzise analysieren und völlig neue Geschäftsmodelle ermöglichen. Wir beleuchten die Chancen und Herausforderungen speziell für Marketing-Profis.",
+            "link_placeholder": "mehr..."
+        },
+        {
+            "id": "b",
+            "title": "Der Sprung in die Selbstständigkeit: Ein Leitfaden",
+            "description": "Sie träumen davon, Ihr eigener Chef zu sein und Ihre Ideen zu verwirklichen? Dieser Ratgeber begleitet Sie Schritt für Schritt: von der Entwicklung der Geschäftsidee über die notwendige Anmeldung beim Finanzamt bis hin zur wichtigen Kundengewinnung. Erfahren Sie, welche rechtlichen und finanziellen Hürden Sie meistern müssen.",
+            "link_placeholder": "mehr..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "d",
+        "3": "h",
+        "4": "b",
+        "5": "e"
+    }
+}

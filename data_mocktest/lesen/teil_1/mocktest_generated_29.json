@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Ratgeber und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia möchte nebenberuflich eine eigene Geschäftsidee umsetzen."
+        },
+        {
+            "id": 2,
+            "description": "Ben muss bald eine wichtige Präsentation halten und fühlt sich unsicher."
+        },
+        {
+            "id": 3,
+            "description": "Clara arbeitet viel von zuhause und will ihre Rechte und Pflichten kennen."
+        },
+        {
+            "id": 4,
+            "description": "David fragt sich, was in seiner Branche üblicherweise verdient wird."
+        },
+        {
+            "id": 5,
+            "description": "Sofia sucht Unterstützung für ihre berufliche Weiterentwicklung durch einen Mentor."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Homeoffice-Knigge: Was gilt rechtlich?",
+            "description": "Das Arbeiten von zu Hause ist beliebt, wirft aber Fragen auf. Wer zahlt für Strom und Internet? Wie sind Arbeitszeiten geregelt? Welche Ansprüche haben Arbeitnehmer bezüglich Ausstattung? Wir klären die wichtigsten rechtlichen Rahmenbedingungen und Pflichten für Beschäftigte im Homeoffice auf.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Neustart wagen: Erfolgreicher Quereinstieg",
+            "description": "Sie sind unzufrieden im aktuellen Job und möchten etwas ganz Neues beginnen? Ein Branchenwechsel ist möglich, erfordert aber gute Planung. Dieser Artikel beleuchtet Chancen und Risiken des Quereinstiegs und gibt Tipps für die Neuorientierung und Bewerbung in einem fremden Feld.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Karriere-Boost durch Mentoring: So finden Sie den richtigen Begleiter",
+            "description": "Ein erfahrener Mentor kann Türen öffnen und wertvolle Einblicke geben. Doch wie findet man die passende Person? Dieser Beitrag erklärt, was ein gutes Mentoring ausmacht, wo Sie potenzielle Mentoren treffen und wie Sie eine erfolgreiche Mentoring-Beziehung aufbauen und pflegen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Erfolgreich neben dem Job gründen",
+            "description": "Immer mehr Angestellte träumen vom eigenen Kleinunternehmen, aber die Vollzeitstelle aufgeben? Das muss nicht sein! Dieser Ratgeber zeigt Schritt für Schritt, wie Sie Ihre Idee nebenberuflich starten, welche rechtlichen Aspekte Sie beachten müssen und wie Sie die Doppelbelastung meistern.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Feierabend zuhause: Richtig abschalten lernen",
+            "description": "Die Grenzen zwischen Arbeit und Freizeit verschwimmen im Homeoffice oft. Wie schafft man es, nach getaner Arbeit wirklich abzuschalten und neue Energie zu tanken? Wir stellen Strategien vor, um eine gesunde Work-Life-Balance auch ohne räumliche Trennung vom Büro zu erreichen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Effizienter arbeiten: Office-Programme optimal nutzen",
+            "description": "Kennen Sie alle Funktionen Ihrer Bürosoftware? Oft schlummert ungenutztes Potenzial in Word, Excel & Co. Dieser Workshop zeigt Ihnen versteckte Tricks und Kniffe, mit denen Sie Ihre täglichen Aufgaben schneller erledigen und professionellere Ergebnisse erzielen können.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Souverän auftreten: Tipps für die perfekte Präsentation",
+            "description": "Lampenfieber vor Publikum? Schluss damit! Lernen Sie bewährte Techniken für einen überzeugenden Vortrag. Von der optimalen Vorbereitung über den richtigen Medieneinsatz bis hin zur Körpersprache – dieser Artikel liefert praktische Ratschläge, mit denen Sie Ihr Publikum begeistern.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Gehaltsreport 2024: Verdienstmöglichkeiten im Branchenvergleich",
+            "description": "Was ist Ihr Marktwert? Unser aktueller Gehaltsreport analysiert die Durchschnittsgehälter in verschiedenen Wirtschaftszweigen und Berufsfeldern. Erfahren Sie, welche Faktoren das Einkommen beeinflussen und wo Sie mit Ihren Qualifikationen im Vergleich stehen. Wichtige Informationen für Gehaltsverhandlungen.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "d",
+        "3": "c",
+        "4": "h",
+        "5": "e"
+    }
+}

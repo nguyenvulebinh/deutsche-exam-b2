@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Portal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "David bereitet sich auf wichtige Vorstellungsgespräche vor."
+        },
+        {
+            "id": 2,
+            "description": "Fatima möchte lernen, ihre Arbeitszeit besser einzuteilen."
+        },
+        {
+            "id": 3,
+            "description": "Herr Schmidt benötigt Informationen zu den rechtlichen Rahmenbedingungen für das Homeoffice."
+        },
+        {
+            "id": 4,
+            "description": "Sophia überlegt, neben ihrem Hauptjob ein kleines Unternehmen zu gründen."
+        },
+        {
+            "id": 5,
+            "description": "Jakob sucht nach Wegen, komplexe Sachverhalte in Meetings verständlich darzustellen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Das ideale Heimbüro gestalten",
+            "description": "Immer mehr Menschen arbeiten von zu Hause. Doch wie richtet man einen Arbeitsplatz ein, der sowohl funktional als auch inspirierend ist? Finden Sie hier Tipps zur ergonomischen Gestaltung, zur Auswahl der richtigen Möbel und zur Schaffung einer produktiven Arbeitsatmosphäre in den eigenen vier Wänden. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Der Schritt zum Nebengewerbe: Gründen neben dem Beruf",
+            "description": "Sie träumen davon, neben Ihrer Festanstellung eine eigene Geschäftsidee zu verwirklichen? Dieser Leitfaden erklärt, was Sie bei der Gründung eines Nebengewerbes beachten müssen – von der Anmeldung über steuerliche Aspekte bis hin zur Vereinbarkeit mit dem Hauptjob. Starten Sie gut informiert in Ihre nebenberufliche Selbstständigkeit. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreich im Vorstellungsgespräch",
+            "description": "Nervosität vor dem Job-Interview? Keine Sorge! Dieser Artikel erklärt, wie Sie sich optimal vorbereiten, häufige Fragen souverän beantworten und einen bleibenden positiven Eindruck hinterlassen. Lernen Sie die wichtigsten Dos and Don'ts kennen, um Ihren Traumjob zu bekommen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Work-Life-Balance: Mehr als nur ein Modewort",
+            "description": "Die Grenze zwischen Arbeit und Privatleben verschwimmt zusehends. Warum ist eine gesunde Balance so wichtig für Wohlbefinden und Leistungsfähigkeit? Diskutieren Sie mit Experten über die Herausforderungen moderner Arbeitswelten und langfristige Strategien für ein ausgeglichenes Leben. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Klartext reden: Komplexe Themen einfach präsentieren",
+            "description": "Wie gelingt es, auch schwierige Inhalte in Präsentationen und Meetings klar und überzeugend zu vermitteln? Dieser Artikel stellt Techniken vor, wie Sie Ihre Informationen strukturieren, Visualisierungen gezielt einsetzen und Ihr Publikum aktiv einbinden. Verbessern Sie Ihre Kommunikationsfähigkeiten nachhaltig. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Homeoffice: Was Arbeitnehmer rechtlich wissen müssen",
+            "description": "Arbeiten von zu Hause bietet Flexibilität, birgt aber auch rechtliche Fragen. Dieser Beitrag beleuchtet die aktuellen gesetzlichen Regelungen zum Thema Homeoffice. Erfahren Sie mehr über Ihre Rechte und Pflichten, Regelungen zur Arbeitszeiterfassung und zum Datenschutz im heimischen Büro. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Die perfekte Bewerbungsmappe",
+            "description": "Ihre Bewerbungsunterlagen sind der erste Eindruck, den Sie hinterlassen. Erfahren Sie, wie Sie ein überzeugendes Anschreiben formulieren und Ihren Lebenslauf optimal gestalten. Tipps zu Layout und Inhalt helfen Ihnen, sich von anderen Bewerbern abzuheben und zum Gespräch eingeladen zu werden. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Schluss mit Zeitdruck: Effizientes Zeitmanagement",
+            "description": "Fühlen Sie sich oft gehetzt und schaffen nicht alle Aufgaben? Entdecken Sie bewährte Methoden, um Prioritäten zu setzen, Ihre Zeit effektiv zu nutzen und Prokrastination zu überwinden. Praktische Tipps helfen Ihnen, den Arbeitsalltag strukturierter und stressfreier zu gestalten. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "g",
+        "3": "a",
+        "4": "e",
+        "5": "h"
+    }
+}

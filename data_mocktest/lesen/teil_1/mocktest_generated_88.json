@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken. Entscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia möchte sich nebenberuflich selbstständig machen."
+        },
+        {
+            "id": 2,
+            "description": "Markus tut sich schwer, überzeugende Bewerbungsschreiben zu formulieren."
+        },
+        {
+            "id": 3,
+            "description": "Fatima soll bald ein kleines Team leiten und sucht Rat."
+        },
+        {
+            "id": 4,
+            "description": "Stefan hat ständig Streit mit einem Kollegen und weiß nicht weiter."
+        },
+        {
+            "id": 5,
+            "description": "David arbeitet neu im Homeoffice und braucht passende digitale Werkzeuge."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Wenn Kollegen nerven: Konflikte am Arbeitsplatz lösen",
+            "description": "Meinungsverschiedenheiten im Team sind normal, doch anhaltender Streit belastet. Wie kann man Konflikte konstruktiv ansprechen und gemeinsam Lösungen finden? Praktische Strategien zur Deeskalation und zur Verbesserung der Zusammenarbeit im Büro.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Die besten Jobportale im Netz",
+            "description": "Die Suche nach einer neuen Stelle beginnt heute meist online. Doch welche Jobbörsen sind wirklich nützlich? Wir vergleichen die größten Portale, geben Tipps zur effektiven Stellensuche und zeigen, wie man Filter optimal nutzt, um passende Angebote zu finden.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Das überzeugende Anschreiben",
+            "description": "Das Anschreiben ist oft die erste Hürde im Bewerbungsprozess. Wie formuliert man es so, dass es Interesse weckt und die eigenen Stärken hervorhebt? Experten geben Ratschläge zur Struktur, zum Tonfall und zu häufigen Fehlern, die man vermeiden sollte.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Digitale Helfer für das Homeoffice",
+            "description": "Erfolgreiches Arbeiten von zu Hause erfordert die richtigen Werkzeuge. Von Kollaborationsplattformen über Projektmanagement-Software bis zu sicheren Kommunikationsmitteln – wir stellen essenzielle digitale Tools vor, die das Remote-Arbeiten erleichtern und produktiver machen.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Teambuilding-Events, die wirklich Spaß machen",
+            "description": "Gemeinsame Erlebnisse stärken den Zusammenhalt im Team. Vergessen Sie langweilige Seminare! Wir präsentieren kreative Ideen für Teamevents – vom Outdoor-Abenteuer bis zum Kochkurs – die Motivation fördern und die Kollegialität verbessern.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Erfolgreich in die nebenberufliche Selbstständigkeit",
+            "description": "Immer mehr Angestellte wagen den Schritt in die Teilzeit-Selbstständigkeit. Doch was muss man beachten, von der Anmeldung beim Finanzamt bis zur Kundenakquise? Dieser Leitfaden gibt praktische Tipps für den Start und zeigt häufige Fehlerquellen auf.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Wachstum finanzieren: Kapital für etablierte Unternehmen",
+            "description": "Ihre Firma läuft gut, aber Sie möchten expandieren? Dieser Artikel erklärt verschiedene Finanzierungsoptionen für kleine und mittlere Unternehmen (KMU), von Bankkrediten über Fördermittel bis hin zu alternativen Finanzierungsformen wie Crowdfunding für größere Projekte.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Vom Kollegen zur Führungskraft",
+            "description": "Der Wechsel in eine Führungsposition bringt neue Herausforderungen. Wie motiviert man sein Team? Wie delegiert man Aufgaben effektiv? Dieser Artikel beleuchtet wichtige Aspekte für angehende Teamleiter und gibt praxisnahe Tipps für den Einstieg in die Führungsrolle.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "c",
+        "3": "h",
+        "4": "f",
+        "5": "a"
+    }
+}

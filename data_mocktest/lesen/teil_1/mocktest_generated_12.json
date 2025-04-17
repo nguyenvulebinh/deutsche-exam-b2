@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Tobias sucht nach Tipps für seine ersten Bewerbungen nach dem Studium."
+        },
+        {
+            "id": 2,
+            "description": "Anna fühlt sich oft überfordert und sucht Strategien gegen Stress im Job."
+        },
+        {
+            "id": 3,
+            "description": "Markus möchte sich beruflich weiterentwickeln und sucht passende Kurse."
+        },
+        {
+            "id": 4,
+            "description": "Julia fragt sich, welche Rechte und Pflichten im Homeoffice gelten."
+        },
+        {
+            "id": 5,
+            "description": "David hat eine Geschäftsidee, braucht aber noch Kapitalgeber."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Weniger Stress, mehr Erfolg",
+            "description": "Hoher Arbeitsdruck und ständige Erreichbarkeit führen oft zu Erschöpfung. Doch es gibt Wege, dem entgegenzuwirken. Lernen Sie effektive Methoden zur Stressbewältigung kennen, die sich leicht in den Arbeitsalltag integrieren lassen. Experten geben praktische Ratschläge für mehr Gelassenheit und Resilienz am Arbeitsplatz.\nmehr ...",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreicher Quereinstieg: So gelingt der Jobwechsel",
+            "description": "Sie sind unzufrieden im aktuellen Job und träumen von einer neuen beruflichen Herausforderung in einer anderen Branche? Ein Quereinstieg kann die Lösung sein, erfordert aber gute Planung und Selbstmarketing. Wir zeigen erfahrenen Fachkräften, wie sie ihre bisherigen Kompetenzen nutzen und Arbeitgeber in einem neuen Feld überzeugen.\nmehr ...",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Finanzierung für Start-ups: Investoren überzeugen",
+            "description": "Eine brillante Idee allein reicht nicht aus, um ein Unternehmen zu gründen. Entscheidend ist oft das Startkapital. Erfahren Sie, welche Finanzierungsformen es gibt – von Business Angels bis Venture Capital – und wie Sie potenzielle Geldgeber mit einem soliden Businessplan und einem überzeugenden Pitch für sich gewinnen.\nmehr ...",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Lebenslanges Lernen: Weiterbildungsmöglichkeiten im Überblick",
+            "description": "Die Arbeitswelt verändert sich rasant. Wer mithalten oder aufsteigen will, muss sich kontinuierlich weiterbilden. Von Online-Seminaren über Zertifikatskurse bis hin zu berufsbegleitenden Studiengängen – wir stellen verschiedene Optionen vor und helfen Ihnen, die richtige Wahl für Ihre individuellen Karriereziele zu treffen.\nmehr ...",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Mitarbeiterförderung: Interne Weiterbildungsprogramme gestalten",
+            "description": "Qualifizierte und motivierte Mitarbeiter sind das wichtigste Kapital eines Unternehmens. Doch wie fördert man sie gezielt und bindet sie langfristig? Dieser Beitrag richtet sich an Personalverantwortliche und Führungskräfte und gibt praktische Hinweise zur Entwicklung und Implementierung erfolgreicher interner Schulungsmaßnahmen und Entwicklungspfade.\nmehr ...",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Erfolgreich bewerben nach dem Abschluss",
+            "description": "Der Übergang vom Studium ins Berufsleben ist oft herausfordernd. Viele Absolventen sind unsicher, wie sie ihre Qualifikationen optimal präsentieren. Dieser Ratgeber zeigt Schritt für Schritt, wie man überzeugende Bewerbungsunterlagen erstellt, typische Fehler vermeidet und im Vorstellungsgespräch als Berufseinsteiger punktet.\nmehr ...",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Produktiv im Homeoffice: Der ideale Arbeitsplatz",
+            "description": "Die Arbeit von zu Hause erfordert Disziplin und vor allem die richtige Umgebung. Ein ergonomischer Stuhl, gute Beleuchtung und die passende technische Ausstattung sind entscheidend für Gesundheit und Leistungsfähigkeit. Entdecken Sie Tipps und Produktempfehlungen für Ihr perfektes, konzentrationsförderndes Heimbüro.\nmehr ...",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Homeoffice: Was Arbeitnehmer wissen müssen",
+            "description": "Arbeiten von zu Hause bietet Flexibilität, wirft aber auch rechtliche und organisatorische Fragen auf. Wer trägt die Kosten für die Arbeitsmittel? Wie sind Arbeitszeiten und Pausen geregelt? Und was gilt beim Datenschutz und bei der Versicherung? Dieser Artikel klärt die wichtigsten Rechte und Pflichten für Arbeitnehmer im Homeoffice.\nmehr ...",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "g",
+        "5": "e"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Leon hat sein Studium abgeschlossen und sucht nun seinen ersten Job."
+        },
+        {
+            "id": 2,
+            "description": "Anna merkt, dass ihre digitalen Kenntnisse für ihre Arbeit nicht mehr ausreichen."
+        },
+        {
+            "id": 3,
+            "description": "David hat oft Konflikte mit einem Kollegen und sucht nach Lösungen."
+        },
+        {
+            "id": 4,
+            "description": "Sofia möchte nebenberuflich als Freiberuflerin arbeiten und braucht Starthilfe."
+        },
+        {
+            "id": 5,
+            "description": "Markus ist in seiner Branche unzufrieden und erwägt einen kompletten Berufswechsel."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Erfolgreich in die nebenberufliche Selbstständigkeit",
+            "description": "Immer mehr Angestellte wagen den Schritt in die nebenberufliche Selbstständigkeit. Doch was muss man beachten? Von der Anmeldung über Steuern bis zur Kundengewinnung – dieser Leitfaden gibt wichtige Tipps für Freiberufler im Nebenerwerb.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Aufstieg zur Führungskraft",
+            "description": "Sie haben bereits Berufserfahrung gesammelt und streben eine Position mit Personalverantwortung an? Dieser Artikel beleuchtet die notwendigen Qualifikationen, typische Herausforderungen im Management und wie Sie den nächsten Karriereschritt gezielt planen können.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Fit für die digitale Arbeitswelt",
+            "description": "Die Digitalisierung verändert fast jeden Beruf. Wer mithalten will, muss seine Kompetenzen ständig erweitern. Erfahren Sie, welche digitalen Fähigkeiten besonders gefragt sind und wo Sie passende Weiterbildungsangebote finden, um beruflich am Ball zu bleiben.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Neustart wagen: Der Weg zum Branchenwechsel",
+            "description": "Fühlen Sie sich in Ihrem Job nicht mehr wohl? Ein Branchenwechsel kann neue Perspektiven eröffnen, ist aber auch ein großer Schritt. Wir erklären, wie Sie Ihre Chancen realistisch einschätzen, sich vorbereiten und den Quereinstieg erfolgreich meistern.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gesellschaft im Wandel: Die Macht der Digitalisierung",
+            "description": "Wie verändern Smartphones, soziale Medien und künstliche Intelligenz unser Zusammenleben? Diese Analyse untersucht die tiefgreifenden Auswirkungen der Digitalisierung auf Kultur, Politik und soziale Beziehungen in Deutschland und weltweit.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Der Sprung ins Berufsleben",
+            "description": "Der Übergang von der Universität in den ersten Job kann herausfordernd sein. Viele Absolventen fühlen sich unsicher. Dieser Artikel gibt praktische Ratschläge zu Bewerbungsstrategien, typischen Fehlern bei Vorstellungsgesprächen und wie man sich erfolgreich auf dem Arbeitsmarkt positioniert.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Gesund am Arbeitsplatz: Ergonomie im Büro",
+            "description": "Langes Sitzen belastet den Körper. Rückenschmerzen und Verspannungen sind oft die Folge. Erfahren Sie, wie Sie Ihren Arbeitsplatz ergonomisch gestalten, welche Bürostühle empfehlenswert sind und wie einfache Übungen helfen können, fit zu bleiben.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Streit im Büro – Was tun?",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind normal, können aber die Zusammenarbeit belasten. Dieser Ratgeber zeigt konstruktive Wege auf, wie Sie Konflikte ansprechen, Missverständnisse klären und zu einer besseren Arbeitsatmosphäre mit Kollegen beitragen können.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "a",
+        "3": "c",
+        "4": "e",
+        "5": "h"
+    }
+}

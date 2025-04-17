@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken. Entscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "David sucht Tipps für sein erstes Bewerbungsgespräch."
+        },
+        {
+            "id": 2,
+            "description": "Julia fühlt sich bei ihrer Arbeit oft unterfordert."
+        },
+        {
+            "id": 3,
+            "description": "Markus möchte sich als Berater selbstständig machen."
+        },
+        {
+            "id": 4,
+            "description": "Sabine findet nach Feierabend keine Ruhe mehr."
+        },
+        {
+            "id": 5,
+            "description": "Chen braucht Hilfe beim Verfassen professioneller E-Mails."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Feierabend – aber der Kopf arbeitet weiter?",
+            "description": "Viele Berufstätige kennen das Problem: Obwohl die Arbeit erledigt ist, kreisen die Gedanken weiter um Projekte und Deadlines. Das kann zu chronischem Stress führen. Experten erklären, warum das Abschalten so wichtig ist und geben Tipps, wie man nach Büroschluss wirklich zur Ruhe kommt.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Die Zukunft der Büroarbeit",
+            "description": "Homeoffice, flexible Arbeitszeiten, digitale Nomaden – die Arbeitswelt verändert sich rasant. Welche Trends werden sich durchsetzen? Wie werden wir in zehn Jahren arbeiten? Ein Blick auf aktuelle Studien und Prognosen von Arbeitsmarktexperten zur Entwicklung moderner Arbeitsplätze.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Boreout – Wenn der Job zur Qual wird",
+            "description": "Nicht nur Stress, auch ständige Unterforderung kann krank machen. Das sogenannte Boreout-Syndrom betrifft immer mehr Arbeitnehmer. Erfahren Sie, woran Sie erkennen, ob Sie betroffen sind, und welche Strategien helfen, wieder mehr Sinn und Herausforderung in Ihrer Tätigkeit zu finden.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Professionelle E-Mail-Kommunikation",
+            "description": "Die E-Mail ist ein zentrales Kommunikationsmittel im Berufsleben. Doch schlechter Stil oder unklare Formulierungen können schnell zu Missverständnissen führen. Dieser Ratgeber zeigt, wie Sie Anreden korrekt formulieren, einen professionellen Ton treffen und Ihre Nachrichten klar und effektiv gestalten.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Gehaltsverhandlung: Mehr Geld für Ihre Arbeit",
+            "description": "Sie leisten gute Arbeit, aber Ihr Gehalt spiegelt das nicht wider? Eine Gehaltsverhandlung ist oft der richtige Schritt. Erfahren Sie, wie Sie sich optimal vorbereiten, überzeugende Argumente finden und erfolgreich mehr Lohn oder Zusatzleistungen für Ihre Leistung aushandeln können.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreich im Vorstellungsgespräch",
+            "description": "Das erste Vorstellungsgespräch ist oft eine nervenaufreibende Angelegenheit. Wie bereitet man sich optimal vor? Welche Fragen werden häufig gestellt und wie antwortet man souverän? Dieser Artikel gibt praktische Ratschläge für einen gelungenen Auftritt und erklärt, wie Sie typische Fehler vermeiden.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Nebenjob gesucht? Tipps für Studierende",
+            "description": "Das Studium ist teuer, und viele Studierende suchen nach Möglichkeiten, nebenbei Geld zu verdienen. Doch welcher Nebenjob passt zum Studium und lässt sich gut integrieren? Wir stellen beliebte Studentenjobs vor und geben Tipps zur Jobsuche und zu rechtlichen Rahmenbedingungen.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Der Weg in die Selbstständigkeit als Berater",
+            "description": "Viele träumen davon, ihr eigener Chef zu sein. Gerade im Beratungssektor gibt es gute Chancen für Freiberufler. Doch welche Schritte sind notwendig? Von der Geschäftsidee über den Businessplan bis zu rechtlichen Aspekten und der Kundengewinnung – dieser Leitfaden hilft beim Start.",
+            "link_text": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "e",
+        "3": "h",
+        "4": "c",
+        "5": "b"
+    }
+}

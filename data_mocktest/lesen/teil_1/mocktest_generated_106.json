@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Markus fühlt sich in seinem aktuellen Job unterfordert und sucht neue Herausforderungen."
+        },
+        {
+            "id": 2,
+            "description": "Herr Müller (60) möchte lernen, wie er digitale Tools im Büro besser nutzen kann."
+        },
+        {
+            "id": 3,
+            "description": "Sofia möchte ein kleines Café eröffnen und braucht Infos zu Genehmigungen."
+        },
+        {
+            "id": 4,
+            "description": "Ahmed möchte mehr Zeit für seine Familie haben und sucht flexible Arbeitsmodelle."
+        },
+        {
+            "id": 5,
+            "description": "Lea sucht nach dem Studium eine Stelle im Bereich Umweltschutz."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Grüne Karrierewege: Einstieg in die Umweltbranche finden.",
+            "description": "Der Umweltsektor boomt und bietet vielfältige Jobmöglichkeiten für Absolventen und Berufserfahrene. Wo findet man passende Stellenangebote? Welche Qualifikationen sind gefragt? Dieser Beitrag gibt einen Überblick über Berufsfelder im Umweltschutz und Tipps für eine erfolgreiche Bewerbung.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Digital fit im Job – Auch für die Generation 50+.",
+            "description": "Die Digitalisierung verändert alle Arbeitsbereiche. Ältere Mitarbeiter fühlen sich manchmal überfordert. Dieser Ratgeber zeigt, wie auch erfahrene Arbeitskräfte digitale Kompetenzen gezielt aufbauen und souverän im modernen Büroalltag agieren können, mit praktischen Tipps und Kursvorschlägen.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Zeit für einen Wechsel? So planen Sie Ihre berufliche Neuorientierung.",
+            "description": "Viele Arbeitnehmer spüren irgendwann den Wunsch nach Veränderung. Doch wann ist der richtige Zeitpunkt für einen Jobwechsel gekommen? Dieser Artikel analysiert typische Anzeichen für Unzufriedenheit und bietet eine Schritt-für-Schritt-Anleitung, wie Sie Ihre berufliche Zukunft neu gestalten und den Übergang erfolgreich meistern.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Digitale Transformation: So rüsten Unternehmen für die Zukunft.",
+            "description": "Die Digitalisierung stellt Unternehmen vor große Herausforderungen, bietet aber auch enorme Chancen. Erfahren Sie, welche Technologien jetzt wichtig sind und wie Firmen den digitalen Wandel erfolgreich gestalten können, um wettbewerbsfähig zu bleiben. Experteninterviews und Fallstudien zeigen Lösungsansätze.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Freiheit Freelancer: Traumjob oder unsichere Existenz?",
+            "description": "Viele träumen von der flexiblen Arbeit als Freelancer: eigene Zeiteinteilung, freie Projektwahl. Doch die Selbstständigkeit birgt auch Risiken wie schwankende Auftragslage und fehlende soziale Absicherung. Ein Erfahrungsbericht beleuchtet die Realität des freien Berufslebens.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Flexibel Arbeiten: Modelle für eine bessere Work-Life-Balance.",
+            "description": "Home-Office, Teilzeit, Gleitzeit – flexible Arbeitsregelungen werden immer beliebter. Welche Möglichkeiten gibt es und welche passen zu Ihrer Lebenssituation? Dieser Artikel stellt verschiedene Modelle vor, diskutiert Vor- und Nachteile und gibt Tipps für die Verhandlung mit dem Arbeitgeber.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Arbeitswelt 2030: Was erwartet uns?",
+            "description": "Künstliche Intelligenz, Globalisierung, neue Arbeitsformen – die Berufswelt ist im Umbruch. Welche Trends werden die nächsten Jahre prägen? Wie müssen sich Arbeitnehmer und Arbeitgeber darauf einstellen? Eine Zukunftsanalyse mit Expertenmeinungen zu den Megatrends der Arbeit.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Gründungskompass: Welche Behördengänge sind unvermeidlich?",
+            "description": "Der Traum vom eigenen Geschäft ist schön, der Weg dorthin oft bürokratisch. Welche Anmeldungen sind Pflicht? Benötigen Sie spezielle Lizenzen, z.B. im Gastgewerbe? Unser Leitfaden erklärt die wichtigsten rechtlichen Schritte und Anlaufstellen für Gründerinnen und Gründer in Deutschland.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "a",
+        "3": "c",
+        "4": "e",
+        "5": "b"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einer Wirtschaftszeitung und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+      {
+        "id": 1,
+        "description": "Clara plant, einen eigenen Laden zu eröffnen."
+      },
+      {
+        "id": 2,
+        "description": "Simon will lernen, wie man Webseiten programmiert."
+      },
+      {
+        "id": 3,
+        "description": "Mariana überlegt, die Stelle zu wechseln."
+      },
+      {
+        "id": 4,
+        "description": "Nader möchte nach seinem Schulabschluss erste Berufserfahrungen sammeln."
+      },
+      {
+        "id": 5,
+        "description": "Leah fragt sich, ob sie zu wenig verdient."
+      }
+    ],
+    "articles": [
+      {
+        "id": "a",
+        "title": "Fertig mit der Schule – was jetzt?",
+        "description": "Wer vor einer Ausbildung oder einem Studium zuerst einmal herausfinden möchte, welcher Beruf gut zur eigenen Persönlichkeit passt, kann bei einem Praktikum in einem größeren Betrieb gleich verschiedene Berufe kennenlernen. Lesen Sie hier den Erfahrungsbericht unserer derzeitigen Praktikantin."
+      },
+      {
+        "id": "b",
+        "title": "In wenigen Schritten zum eigenen Internetauftritt",
+        "description": "Ohne Selbstdarstellung im World Wide Web kommt man heutzutage im Arbeitsleben nicht weit, ganz egal in welcher Branche. Aber vor allem junge Unternehmer*innen können sich oft keine teuren externen Profis leisten und gestalten und erstellen ihre Webseiten selbst. Wir haben deshalb für Sie entsprechende Anleitungen bewertet."
+      },
+      {
+        "id": "c",
+        "title": "Entspannt durch den Büroalltag",
+        "description": "Wer kennt das nicht? Sie sitzen den ganzen Tag am Computer und schon vormittags schmerzen die Schultern, der Nacken und der Rücken. Das muss nicht sein! Mit unserem zehnminütigen Gymnastikprogramm kommen Sie gut durch den Bürotag!"
+      },
+      {
+        "id": "d",
+        "title": "Vom Traum zur Gründung",
+        "description": "Die Erfolgsautorin Tatjana Vollmer beschreibt in ihrem neuesten Buch, wie Sie sich erfolgreich selbstständig machen können. Von der Geschäftsidee über den Businessplan und die Finanzierung bis zum passenden Internetauftritt: Hier bekommen Sie wertvolle Tipps, worauf Sie wirklich achten müssen!"
+      },
+      {
+        "id": "e",
+        "title": "Gründer raus aus der Schuldenfalle",
+        "description": "Ihre Firma hat weniger Aufträge als erwartet und Sie können Ihre Verbindlichkeiten wie Kredite oder die Gewerbemiete für Ihre Geschäftsräume nicht mehr bezahlen? Unsere Finanzberaterin Constanze Hansen gibt Tipps, wie Sie die Finanzen Ihres Unternehmens wieder in den Griff bekommen können."
+      },
+      {
+        "id": "f",
+        "title": "Gleicher Lohn für gleiche Arbeit –",
+        "description": "so sollte es eigentlich sein, aber oft sieht die Realität in Deutschland noch anders aus. Häufig verdienen Frauen mit denselben Abschlüssen und Qualifikationen weniger als ihre männlichen Kollegen. Warum das so ist und was man dagegen tun kann, erfahren Sie hier."
+      },
+      {
+        "id": "g",
+        "title": "Die Jobs der Zukunft",
+        "description": "Die Digitalisierung verändert unser Arbeitsleben zunehmend. In unserer Hintergrundreportage stellen wir Ihnen in diesem Zusammenhang neu entstehende Berufsfelder vor und fragen uns, wie die Menschen in 20 Jahren arbeiten werden."
+      },
+      {
+        "id": "h",
+        "title": "Wie zufrieden sind Sie mit Ihrer Arbeit?",
+        "description": "Für alle, die sich fragen, ob sie nach neuen beruflichen Herausforderungen suchen sollten, hat unsere Arbeitspsychologin Sandra Hauser einen Fragebogen entwickelt. Dieser erleichtert die Entscheidung, ob man besser bleibt oder doch lieber geht."
+      }
+    ],
+    "solutions": {
+      "1": "d",
+      "2": "b",
+      "3": "h",
+      "4": "a",
+      "5": "f"
+    }
+  }
+  

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriereportal und möchten Ihren Freunden oder Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia möchte wissen, wie sie ihre Arbeitszeit besser organisieren kann."
+        },
+        {
+            "id": 2,
+            "description": "Marco sucht nach Ratschlägen für sein erstes Bewerbungsgespräch als Hochschulabsolvent."
+        },
+        {
+            "id": 3,
+            "description": "Sofia überlegt, ein Sabbatical zu nehmen, und braucht Informationen zu den rechtlichen Rahmenbedingungen."
+        },
+        {
+            "id": 4,
+            "description": "David führt ein kleines Team und möchte seine Führungsqualitäten verbessern."
+        },
+        {
+            "id": 5,
+            "description": "Anja interessiert sich für die neuesten Trends im Bereich Homeoffice und flexibles Arbeiten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Effektives Zeitmanagement im Berufsalltag",
+            "description": "Viele Berufstätige fühlen sich überfordert und haben Mühe, alle Aufgaben zu erledigen. Dieser Artikel stellt bewährte Methoden vor, wie Sie Ihre Zeit besser einteilen, Prioritäten setzen und dadurch produktiver und stressfreier arbeiten können. Praktische Tipps für den sofortigen Einsatz.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Das erste Jobinterview nach dem Studium meistern",
+            "description": "Der Abschluss ist geschafft, die Einladung zum Vorstellungsgespräch liegt vor. Doch was erwartet Absolventen im ersten Interview? Dieser Ratgeber erklärt, wie Sie sich optimal vorbereiten, typische Fragen souverän beantworten und einen überzeugenden Eindruck hinterlassen.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Auszeit vom Job: Rechtliche Aspekte eines Sabbaticals",
+            "description": "Immer mehr Arbeitnehmer träumen von einer längeren Auszeit. Doch wie funktioniert ein Sabbatical rechtlich? Welche Vereinbarungen müssen mit dem Arbeitgeber getroffen werden und was gilt es bei Versicherung und Gehalt zu beachten? Wir klären die wichtigsten Fragen.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Jobsuche 2024: Die besten Strategien für alle Branchen",
+            "description": "Der Arbeitsmarkt ist ständig in Bewegung. Wie findet man heute erfolgreich eine neue Stelle? Wir zeigen Ihnen die effektivsten Methoden der Jobsuche, von Online-Portalen bis hin zu Initiativbewerbungen. Für Berufseinsteiger und erfahrene Fachkräfte gleichermaßen relevant.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreich führen: Tipps für (angehende) Teamleiter",
+            "description": "Die erste Führungsrolle bringt neue Herausforderungen mit sich. Wie motiviert man sein Team? Wie delegiert man Aufgaben richtig? Dieser Artikel bietet praxisnahe Ratschläge und Methoden, um grundlegende Führungskompetenzen aufzubauen und das Team zum Erfolg zu führen.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Gesundes Arbeiten: Ergonomie am Büroarbeitsplatz",
+            "description": "Rückenschmerzen und Verspannungen sind häufige Probleme bei Büroarbeit. Erfahren Sie, wie Sie Ihren Arbeitsplatz ergonomisch gestalten, welche Büromöbel sinnvoll sind und wie kleine Pausenübungen zu mehr Wohlbefinden beitragen können. Für Ihre Gesundheit im Büro.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Die Zukunft der Arbeit: Trends im Homeoffice und flexiblen Modellen",
+            "description": "Remote Work ist mehr als nur ein Trend. Erfahren Sie, welche neuen Modelle für flexibles Arbeiten sich etablieren, welche Technologien die Zusammenarbeit auf Distanz erleichtern und wie Unternehmen und Mitarbeiter von den Entwicklungen profitieren können. Ein Überblick.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Der Weg in die Selbständigkeit: Existenzgründung leicht gemacht?",
+            "description": "Sie träumen davon, Ihr eigener Chef zu sein? Eine Firmengründung erfordert Mut und gute Planung. Dieser Leitfaden erklärt die wichtigsten Schritte von der Idee bis zum Businessplan und beleuchtet typische Hürden für Start-ups.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "h",
+        "3": "g",
+        "4": "f",
+        "5": "a"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia möchte nach ihrer Elternzeit wieder arbeiten und braucht Hilfe beim Lebenslauf."
+        },
+        {
+            "id": 2,
+            "description": "Markus steht vor seiner Gehaltsverhandlung und will gut vorbereitet sein."
+        },
+        {
+            "id": 3,
+            "description": "Sabine arbeitet Vollzeit, möchte sich aber nebenberuflich weiterbilden."
+        },
+        {
+            "id": 4,
+            "description": "Thomas hat Schwierigkeiten, Meinungsverschiedenheiten in seinem Team zu lösen."
+        },
+        {
+            "id": 5,
+            "description": "Fatima arbeitet oft von zu Hause und fragt sich nach den rechtlichen Regeln."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Konflikte im Team? Strategien zur konstruktiven Lösung",
+            "description": "Wo Menschen zusammenarbeiten, gibt es auch mal Reibung. Ignorieren ist keine Lösung. Dieser Beitrag erklärt, wie Sie Konflikte früh erkennen, ansprechen und gemeinsam mit Ihren Kollegen faire Lösungen finden können. Fördern Sie ein positives Arbeitsklima.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Arbeitsmarkt im Wandel: Diese Branchen boomen",
+            "description": "Die Digitalisierung und Globalisierung verändern die Berufswelt rasant. Welche Sektoren bieten die besten Zukunftsaussichten? Wo entstehen neue Jobs? Eine Analyse der aktuellen Trends und Prognosen für die kommenden Jahre auf Basis neuer Studien.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Mehr Geld verdienen: Erfolgreich das Gehalt verhandeln",
+            "description": "Die nächste Gehaltsrunde steht an? Eine gute Vorbereitung ist entscheidend. Lernen Sie die besten Argumente kennen, erfahren Sie, welcher Zeitpunkt günstig ist und wie Sie auf Gegenangebote souverän reagieren. So holen Sie das Beste für sich heraus.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Homeoffice-Regeln: Was Arbeitnehmer wissen müssen",
+            "description": "Arbeiten von zu Hause bietet Flexibilität, wirft aber auch rechtliche Fragen auf. Wer zahlt die Ausstattung? Wie sind Arbeitszeiten geregelt? Was gilt beim Datenschutz? Ein Überblick über die aktuelle Rechtslage und Ihre Ansprüche als Angestellte/r.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Jobben neben dem Studium: Tipps für Studierende",
+            "description": "Viele Studierende müssen neben dem Lernen Geld verdienen. Ob Kellnern, Nachhilfe geben oder im Büro aushelfen – die Möglichkeiten sind vielfältig. Wir zeigen, worauf Sie bei der Suche achten sollten und wie Sie Job und Studium gut vereinbaren können.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Lebenslauf nach der Pause: So gelingt der Wiedereinstieg",
+            "description": "Viele Fachkräfte fragen sich nach einer Auszeit, wie sie ihren Lebenslauf optimal gestalten. Dieser Artikel zeigt, wie Sie Lücken positiv darstellen und Ihre Berufserfahrung aktuell präsentieren. Praktische Beispiele und Formulierungshilfen inklusive.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Das produktive Büro: Arbeitsplatzgestaltung optimieren",
+            "description": "Licht, Lärm, Ergonomie – die Gestaltung des Arbeitsplatzes hat großen Einfluss auf Wohlbefinden und Leistung. Erfahren Sie, wie Sie mit einfachen Mitteln Ihr Büro oder Ihren Arbeitsbereich zu Hause effizienter und angenehmer gestalten können.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Weiterbildung neben dem Beruf: Flexible Lernmodelle",
+            "description": "Berufstätige, die sich weiterqualifizieren möchten, stehen oft vor einer Zeitfrage. Wir stellen verschiedene Modelle vor – von Abendkursen über Online-Seminare bis zum Fernstudium. Finden Sie heraus, welche Option am besten zu Ihrem Arbeitsalltag passt.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "h",
+        "2": "d",
+        "3": "b",
+        "4": "a",
+        "5": "g"
+    }
+}

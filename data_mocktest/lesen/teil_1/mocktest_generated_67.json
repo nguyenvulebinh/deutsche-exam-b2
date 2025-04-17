@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Stefan beginnt nächste Woche eine neue Stelle und ist etwas nervös."
+        },
+        {
+            "id": 2,
+            "description": "Maria muss bald eine wichtige Präsentation halten und möchte überzeugender wirken."
+        },
+        {
+            "id": 3,
+            "description": "Ben arbeitet jetzt dauerhaft im Homeoffice und sucht Infos zu rechtlichen Rahmenbedingungen."
+        },
+        {
+            "id": 4,
+            "description": "Julia hat oft Meinungsverschiedenheiten mit einem Kollegen und weiß nicht, wie sie reagieren soll."
+        },
+        {
+            "id": 5,
+            "description": "David ist unzufrieden in seinem Job und denkt über einen beruflichen Neuanfang nach."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Konflikte am Arbeitsplatz lösen",
+            "description": "Reibereien und Streitigkeiten im Team können die Arbeitsatmosphäre stark belasten und die Produktivität mindern. Erfahren Sie, wie Sie professionell mit Konflikten umgehen, konstruktive Gespräche führen und gemeinsame Lösungen finden können. Wir stellen Ihnen bewährte Methoden zur Deeskalation und fairen Konfliktbewältigung vor. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Effektive Jobsuche: Strategien für Bewerber",
+            "description": "Der Arbeitsmarkt ist kompetitiv. Wie heben Sie sich von anderen Bewerbern ab und finden den passenden Job? Dieser Artikel gibt wertvolle Tipps für die Optimierung Ihrer Bewerbungsunterlagen, die Nutzung von Online-Jobbörsen und die überzeugende Vorbereitung auf das Vorstellungsgespräch. So steigern Sie Ihre Chancen auf den Traumjob. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Die ersten 100 Tage im neuen Job",
+            "description": "Der Start in einer neuen Firma ist entscheidend für den weiteren Karriereverlauf und das Wohlbefinden. Wie hinterlassen Sie einen positiven ersten Eindruck bei Kollegen und Vorgesetzten? Welche typischen Fehler sollten Sie in der Probezeit unbedingt vermeiden? Dieser Ratgeber fasst die wichtigsten Do's und Don'ts zusammen. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Produktivität im Homeoffice steigern",
+            "description": "Das Arbeiten von zu Hause erfordert Disziplin und gute Organisation. Wie strukturieren Sie Ihren Tag optimal, um konzentriert zu bleiben? Welche Tools helfen bei der Aufgabenverwaltung und Kommunikation im Team? Entdecken Sie praktische Strategien, um auch im heimischen Umfeld effizient zu arbeiten und Ablenkungen zu minimieren. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Karrierewechsel mit 40+? So gelingt die Neuorientierung",
+            "description": "Sie spüren, dass es Zeit für eine berufliche Veränderung ist, wissen aber nicht genau, wohin die Reise gehen soll? Dieser Ratgeber unterstützt Sie bei der ehrlichen Standortbestimmung, hilft Ihnen, Ihre Stärken und Interessen neu zu bewerten und zeigt konkrete Schritte für einen erfolgreichen Quereinstieg auf, auch mitten im Berufsleben. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Sicher und souverän präsentieren",
+            "description": "Viele Fachkräfte müssen regelmäßig vor Kunden, Kollegen oder Vorgesetzten sprechen, fühlen sich dabei aber unsicher. Lernen Sie bewährte Techniken, um Ihre Nervosität zu kontrollieren, Ihre Inhalte klar zu strukturieren und Ihr Publikum zu fesseln. Von der richtigen Vorbereitung über den Medieneinsatz bis zum Umgang mit Lampenfieber. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Business-Knigge: Dos and Don'ts im Berufsalltag",
+            "description": "Ein professionelles und höfliches Auftreten ist im Geschäftsleben unerlässlich. Welche ungeschriebenen Regeln gelten bei Meetings, Geschäftsessen oder im E-Mail-Verkehr? Dieser Leitfaden frischt Ihr Wissen über moderne Umgangsformen im Beruf auf und hilft Ihnen, typische Fettnäpfchen im Umgang mit Kollegen und Geschäftspartnern zu vermeiden. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Homeoffice: Was Arbeitnehmer wissen müssen",
+            "description": "Immer mehr Unternehmen ermöglichen das Arbeiten von zu Hause. Doch welche Rechte und Pflichten haben Angestellte? Was gilt rechtlich bezüglich Arbeitszeiten, Datenschutz und der Ausstattung des Arbeitsplatzes? Dieser Artikel klärt die wichtigsten Fragen für Arbeitnehmer im Homeoffice und zeigt auf, was vertraglich geregelt sein sollte. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "b",
+        "3": "f",
+        "4": "c",
+        "5": "e"
+    }
+}

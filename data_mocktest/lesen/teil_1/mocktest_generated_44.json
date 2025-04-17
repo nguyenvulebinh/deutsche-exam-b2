@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Ratgeber-Magazin für Beruf und Karriere und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia hat oft Meinungsverschiedenheiten mit ihren Arbeitskollegen."
+        },
+        {
+            "id": 2,
+            "description": "Ben schließt bald sein Studium ab und sucht Tipps für Bewerbungsschreiben."
+        },
+        {
+            "id": 3,
+            "description": "Maria muss öfter Präsentationen halten und möchte dabei sicherer werden."
+        },
+        {
+            "id": 4,
+            "description": "David denkt über einen Wechsel in einen sozialen Beruf nach."
+        },
+        {
+            "id": 5,
+            "description": "Sofia arbeitet freiberuflich und hat Schwierigkeiten, ihre Zeit gut einzuteilen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Zeitmanagement für Selbstständige: Mehr Struktur im Freelancer-Alltag",
+            "description": "Freiberufler genießen viele Freiheiten, kämpfen aber oft mit der Zeitplanung. Entdecken Sie effektive Techniken wie Zeitblöcke, Priorisierung und digitale Tools, um Projekte pünktlich abzuschließen, Prokrastination zu vermeiden und eine gesunde Work-Life-Balance zu finden.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die perfekte Bewerbung nach dem Studium",
+            "description": "Der Übergang vom Studium ins Berufsleben ist eine Herausforderung. Wir erklären Schritt für Schritt, wie Absolventen einen überzeugenden Lebenslauf und ein aussagekräftiges Anschreiben verfassen. Mit unseren Mustern und Formulierungshilfen erhöhen Sie Ihre Chancen auf ein Vorstellungsgespräch.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Arbeitsrecht: Was bei Kündigungen zu beachten ist",
+            "description": "Die Beendigung eines Arbeitsverhältnisses ist für Arbeitgeber und Arbeitnehmer heikel. Dieser Artikel erläutert die rechtlichen Rahmenbedingungen, Fristen und notwendigen Schritte bei einer Kündigung aus Sicht des Unternehmens. Wichtige Informationen zur Vermeidung rechtlicher Fehler.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Quereinstieg in den sozialen Sektor: Chancen und Wege",
+            "description": "Sie möchten einer sinnstiftenden Tätigkeit nachgehen? Der soziale Bereich bietet vielfältige Möglichkeiten, auch für Berufswechsler. Erfahren Sie, welche Qualifikationen gefragt sind, welche Arbeitsfelder existieren und wie Sie den Umstieg erfolgreich planen und gestalten können.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Lebenslanges Lernen: Warum Weiterbildung so wichtig ist",
+            "description": "Die Arbeitswelt verändert sich rasant. Ständige Weiterbildung ist der Schlüssel, um beruflich am Ball zu bleiben und die eigene Karriere voranzutreiben. Erfahren Sie, welche Vorteile kontinuierliches Lernen bietet und wie Sie passende Angebote finden können.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Konflikte im Team lösen",
+            "description": "Reibungen am Arbeitsplatz sind normal, können aber die Zusammenarbeit belasten. Dieser Artikel zeigt bewährte Kommunikationsmethoden, um Meinungsverschiedenheiten konstruktiv anzusprechen und gemeinsame Lösungen mit Kollegen zu finden. Lernen Sie, wie Sie eine positive Arbeitsatmosphäre fördern.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Die neuesten Tools für beeindruckende Online-Präsentationen",
+            "description": "Moderne Software bietet innovative Möglichkeiten für visuell ansprechende Präsentationen. Wir stellen die aktuellsten Programme und Online-Plattformen vor, mit denen Sie Ihre Folien mit Animationen, Videos und interaktiven Elementen gestalten können. Bringen Sie Ihre Technik auf den neuesten Stand.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Souverän präsentieren – Mehr Ausstrahlung vor Publikum",
+            "description": "Ob im Meeting oder vor Kunden – eine gelungene Präsentation überzeugt. Dieser Ratgeber bietet praktische Übungen gegen Lampenfieber und Tipps für einen klaren Aufbau, überzeugende Argumentation und den wirkungsvollen Einsatz von Körpersprache. So werden Ihre nächsten Vorträge ein Erfolg.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "b",
+        "3": "h",
+        "4": "g",
+        "5": "f"
+    }
+}

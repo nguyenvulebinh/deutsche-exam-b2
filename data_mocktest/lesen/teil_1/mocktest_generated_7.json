@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julian denkt darüber nach, seine Wochenarbeitszeit zu verkürzen."
+        },
+        {
+            "id": 2,
+            "description": "Maria findet die neuen digitalen Anforderungen an ihrem Arbeitsplatz schwierig."
+        },
+        {
+            "id": 3,
+            "description": "Anna sucht nach ihrer Elternzeit eine neue berufliche Herausforderung."
+        },
+        {
+            "id": 4,
+            "description": "Ben übernimmt bald zum ersten Mal eine Teamleitungsfunktion."
+        },
+        {
+            "id": 5,
+            "description": "Leo hat Schwierigkeiten in der Zusammenarbeit mit einem bestimmten Kollegen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Vom Kollegen zum Vorgesetzten: Die ersten Schritte als Führungskraft",
+            "description": "Die Beförderung zur Führungskraft ist ein großer Schritt. Plötzlich trägt man Verantwortung für ein Team. Wie etabliert man Autorität, ohne arrogant zu wirken? Wie motiviert man Mitarbeiter? Dieser Ratgeber bietet praxisnahe Empfehlungen für angehende Führungskräfte in ihrer neuen Rolle.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Überstunden: Was ist rechtlich erlaubt?",
+            "description": "Viele Arbeitnehmer leisten regelmäßig Überstunden. Doch wann ist Mehrarbeit zulässig und wie muss sie vergütet oder ausgeglichen werden? Nicht immer sind die Regelungen im Arbeitsvertrag klar. Dieser Artikel erklärt die gesetzlichen Bestimmungen zu Überstunden und Pausenzeiten.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Fit für die digitale Arbeitswelt",
+            "description": "Die Digitalisierung verändert fast jeden Job. Wer mithalten will, muss seine Kompetenzen erweitern. Viele Arbeitgeber bieten Weiterbildungen an, aber auch Eigeninitiative ist gefragt. Wir zeigen, welche digitalen Grundkenntnisse heute unerlässlich sind und wie man sie sich aneignen kann, auch ohne Technik-Experte zu sein.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Digitalisierung: Welche Jobs sind bedroht?",
+            "description": "Automatisierung und künstliche Intelligenz verändern die Arbeitswelt rasant. Während neue Berufe entstehen, geraten traditionelle Tätigkeiten unter Druck. Eine aktuelle Studie analysiert, welche Branchen und Qualifikationen besonders vom Wandel betroffen sind und wie sich die Arbeitslosenzahlen entwickeln könnten.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Wiedereinstieg nach der Pause: So klappt's!",
+            "description": "Nach einer längeren Auszeit, wie z.B. der Elternzeit, ist der Weg zurück in den Beruf oft mit Unsicherheiten verbunden. Wie präsentiere ich die Lücke im Lebenslauf? Welche Branchen sind besonders offen für Wiedereinsteiger? Experten geben praktische Tipps für die erfolgreiche Jobsuche und den Neustart.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Konflikte im Team konstruktiv lösen",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind normal, können aber die Zusammenarbeit belasten. Eskalation sollte vermieden werden. Lernen Sie Strategien kennen, um Konflikte mit Kollegen frühzeitig anzusprechen und gemeinsame Lösungen zu finden. Kommunikation ist dabei der Schlüssel zum Erfolg.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Flexibler Arbeiten: Modelle für die Zukunft?",
+            "description": "Immer mehr Angestellte wünschen sich, ihre Arbeitszeit individueller zu gestalten. Teilzeit, Jobsharing oder Vertrauensarbeitszeit bieten Möglichkeiten. Doch welche Modelle passen zu wem und welche rechtlichen Rahmenbedingungen sind zu beachten? Dieser Artikel gibt einen Überblick über gängige Optionen und deren Vor- und Nachteile.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Mitarbeiterbindung stärken: Tipps für Unternehmen",
+            "description": "Gute Mitarbeiter zu finden ist schwer, sie zu halten oft noch schwieriger. Was können Arbeitgeber tun, um die Zufriedenheit und Loyalität ihrer Angestellten zu fördern? Dieser Beitrag stellt erfolgreiche Strategien vor, von Benefits über Weiterbildungsmöglichkeiten bis hin zur Unternehmenskultur.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "g",
+        "3": "c",
+        "4": "h",
+        "5": "b"
+    }
+}

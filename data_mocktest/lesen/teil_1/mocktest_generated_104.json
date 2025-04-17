@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jan findet seine Bewerbungsunterlagen langweilig und nicht aussagekräftig."
+        },
+        {
+            "id": 2,
+            "description": "Sofia möchte lernen, wie sie in Meetings souveräner auftreten kann."
+        },
+        {
+            "id": 3,
+            "description": "David prüft, welche rechtlichen Regelungen für Teilzeitarbeit gelten."
+        },
+        {
+            "id": 4,
+            "description": "Anja gründet ein kleines Unternehmen und sucht Tipps zur Kundengewinnung."
+        },
+        {
+            "id": 5,
+            "description": "Markus fühlt sich im Job oft gestresst und sucht nach Entspannungstechniken."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Erste Kunden finden: Marketing für Start-ups",
+            "description": "Die beste Geschäftsidee nützt nichts ohne zahlende Kunden. Besonders für junge Unternehmen ist die Anfangsphase entscheidend. Dieser Ratgeber zeigt kostengünstige und effektive Strategien, wie Sie Sichtbarkeit erlangen, erste Aufträge generieren und einen loyalen Kundenstamm aufbauen. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Effiziente Bewerberauswahl: Worauf Personaler achten",
+            "description": "Der Bewerbungseingang stapelt sich? Lernen Sie, wie Sie schnell und fair die passenden Kandidaten identifizieren. Dieser Artikel gibt Personalverantwortlichen Tipps zur Optimierung des Auswahlprozesses, von der Anforderungsdefinition bis zum strukturierten Interview. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Sicher präsentieren im Job",
+            "description": "Ob Projektvorstellung oder Team-Meeting – überzeugendes Auftreten ist entscheidend. Dieser Artikel bietet praktische Übungen zur Stärkung der rhetorischen Fähigkeiten und zum Umgang mit Lampenfieber. Lernen Sie, Ihre Argumente klar zu strukturieren und Ihr Publikum zu fesseln. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Stress lass nach: Strategien für den Berufsalltag",
+            "description": "Hoher Leistungsdruck und ständige Erreichbarkeit führen oft zu Überlastung. Erkennen Sie Ihre persönlichen Stressoren und lernen Sie bewährte Methoden zur Stressbewältigung kennen. Von Achtsamkeitsübungen bis hin zu Zeitmanagement – finden Sie heraus, was Ihnen hilft, gelassener zu bleiben. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Nebenjob gesucht? Flexible Teilzeitstellen finden",
+            "description": "Ob als Student, zur Aufbesserung der Haushaltskasse oder für mehr Flexibilität – Teilzeitarbeit ist gefragt. Wir zeigen, auf welchen Portalen Sie interessante Nebenjobs finden und geben Tipps für die Bewerbung auf Teilzeitpositionen. Erfahren Sie mehr über typische Branchen und Verdienstmöglichkeiten. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Bewerben mit Persönlichkeit: So überzeugen Sie!",
+            "description": "Standardisierte Lebensläufe und Anschreiben landen oft ungelesen im Papierkorb. Erfahren Sie, wie Sie Ihre individuellen Stärken und Ihre Motivation authentisch präsentieren. Konkrete Beispiele und Formulierungshilfen zeigen Ihnen den Weg zu einer Bewerbung, die im Gedächtnis bleibt. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Gesund am Arbeitsplatz: Ergonomie im Büro",
+            "description": "Langes Sitzen belastet den Rücken und führt zu Verspannungen. Eine ergonomische Arbeitsplatzgestaltung kann dem vorbeugen. Erfahren Sie, wie Sie Ihren Schreibtisch, Stuhl und Bildschirm optimal einrichten und welche kleinen Bewegungspausen Wunder wirken können. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Teilzeit: Was Arbeitnehmer wissen müssen",
+            "description": "Immer mehr Beschäftigte wünschen sich flexiblere Arbeitszeiten. Doch was bedeutet Teilzeit rechtlich genau? Wir erklären die gesetzlichen Grundlagen, Ansprüche auf Reduzierung der Arbeitszeit und worauf Sie bei Teilzeitverträgen achten sollten, um Nachteile zu vermeiden. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "g",
+        "4": "h",
+        "5": "d"
+    }
+}

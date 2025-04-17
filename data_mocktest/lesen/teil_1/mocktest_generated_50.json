@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "David braucht Ratschläge zum Umgang mit schwierigen Kollegen."
+        },
+        {
+            "id": 2,
+            "description": "Fatima sucht Tipps für das Verfassen eines guten Bewerbungsanschreibens."
+        },
+        {
+            "id": 3,
+            "description": "Marco möchte lernen, seine Zeit bei der Arbeit besser einzuteilen."
+        },
+        {
+            "id": 4,
+            "description": "Sophie informiert sich über Möglichkeiten für flexiblere Arbeitszeiten."
+        },
+        {
+            "id": 5,
+            "description": "Jonas will wissen, wie er Fähigkeiten aus früheren Jobs hervorheben kann."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Souverän im Vorstellungsgespräch",
+            "description": "Die Einladung zum Gespräch ist da – herzlichen Glückwunsch! Nun gilt es, auch persönlich zu überzeugen. Dieser Ratgeber bereitet Sie auf typische Fragen vor, gibt Tipps zur Körpersprache und erklärt, wie Sie Nervosität in den Griff bekommen und einen guten Eindruck hinterlassen.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Flexibel Arbeiten: Modelle und Möglichkeiten",
+            "description": "Homeoffice, Gleitzeit, Teilzeit – flexible Arbeitsmodelle werden immer beliebter. Doch welche Option passt zu wem? Dieser Artikel gibt einen Überblick über gängige Modelle, erläutert deren Vor- und Nachteile für Arbeitnehmer und Arbeitgeber und gibt Tipps, wie Sie das Gespräch mit Ihrem Vorgesetzten darüber suchen können.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreich führen: Mitarbeiter motivieren",
+            "description": "Gute Führungskräfte sind der Schlüssel zum Unternehmenserfolg. Wie motivieren Sie Ihr Team zu Höchstleistungen und fördern ein produktives Arbeitsklima? Dieser Artikel beleuchtet verschiedene Führungsstile und gibt praktische Hinweise, wie Sie Mitarbeitergespräche effektiv führen und individuelle Stärken fördern.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Das perfekte Anschreiben",
+            "description": "Der erste Eindruck zählt! Ihr Anschreiben ist oft das Erste, was ein Personaler liest und entscheidet über eine Einladung zum Gespräch. Hier finden Sie praxisnahe Tipps, wie Sie Ihre Motivation und Eignung überzeugend darstellen. Erfahren Sie, wie Sie Standardfloskeln vermeiden und individuell auf die Stelle eingehen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gesunder Arbeitsplatz: Ergonomie im Büro",
+            "description": "Langes Sitzen am Schreibtisch kann zu Verspannungen und gesundheitlichen Problemen führen. Wie Sie Ihren Arbeitsplatz ergonomisch gestalten, um Rückenschmerzen und anderen Beschwerden vorzubeugen, erfahren Sie hier. Einfache Tipps zur richtigen Stuhlhöhe, Bildschirmeinstellung und sinnvollen Pausengestaltung im Arbeitsalltag.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Mehr Zeit für das Wesentliche",
+            "description": "Fühlen Sie sich oft gehetzt und schaffen nicht alles, was Sie sich vorgenommen haben? Effektives Zeitmanagement ist erlernbar und steigert die Produktivität. Dieser Beitrag stellt bewährte Methoden wie die Eisenhower-Matrix oder die Pomodoro-Technik vor, mit denen Sie Prioritäten richtig setzen und Ihre Aufgaben effizienter erledigen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Konflikte im Team lösen",
+            "description": "Schwierige Kollegen oder Meinungsverschiedenheiten können den Arbeitsalltag stark belasten und die Zusammenarbeit stören. Dieser Artikel zeigt Strategien auf, wie Sie Konflikte professionell ansprechen und konstruktiv lösen können. Lernen Sie, klar zu kommunizieren und Win-Win-Situationen zu schaffen, um ein besseres Arbeitsklima zu fördern.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Quereinstieg meistern: Ihre Stärken richtig präsentieren",
+            "description": "Ein Branchenwechsel ist eine Herausforderung, aber auch eine große Chance für die Karriere. Entscheidend ist, wie Sie Ihre bisherigen Erfahrungen und Fähigkeiten für die neue Position relevant machen. Lernen Sie, übertragbare Kompetenzen („transferable skills“) zu identifizieren und im Lebenslauf sowie im Gespräch gekonnt hervorzuheben.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "b",
+        "3": "c",
+        "4": "h",
+        "5": "a"
+    }
+}

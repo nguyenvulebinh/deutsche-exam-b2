@@ -1,0 +1,78 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einer Wirtschaftszeitung und möchten Ihren Freunden einige Artikel schicken. Entscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.",
+    "people": [
+      {
+        "id": 1,
+        "description": "Elena weiß nicht, wie es nach ihrer Ausbildung weitergeht."
+      },
+      {
+        "id": 2,
+        "description": "Joaquin überlegt, welche Weiterbildung er als Nächstes machen kann."
+      },
+      {
+        "id": 3,
+        "description": "Katrin interessiert sich für erfolgreiche Familienunternehmen."
+      },
+      {
+        "id": 4,
+        "description": "Monika fragt sich, ob sie zu hilfsbereit ist."
+      },
+      {
+        "id": 5,
+        "description": "Timo will eine eigene Firma gründen."
+      }
+    ],
+    "articles": [
+      {
+        "id": "a",
+        "title": "Vom „Geben und Nehmen“",
+        "description": "Das neue Buch des amerikanischen Erfolgsautors Philip Vaughn wurde sehnsüchtig erwartet. Nun ist es da. „Vom Geben und Nehmen“ heißt es und erklärt uns, warum man beim Netzwerken nicht nur an sich selbst denken sollte, sondern auch das Geben, also anderen zu helfen, eine wichtige Rolle spielt."
+      },
+      {
+        "id": "b",
+        "title": "Gleichberechtigung nicht einmal beim Urlaubsgeld",
+        "description": "Sogar beim Urlaubsgeld, das viele Unternehmen ihren Mitarbeiterinnen und Mitarbeitern mittlerweile zur Sommerzeit zahlen, gibt es Unterschiede zwischen Frauen und Männern. Männer erhalten deutlich öfter Urlaubsgeld als Frauen. Warum?"
+      },
+      {
+        "id": "c",
+        "title": "Beruflich erfolgreicher mit Weiterbildungen",
+        "description": "Durch die schnell fortschreitende Digitalisierung fallen Berufe und ganze Branchen weg oder verändern sich stark. Wer hier nicht verlieren möchte, sollte berufliche Weiterbildungen nach der Ausbildung nutzen. Welche genau, erfahren Sie hier."
+      },
+      {
+        "id": "d",
+        "title": "„Ich wollte allen zeigen, was ich kann“",
+        "description": "Sie hat die Schule ohne Abschluss abgebrochen und gehört nun zu den erfolgreichsten Gründerinnen Europas. Lydia van Elten spricht mit uns über Lehrer, die nicht an sie geglaubt haben, über ihr junges Unternehmen und ihren Willen, nie aufzugeben."
+      },
+      {
+        "id": "e",
+        "title": "Mahlzeit! 30 leckere Rezepte für die Mittagspause",
+        "description": "Der Starkoch Vincent Hohmann hat sich etwas ganz Besonderes einfallen lassen. 30 Rezepte für ein Mittagessen, das einfach und schnell in zehn Minuten am Morgen vorbereitet werden kann. Die Zutaten dazu finden sich in jeder Küche. Lecker, günstig und – empfehlenswert."
+      },
+      {
+        "id": "f",
+        "title": "So gelingt der Berufseinstieg",
+        "description": "Direkt nach dem Studium oder der Ausbildung einen Job zu finden, der zu einem passt, ist gar nicht so einfach, wie viele denken. Der Karriereberater Jost Mout gibt Tipps, wie der Einstieg in die Berufswelt gelingt, und zeigt, welche Stolperfallen auf die Bewerberinnen und Bewerber warten."
+      },
+      {
+        "id": "g",
+        "title": "Tattoos am Arbeitsplatz tabu?",
+        "description": "Hier ein kleines Herz am Handgelenk, dort ein großes Bild auf dem Oberarm – viele Chefs sehen diese Körperverschönerungen nicht gerne. Aber darf der Arbeitgeber seinen Angestellten verbieten, sich tätowieren zu lassen?"
+      },
+      {
+        "id": "h",
+        "title": "Hempelmann hat große Pläne",
+        "description": "Der Familienbetrieb Hempelmann möchte seine Produkte zukünftig nicht nur in Deutschland, sondern weltweit verkaufen. Dafür braucht er starke Partner. Der Junior-Geschäftsführer Tom Arnold schreibt in einem Gastbeitrag über diese neue Herausforderung."
+      }
+    ],
+    "solutions": {
+      "1": "f",
+      "2": "c",
+      "3": "h",
+      "4": "a",
+      "5": "d"
+    }
+  }
+  

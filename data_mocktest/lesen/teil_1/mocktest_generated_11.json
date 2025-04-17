@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Benno sucht Tipps, wie er Konflikte mit Kollegen professionell lösen kann."
+        },
+        {
+            "id": 2,
+            "description": "Julia möchte wissen, wie man einen Job im Ausland findet."
+        },
+        {
+            "id": 3,
+            "description": "Mustafa war arbeitslos und braucht jetzt Informationen über Weiterbildungsmöglichkeiten."
+        },
+        {
+            "id": 4,
+            "description": "Sabine ist unsicher, ob ihr aktueller Job noch zu ihr passt."
+        },
+        {
+            "id": 5,
+            "description": "Finn muss oft Präsentationen halten und möchte sich darin verbessern."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Zeit für einen Wechsel?",
+            "description": "Fühlen Sie sich in Ihrem Job unzufrieden oder unterfordert? Dieser Artikel hilft Ihnen bei der Selbstreflexion: Was sind Ihre Prioritäten? Entspricht die aktuelle Tätigkeit noch Ihren Zielen? Finden Sie heraus, ob ein Jobwechsel der richtige Schritt für Sie ist. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Professionelle E-Mails schreiben",
+            "description": "Die schriftliche Kommunikation per E-Mail ist im Berufsleben allgegenwärtig. Doch kurze Nachrichten können schnell missverstanden werden. Lernen Sie hier, wie Sie klare, höfliche und professionelle E-Mails verfassen, die beim Empfänger gut ankommen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Karriere ohne Grenzen",
+            "description": "Immer mehr Fachkräfte träumen von einer Stelle im Ausland. Doch wie findet man den passenden Job und was muss man bei der Bewerbung beachten? Wir geben einen Überblick über internationale Jobportale, Visabestimmungen und interkulturelle Herausforderungen im Berufsalltag. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Sicher und überzeugend präsentieren",
+            "description": "Eine gute Präsentation kann Türen öffnen. Egal ob vor Kunden, Vorgesetzten oder Kollegen – souveränes Auftreten ist entscheidend. Dieser Ratgeber bietet praktische Tipps zu Struktur, Rhetorik, Körpersprache und dem Umgang mit Lampenfieber. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Weiterbildungswünsche im Team managen",
+            "description": "Immer mehr Mitarbeiter äußern den Wunsch nach Fortbildungen. Wie gehen Führungskräfte damit um? Dieser Artikel erklärt, wie Sie den Weiterbildungsbedarf im Team ermitteln, passende Angebote finden und die Entwicklung Ihrer Mitarbeiter strategisch fördern. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Streit im Büro?",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind normal, können aber das Teamklima belasten. Dieser Artikel zeigt Strategien auf, wie Sie Konflikte frühzeitig erkennen und konstruktiv ansprechen. Lernen Sie Techniken für eine professionelle und faire Auseinandersetzung. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Die Zukunft der Arbeit: Welche Skills zählen?",
+            "description": "Automatisierung und künstliche Intelligenz verändern die Arbeitswelt rasant. Welche Kompetenzen werden in Zukunft entscheidend sein? Dieser Trendbericht analysiert die wichtigsten Entwicklungen und zeigt auf, welche Fähigkeiten Arbeitnehmer jetzt entwickeln sollten. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Zurück in den Job: Weiterbildung als Chance",
+            "description": "Nach einer Phase der Arbeitslosigkeit ist der Wiedereinstieg oft nicht leicht. Gezielte Weiterbildungen können helfen, Kenntnisse aufzufrischen und neue Qualifikationen zu erwerben. Erfahren Sie, welche Kurse besonders gefragt sind und wie Sie Fördermöglichkeiten nutzen können. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "b",
+        "3": "f",
+        "4": "c",
+        "5": "d"
+    }
+}

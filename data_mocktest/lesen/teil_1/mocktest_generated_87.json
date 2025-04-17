@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Bekannten einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna möchte sich selbstständig machen und braucht einen Überblick."
+        },
+        {
+            "id": 2,
+            "description": "Ben fühlt sich in seinem Job festgefahren und sucht neue Impulse."
+        },
+        {
+            "id": 3,
+            "description": "Carla benötigt eine Weiterbildung im Bereich Projektmanagement."
+        },
+        {
+            "id": 4,
+            "description": "David hat Schwierigkeiten, Konflikte mit Kollegen professionell zu lösen."
+        },
+        {
+            "id": 5,
+            "description": "Emilia muss lernen, mit neuer Bürosoftware effektiver zu arbeiten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Souverän im Team: Konflikte konstruktiv meistern",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind normal. Lernen Sie bewährte Methoden kennen, um Konflikte frühzeitig zu erkennen, professionell anzusprechen und gemeinsam mit Kollegen faire Lösungen zu finden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Arbeitsmarkt 2024: Die gefragtesten Branchen",
+            "description": "Welche Sektoren boomen und wo gibt es die besten Jobaussichten? Eine Analyse der aktuellen Trends auf dem deutschen Arbeitsmarkt und Prognosen für die kommenden Jahre. Wichtige Informationen für die langfristige Karriereplanung. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Raus aus der Routine: Karriere neu denken",
+            "description": "Fühlen Sie sich beruflich blockiert? Entdecken Sie Strategien, um neue Motivation zu finden, Ihre Stärken neu zu bewerten und gezielte Schritte für eine berufliche Veränderung oder Weiterentwicklung zu planen. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Digitale Fitness im Büro: Software effizient nutzen",
+            "description": "Neue Programme und Tools sollen die Arbeit erleichtern, doch oft fehlt die Zeit zur Einarbeitung. Dieser Artikel gibt praktische Tipps und zeigt Trainingsansätze, wie Sie neue Bürosoftware schnell beherrschen und produktiver einsetzen können. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Investition in die Zukunft: Weiterbildung als Unternehmensstrategie",
+            "description": "Warum es für Unternehmen entscheidend ist, in die Qualifikation ihrer Mitarbeiter zu investieren. Erfahren Sie, wie Sie Weiterbildungsbudgets planen und passende Maßnahmen für Ihr Team auswählen, um wettbewerbsfähig zu bleiben. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Der Sprung ins kalte Wasser: Gründung leicht gemacht",
+            "description": "Von der Idee zum Businessplan: Dieser Leitfaden erklärt die wichtigsten Schritte für angehende Selbstständige, von rechtlichen Grundlagen bis zu Finanzierungsmöglichkeiten. Erhalten Sie eine klare Roadmap für Ihren Start. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Gesund am Schreibtisch: Ergonomie im Fokus",
+            "description": "Langes Sitzen belastet den Körper. Tipps zur richtigen Einstellung von Stuhl und Tisch, zur optimalen Bildschirmpositionierung und zu kleinen Übungen, die Verspannungen vorbeugen und das Wohlbefinden im Büro steigern. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Gefragt: Kompetenzen im Projektmanagement",
+            "description": "Erfolgreiche Projekte sind kein Zufall. Dieser Artikel stellt verschiedene Weiterbildungsformate vor, von Online-Kursen bis zu Zertifikatslehrgängen, die Ihnen helfen, Ihre Projektmanagement-Fähigkeiten gezielt auszubauen und nachzuweisen. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "a",
+        "3": "h",
+        "4": "e",
+        "5": "f"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jan möchte wissen, wie er seine Karrierechancen verbessern kann."
+        },
+        {
+            "id": 2,
+            "description": "Sofia sucht Unterstützung bei ihrer jährlichen Steuererklärung."
+        },
+        {
+            "id": 3,
+            "description": "David braucht Tipps, um Business-Englisch effektiv zu lernen."
+        },
+        {
+            "id": 4,
+            "description": "Laura überlegt, wie sie ihr neues Café bekannt machen kann."
+        },
+        {
+            "id": 5,
+            "description": "Michael leidet unter dem hohen Druck am Arbeitsplatz."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Lokal punkten: Marketing-Ideen für kleine Unternehmen und Start-ups",
+            "description": "Sie haben ein neues Geschäft eröffnet, aber die Kunden bleiben aus? Gerade am Anfang ist gezieltes lokales Marketing entscheidend. Entdecken Sie kostengünstige und kreative Wege, um auf Ihr Angebot aufmerksam zu machen – von Social Media über lokale Events bis zu Kooperationen. Praktische Beispiele zeigen, was wirklich funktioniert. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Der perfekte Lebenslauf: So überzeugen Sie Personaler",
+            "description": "Der erste Eindruck zählt – besonders bei der Jobsuche. Ein überzeugender Lebenslauf ist oft der Schlüssel zur Einladung zum Vorstellungsgespräch. Dieser Artikel erklärt, worauf es bei Aufbau, Inhalt und Design ankommt. Vermeiden Sie häufige Fehler und präsentieren Sie Ihre Qualifikationen optimal. Mit Vorlagen zum Download. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Steuererklärung ohne Stress: So meistern Sie die jährliche Abgabe",
+            "description": "Die jährliche Steuererklärung bereitet vielen Kopfzerbrechen. Dieser Ratgeber führt Sie Schritt für Schritt durch die wichtigsten Formulare und erklärt, welche Ausgaben Sie geltend machen können. Erfahren Sie, welche Fristen gelten und wo Sie professionelle Hilfe finden, wenn Sie nicht weiterwissen. Praktische Checklisten helfen, nichts Wichtiges zu vergessen. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Wenn der Job stresst: Wege zu mehr Gelassenheit am Arbeitsplatz",
+            "description": "Fühlen Sie sich ständig unter Druck und überfordert? Anhaltender Arbeitsstress kann krank machen. Dieser Beitrag beleuchtet Ursachen von Stress am Arbeitsplatz und zeigt praktische Techniken zur Bewältigung. Von Zeitmanagement-Methoden bis zu Entspannungsübungen – lernen Sie, wie Sie Ihre Belastung reduzieren und widerstandsfähiger werden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Aktuelle Steueränderungen für Unternehmen im Überblick",
+            "description": "Das Steuerrecht ist ständig im Wandel. Welche neuen Regelungen müssen Unternehmen in diesem Jahr beachten? Dieser Artikel fasst die wichtigsten Gesetzesänderungen und Verwaltungsanweisungen zusammen. Informieren Sie sich über relevante Anpassungen bei Körperschaftsteuer, Umsatzsteuer und Gewerbesteuer, um Compliance-Risiken zu vermeiden. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Erfolgreich aufsteigen: Strategien für den nächsten Karriereschritt",
+            "description": "Sie möchten beruflich vorankommen, wissen aber nicht genau wie? Dieser Artikel analysiert bewährte Methoden zur Karriereförderung, von gezielter Weiterbildung über Networking bis hin zur richtigen Selbstpräsentation im Unternehmen. Erfahren Sie, welche Schritte Sie jetzt unternehmen können, um Ihre Aufstiegschancen signifikant zu erhöhen. Konkrete Beispiele illustrieren den Weg nach oben. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Wissenschaftliches Englisch: Präsentieren und Publizieren",
+            "description": "Erfolgreiche Forschung erfordert auch die Fähigkeit, Ergebnisse international verständlich zu kommunizieren. Dieser Leitfaden richtet sich an Studierende und Forschende, die ihre Englischkenntnisse für wissenschaftliche Publikationen und Konferenzvorträge verbessern möchten. Tipps zu Stil, Struktur und typischen Formulierungen helfen bei der Erstellung professioneller Texte und Präsentationen. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Business-Englisch meistern: Effektive Lernmethoden für den Berufsalltag",
+            "description": "Gute Englischkenntnisse sind im globalen Geschäftsleben unerlässlich. Doch wie lernt man Fachvokabular und Kommunikationsstrategien am besten? Dieser Artikel stellt verschiedene Lernansätze vor – von Online-Kursen über Tandempartnerschaften bis hin zu spezialisierten Apps. Finden Sie die Methode, die zu Ihrem Lerntyp und Zeitbudget passt. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "a",
+        "3": "f",
+        "4": "b",
+        "5": "g"
+    }
+}

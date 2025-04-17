@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken. Entscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jan sucht Tipps für seine allererste Jobbewerbung nach dem Studium."
+        },
+        {
+            "id": 2,
+            "description": "Sophia möchte lernen, wie sie bei Besprechungen überzeugender präsentieren kann."
+        },
+        {
+            "id": 3,
+            "description": "Markus überlegt, ob er eine eigene kleine Technologiefirma gründen soll."
+        },
+        {
+            "id": 4,
+            "description": "Anja fühlt sich oft gestresst und sucht Methoden für besseres Zeitmanagement."
+        },
+        {
+            "id": 5,
+            "description": "David arbeitet freiberuflich und braucht Infos zur sozialen Absicherung."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Schluss mit dem Stress: Effektives Zeitmanagement im Job",
+            "description": "Ständig unter Druck? Die To-Do-Liste wird immer länger? Lernen Sie bewährte Methoden kennen, um Ihre Arbeitszeit besser zu organisieren, Prioritäten zu setzen und Stressfallen zu vermeiden. Mit diesen Techniken gewinnen Sie mehr Kontrolle über Ihren Arbeitstag und steigern Ihre Produktivität.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Homeoffice: Rechtliche Rahmenbedingungen für Arbeitgeber",
+            "description": "Immer mehr Unternehmen bieten Homeoffice an. Doch was müssen Arbeitgeber rechtlich beachten? Von der Arbeitszeiterfassung über den Datenschutz bis hin zur Ausstattung des Arbeitsplatzes – dieser Artikel gibt einen Überblick über die aktuellen gesetzlichen Vorgaben und Pflichten für Firmen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Souverän auftreten: Präsentationstechniken für den Beruf",
+            "description": "Egal ob im Meeting, bei Kunden oder internen Runden – wer seine Ideen klar und überzeugend kommunizieren kann, hat Vorteile. Dieser Ratgeber stellt bewährte Techniken für den Aufbau von Präsentationen, den Umgang mit Nervosität und den wirkungsvollen Einsatz von Körpersprache und Stimme vor.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Selbstständig und sicher: Sozialversicherung für Freiberufler",
+            "description": "Wer freiberuflich tätig ist, muss sich selbst um Kranken-, Renten- und Arbeitslosenversicherung kümmern. Dieser Artikel erklärt die wichtigsten Optionen und Pflichten für Selbstständige in Deutschland. Erfahren Sie, welche Versicherungen notwendig sind und wie Sie sich optimal absichern können.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Gesunde Ernährung am Arbeitsplatz: Fitmacher für den Bürotag",
+            "description": "Die richtige Ernährung kann die Konzentration fördern und Müdigkeit vorbeugen. Entdecken Sie schnelle und gesunde Rezeptideen für die Mittagspause im Büro. Tipps für Snacks, die Energie liefern, ohne zu belasten, runden den Beitrag ab. Bleiben Sie leistungsfähig durch bewusstes Essen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Der Weg zum ersten Job: Erfolgreich bewerben",
+            "description": "Der Übergang vom Studium ins Berufsleben ist eine Herausforderung. Dieser Artikel gibt Hochschulabsolventen praktische Ratschläge für die Erstellung von Lebenslauf und Anschreiben, die Vorbereitung auf Vorstellungsgespräche und typische Fragen von Personalverantwortlichen. So klappt der Berufseinstieg sicher.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Internationale Teams: Erfolgreiche Kommunikation über Kulturgrenzen hinweg",
+            "description": "In globalisierten Unternehmen ist die Zusammenarbeit in internationalen Teams Alltag. Dieser Artikel beleuchtet kulturelle Unterschiede in der Kommunikation und gibt Tipps, wie Missverständnisse vermieden werden können. Erfahren Sie, wie Sie interkulturelle Kompetenz stärken und die Zusammenarbeit verbessern.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Von der Idee zum Start-up: Leitfaden für Tech-Gründer",
+            "description": "Haben Sie eine innovative technische Idee? Dieser Leitfaden begleitet Sie Schritt für Schritt durch den Gründungsprozess. Themen sind u.a. Businessplan-Erstellung, Finanzierungsoptionen speziell für Technologie-Start-ups, rechtliche Aspekte und die Suche nach den ersten Mitarbeitern. Experten teilen ihre Erfahrungen.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "b",
+        "3": "h",
+        "4": "f",
+        "5": "d"
+    }
+}

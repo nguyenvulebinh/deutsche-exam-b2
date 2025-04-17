@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Magazin und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna braucht Ratschläge für das Verfassen von Bewerbungsschreiben."
+        },
+        {
+            "id": 2,
+            "description": "Ben überlegt, ob die Arbeit im Homeoffice für ihn geeignet ist."
+        },
+        {
+            "id": 3,
+            "description": "Claudia sucht Tipps für bessere Teamkommunikation am Arbeitsplatz."
+        },
+        {
+            "id": 4,
+            "description": "David möchte wissen, wie man erfolgreich Gehaltsverhandlungen führt."
+        },
+        {
+            "id": 5,
+            "description": "Emilia sucht Informationen über die ersten Schritte zur Unternehmensgründung."
+        }
+    ],
+    "articles": [
+        {
+            "id": "d",
+            "title": "Mehr Gehalt? So verhandeln Sie richtig!",
+            "description": "Sie leisten gute Arbeit, aber Ihr Gehalt spiegelt das nicht wider? Eine Gehaltserhöhung kommt selten von allein. Dieser Artikel erklärt, wie Sie sich optimal auf das Gespräch vorbereiten, welche Argumente überzeugen und zu welchem Zeitpunkt die Verhandlung die besten Erfolgsaussichten hat. Vermeiden Sie typische Fallstricke. \nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die Arbeitswelt von morgen",
+            "description": "Künstliche Intelligenz, Automatisierung und globale Vernetzung verändern Berufe grundlegend. Welche Kompetenzen werden in Zukunft entscheidend sein? Und welche Branchen bieten langfristig sichere Perspektiven? Ein Ausblick auf die Trends, die unsere Karrieren in den nächsten zehn Jahren prägen werden. \nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Homeoffice: Pro und Contra",
+            "description": "Die Möglichkeit, von zu Hause zu arbeiten, klingt verlockend: keine Pendelzeiten, mehr Flexibilität. Doch die Heimarbeit birgt auch Herausforderungen wie soziale Isolation und die Notwendigkeit hoher Selbstdisziplin. Wir beleuchten die Vor- und Nachteile und geben Tipps, wie Sie die richtige Entscheidung für sich treffen. \nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Von der Idee zum Businessplan",
+            "description": "Sie träumen davon, Ihr eigener Chef zu sein? Eine gute Geschäftsidee ist nur der Anfang. Erfahren Sie, welche Rechtsform für Ihr Vorhaben passt, wie Sie einen überzeugenden Businessplan erstellen und welche Finanzierungsmöglichkeiten es für Gründer gibt. Ein Leitfaden für die entscheidenden ersten Schritte in die Selbstständigkeit. \nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Erfolgreiche Kundenkommunikation",
+            "description": "Der Kunde ist König – aber wie spricht man Majestäten richtig an? Ob per E-Mail, Telefon oder im persönlichen Gespräch: Eine professionelle und freundliche Kommunikation ist entscheidend für den Geschäftserfolg. Lernen Sie Techniken, um auf Anfragen souverän zu reagieren und auch schwierige Kundengespräche zu meistern. \nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Das perfekte Anschreiben",
+            "description": "Das Bewerbungsschreiben ist oft der erste Eindruck, den ein potenzieller Arbeitgeber von Ihnen erhält. Wie formulieren Sie Ihre Motivation überzeugend? Welche Struktur sollte ein Anschreiben haben und welche Fehler gilt es unbedingt zu vermeiden? Mit unseren Beispielen und Checklisten gelingt Ihnen der überzeugende Auftritt. \nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Mitarbeitermotivation steigern",
+            "description": "Ein motiviertes Team ist produktiver und engagierter. Doch wie können Führungskräfte die Begeisterung ihrer Mitarbeiter wecken und erhalten? Entdecken Sie wirksame Strategien von Zielvereinbarungen über Anerkennung bis hin zu Teamentwicklungsmaßnahmen, die das Arbeitsklima nachhaltig verbessern. \nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Konflikte im Team lösen",
+            "description": "Wo Menschen zusammenarbeiten, entstehen auch Reibungen. Doch ungelöste Konflikte können die Zusammenarbeit lähmen. Dieser Artikel zeigt Methoden auf, wie Sie Meinungsverschiedenheiten im Team konstruktiv ansprechen, Missverständnisse klären und eine offene Kommunikationskultur fördern können, von der alle profitieren. \nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "g",
+        "3": "a",
+        "4": "d",
+        "5": "c"
+    }
+}

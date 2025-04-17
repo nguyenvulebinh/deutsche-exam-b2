@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Ratgeber-Magazin für Beruf und Karriere und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna braucht Hilfe bei der Optimierung ihrer Bewerbungsunterlagen."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte in den sozialen Sektor wechseln und sucht Orientierung."
+        },
+        {
+            "id": 3,
+            "description": "Clara muss bald eine wichtige Präsentation halten und ist unsicher."
+        },
+        {
+            "id": 4,
+            "description": "David fühlt sich oft gestresst und sucht nach Entspannungstechniken für den Job."
+        },
+        {
+            "id": 5,
+            "description": "Eva ist mit ihrem Gehalt unzufrieden und will besser verhandeln lernen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Weniger Stress im Job: Strategien für den Alltag",
+            "description": "Hoher Druck und ständige Erreichbarkeit führen oft zu Überlastung. Es ist wichtig, aktiv gegenzusteuern. Entdecken Sie einfache, aber wirksame Methoden zur Stressreduktion, die Sie direkt am Arbeitsplatz anwenden können. Von Achtsamkeitsübungen bis zu Zeitmanagement-Tricks – finden Sie Ihre Balance wieder. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Vom Idealismus zum Profit: Wechsel aus dem sozialen Sektor",
+            "description": "Nach Jahren im gemeinnützigen Bereich zieht es manche zurück in die freie Wirtschaft. Dieser Schritt birgt Chancen, aber auch Herausforderungen. Wir beleuchten, wie Sie Ihre Erfahrungen aus dem Non-Profit-Bereich für eine Karriere in Unternehmen nutzen können und welche Branchen besonders offen für solche Wechsler sind. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Karriere mit Sinn: Jobs im Non-Profit-Bereich",
+            "description": "Immer mehr Fachkräfte suchen eine erfüllende Tätigkeit abseits der reinen Profitmaximierung. Der Non-Profit-Sektor bietet vielfältige Möglichkeiten. Wir stellen verschiedene Organisationen vor, erklären die Besonderheiten der Arbeit in sozialen Berufen und geben Tipps für den Quereinstieg. Finden Sie Ihren Weg zu einer sinnvollen Aufgabe. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Mehr Geld verdienen: Tipps für die Gehaltsverhandlung",
+            "description": "Sie leisten gute Arbeit, aber Ihr Gehalt spiegelt das nicht wider? Eine gute Vorbereitung ist der Schlüssel zum Erfolg bei der nächsten Gehaltsverhandlung. Erfahren Sie, wie Sie Ihren Marktwert realistisch einschätzen, überzeugende Argumente finden und im Gespräch souverän auftreten. So holen Sie das Beste für sich heraus. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Stressfaktoren im Büro: Was Arbeitgeber wissen sollten",
+            "description": "Zufriedene Mitarbeiter sind produktiver. Doch oft sorgen schlechte Organisation, unklare Aufgaben oder mangelnde Kommunikation für unnötigen Stress. Dieser Artikel analysiert häufige Stressquellen in Unternehmen und zeigt auf, wie Führungskräfte für ein gesünderes Arbeitsklima sorgen können. Prävention ist der Schlüssel. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Perfekte Bewerbung: So überzeugen Sie!",
+            "description": "Viele Bewerber scheitern an formalen Fehlern oder nichtssagenden Floskeln. Dieser Ratgeber zeigt, wie Sie Lebenslauf und Anschreiben modern und wirkungsvoll gestalten. Erfahren Sie, welche Details Personalchefs wirklich sehen wollen und wie Sie Ihre Stärken optimal präsentieren. Holen Sie sich praktische Tipps für mehr Erfolg. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Arbeitswelt 4.0: Was die Zukunft bringt",
+            "description": "Digitalisierung, künstliche Intelligenz und neue Arbeitsmodelle verändern die Berufswelt rasant. Welche Kompetenzen werden in Zukunft gefragt sein? Wie wirkt sich der Wandel auf traditionelle Branchen aus? Ein Überblick über die wichtigsten Trends und Prognosen für die kommenden Jahre. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Sicher auftreten: Präsentieren leicht gemacht",
+            "description": "Lampenfieber vor Publikum? Das muss nicht sein! Dieser Artikel verrät, wie Sie Ihre Nervosität in den Griff bekommen und souverän auftreten. Lernen Sie, wie Sie Ihre Inhalte klar strukturieren, visuelle Hilfsmittel effektiv einsetzen und Ihr Publikum fesseln. Mit diesen Techniken wird jede Präsentation zum Erfolg. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "b",
+        "3": "c",
+        "4": "a",
+        "5": "g"
+    }
+}

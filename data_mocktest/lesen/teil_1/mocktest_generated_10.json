@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Frank startet als Freiberufler und braucht Infos zur Steuer."
+        },
+        {
+            "id": 2,
+            "description": "Maria möchte auf Fachmessen besser Kontakte knüpfen."
+        },
+        {
+            "id": 3,
+            "description": "Stefan sucht Methoden, sein digitales Chaos zu organisieren."
+        },
+        {
+            "id": 4,
+            "description": "Lena will sich gut auf ihr Mitarbeitergespräch vorbereiten."
+        },
+        {
+            "id": 5,
+            "description": "Jonas braucht Ideen für bessere Teamarbeit im Homeoffice."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Nie wieder lernen? Fortbildung als Chance",
+            "description": "Die Arbeitswelt verändert sich rasant. Wer mithalten will, muss sich weiterbilden. Ob Abendkurse, Online-Seminare oder Zertifikatslehrgänge – die Möglichkeiten sind vielfältig. Dieser Artikel gibt einen Überblick über gängige Fortbildungsformate und deren Nutzen für die Karriereplanung. Investieren Sie in Ihre Zukunft! mehr ...",
+            "mehr": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Sicher im Netz: Digitale Gefahren erkennen",
+            "description": "Phishing, Malware, Datendiebstahl – die Bedrohungen im digitalen Raum nehmen zu. Besonders im beruflichen Kontext ist Vorsicht geboten. Lernen Sie, wie Sie verdächtige E-Mails erkennen, sichere Passwörter erstellen und Ihre Firmendaten effektiv schützen können. Ein Muss für jeden, der digital arbeitet. mehr ...",
+            "mehr": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Selbstständig und Steuern: Das müssen Sie wissen",
+            "description": "Der Schritt in die Selbstständigkeit ist aufregend, bringt aber auch bürokratische Pflichten mit sich. Gerade das Thema Steuern verunsichert viele Freiberufler. Dieser Ratgeber erklärt verständlich, welche Steuerarten relevant sind, wie die Anmeldung beim Finanzamt funktioniert und welche Ausgaben Sie absetzen können. mehr ...",
+            "mehr": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Homeoffice-Harmonie: Virtuelle Teams stärken",
+            "description": "Wenn das Team räumlich getrennt arbeitet, leidet oft die Zusammenarbeit. Doch das muss nicht sein! Entdecken Sie bewährte Methoden und digitale Werkzeuge, um die Kommunikation zu verbessern, Projekte effizient zu managen und den Teamgeist auch aus der Ferne zu fördern. Für eine produktive und positive Arbeitsatmosphäre. mehr ...",
+            "mehr": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Das Mitarbeitergespräch: Mehr als nur eine Pflichtübung",
+            "description": "Das jährliche Gespräch mit dem Vorgesetzten ist eine wichtige Gelegenheit, Bilanz zu ziehen und die Weichen für die Zukunft zu stellen. Erfahren Sie, wie Sie Ihre Leistungen und Erfolge überzeugend darstellen, konstruktives Feedback geben und erhalten sowie Ihre beruflichen Entwicklungsziele klar formulieren. mehr ...",
+            "mehr": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Netzwerken leicht gemacht: Erfolgreich auf Events",
+            "description": "Fachmessen und Konferenzen sind ideale Orte, um wertvolle berufliche Kontakte zu knüpfen. Doch wie spricht man fremde Menschen an? Wie hinterlässt man einen guten Eindruck? Dieser Artikel liefert praktische Tipps für Small Talk, den Austausch von Visitenkarten und die wichtige Nachbereitung von Gesprächen. mehr ...",
+            "mehr": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Lizenz zum Brauen: Eine eigene Brauerei gründen",
+            "description": "Der Traum vom eigenen Bier ist populär, aber der Weg dorthin ist komplex. Von der Gewerbeanmeldung über Lebensmittelhygienevorschriften bis hin zu speziellen Alkoholsteuern – dieser Leitfaden beleuchtet die rechtlichen und administrativen Hürden beim Aufbau einer Kleinbrauerei in Deutschland. Ein Einblick für angehende Braumeister. mehr ...",
+            "mehr": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Digital Detox am Arbeitsplatz: Ordnung im Tool-Dschungel",
+            "description": "Zu viele Apps, unstrukturierte Ordner, ständige Benachrichtigungen – die digitale Arbeitswelt kann überfordern. Bringen Sie System in Ihr digitales Leben! Wir stellen nützliche Programme zur Aufgabenverwaltung vor, geben Tipps für eine logische Dateiablage und zeigen, wie Sie Ihren digitalen Workflow effizienter gestalten. mehr ...",
+            "mehr": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "a",
+        "3": "g",
+        "4": "b",
+        "5": "f"
+    }
+}

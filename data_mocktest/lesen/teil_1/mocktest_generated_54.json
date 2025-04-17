@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julian braucht Tipps für sein nächstes Bewerbungsgespräch."
+        },
+        {
+            "id": 2,
+            "description": "Sofia möchte wissen, wie sie schneller befördert werden kann."
+        },
+        {
+            "id": 3,
+            "description": "Markus fühlt sich durch zu viele ineffiziente Meetings gestresst."
+        },
+        {
+            "id": 4,
+            "description": "Anna sucht nach Möglichkeiten für flexiblere Arbeitszeiten."
+        },
+        {
+            "id": 5,
+            "description": "David möchte seine Kenntnisse in aktueller Cloud-Software verbessern."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Flexible Arbeit: Modelle und Rechte",
+            "description": "Homeoffice, Gleitzeit oder Teilzeit – flexible Arbeitsmodelle werden immer beliebter. Doch welche Optionen gibt es genau und was sind die rechtlichen Rahmenbedingungen? Dieser Artikel gibt einen Überblick über die gängigsten Modelle, ihre Vor- und Nachteile sowie Tipps zur Verhandlung mit dem Arbeitgeber.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die besten Jobportale im Netz",
+            "description": "Die Jobsuche beginnt heute meist online. Aber welche Plattformen lohnen sich wirklich? Wir haben die bekanntesten Jobbörsen getestet und zeigen, wo Sie die passendsten Stellenangebote finden. Mit unseren Tipps optimieren Sie Ihre Suche und verpassen keine Chance.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Karriere-Turbo zünden: So klappt die Beförderung",
+            "description": "Sie möchten beruflich aufsteigen, aber wissen nicht wie? Dieser Ratgeber zeigt Ihnen, wie Sie Ihre Leistungen sichtbar machen, strategisch Netzwerke knüpfen und gezielt Kompetenzen entwickeln, die für eine Beförderung entscheidend sind. Erklimmen Sie die nächste Stufe Ihrer Karriereleiter!\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Cloud-Kompetenz: Gefragt am Arbeitsplatz",
+            "description": "In der digitalisierten Arbeitswelt sind Kenntnisse in Cloud-Technologien unerlässlich. Erfahren Sie, warum Cloud-Skills so wichtig sind, welche Plattformen (wie AWS, Azure) dominieren und wie Sie sich gezielt weiterbilden können, um für Arbeitgeber attraktiver zu werden. Investieren Sie in Ihre digitale Zukunft!\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Burnout vorbeugen: Tipps für den Alltag",
+            "description": "Ständiger Druck im Job kann krank machen. Lernen Sie wirksame Strategien zur Stressbewältigung kennen. Von Achtsamkeitsübungen über Pausengestaltung bis hin zu einem gesunden Lebensstil – dieser Artikel bietet praktische Tipps, um einem Burnout effektiv vorzubeugen und die eigene Resilienz zu stärken.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Sicher im Vorstellungsgespräch",
+            "description": "Das Bewerbungsgespräch ist Ihre Chance zu überzeugen. Wie bereiten Sie sich optimal vor? Welche Fragen werden häufig gestellt und wie antworten Sie souverän? Wir geben Ihnen konkrete Tipps zur Selbstpräsentation, Körpersprache und zum Umgang mit schwierigen Fragen, damit Sie den Job bekommen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Moderne Büros gestalten: Produktivität steigern",
+            "description": "Das Büro als Ort der Begegnung und Kreativität: Wie beeinflusst die Gestaltung von Arbeitsräumen die Leistung und Zufriedenheit der Mitarbeiter? Entdecken Sie aktuelle Trends von Open Space über flexible Arbeitszonen bis hin zu ergonomischer Ausstattung, die die Zusammenarbeit fördern und das Wohlbefinden steigern.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Effiziente Meetings, weniger Stress",
+            "description": "Endlose Besprechungen ohne Ergebnis rauben Zeit und Nerven. Dieser Artikel zeigt, wie Sie Meetings effektiv planen, strukturieren und leiten. Lernen Sie Methoden für klare Agenden, aktives Zeitmanagement und zielorientierte Diskussionen kennen, um die Meeting-Kultur in Ihrem Team positiv zu verändern.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "h",
+        "3": "g",
+        "4": "a",
+        "5": "c"
+    }
+}

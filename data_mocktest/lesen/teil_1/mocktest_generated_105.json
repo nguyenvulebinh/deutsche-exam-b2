@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Ratgeber-Magazin und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Ben möchte nach dem Studium den passenden ersten Job finden."
+        },
+        {
+            "id": 2,
+            "description": "Anna fühlt sich oft überfordert und sucht nach Stressbewältigungsstrategien am Arbeitsplatz."
+        },
+        {
+            "id": 3,
+            "description": "Markus denkt nach vielen Jahren im gleichen Beruf über einen Quereinstieg nach."
+        },
+        {
+            "id": 4,
+            "description": "Julia möchte die Zusammenarbeit und Kommunikation in ihrem Team verbessern."
+        },
+        {
+            "id": 5,
+            "description": "David will mehr Gehalt, weiß aber nicht, wie er die Verhandlung vorbereiten soll."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Teamwork fördern: Gemeinsam mehr erreichen",
+            "description": "Effektive Zusammenarbeit ist der Schlüssel zum Erfolg. Dieser Beitrag stellt bewährte Methoden vor, um die Kommunikation und den Zusammenhalt im Team zu stärken. Erfahren Sie, wie Sie Konflikte konstruktiv lösen und ein produktives Arbeitsklima schaffen können. Tipps für Meetings und Projektarbeit inklusive. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Arbeitsrecht kompakt: Ihre Rechte als Arbeitnehmer",
+            "description": "Kennen Sie Ihre Ansprüche bei Urlaub, Krankheit oder Kündigung? Dieser Überblick fasst die wichtigsten gesetzlichen Regelungen für Arbeitnehmer in Deutschland zusammen. Gut informiert zu sein, hilft Ihnen, Ihre Rechte im Berufsalltag zu wahren und Missverständnisse mit dem Arbeitgeber zu vermeiden. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Stress im Job? So bleiben Sie gelassen",
+            "description": "Hoher Arbeitsdruck kann auf Dauer belasten. Lernen Sie effektive Methoden zur Stressreduktion direkt am Arbeitsplatz kennen. Von einfachen Zeitmanagement-Techniken über Pausengestaltung bis hin zu Achtsamkeitsübungen – finden Sie heraus, was Ihnen persönlich hilft, um entspannter und produktiver zu arbeiten. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Gehaltsverhandlung: So bekommen Sie, was Sie verdienen",
+            "description": "Nach einer Gehaltserhöhung zu fragen, fällt vielen schwer. Bereiten Sie sich optimal vor! Dieser Artikel erklärt, wie Sie Ihren Marktwert realistisch einschätzen, überzeugende Argumente für Ihre Leistung formulieren und typische Fallstricke bei der Verhandlung mit dem Vorgesetzten geschickt vermeiden. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Führungskompetenzen gezielt entwickeln",
+            "description": "Gute Führung ist lernbar. Ob Sie neu in einer Führungsposition sind oder Ihre Skills verbessern möchten: Dieser Artikel beleuchtet zentrale Kompetenzen moderner Führungskräfte. Erfahren Sie mehr über Mitarbeitermotivation, Delegation, Feedback geben und strategisches Denken für den Teamerfolg. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Erfolgreich in den Beruf starten: Tipps für Absolventen",
+            "description": "Der Übergang vom Studium ins Berufsleben ist eine spannende, aber auch herausfordernde Phase. Dieser Artikel beleuchtet typische Hürden für Hochschulabsolventen und gibt praktische Tipps für die Stellensuche. Erfahren Sie, wie Sie Ihre Bewerbungsunterlagen optimieren und im Vorstellungsgespräch überzeugen. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Die Zukunft der Arbeit: Trends und Prognosen",
+            "description": "Digitalisierung, künstliche Intelligenz, neue Arbeitsmodelle – die Arbeitswelt verändert sich rasant. Welche Kompetenzen werden künftig gefragt sein? Welche Jobs entstehen neu, welche fallen weg? Experten analysieren die wichtigsten Entwicklungen und geben Einblicke, wie wir morgen arbeiten könnten. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Neuanfang wagen: Strategien für den Quereinstieg",
+            "description": "Ein beruflicher Wechsel nach vielen Jahren im selben Job erfordert Mut und gute Planung. Entdecken Sie, wie Sie Ihre bisherigen Erfahrungen und Kompetenzen erfolgreich in ein neues Berufsfeld übertragen können. Wir zeigen Ihnen, welche Schritte für einen gelungenen Quereinstieg entscheidend sind und welche Branchen Chancen bieten. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "g",
+        "3": "f",
+        "4": "a",
+        "5": "e"
+    }
+}

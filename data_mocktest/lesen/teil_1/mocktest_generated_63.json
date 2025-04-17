@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Stefan möchte in seiner Firma befördert werden."
+        },
+        {
+            "id": 2,
+            "description": "Anna plant die Gründung ihres eigenen Unternehmens und sucht erste Schritte."
+        },
+        {
+            "id": 3,
+            "description": "David hat oft Meinungsverschiedenheiten mit seinen Kollegen im Team."
+        },
+        {
+            "id": 4,
+            "description": "Julia überlegt, beruflich in eine ganz andere Branche zu wechseln."
+        },
+        {
+            "id": 5,
+            "description": "Ben muss bald eine wichtige Präsentation halten und ist nervös."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Erfolgreicher Branchenwechsel: Neue Wege gehen",
+            "description": "Raus aus dem alten Job, rein in etwas völlig Neues? Ein Quereinstieg kann gelingen, wenn man seine übertragbaren Fähigkeiten erkennt und gezielt nach Möglichkeiten sucht. Wir geben Tipps zur Neuorientierung und zeigen Weiterbildungschancen auf, die den Wechsel erleichtern können. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Arbeitswelt 4.0: Was die Digitalisierung verändert",
+            "description": "Künstliche Intelligenz, Remote Work und neue Kollaborationsformen – die Arbeitswelt befindet sich im stetigen Wandel. Lesen Sie, welche technologischen Trends die nächsten Jahre prägen werden und wie sich sowohl Unternehmen als auch Mitarbeiter darauf einstellen können müssen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Der Weg in die Selbstständigkeit: Die ersten Hürden meistern",
+            "description": "Sie haben eine vielversprechende Geschäftsidee, aber was kommt danach konkret? Von der Wahl der passenden Rechtsform über die Erstellung eines soliden Businessplans bis zu den grundlegenden Finanzierungsfragen – dieser Leitfaden hilft Gründern, die wichtigsten Anfangsschritte erfolgreich zu gehen. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Der erste Job nach dem Studium: Tipps für Absolventen",
+            "description": "Das Studium ist erfolgreich abgeschlossen, nun beginnt die spannende Phase der Jobsuche. Worauf achten Personaler bei den Bewerbungsunterlagen wirklich? Wie bereitet man sich optimal auf das erste Vorstellungsgespräch vor? Wir geben wichtige Hinweise für den erfolgreichen Berufseinstieg. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Sicher auftreten: Tipps gegen Lampenfieber bei Präsentationen",
+            "description": "Eine wichtige Präsentation steht bevor und die Nervosität steigt spürbar? Dieser Artikel bietet Ihnen praktische Ratschläge zur inhaltlichen und mentalen Vorbereitung, zum souveränen Umgang mit Aufregung während des Vortrags und zur überzeugenden Gestaltung Ihrer Inhalte vor Publikum. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Die Karriereleiter erklimmen: So gelingt der nächste Schritt",
+            "description": "Viele Arbeitnehmer träumen von einer Beförderung, wissen aber oft nicht genau, wie sie ihre Chancen darauf aktiv verbessern können. Dieser Artikel zeigt konkrete Strategien auf, von gezielter Weiterbildung bis zur Erhöhung der eigenen Sichtbarkeit im Unternehmen, um den Vorgesetzten nachhaltig zu überzeugen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Online-Marketing für kleine Unternehmen: Mehr Sichtbarkeit im Netz",
+            "description": "Gerade für kleine und mittlere Unternehmen (KMU) ist eine gute digitale Präsenz heute entscheidend für den Erfolg. Erfahren Sie hier, wie Sie auch mit begrenztem Budget Social Media Kanäle effektiv bespielen und Grundlagen der Suchmaschinenoptimierung (SEO) nutzen können, um mehr potenzielle Kunden zu erreichen. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Streit im Büro? Strategien für ein besseres Miteinander",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind zwar normal, können aber die Zusammenarbeit und die Produktivität erheblich stören. Lernen Sie hier effektive Kommunikationstechniken und bewährte Methoden zur Konfliktlösung kennen, um das Miteinander im Team wieder konstruktiv und positiv zu gestalten. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "b",
+        "3": "c",
+        "4": "e",
+        "5": "d"
+    }
+}

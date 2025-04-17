@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia sucht eine Weiterbildung im Bereich IT-Sicherheit."
+        },
+        {
+            "id": 2,
+            "description": "Martin klagt über ständige Überstunden und sucht nach Lösungen."
+        },
+        {
+            "id": 3,
+            "description": "Sofia möchte lernen, wie man überzeugender präsentiert."
+        },
+        {
+            "id": 4,
+            "description": "David ist unsicher, wie viel Urlaub ihm gesetzlich zusteht."
+        },
+        {
+            "id": 5,
+            "description": "Aisha bereitet sich auf ihre erste Führungsrolle vor."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Ihr Recht auf Urlaub",
+            "description": "Wie viele Urlaubstage stehen Ihnen laut Bundesurlaubsgesetz mindestens zu? Wie wird der Anspruch bei Teilzeit berechnet und was passiert bei einem Jobwechsel? Dieser Artikel klärt die wichtigsten rechtlichen Fragen rund um den Erholungsurlaub für Arbeitnehmer in Deutschland.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Lebenslanges Lernen: Ein Muss?",
+            "description": "Die Arbeitswelt verändert sich rasant. Experten betonen immer wieder die Notwendigkeit, sich kontinuierlich weiterzubilden. Doch was bedeutet das konkret für den Einzelnen? Diskutieren Sie mit uns über Trends und die allgemeine Bedeutung von Bildung im Berufsleben.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Schluss mit Überstunden!",
+            "description": "Fühlen Sie sich ständig unter Druck und die Arbeit nimmt kein Ende? Wir zeigen Ihnen praktische Strategien für besseres Zeitmanagement, wie Sie lernen, „Nein“ zu sagen, und welche rechtlichen Grenzen für Mehrarbeit gelten, um Ihre Work-Life-Balance wiederherzustellen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Vom Kollegen zum Vorgesetzten",
+            "description": "Der Sprung in die erste Führungsposition ist eine große Herausforderung. Wie gelingt der Rollenwechsel? Welche neuen Aufgaben warten auf Sie? Erfahren Sie, wie Sie Ihr Team motivieren, Konflikte lösen und typische Anfangsfehler vermeiden.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Moderne Führungsstile im Vergleich",
+            "description": "Autoritär, kooperativ oder doch Laissez-faire? Welcher Führungsstil passt zu welchem Unternehmen und Team? Wir analysieren die Vor- und Nachteile verschiedener Managementansätze und geben Einblicke in aktuelle Forschungsergebnisse zur Mitarbeitermotivation.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Cybersicherheit für Fachkräfte",
+            "description": "Angesichts zunehmender digitaler Bedrohungen ist Expertise in IT-Sicherheit gefragter denn je. Dieser Artikel stellt verschiedene Zertifikatskurse und Fortbildungen vor, die Fachkräfte fit für die Abwehr von Cyberangriffen machen und Karrieretüren öffnen können.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Das produktive Büro",
+            "description": "Wie beeinflusst die Gestaltung des Arbeitsplatzes unsere Konzentration und Effizienz? Von ergonomischen Stühlen bis zur richtigen Beleuchtung – entdecken Sie Tipps und Trends für ein Büroambiente, das Wohlbefinden und Produktivität fördert. Experten geben Ratschläge zur optimalen Einrichtung.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Präsentieren mit Wirkung",
+            "description": "Egal ob im Meeting oder vor Kunden – eine überzeugende Präsentation kann Türen öffnen. Dieser Ratgeber bietet konkrete Tipps zu Aufbau, Rhetorik und Körpersprache, damit Ihre Botschaft ankommt und Sie souverän auftreten. Auch der Umgang mit Lampenfieber wird thematisiert.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "f",
+        "3": "b",
+        "4": "h",
+        "5": "d"
+    }
+}

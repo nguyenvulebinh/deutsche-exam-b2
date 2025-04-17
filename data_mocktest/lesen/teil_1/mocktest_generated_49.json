@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "David sucht Ratschläge zum Umgang mit Konflikten im Team."
+        },
+        {
+            "id": 2,
+            "description": "Julia möchte lernen, überzeugender vor Kunden zu präsentieren."
+        },
+        {
+            "id": 3,
+            "description": "Stefan braucht Infos über berufsbegleitende Masterstudiengänge."
+        },
+        {
+            "id": 4,
+            "description": "Miriam fragt sich, wie sie nach der Beförderung ihr Gehalt verhandelt."
+        },
+        {
+            "id": 5,
+            "description": "Ben benötigt rechtliche Tipps für den Start in die Freiberuflichkeit."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Gesund am Arbeitsplatz: Tipps für mehr Wohlbefinden",
+            "description": "Langes Sitzen, Bildschirmarbeit und Stress können die Gesundheit belasten. Mit einfachen Übungen für den Rücken, Tipps zur richtigen Bildschirmeinstellung und Ideen für gesunde Pausensnacks steigern Sie Ihr Wohlbefinden im Büro. So bleiben Sie fit und leistungsfähig durch den Arbeitstag.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Weiterbildung neben dem Beruf: Der passende Master für Sie",
+            "description": "Ein Masterabschluss kann die Karriere beflügeln, aber wie lässt er sich mit einem Vollzeitjob vereinbaren? Wir stellen verschiedene Modelle berufsbegleitender Studiengänge vor, von Abend- bis Fernstudium. Erfahren Sie mehr über Zulassungsvoraussetzungen, Kosten und Zeitaufwand verschiedener Anbieter.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Konflikte im Job: Konstruktiv lösen statt eskalieren lassen",
+            "description": "Reibungen im Team sind normal, können aber die Produktivität lähmen. Dieser Artikel zeigt bewährte Methoden auf, wie Sie Meinungsverschiedenheiten frühzeitig erkennen, ansprechen und gemeinsam mit Kollegen zu einer Lösung finden. Praktische Gesprächsleitfäden helfen dabei, auch schwierige Situationen zu meistern.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Souverän präsentieren: Kunden gewinnen, Aufträge sichern",
+            "description": "Eine gute Präsentation ist oft entscheidend für den Geschäftserfolg. Lernen Sie hier, wie Sie Ihre Inhalte klar strukturieren, mit Lampenfieber umgehen und Ihre Körpersprache gezielt einsetzen. Mit unseren Tipps überzeugen Sie auch kritische Zuhörer und hinterlassen einen bleibenden positiven Eindruck.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Die Zukunft der Arbeit: Trends und Prognosen",
+            "description": "Wie werden wir in zehn Jahren arbeiten? Künstliche Intelligenz, Homeoffice und neue Kollaborationsformen verändern die Arbeitswelt rasant. Experten analysieren die wichtigsten Entwicklungen und geben einen Ausblick auf die Herausforderungen und Chancen für Arbeitnehmer und Unternehmen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Start in die Selbstständigkeit: Rechtliche Hürden meistern",
+            "description": "Als Freiberufler arbeiten – das klingt attraktiv, birgt aber auch rechtliche Fallstricke. Welche Rechtsform ist die richtige? Was muss bei Rechnungen und Steuern beachtet werden? Dieser Artikel gibt einen Überblick über die wichtigsten rechtlichen Aspekte von der Anmeldung bis zur Vertragsgestaltung.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gehaltserhöhung nach der Beförderung: So fordern Sie fair",
+            "description": "Sie haben mehr Verantwortung übernommen? Dann sollte sich das auch im Gehalt widerspiegeln. Dieser Ratgeber erklärt, wie Sie Ihren Marktwert realistisch einschätzen, das Gespräch mit dem Vorgesetzten optimal vorbereiten und überzeugende Argumente für eine bessere Bezahlung finden.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Finanzierung für Gründer: Kapitalquellen erschließen",
+            "description": "Die beste Geschäftsidee nützt nichts ohne Startkapital. Dieser Leitfaden stellt die verschiedenen Finanzierungsmöglichkeiten für Start-ups vor – von Bankkrediten über Förderprogramme bis hin zu Business Angels. Erfahren Sie, wie Sie einen überzeugenden Finanzplan erstellen und Investoren gewinnen.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "h",
+        "3": "c",
+        "4": "d",
+        "5": "e"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Bekannten einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Daniel sucht nach seinem Studium nach passenden Einstiegsmöglichkeiten."
+        },
+        {
+            "id": 2,
+            "description": "Fatima möchte wissen, wie sie ihre Verhandlungskompetenzen verbessern kann."
+        },
+        {
+            "id": 3,
+            "description": "Markus leidet unter der schlechten Stimmung in seinem Team."
+        },
+        {
+            "id": 4,
+            "description": "Selina braucht Ratschläge zur Rechnungsstellung als Freiberuflerin."
+        },
+        {
+            "id": 5,
+            "description": "Jonas interessiert sich für die rechtlichen Aspekte von Homeoffice."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Effizienter Arbeiten: Die besten Zeitmanagement-Methoden",
+            "description": "Fühlen Sie sich oft überfordert und unproduktiv? Entdecken Sie bewährte Zeitmanagement-Techniken wie die Pomodoro-Methode oder das Eisenhower-Prinzip. Optimieren Sie Ihren Arbeitsalltag und erledigen Sie Aufgaben konzentrierter und stressfreier. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Giftige Atmosphäre am Arbeitsplatz? Was tun?",
+            "description": "Ein schlechtes Teamklima kann die Motivation und Leistung stark beeinträchtigen. Dieser Beitrag analysiert Ursachen für Spannungen und bietet konkrete Lösungsansätze für Mitarbeiter. Erfahren Sie, wie Sie zur Verbesserung der Stimmung beitragen und Konflikte konstruktiv ansprechen können. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Teamführung für Einsteiger: So motivieren Sie Ihr Personal",
+            "description": "Sie haben zum ersten Mal Personalverantwortung übernommen? Dieser Leitfaden gibt Ihnen wertvolle Tipps für einen erfolgreichen Start als Führungskraft. Lernen Sie, wie Sie Ihr Team effektiv leiten, motivieren und zu besseren Ergebnissen führen können. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Homeoffice: Rechte und Pflichten für Arbeitnehmer",
+            "description": "Immer mehr Menschen arbeiten von zu Hause. Doch welche rechtlichen Rahmenbedingungen gelten dabei? Dieser Artikel klärt über die wichtigsten Aspekte auf, wie Arbeitszeiterfassung, Datenschutz und die Ausstattung des Arbeitsplatzes durch den Arbeitgeber. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Der Sprung ins Berufsleben: Tipps für Absolventen",
+            "description": "Der Übergang vom Studium in den ersten Job ist eine Herausforderung. Dieser Artikel bietet praktische Ratschläge für die Stellensuche, von der Optimierung des Lebenslaufs bis zum erfolgreichen Vorstellungsgespräch. Erfahren Sie, wie Sie typische Hürden meistern und eine passende erste Position finden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Rechnungen schreiben für Freelancer: Darauf müssen Sie achten",
+            "description": "Als Freiberufler ist die korrekte Rechnungsstellung essenziell. Dieser Artikel erklärt alle wichtigen Pflichtangaben gemäß den gesetzlichen Vorgaben. Von der Steuernummer bis zu Zahlungsfristen – hier finden Sie eine praktische Checkliste und vermeiden teure Fehler. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Die Zukunft der Arbeit: Trends und Prognosen",
+            "description": "Wie werden wir in zehn oder zwanzig Jahren arbeiten? Experten analysieren die Auswirkungen von Digitalisierung, künstlicher Intelligenz und Globalisierung auf den Arbeitsmarkt. Ein spannender Ausblick auf kommende Veränderungen und neue Berufsbilder. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreich verhandeln im Job",
+            "description": "Ob Gehalt, Projekte oder Verantwortlichkeiten – Verhandlungsgeschick ist im Berufsleben entscheidend. Lernen Sie bewährte Techniken, wie Sie Ihre Argumente überzeugend präsentieren und Ihre Ziele erreichen. Dieser Ratgeber zeigt Ihnen, wie Sie sich optimal vorbereiten und souverän auftreten. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "h",
+        "3": "d",
+        "4": "c",
+        "5": "f"
+    }
+}

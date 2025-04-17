@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Sven bereitet sich auf sein erstes Vorstellungsgespräch vor und ist unsicher."
+        },
+        {
+            "id": 2,
+            "description": "Fatima leitet neu ein Team und möchte ihre Führungsqualitäten verbessern."
+        },
+        {
+            "id": 3,
+            "description": "Jan möchte mehr Zeit für seine Familie haben und erwägt Teilzeitarbeit."
+        },
+        {
+            "id": 4,
+            "description": "Clara findet es schwierig, formelle E-Mails auf Deutsch zu schreiben."
+        },
+        {
+            "id": 5,
+            "description": "David sucht einen neuen Job und will soziale Netzwerke dafür nutzen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Korrekte Geschäftskorrespondenz auf Deutsch",
+            "description": "Eine professionelle E-Mail kann Türen öffnen. Doch gerade im Deutschen gibt es bei Anrede, Grußformel und Stil einiges zu beachten. Dieser Ratgeber erklärt die wichtigsten Regeln für formelle E-Mails und liefert praktische Formulierungsbeispiele für den Geschäftsalltag. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Die Zukunft der Arbeit: Trends und Prognosen",
+            "description": "Digitalisierung, künstliche Intelligenz, New Work – die Arbeitswelt verändert sich rasant. Welche Berufe werden wichtiger, welche verschwinden? Ein Überblick über die wichtigsten Entwicklungen und was sie für Arbeitnehmerinnen und Arbeitnehmer in den nächsten Jahren bedeuten. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Vom Kollegen zum Vorgesetzten: Erfolgreich starten",
+            "description": "Der Rollenwechsel zur Führungskraft bringt Herausforderungen mit sich. Wie motiviert man sein Team effektiv? Wie delegiert man Aufgaben richtig und fair? Dieser Artikel gibt praxisnahe Tipps für frischgebackene Führungskräfte, um Vertrauen aufzubauen und erfolgreich zu leiten. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Jobsuche 2.0: Soziale Netzwerke effektiv nutzen",
+            "description": "LinkedIn, Xing und Co. sind längst wichtige Werkzeuge bei der Stellensuche geworden. Erfahren Sie, wie Sie Ihr Profil optimal gestalten, um von Recruitern gefunden zu werden, gezielt nach passenden Jobs suchen und Ihr berufliches Netzwerk für die Karriere nutzen können. Wichtige Dos and Don'ts inklusive. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Konflikte im Team konstruktiv lösen",
+            "description": "Meinungsverschiedenheiten gehören zum Arbeitsalltag. Doch wie geht man damit um, wenn aus Diskussionen Streit wird? Dieser Beitrag zeigt Methoden auf, wie Teams Konflikte frühzeitig erkennen, offen ansprechen und gemeinsam Lösungen finden können, um die Zusammenarbeit zu stärken. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Weniger arbeiten, mehr leben? Teilzeitmodelle im Check",
+            "description": "Der Wunsch nach reduzierter Arbeitszeit aus persönlichen oder familiären Gründen ist weit verbreitet. Doch welche Modelle gibt es und was sind die finanziellen und rechtlichen Folgen einer Teilzeitbeschäftigung? Wir beleuchten verschiedene Optionen und zeigen auf, was Sie bei Ihrer Entscheidung beachten sollten. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Sicher durchs Bewerbungsgespräch",
+            "description": "Die Einladung zum Gespräch ist da, aber die Nervosität steigt? Viele Bewerber fürchten knifflige Fragen zur Motivation oder zu Schwächen. Unser Karriere-Experte erklärt, wie Sie sich optimal vorbereiten, typische Fragen souverän beantworten und einen positiven Eindruck hinterlassen. Mit Checkliste! mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Erfolgreiche Azubi-Suche für Unternehmen",
+            "description": "Guter Nachwuchs ist für viele Betriebe entscheidend für die Zukunft. Doch wie findet man heutzutage passende Auszubildende auf einem umkämpften Markt? Wir stellen effektive Strategien für das Azubi-Marketing vor und geben Tipps, wie sich kleine und mittlere Unternehmen als attraktiver Arbeitgeber präsentieren können. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "b",
+        "3": "d",
+        "4": "h",
+        "5": "a"
+    }
+}

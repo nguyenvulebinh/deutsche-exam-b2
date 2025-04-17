@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jana möchte bei der Arbeit selbstsicherer präsentieren können."
+        },
+        {
+            "id": 2,
+            "description": "Markus ist unzufrieden und sucht eine Anleitung für den Jobwechsel."
+        },
+        {
+            "id": 3,
+            "description": "Fatima braucht technische Hilfe beim Aufbau ihres Online-Handels."
+        },
+        {
+            "id": 4,
+            "description": "Benno überlegt, seine Arbeitsstunden zu reduzieren und fragt nach Regeln."
+        },
+        {
+            "id": 5,
+            "description": "Herr Schmidt muss wissen, was die neue Datenschutzverordnung für sein Kleinunternehmen bedeutet."
+        }
+    ],
+    "articles": [
+        {
+            "id": "d",
+            "title": "Sicher Auftreten: Tipps für überzeugende Präsentationen",
+            "description": "Verbessern Sie Ihre Wirkung bei Vorträgen. Dieser Artikel zeigt Techniken für eine klare Struktur, selbstbewusste Körpersprache und den Umgang mit Lampenfieber. Praktische Übungen helfen Ihnen, Ihr Publikum zu fesseln und Ihre Botschaft effektiv zu vermitteln.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Visuell überzeugen: Die Kunst des Foliendesigns",
+            "description": "Gute Folien unterstützen Ihre Präsentation. Lernen Sie Grundregeln für ansprechendes Design, Lesbarkeit und den sinnvollen Einsatz von Bildern und Grafiken. Mit diesen Tipps gestalten Sie professionelle PowerPoint- oder Keynote-Folien, die im Gedächtnis bleiben.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Recht auf Teilzeit: Was Arbeitnehmer wissen müssen",
+            "description": "Sie möchten weniger arbeiten? Informieren Sie sich über Ihre Rechte. Dieser Beitrag erklärt die gesetzlichen Grundlagen für Teilzeitarbeit, wie Sie einen Antrag stellen und welche Auswirkungen eine Reduzierung auf Gehalt und Rente haben kann.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Neustart im Job: So gelingt der Wechsel",
+            "description": "Unzufrieden im aktuellen Job? Ein Wechsel kann die Lösung sein. Unser Leitfaden begleitet Sie Schritt für Schritt: von der Selbstanalyse über die Stellensuche bis zur erfolgreichen Bewerbung und Kündigung. Finden Sie die Position, die wirklich zu Ihnen passt.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Social Media Marketing für Start-ups",
+            "description": "Wie erreichen Sie Ihre Kunden online? Nutzen Sie die Kraft sozialer Netzwerke. Dieser Artikel gibt Einsteigertipps für effektives Marketing auf Plattformen wie Instagram und Facebook, um Ihre Marke bekannt zu machen und den Verkauf anzukurbeln.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Datenschutz im Kleinbetrieb: DSGVO-Grundlagen verstehen",
+            "description": "Die Datenschutz-Grundverordnung (DSGVO) betrifft auch kleine Unternehmen. Erfahren Sie hier die wichtigsten Pflichten: von der Datenschutzerklärung auf der Website bis zum Umgang mit Kundendaten. Vermeiden Sie teure Fehler durch korrektes Handeln.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Ihr Online-Shop leicht gemacht: Plattformen im Vergleich",
+            "description": "Wollen Sie Produkte online verkaufen? Die Wahl der richtigen Technik ist entscheidend. Wir vergleichen gängige E-Commerce-Systeme und Website-Baukästen hinsichtlich Kosten, Benutzerfreundlichkeit und Funktionen, speziell für Gründer und kleine Unternehmen.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Arbeitsschutz im Büro: Pflichten für Arbeitgeber",
+            "description": "Sind Ihre Büroarbeitsplätze sicher und gesundheitsgerecht? Als Arbeitgeber müssen Sie gesetzliche Vorgaben erfüllen. Dieser Artikel informiert über wichtige Aspekte wie Ergonomie am Schreibtisch, Bildschirmarbeit und Gefährdungsbeurteilungen im Büroumfeld.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "a",
+        "3": "h",
+        "4": "c",
+        "5": "e"
+    }
+}

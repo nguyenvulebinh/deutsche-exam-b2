@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Portal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "David sucht nach dem Studium seinen ersten richtigen Job."
+        },
+        {
+            "id": 2,
+            "description": "Anja hat oft Konflikte mit ihrer Chefin und sucht Rat."
+        },
+        {
+            "id": 3,
+            "description": "Felix muss bald eine wichtige Präsentation halten und ist nervös."
+        },
+        {
+            "id": 4,
+            "description": "Maria erwartet ein Kind und möchte wissen, wie das mit der Elternzeit funktioniert."
+        },
+        {
+            "id": 5,
+            "description": "Jonas glaubt, dass er zu wenig verdient und will eine Gehaltserhöhung."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Wenn der Job krank macht",
+            "description": "Steigender Druck, ständige Erreichbarkeit – viele Arbeitnehmer fühlen sich überfordert. Dieser Artikel beleuchtet die Ursachen von beruflichem Stress und Burnout. Erfahren Sie, welche Warnsignale Sie beachten sollten und welche präventiven Maßnahmen und Hilfsangebote es gibt, um die eigene psychische Gesundheit zu schützen. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Souverän präsentieren – auch bei Lampenfieber",
+            "description": "Eine wichtige Präsentation steht an und die Nervosität steigt? Keine Sorge, das lässt sich trainieren! Dieser Ratgeber gibt praktische Tipps für einen gelungenen Aufbau, überzeugende Körpersprache und den sicheren Umgang mit Fragen aus dem Publikum. Lernen Sie Strategien kennen, um Ihr Lampenfieber in positive Energie umzuwandeln. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Mehr Gehalt? So verhandeln Sie richtig!",
+            "description": "Sie leisten gute Arbeit, aber Ihr Gehalt spiegelt das nicht wider? Eine Gehaltserhöhung ist oft Verhandlungssache. Dieser Artikel zeigt Ihnen, wie Sie sich optimal vorbereiten, welche Argumente zählen und welche Strategien zum Erfolg führen. Finden Sie heraus, wann der richtige Zeitpunkt für das Gespräch ist. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Weiterbildung: Welche Kurse bringen mich wirklich weiter?",
+            "description": "Lebenslanges Lernen ist im modernen Berufsleben unerlässlich. Doch welche Weiterbildung lohnt sich? Dieser Überblick stellt verschiedene Bildungsangebote für Fachkräfte vor – von Sprachkursen über IT-Zertifikate bis hin zu Management-Seminaren. Informieren Sie sich über Fördermöglichkeiten und wie Sie Ihre Karrierechancen durch gezieltes Lernen verbessern. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Alles Wichtige zur Elternzeit",
+            "description": "Ein Kind verändert das Leben – auch beruflich. Wer Nachwuchs erwartet, hat Anspruch auf Elternzeit. Doch wie beantragt man sie richtig? Welche rechtlichen Grundlagen gelten? Dieser Artikel erklärt die wichtigsten Regelungen, Fristen und finanziellen Ansprüche während der Elternzeit für Mütter und Väter in Deutschland. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Erfolgreich in den Beruf starten",
+            "description": "Das Studium oder die Ausbildung ist geschafft – und nun? Der Einstieg ins Berufsleben birgt viele Chancen, aber auch einige Hürden. Dieser Artikel gibt wertvolle Tipps für Absolventen: von der optimierten Bewerbungsmappe über das Vorstellungsgespräch bis hin zur Orientierung in den ersten Wochen im neuen Job. So vermeiden Sie typische Fallstricke. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Das Büro der Zukunft: Flexibel und vernetzt?",
+            "description": "Homeoffice, Co-Working-Spaces, flexible Arbeitszeiten – die Arbeitswelt wandelt sich rasant. Wie sieht das ideale Büro von morgen aus? Dieser Beitrag beleuchtet aktuelle Trends in der Bürogestaltung und den Einsatz moderner Technologien. Lesen Sie, wie sich diese Entwicklungen auf die Zusammenarbeit und Mitarbeiterzufriedenheit auswirken können. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Konflikte am Arbeitsplatz lösen",
+            "description": "Meinungsverschiedenheiten mit Kollegen oder Ärger mit dem Vorgesetzten können den Arbeitsalltag belasten. Doch wie geht man konstruktiv damit um? Dieser Artikel bietet praxisnahe Kommunikationsstrategien und Lösungsansätze für typische Konfliktsituationen im Büro. Lernen Sie, wie man mit schwierigen Vorgesetzten umgeht und eine positive Arbeitsatmosphäre fördert. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "g",
+        "3": "e",
+        "4": "h",
+        "5": "a"
+    }
+}

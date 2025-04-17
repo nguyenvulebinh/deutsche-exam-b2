@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Ben hat sein Studium abgeschlossen und sucht Rat für den Berufseinstieg."
+        },
+        {
+            "id": 2,
+            "description": "Julia möchte beruflich relevante digitale Kompetenzen erlernen."
+        },
+        {
+            "id": 3,
+            "description": "Markus leidet unter dem Druck sehr fordernder Kollegen."
+        },
+        {
+            "id": 4,
+            "description": "Sonja wurde gerade zur Teamleiterin befördert und braucht Führungstipps."
+        },
+        {
+            "id": 5,
+            "description": "David arbeitet im Marketing und will den Einfluss von KI verstehen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Sprungbrett Karriere: Nach dem Studium erfolgreich durchstarten",
+            "description": "Der Übergang vom Studium ins Berufsleben stellt viele Absolventen vor Herausforderungen. Dieser Artikel bietet praktische Ratschläge zur Optimierung von Bewerbungsunterlagen, zur Vorbereitung auf Interviews und erklärt, wie man sich in den ersten Monaten im neuen Job bewährt. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Talente finden: Erfolgreiche Strategien für das Recruiting von Absolventen",
+            "description": "Wie ziehen Unternehmen die besten Hochschulabsolventen an? Wir analysieren effektive Employer-Branding-Maßnahmen, moderne Interviewtechniken und die Bedeutung von Praktika und Werkstudentenprogrammen für die frühzeitige Talentbindung. Für HR-Verantwortliche. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Fit für die digitale Arbeitswelt: Gefragte IT-Kenntnisse",
+            "description": "Die Digitalisierung verändert fast jeden Job. Lernen Sie, welche IT-Fähigkeiten heute besonders gefragt sind, von Cloud-Anwendungen bis Datenanalyse. Wir stellen passende Online-Kurse und Weiterbildungsformate vor, die Ihre Karrierechancen verbessern. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Effizient im Homeoffice: Die besten Tools für die digitale Zusammenarbeit",
+            "description": "Erfolgreiche Remote-Arbeit erfordert die richtigen Werkzeuge. Wir vergleichen beliebte Plattformen für Videokonferenzen, Projektmanagement und gemeinsamen Dateizugriff und geben Tipps, wie Teams auch auf Distanz produktiv bleiben. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Grenzen setzen im Job: Souverän mit fordernden Kollegen umgehen",
+            "description": "Ständige Unterbrechungen, unrealistische Erwartungen – manche Kollegen können den Arbeitsalltag belasten. Dieser Ratgeber zeigt Techniken auf, wie Sie klar kommunizieren, Ihre Grenzen behaupten und professionelle Beziehungen auch in schwierigen Situationen aufrechterhalten. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Gesund am Arbeitsplatz: Tipps für mehr Ergonomie und Wohlbefinden",
+            "description": "Langes Sitzen, Bildschirmarbeit – der Büroalltag birgt Gesundheitsrisiken. Erfahren Sie, wie Sie Ihren Arbeitsplatz ergonomisch gestalten, Pausen effektiv nutzen und mit einfachen Übungen Verspannungen vorbeugen. Für ein gesünderes Arbeiten. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Die erste Führungsrolle: Worauf es jetzt ankommt",
+            "description": "Der Wechsel vom Teammitglied zur Führungskraft bringt neue Aufgaben und Verantwortlichkeiten mit sich. Erfahren Sie, wie Sie Ihr Team motivieren, Aufgaben delegieren, Konflikte lösen und Ihre neue Rolle erfolgreich gestalten. Wichtige Grundlagen für angehende Leader. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Künstliche Intelligenz im Marketing: Trends und Chancen",
+            "description": "Wie verändert KI die Kundenansprache, Kampagnensteuerung und Marktanalyse? Dieser Artikel beleuchtet aktuelle Entwicklungen, zeigt konkrete Anwendungsbeispiele und diskutiert, welche Kompetenzen Marketing-Profis zukünftig benötigen werden. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "e",
+        "5": "d"
+    }
+}

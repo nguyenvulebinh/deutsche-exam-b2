@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsratgeber-Magazin und möchten Ihren Kollegen und Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jonas ist unsicher, wie er sich im neuen Job richtig verhalten soll."
+        },
+        {
+            "id": 2,
+            "description": "Maria möchte lernen, bei Präsentationen überzeugender zu wirken."
+        },
+        {
+            "id": 3,
+            "description": "David hat einen Konflikt mit einem Kollegen und sucht eine Lösung."
+        },
+        {
+            "id": 4,
+            "description": "Petra überlegt, ihre Arbeitsstunden zu reduzieren, und braucht Infos."
+        },
+        {
+            "id": 5,
+            "description": "Stefan möchte sich beruflich neu orientieren, weiß aber nicht wie."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Weniger arbeiten: Was Teilzeit wirklich bedeutet",
+            "description": "Viele träumen von mehr Freizeit durch reduzierte Arbeitszeit. Doch welche rechtlichen Ansprüche haben Arbeitnehmer? Wie wirkt sich Teilzeit auf Gehalt, Rente und Karrierechancen aus? Ein Überblick über die wichtigsten Fakten und Regelungen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Die perfekte Bewerbung schreiben",
+            "description": "Der Lebenslauf ist fertig, das Anschreiben formuliert? Gut! Aber kennen Sie die aktuellen Trends bei Online-Bewerbungen und wissen Sie, worauf Personaler wirklich achten? Tipps und Beispiele für eine Bewerbung, die heraussticht. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Erfolgreich präsentieren – Mehr als nur Folien",
+            "description": "Eine gute Präsentation fesselt das Publikum. Lernen Sie Techniken für einen starken Auftritt, von der richtigen Körpersprache bis zum Umgang mit Lampenfieber. Praktische Übungen helfen Ihnen, Ihre Botschaft klar und überzeugend zu vermitteln. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Berufliche Neuorientierung: So gelingt der Wechsel",
+            "description": "Unzufrieden im aktuellen Job? Ein Branchen- oder Berufswechsel kann neue Perspektiven eröffnen. Dieser Artikel zeigt Schritte zur Selbstfindung, informiert über Weiterbildungswege und gibt Tipps, wie Sie den Übergang erfolgreich gestalten. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Gesund bleiben im Büroalltag",
+            "description": "Langes Sitzen, Bildschirmarbeit, Stress – der Bürojob birgt Gesundheitsrisiken. Erfahren Sie, wie Sie mit einfachen Übungen, richtiger Ergonomie am Arbeitsplatz und bewussten Pausen Rückenschmerzen und anderen Beschwerden vorbeugen können. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Der gute Ton im Büro",
+            "description": "Die ersten Wochen im neuen Job sind entscheidend. Wie grüßt man richtig? Was sind die ungeschriebenen Regeln bei Meetings? Dieser Ratgeber hilft, Fettnäpfchen zu vermeiden und einen positiven Eindruck zu hinterlassen. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Investoren überzeugen: Der Pitch für Ihr Start-up",
+            "description": "Eine brillante Geschäftsidee braucht Kapital. Wie präsentiert man sein junges Unternehmen so, dass Geldgeber anbeißen? Von der Story bis zu den Finanzzahlen – erfahren Sie, wie Sie einen überzeugenden Pitch für potenzielle Investoren aufbauen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Konflikte im Team lösen",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind normal, können aber die Zusammenarbeit belasten. Erfahren Sie, wie Sie Konflikte frühzeitig erkennen, konstruktiv ansprechen und gemeinsam faire Lösungen finden können, bevor die Situation eskaliert. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "c",
+        "3": "d",
+        "4": "f",
+        "5": "e"
+    }
+}

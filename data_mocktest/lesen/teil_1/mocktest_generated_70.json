@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken. Entscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Sven sucht nach seinem Studium eine erste feste Stelle."
+        },
+        {
+            "id": 2,
+            "description": "Martina hat oft Meinungsverschiedenheiten mit einem Kollegen."
+        },
+        {
+            "id": 3,
+            "description": "Herr Bauer muss bald eine wichtige Präsentation halten."
+        },
+        {
+            "id": 4,
+            "description": "Fatima möchte wissen, welche Rechte sie bei Teilzeit hat."
+        },
+        {
+            "id": 5,
+            "description": "David hat eine Geschäftsidee und sucht Finanzierungsmöglichkeiten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Arbeiten in Teilzeit: Das sollten Sie wissen.",
+            "description": "Viele Arbeitnehmer wünschen sich kürzere Arbeitszeiten. Doch welche rechtlichen Rahmenbedingungen gelten? Der Artikel erklärt den Anspruch auf Teilzeit, mögliche Auswirkungen auf Gehalt und Rente sowie die Pflichten des Arbeitgebers. Informieren Sie sich über Ihre Rechte und Möglichkeiten, bevor Sie das Gespräch suchen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Der Arbeitsmarkt der Zukunft.",
+            "description": "Digitalisierung, Globalisierung, demografischer Wandel – die Arbeitswelt verändert sich rasant. Welche Branchen wachsen, welche schrumpfen? Dieser Artikel analysiert aktuelle Trends und gibt einen Ausblick, welche Qualifikationen in den nächsten Jahren besonders gefragt sein werden und wie sich Berufsbilder wandeln. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Streit im Büro?",
+            "description": "Konflikte am Arbeitsplatz sind belastend und können die Produktivität mindern. Lernen Sie bewährte Methoden zur Deeskalation und konstruktiven Kommunikation. Erfahren Sie, wie Sie Meinungsverschiedenheiten professionell ansprechen und gemeinsame Lösungen mit Kollegen finden, auch wenn die Situation angespannt ist. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Geld für die Gründung.",
+            "description": "Eine gute Idee allein reicht nicht – Start-ups brauchen Kapital. Dieser Überblick stellt verschiedene Finanzierungswege vor: von staatlichen Förderprogrammen über Bankkredite bis hin zu Business Angels und Crowdfunding. Erfahren Sie, welche Option für Ihr Vorhaben am besten passt und wie Sie potenzielle Geldgeber überzeugen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Der perfekte Lebenslauf.",
+            "description": "Im Bewerbungsprozess ist der erste Eindruck entscheidend. Ein gut strukturierter und ansprechender Lebenslauf ist Ihre persönliche Visitenkarte beim potenziellen Arbeitgeber. Hier finden Sie Tipps, wie Sie Ihre Erfahrungen und Qualifikationen optimal darstellen und sich positiv von anderen Bewerbern abheben. Mit Mustern und Beispielen. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Jobsuche für Akademiker.",
+            "description": "Der Übergang vom Studium ins Berufsleben ist eine Herausforderung. Dieser Artikel beleuchtet Strategien für Hochschulabsolventen: Wie findet man passende Stellenanzeigen, optimiert den Lebenslauf und überzeugt im Vorstellungsgespräch? Experten geben praxisnahe Tipps für einen erfolgreichen Karrierestart nach der Uni. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Mitarbeiter motivieren: So geht's.",
+            "description": "Motivierte Mitarbeiter sind das Kapital jeder Firma. Doch wie fördert man als Führungskraft Engagement und Zufriedenheit im Team nachhaltig? Dieser Leitfaden stellt verschiedene Anreizsysteme vor und erklärt die Bedeutung von Anerkennung und einer positiven Arbeitsatmosphäre für den langfristigen Unternehmenserfolg. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Souverän präsentieren.",
+            "description": "Eine überzeugende Präsentation kann beruflich Türen öffnen. Dieser Ratgeber zeigt, wie Sie Ihre Inhalte klar strukturieren, visuelle Hilfsmittel effektiv einsetzen und mit Ihrer Körpersprache punkten. Praktische Übungen helfen, Lampenfieber zu reduzieren und Ihr Publikum auch bei wichtigen Anlässen zu begeistern. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "f",
+        "3": "h",
+        "4": "g",
+        "5": "b"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Johannes möchte nach langer Zeit seinen Arbeitsplatz wechseln."
+        },
+        {
+            "id": 2,
+            "description": "Maria sucht Tipps für ihren Berufseinstieg nach dem Studium."
+        },
+        {
+            "id": 3,
+            "description": "David findet schwer die Balance zwischen Arbeit und Privatleben."
+        },
+        {
+            "id": 4,
+            "description": "Fatima will ihre Präsentationsfähigkeiten für Meetings verbessern."
+        },
+        {
+            "id": 5,
+            "description": "Kenan braucht Rat für die Gründung eines kleinen Online-Shops."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Überzeugend auftreten: So meistern Sie jede Präsentation",
+            "description": "Nervös vor Präsentationen? Dieser Leitfaden behandelt alles – von der logischen Strukturierung Ihrer Inhalte und der Gestaltung klarer Folien bis hin zum effektiven Einsatz von Körpersprache und dem souveränen Umgang mit schwierigen Fragen. Verbessern Sie Ihre Wirkung in Meetings. mehr..."
+        },
+        {
+            "id": "a",
+            "title": "Aktuelle Trends auf dem deutschen Arbeitsmarkt",
+            "description": "Welche Kompetenzen sind derzeit besonders gefragt? Welche Branchen wachsen? Diese Analyse untersucht die neuesten Entwicklungen auf dem deutschen Arbeitsmarkt und bietet Einblicke für Arbeitssuchende verschiedener Sektoren. Gehaltsbenchmarks werden ebenfalls diskutiert. mehr..."
+        },
+        {
+            "id": "f",
+            "title": "Vom Hörsaal ins Büro: Tipps für den gelungenen Start ins Berufsleben",
+            "description": "Der erste Job nach der Universität bringt besondere Herausforderungen mit sich. Erfahren Sie, wie Sie sich in der Unternehmenskultur zurechtfinden, einen guten ersten Eindruck hinterlassen, Erwartungen verstehen und typische Anfängerfehler vermeiden. Praxisnahe Ratschläge für Absolventen. mehr..."
+        },
+        {
+            "id": "h",
+            "title": "Ihr eigener Online-Shop: Schritt-für-Schritt zur E-Commerce-Gründung",
+            "description": "Sie träumen vom Online-Verkauf? Diese Anleitung erklärt die wichtigsten Schritte: Plattformwahl, rechtliche Anforderungen, Einrichtung von Zahlungssystemen und grundlegendes Online-Marketing für Kleinunternehmer. Mit Checkliste für angehende E-Commerce-Gründer. mehr..."
+        },
+        {
+            "id": "e",
+            "title": "Arbeitsrecht verstehen: Ihre Rechte als Arbeitnehmer",
+            "description": "Von Vertragsklauseln über Kündigungsschutz bis hin zu Überstundenregelungen – kennen Sie Ihre Rechte. Dieser Überblick erklärt zentrale Aspekte des deutschen Arbeitsrechts, die jeder Angestellte kennen sollte. Wichtige Informationen zur rechtlichen Orientierung am Arbeitsplatz. mehr..."
+        },
+        {
+            "id": "d",
+            "title": "Mehr Zeit für sich: Strategien für eine gesunde Work-Life-Balance",
+            "description": "Ständige Erreichbarkeit und hohe Arbeitsbelastung gefährden das Wohlbefinden. Entdecken Sie effektive Zeitmanagement-Techniken, lernen Sie Grenzen zu setzen und finden Sie praktische Wege, um Entspannung und Privatleben in einen anspruchsvollen Arbeitsalltag zu integrieren. mehr..."
+        },
+        {
+            "id": "g",
+            "title": "Digitale Transformation in Großunternehmen meistern",
+            "description": "Wie passen sich große Konzerne dem digitalen Wandel an? Erfahren Sie anhand von Fallstudien, wie digitale Strategien implementiert, Veränderungsprozesse gesteuert und Big Data für Unternehmenswachstum genutzt werden. Ein Einblick für das Top-Management. mehr..."
+        },
+        {
+            "id": "c",
+            "title": "Neuanfang wagen: Erfolgreicher Jobwechsel auch später im Berufsleben",
+            "description": "Viele fürchten den Jobwechsel nach Jahren beim selben Arbeitgeber. Dieser Artikel zeigt Strategien, um neue Chancen zu erkennen, Bewerbungsunterlagen zu aktualisieren und den Übergang auch in fortgeschrittenem Alter reibungslos zu gestalten. Erfolgsgeschichten inklusive. mehr..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "d",
+        "4": "b",
+        "5": "h"
+    }
+}

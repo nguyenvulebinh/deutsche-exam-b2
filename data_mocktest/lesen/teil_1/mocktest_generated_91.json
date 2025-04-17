@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jana muss oft Präsentationen halten und fühlt sich dabei unsicher."
+        },
+        {
+            "id": 2,
+            "description": "Robert möchte nach seiner längeren Elternzeit wieder in seinen Beruf einsteigen."
+        },
+        {
+            "id": 3,
+            "description": "Sofia ist unsicher, wie viele Überstunden gesetzlich zulässig sind."
+        },
+        {
+            "id": 4,
+            "description": "David übernimmt bald seine erste Teamleitung und sucht Orientierung."
+        },
+        {
+            "id": 5,
+            "description": "Maria sucht gezielt nach Stellenangeboten für die Arbeit im Homeoffice."
+        }
+    ],
+    "articles": [
+        {
+            "id": "d",
+            "title": "Überstunden: Rechte und Pflichten im Job",
+            "description": "Viele Arbeitnehmer leisten regelmäßig Überstunden. Doch wann sind diese verpflichtend und wie müssen sie vergütet werden? Dieser Artikel klärt über die gesetzlichen Regelungen auf und gibt Tipps, wie Sie Ihre Rechte durchsetzen können. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Erfolgreich im Homeoffice: Die besten Jobportale",
+            "description": "Immer mehr Unternehmen bieten Remote-Arbeit an. Doch wo findet man die passenden Stellen? Wir stellen die wichtigsten Online-Portale vor, die sich auf Homeoffice-Jobs spezialisiert haben, und geben Tipps für die Bewerbung. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Präsentationssoftware 2.0: Tools im Vergleich",
+            "description": "Professionelle Präsentationen leben von guter Software. Wir haben die neuesten Versionen von PowerPoint, Keynote und Prezi getestet. Erfahren Sie, welches Programm die besten Vorlagen und Funktionen für beeindruckende Folien bietet. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Souverän präsentieren: Mehr Wirkung erzielen",
+            "description": "Ob Meeting oder Kundenpräsentation – überzeugendes Auftreten ist lernbar. Dieses Online-Training zeigt Ihnen, wie Sie Ihre Inhalte klar strukturieren, Lampenfieber reduzieren und Ihr Publikum begeistern. Mit praktischen Übungen für den Alltag. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Ergonomie am Arbeitsplatz: Gesund im Homeoffice",
+            "description": "Wer viel von zu Hause arbeitet, sollte auf einen gesunden Arbeitsplatz achten. Tipps zur richtigen Einstellung von Stuhl und Bildschirm, zur optimalen Beleuchtung und zu Pausenregelungen für mehr Wohlbefinden und Produktivität. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Start als Führungskraft: Die ersten 100 Tage meistern",
+            "description": "Der Wechsel zur Führungskraft bringt neue Herausforderungen mit sich. Dieser Leitfaden unterstützt Sie in der Anfangsphase. Lernen Sie, wie Sie Ihr Team motivieren, effektiv delegieren und typische Führungsfehler vermeiden. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Megatrend KI: Wie verändert sich die Arbeitswelt?",
+            "description": "Künstliche Intelligenz wird viele Branchen revolutionieren. Welche Jobs sind gefährdet, welche entstehen neu? Experten analysieren aktuelle Entwicklungen und geben einen Ausblick auf die Kompetenzen der Zukunft. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Wiedereinstieg nach der Pause: Strategien für die Rückkehr",
+            "description": "Nach einer Familien- oder Auszeit wieder beruflich Fuß zu fassen, erfordert Planung. Dieser Artikel bietet praktische Ratschläge zur Aktualisierung des Lebenslaufs, zum Netzwerken und zur Stellensuche, um den Anschluss nicht zu verpassen. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "f",
+        "3": "d",
+        "4": "g",
+        "5": "a"
+    }
+}

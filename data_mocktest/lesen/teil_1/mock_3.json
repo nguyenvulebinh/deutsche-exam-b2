@@ -1,0 +1,77 @@
+{
+  "exercise_type": "TELC B2",
+  "skill": "Lesen",
+  "part": "Teil 1",
+  "instructions": "Sie lesen online in einer Wirtschaftszeitung und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+  "people": [
+    {
+      "id": 1,
+      "description": "Almin überlegt, welche Ausbildung zu ihm passt."
+    },
+    {
+      "id": 2,
+      "description": "Franz möchte sein Geschäft um Online-Handel erweitern."
+    },
+    {
+      "id": 3,
+      "description": "Monique interessiert sich für kreative Berufe."
+    },
+    {
+      "id": 4,
+      "description": "Asra fragt sich, warum sie beruflich nicht weiterkommt."
+    },
+    {
+      "id": 5,
+      "description": "Xaver braucht eine Webseite für seine Firma."
+    }
+  ],
+  "articles": [
+    {
+      "id": "a",
+      "title": "Unter der Lupe: Berufe für Menschen mit Fantasie",
+      "description": "Designerin, Spieleentwickler, Goldschmied, Mediengestalterin: Es gibt für fantasievolle Menschen viele Möglichkeiten, einen passenden Beruf zu finden. Für nicht alle diese Tätigkeiten braucht man eine formale Ausbildung. Wir stellen Ihnen die Top-Jobs vor."
+    },
+    {
+      "id": "b",
+      "title": "Kundenwünsche im Online-Handel",
+      "description": "Wussten Sie, dass 62 % aller Verbraucher einen Bestellvorgang im Online-Handel abbrechen, weil ihnen die Versandkosten zu hoch sind? Unser Beitrag befasst sich mit Kundenwünschen an Online-Plattformen und wie Sie als Händler diese Wünsche besser erfüllen können."
+    },
+    {
+      "id": "c",
+      "title": "Die 10 besten Homepage-Baukästen",
+      "description": "Ob Online-Handel oder Geschäft in der City: Man braucht immer eine technisch einwandfrei funktionierende Webseite. Die kostet und selbst machen lohnt sich! Lesen Sie unser Ranking der besten Do-it-yourself Anleitungen für Webseiten."
+    },
+    {
+      "id": "d",
+      "title": "Studium, Ausbildung oder Quereinstieg?",
+      "description": "Viele, die heute erfolgreich als Programmierer arbeiten, haben ihren Beruf dadurch gelernt, dass sie ihn einfach machen. Allerdings ist eine Ausbildung in diesem Beruf der sicherere Weg zu einer Karriere als Programmierer. Welcher Weg für Sie der richtige sein kann, erfahren Sie in diesem Insider-Bericht von Franz Ball."
+    },
+    {
+      "id": "e",
+      "title": "Kreativer Gründer: Zusätzliches Standbein für Start-ups",
+      "description": "Benni Wagner, der Gründer des erfolgreichen Online-Start-ups hot-soup.com erzählt, wie er seinem Geschäft im Internet eine zweite Verdienstquelle durch den Verkauf über die traditionelle Ladentheke erschlossen hat – und wie er damit mehr Umsatz als beim Online-Handel macht."
+    },
+    {
+      "id": "f",
+      "title": "Schnellstart Vertrieb übers Internet",
+      "description": "Immer mehr Menschen kaufen nicht mehr an der Ladentheke, sondern bestellen vom heimischen Computer aus. Professor Wendel von Struntz stellt außergewöhnliche Verkaufs-Plattformen im Internet vor und gibt Einsteigern in den Online-Handel eine praktische Anleitung – lesenswert!"
+    },
+    {
+      "id": "g",
+      "title": "„Du schaffst das!“ Umgang mit dem Karriereknick",
+      "description": "Wer hatte nicht schon einmal das Gefühl, sich beruflich im Kreis zu drehen oder im Job keine Zukunft zu haben? Allen, die sich die Frage stellen, warum eine Beförderung auf sich warten lässt, sei das Buch von Sanna Nickel empfohlen. Sie zeigt Wege aus der Sackgasse."
+    },
+    {
+      "id": "h",
+      "title": "Lena fragt! Beruf oder Berufung?",
+      "description": "Lena Kudruff stellt jungen Menschen Fragen: Was genau machst du in deinem Beruf? Was begeistert dich an deinem Beruf? Erfahren Sie alles über Berufe, für die man sich in Deutschland ausbilden lassen kann, und machen Sie am Ende einen Berufseignungstest."
+    }
+  ],
+  "solutions": {
+    "1": "h",
+    "2": "f",
+    "3": "a",
+    "4": "g",
+    "5": "c"
+  }
+}

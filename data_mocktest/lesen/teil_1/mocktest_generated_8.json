@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Sven hat Schwierigkeiten, seinen Arbeitstag im Homeoffice zu strukturieren."
+        },
+        {
+            "id": 2,
+            "description": "Miriam fragt sich, ob ihr Gehalt branchenüblich ist."
+        },
+        {
+            "id": 3,
+            "description": "David möchte lernen, bei Online-Meetings überzeugender aufzutreten."
+        },
+        {
+            "id": 4,
+            "description": "Fatima überlegt, eine Weiterbildung im Projektmanagement zu absolvieren."
+        },
+        {
+            "id": 5,
+            "description": "Laura sucht Ratschläge zum Umgang mit einem konfliktreichen Kollegen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Projektmanagement: Welches Zertifikat passt zu mir?",
+            "description": "Viele Fachkräfte wollen sich im Projektmanagement weiterbilden, doch die Auswahl an Kursen und Zertifikaten ist groß. Dieser Artikel gibt einen Überblick über die bekanntesten Qualifikationen wie PMP, PRINCE2 oder Scrum Master. Erfahren Sie, welche Vorteile sie bieten und wie Sie die richtige Wahl für Ihre Karriere treffen.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Homeoffice: Ihre Rechte als Arbeitnehmer",
+            "description": "Immer mehr Beschäftigte arbeiten von zu Hause. Doch wer ist für die Ausstattung zuständig? Wie sind Arbeitszeiten geregelt und was gilt beim Versicherungsschutz? Wir klären die wichtigsten rechtlichen Fragen rund um das mobile Arbeiten auf, damit Sie wissen, was Ihnen zusteht.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Zeitmanagement im Homeoffice meistern",
+            "description": "Die Arbeit von zu Hause bietet Flexibilität, stellt aber auch Herausforderungen an die Selbstorganisation. Dieser Leitfaden zeigt Ihnen bewährte Methoden, um Ihren Tag effektiv zu planen, Ablenkungen zu minimieren und klare Grenzen zwischen Arbeit und Freizeit zu ziehen. So steigern Sie Ihre Produktivität und beugen Stress vor.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Schwierige Kollegen? Strategien für ein besseres Miteinander",
+            "description": "Konflikte am Arbeitsplatz sind belastend und können die Teamleistung beeinträchtigen. Lernen Sie, wie Sie Spannungen frühzeitig erkennen und ansprechen können. Dieser Artikel bietet praktische Kommunikationstechniken und Lösungsansätze, um auch mit schwierigen Persönlichkeiten konstruktiv umzugehen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gehalt und Steuern: Was netto übrig bleibt",
+            "description": "Das Bruttogehalt ist nicht alles. Verschiedene Gehaltsbestandteile wie Boni oder Firmenwagen werden unterschiedlich besteuert und wirken sich auf Ihr Nettoeinkommen aus. Verstehen Sie die Grundlagen der Lohnsteuer und Sozialabgaben, um Ihre Gehaltsabrechnung besser nachvollziehen zu können.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Gehaltsvergleich: Sind Sie fair bezahlt?",
+            "description": "Viele Angestellte sind unsicher, ob ihr aktuelles Gehalt dem Marktstandard entspricht. Dieser Artikel erklärt, wie Sie durch Gehaltsvergleichsportale und Branchenreports realistische Einschätzungen gewinnen können. Zudem erhalten Sie Tipps, wie Sie diese Informationen in der nächsten Gehaltsverhandlung nutzen.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Virtuell überzeugen: Erfolgreiche Online-Präsentationen",
+            "description": "In Videokonferenzen gelten andere Regeln als bei Präsenzveranstaltungen. Wie halten Sie die Aufmerksamkeit Ihres Publikums? Wie nutzen Sie Mimik, Gestik und Stimme wirkungsvoll vor der Kamera? Entdecken Sie Tipps zur technischen Vorbereitung und zur Gestaltung interaktiver und fesselnder Online-Vorträge.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Die Arbeitswelt von morgen: Trends und Prognosen",
+            "description": "Künstliche Intelligenz, Automatisierung und neue Arbeitsmodelle verändern die Berufswelt rasant. Welche Kompetenzen werden in Zukunft gefragt sein? Welche Branchen wachsen, welche schrumpfen? Ein Ausblick auf die wichtigsten Entwicklungen, die unsere Jobs in den nächsten Jahren prägen werden.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "c",
+        "3": "f",
+        "4": "h",
+        "5": "g"
+    }
+}

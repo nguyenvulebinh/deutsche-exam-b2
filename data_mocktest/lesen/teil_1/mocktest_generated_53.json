@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Stefan sucht Ratschläge für das erste Bewerbungsgespräch."
+        },
+        {
+            "id": 2,
+            "description": "Maria möchte wissen, wie man ein Nebengewerbe korrekt anmeldet."
+        },
+        {
+            "id": 3,
+            "description": "David fühlt sich im Team nicht wohl und sucht nach Lösungen."
+        },
+        {
+            "id": 4,
+            "description": "Aisha möchte wissen, wie sie erfolgreich ihr Gehalt verhandeln kann."
+        },
+        {
+            "id": 5,
+            "description": "Julian möchte seine IT-Kenntnisse für den Büroalltag verbessern."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Mehr Geld verdienen: So klappt die Gehaltsverhandlung",
+            "description": "Sie leisten gute Arbeit, aber Ihr Gehalt spiegelt das nicht wider? Eine Gehaltserhöhung fällt nicht vom Himmel, man muss sie aktiv einfordern. Dieser Artikel zeigt Ihnen, wie Sie sich optimal vorbereiten, überzeugende Argumente finden und das Gespräch erfolgreich führen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Selbstständigkeit: Freiheit mit Risiken",
+            "description": "Der Schritt in die Selbstständigkeit lockt viele mit mehr Freiheit und Selbstbestimmung. Doch die Realität bringt auch Herausforderungen wie finanzielle Unsicherheit und hohe Arbeitsbelastung mit sich. Experten berichten über die Höhen und Tiefen des Unternehmertums. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Nebenberuflich selbstständig: Das müssen Sie beachten",
+            "description": "Immer mehr Angestellte gründen nebenbei ein eigenes kleines Unternehmen. Doch welche rechtlichen Schritte sind notwendig? Von der Gewerbeanmeldung bis zu steuerlichen Aspekten – dieser Ratgeber erklärt verständlich die wichtigsten Grundlagen für den Start ins Nebengewerbe. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Fit am PC: Nützliche Software-Tricks fürs Büro",
+            "description": "Effizienter arbeiten mit Word, Excel und Co.? Viele nützliche Funktionen gängiger Bürosoftware bleiben oft ungenutzt. Lernen Sie hier praktische Kniffe und Tastenkombinationen kennen, die Ihnen den Arbeitsalltag erleichtern und Zeit sparen helfen. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Mindestlohn: Was Arbeitgeber wissen müssen",
+            "description": "Seit der Einführung des gesetzlichen Mindestlohns gibt es immer wieder Fragen zur korrekten Anwendung. Welche Branchen sind betroffen? Wie wird die Arbeitszeit korrekt dokumentiert? Dieser Artikel fasst die wichtigsten Regelungen und Pflichten für Unternehmen zusammen. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Sicher durchs Vorstellungsgespräch",
+            "description": "Das erste Gespräch mit potenziellen Arbeitgebern ist oft nervenaufreibend. Wie bereitet man sich optimal vor? Welche Fragen werden häufig gestellt und wie antwortet man souverän? Karrierecoach Sabine Müller gibt praxisnahe Tipps für einen überzeugenden Auftritt. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Sicher im Netz: Schutz vor Cyber-Angriffen",
+            "description": "Phishing-Mails, Viren, Datenklau – die Gefahren im Internet nehmen zu. Sowohl privat als auch beruflich ist es wichtig, sensible Daten zu schützen. Erfahren Sie hier, welche einfachen Maßnahmen die Sicherheit erhöhen und wie Sie sich vor aktuellen Bedrohungen schützen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Harmonie im Team: Wenn Kollegen schwierig werden",
+            "description": "Nicht immer läuft die Zusammenarbeit reibungslos. Konflikte im Team können die Motivation und Produktivität stark beeinträchtigen. Wie geht man mit schwierigen Kollegen um und fördert ein positives Arbeitsklima? Experten geben Ratschläge zur Konfliktlösung und Kommunikation. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "g",
+        "3": "a",
+        "4": "f",
+        "5": "h"
+    }
+}

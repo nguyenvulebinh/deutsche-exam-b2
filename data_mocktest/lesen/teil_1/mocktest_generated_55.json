@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriereportal und möchten Ihren Kollegen und Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Nach langer Pause sucht Maria Tipps für ihre Bewerbungsunterlagen."
+        },
+        {
+            "id": 2,
+            "description": "Jakob möchte wissen, ob er einen Anspruch auf Teilzeitarbeit hat."
+        },
+        {
+            "id": 3,
+            "description": "Fatima ist unsicher, welche Weiterbildung ihre Karriere am besten fördert."
+        },
+        {
+            "id": 4,
+            "description": "David sucht nach Wegen, um Konflikte im Team besser zu lösen."
+        },
+        {
+            "id": 5,
+            "description": "Julia hat eine Geschäftsidee und braucht erste Infos zur Unternehmensgründung."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Jobsuche nach dem Studium: Erfolgreich starten",
+            "description": "Der Übergang von der Hochschule ins Berufsleben ist ein großer Schritt. Viele Absolventen sind unsicher, wie sie passende Stellen finden und sich optimal präsentieren. Wir geben Tipps für die erste Bewerbung, typische Fragen im Vorstellungsgespräch für Einsteiger und wie man Netzwerke nutzt. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Von der Idee zum Unternehmen: Erste Schritte für Gründer",
+            "description": "Der Schritt in die Selbstständigkeit ist aufregend, erfordert aber gute Planung. Was gehört in einen Businessplan? Welche Rechtsform ist die passende? Wo gibt es finanzielle Unterstützung? Dieser Artikel gibt einen Überblick über die wichtigsten ersten Schritte und Anlaufstellen für angehende Unternehmer. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Streit im Büro: Strategien für ein besseres Miteinander",
+            "description": "Meinungsverschiedenheiten gehören zum Arbeitsalltag. Eskalieren sie jedoch, leidet das Arbeitsklima und die Produktivität. Lernen Sie effektive Kommunikationstechniken kennen, um Konflikte frühzeitig anzusprechen, fair zu verhandeln und konstruktive Lösungen im Team zu finden. Auch der Umgang mit schwierigen Kollegen wird thematisiert. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Teilzeitmodelle als Chance für Unternehmen",
+            "description": "Flexible Arbeitszeiten werden für Arbeitnehmer immer wichtiger. Für Unternehmen kann das Angebot von Teilzeitstellen ein Weg sein, qualifizierte Fachkräfte zu gewinnen und zu halten. Lesen Sie, welche organisatorischen Aspekte zu beachten sind und wie Betriebe von mehr Flexibilität profitieren können. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Die richtige Weiterbildung finden: Ein Wegweiser",
+            "description": "Der Markt für Weiterbildungen ist riesig. Doch welche Maßnahme bringt Sie beruflich wirklich weiter? Dieser Leitfaden hilft Ihnen, Ihren Bedarf zu analysieren, passende Angebote zu recherchieren und die Qualität von Kursen zu bewerten. So investieren Sie sinnvoll in Ihre berufliche Zukunft. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Zurück in den Job: Bewerbungstipps für Wiedereinsteiger",
+            "description": "Wiedereinsteiger stehen oft vor besonderen Herausforderungen bei der Jobsuche. Veraltete Unterlagen oder Lücken im Lebenslauf können hinderlich sein. Dieser Artikel zeigt, wie Sie Ihre Bewerbungsmappe modernisieren, die Zeit der Pause positiv darstellen und bei Personalern punkten können. Wichtige Hinweise zu aktuellen Standards. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Starke Teams: Wie Teamevents den Zusammenhalt fördern",
+            "description": "Ein gutes Betriebsklima ist entscheidend für den Erfolg. Gemeinsame Aktivitäten außerhalb des Arbeitsplatzes können den Teamgeist stärken und die Kommunikation verbessern. Von sportlichen Herausforderungen bis zu kreativen Workshops – hier finden Sie Ideen für unvergessliche Teamevents. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Recht auf Teilzeit: Was Arbeitnehmer wissen müssen",
+            "description": "Viele Angestellte wünschen sich reduzierte Arbeitszeiten, sind aber unsicher über ihre Rechte. Das Teilzeit- und Befristungsgesetz regelt den Anspruch auf Verringerung der Arbeitszeit. Erfahren Sie hier, unter welchen Voraussetzungen Arbeitgeber dem Wunsch nachkommen müssen und wie Sie einen Antrag korrekt stellen. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "h",
+        "2": "b",
+        "3": "e",
+        "4": "g",
+        "5": "d"
+    }
+}

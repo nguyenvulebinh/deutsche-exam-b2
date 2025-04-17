@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna möchte sich mit einem Online-Shop selbstständig machen."
+        },
+        {
+            "id": 2,
+            "description": "Benno hat Schwierigkeiten, bei Präsentationen frei zu sprechen."
+        },
+        {
+            "id": 3,
+            "description": "Carla ist unzufrieden in ihrem Job und sucht neue Perspektiven."
+        },
+        {
+            "id": 4,
+            "description": "David leitet bald sein erstes großes Projekt und braucht Tipps."
+        },
+        {
+            "id": 5,
+            "description": "Eva möchte lernen, wie sie erfolgreich ihr Gehalt verhandelt."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Beruflicher Neustart: So finden Sie Ihre wahre Berufung",
+            "description": "Fühlen Sie sich in Ihrem aktuellen Job festgefahren? Ein beruflicher Wechsel kann neue Energie bringen. Entdecken Sie Methoden zur Selbstreflexion, um Ihre Stärken und Interessen zu erkennen. Wir geben Impulse, wie Sie neue Berufsfelder erkunden und den Mut für den nächsten Schritt finden. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "E-Commerce Trends 2024: Was erwartet den Handel?",
+            "description": "Künstliche Intelligenz, Nachhaltigkeit, personalisierte Kundenerlebnisse – der Online-Handel entwickelt sich rasant weiter. Experten analysieren die wichtigsten Trends und geben Prognosen für die kommenden Jahre. Lesen Sie, wie sich große Player positionieren und welche Technologien den Markt verändern werden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Gehaltsverhandlung: Mehr Geld für Ihre Leistung",
+            "description": "Das Jahresgespräch steht an oder Sie treten eine neue Stelle an? Eine gute Vorbereitung ist der Schlüssel zu einer erfolgreichen Gehaltsverhandlung. Lernen Sie, wie Sie Ihren Marktwert realistisch einschätzen, überzeugende Argumente formulieren und typische Fallstricke vermeiden. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Online-Handel: Startklar in 5 Schritten",
+            "description": "Die Gründung eines Online-Shops ist beliebt, birgt aber auch Herausforderungen. Von der Wahl der richtigen Plattform über rechtliche Grundlagen bis hin zu ersten Marketingstrategien – dieser Leitfaden bietet einen kompakten Überblick für angehende E-Commerce-Unternehmer. Erfahren Sie, wie Sie typische Anfängerfehler vermeiden. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Stressfrei im Job: Wege zu mehr Gelassenheit",
+            "description": "Hoher Leistungsdruck und ständige Erreichbarkeit führen oft zu Stress. Dieser Artikel stellt verschiedene Entspannungstechniken und Zeitmanagement-Methoden vor, die Ihnen helfen, im Berufsalltag gelassener zu bleiben. Erfahren Sie, wie Sie Burnout vorbeugen und Ihre Resilienz stärken können. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreiche Projektleitung für Einsteiger",
+            "description": "Die erste Projektleitung ist eine spannende Aufgabe. Dieser Beitrag liefert praktische Tipps für die Planung, Organisation und Steuerung von Projekten. Erfahren Sie, wie Sie Ihr Team motivieren, Ziele definieren und Risiken frühzeitig erkennen, um Ihr Projekt erfolgreich abzuschließen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Team-Events, die wirklich zusammenschweißen",
+            "description": "Ein starker Teamzusammenhalt ist entscheidend für den Unternehmenserfolg. Wir stellen kreative und effektive Ideen für Teambuilding-Maßnahmen vor – vom Outdoor-Abenteuer bis zum virtuellen Workshop. Erfahren Sie, wie Sie als Führungskraft das Wir-Gefühl in Ihrer Abteilung nachhaltig fördern können. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Souverän Präsentieren: Mehr Wirkung vor Publikum",
+            "description": "Lampenfieber vor Präsentationen? Damit sind Sie nicht allein. Dieser Artikel zeigt bewährte Techniken, um Nervosität zu kontrollieren und Ihre Botschaft klar und überzeugend zu vermitteln. Lernen Sie, wie Sie Ihre Körpersprache gezielt einsetzen und Ihr Publikum fesseln. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "h",
+        "3": "e",
+        "4": "f",
+        "5": "c"
+    }
+}

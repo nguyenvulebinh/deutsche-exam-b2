@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Ratgeber-Magazin für Berufstätige und möchten Ihren Freunden/Kollegen einige Artikel schicken. Entscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Stefan muss nächste Woche eine wichtige Präsentation halten."
+        },
+        {
+            "id": 2,
+            "description": "Maria fängt bald ihre neue Stelle an und ist unsicher."
+        },
+        {
+            "id": 3,
+            "description": "Julia ertrinkt in E-Mails und sucht nach Organisationsmethoden."
+        },
+        {
+            "id": 4,
+            "description": "Ahmed überlegt, neben dem Job zu studieren, fürchtet aber Stress."
+        },
+        {
+            "id": 5,
+            "description": "Frau Klein braucht Klarheit über Datenschutz für ihr kleines Geschäft."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Studium neben dem Beruf: Geht das gut?",
+            "description": "Weiterbildung ist wichtig, aber ein berufsbegleitendes Studium bedeutet eine Doppelbelastung. Wir beleuchten die Herausforderungen wie Zeitmanagement und Lernaufwand. Erfahrungsberichte helfen Ihnen bei der Entscheidung, ob dieser Weg für Sie machbar ist.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Perfekte Folien: Design-Tipps für PowerPoint",
+            "description": "Das Auge isst mit – auch bei Präsentationen. Wir zeigen Ihnen, wie Sie mit einfachen Tricks ansprechende und professionelle Folien gestalten. Von der Wahl der Schriftart bis zur Einbindung von Grafiken – so wird Ihr Vortrag auch optisch ein Erfolg.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreicher Start im neuen Job",
+            "description": "Die ersten Wochen entscheiden oft über den weiteren Erfolg. Wie hinterlassen Sie einen guten Eindruck bei Kollegen und Vorgesetzten? Worauf sollten Sie achten, um die Unternehmenskultur schnell zu verstehen und typische Anfangsfehler zu vermeiden?\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Datenschutz-Grundlagen für Kleinunternehmer",
+            "description": "Die DSGVO stellt auch kleine Firmen vor Herausforderungen. Welche Daten dürfen Sie sammeln, wie müssen Sie diese schützen und was sind die Konsequenzen bei Verstößen? Dieser Ratgeber erklärt die wichtigsten Regeln verständlich und praxisnah.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Gehaltsreport 2024: Was verdienen Berufseinsteiger?",
+            "description": "Sie stehen am Anfang Ihrer Karriere und fragen sich, welches Gehalt realistisch ist? Unser aktueller Report vergleicht Einstiegsgehälter in verschiedenen Branchen und Regionen Deutschlands. Informieren Sie sich über die aktuellen Markttrends.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Souverän präsentieren: Mehr als nur Folien",
+            "description": "Viele konzentrieren sich nur auf die PowerPoint-Folien. Doch eine überzeugende Präsentation lebt von guter Struktur, klarer Sprache und sicherem Auftreten. Lernen Sie Techniken, wie Sie Ihr Publikum fesseln und auch schwierige Fragen meistern.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Großraumbüro: Vor- und Nachteile moderner Arbeitswelten",
+            "description": "Offene Bürokonzepte sollen die Kommunikation fördern, doch viele Mitarbeiter klagen über Lärm und Ablenkung. Welche Auswirkungen hat das Großraumbüro wirklich auf Produktivität und Wohlbefinden? Eine Analyse der aktuellen Studienlage.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Schluss mit der E-Mail-Flut: Das Postfach meistern",
+            "description": "Ihr Posteingang quillt über und Sie verlieren den Überblick? Mit den richtigen Strategien können Sie die tägliche E-Mail-Menge bewältigen. Dieser Artikel zeigt effektive Methoden zur Priorisierung, Organisation und schnellen Bearbeitung Ihrer digitalen Post.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "h",
+        "3": "a",
+        "4": "c",
+        "5": "g"
+    }
+}

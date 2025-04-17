@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kolleginnen und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Bernd, seit 15 Jahren Ingenieur, möchte sich beruflich neu orientieren."
+        },
+        {
+            "id": 2,
+            "description": "Julia muss oft online präsentieren und möchte überzeugender wirken."
+        },
+        {
+            "id": 3,
+            "description": "Fatima bewirbt sich gerade und ist unsicher, ob ihr Lebenslauf gut ist."
+        },
+        {
+            "id": 4,
+            "description": "Stefan fühlt sich durch ständige Erreichbarkeit gestresst."
+        },
+        {
+            "id": 5,
+            "description": "Maria möchte neben dem Beruf einen Masterabschluss machen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Digitale Balance: Grenzen setzen im Job",
+            "description": "Die Grenzen zwischen Arbeit und Freizeit verschwimmen immer mehr. Ständige Erreichbarkeit per E-Mail und Messenger kann zu erheblichem Stress führen. Dieser Artikel zeigt praktische Strategien auf, wie Sie klare Grenzen definieren, digitale Benachrichtigungen managen und bewusste Auszeiten im Arbeitsalltag integrieren können, um Ihre mentale Gesundheit zu schützen.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreicher Berufseinstieg nach dem Studium",
+            "description": "Der Übergang von der Universität ins Berufsleben ist eine große Herausforderung. Viele Absolventen sind unsicher, wie sie den ersten Job finden. Wir geben Tipps zur Jobsuche, zur Vorbereitung auf Vorstellungsgespräche und erklären, welche Erwartungen Unternehmen an Berufseinsteiger haben und welche Rolle Praktika spielen.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Digitale Präsentationen, die beeindrucken",
+            "description": "Online-Meetings und virtuelle Vorträge sind alltäglich geworden. Doch wie hält man das Publikum bei Laune und vermittelt seine Botschaft klar? Lernen Sie, wie Sie Ihre digitalen Präsentationen strukturieren, visuell ansprechend gestalten und mit welchen Techniken Sie auch über den Bildschirm hinweg souverän und überzeugend auftreten.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Berufsbegleitend studieren: Modelle und Tipps",
+            "description": "Ein weiterer akademischer Abschluss neben dem Job? Das ist möglich, erfordert aber gute Planung. Wir stellen verschiedene Modelle vor – vom Abend- über das Fern- bis zum Wochenendstudium. Erfahren Sie mehr über Voraussetzungen, Zeitaufwand, Kosten und wie Sie Studium und Beruf erfolgreich miteinander vereinbaren können.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Online-Marketing für Kleinunternehmer",
+            "description": "Für kleine Unternehmen ist Sichtbarkeit im Internet entscheidend. Doch wie erreicht man potenzielle Kunden ohne großes Budget? Dieser Ratgeber erklärt die Grundlagen des Online-Marketings: von Suchmaschinenoptimierung (SEO) über Social-Media-Strategien bis hin zu effektiven Werbeanzeigen im Netz für lokale Betriebe.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Später Karrierewechsel: So gelingt der Neustart",
+            "description": "Nach vielen Jahren im selben Beruf einen neuen Weg einschlagen? Das erfordert Mut und Planung. Erfahren Sie, wie Sie Ihre vorhandenen Kompetenzen analysieren, neue Berufsfelder identifizieren und sich gezielt weiterbilden können. Wir beleuchten typische Herausforderungen und Erfolgsfaktoren für den beruflichen Neustart in der Lebensmitte.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Das Büro der Zukunft: Kollaboration fördern",
+            "description": "Moderne Arbeitswelten sollen Kreativität und Zusammenarbeit unterstützen. Flexible Arbeitsplätze, offene Kommunikationszonen und innovative Raumkonzepte prägen das Büro von morgen. Lesen Sie, welche Trends sich durchsetzen und wie die physische Umgebung die Teamarbeit und Unternehmenskultur positiv beeinflussen kann.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Der perfekte Lebenslauf für den deutschen Arbeitsmarkt",
+            "description": "Ihr Lebenslauf ist Ihre Visitenkarte bei der Bewerbung. In Deutschland gelten dabei bestimmte Standards. Dieser Artikel erklärt Schritt für Schritt, wie ein überzeugender Lebenslauf aufgebaut ist, welche Informationen hineingehören (und welche nicht!), wie Sie Ihre Qualifikationen optimal darstellen und häufige Fehler vermeiden.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "h",
+        "3": "d",
+        "4": "c",
+        "5": "g"
+    }
+}

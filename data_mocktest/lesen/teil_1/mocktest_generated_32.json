@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken. Entscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jan sucht Rat, wie er ein kleines Café eröffnen kann."
+        },
+        {
+            "id": 2,
+            "description": "Sofia möchte wissen, wie sie ihre nächste Gehaltserhöhung bekommt."
+        },
+        {
+            "id": 3,
+            "description": "David fühlt sich von seiner Arbeit überfordert und sucht Ausgleich."
+        },
+        {
+            "id": 4,
+            "description": "Maria braucht Tipps, um bei Meetings besser zu argumentieren."
+        },
+        {
+            "id": 5,
+            "description": "Tobias überlegt, ob Freiberuflichkeit das Richtige für ihn ist."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Überzeugend auftreten: Argumentationstraining für Meetings",
+            "description": "Lernen Sie, wie Sie Ihre Standpunkte in Besprechungen klar strukturieren und wirkungsvoll vertreten. Dieser Leitfaden behandelt rhetorische Grundlagen, den Umgang mit Gegenargumenten und selbstsicheres Präsentieren. Mit praktischen Übungen für die nächste Teamdiskussion. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Arbeitsmarkt im Wandel: Zukünftige Jobtrends",
+            "description": "Digitalisierung und künstliche Intelligenz verändern ganze Branchen. Erfahren Sie, welche Sektoren wachsen und welche Kompetenzen in Zukunft gefragt sein werden. Eine Analyse für die langfristige Karriereplanung und das Verständnis von Marktveränderungen. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreich verhandeln: Mehr Gehalt durchsetzen",
+            "description": "Die Forderung nach einer Gehaltserhöhung erfordert gute Vorbereitung. Verstehen Sie, wie Sie Vergleichsgehälter recherchieren, den richtigen Zeitpunkt wählen und Ihre Leistungen selbstbewusst präsentieren. Inklusive Tipps von Verhandlungsexperten. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Selbstständig oder angestellt? Vor- und Nachteile der Freiberuflichkeit",
+            "description": "Entdecken Sie die Welt der Freiberufler. Wir vergleichen die Sicherheit eines Angestelltenverhältnisses mit der Autonomie der Selbstständigkeit und beleuchten Aspekte wie Versicherung, Steuern und Kundenakquise. Eine Entscheidungshilfe für Ihre berufliche Zukunft. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Gesunde Führung: Stress im Team vermeiden",
+            "description": "Als Führungskraft ist das Wohlbefinden Ihres Teams entscheidend. Lernen Sie praktische Strategien zur Reduzierung von Arbeitsbelastung, zur Förderung eines positiven Arbeitsklimas und zum frühzeitigen Erkennen von Burnout-Anzeichen. Ein Ratgeber für Vorgesetzte und Teamleiter. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Ihr Weg zum eigenen Gastronomiebetrieb",
+            "description": "Träumen Sie von Ihrem eigenen Café oder Restaurant? Dieser Schritt-für-Schritt-Guide deckt alles ab – vom Businessplan über Finanzierungsmöglichkeiten bis hin zu notwendigen Genehmigungen und der Standortsuche. Expertenrat für angehende Gastronomen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Innovationsführer: Wie TechCorp die Branche revolutioniert",
+            "description": "Ein tiefer Einblick in die Erfolgsgeschichte von TechCorp. Entdecken Sie die bahnbrechenden Strategien des Unternehmens in der Softwareentwicklung und Marktgestaltung. Eine inspirierende Lektüre über unternehmerisches Wachstum und Visionen. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Stress lass nach: Techniken für den Arbeitsalltag",
+            "description": "Fühlen Sie sich von den täglichen Aufgaben überfordert? Entdecken Sie wirksame Methoden wie Achtsamkeit, Zeitmanagement-Techniken (z.B. Pomodoro) und das Setzen von Grenzen, um wieder Kontrolle zu gewinnen und Stress abzubauen. Praktische Tipps zur sofortigen Anwendung. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "h",
+        "3": "e",
+        "4": "g",
+        "5": "a"
+    }
+}

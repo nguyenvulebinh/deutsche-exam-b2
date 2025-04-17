@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Ben möchte nach dem Studium in einem internationalen Unternehmen arbeiten."
+        },
+        {
+            "id": 2,
+            "description": "Fatima hat Schwierigkeiten mit einem Kollegen, der sie ständig kritisiert."
+        },
+        {
+            "id": 3,
+            "description": "David arbeitet im IT-Bereich und will sich über neue Technologien informieren."
+        },
+        {
+            "id": 4,
+            "description": "Julia leitet ein Team und sucht Ideen, um ihre Mitarbeiter zu motivieren."
+        },
+        {
+            "id": 5,
+            "description": "Markus wünscht sich flexiblere Arbeitszeiten für eine bessere Work-Life-Balance."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Erfolgreich verhandeln: Tipps für die nächste Gehaltsrunde",
+            "description": "Wann ist der richtige Zeitpunkt für eine Gehaltsverhandlung? Wie bereitet man sich optimal vor und welche Argumente überzeugen den Chef am besten? Mit den richtigen Strategien können Sie selbstbewusst auftreten und ein faires Gehalt für Ihre Leistung aushandeln. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Mobbing am Arbeitsplatz: Wehren Sie sich!",
+            "description": "Konflikte gehören zum Berufsalltag, aber was tun, wenn es persönlich wird und ständige Kritik oder Ausgrenzung den Arbeitsalltag belasten? Dieser Ratgeber erklärt, wie Sie Mobbing erkennen, welche rechtlichen Schritte möglich sind und wo Sie professionelle Unterstützung finden können. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Das perfekte Büro: Produktivität durch Raumgestaltung",
+            "description": "Die Gestaltung des Arbeitsplatzes beeinflusst Wohlbefinden und Leistung. Von ergonomischen Stühlen über optimale Beleuchtung bis hin zu Pflanzen – erfahren Sie, wie Sie Ihr Büro oder Ihren Homeoffice-Platz so gestalten können, dass Kreativität und Konzentration gefördert werden. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Karriere im Ausland: So klappt der Einstieg",
+            "description": "Viele träumen davon, bei einem Global Player zu arbeiten. Doch der Weg dorthin ist oft steinig. Welche Qualifikationen sind besonders gefragt? Wie bewirbt man sich erfolgreich bei internationalen Firmen und was sind kulturelle Unterschiede im Bewerbungsprozess? Dieser Artikel gibt praktische Tipps. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Flexibel Arbeiten: Modelle für die moderne Arbeitswelt",
+            "description": "Homeoffice, Gleitzeit, Vertrauensarbeitszeit – flexible Arbeitsmodelle gewinnen an Bedeutung für eine gute Work-Life-Balance. Doch welche Optionen gibt es genau? Dieser Artikel stellt verschiedene Modelle vor und beleuchtet deren Vor- und Nachteile für Arbeitnehmer und Arbeitgeber. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Mitarbeiter motivieren: Mehr als nur Gehaltserhöhungen",
+            "description": "Engagierte Mitarbeiter sind entscheidend für den Erfolg. Doch wie schafft man als Führungskraft ein motivierendes Arbeitsumfeld? Neben fairer Bezahlung spielen Anerkennung, Weiterbildungschancen und eine positive Teamkultur eine große Rolle. Entdecken Sie bewährte Strategien für moderne Leader. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Zukunft der IT: Cloud Computing und KI auf dem Vormarsch",
+            "description": "Die digitale Transformation verändert die Arbeitswelt rasant. Cloud-Lösungen, Künstliche Intelligenz und Cybersicherheit sind zentrale Themen für die IT von morgen. Erfahren Sie, welche technologischen Entwicklungen aktuell sind und welche Skills in der Branche jetzt besonders gefragt sind. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Internationaler Handel: Neue Zollbestimmungen beachten",
+            "description": "Der globale Warenaustausch wird durch neue EU-Vorschriften komplexer. Unternehmen, die importieren oder exportieren, müssen sich dringend über die ab Juli geltenden Änderungen informieren. Dieser Artikel bietet einen Überblick über die wichtigsten neuen Zollregelungen und was Firmen beachten müssen. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "b",
+        "3": "f",
+        "4": "c",
+        "5": "h"
+    }
+}

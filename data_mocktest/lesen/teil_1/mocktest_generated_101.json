@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriereportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna möchte in ihrer Firma aufsteigen und sucht Karrieretipps."
+        },
+        {
+            "id": 2,
+            "description": "Ben arbeitet Vollzeit, will aber nebenbei eine kleine Firma gründen."
+        },
+        {
+            "id": 3,
+            "description": "Carlos hat oft Missverständnisse bei der Kommunikation mit internationalen Kollegen."
+        },
+        {
+            "id": 4,
+            "description": "Diana sucht nach einer beruflich sinnvollen Tätigkeit im Umweltbereich."
+        },
+        {
+            "id": 5,
+            "description": "Emil muss oft präsentieren, fühlt sich aber dabei unsicher."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Finanzierung für Start-ups: Woher kommt das Kapital?",
+            "description": "Jede gute Geschäftsidee braucht Kapital, um zu wachsen. Von Business Angels über Venture Capital bis hin zu staatlichen Förderprogrammen – wir geben einen Überblick über die verschiedenen Finanzierungsquellen für junge Unternehmen. Erfahren Sie, worauf Investoren achten und wie Sie einen überzeugenden Pitch vorbereiten. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Die Karriereleiter erklimmen: Strategien für den nächsten Schritt",
+            "description": "Viele Angestellte wünschen sich eine Beförderung, wissen aber nicht, wie sie ihre Vorgesetzten überzeugen können. Dieser Artikel zeigt konkrete Schritte auf, wie Sie Ihre Leistungen sichtbar machen und das Gespräch über mehr Verantwortung erfolgreich führen. Erfahren Sie, welche Soft Skills dabei besonders zählen. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Souverän Präsentieren: Lampenfieber ade!",
+            "description": "Ob vor Kollegen, Kunden oder dem Chef – eine überzeugende Präsentation ist oft entscheidend. Lernen Sie Techniken, wie Sie Ihre Inhalte klar strukturieren, visuell ansprechend gestalten und Ihre Nervosität in positive Energie umwandeln. Mit praktischen Übungen für mehr Selbstsicherheit beim Sprechen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gesund am Arbeitsplatz: Tipps für mehr Wohlbefinden",
+            "description": "Langes Sitzen, Stress und ständige Erreichbarkeit können die Gesundheit belasten. Von ergonomischen Büromöbeln über Bewegungspausen bis hin zu Achtsamkeitsübungen – entdecken Sie einfache Maßnahmen, wie Sie körperlich und mental fit bleiben und Burnout vorbeugen können. Mehr Energie für den Job! mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Globales Teamwork: Kulturelle Hürden überwinden",
+            "description": "In internationalen Teams treffen unterschiedliche Kommunikationsstile aufeinander. Das kann zu Missverständnissen führen. Dieser Ratgeber erklärt typische kulturelle Unterschiede im Geschäftsleben und gibt praktische Tipps, wie Sie klarer kommunizieren und die Zusammenarbeit verbessern können. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Selbstständig neben dem Job: So gelingt der Start",
+            "description": "Der Traum vom eigenen Chef, ohne die Sicherheit des Angestelltenverhältnisses aufzugeben? Das ist möglich! Erfahren Sie, welche rechtlichen Aspekte Sie beachten müssen, wie Sie Ihre Zeit effektiv managen und welche Geschäftsmodelle sich besonders für den nebenberuflichen Einstieg eignen. Mit Checkliste. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Grüne Karrierewege: Jobs mit Zukunft und Sinn finden",
+            "description": "Nachhaltigkeit ist ein wachsender Wirtschaftssektor. Entdecken Sie Berufsfelder im Umwelt- und Klimaschutz, von erneuerbaren Energien bis zur Kreislaufwirtschaft. Wir zeigen, welche Qualifikationen gefragt sind und wo Sie passende Stellenangebote in diesem sinnvollen Bereich finden. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Moderne Kommunikationstools im Büro",
+            "description": "Slack, Teams, Zoom – die Auswahl an digitalen Werkzeugen für die interne Firmenkommunikation ist riesig. Doch welches Tool passt am besten zu welchem Zweck? Wir vergleichen die beliebtesten Plattformen und geben Tipps für eine effizientere Zusammenarbeit im Team, auch im Homeoffice. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "c",
+        "3": "g",
+        "4": "a",
+        "5": "f"
+    }
+}

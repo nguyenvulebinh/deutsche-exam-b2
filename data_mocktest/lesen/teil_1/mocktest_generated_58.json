@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen und Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jan wurde befördert und möchte seine Führungsqualitäten verbessern."
+        },
+        {
+            "id": 2,
+            "description": "Sofia findet, sie leistet viel, wird aber nicht gut genug bezahlt."
+        },
+        {
+            "id": 3,
+            "description": "Herr Müller geht bald in Rente und sucht Informationen zum Übergang."
+        },
+        {
+            "id": 4,
+            "description": "David möchte nebenberuflich ein Online-Geschäft aufbauen."
+        },
+        {
+            "id": 5,
+            "description": "Lena hat Schwierigkeiten, mit einem bestimmten Kollegen zusammenzuarbeiten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Vom Kollegen zum Chef: Den Rollenwechsel meistern",
+            "description": "Viele Fachkräfte übernehmen plötzlich Führungsverantwortung und müssen lernen, ein Team zu leiten. Das ist nicht immer einfach, besonders wenn man vorher auf gleicher Ebene mit den Kollegen war. Dieser Artikel gibt praktische Tipps, wie man Autorität gewinnt, effektiv delegiert und ein motivierendes Arbeitsumfeld schafft.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die Arbeitswelt von morgen: Trends und Prognosen",
+            "description": "Digitalisierung, künstliche Intelligenz und New Work verändern unsere Berufe rasant. Welche Kompetenzen werden in Zukunft gefragt sein? Wie werden wir arbeiten? Ein Überblick über die wichtigsten Entwicklungen und Herausforderungen auf dem Arbeitsmarkt der nächsten Jahre, auf die sich Unternehmen und Arbeitnehmer einstellen müssen.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Mehr Geld verdienen: So verhandeln Sie erfolgreich Ihr Gehalt",
+            "description": "Fühlen Sie sich unterbezahlt? Gute Leistung sollte fair entlohnt werden. Erfahren Sie, wie Sie sich optimal auf das Gehaltsgespräch vorbereiten, überzeugende Argumente finden und selbstbewusst Ihre Forderungen durchsetzen können, ohne die Beziehung zum Vorgesetzten zu belasten oder unrealistisch zu wirken.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Gesund essen im Büro: Tipps für die Mittagspause",
+            "description": "Wer konzentriert arbeiten will, braucht Energie. Oft greift man im Stress aber zu ungesundem Fast Food. Entdecken Sie schnelle und leckere Rezepte für die Mittagspause, die sich gut vorbereiten lassen und Ihnen helfen, fit und leistungsfähig durch den Arbeitstag zu kommen. Schluss mit dem Mittagstief!\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Der Ruhestand naht: Gut vorbereitet in den neuen Lebensabschnitt",
+            "description": "Der Renteneintritt ist ein großer Schritt, der gut geplant sein will. Neben finanziellen Fragen geht es auch darum, wie man die neugewonnene Zeit sinnvoll gestaltet. Dieser Ratgeber behandelt wichtige Aspekte von der Rentenberechnung über Versicherungen bis zur Freizeitplanung und gibt Tipps für einen gelungenen Start in den Ruhestand.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Ausbildungsplatz gesucht? Die besten Strategien für Schulabgänger",
+            "description": "Die Wahl des richtigen Ausbildungsberufs ist eine wichtige Entscheidung nach der Schule. Wo findet man passende Stellen? Wie schreibt man eine überzeugende Bewerbung? Dieser Leitfaden unterstützt Jugendliche und junge Erwachsene bei der Suche nach dem idealen Ausbildungsplatz und dem erfolgreichen Start ins Berufsleben.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "E-Commerce für Einsteiger: Ihr Weg zum eigenen Online-Shop",
+            "description": "Das Internet bietet große Chancen für Gründer, auch neben dem Hauptjob. Doch wie startet man erfolgreich einen Online-Shop? Von der Wahl der richtigen Plattform über rechtliche Grundlagen bis hin zu Marketingstrategien – dieser Artikel erklärt Schritt für Schritt, worauf Sie beim Aufbau Ihres E-Commerce-Geschäfts achten müssen.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Konflikte am Arbeitsplatz: Souverän mit schwierigen Kollegen umgehen",
+            "description": "Meinungsverschiedenheiten und Reibereien im Team sind normal, können aber die Arbeit stark belasten. Lernen Sie, wie Sie Konflikte frühzeitig erkennen, konstruktiv ansprechen und Lösungen finden, auch wenn die Zusammenarbeit schwierig ist. So verbessern Sie das Arbeitsklima und Ihre eigene Zufriedenheit im Job.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "h",
+        "4": "d",
+        "5": "a"
+    }
+}

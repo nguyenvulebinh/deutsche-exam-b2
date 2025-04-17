@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Magazin und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Ben sucht nach dem Studium Tipps für den Jobeinstieg."
+        },
+        {
+            "id": 2,
+            "description": "Maria möchte wissen, wie man digitale Tools für Teamarbeit nutzt."
+        },
+        {
+            "id": 3,
+            "description": "Jonas braucht Ratschläge für bessere Führungsqualitäten."
+        },
+        {
+            "id": 4,
+            "description": "Sofia überlegt, ob ein beruflicher Neuanfang sinnvoll ist."
+        },
+        {
+            "id": 5,
+            "description": "Ahmed möchte wissen, wie er sein Gehalt erfolgreich verhandeln kann."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Arbeitsrecht: Was jeder Arbeitnehmer wissen sollte",
+            "description": "Kennen Sie Ihre Rechte und Pflichten im Arbeitsverhältnis? Von Arbeitsverträgen über Urlaubsanspruch bis hin zu Kündigungsfristen – dieser Überblick fasst die wichtigsten arbeitsrechtlichen Bestimmungen zusammen. Gut informiert sind Sie auf der sicheren Seite und können Probleme vermeiden. mehr..."
+        },
+        {
+            "id": "g",
+            "title": "Berufswechsel: Ja oder Nein? Entscheidungshilfen",
+            "description": "Unzufrieden im aktuellen Job? Ein beruflicher Neustart kann verlockend sein, birgt aber auch Risiken. Dieser Ratgeber hilft Ihnen bei der Selbstanalyse: Passt Ihr aktueller Beruf noch zu Ihnen? Welche Alternativen gibt es? Eine Checkliste zur Bewertung Ihrer Situation und zur Planung möglicher nächster Schritte. mehr..."
+        },
+        {
+            "id": "d",
+            "title": "Karrierestart nach der Uni",
+            "description": "Der Übergang vom Studium ins Berufsleben ist oft herausfordernd. Viele Absolventen fühlen sich unsicher. Dieser Artikel bietet praktische Ratschläge zur Stellensuche, zur Optimierung von Bewerbungsunterlagen und zu typischen Fehlern im ersten Job. Finden Sie den Weg zu Ihrer Wunschposition. mehr..."
+        },
+        {
+            "id": "e",
+            "title": "Employer Branding: Top-Talente gewinnen und halten",
+            "description": "Im Wettbewerb um Fachkräfte ist eine starke Arbeitgebermarke entscheidend. Erfahren Sie, wie Ihr Unternehmen durch gezieltes Employer Branding attraktiver für Bewerber wird und wie Sie Ihre besten Mitarbeiter langfristig binden. Strategien für eine positive Unternehmenswahrnehmung auf dem Arbeitsmarkt. mehr..."
+        },
+        {
+            "id": "c",
+            "title": "Mehr als nur Chef sein: Moderne Führungskompetenz",
+            "description": "Gute Führungskräfte werden nicht geboren, sie entwickeln sich. Lernen Sie die wichtigsten modernen Führungsstile kennen und erfahren Sie, wie Sie Ihr Team motivieren, konstruktives Feedback geben und eine positive Arbeitsatmosphäre schaffen. Werden Sie zur inspirierenden Führungspersönlichkeit, die Ergebnisse erzielt. mehr..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreich verhandeln: So holen Sie mehr Gehalt raus",
+            "description": "Sie leisten gute Arbeit, aber Ihr Gehalt spiegelt das nicht wider? Eine Gehaltserhöhung muss gut vorbereitet sein. Dieser Artikel zeigt Ihnen, wie Sie Ihren Marktwert ermitteln, überzeugende Argumente finden, den richtigen Zeitpunkt wählen und typische Fehler in der Gehaltsverhandlung vermeiden. mehr..."
+        },
+        {
+            "id": "f",
+            "title": "Effektive Teamarbeit im digitalen Zeitalter",
+            "description": "Moderne Arbeitsplätze erfordern den sicheren Umgang mit digitalen Kollaborations-Tools. Erfahren Sie, welche Plattformen die Teamarbeit wirklich erleichtern und wie Sie diese optimal einsetzen. Tipps zur Verbesserung der Kommunikation und Produktivität in verteilten oder hybriden Teams finden Sie hier. mehr..."
+        },
+        {
+            "id": "b",
+            "title": "Die Zukunft der Arbeit: Trends und Prognosen",
+            "description": "Digitalisierung, künstliche Intelligenz, New Work – die Arbeitswelt verändert sich rasant. Welche Entwicklungen prägen die Jobs von morgen? Dieser Artikel analysiert die wichtigsten Trends und gibt einen Ausblick darauf, wie wir in Zukunft arbeiten könnten. Bleiben Sie informiert über kommende Veränderungen. mehr..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "c",
+        "4": "g",
+        "5": "h"
+    }
+}

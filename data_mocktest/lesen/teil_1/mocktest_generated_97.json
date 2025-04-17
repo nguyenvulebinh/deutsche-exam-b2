@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Online-Karrieremagazin und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Johann möchte sich beruflich verändern, weiß aber nicht, wie er anfangen soll."
+        },
+        {
+            "id": 2,
+            "description": "Maria braucht Tipps für überzeugende Bewerbungsunterlagen."
+        },
+        {
+            "id": 3,
+            "description": "Stefan sucht nach Wegen, seine Führungsqualitäten zu verbessern."
+        },
+        {
+            "id": 4,
+            "description": "Anja möchte wissen, welche Teilzeitmodelle es gibt."
+        },
+        {
+            "id": 5,
+            "description": "David sucht Strategien gegen beruflichen Stress."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Teilzeitarbeit: Modelle und Möglichkeiten im Überblick",
+            "description": "Weniger Stunden, flexible Tage oder Jobsharing – die Optionen für Teilzeitarbeit sind vielfältig. Wir stellen die gängigsten Modelle vor, erklären die rechtlichen Rahmenbedingungen und zeigen auf, für wen welche Variante am besten geeignet sein könnte, um Beruf und Privatleben zu vereinbaren.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Top Jobportale im Vergleich für die Stellensuche",
+            "description": "Die Suche nach der passenden Stelle beginnt oft online. Doch welche Jobbörsen lohnen sich wirklich? Wir haben die größten Portale getestet und zeigen Ihnen, wo Sie die besten Angebote für Ihre Branche finden und wie Sie Suchfilter effektiv für Ihre Jobsuche nutzen können.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Die überzeugende Bewerbung: Mehr als nur ein Lebenslauf",
+            "description": "Ihr Lebenslauf ist aktuell, aber die Einladungen zu Gesprächen bleiben aus? Erfahren Sie, wie Sie Ihr Anschreiben personalisieren, Ihre Qualifikationen optimal präsentieren und häufige Fehler vermeiden. Praktische Beispiele und Formulierungshilfen inklusive für Ihren Erfolg.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Weniger Stress, mehr Energie im Berufsalltag",
+            "description": "Fühlen Sie sich oft überfordert und energielos im Job? Erkennen Sie die Anzeichen von chronischem Stress und erlernen Sie praktische Strategien zur Bewältigung. Von Zeitmanagement-Techniken bis zu Entspannungsübungen für den Arbeitsplatz – finden Sie Ihren Weg zu mehr Gelassenheit.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Ergonomie am Arbeitsplatz: Rückenschmerzen vorbeugen",
+            "description": "Stundenlanges Sitzen belastet den Körper enorm. Ein ergonomisch eingerichteter Arbeitsplatz kann Beschwerden wie Rückenschmerzen oder Verspannungen wirksam vorbeugen. Erfahren Sie hier, worauf Sie bei Stuhl, Tisch und Bildschirmeinstellung genau achten sollten für mehr Wohlbefinden.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Beruflicher Neustart: So gelingt der Wechsel",
+            "description": "Sie denken über einen Karrierewechsel nach, wissen aber nicht, wo Sie ansetzen sollen? Dieser Leitfaden hilft Ihnen, Ihre Stärken zu analysieren, neue Berufsfelder zu entdecken und die ersten Schritte in eine neue berufliche Zukunft erfolgreich zu planen. Von der Selbstreflexion bis zur konkreten Umsetzung.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Führungskräfte richtig auswählen: Worauf Unternehmen achten sollten",
+            "description": "Die Wahl der richtigen Führungskraft ist entscheidend für den Unternehmenserfolg. Welche Kompetenzen sind unverzichtbar? Wie erkennt man Potenzial im Auswahlprozess? Dieser Artikel gibt Personalverantwortlichen wichtige Einblicke in moderne Methoden der Führungskräfteauswahl und -entwicklung im Unternehmen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Effektive Führung: Teams motivieren und Ziele erreichen",
+            "description": "Gute Führungskräfte werden nicht geboren, sie entwickeln sich. Lernen Sie bewährte Techniken für klare Kommunikation, erfolgreiche Delegation und nachhaltige Mitarbeitermotivation. Steigern Sie die Leistung Ihres Teams und Ihre eigene Zufriedenheit als Vorgesetzter im Alltag.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "g",
+        "3": "b",
+        "4": "a",
+        "5": "c"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einer Wirtschaftszeitung und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+      {
+        "id": 1,
+        "description": "Wanda möchte im Internet Werbung für ihre Firma machen."
+      },
+      {
+        "id": 2,
+        "description": "Kasimir überlegt, seine Arbeitszeit zu reduzieren."
+      },
+      {
+        "id": 3,
+        "description": "Floris interessiert sich für das Netzwerken."
+      },
+      {
+        "id": 4,
+        "description": "Gladis fragt sich, ob sie sich einen Steuerberater nehmen sollte."
+      },
+      {
+        "id": 5,
+        "description": "Stephan hat das Gefühl, ständig überlastet zu sein."
+      }
+    ],
+    "articles": [
+      {
+        "id": "a",
+        "title": "Mehr Zeit für das Wichtige?",
+        "description": "Für die meisten Firmen ist es Pflicht, viele Berufstätige finden es praktisch: professionelle Unterstützung bei der Buchhaltung. Nicht nur sind viele damit überfordert, sondern diese Arbeit hält einen auch davon ab, wichtigere Dinge zu erledigen – oder? Wir zeigen Ihnen anhand von Beispielen, worauf Sie achten müssen und wann es sich rentiert."
+      },
+      {
+        "id": "b",
+        "title": "Modernes Marketing",
+        "description": "Große Firmen setzen nicht mehr nur auf das Internet, um erfolgreich Marketing zu betreiben. „Die Mischung macht’s!“, sagt Werner Claussen vom Netzwerk „Modernes Marketing“. In einem Interview berichtet er, was genau damit gemeint ist."
+      },
+      {
+        "id": "c",
+        "title": "Ein Gesetz, das viele nicht kennen",
+        "description": "Vielen ist nicht bewusst, dass es einen gesetzlichen Anspruch auf Teilzeitarbeit gibt. Wenn der bzw. die Angestellte möchte, muss der Arbeitgeber kürzere Arbeitszeiten ermöglichen. Bevor man diesen Wunsch äußert, sollte man sich allerdings über die Konsequenzen für Karriere, Steuern und Rente im Klaren sein. Wir haben eine Checkliste zusammengestellt."
+      },
+      {
+        "id": "d",
+        "title": "Im Fokus: Arbeitszeitmodelle",
+        "description": "In unserer Reihe zu unterschiedlichen Arbeitszeitmodellen stellen wir Ihnen heute anhand von drei Best-Practice-Beispielen vor, wie unterschiedliche Unternehmen die Gleitzeit in ihrem Betrieb umgesetzt haben. Lesen Sie außerdem, was die Geschäftsführung und Mitarbeitende berichten."
+      },
+      {
+        "id": "e",
+        "title": "Alles im Lot?",
+        "description": "Wenn Ihnen alles zu viel wird, kann das unterschiedliche Ursachen haben: die Menge der Arbeit, zu schwierige Aufgaben oder in Ihrem Privatleben gibt es Probleme, die Ihnen zu schaffen machen. Was Sie tun können, lesen Sie in einem Gastbeitrag der Psychologin Tamara Feuer."
+      },
+      {
+        "id": "f",
+        "title": "Neues aus der Welt der Steuern",
+        "description": "Die wenigsten mögen sie, und doch muss sie jeder zahlen: Steuern. Für Unternehmen ist dieser Bereich oft schwer zu durchschauen, deshalb fassen wir alle gesetzlichen Neuregelungen für Betriebe zusammen, die seit unserer letzten Ausgabe in Kraft getreten sind."
+      },
+      {
+        "id": "g",
+        "title": "Der Weg zu mehr Kunden",
+        "description": "Die Möglichkeiten, Produkte und Dienstleistungen zu bewerben, sind kaum zu überblicken. Gerade in kleineren Firmen sind die Mittel für das Marketing außerdem begrenzt. Hier ist Online-Marketing eine vergleichsweise günstige Möglichkeit, mehr Kunden zu erreichen. Wir zeigen Ihnen wie."
+      },
+      {
+        "id": "h",
+        "title": "Vergessen Sie Zertifikate!",
+        "description": "In vielen Branchen sind sie wichtiger als ein gutes Zeugnis: gute Kontakte. Das gilt umso mehr in einer internationalen Berufswelt, in der Sie wichtige Kontakte schnell und einfach auch über Kontinente hinweg knüpfen können. Unser Autor Felix Schubert zeigt, worauf es ankommt."
+      }
+    ],
+    "solutions": {
+      "1": "g",
+      "2": "c",
+      "3": "h",
+      "4": "a",
+      "5": "e"
+    }
+  }
+  

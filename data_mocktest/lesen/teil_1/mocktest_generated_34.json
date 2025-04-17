@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Ratgeber-Magazin und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jonas möchte sich selbstständig machen und sucht Finanzierungsmöglichkeiten."
+        },
+        {
+            "id": 2,
+            "description": "Sofia muss oft präsentieren und möchte dabei sicherer auftreten."
+        },
+        {
+            "id": 3,
+            "description": "David hat einen Konflikt mit einem Kollegen und sucht nach Lösungen."
+        },
+        {
+            "id": 4,
+            "description": "Anja leistet viele Überstunden und will ihre Rechte kennen."
+        },
+        {
+            "id": 5,
+            "description": "Markus arbeitet in der IT und sucht passende Fortbildungen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Überzeugend präsentieren: Tipps gegen Lampenfieber und für mehr Souveränität",
+            "description": "Eine gute Präsentation kann Türen öffnen, doch viele fürchten sich davor. Lernen Sie bewährte Techniken, um Nervosität abzubauen und Ihr Publikum zu fesseln. Von der richtigen Vorbereitung über Körpersprache bis zum Umgang mit Fragen – so werden Sie zum Präsentationsprofi. \nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Neustart nach der Kündigung: In 5 Schritten zum neuen Job",
+            "description": "Den Job zu verlieren ist ein Schock, aber auch eine Chance. Dieser Leitfaden begleitet Sie durch den Prozess der Neuorientierung: von der Analyse der eigenen Stärken über die Erstellung überzeugender Bewerbungsunterlagen bis hin zur erfolgreichen Jobsuche und dem Vorstellungsgespräch.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Startkapital sichern: Wege zur Finanzierung Ihrer Geschäftsidee",
+            "description": "Von Bankkrediten über Förderprogramme bis hin zu Crowdfunding – wer ein Unternehmen gründen will, braucht Geld. Dieser Artikel beleuchtet verschiedene Optionen, wie Gründer an das nötige Startkapital kommen und welche Voraussetzungen dafür erfüllt sein müssen. Erfahren Sie, welche Finanzierungsform am besten zu Ihrem Vorhaben passt.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Das Wohlfühl-Büro: So steigern Sie Produktivität durch Raumgestaltung",
+            "description": "Die Umgebung beeinflusst unsere Leistung. Erfahren Sie, wie Sie mit einfachen Mitteln Ihr Büro oder Ihren Arbeitsplatz angenehmer und motivierender gestalten können. Von ergonomischen Möbeln über richtige Beleuchtung bis hin zu Pflanzen – kleine Änderungen mit großer Wirkung.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Am Ball bleiben: Aktuelle Weiterbildungen für IT-Fachkräfte",
+            "description": "Die IT-Branche entwickelt sich rasant weiter. Wer beruflich erfolgreich sein will, muss sein Wissen ständig aktualisieren. Wir stellen Ihnen gefragte Zertifizierungen und Kurse in Bereichen wie Cloud Computing, Cybersecurity und Datenanalyse vor und zeigen, wo Sie passende Angebote finden.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Überstunden: Was Arbeitnehmer wissen müssen – Rechte und Pflichten",
+            "description": "Mehrarbeit ist in vielen Branchen üblich, aber nicht alles ist erlaubt. Dieser Artikel erklärt die gesetzlichen Regelungen zu Überstunden: Wann müssen sie angeordnet werden, wie müssen sie vergütet oder ausgeglichen werden, und welche Höchstgrenzen gelten? Informieren Sie sich über Ihre Rechte.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Die Karriereleiter erklimmen: Strategien für den beruflichen Aufstieg",
+            "description": "Sie wollen im Job vorankommen? Erfolg ist planbar! Dieser Artikel zeigt Ihnen allgemeine Strategien, wie Sie Ihre Karriereziele definieren, Ihre Leistungen sichtbar machen, Netzwerke effektiv nutzen und sich für höhere Positionen empfehlen. Holen Sie sich Inspiration für Ihren nächsten Schritt.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Schwierige Kollegen? So lösen Sie Konflikte am Arbeitsplatz konstruktiv",
+            "description": "Meinungsverschiedenheiten im Team sind normal, doch manchmal eskalieren sie. Dieser Ratgeber zeigt auf, wie Sie Konflikte frühzeitig erkennen, ansprechen und gemeinsam mit den Beteiligten eine faire Lösung finden können. Erfahren Sie mehr über Kommunikationsstrategien und wann externe Hilfe sinnvoll ist.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "a",
+        "3": "c",
+        "4": "b",
+        "5": "d"
+    }
+}

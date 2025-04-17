@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jonas sucht nach dem Studium Orientierung für den Berufseinstieg."
+        },
+        {
+            "id": 2,
+            "description": "Fatima möchte ihre Kenntnisse im Bereich Online-Marketing verbessern."
+        },
+        {
+            "id": 3,
+            "description": "Kenan hat oft Konflikte mit einem Kollegen und sucht Rat."
+        },
+        {
+            "id": 4,
+            "description": "Sofia ist unzufrieden und denkt über einen kompletten Branchenwechsel nach."
+        },
+        {
+            "id": 5,
+            "description": "David braucht Hilfe bei der Gestaltung seines Lebenslaufs."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Neustart wagen: Quereinstieg meistern",
+            "description": "Fühlen Sie sich in Ihrem aktuellen Job unterfordert oder suchen eine neue Herausforderung in einem ganz anderen Bereich? Ein Quereinstieg kann neue Perspektiven eröffnen, erfordert aber gute Planung. Erfahren Sie, wie Sie Ihre übertragbaren Fähigkeiten erkennen, sich über neue Branchen informieren und den Wechsel erfolgreich gestalten.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Effektive Teamführung",
+            "description": "Gute Teamarbeit ist der Schlüssel zum Erfolg. Doch wie fördert man als Führungskraft den Zusammenhalt und die Produktivität? Dieser Beitrag gibt Managern praktische Werkzeuge an die Hand, um die Kooperation im Team zu stärken und Konfliktpotenzial frühzeitig zu erkennen und zu entschärfen.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Fit für die digitale Arbeitswelt",
+            "description": "Die Digitalisierung verändert viele Berufsfelder rasant. Wer beruflich am Ball bleiben will, muss seine digitalen Kompetenzen erweitern. Dieser Beitrag stellt aktuelle Weiterbildungsangebote im Bereich Online-Marketing, SEO und Social Media Management vor und zeigt, welche Zertifikate gefragt sind.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Der perfekte Lebenslauf",
+            "description": "Der Lebenslauf ist oft das erste, was Personaler von Ihnen sehen. Eine klare Struktur und relevante Inhalte sind entscheidend. Dieser Artikel zeigt Ihnen Schritt für Schritt, wie Sie einen überzeugenden Lebenslauf erstellen, welche Abschnitte nicht fehlen dürfen und wie Sie häufige Fehler vermeiden.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Sicher im Vorstellungsgespräch",
+            "description": "Sie haben eine Einladung zum Vorstellungsgespräch erhalten? Herzlichen Glückwunsch! Nun gilt es, sich optimal vorzubereiten. Lernen Sie hier die häufigsten Fragen kennen, wie Sie souverän antworten und mit welchen eigenen Fragen Sie punkten können. So überzeugen Sie im persönlichen Gespräch.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Der Sprung ins Berufsleben",
+            "description": "Der Übergang vom Studium in den Beruf ist nicht immer einfach. Viele Absolventen sind unsicher, welcher Weg der richtige ist. Dieser Artikel beleuchtet typische Einstiegsmöglichkeiten wie Trainee-Programme oder Direkteinstieg und gibt praktische Tipps von Karriereberatern für die erste Bewerbungsphase.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Lebenslanges Lernen zahlt sich aus",
+            "description": "Die Arbeitswelt verändert sich ständig, neues Wissen wird immer wichtiger. Weiterbildung ist keine Frage des Alters, sondern eine Investition in die Zukunft. Lesen Sie, warum kontinuierliches Lernen entscheidend für die Karriere ist und wie Sie motiviert bleiben, auch neben dem Beruf Neues zu lernen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Umgang mit schwierigen Kollegen",
+            "description": "Nicht immer läuft die Zusammenarbeit im Team reibungslos. Meinungsverschiedenheiten oder schwierige Persönlichkeiten können den Arbeitsalltag belasten. Dieser Ratgeber erklärt bewährte Strategien zur Konfliktlösung am Arbeitsplatz und gibt Tipps für eine konstruktive Kommunikation auch in angespannten Situationen.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "h",
+        "2": "c",
+        "3": "d",
+        "4": "b",
+        "5": "e"
+    }
+}

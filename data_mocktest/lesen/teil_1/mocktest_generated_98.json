@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Janis hat seine Ausbildung beendet und sucht erste Tipps für den Jobstart."
+        },
+        {
+            "id": 2,
+            "description": "Sofia möchte lernen, wie sie selbstbewusster ihr Gehalt verhandeln kann."
+        },
+        {
+            "id": 3,
+            "description": "Herr Müller ist mit seinem Job unzufrieden und sucht nach neuen beruflichen Wegen."
+        },
+        {
+            "id": 4,
+            "description": "Aisha ist unsicher, welche Regeln für Überstunden in ihrem Vertrag gelten."
+        },
+        {
+            "id": 5,
+            "description": "David möchte seinen Büroarbeitsplatz gesünder gestalten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "d",
+            "title": "Tipps für Berufsanfänger",
+            "description": "Der Übergang von der Ausbildung ins Berufsleben kann herausfordernd sein. Dieser Artikel gibt praktische Ratschläge, wie Sie die ersten Wochen im neuen Job meistern, typische Fehler vermeiden und einen guten Eindruck hinterlassen. Ideal für alle, die am Anfang ihrer Karriere stehen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Erfolgreich Gehalt verhandeln",
+            "description": "Mehr Geld zu fordern, fällt vielen schwer. Lernen Sie die besten Strategien und Argumente kennen, um in Gehaltsgesprächen überzeugend aufzutreten. Dieser Leitfaden bereitet Sie optimal auf die nächste Verhandlung vor und hilft Ihnen, selbstsicher Ihre Forderungen zu präsentieren.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Jobwechsel: Die richtige Strategie",
+            "description": "Sie denken über einen Wechsel des Arbeitgebers nach? Eine gute Vorbereitung ist entscheidend. Wir erklären, wie Sie den Markt sondieren, Ihre Bewerbungsunterlagen optimieren und im Vorstellungsgespräch überzeugen, um den nächsten Karriereschritt erfolgreich zu meistern.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Berufliche Neuorientierung wagen",
+            "description": "Fühlen Sie sich im aktuellen Job festgefahren oder unerfüllt? Es ist nie zu spät für eine Veränderung! Entdecken Sie Methoden zur Selbstreflexion, finden Sie heraus, welche Tätigkeiten wirklich zu Ihnen passen und erfahren Sie, wie Sie den Wechsel erfolgreich gestalten können.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Überstunden: Was Arbeitnehmer wissen müssen",
+            "description": "Wann darf der Arbeitgeber Überstunden anordnen? Wie müssen diese vergütet oder ausgeglichen werden? Dieser Artikel erklärt die rechtlichen Grundlagen rund um das Thema Mehrarbeit und hilft Ihnen, Ihre Rechte und Pflichten als Arbeitnehmer genau zu verstehen.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Fit und gesund im Joballtag",
+            "description": "Stress und lange Arbeitstage können die Gesundheit belasten. Erfahren Sie, wie Sie mit einfachen Übungen, gesunder Ernährung und mentalen Techniken Ihre Fitness und Ihr Wohlbefinden steigern können. Tipps für mehr Energie und weniger Stress, auch wenn die Zeit knapp ist.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Ergonomie am Arbeitsplatz",
+            "description": "Rückenschmerzen und Verspannungen durch langes Sitzen? Gestalten Sie Ihren Schreibtisch und Ihre Arbeitsumgebung ergonomisch! Wir zeigen Ihnen einfache Anpassungen bei Stuhl, Tisch und Bildschirm, die Ihre Gesundheit fördern und Ihr Wohlbefinden im Büro steigern.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die Zukunft der Arbeit: Trends 2024",
+            "description": "Digitalisierung, künstliche Intelligenz und neue Arbeitsmodelle verändern die Berufswelt rasant. Welche Kompetenzen werden wichtiger? Wie entwickeln sich Gehälter in verschiedenen Branchen? Ein Überblick über die wichtigsten Entwicklungen und Prognosen für den Arbeitsmarkt der Zukunft.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "e",
+        "3": "f",
+        "4": "h",
+        "5": "c"
+    }
+}

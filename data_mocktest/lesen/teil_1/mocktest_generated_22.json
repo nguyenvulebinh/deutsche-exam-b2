@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Markus möchte praktische Tipps für die Gründung seiner eigenen Firma."
+        },
+        {
+            "id": 2,
+            "description": "Sofia sucht Ratschläge, wie sie besser berufliche Kontakte knüpfen kann."
+        },
+        {
+            "id": 3,
+            "description": "David findet es schwierig, Arbeit und Freizeit unter einen Hut zu bringen."
+        },
+        {
+            "id": 4,
+            "description": "Julia bereitet sich auf ein wichtiges Bewerbungsgespräch nächste Woche vor."
+        },
+        {
+            "id": 5,
+            "description": "Kenan arbeitet in der IT und sucht passende Fortbildungsmöglichkeiten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Marketing-Strategien für Kleinunternehmen",
+            "description": "Ihr Geschäft läuft, aber Sie möchten mehr Kunden erreichen? Entdecken Sie kostengünstige und effektive Marketing-Ideen speziell für kleine Budgets. Von Social Media bis zu lokalen Events – erfahren Sie, wie Sie Ihre Sichtbarkeit erhöhen und den Umsatz steigern können.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Die Balance finden: Beruf und Privatleben im Einklang",
+            "description": "Fühlen Sie sich oft zwischen Jobanforderungen und persönlichen Bedürfnissen hin- und hergerissen? Dieser Ratgeber zeigt bewährte Methoden, wie Sie Ihre Zeit besser managen, klare Grenzen setzen und Stress reduzieren können. Finden Sie heraus, wie Sie mehr Zufriedenheit in beiden Lebensbereichen erreichen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Kundenkontakte professionell managen",
+            "description": "Zufriedene Kunden sind das Kapital jeder Firma. Moderne CRM-Systeme helfen Ihnen, Kundendaten effizient zu verwalten, die Kommunikation zu optimieren und langfristige Beziehungen aufzubauen. Wir stellen verschiedene Softwarelösungen und ihre Vorteile für Vertriebsteams vor.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Schritt für Schritt zum eigenen Unternehmen",
+            "description": "Sie träumen davon, Ihr eigener Chef zu sein? Dieser Artikel führt Sie durch die wichtigsten Phasen der Unternehmensgründung, von der ersten Idee über den Businessplan bis hin zu rechtlichen Aspekten und Finanzierungsmöglichkeiten. Erhalten Sie praktische Checklisten und Expertenratschläge.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Souverän im Vorstellungsgespräch überzeugen",
+            "description": "Die Einladung zum Jobinterview ist der erste Schritt. Nun gilt es, zu überzeugen. Dieser Artikel bereitet Sie optimal vor: von der richtigen Kleidung über typische Fragen bis hin zum selbstbewussten Auftreten. Mit unseren Tipps meistern Sie auch schwierige Gesprächssituationen.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Gesund bleiben am Arbeitsplatz: Tipps für den Büroalltag",
+            "description": "Langes Sitzen, Bildschirmarbeit, Stress – der Bürojob birgt gesundheitliche Risiken. Erfahren Sie, wie Sie mit einfachen Übungen, ergonomischer Arbeitsplatzgestaltung und bewussten Pausen Rückenschmerzen, Augenbelastung und Müdigkeit vorbeugen können. Bleiben Sie fit und leistungsfähig im Job.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Fit für die digitale Zukunft: Weiterbildung im IT-Bereich",
+            "description": "Die IT-Branche entwickelt sich rasant. Bleiben Sie am Ball mit gezielten Weiterbildungen. Ob Programmierung, Cybersicherheit oder Datenanalyse – dieser Überblick stellt gefragte Qualifikationen und renommierte Anbieter von Kursen und Zertifizierungen vor. Investieren Sie jetzt in Ihre digitale Kompetenz.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreich Kontakte knüpfen und pflegen",
+            "description": "Im Berufsleben sind gute Beziehungen Gold wert. Lernen Sie Strategien, wie Sie gezielt berufliche Netzwerke aufbauen, bei Veranstaltungen und online effektiv Kontakte knüpfen und diese langfristig für Ihre Karriere nutzen können. Erfahren Sie, wie Sie einen positiven Eindruck hinterlassen.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "g",
+        "5": "h"
+    }
+}

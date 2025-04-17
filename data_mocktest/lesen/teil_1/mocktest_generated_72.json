@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kolleginnen und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Ben sucht eine Stelle mit flexiblen Arbeitszeiten."
+        },
+        {
+            "id": 2,
+            "description": "Julia möchte wissen, wie man online gute Bewerbungen schreibt."
+        },
+        {
+            "id": 3,
+            "description": "Daniel überlegt, ein berufsbegleitendes Studium zu beginnen."
+        },
+        {
+            "id": 4,
+            "description": "Sophie will sich über gewerkschaftliche Rechte informieren."
+        },
+        {
+            "id": 5,
+            "description": "Michael braucht Tipps für Gehaltsverhandlungen mit dem Chef."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Erfolgreich verhandeln: Mehr Gehalt für Ihre Leistung",
+            "description": "Das Jahresgespräch steht an und Sie wollen mehr Geld? Gute Vorbereitung ist alles. Lernen Sie, wie Sie Ihre Leistungen überzeugend darstellen, realistische Gehaltsforderungen formulieren und souverän in das Gespräch mit Ihrem Vorgesetzten gehen. Mit Checkliste für Argumente.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Künstliche Intelligenz am Arbeitsplatz",
+            "description": "Wie verändert KI die Arbeitswelt? Welche Berufe sind betroffen, welche neuen entstehen? Experten diskutieren die Chancen und Risiken der Automatisierung für verschiedene Branchen und geben einen Ausblick auf die kommenden Jahre. Eine Analyse der technologischen Entwicklungen.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Digital Bewerben: So überzeugen Sie online",
+            "description": "Anschreiben, Lebenslauf, Zeugnisse – alles digital. Aber worauf achten Personaler bei Online-Bewerbungen besonders? Dieser Ratgeber zeigt, wie Sie Ihre Unterlagen optimal für digitale Bewerbungsportale aufbereiten und häufige Fehler vermeiden. Plus: Tipps für das Video-Interview.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Ihre Rechte als Arbeitnehmer: Was die Gewerkschaft für Sie tun kann",
+            "description": "Arbeitsvertrag, Kündigungsschutz, Tarifverhandlungen – in vielen Arbeitsfragen bieten Gewerkschaften Unterstützung und Rechtsschutz. Erfahren Sie, welche Leistungen Gewerkschaftsmitglieder in Anspruch nehmen können und wie Sie Ihre Interessen im Betrieb gemeinsam besser durchsetzen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Online-Meetings effizient gestalten",
+            "description": "Seit der Zunahme von Homeoffice gehören Online-Besprechungen zum Alltag. Doch oft sind sie langwierig und unproduktiv. Dieser Artikel gibt praktische Tipps für die Vorbereitung, Durchführung und Nachbereitung von Videokonferenzen, damit sie zum Erfolg werden.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Neue Modelle für die Arbeitszeitgestaltung",
+            "description": "Gleitzeit, Vertrauensarbeitszeit, Homeoffice – die Möglichkeiten für flexible Arbeit werden immer vielfältiger. Doch nicht jedes Modell passt zu jeder Person und jedem Unternehmen. Wir erklären die gängigsten Varianten, ihre Vor- und Nachteile und für wen sie sich besonders eignen.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Vom Studium in den Job: Der erste Karriereschritt",
+            "description": "Das Studium ist geschafft, jetzt beginnt der Ernst des Lebens. Wie finden Absolventen den passenden Berufseinstieg? Worauf sollte man beim ersten Arbeitsvertrag achten? Ein Leitfaden für Hochschulabsolventen auf dem Weg in die Arbeitswelt.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Weiterbildung neben dem Beruf: Ja, aber wie?",
+            "description": "Ein Studium oder eine umfassende Weiterbildung neben dem Vollzeitjob ist eine Herausforderung. Welche Finanzierungs- und Fördermöglichkeiten gibt es? Wie organisiert man Lernen und Arbeit effektiv? Wir stellen Studiengänge und Zertifikatskurse vor, die speziell für Berufstätige konzipiert sind.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "b",
+        "3": "e",
+        "4": "a",
+        "5": "g"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Sven überlegt, nach 15 Jahren als Ingenieur etwas ganz anderes zu machen."
+        },
+        {
+            "id": 2,
+            "description": "Fatima braucht dringend bessere Kenntnisse in Online-Marketing für ihre Arbeit."
+        },
+        {
+            "id": 3,
+            "description": "Jonas ist unsicher, wie er überzeugende Bewerbungsunterlagen erstellt."
+        },
+        {
+            "id": 4,
+            "description": "Anja fühlt sich ständig von der Menge ihrer Aufgaben überfordert."
+        },
+        {
+            "id": 5,
+            "description": "Michael möchte wissen, welche Regeln für Homeoffice gelten."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Die perfekte Bewerbung: Lebenslauf und Anschreiben optimieren",
+            "description": "Ihre Bewerbung ist Ihre Visitenkarte. Erfahren Sie, wie Sie einen aussagekräftigen Lebenslauf gestalten, ein individuelles Anschreiben formulieren und typische Fehler vermeiden, um Personalverantwortliche von Ihren Qualifikationen zu überzeugen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Zukunft der Arbeit: Trends und Visionen 2030",
+            "description": "Wie werden wir in zehn Jahren arbeiten? Experten diskutieren die Auswirkungen von KI, Globalisierung und demografischem Wandel auf die Arbeitswelt und skizzieren mögliche Szenarien für Unternehmen und Beschäftigte.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Neustart wagen: Erfolgreicher Branchenwechsel für Erfahrene",
+            "description": "Der Wunsch nach Veränderung ist groß, doch der Sprung ins Unbekannte erfordert Mut und Planung. Dieser Artikel beleuchtet, wie Fachkräfte mit langjähriger Erfahrung neue Berufsfelder erkunden, ihre Stärken neu einsetzen und den Übergang erfolgreich gestalten können.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Zeit im Griff: Effektives Selbstmanagement im Berufsalltag",
+            "description": "Ständiger Termindruck und eine endlose To-Do-Liste? Dieser Artikel stellt bewährte Methoden des Zeitmanagements vor, von Priorisierungstechniken bis zur sinnvollen Tagesplanung, damit Sie Ihre Aufgaben entspannter und produktiver bewältigen können.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Datensicherheit im Netz: Privatsphäre schützen",
+            "description": "Im digitalen Raum hinterlassen wir ständig Spuren. Dieser Ratgeber erklärt, wie Sie Ihre persönlichen Daten in sozialen Netzwerken und beim Online-Shopping besser schützen können und welche Einstellungen für mehr Sicherheit sorgen.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Online-Marketing kompakt: Mehr Erfolg im digitalen Zeitalter",
+            "description": "Von Suchmaschinenoptimierung (SEO) bis Social Media Marketing – digitale Sichtbarkeit ist entscheidend. Dieser Praxisleitfaden erklärt die wichtigsten Werkzeuge und Methoden des Online-Marketings und zeigt, wie Sie Ihre Zielgruppen effektiv erreichen und messbare Erfolge erzielen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Arbeiten von zu Hause: Rechte, Pflichten und Tipps fürs Homeoffice",
+            "description": "Immer mehr Beschäftigte arbeiten im Homeoffice. Doch welche rechtlichen Rahmenbedingungen gelten? Was müssen Arbeitgeber und Arbeitnehmer beachten? Wir beantworten die wichtigsten Fragen zu Ausstattung, Arbeitszeit und Datenschutz im Heimbüro.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Versteckte Stellenmärkte entdecken",
+            "description": "Nicht jede offene Stelle wird auf großen Portalen ausgeschrieben. Lernen Sie Strategien kennen, wie Sie durch Netzwerken, Initiativbewerbungen und Branchenkontakte an interessante Jobangebote gelangen, die der breiten Masse verborgen bleiben.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "h",
+        "3": "g",
+        "4": "b",
+        "5": "e"
+    }
+}

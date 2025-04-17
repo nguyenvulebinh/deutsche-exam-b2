@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna sucht Tipps für eine überzeugende Gehaltsverhandlung."
+        },
+        {
+            "id": 2,
+            "description": "Benjamin möchte wissen, wie man ein professionelles Netzwerk aufbaut."
+        },
+        {
+            "id": 3,
+            "description": "Clara überlegt, sich mit einem Onlineshop selbstständig zu machen."
+        },
+        {
+            "id": 4,
+            "description": "David braucht Hilfe bei der Erstellung seiner Bewerbungsunterlagen."
+        },
+        {
+            "id": 5,
+            "description": "Emilia fühlt sich im Job oft gestresst und sucht Ausgleich."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Mehr Geld verdienen: So verhandeln Sie erfolgreich.",
+            "description": "Viele scheuen das Gespräch über das Gehalt. Doch gute Vorbereitung und die richtige Argumentation sind entscheidend. Dieser Artikel erklärt, wie Sie Ihren Marktwert ermitteln, typische Fehler vermeiden und selbstbewusst in die Gehaltsverhandlung gehen. Experten geben Praxistipps.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Kontakte knüpfen und pflegen: Erfolgreiches Networking.",
+            "description": "Ein gutes berufliches Netzwerk öffnet Türen. Aber wie baut man es systematisch auf? Lernen Sie Strategien kennen, wie Sie auf Veranstaltungen und online wertvolle Kontakte knüpfen, diese pflegen und für Ihre Karriere nutzen können, ohne aufdringlich zu wirken.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Start-up E-Commerce: Von der Idee zum eigenen Onlineshop.",
+            "description": "Der Onlinehandel boomt. Wenn Sie davon träumen, Produkte über das Internet zu verkaufen, finden Sie hier eine Schritt-für-Schritt-Anleitung. Themen sind u.a.: die richtige Nische finden, Plattform wählen, rechtliche Aspekte und Marketing-Grundlagen für den Start.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Die perfekte Bewerbung: Anschreiben und Lebenslauf optimieren.",
+            "description": "Im Wettbewerb um die besten Jobs zählen aussagekräftige Bewerbungsunterlagen. Dieser Ratgeber zeigt, wie Sie ein überzeugendes Anschreiben formulieren und Ihren Lebenslauf modern und lückenlos gestalten. Mit Mustern und Checklisten für den letzten Schliff.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Stress im Beruf abbauen: Wege zu mehr Gelassenheit.",
+            "description": "Hoher Druck und ständige Erreichbarkeit führen oft zu Stress. Erfahren Sie, wie Sie Stresssymptome erkennen und aktiv gegensteuern können. Vorgestellt werden Entspannungstechniken, Zeitmanagement-Methoden und Tipps für eine bessere Work-Life-Balance.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Souverän im Vorstellungsgespräch: Fragen und Antworten.",
+            "description": "Die Einladung zum Gespräch ist geschafft, nun kommt die nächste Hürde. Bereiten Sie sich auf typische Fragen vor und lernen Sie, wie Sie überzeugend antworten. Tipps zur Körpersprache und zur Frage nach den Gehaltsvorstellungen runden den Beitrag ab.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Ordnung am Arbeitsplatz: Mehr Effizienz im Büro.",
+            "description": "Ein aufgeräumter Schreibtisch fördert konzentriertes Arbeiten. Dieser Artikel gibt praktische Tipps zur Büroorganisation – von der digitalen Ablage bis zur Gestaltung des Arbeitsplatzes. So steigern Sie Ihre Produktivität und finden alles schneller wieder.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Steuererklärung für Freiberufler: Was muss ich beachten?",
+            "description": "Selbstständige und Freiberufler müssen sich oft selbst um ihre Steuern kümmern. Dieser Fachartikel erklärt die Grundlagen der Einnahmenüberschussrechnung (EÜR), wichtige absetzbare Ausgaben und Fristen für die Abgabe der Steuererklärung. Ein Leitfaden für Nicht-Experten.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "c",
+        "3": "d",
+        "4": "h",
+        "5": "e"
+    }
+}

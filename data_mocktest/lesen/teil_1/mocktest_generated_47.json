@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel empfehlen.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Ben benötigt Hilfe bei der Technik für das Homeoffice."
+        },
+        {
+            "id": 2,
+            "description": "Sofia möchte lernen, online besser zu präsentieren."
+        },
+        {
+            "id": 3,
+            "description": "David interessiert sich für Berufe im Umweltbereich."
+        },
+        {
+            "id": 4,
+            "description": "Maria braucht Infos über Rechte bei flexibler Arbeitszeit."
+        },
+        {
+            "id": 5,
+            "description": "Das Team von Omar sucht ein Tool für Projektplanung."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Die Zukunft der Bürogestaltung",
+            "description": "Wie werden die Büros von morgen aussehen? Experten diskutieren Trends wie ergonomische Möbel, Open-Space-Konzepte und die Integration von Ruhezonen. Erfahren Sie, wie moderne Arbeitsumgebungen die Kreativität und das Wohlbefinden fördern können. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Flexibles Arbeiten: Was das Gesetz erlaubt",
+            "description": "Viele wünschen sich mehr Flexibilität bei der Arbeitszeitgestaltung. Doch welche Rechte haben Arbeitnehmer bezüglich Teilzeit oder mobilem Arbeiten wirklich? Dieser Artikel erklärt die aktuelle Rechtslage und gibt Hinweise für Verhandlungen mit dem Arbeitgeber. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Homeoffice-Tools für Einsteiger",
+            "description": "Die Umstellung auf Remote-Arbeit erfordert die richtige technische Ausstattung. Dieser Artikel stellt die wichtigsten Werkzeuge vor, von Videokonferenzsystemen über Cloud-Speicher bis hin zu Sicherheitsprogrammen. Erfahren Sie, wie Sie Ihr digitales Büro effizient und sicher einrichten. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Steuertipps für Freiberufler im Homeoffice",
+            "description": "Wer von zu Hause arbeitet, kann oft Kosten steuerlich geltend machen. Dieser Artikel erklärt speziell für Selbstständige und Freiberufler, welche Ausgaben für das häusliche Arbeitszimmer absetzbar sind und was bei der Steuererklärung beachtet werden muss. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Boombranche Nachhaltigkeit: Jobs mit Zukunft",
+            "description": "Der Umwelt- und Klimaschutz schafft neue Berufsfelder. Entdecken Sie Karrieremöglichkeiten in Bereichen wie erneuerbare Energien, nachhaltiges Management oder Umwelttechnik. Wir zeigen auf, welche Qualifikationen gefragt sind und wo Sie passende Stellen finden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Überzeugend präsentieren im virtuellen Raum",
+            "description": "Online-Meetings sind zur Norm geworden. Doch wie fesselt man sein Publikum durch den Bildschirm? Dieser Leitfaden bietet praktische Tipps zu Körpersprache, Stimmführung und dem effektiven Einsatz von visuellen Hilfsmitteln für virtuelle Präsentationen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Projektmanagement-Software im Vergleich",
+            "description": "Effiziente Teamarbeit erfordert gute Organisation. Wir haben gängige Software-Lösungen wie Trello, Asana oder Jira getestet. Lesen Sie unseren Vergleich zu Funktionen, Benutzerfreundlichkeit und Kosten, um das passende Tool für Ihr Team zu finden. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Gesund kochen für die Mittagspause",
+            "description": "Keine Zeit oder Lust auf Kantinenessen? Mit diesen schnellen und einfachen Rezepten zaubern Sie leckere und gesunde Mahlzeiten für die Mittagspause im Büro oder Homeoffice. Tipps für Meal Prep inklusive! mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "c",
+        "3": "g",
+        "4": "a",
+        "5": "d"
+    }
+}

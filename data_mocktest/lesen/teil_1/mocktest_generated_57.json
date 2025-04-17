@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna braucht Hilfe beim Verfassen von Bewerbungsschreiben."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte lernen, wie man bei Besprechungen besser präsentiert."
+        },
+        {
+            "id": 3,
+            "description": "Carla überlegt, sich neben ihrer Arbeit weiterzubilden."
+        },
+        {
+            "id": 4,
+            "description": "Daniel fühlt sich im Job oft überfordert und gestresst."
+        },
+        {
+            "id": 5,
+            "description": "Emilia sucht Infos zu Jobs und Gehältern im IT-Bereich."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Die besten Büro-Pflanzen für gutes Klima",
+            "description": "Ein grünes Büro steigert das Wohlbefinden und kann sogar die Produktivität fördern. Doch nicht jede Pflanze eignet sich für den Schreibtisch oder das Großraumbüro. Wir stellen Ihnen robuste und pflegeleichte Pflanzen vor, die für bessere Luft und eine angenehmere Arbeitsatmosphäre sorgen. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Sicher präsentieren, souverän auftreten",
+            "description": "Ob Projektvorstellung, Team-Meeting oder Kundenpräsentation – wer überzeugend auftreten will, braucht gute Präsentationsfähigkeiten. Dieser Artikel gibt praktische Tipps zu Körpersprache, Stimmeinsatz und dem Umgang mit Lampenfieber. Lernen Sie, wie Sie Ihr Publikum fesseln und Ihre Botschaften klar vermitteln. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreiche Unternehmensgründung für Frauen",
+            "description": "Immer mehr Frauen wagen den Schritt in die Selbstständigkeit. Doch welche besonderen Herausforderungen gibt es für Gründerinnen? Wir beleuchten Finanzierungsoptionen, Netzwerkmöglichkeiten und Förderprogramme, die speziell auf Unternehmerinnen zugeschnitten sind, und präsentieren inspirierende Erfolgsgeschichten. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Weniger Stress durch besseres Zeitmanagement",
+            "description": "Fristen, Meetings, E-Mail-Flut – der Arbeitsalltag kann schnell hektisch werden. Effektives Zeitmanagement hilft, den Überblick zu behalten und Stress zu reduzieren. Entdecken Sie bewährte Methoden wie die Eisenhower-Matrix oder die Pomodoro-Technik und lernen Sie, Prioritäten zu setzen und Aufgaben effizienter zu erledigen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Weiterbildung neben dem Beruf: Modelle und Finanzierung",
+            "description": "Lebenslanges Lernen ist in der heutigen Arbeitswelt unerlässlich. Doch wie lässt sich eine Weiterbildung mit dem Job vereinbaren? Dieser Artikel stellt verschiedene berufsbegleitende Modelle vor – vom Abendkurs bis zum Fernstudium. Außerdem erfahren Sie mehr über mögliche finanzielle Förderungen und steuerliche Vorteile. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Arbeitsrecht: Was bei Kündigungen zu beachten ist",
+            "description": "Eine Kündigung ist für Arbeitnehmer oft ein Schock. Doch welche Rechte und Pflichten haben beide Seiten? Wir erklären die wichtigsten arbeitsrechtlichen Aspekte rund um Kündigungsfristen, Abfindungen und den Kündigungsschutz. Erfahren Sie, worauf Sie achten müssen, wenn das Arbeitsverhältnis beendet wird. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Das überzeugende Anschreiben",
+            "description": "Das Anschreiben ist oft der erste Eindruck, den ein potenzieller Arbeitgeber von Ihnen bekommt. Es muss Neugier wecken und zeigen, warum genau Sie der richtige Kandidat sind. Lernen Sie, wie Sie ein individuelles und aussagekräftiges Anschreiben formulieren, das auf die Stelle zugeschnitten ist und Personaler überzeugt. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Karrierechancen und Gehälter in der IT-Branche",
+            "description": "Die IT-Branche boomt und Fachkräfte sind gefragt. Doch welche Berufsfelder gibt es genau und wie sehen die Verdienstmöglichkeiten aus? Dieser Artikel gibt einen Überblick über aktuelle Trends auf dem IT-Arbeitsmarkt, gefragte Spezialisierungen und die üblichen Gehaltsspannen für verschiedene Positionen und Erfahrungsstufen. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "h",
+        "3": "a",
+        "4": "g",
+        "5": "e"
+    }
+}

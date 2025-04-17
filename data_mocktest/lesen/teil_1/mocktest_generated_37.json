@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Ratgeber-Magazin und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Marta sucht Ratschläge für effektive Jobbewerbungen."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte seine Führungsqualitäten verbessern, um aufzusteigen."
+        },
+        {
+            "id": 3,
+            "description": "Anja fühlt sich im Job oft überfordert und sucht Stressbewältigungstipps."
+        },
+        {
+            "id": 4,
+            "description": "David braucht Hilfe, um sein Geschäftsenglisch zu verbessern."
+        },
+        {
+            "id": 5,
+            "description": "Sofia fragt sich, welche Rechte sie beim Arbeiten im Homeoffice hat."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Das Büro der Zukunft",
+            "description": "Wie werden wir morgen arbeiten? Flexible Arbeitsplätze, offene Raumkonzepte und digitale Tools verändern Bürolandschaften. Entdecken Sie die neuesten Trends im Office Design und wie sie Kreativität und Zusammenarbeit fördern können. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Die perfekte Bewerbung",
+            "description": "Ein überzeugender Lebenslauf und ein maßgeschneidertes Anschreiben sind entscheidend. Dieser Artikel zeigt, wie Sie Ihre Unterlagen optimieren, typische Fehler vermeiden und bei Personalverantwortlichen positiv herausstechen. Praktische Beispiele inklusive. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Sprachen lernen leicht gemacht",
+            "description": "Eine neue Sprache zu lernen muss nicht schwer sein. Mit den richtigen Methoden und etwas Disziplin können Sie schnell Fortschritte machen. Dieser Artikel stellt verschiedene Lernansätze vor, von Apps bis zu Tandempartnerschaften. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Erfolgreich auf Englisch verhandeln",
+            "description": "Ob Meetings, Präsentationen oder E-Mails – im globalen Geschäftsumfeld ist Englisch unerlässlich. Dieser Artikel liefert wichtige Vokabeln, nützliche Redewendungen und Tipps, um souverän und professionell auf Englisch zu kommunizieren. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Führungskompetenz entwickeln",
+            "description": "Gutes Management kann man lernen. Erfahren Sie, welche Schlüsselqualifikationen eine erfolgreiche Führungskraft ausmachen – von Kommunikation bis Entscheidungsfindung. Mit diesen Strategien bereiten Sie sich gezielt auf den nächsten Karriereschritt vor. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Mitarbeiterbindung stärken",
+            "description": "Gute Mitarbeiter zu finden ist schwer, sie zu halten noch schwerer. Erfahren Sie, welche Maßnahmen Unternehmen ergreifen können, um die Zufriedenheit und Loyalität ihres Personals langfristig zu sichern und Fluktuation zu vermeiden. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Stress am Arbeitsplatz meistern",
+            "description": "Hoher Druck im Beruf? Dieser Ratgeber stellt bewährte Techniken zur Stressbewältigung vor. Lernen Sie, Prioritäten zu setzen, Pausen effektiv zu nutzen und langfristig Ihre mentale Gesundheit am Arbeitsplatz zu schützen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Homeoffice: Was rechtlich gilt",
+            "description": "Immer mehr Menschen arbeiten von zu Hause. Doch welche Regeln gelten bezüglich Arbeitszeiten, Ausstattung des Arbeitsplatzes und Datenschutz? Informieren Sie sich über Ihre Rechte und Pflichten im Homeoffice. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "g",
+        "3": "d",
+        "4": "c",
+        "5": "b"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Portal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Maria möchte wissen, wie sie ihr Gehalt besser verhandeln kann."
+        },
+        {
+            "id": 2,
+            "description": "Ben sucht Tipps, um seine öffentlichen Präsentationen zu verbessern."
+        },
+        {
+            "id": 3,
+            "description": "Sofia überlegt, den Schritt in die Selbstständigkeit zu wagen."
+        },
+        {
+            "id": 4,
+            "description": "Jan fühlt sich oft gestresst und sucht Methoden für besseres Zeitmanagement."
+        },
+        {
+            "id": 5,
+            "description": "Klaus übernimmt bald seine erste Teamleitungsfunktion."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Schluss mit dem Chaos",
+            "description": "Ständiger Termindruck und unerledigte Aufgaben? Effektives Zeitmanagement hilft, Prioritäten zu setzen und den Arbeitsalltag besser zu strukturieren. Entdecken Sie bewährte Methoden wie die Eisenhower-Matrix oder Zeitblockierung für mehr Produktivität und weniger Stress.\nmehr ...",
+            "placeholder_link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Aktuelle Trends am Arbeitsmarkt",
+            "description": "Die Arbeitswelt verändert sich rasant. Welche Branchen boomen, welche Qualifikationen sind gefragt und wie wirken sich Digitalisierung und Globalisierung auf die Jobs der Zukunft aus? Eine Analyse der wichtigsten Entwicklungen.\nmehr ...",
+            "placeholder_link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Souverän auftreten",
+            "description": "Egal ob vor Kollegen oder Kunden, eine überzeugende Präsentation ist oft entscheidend. Lernen Sie Techniken für klare Struktur, wirkungsvolle Körpersprache und den Umgang mit Lampenfieber, damit Ihre Botschaft ankommt.\nmehr ...",
+            "placeholder_link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Vom Kollegen zum Vorgesetzten",
+            "description": "Der Wechsel in eine Führungsposition ist ein großer Schritt. Dieser Artikel gibt angehenden Teamleitern praktische Ratschläge zur Mitarbeitermotivation, Delegation von Aufgaben, Konfliktlösung und wie man erfolgreich ein Team formt und führt.\nmehr ...",
+            "placeholder_link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Freelancer richtig beauftragen",
+            "description": "Immer mehr Unternehmen setzen auf externe Fachkräfte für Projekte. Doch wie findet man den passenden Freelancer? Worauf muss man bei Verträgen und der Zusammenarbeit achten, um rechtlich und organisatorisch auf der sicheren Seite zu sein? Tipps für Auftraggeber.\nmehr ...",
+            "placeholder_link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Mehr Geld im Job",
+            "description": "Erfolgreiche Gehaltsverhandlungen erfordern gute Vorbereitung und die richtige Strategie. Dieser Artikel zeigt Ihnen, wie Sie Argumente sammeln, den richtigen Zeitpunkt wählen und selbstbewusst Ihre Forderungen stellen, um eine faire Bezahlung zu erreichen.\nmehr ...",
+            "placeholder_link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Gesund essen im Büro",
+            "description": "Lange Arbeitstage erfordern Energie. Schnelle und ungesunde Snacks sind oft die Folge. Entdecken Sie einfache Rezepte für nahrhafte Mittagspausen und Snacks, die sich gut vorbereiten lassen und Ihnen helfen, fit und konzentriert durch den Tag zu kommen.\nmehr ...",
+            "placeholder_link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Der Weg zum eigenen Chef",
+            "description": "Die Entscheidung für die Selbstständigkeit bringt Freiheit, aber auch Herausforderungen. Dieser Leitfaden beleuchtet wichtige erste Schritte: von der Geschäftsidee über den Businessplan bis hin zu Finanzierungsfragen und rechtlichen Grundlagen für Gründer.\nmehr ...",
+            "placeholder_link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "e",
+        "5": "c"
+    }
+}

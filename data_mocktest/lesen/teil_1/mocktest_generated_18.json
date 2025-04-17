@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julian möchte sich selbstständig machen und braucht eine erste Orientierung."
+        },
+        {
+            "id": 2,
+            "description": "Sofia muss oft präsentieren, fühlt sich aber unsicher vor Gruppen."
+        },
+        {
+            "id": 3,
+            "description": "Martin arbeitet seit 15 Jahren im selben Bereich und sucht eine berufliche Neuorientierung."
+        },
+        {
+            "id": 4,
+            "description": "Eva findet, sie leistet gute Arbeit und möchte mehr Gehalt verlangen."
+        },
+        {
+            "id": 5,
+            "description": "David fühlt sich durch die Arbeit ständig überfordert und sucht Auswege."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Soft Skills: Der Schlüssel zum Erfolg?",
+            "description": "Kommunikationsfähigkeit, Teamgeist, Flexibilität – sogenannte Soft Skills werden im Berufsleben immer wichtiger. Warum sie manchmal entscheidender als Fachwissen sind und wie man sie generell verbessern kann, erfahren Sie in unserem Überblick. Eine Liste der gefragtesten Soft Skills 2024 rundet den Artikel ab.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Erfolgreich verhandeln: So klappt es mit der Gehaltserhöhung",
+            "description": "Sie sind überzeugt, mehr Gehalt verdient zu haben? Gut vorbereitet ist halb gewonnen. Dieser Artikel zeigt Ihnen, wie Sie das Gespräch mit Ihrem Vorgesetzten optimal vorbereiten, überzeugende Argumente finden und typische Fallstricke bei Gehaltsverhandlungen vermeiden. Mit praktischen Beispielen und Formulierungen.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Wege aus der Stressfalle: Strategien für mehr Gelassenheit im Job",
+            "description": "Hoher Druck und ständige Erreichbarkeit führen oft zu Stress und Erschöpfung. Lernen Sie effektive Techniken zur Stressbewältigung kennen, von Zeitmanagement-Methoden bis zu Entspannungsübungen für den Arbeitsplatz. Finden Sie heraus, wie Sie Grenzen setzen und langfristig einem Burnout vorbeugen können.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Branchengehälter im Vergleich: Wo verdient man am besten?",
+            "description": "Unser jährlicher Gehaltsreport gibt einen detaillierten Einblick in die Verdienstmöglichkeiten verschiedener Branchen und Positionen in Deutschland. Erfahren Sie, welche Sektoren die höchsten Gehälter zahlen und wie sich Faktoren wie Berufserfahrung und Unternehmensgröße auswirken. Eine wichtige Orientierung für die Karriereplanung.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Der Weg in die Selbstständigkeit: Von der Idee zum ersten Kunden",
+            "description": "Sie träumen davon, Ihr eigener Chef zu sein? Dieser Leitfaden begleitet Sie durch die wichtigsten ersten Schritte. Erfahren Sie, wie Sie eine tragfähige Geschäftsidee entwickeln, einen überzeugenden Businessplan schreiben und welche Gründungsformalitäten und Finanzierungsmöglichkeiten Sie kennen sollten. Mit Checklisten und Experten-Tipps.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Sicher auftreten, überzeugend präsentieren: Tipps für Vorträge und Meetings",
+            "description": "Ob im Meeting oder vor Kunden – souveränes Auftreten ist entscheidend. Dieser Artikel bietet praktische Ratschläge, wie Sie Lampenfieber reduzieren, Ihre Körpersprache gezielt einsetzen und Ihre Inhalte klar und spannend strukturieren. So gewinnen Sie Ihr Publikum und vermitteln Ihre Botschaft erfolgreich.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Unternehmensgründung für Großkonzerne: Rechtliche Rahmenbedingungen",
+            "description": "Die Gründung einer Aktiengesellschaft oder GmbH unterliegt komplexen gesetzlichen Vorschriften. Dieser Fachartikel erläutert die notwendigen Schritte von der Satzungsgestaltung über die Kapitaleinlage bis zur Eintragung ins Handelsregister. Ein Muss für angehende Großunternehmer und Rechtsabteilungen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Quereinstieg wagen: So gelingt der berufliche Neustart",
+            "description": "Unzufrieden im aktuellen Job? Ein Branchenwechsel oder eine völlig neue Tätigkeit kann neue Perspektiven eröffnen, auch nach vielen Berufsjahren. Entdecken Sie Strategien, wie Sie Ihre bisherigen Fähigkeiten nutzen, passende Weiterbildungen finden und sich erfolgreich auf dem neuen Terrain positionieren. Mit Erfahrungsberichten von Quereinsteigern.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "b",
+        "3": "e",
+        "4": "d",
+        "5": "f"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia möchte nebenberuflich als Freelancerin starten."
+        },
+        {
+            "id": 2,
+            "description": "Ben bekommt trotz vieler Bewerbungen keine Jobangebote."
+        },
+        {
+            "id": 3,
+            "description": "Fatima ist unsicher bezüglich der Datenschutzregeln für ihre Webseite."
+        },
+        {
+            "id": 4,
+            "description": "Daniel wurde befördert und sucht Tipps zur Mitarbeiterführung."
+        },
+        {
+            "id": 5,
+            "description": "Sofia hat oft Meinungsverschiedenheiten mit ihren Kollegen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Webseiten rechtssicher gestalten: Datenschutz-Grundlagen",
+            "description": "Ob Blog, Firmen-Homepage oder Online-Shop – jede Webseite muss die Regeln des Datenschutzes beachten. Besonders die Datenschutz-Grundverordnung (DSGVO) sorgt oft für Unsicherheit. Dieser Artikel erklärt verständlich die wichtigsten Pflichten für Webseitenbetreiber. Erfahren Sie, was in Impressum und Datenschutzerklärung nicht fehlen darf. mehr..."
+        },
+        {
+            "id": "a",
+            "title": "Die Zukunft der Arbeit: Trends 2025",
+            "description": "Digitalisierung, künstliche Intelligenz und neue Arbeitsmodelle verändern die Berufswelt rasant. Welche Kompetenzen werden in Zukunft gefragt sein? Wie wandeln sich Branchen und Jobprofile? Ein Ausblick auf die wichtigsten Entwicklungen und Herausforderungen auf dem Arbeitsmarkt der nächsten Jahre. mehr..."
+        },
+        {
+            "id": "d",
+            "title": "Jobabsagen vermeiden: Lebenslauf und Anschreiben perfektionieren",
+            "description": "Sie schreiben Bewerbung um Bewerbung, aber erhalten nur Absagen? Oft liegt es an kleinen Fehlern in den Unterlagen, die leicht vermieden werden können. Dieser Artikel analysiert typische Schwachstellen im Lebenslauf und Anschreiben. Lernen Sie, wie Sie Ihre Qualifikationen überzeugend darstellen und die Aufmerksamkeit von Personalern gewinnen. mehr..."
+        },
+        {
+            "id": "c",
+            "title": "Steuertipps für Selbstständige",
+            "description": "Wer selbstständig ist, muss sich auch um die korrekte Versteuerung seiner Einnahmen kümmern. Das deutsche Steuerrecht ist komplex. Dieser Artikel gibt einen Überblick über die wichtigsten Steuerarten für Freelancer und Kleinunternehmer. Erfahren Sie, welche Ausgaben absetzbar sind und wie Sie Fallstricke vermeiden. mehr..."
+        },
+        {
+            "id": "f",
+            "title": "Neu in der Führungsrolle: Tipps für den Start",
+            "description": "Die Beförderung zur Führungskraft ist ein wichtiger Karriereschritt, bringt aber auch neue Herausforderungen. Plötzlich sind Sie für ein Team verantwortlich. Wie gelingt der Übergang vom Kollegen zum Chef? Dieser Beitrag bietet praktische Ratschläge zu Kommunikation, Motivation und dem Umgang mit typischen Anfangsschwierigkeiten. mehr..."
+        },
+        {
+            "id": "h",
+            "title": "Gesundes Büro: Ergonomie am Arbeitsplatz",
+            "description": "Langes Sitzen am Schreibtisch kann zu gesundheitlichen Problemen führen. Die richtige Gestaltung des Arbeitsplatzes ist daher entscheidend. Dieser Artikel erklärt die Grundlagen der Ergonomie. Erfahren Sie, wie Sie Ihren Schreibtisch, Stuhl und Bildschirm optimal einstellen und so Rückenbeschwerden vorbeugen. mehr..."
+        },
+        {
+            "id": "g",
+            "title": "Nebenberuflich selbstständig: Der Weg zum Freelancer",
+            "description": "Immer mehr Angestellte träumen davon, nebenbei ihr eigener Chef zu sein. Dieser Ratgeber zeigt, wie der Start als Freelancer neben dem Hauptberuf gelingen kann. Von der Gewerbeanmeldung über die Zeitplanung bis hin zur ersten Rechnung – hier finden Sie praktische Tipps und Checklisten für einen erfolgreichen Start. mehr..."
+        },
+        {
+            "id": "b",
+            "title": "Umgang mit Konflikten im Team",
+            "description": "Reibungen und unterschiedliche Meinungen sind im Berufsleben normal. Entscheidend ist ein konstruktiver Umgang damit. Anhaltende Konflikte können jedoch die Zusammenarbeit belasten. Erfahren Sie hier, wie Sie Meinungsverschiedenheiten frühzeitig erkennen, offen ansprechen und faire Lösungen mit Kollegen finden können. mehr..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "d",
+        "3": "e",
+        "4": "f",
+        "5": "b"
+    }
+}

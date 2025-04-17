@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Online-Magazin für Karriere und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jonas muss oft präsentieren und möchte dabei überzeugender werden."
+        },
+        {
+            "id": 2,
+            "description": "Fatima träumt von einer längeren Berufspause, einem Sabbatical."
+        },
+        {
+            "id": 3,
+            "description": "Robert hat ein kleines Café und will es umweltfreundlicher machen."
+        },
+        {
+            "id": 4,
+            "description": "Silvia sucht nach Wegen, mit einem schwierigen Kollegen besser umzugehen."
+        },
+        {
+            "id": 5,
+            "description": "Emil plant den Schritt in die Selbstständigkeit und braucht Infos zu Versicherungen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Konflikte am Arbeitsplatz lösen",
+            "description": "Reibereien im Team können die Produktivität stark beeinträchtigen. Lernen Sie bewährte Methoden kennen, um Meinungsverschiedenheiten mit Kollegen konstruktiv anzusprechen. Wir zeigen Ihnen, wie Sie Missverständnisse klären und eine positive Arbeitsatmosphäre fördern. Inklusive Tipps, wann externe Hilfe sinnvoll ist.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die beste Präsentationssoftware 2024",
+            "description": "PowerPoint war gestern? Nicht ganz, aber es gibt spannende Alternativen und neue Features, die Ihre Folien aufwerten können. Von interaktiven Elementen bis hin zu KI-gestützten Designvorschlägen – wir stellen die aktuellsten Tools und Trends für visuell ansprechende Präsentationen vor.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Absicherung für Freelancer: Welche Policen sind Pflicht?",
+            "description": "Wer sich selbstständig macht, trägt mehr Verantwortung – auch bei der Absicherung. Dieser Artikel gibt einen Überblick über die wichtigsten Versicherungen für Freiberufler: von der Berufshaftpflicht über verschiedene Krankenversicherungsmodelle bis zur Absicherung bei Berufsunfähigkeit. So starten Sie sicher in die Selbstständigkeit.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Raus aus dem Hamsterrad: Das Sabbatical",
+            "description": "Eine Auszeit vom Job nehmen, um zu reisen, sich weiterzubilden oder neue Kraft zu tanken – das Sabbatjahr wird immer beliebter. Erfahren Sie, welche Modelle es gibt, wie Sie ein Sabbatical finanzieren und erfolgreich mit Ihrem Arbeitgeber verhandeln. Rechtliche Aspekte und Rückkehrplanung inklusive.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Nachhaltigkeit im Kleinbetrieb: Grüner geht immer!",
+            "description": "Auch kleine Unternehmen können einen Beitrag zum Umweltschutz leisten – und dabei oft sogar Kosten sparen. Entdecken Sie praktische Tipps zur Abfallvermeidung, Energieeffizienz im Büro oder Geschäft und zur Auswahl nachhaltiger Lieferanten. Einfach umsetzbare Ideen für einen grüneren Fußabdruck.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gesetzlich oder Privat? Krankenversicherung in Deutschland",
+            "description": "Das deutsche Gesundheitssystem bietet verschiedene Optionen der Krankenversicherung. Wir erklären die Unterschiede zwischen gesetzlicher (GKV) und privater Krankenversicherung (PKV), wer welche wählen kann und worauf bei der Tarifauswahl zu achten ist. Ein grundlegender Leitfaden für Angestellte und Beamte.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Sicher auftreten: Tipps für die perfekte Präsentation",
+            "description": "Ob vor Kunden, Kollegen oder der Geschäftsleitung – eine gute Präsentation überzeugt. Dieser Ratgeber zeigt Ihnen, wie Sie Ihre Inhalte klar strukturieren, mit Lampenfieber umgehen, Körpersprache gezielt einsetzen und Ihr Publikum fesseln. Mit Checkliste für die Vorbereitung.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Professionelle Kundenkommunikation am Telefon",
+            "description": "Der erste Eindruck zählt – auch am Telefon. Wie gehen Sie souverän mit schwierigen Kundenanfragen oder Beschwerden um? Trainieren Sie Ihre Gesprächsführung, Fragetechniken und Deeskalationsstrategien für einen exzellenten Kundenservice und zufriedene Geschäftspartner.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "c",
+        "3": "g",
+        "4": "h",
+        "5": "f"
+    }
+}

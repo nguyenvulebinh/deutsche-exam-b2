@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Marta möchte ihre Computerkenntnisse für den Büroalltag verbessern."
+        },
+        {
+            "id": 2,
+            "description": "Ben plant ein kleines Café und braucht Infos zu Hygienevorschriften."
+        },
+        {
+            "id": 3,
+            "description": "Sophie möchte nach der Elternzeit wieder beruflich einsteigen."
+        },
+        {
+            "id": 4,
+            "description": "Jonas hat oft Konflikte mit einem bestimmten Kollegen."
+        },
+        {
+            "id": 5,
+            "description": "David sucht eine Arbeit, die er von zu Hause machen kann."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Umgang mit schwierigen Kollegen",
+            "description": "Nicht immer läuft die Zusammenarbeit im Team reibungslos. Was tun, wenn ein Kollege oder eine Kollegin immer wieder für Spannungen sorgt? Lernen Sie effektive Kommunikationsstrategien kennen, um Konflikte konstruktiv zu lösen und das Arbeitsklima zu verbessern.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Neueste Trends in der Softwareentwicklung",
+            "description": "Die IT-Welt entwickelt sich rasant. Bleiben Sie auf dem Laufenden über aktuelle Programmiersprachen, Cloud-Technologien und agile Methoden. Dieser Expertenartikel analysiert die wichtigsten Entwicklungen und ihre Auswirkungen auf die Branche für Fachkräfte.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Hygiene-Standards für Gastronomiebetriebe",
+            "description": "Wer ein Café oder Restaurant eröffnen möchte, muss strenge Hygienevorschriften beachten. Unser Leitfaden erklärt die wichtigsten gesetzlichen Anforderungen von der Lagerung bis zur Zubereitung. Vermeiden Sie Bußgelder und schützen Sie Ihre Gäste.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreich im Homeoffice: So finden Sie den passenden Job",
+            "description": "Immer mehr Unternehmen bieten Stellen an, die komplett von zu Hause aus erledigt werden können. Doch wie findet man solche Positionen? Wir zeigen Ihnen, auf welchen Portalen Sie suchen sollten, welche Branchen besonders remote-freundlich sind und was für die Bewerbung wichtig ist.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Ihre Rechte während der Elternzeit",
+            "description": "Wer Elternzeit nimmt, hat bestimmte Rechte gegenüber dem Arbeitgeber, zum Beispiel Kündigungsschutz. Was müssen Sie wissen über Teilzeitarbeit während der Elternzeit und die Rückkehr an den alten Arbeitsplatz? Ein Überblick über die wichtigsten rechtlichen Aspekte.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Büro-Software: Effizienter arbeiten",
+            "description": "Viele Büroaufgaben lassen sich mit aktueller Software schneller erledigen. Dieser Kurs zeigt Ihnen praktische Tipps und Tricks für gängige Programme wie Textverarbeitung und Tabellenkalkulation. So steigern Sie Ihre Produktivität am Arbeitsplatz deutlich.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die Zukunft der Arbeit: Megatrends im Überblick",
+            "description": "Künstliche Intelligenz, Globalisierung und der demografische Wandel verändern die Arbeitswelt grundlegend. Welche Kompetenzen werden in Zukunft gefragt sein? Wie werden wir in zehn Jahren arbeiten? Eine Analyse der großen Trends, die unsere Karrieren beeinflussen.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Wiedereinstieg leicht gemacht: Tipps für Berufsrückkehrerinnen",
+            "description": "Nach einer längeren Pause, wie der Elternzeit, ist der Wiedereinstieg in den Beruf oft eine Herausforderung. Dieser Artikel bietet praktische Ratschläge zur Jobsuche, zur Aktualisierung Ihrer Bewerbungsunterlagen und zur Vereinbarkeit von Familie und Karriere. Starten Sie selbstbewusst neu durch.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "g",
+        "3": "f",
+        "4": "a",
+        "5": "h"
+    }
+}

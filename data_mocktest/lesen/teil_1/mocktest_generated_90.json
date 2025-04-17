@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Portal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia sucht nach Wegen, um im Homeoffice produktiver zu sein."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte wissen, wie er sich auf sein erstes Mitarbeitergespräch vorbereiten soll."
+        },
+        {
+            "id": 3,
+            "description": "Fatima überlegt, eine Weiterbildung im Bereich Projektmanagement zu machen."
+        },
+        {
+            "id": 4,
+            "description": "David hat Schwierigkeiten, klare Grenzen zwischen Arbeit und Freizeit zu ziehen."
+        },
+        {
+            "id": 5,
+            "description": "Sandra braucht Tipps, wie sie ihr berufliches Netzwerk online erweitern kann."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Abschalten lernen: So gelingt die Work-Life-Balance",
+            "description": "Ständig erreichbar, die Gedanken kreisen auch nach Feierabend um die Arbeit? Das muss nicht sein. Dieser Artikel zeigt praktische Techniken und mentale Strategien, um klare Grenzen zwischen Berufs- und Privatleben zu ziehen und so langfristig gesund und leistungsfähig zu bleiben. Erfahren Sie, wie Sie effektiv abschalten.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Homeoffice rechtssicher gestalten: Was Arbeitgeber beachten müssen",
+            "description": "Die Einrichtung von Homeoffice-Arbeitsplätzen bringt für Unternehmen viele Fragen mit sich: von Datenschutz über Arbeitszeiterfassung bis hin zu versicherungstechnischen Aspekten. Dieser Leitfaden gibt Personalverantwortlichen und Geschäftsführern einen Überblick über die aktuellen rechtlichen Rahmenbedingungen und Pflichten.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Das Mitarbeitergespräch meistern: Vorbereitung ist alles",
+            "description": "Das jährliche oder halbjährliche Gespräch mit dem Vorgesetzten ist eine wichtige Chance. Erfahren Sie, wie Sie sich optimal darauf vorbereiten, Ihre Leistungen überzeugend darstellen, konstruktives Feedback geben und erhalten sowie Ihre Ziele und Gehaltsvorstellungen erfolgreich besprechen. Mit Checkliste zur Vorbereitung.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Gesund am Arbeitsplatz: Ergonomie im Büro",
+            "description": "Langes Sitzen belastet den Körper. Doch mit der richtigen Büroausstattung und kleinen Verhaltensänderungen können Sie Rückenschmerzen und Verspannungen vorbeugen. Wir stellen ergonomische Stühle, höhenverstellbare Tische und Tipps für gesunde Arbeitspausen vor. Investieren Sie in Ihre Gesundheit.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Online Netzwerken: Digitale Kontakte erfolgreich knüpfen",
+            "description": "Plattformen wie LinkedIn und Xing bieten enorme Möglichkeiten, das berufliche Netzwerk zu erweitern. Doch wie nutzt man sie richtig? Dieser Artikel gibt praktische Tipps zur Profilgestaltung, zur Kontaktaufnahme und dazu, wie man online Beziehungen aufbaut, die auch im realen Berufsleben von Nutzen sind.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Effektiv im Homeoffice: Mehr schaffen, weniger Stress",
+            "description": "Die Arbeit von zu Hause bietet Flexibilität, birgt aber auch Ablenkungen. Lernen Sie bewährte Methoden des Zeitmanagements speziell für das Homeoffice kennen. Entdecken Sie digitale Tools, die die Konzentration fördern und erfahren Sie, wie Sie Ihren Arbeitsplatz optimal gestalten, um produktiver zu sein.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Sprachkurse für den Beruf: Fit für den globalen Markt",
+            "description": "Englisch ist oft nicht genug. In einer globalisierten Wirtschaft werden spezifische Fremdsprachenkenntnisse immer wichtiger. Finden Sie heraus, welche Sprachen aktuell besonders gefragt sind und welche Kursformate (Abendkurse, Intensiv-Workshops, Online-Lernen) sich für Berufstätige am besten eignen.",
+            "link_text": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Karriereturbo Projektmanagement: Welche Weiterbildung lohnt sich?",
+            "description": "Fachkräfte, die Projekte erfolgreich planen und steuern können, sind gefragt. Doch welche Qualifikation ist die richtige? Von agilen Methoden wie Scrum bis zu klassischen Zertifizierungen (PMP, IPMA): Wir geben einen Überblick über anerkannte Weiterbildungen im Projektmanagement und deren Nutzen für Ihre Karriere.",
+            "link_text": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "h",
+        "5": "b"
+    }
+}

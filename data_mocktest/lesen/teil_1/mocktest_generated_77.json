@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriere-Portal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna sucht Tipps, um bei Online-Meetings überzeugender aufzutreten."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte wissen, wie er seine Sprachkenntnisse offiziell belegen kann."
+        },
+        {
+            "id": 3,
+            "description": "Claudia braucht Ratschläge zum Umgang mit beruflicher Belastung."
+        },
+        {
+            "id": 4,
+            "description": "David informiert sich über passende Rechtsformen für sein zukünftiges Kleinunternehmen."
+        },
+        {
+            "id": 5,
+            "description": "Eva will lernen, wie man das eigene Gehalt erfolgreich verhandelt."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Professionell im Video-Call: So hinterlassen Sie einen guten Eindruck",
+            "description": "Online-Meetings sind Alltag. Doch wie wirkt man kompetent und sympathisch vor der Kamera? Dieser Artikel gibt praktische Tipps zu Technik, Körpersprache und Kommunikation, damit Sie auch virtuell überzeugen können. Einfache Anpassungen bei Beleuchtung und Hintergrund machen oft schon einen großen Unterschied. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Sprachen lernen per App: Die besten Tools im Test",
+            "description": "Eine neue Sprache lernen oder vorhandene Kenntnisse auffrischen? Mobile Apps machen es einfach und flexibel. Wir haben die beliebtesten Sprachlern-Apps getestet und bewertet. Finden Sie heraus, welche Anwendung am besten zu Ihrem Lerntyp und Ihren Zielen passt. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Weniger Stress, mehr Erfolg: Strategien für den Arbeitsalltag",
+            "description": "Fühlen Sie sich oft überfordert und gestresst bei der Arbeit? Sie sind nicht allein. Lernen Sie effektive Methoden kennen, um Stress abzubauen und Ihre Belastbarkeit zu stärken. Von Zeitmanagement-Techniken bis hin zu kurzen Entspannungsübungen für zwischendurch – finden Sie heraus, was Ihnen hilft. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gründung leicht gemacht: Die Wahl der richtigen Rechtsform",
+            "description": "Wer ein Unternehmen gründet, steht vor der wichtigen Entscheidung der Rechtsform. Einzelunternehmen, GbR, GmbH oder UG? Jede Form hat Vor- und Nachteile bezüglich Haftung, Kapitalbedarf und bürokratischem Aufwand. Dieser Überblick hilft Ihnen, die optimale Struktur für Ihr Vorhaben zu finden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Mitarbeitergesundheit fördern: Stressprävention im Unternehmen",
+            "description": "Hoher Arbeitsdruck kann die Gesundheit und Motivation der Mitarbeiter beeinträchtigen. Als Führungskraft können Sie aktiv gegensteuern. Erfahren Sie, welche Maßnahmen zur Stressprävention im Team sinnvoll sind und wie Sie ein gesundes Arbeitsumfeld schaffen, das die Leistungsfähigkeit fördert. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Erfolgreich verhandeln: Tipps für die nächste Gehaltsrunde",
+            "description": "Sie leisten gute Arbeit und finden, eine Gehaltserhöhung wäre angebracht? Eine gute Vorbereitung ist der Schlüssel zum Erfolg. Erfahren Sie, wie Sie Ihren Marktwert recherchieren, überzeugende Argumente sammeln und das Gespräch mit Ihrem Vorgesetzten selbstbewusst führen können. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Die Zukunft der virtuellen Zusammenarbeit: Trends und Technologien",
+            "description": "Videokonferenzen entwickeln sich rasant weiter. Künstliche Intelligenz, virtuelle Realität und neue Tools versprechen, die Online-Zusammenarbeit zu revolutionieren. Lesen Sie, welche technologischen Entwicklungen auf uns zukommen und wie sie die Arbeitswelt von morgen prägen werden. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Sprachzertifikate für den Beruf: Welches ist das richtige?",
+            "description": "Gute Fremdsprachenkenntnisse sind im Berufsleben oft ein Pluspunkt. Doch wie weist man sie am besten nach? Wir stellen die wichtigsten international anerkannten Sprachzertifikate vor, erklären die Unterschiede und für welche Branchen und Positionen sie besonders relevant sind. So finden Sie den passenden Nachweis. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "h",
+        "3": "a",
+        "4": "d",
+        "5": "g"
+    }
+}

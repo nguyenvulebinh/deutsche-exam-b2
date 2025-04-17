@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Elena sucht Finanzierungsmöglichkeiten für ihre neu gegründete Marketingagentur."
+        },
+        {
+            "id": 2,
+            "description": "Ben möchte praktische Tipps, wie er im aktuellen Job befördert werden kann."
+        },
+        {
+            "id": 3,
+            "description": "Maria sucht als neue Teamleiterin Ratschläge zur effektiven Mitarbeiterführung."
+        },
+        {
+            "id": 4,
+            "description": "David überlegt, ob er als freiberuflicher IT-Berater arbeiten soll."
+        },
+        {
+            "id": 5,
+            "description": "Sofia sucht effiziente Management-Techniken gegen die E-Mail-Flut bei der Arbeit."
+        }
+    ],
+    "articles": [
+        {
+            "id": "d",
+            "title": "Führungskompetenz stärken: Tipps für neue Vorgesetzte",
+            "description": "Der Sprung zur Führungskraft bringt neue Herausforderungen. Dieser Artikel beleuchtet essenzielle Fähigkeiten für ein erfolgreiches Management. Lernen Sie, wie Sie klar kommunizieren, Aufgaben sinnvoll delegieren, Ihr Team motivieren und auch in schwierigen Situationen souverän agieren. Praktische Beispiele helfen bei der Umsetzung im Alltag. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Der erste Job nach dem Studium",
+            "description": "Der Übergang von der Universität ins Berufsleben ist ein großer Schritt. Wo findet man passende Stellen? Wie überzeugt man im Bewerbungsgespräch ohne viel Praxiserfahrung? Dieser Ratgeber gibt Absolventen wertvolle Hinweise für die Stellensuche und die ersten Wochen im neuen Job. Checklisten helfen, typische Fehler zu vermeiden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Teambuilding-Events: Mehr als nur Spaß?",
+            "description": "Gemeinsame Aktivitäten außerhalb des Büros können den Zusammenhalt stärken. Doch welche Maßnahmen sind wirklich sinnvoll und fördern die Zusammenarbeit nachhaltig? Wir stellen verschiedene Konzepte für Teamevents vor, von Outdoor-Abenteuern bis zu kreativen Workshops, und diskutieren deren Nutzen für das Betriebsklima und die Produktivität. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "E-Mail-Flut im Griff: Strategien für den Arbeitsalltag",
+            "description": "Das Postfach quillt über und wichtige Nachrichten gehen unter? Effektives E-Mail-Management ist lernbar. Entdecken Sie bewährte Methoden zur Organisation Ihres Posteingangs, wie Sie Prioritäten setzen und Antwortzeiten optimieren. Mit diesen Techniken reduzieren Sie Stress und gewinnen Zeit für Ihre eigentlichen Aufgaben. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Wirtschaftsausblick: Trends auf dem deutschen Arbeitsmarkt",
+            "description": "Wie entwickeln sich Konjunktur und Beschäftigung in den kommenden Monaten? Welche Branchen wachsen, wo drohen Herausforderungen? Experten analysieren die aktuelle wirtschaftliche Lage und geben Prognosen für Unternehmen und Arbeitnehmer. Informieren Sie sich über die wichtigsten ökonomischen Rahmenbedingungen und deren Auswirkungen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Startkapital für Gründer: Wege zur Finanzierung",
+            "description": "Eine gute Geschäftsidee allein reicht nicht aus – meist wird auch Kapital benötigt. Dieser Beitrag stellt verschiedene Möglichkeiten vor, wie junge Unternehmen an finanzielle Mittel kommen. Von Bankkrediten über staatliche Förderprogramme bis hin zu Business Angels und Crowdfunding werden die Optionen und ihre Voraussetzungen erläutert. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Freiberuflich Arbeiten: Chance oder Risiko?",
+            "description": "Die Selbstständigkeit lockt mit Flexibilität und Unabhängigkeit, birgt aber auch Unsicherheiten. Dieser Artikel wägt die Vor- und Nachteile des Freelancer-Daseins ab. Erfahren Sie, was Sie bei Themen wie Kundengewinnung, Einkommensplanung, Versicherungen und Bürokratie beachten müssen, bevor Sie den Schritt wagen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Karrieresprung: So steigen Sie im Unternehmen auf",
+            "description": "Sie möchten beruflich vorankommen, wissen aber nicht wie? Eine Beförderung erfordert mehr als nur gute Arbeit. Lernen Sie, wie Sie Ihre Leistungen sichtbar machen, gezielt neue Kompetenzen erwerben, strategisch netzwerken und sich erfolgreich für höhere Positionen positionieren. Konkrete Handlungsanweisungen unterstützen Ihren Weg nach oben. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "d",
+        "4": "h",
+        "5": "f"
+    }
+}

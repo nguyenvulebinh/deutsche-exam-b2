@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Ratgeber-Magazin für Berufstätige und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Markus möchte seine Präsentationen überzeugender gestalten."
+        },
+        {
+            "id": 2,
+            "description": "Sofia ist neu als Teamleiterin und braucht Tipps für ihre Führungsaufgaben."
+        },
+        {
+            "id": 3,
+            "description": "David arbeitet im Homeoffice und hat Mühe, sich zu konzentrieren."
+        },
+        {
+            "id": 4,
+            "description": "Julia will einen Online-Shop eröffnen und kennt die rechtlichen Grundlagen nicht."
+        },
+        {
+            "id": 5,
+            "description": "Kenan fragt sich, wie Künstliche Intelligenz seinen Job im Marketing verändern wird."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Besser kommunizieren im Team",
+            "description": "Klare Kommunikation ist der Schlüssel zum Erfolg in jedem Team. Erfahren Sie, wie Sie Missverständnisse vermeiden, aktiv zuhören und effektiv Feedback geben sowie empfangen können. Mit nützlichen Beispielen aus dem alltäglichen Bürogeschehen zur Verbesserung der Zusammenarbeit.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Überzeugend präsentieren: Mehr als nur Folien",
+            "description": "Gute Daten sind wichtig, aber wie bringt man sie überzeugend rüber? Dieser Artikel zeigt Techniken auf, wie Sie Ihr Publikum fesseln, Argumente klar strukturieren und mit Körpersprache sowie Stimme wirken. Praktische Tipps für den nächsten Pitch oder das Team-Meeting.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Vom Kollegen zur Führungskraft: Den Rollenwechsel meistern",
+            "description": "Der Sprung zur Teamleitung bringt neue Herausforderungen mit sich. Wie delegiert man Aufgaben fair? Wie gibt man konstruktives Feedback? Dieser Leitfaden bietet praxisnahe Ratschläge für frischgebackene Führungskräfte, um Autorität aufzubauen und das Team erfolgreich zu leiten.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Fokus im Homeoffice: So bleiben Sie produktiv",
+            "description": "Ablenkungen lauern überall, wenn das Büro zu Hause ist. Lernen Sie bewährte Methoden kennen, um Ihren Arbeitstag im Homeoffice effektiv zu strukturieren, Prokrastination zu vermeiden und eine klare Trennung zwischen Berufs- und Privatleben zu schaffen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Coworking Spaces: Die Alternative zum Heimbüro?",
+            "description": "Immer mehr Freiberufler und kleine Teams entscheiden sich für Coworking Spaces. Welche Vorteile bieten sie gegenüber dem Arbeiten zu Hause oder im traditionellen Büro? Ein Vergleich von Kosten, Netzwerkmöglichkeiten und der allgemeinen Atmosphäre verschiedener Anbieter in Großstädten.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Online-Shop gründen: Was rechtlich zu beachten ist",
+            "description": "Impressumspflicht, Widerrufsrecht, Datenschutzgrundverordnung (DSGVO) – wer online verkaufen will, muss viele rechtliche Fallstricke kennen. Dieser Überblick erklärt die wichtigsten gesetzlichen Anforderungen für Kleinunternehmerinnen und Online-Händler in Deutschland und der EU.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Start-up Finanzierung: Kapital finden",
+            "description": "Ohne Moos nix los – das gilt besonders für junge Unternehmen. Von Business Angels über Venture Capital bis hin zu staatlichen Förderprogrammen: Dieser Artikel gibt einen umfassenden Überblick über die verschiedenen Finanzierungsquellen für Start-ups und erklärt, worauf Investoren achten.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "KI im Marketing: Jobkiller oder Werkzeug der Zukunft?",
+            "description": "Künstliche Intelligenz verändert die Marketinglandschaft rasant. Welche Aufgaben werden automatisiert? Welche neuen Skills sind gefragt? Eine Analyse der Auswirkungen von KI auf Marketingberufe und wie sich Fachkräfte schon heute darauf vorbereiten können.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "c",
+        "3": "e",
+        "4": "d",
+        "5": "g"
+    }
+}

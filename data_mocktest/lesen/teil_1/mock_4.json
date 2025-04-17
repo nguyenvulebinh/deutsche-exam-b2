@@ -1,0 +1,78 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einer Wirtschaftszeitung und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+      {
+        "id": 1,
+        "description": "Karolina überlegt, sich selbständig zu machen."
+      },
+      {
+        "id": 2,
+        "description": "Lena fragt sich, ob sie ihre Vorgesetzte duzen kann."
+      },
+      {
+        "id": 3,
+        "description": "Andrey hat Probleme mit dem steigenden Arbeitsdruck."
+      },
+      {
+        "id": 4,
+        "description": "Sarah interessiert sich für eine Tätigkeit im Ausland."
+      },
+      {
+        "id": 5,
+        "description": "Lukas möchte Beruf und Familie besser verbinden."
+      }
+    ],
+    "articles": [
+      {
+        "id": "a",
+        "title": "Es ist alles zu viel!",
+        "description": "Ohne Pause durchgearbeitet, noch nichts gegessen und dann muss man auch noch ängstliche Patienten, besorgte Eltern oder unzufriedene Klienten beruhigen. Eine Krankenhausärztin, ein Lehrer und ein Sozialarbeiter berichten über den alltäglichen Wahnsinn und wie sie damit klarkommen."
+      },
+      {
+        "id": "b",
+        "title": "Kinder oder Arbeit?",
+        "description": "Immer mehr Arbeitnehmerinnen und Arbeitnehmer wollen mehr Zeit für ihre Kinder und ihren Partner / ihre Partnerin haben. Doch der Job lässt oft wenig Spielraum, die Arbeitsbelastung ist hoch. Neue Arbeitszeitmodelle helfen dabei, die richtige Balance zu finden."
+      },
+      {
+        "id": "c",
+        "title": "Siezen oder duzen?",
+        "description": "In der Korrespondenz mit Kundinnen und Kunden sollte man genau hinschauen. Ein saloppes Du kommt nicht bei allen Kundinnen und Kunden gut an, auch wenn Sie in einem modernen Start-up arbeiten. Fingerspitzengefühl ist gefragt."
+      },
+      {
+        "id": "d",
+        "title": "Elternzeit",
+        "description": "In Deutschland gibt es viele Förderungen für Familien. Die Elternzeit wird nicht nur von Frauen, sondern zunehmend auch von Männern gerne genutzt. Kinderwagen schieben statt am Computer sitzen: Wir zeigen Ihnen, wie Sie die Elternzeit richtig beantragen."
+      },
+      {
+        "id": "e",
+        "title": "Das Problem mit der Anrede",
+        "description": "In vielen Firmen sprechen sich die Mitarbeitenden mit Vornamen an und duzen sich. Aber kann man das auch mit dem Chef oder der Chefin machen? Das hat Vor- und Nachteile, die neue Mitarbeitende unbedingt beachten sollten."
+      },
+      {
+        "id": "f",
+        "title": "Ein gutes Konzept ist wichtig",
+        "description": "Wer sein eigener Chef werden will, muss sich gut vorbereiten. Man muss sich von Routinen verabschieden und mit finanzieller Unsicherheit leben können. Der Lohn ist ein selbstbestimmtes Arbeitsleben. Der Ratgeber „Der große Schritt“ hilft Ihnen, Schwierigkeiten beim Weg in die Selbständigkeit zu meistern."
+      },
+      {
+        "id": "g",
+        "title": "Das Internationale im Lebenslauf",
+        "description": "Madrid, Paris, New York ... Viele Mitarbeitende wollen gerne mal für einen bestimmten Zeitraum in einem anderen Land arbeiten. Das ist nicht nur eine sehr wertvolle Berufserfahrung, sondern beeindruckt auch Arbeitgeber. Diese Tipps helfen bei der Suche nach einer geeigneten Stelle."
+      },
+      {
+        "id": "h",
+        "title": "Ich muss mal raus aus Deutschland!",
+        "description": "Der Urlaubsantrag sorgt immer wieder für Konflikte in Unternehmen. Wer darf wann gehen? Viele wollen den Frühbucherrabatt von Auslandsreisen nutzen und den Urlaub möglichst früh beantragen. Wie sieht das arbeitsrechtlich aus?"
+      }
+    ],
+    "solutions": {
+      "1": "f",
+      "2": "e",
+      "3": "a",
+      "4": "g",
+      "5": "b"
+    }
+  }
+  

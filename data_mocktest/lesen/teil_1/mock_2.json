@@ -1,0 +1,77 @@
+{
+  "exercise_type": "TELC B2",
+  "skill": "Lesen",
+  "part": "Teil 1",
+  "instructions": "Sie suchen Informationen zu beruflichen Themen. Entscheiden Sie, welcher Text a–h zu welcher Person 1–5 passt.",
+  "people": [
+    {
+      "id": 1,
+      "description": "Alexandru überlegt, sich mit einem Partyservice selbstständig zu machen."
+    },
+    {
+      "id": 2,
+      "description": "Johanna will nach ihrem Realschulabschluss einen technischen Beruf erlernen."
+    },
+    {
+      "id": 3,
+      "description": "Katrin sucht nach 20 Jahren Büroarbeit eine neue Tätigkeit."
+    },
+    {
+      "id": 4,
+      "description": "Lars ist ausgebildeter Dachdecker und möchte in seinem Beruf Karriere machen."
+    },
+    {
+      "id": 5,
+      "description": "Navin hat einen Uniabschluss aus Indien und möchte in Deutschland arbeiten."
+    }
+  ],
+  "articles": [
+    {
+      "id": "a",
+      "title": "MINT für Mädchen",
+      "description": "Mathematik, Informatik, Naturwissenschaften, Technik gelten immer noch als Männerdomänen – aber die Zeiten ändern sich. Beweis dafür ist das überwältigende Interesse junger Frauen am ersten Tag der diesjährigen Ausbildungsmesse, bei der (Fach-)Hochschulen und Unternehmen ihre MINT-Studienfächer und Ausbildungsberufe vorstellen. Das weitere Programm finden Sie hier."
+    },
+    {
+      "id": "b",
+      "title": "Fürs Leben lernen",
+      "description": "Bei „START-UP junior“ gründen Schüler*innen ihre eigene Firma, verkaufen Produkte oder bieten Dienstleistungen an – und verdienen sogar Geld damit. Hier erklärt der Projektleiter Paulo Goncalves, wie junge Menschen mit unternehmerischem Denken vertraut gemacht werden und lernen, Verantwortung zu übernehmen."
+    },
+    {
+      "id": "c",
+      "title": "Neue Podcastfolge",
+      "description": "Ahmed El-Shamy kam aus Ägypten nach Deutschland. Nach mehreren Sprachkursen und der Anerkennung seines Diploms arbeitet er heute als Ingenieur. In unserem heutigen Podcast erzählt er von seinem beruflichen Werdegang und gibt internationalen Fachkräften und Akademiker*innen, die in Deutschland durchstarten möchten, wertvolle Tipps."
+    },
+    {
+      "id": "d",
+      "title": "Persönliches Coaching",
+      "description": "Wie viele Leute kennen Sie, die schon jahrelang denselben Job machen und damit zufrieden sind? Niemanden? Kein Wunder. Veränderung gehört zum Leben – auch zum Arbeitsleben. Erfahren Sie hier, wie Sie den richtigen Coach finden, der Ihnen neue Perspektiven eröffnet."
+    },
+    {
+      "id": "e",
+      "title": "Wieder eine Fortbildung?",
+      "description": "Mitarbeitende wissen oft nicht, wozu sie sich weiterbilden sollen: Sie machen schließlich ihren Job schon seit Jahren und wollen keine Karriere machen. Diese Meinung hört man häufig in Betrieben. Lesen Sie hier, wie Sie geeignete Fortbildungen für Ihre Mitarbeitenden auswählen."
+    },
+    {
+      "id": "f",
+      "title": "Tausendundeine Frage",
+      "description": "Wie viel Startkapital brauche ich? Muss ich einen Businessplan schreiben? Wie finde ich gutes Personal? Wer eine Firma gründen möchte, hat anfangs viele Fragen. Antworten gibt’s hier von den Experten."
+    },
+    {
+      "id": "g",
+      "title": "Kaufmann/-frau: der absolute Klassiker",
+      "description": "Kaufmännische Berufe sind nach wie vor populär: Sie bieten abwechslungsreiche Tätigkeiten, sind in den unterschiedlichsten Branchen zu finden und in der Wirtschaft überall gefragt. Auch die Verdienstmöglichkeiten sind attraktiv. Hier finden Sie die zehn beliebtesten Bürojobs."
+    },
+    {
+      "id": "h",
+      "title": "Qualifikationen, die sich lohnen",
+      "description": "Auch Handwerker haben Aufstiegsmöglichkeiten! Mit erfolgreich abgeschlossener Berufsausbildung kann man sich für leitende Positionen qualifizieren oder selbstständig machen. Mehr über die Meisterausbildung und andere weiterführende Ausbildungen erfahren Sie beim kostenlosen Informationstag."
+    }
+  ],
+  "solutions": {
+    "1": "f",
+    "2": "a",
+    "3": "d",
+    "4": "h",
+    "5": "c"
+  }
+}

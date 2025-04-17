@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Markus sucht Ratschläge für eine bessere Gehaltsverhandlung."
+        },
+        {
+            "id": 2,
+            "description": "Sofia möchte lernen, wie sie Konflikte mit Kollegen lösen kann."
+        },
+        {
+            "id": 3,
+            "description": "Jan interessiert sich für flexible Arbeitszeitmodelle wie Homeoffice."
+        },
+        {
+            "id": 4,
+            "description": "Emilia will eine Weiterbildung im Bereich Projektmanagement machen."
+        },
+        {
+            "id": 5,
+            "description": "Ben braucht Hilfe bei der Erstellung seines Lebenslaufs für eine neue Bewerbung."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Konflikte im Kundenservice vermeiden: Deeskalationstechniken",
+            "description": "Unzufriedene Kunden können eine Herausforderung sein. Wie reagiert man professionell auf Beschwerden und Kritik? Dieser Artikel gibt Tipps für Servicemitarbeiter, wie sie schwierige Kundengespräche meistern und durch gezielte Kommunikation Eskalationen verhindern können. Effektive Strategien für den Umgang mit Reklamationen. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Der perfekte Lebenslauf: So überzeugen Sie Personaler",
+            "description": "Ihr Lebenslauf ist oft der erste Eindruck, den Sie hinterlassen. Wie gestalten Sie ihn übersichtlich, aussagekräftig und fehlerfrei? Experten geben Ratschläge zu Aufbau, Inhalt und Design, damit Ihre Bewerbung aus der Masse heraussticht und Sie zum Gespräch eingeladen werden. Tipps für Anschreiben und Online-Profile inklusive. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Büro-Ergonomie: Gesund arbeiten am Schreibtisch",
+            "description": "Rückenschmerzen und Verspannungen durch langes Sitzen? Das muss nicht sein. Wir zeigen Ihnen, wie Sie Ihren Arbeitsplatz ergonomisch gestalten – vom richtigen Stuhl über die Monitoreinstellung bis hin zu einfachen Übungen für zwischendurch. Investieren Sie in Ihre Gesundheit für mehr Wohlbefinden im Büroalltag. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Projektmanagement-Zertifikate: Welche Weiterbildung passt zu Ihnen?",
+            "description": "PRINCE2, Scrum Master, PMP – die Auswahl an Projektmanagement-Qualifikationen ist groß. Doch welche Zertifizierung bringt Ihre Karriere wirklich voran? Wir stellen die gängigsten Methoden und Abschlüsse vor, vergleichen Kosten und Nutzen und helfen Ihnen bei der Entscheidung für den richtigen Kurs zur beruflichen Weiterentwicklung. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Führungskräfteentwicklung: Talente im Unternehmen fördern",
+            "description": "Gute Mitarbeiter zu finden ist schwer, sie zu halten noch schwerer. Effektive Führungskräfteentwicklung spielt dabei eine zentrale Rolle. Erfahren Sie, wie Unternehmen interne Talente identifizieren, durch gezielte Programme fördern und langfristig binden können, um den Unternehmenserfolg nachhaltig zu sichern. Strategien für HR-Verantwortliche. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Erfolgreich verhandeln: Mehr Gehalt durchsetzen",
+            "description": "Viele scheuen das Gehaltsgespräch. Dabei gibt es klare Strategien, wie Sie Ihre Forderungen überzeugend präsentieren und Argumente des Arbeitgebers entkräften. Lernen Sie die wichtigsten Taktiken für die nächste Verhandlungsrunde kennen, bereiten Sie sich optimal vor und erreichen Sie Ihre finanziellen Ziele im Job. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Homeoffice etablieren: Rechtliche Rahmenbedingungen und praktische Tipps",
+            "description": "Immer mehr Unternehmen bieten mobiles Arbeiten an. Doch was müssen Arbeitgeber und Arbeitnehmer beachten? Von der technischen Ausstattung über Datenschutz und Arbeitszeiterfassung bis hin zur virtuellen Kommunikation im Team – dieser Leitfaden klärt die wichtigsten Fragen zur erfolgreichen Einführung von Homeoffice-Regelungen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Streit am Arbeitsplatz? So lösen Sie Konflikte konstruktiv",
+            "description": "Meinungsverschiedenheiten im Team sind normal, können aber die Zusammenarbeit stark belasten. Dieser Artikel zeigt bewährte Methoden auf, wie Sie Konflikte frühzeitig erkennen, wertschätzend ansprechen und gemeinsam mit Kollegen eine faire und nachhaltige Lösung finden können. Praktische Tipps für eine bessere Teamdynamik und Kommunikation. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "a",
+        "3": "g",
+        "4": "c",
+        "5": "e"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Martin möchte lernen, wie er bei Präsentationen souveräner wirkt."
+        },
+        {
+            "id": 2,
+            "description": "Sofia überlegt, ob Homeoffice für sie eine gute Option wäre."
+        },
+        {
+            "id": 3,
+            "description": "Ben sucht nach Wegen, mit schwierigen Kollegen besser umzugehen."
+        },
+        {
+            "id": 4,
+            "description": "Anja braucht Informationen zur Anerkennung ihres ausländischen Studienabschlusses."
+        },
+        {
+            "id": 5,
+            "description": "David interessiert sich für den Start eines nebenberuflichen Online-Business."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Konflikte im Team lösen",
+            "description": "Meinungsverschiedenheiten am Arbeitsplatz sind normal, können aber die Produktivität belasten. Dieser Artikel zeigt bewährte Methoden zur Deeskalation und konstruktiven Gesprächsführung auf. Lernen Sie, wie Sie auch mit anspruchsvollen Persönlichkeiten professionell kommunizieren und gemeinsame Lösungen finden. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "PowerPoint, Keynote & Co.: Das richtige Tool wählen",
+            "description": "Moderne Präsentationen leben nicht nur vom Inhalt, sondern auch von der visuellen Gestaltung. Welche Software eignet sich am besten für Ihre Zwecke? Wir vergleichen die führenden Programme hinsichtlich ihrer Funktionen, Benutzerfreundlichkeit und Design-Möglichkeiten für eindrucksvolle Vorträge. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Arbeiten von zu Hause: Chance oder Falle?",
+            "description": "Immer mehr Unternehmen ermöglichen das Arbeiten im Homeoffice. Doch passt dieses Modell zu jedem? Wir beleuchten die Vor- und Nachteile: von mehr Flexibilität und konzentrierterem Arbeiten bis hin zu sozialer Isolation und verschwimmenden Grenzen zwischen Job und Freizeit. Eine Entscheidungshilfe. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Ihr Abschluss in Deutschland: So geht die Anerkennung",
+            "description": "Sie haben im Ausland studiert und möchten nun in Deutschland arbeiten? Der Weg zur offiziellen Anerkennung Ihrer Qualifikationen kann komplex sein. Dieser Leitfaden erklärt Schritt für Schritt den Prozess, die zuständigen Stellen und welche Dokumente Sie benötigen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Sicher auftreten, überzeugend präsentieren",
+            "description": "Lampenfieber vor Vorträgen? Unsicherheit bei der Präsentation vor Kunden oder Kollegen? Mit den richtigen Techniken können Sie Ihre Nervosität in positive Energie umwandeln. Dieser Ratgeber bietet praktische Übungen zu Körpersprache, Stimmeinsatz und Strukturierung für einen gelungenen Auftritt. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Nebenjob 2.0: Erfolgreich online gründen",
+            "description": "Träumen Sie davon, neben dem Hauptberuf ein eigenes kleines Unternehmen im Internet aufzubauen? Dieser Artikel gibt einen Überblick über beliebte Geschäftsmodelle, wichtige rechtliche Grundlagen für Nebenerwerbsgründer und Tipps für effektives Online-Marketing mit kleinem Budget. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Arbeitsplatz im eigenen Heim: Pflichten des Arbeitgebers",
+            "description": "Wenn Mitarbeiter von zu Hause arbeiten, müssen Unternehmen bestimmte rechtliche Rahmenbedingungen beachten. Von der Bereitstellung ergonomischer Arbeitsmittel bis hin zu Datenschutz und Arbeitszeiterfassung – erfahren Sie, welche Vorschriften für Arbeitgeber beim Thema Homeoffice gelten. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Visum und Aufenthalt: Der Weg nach Deutschland",
+            "description": "Für Fachkräfte aus Nicht-EU-Ländern gibt es verschiedene Möglichkeiten, eine Arbeits- und Aufenthaltserlaubnis für Deutschland zu erhalten. Dieser Artikel bietet eine allgemeine Einführung in die wichtigsten Visa-Kategorien und die grundlegenden Voraussetzungen für die Einreise und den Arbeitsmarktzugang. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "f",
+        "3": "g",
+        "4": "e",
+        "5": "d"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Maria fühlt sich im Job oft überfordert und sucht nach Entspannungstechniken."
+        },
+        {
+            "id": 2,
+            "description": "Javier möchte sein Deutsch für E-Mails und Besprechungen im Büro verbessern."
+        },
+        {
+            "id": 3,
+            "description": "Sophie arbeitet Vollzeit, möchte sich aber nebenberuflich weiterbilden."
+        },
+        {
+            "id": 4,
+            "description": "Kenan will sich als Grafikdesigner selbstständig machen und braucht Rechtstipps."
+        },
+        {
+            "id": 5,
+            "description": "Lena sucht einen neuen Job und möchte ihre beruflichen Kontakte besser nutzen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Effektives Networking für die Karriere",
+            "description": "Gute Kontakte sind im Berufsleben oft Gold wert. Doch wie baut man ein nützliches Netzwerk auf und pflegt es? Dieser Artikel zeigt praxisnahe Strategien, wie Sie auf Veranstaltungen, online und im Alltag wertvolle berufliche Beziehungen knüpfen können, die Ihnen bei der Jobsuche helfen. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Top 5 Projektmanagement-Tools 2024",
+            "description": "Effiziente Organisation ist der Schlüssel zum Erfolg. Wir haben die neuesten Softwarelösungen für Projektmanagement getestet. Lesen Sie unseren Vergleich von Asana, Trello, Jira und Co. und finden Sie heraus, welches Tool am besten zu den Anforderungen Ihres Teams passt und die Zusammenarbeit verbessert. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Stressfrei durch den Arbeitsalltag",
+            "description": "Hoher Druck und ständige Erreichbarkeit können zu Burnout führen. Erkennen Sie Warnsignale frühzeitig und lernen Sie bewährte Methoden zur Stressbewältigung kennen. Von Achtsamkeitsübungen bis zum richtigen Zeitmanagement – finden Sie hier Tipps für mehr Gelassenheit im Job. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Deutsch im Job: Sicher kommunizieren",
+            "description": "Korrekte E-Mails formulieren, in Meetings souverän auftreten – gute Deutschkenntnisse sind im Berufsleben unerlässlich. Dieser Ratgeber bietet praktische Formulierungsbeispiele, typische Redewendungen für den Büroalltag und Hinweise, wie Sie häufige Fehler in der Geschäftskommunikation vermeiden. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Steuern sparen als Angestellter",
+            "description": "Wer kennt sich schon im Steuerdschungel aus? Viele Arbeitnehmer verschenken jährlich Geld, weil sie nicht alle absetzbaren Kosten kennen. Erfahren Sie hier, wie Sie durch Werbungskosten, Sonderausgaben und Freibeträge Ihre Steuerlast legal senken können. Praktische Tipps für die nächste Steuererklärung. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Arbeiten im Ausland: Ein Karriere-Booster?",
+            "description": "Internationale Erfahrung wird im Lebenslauf immer gern gesehen. Ein Job im Ausland erweitert den Horizont und bringt neue Fähigkeiten. Doch lohnt sich der Schritt wirklich für jeden? Wir beleuchten die Vor- und Nachteile und geben Tipps für die Planung eines Auslandseinsatzes. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Weiterbildung neben dem Beruf: Möglichkeiten und Finanzierung",
+            "description": "Lebenslanges Lernen ist wichtiger denn je. Auch wer fest im Berufsleben steht, kann sich weiterqualifizieren. Ob Abendstudium, Fernkurs oder Wochenendseminar – wir stellen verschiedene Modelle der berufsbegleitenden Weiterbildung vor und informieren über staatliche Fördermöglichkeiten und Stipendien. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Als Freiberufler starten: Was rechtlich zu beachten ist",
+            "description": "Der Schritt in die Selbstständigkeit als Freiberufler ist beliebt, birgt aber auch rechtliche Fallstricke. Dieser Artikel erklärt die wichtigsten Grundlagen: Von der Anmeldung beim Finanzamt über die Steuernummer bis hin zu Rechnungsstellung und Scheinselbstständigkeit. Ein kompakter Überblick für Gründer. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "h",
+        "3": "b",
+        "4": "a",
+        "5": "c"
+    }
+}

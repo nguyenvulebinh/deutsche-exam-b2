@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia möchte lernen, wie man schwierige Gespräche mit Mitarbeitern führt."
+        },
+        {
+            "id": 2,
+            "description": "Markus sucht nach einer Möglichkeit, nebenberuflich Geld zu verdienen."
+        },
+        {
+            "id": 3,
+            "description": "Fatima braucht Informationen zur Finanzierung ihrer Geschäftsidee."
+        },
+        {
+            "id": 4,
+            "description": "Klaus möchte sich beruflich neu orientieren, weiß aber nicht, in welche Richtung."
+        },
+        {
+            "id": 5,
+            "description": "Sabine hat Schwierigkeiten, ihre Aufgaben rechtzeitig zu erledigen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Startkapital finden: Finanzierungswege für Gründer",
+            "description": "Eine gute Geschäftsidee allein reicht nicht aus. Die meisten Gründer benötigen finanzielle Unterstützung, um ihr Vorhaben zu realisieren. Dieser Artikel stellt verschiedene Möglichkeiten vor, von klassischen Bankkrediten über staatliche Förderprogramme bis hin zu modernen Optionen wie Crowdfunding oder Business Angels. Erfahren Sie, welche Finanzierungsform für Ihr Startup am besten geeignet ist.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Homeoffice-Gesetzgebung: Was Arbeitgeber beachten müssen",
+            "description": "Immer mehr Unternehmen ermöglichen ihren Angestellten das Arbeiten von zu Hause. Doch welche rechtlichen Rahmenbedingungen gelten dabei? Dieser Beitrag informiert Arbeitgeber über ihre Pflichten bezüglich Arbeitszeitregelungen, Datenschutz, Arbeitsmittelausstattung und Versicherungsschutz im Homeoffice, um rechtliche Fallstricke zu vermeiden.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Konflikte im Team lösen: Tipps für Führungskräfte",
+            "description": "Meinungsverschiedenheiten oder Leistungsprobleme im Team erfordern Fingerspitzengefühl von der Führungskraft. Lernen Sie effektive Kommunikationstechniken, um Kritik konstruktiv zu äußern, Missverständnisse zu klären und gemeinsam Lösungen zu finden. Ziel ist es, ein positives Arbeitsklima zu fördern und die Mitarbeiterzufriedenheit zu steigern.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Effektives Zeitmanagement: Mehr schaffen in weniger Zeit",
+            "description": "Fühlen Sie sich oft überfordert und haben das Gefühl, Ihre To-do-Liste nie abarbeiten zu können? Entdecken Sie bewährte Methoden zur besseren Organisation Ihres Arbeitstages. Von der Eisenhower-Matrix zur Priorisierung bis hin zur Pomodoro-Technik für konzentriertes Arbeiten – finden Sie die Strategie, die Ihnen hilft, produktiver zu werden und Stress zu reduzieren.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Kreativitätstechniken für innovative Produkte",
+            "description": "Stillstand bedeutet Rückschritt. Um wettbewerbsfähig zu bleiben, müssen Unternehmen ständig neue Ideen entwickeln. Wir stellen verschiedene Kreativitätstechniken wie Brainstorming, Mindmapping oder die 6-Hüte-Methode vor, die Teams dabei helfen, innovative Lösungen und Produktideen zu generieren und eingefahrene Denkmuster zu durchbrechen.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Berufliche Neuorientierung: Den richtigen Weg finden",
+            "description": "Unzufrieden im aktuellen Job, aber keine Ahnung, was als Nächstes kommen soll? Dieser Ratgeber unterstützt Sie bei der Selbstreflexion: Wo liegen Ihre Stärken und Interessen? Welche Werte sind Ihnen wichtig? Erfahren Sie, wie Sie potenzielle neue Berufsfelder erkunden und einen konkreten Plan für Ihren beruflichen Neustart entwickeln können.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Gesunde Ernährung am Arbeitsplatz",
+            "description": "Lange Arbeitstage und wenig Zeit für Pausen führen oft zu ungesundem Essverhalten. Doch die richtige Ernährung steigert Konzentration und Leistungsfähigkeit. Hier finden Sie einfache Tipps und schnelle Rezepte für gesunde Mahlzeiten und Snacks im Büro, die Ihnen Energie für den Tag geben und das Nachmittagstief verhindern.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Nebenjob gesucht? Ideen für den Feierabend",
+            "description": "Das Gehalt reicht nicht oder Sie möchten sich einfach etwas dazuverdienen? Es gibt viele Möglichkeiten, neben dem Hauptberuf zusätzliches Einkommen zu generieren. Von Tätigkeiten auf Online-Plattformen über Nachhilfe geben bis hin zu kleinen Dienstleistungen in der Nachbarschaft – entdecken Sie passende Optionen für einen lukrativen Nebenverdienst.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "h",
+        "3": "f",
+        "4": "g",
+        "5": "b"
+    }
+}

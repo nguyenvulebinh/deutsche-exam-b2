@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jan sucht Tipps, wie er seine Online-Bewerbungen verbessern kann."
+        },
+        {
+            "id": 2,
+            "description": "Fatima möchte lernen, bei Kundenterminen überzeugender zu präsentieren."
+        },
+        {
+            "id": 3,
+            "description": "Michael fühlt sich oft gestresst und sucht Wege zur Entspannung im Job."
+        },
+        {
+            "id": 4,
+            "description": "Laura interessiert sich für Weiterbildungen, die sie neben der Arbeit machen kann."
+        },
+        {
+            "id": 5,
+            "description": "Samir braucht Informationen über Kündigungsfristen in Deutschland."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Bildung neben dem Beruf: Modelle im Überblick",
+            "description": "Lebenslanges Lernen ist unerlässlich. Doch wie integriert man Weiterbildung in einen vollen Arbeitsalltag? Dieser Artikel stellt verschiedene Formen berufsbegleitender Qualifizierungen vor – von Abendkursen über Wochenendseminare bis hin zu flexiblen Online-Studiengängen. Finden Sie das passende Format für Ihre Karriereziele. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Megatrends am Arbeitsmarkt: Was kommt auf uns zu?",
+            "description": "Digitalisierung, Globalisierung und demografischer Wandel verändern die Arbeitswelt rasant. Welche Kompetenzen werden in Zukunft gefragt sein? Welche Branchen bieten die besten Perspektiven? Ein Ausblick auf die wichtigsten Entwicklungen der nächsten Jahre und ihre Auswirkungen auf Beschäftigte. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Souverän auftreten: Tipps für die perfekte Präsentation",
+            "description": "Ob im Meeting, vor Kunden oder auf Konferenzen – eine gelungene Präsentation kann Türen öffnen. Lernen Sie, wie Sie Ihre Inhalte klar strukturieren, visuell ansprechend gestalten und Ihr Publikum fesseln. Praktische Übungen helfen Ihnen, Lampenfieber zu überwinden und selbstbewusst zu kommunizieren. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Arbeitsvertrag beenden: Was Sie über Kündigung wissen müssen",
+            "description": "Eine Kündigung ist oft ein schwieriger Schritt. Dieser Ratgeber erklärt die rechtlichen Rahmenbedingungen in Deutschland. Erfahren Sie alles über gesetzliche und vertragliche Kündigungsfristen, formale Anforderungen an ein Kündigungsschreiben und Ihre Rechte als Arbeitnehmer im Falle einer Kündigung. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Netzwerken leicht gemacht: Kontakte knüpfen auf Events",
+            "description": "Berufliche Kontakte sind Gold wert. Doch wie spricht man fremde Menschen auf Messen oder Fachtagungen erfolgreich an? Wir geben Ihnen Strategien an die Hand, wie Sie Small Talk meistern, interessante Gesprächspartner finden und Ihr berufliches Netzwerk effektiv erweitern können. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Die digitale Bewerbungsmappe: So überzeugen Sie online",
+            "description": "Die meisten Bewerbungen laufen heute digital. Doch was gehört in eine zeitgemäße Online-Bewerbung? Wir zeigen Ihnen, wie Sie Anschreiben und Lebenslauf optimal gestalten, welche Dateiformate geeignet sind und wie Sie Bewerbungsportale und Karrierenetzwerke erfolgreich für Ihre Jobsuche nutzen. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Homeoffice-Pauschale: Steuern sparen bei der Arbeit zuhause",
+            "description": "Wer im Homeoffice arbeitet, kann Kosten von der Steuer absetzen. Doch welche Ausgaben sind abzugsfähig und wie funktioniert die Homeoffice-Pauschale genau? Wir erklären die aktuellen Regelungen und geben praktische Tipps, wie Sie Ihre Steuererklärung korrekt ausfüllen und Geld sparen. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Stressfrei durch den Arbeitstag: Strategien gegen Burnout",
+            "description": "Hoher Leistungsdruck und ständige Erreichbarkeit führen oft zu Stress. Dieser Artikel zeigt Ihnen wirksame Methoden zur Stressbewältigung am Arbeitsplatz. Entdecken Sie Entspannungstechniken, Tipps für besseres Zeitmanagement und Wege zu einer gesunden Work-Life-Balance, um langfristig leistungsfähig zu bleiben. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "h",
+        "3": "a",
+        "4": "f",
+        "5": "g"
+    }
+}

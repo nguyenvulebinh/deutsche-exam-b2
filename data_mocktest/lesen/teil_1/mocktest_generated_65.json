@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Marco möchte wissen, wie er bessere Karrierechancen in seiner Firma erhält."
+        },
+        {
+            "id": 2,
+            "description": "Sofia bereitet sich auf ein Vorstellungsgespräch vor und fürchtet knifflige Fragen."
+        },
+        {
+            "id": 3,
+            "description": "David interessiert sich für Möglichkeiten, dauerhaft im Homeoffice zu arbeiten."
+        },
+        {
+            "id": 4,
+            "description": "Anna hat ständig zu viele Aufgaben und sucht Tipps für besseres Zeitmanagement."
+        },
+        {
+            "id": 5,
+            "description": "Jürgen arbeitet im Marketing und möchte seine digitalen Kompetenzen erweitern."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Schluss mit dem Chaos: Effektives Zeitmanagement im Job",
+            "description": "Fühlen Sie sich oft überfordert und wissen nicht, wo Sie anfangen sollen? Effektives Zeitmanagement ist lernbar. Dieser Artikel stellt bewährte Methoden wie die Eisenhower-Matrix oder die Pomodoro-Technik vor, die Ihnen helfen, Prioritäten zu setzen und Ihre Zeit besser zu nutzen. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Der perfekte Lebenslauf für Berufseinsteiger",
+            "description": "Der erste Eindruck zählt! Gerade nach dem Studium oder der Ausbildung ist ein überzeugender Lebenslauf entscheidend. Wir zeigen Ihnen, wie Sie Ihre Qualifikationen optimal präsentieren, häufige Fehler vermeiden und Personaler neugierig machen. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Souverän im Job-Interview: Auch bei Stressfragen",
+            "description": "Das Vorstellungsgespräch ist Ihre Chance, zu überzeugen. Doch was antwortet man auf Fragen wie „Was sind Ihre Schwächen?“ oder „Wo sehen Sie sich in 5 Jahren?“. Unser Ratgeber erklärt die häufigsten kniffligen Fragen und wie Sie darauf authentisch und professionell reagieren. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Digital-Marketing: Unverzichtbare Skills für heute",
+            "description": "Die Marketingwelt ist digital geworden. Wer erfolgreich sein will, braucht Kenntnisse in SEO, Social Media Marketing, Content Creation und Datenanalyse. Entdecken Sie die wichtigsten digitalen Kompetenzen für Marketingprofis und wie Sie diese erlernen können. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Digitale Tools für bessere Teamarbeit",
+            "description": "Ob im Büro oder im Homeoffice – digitale Werkzeuge können die Zusammenarbeit im Team erheblich erleichtern. Von Projektmanagement-Software bis zu Kommunikationsplattformen stellen wir nützliche Tools vor, die helfen, Projekte effizienter zu organisieren und den Informationsfluss zu verbessern. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Intern aufsteigen statt extern bewerben",
+            "description": "Viele denken bei Karriere an einen Jobwechsel. Doch oft liegen die besten Chancen im eigenen Unternehmen. Dieser Artikel zeigt auf, wie Sie Ihre Vorgesetzten von Ihrem Potenzial überzeugen, neue Verantwortungsbereiche übernehmen und gezielt Ihre Beförderung innerhalb der Firma vorbereiten können. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Work-Life-Balance: Mehr als nur ein Modewort",
+            "description": "Die Grenze zwischen Arbeit und Freizeit verschwimmt zunehmend. Warum eine gute Work-Life-Balance wichtig für Gesundheit und Produktivität ist und welche Rolle Arbeitgeber dabei spielen können, beleuchtet dieser Hintergrundartikel mit Experteninterviews. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Homeoffice als Dauerlösung: Was ist zu beachten?",
+            "description": "Immer mehr Unternehmen bieten dauerhafte Homeoffice-Modelle an. Doch was bedeutet das für die Arbeitsorganisation, die Teamkommunikation und die rechtlichen Rahmenbedingungen? Erfahren Sie, welche Voraussetzungen erfüllt sein müssen und wie Sie den Übergang erfolgreich gestalten. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "f",
+        "3": "d",
+        "4": "a",
+        "5": "h"
+    }
+}

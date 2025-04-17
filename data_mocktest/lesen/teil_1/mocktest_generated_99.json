@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Felix sucht Tipps für die erste Bewerbung nach dem Studium."
+        },
+        {
+            "id": 2,
+            "description": "Sofia möchte sich auf ihr nächstes Gehaltsgespräch vorbereiten."
+        },
+        {
+            "id": 3,
+            "description": "Markus leitet neu ein Team, das von zu Hause arbeitet."
+        },
+        {
+            "id": 4,
+            "description": "Julia will sich im Bereich Online-Marketing weiterbilden."
+        },
+        {
+            "id": 5,
+            "description": "Benno braucht Ratschläge zum Umgang mit Streitigkeiten im Büro."
+        }
+    ],
+    "articles": [
+        {
+            "id": "c",
+            "title": "Fit für die digitale Welt: Online-Marketing lernen",
+            "description": "Die Nachfrage nach Experten im Online-Marketing wächst stetig. Egal ob SEO, Social Media oder Content-Erstellung – die richtigen Fähigkeiten sind entscheidend. Erfahren Sie, welche Kurse und Zertifikate Ihnen helfen, Ihre Karriere in diesem dynamischen Feld voranzutreiben und auf dem neuesten Stand zu bleiben. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Die Zukunft der Bürogestaltung",
+            "description": "Wie sieht der Arbeitsplatz von morgen aus? Moderne Büros setzen auf Flexibilität, Wohlbefinden und Technologie. Von ergonomischen Möbeln bis zu kreativen Gemeinschaftsbereichen – entdecken Sie die neuesten Trends im Office-Design, die Produktivität und Mitarbeiterzufriedenheit fördern sollen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Erfolgreich verhandeln: Mehr Gehalt bekommen",
+            "description": "Die Gehaltsverhandlung ist oft eine Herausforderung. Eine gute Vorbereitung ist der Schlüssel zum Erfolg. Lernen Sie bewährte Strategien, wie Sie Ihre Leistungen überzeugend darstellen, souverän argumentieren und realistische Gehaltsforderungen durchsetzen können. Tipps von Experten für Ihr nächstes Gespräch. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Konflikte am Arbeitsplatz lösen",
+            "description": "Meinungsverschiedenheiten im Team sind normal, können aber die Zusammenarbeit belasten. Effektive Kommunikation und klare Strategien helfen, Konflikte konstruktiv zu lösen. Dieser Artikel zeigt Ihnen Methoden, wie Sie Spannungen frühzeitig erkennen und zu einer positiven Lösung beitragen können. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Steuertipps für Freiberufler",
+            "description": "Selbstständigkeit bringt viele Freiheiten, aber auch steuerliche Pflichten. Welche Ausgaben können Sie absetzen? Was müssen Sie bei der Umsatzsteuer beachten? Unser Leitfaden gibt Ihnen einen Überblick über die wichtigsten Steuerthemen für Freiberufler und hilft Ihnen, Fehler zu vermeiden. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Der erste Job: Tipps für den Berufseinstieg",
+            "description": "Der Übergang vom Studium ins Berufsleben ist ein wichtiger Schritt. Wie findet man die passende Stelle? Worauf kommt es bei der Bewerbung an? Wir geben Absolventinnen und Absolventen praktische Ratschläge für die Jobsuche, das Verfassen von Lebenslauf und Anschreiben sowie das Vorstellungsgespräch. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Gesunde Ernährung im Homeoffice",
+            "description": "Wer zu Hause arbeitet, greift schnell zu ungesunden Snacks. Doch eine ausgewogene Ernährung ist wichtig für Konzentration und Wohlbefinden. Entdecken Sie einfache Rezepte und praktische Tipps, wie Sie sich auch im Homeoffice gesund und lecker ernähren können, ohne viel Zeit zu investieren. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Virtuelle Teams führen: Worauf es ankommt",
+            "description": "Die Führung von Mitarbeitern, die an verschiedenen Orten arbeiten, stellt besondere Anforderungen. Wie fördert man den Teamgeist auf Distanz? Welche digitalen Werkzeuge unterstützen die Zusammenarbeit? Erfahren Sie, welche Führungsqualitäten und Methoden für das Management von Remote-Teams entscheidend sind. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "g",
+        "2": "b",
+        "3": "d",
+        "4": "c",
+        "5": "f"
+    }
+}

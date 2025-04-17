@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jonas möchte neben seinem Job eine kleine Firma gründen."
+        },
+        {
+            "id": 2,
+            "description": "Sofia fühlt sich von der digitalen Kommunikation im Büro überfordert."
+        },
+        {
+            "id": 3,
+            "description": "David sucht Tipps für überzeugendere Präsentationen bei Meetings."
+        },
+        {
+            "id": 4,
+            "description": "Maria überlegt, den Beruf zu wechseln, weiß aber nicht, wohin."
+        },
+        {
+            "id": 5,
+            "description": "Kenan muss sich über neue Datenschutzregeln am Arbeitsplatz informieren."
+        }
+    ],
+    "articles": [
+        {
+            "id": "h",
+            "title": "Berufliche Neuorientierung: Den richtigen Weg finden",
+            "description": "Sind Sie in Ihrem aktuellen Job unzufrieden und denken über einen Wechsel nach? Eine berufliche Neuorientierung ist eine Chance, erfordert aber Planung. Dieser Artikel hilft Ihnen, Ihre Stärken und Interessen zu analysieren, mögliche neue Berufsfelder zu entdecken und die notwendigen Schritte für einen erfolgreichen Übergang zu planen.\nmehr ...",
+            "link_placeholder": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Jobsuche 2024: Die besten Portale im Test",
+            "description": "Den Traumjob zu finden, ist nicht leicht. Online-Jobportale versprechen Hilfe, aber welche halten, was sie versprechen? Wir haben die größten Plattformen getestet und zeigen, wo Sie die besten Chancen auf passende Stellenangebote haben und wie Sie Ihr Profil optimal gestalten. Für alle, die aktiv auf der Suche nach einer neuen Herausforderung sind.\nmehr ...",
+            "link_placeholder": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Digitale Flut im Job: Strategien gegen den Stress",
+            "description": "Ständige Erreichbarkeit, E-Mail-Berge, unzählige Chat-Nachrichten – die moderne Arbeitswelt kann belasten. Fühlen auch Sie sich oft überfordert? Dieser Artikel zeigt praktische Methoden, um die digitale Kommunikation besser zu organisieren, Prioritäten zu setzen und bewusste Pausen einzulegen. So gewinnen Sie wieder Kontrolle über Ihren Arbeitsalltag.\nmehr ...",
+            "link_placeholder": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "DSGVO am Arbeitsplatz: Was Mitarbeiter wissen müssen",
+            "description": "Die Datenschutz-Grundverordnung (DSGVO) hat auch Auswirkungen auf den Umgang mit Daten im Unternehmen. Was bedeutet das konkret für Arbeitnehmer? Dieser Beitrag erklärt verständlich die wichtigsten Regeln zum Schutz personenbezogener Daten von Kunden und Kollegen und welche Pflichten sich daraus für Sie im Arbeitsalltag ergeben.\nmehr ...",
+            "link_placeholder": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Team-Kommunikation optimieren: Tools für Führungskräfte",
+            "description": "Effektive Kommunikation ist der Schlüssel zum Teamerfolg. Doch welche digitalen Werkzeuge unterstützen die Zusammenarbeit am besten? Dieser Überblick stellt verschiedene Kollaborations-Plattformen, Projektmanagement-Software und interne Chat-Systeme vor und gibt Führungskräften Empfehlungen, wie sie die richtigen Tools für ihr Team auswählen und einführen.\nmehr ...",
+            "link_placeholder": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Nebenberuflich gründen: So geht's",
+            "description": "Viele träumen davon, ihr eigener Chef zu sein, möchten aber nicht sofort den sicheren Job kündigen. Eine nebenberufliche Selbstständigkeit kann der erste Schritt sein. Dieser Ratgeber erklärt die wichtigsten rechtlichen Aspekte, steuerliche Pflichten und wie man das Zeitmanagement meistert. Lernen Sie, wie Sie Ihre Geschäftsidee erfolgreich neben dem Hauptberuf umsetzen.\nmehr ...",
+            "link_placeholder": "mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Gesundes Mittagessen im Büro: Schnelle Rezepte",
+            "description": "Wer den ganzen Tag arbeitet, braucht Energie. Doch oft bleibt mittags wenig Zeit für eine gesunde Mahlzeit. Schluss mit Kantinen-Einerlei oder ungesundem Fast Food! Hier finden Sie kreative und schnelle Rezeptideen für die Mittagspause, die sich gut vorbereiten lassen und lecker schmecken.\nmehr ...",
+            "link_placeholder": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Erfolgreich präsentieren: Mehr Wirkung erzielen",
+            "description": "Eine gute Präsentation kann entscheidend sein, um Kollegen oder Vorgesetzte zu überzeugen. Doch wie hält man einen Vortrag, der im Gedächtnis bleibt? Von der richtigen Vorbereitung über den Aufbau bis hin zum Einsatz von Körpersprache und Medien – hier finden Sie praxisnahe Tipps, um Ihre nächste Präsentation souverän und wirkungsvoll zu gestalten.\nmehr ...",
+            "link_placeholder": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "c",
+        "3": "d",
+        "4": "h",
+        "5": "g"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Maria bereitet sich auf ein wichtiges Vorstellungsgespräch vor."
+        },
+        {
+            "id": 2,
+            "description": "Ben fühlt sich von der E-Mail-Flut im Büro überfordert."
+        },
+        {
+            "id": 3,
+            "description": "Silke interessiert sich für Möglichkeiten, von zu Hause zu arbeiten."
+        },
+        {
+            "id": 4,
+            "description": "David möchte wissen, wie er sein Gehalt erfolgreich verhandeln kann."
+        },
+        {
+            "id": 5,
+            "description": "Fatima muss oft Präsentationen halten und möchte sicherer werden."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Clevere Gehaltsverhandlung: So bekommen Sie mehr",
+            "description": "Sie leisten gute Arbeit, aber Ihr Gehalt spiegelt das nicht wider? Eine Gehaltserhöhung kommt selten von allein. Dieser Ratgeber zeigt Ihnen Schritt für Schritt, wie Sie das Gespräch mit Ihrem Vorgesetzten vorbereiten, überzeugend argumentieren und Ihren Marktwert erfolgreich durchsetzen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Gesund am Arbeitsplatz: Ergonomie im Büro",
+            "description": "Rückenschmerzen durch langes Sitzen? Verspannungen im Nacken? Viele Bürojobs belasten den Körper. Erfahren Sie, wie Sie Ihren Arbeitsplatz ergonomisch gestalten können, welche Bürostühle empfehlenswert sind und wie kleine Pausenübungen helfen, fit und gesund durch den Arbeitstag zu kommen. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Schluss mit der E-Mail-Flut",
+            "description": "Ihr digitaler Briefkasten läuft über und wichtige Nachrichten gehen unter? Dieser Artikel stellt bewährte Methoden vor, um Ihr E-Mail-Management zu optimieren. Entdecken Sie Techniken zur Priorisierung, Filterung und Reduzierung der täglichen Mail-Last. So gewinnen Sie wieder Kontrolle über Ihren Arbeitstag. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Wirkungsvoll präsentieren: Tipps für Ihren Auftritt",
+            "description": "Ob vor Kollegen, Kunden oder Vorgesetzten – eine gute Präsentation kann Türen öffnen. Dieser Artikel gibt praktische Ratschläge, wie Sie Ihre Inhalte klar strukturieren, mit Lampenfieber umgehen und Ihr Publikum überzeugen. Verbessern Sie Ihre rhetorischen Fähigkeiten und hinterlassen Sie Eindruck. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Konflikte im Team lösen: Schwierige Gespräche führen",
+            "description": "Meinungsverschiedenheiten und Konflikte gehören zum Berufsalltag. Doch wie spricht man Probleme konstruktiv an, ohne die Beziehung zu Kollegen zu belasten? Dieser Leitfaden bietet Strategien für schwierige Gespräche im Team und zeigt Wege zur gemeinsamen Lösungsfindung auf. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Souverän im Vorstellungsgespräch",
+            "description": "Die Einladung zum Gespräch ist da, doch die Nervosität steigt? Unser Ratgeber hilft Ihnen bei der optimalen Vorbereitung. Lernen Sie, typische Fragen souverän zu beantworten, mit Körpersprache zu punkten und Fallstricke zu vermeiden. So hinterlassen Sie einen bleibenden positiven Eindruck. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Ausbildungsplatz finden: Welcher Beruf passt zu mir?",
+            "description": "Die Schulzeit ist vorbei und die Berufswahl steht an? Die Entscheidung für die richtige Ausbildung ist nicht leicht. Dieser Artikel stellt verschiedene Ausbildungswege vor, gibt Tipps zur Recherche und Bewerbung und hilft jungen Menschen, den passenden Start ins Berufsleben zu finden. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Flexibel Arbeiten: Das Homeoffice-Modell",
+            "description": "Träumen Sie davon, nicht jeden Tag ins Büro pendeln zu müssen? Immer mehr Unternehmen ermöglichen das Arbeiten von zu Hause. Dieser Artikel beleuchtet die Vor- und Nachteile, gibt Tipps zur Einrichtung des heimischen Arbeitsplatzes und erklärt, worauf rechtlich zu achten ist. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "g",
+        "3": "c",
+        "4": "b",
+        "5": "e"
+    }
+}

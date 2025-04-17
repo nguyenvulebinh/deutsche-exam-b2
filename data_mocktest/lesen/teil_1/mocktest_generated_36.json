@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jan ist nervös vor seinem nächsten Vorstellungsgespräch und braucht Tipps."
+        },
+        {
+            "id": 2,
+            "description": "Fatima wurde zur Teamleiterin befördert und sucht Ratschläge für den Start."
+        },
+        {
+            "id": 3,
+            "description": "Ben möchte wissen, welche Regeln und Rechte für Teilzeitarbeit gelten."
+        },
+        {
+            "id": 4,
+            "description": "Sofia überlegt, ob eine freiberufliche Tätigkeit das Richtige für sie ist."
+        },
+        {
+            "id": 5,
+            "description": "Klaus will für seine internationale Firma eine neue Fremdsprache lernen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "f",
+            "title": "Freelancer werden: Freiheit oder Risiko?",
+            "description": "Viele träumen von der Selbstständigkeit als Freiberufler wegen der Flexibilität und Selbstbestimmung. Doch wie sieht die Realität aus? Welche Hürden gibt es bei der Kundenakquise, den Steuern und der sozialen Absicherung? Eine Analyse für alle, die den Schritt wagen wollen.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Die Zukunft der Arbeit: Trends 2025",
+            "description": "Wie werden wir in Zukunft arbeiten? Remote Work, künstliche Intelligenz und neue Kollaborationsformen verändern die Bürowelt rasant. Experten analysieren die wichtigsten Entwicklungen und deren langfristige Auswirkungen auf Unternehmen und Mitarbeiter weltweit. Ein informativer Ausblick.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Business-Sprachen lernen: Effektiv und praxisnah",
+            "description": "Globalisierte Märkte erfordern zunehmend Fremdsprachenkenntnisse im Beruf. Doch wie lernt man neben dem Job eine neue Sprache effizient? Welche Methoden eignen sich besonders für den beruflichen Kontext? Tipps zu Kursen, Apps und Lernstrategien für Vielbeschäftigte.\nmehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Erfolgreich als neue Führungskraft",
+            "description": "Der Sprung vom Teammitglied zur Leitungsposition bringt neue Herausforderungen mit sich. Wie bauen Sie Autorität auf, ohne alte Kollegen zu verprellen? Wie motivieren Sie Ihr Team effektiv? Praktische Ratschläge für die ersten 100 Tage.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Den richtigen Ausbildungsplatz finden",
+            "description": "Nach der Schule beginnt für viele junge Menschen die Suche nach der passenden Berufsausbildung. Das Angebot ist riesig und unübersichtlich. Wie findet man den Beruf, der wirklich zu den eigenen Stärken passt? Tipps zur Orientierung, Bewerbung und Auswahl von Ausbildungsbetrieben.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Souverän im Jobinterview",
+            "description": "Das Vorstellungsgespräch ist oft die letzte Hürde zum Traumjob. Nervosität ist normal, aber gute Vorbereitung hilft enorm. Dieser Artikel zeigt, wie Sie häufige Fragen meistern, Körpersprache positiv einsetzen und typische Fehler vermeiden, um zu überzeugen.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Gesund essen im Büroalltag",
+            "description": "Lange Arbeitstage, wenig Zeit für Pausen – da bleibt die gesunde Ernährung oft auf der Strecke. Dabei ist sie entscheidend für Konzentration und Wohlbefinden. Entdecken Sie einfache Rezepte und praktische Tipps für Mahlzeiten am Arbeitsplatz, die schnell gehen und Energie liefern.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Teilzeitarbeit: Ihre Rechte und Pflichten",
+            "description": "Immer mehr Arbeitnehmer wünschen sich flexiblere Arbeitszeiten. Doch was bedeutet Teilzeit rechtlich genau? Welche Ansprüche haben Sie auf eine Reduzierung der Arbeitszeit? Was ist beim Gehalt, Urlaub und Sozialleistungen zu beachten? Ein Überblick über die aktuelle Gesetzeslage.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "b",
+        "3": "e",
+        "4": "f",
+        "5": "d"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jan braucht Hilfe beim Verfassen seines Lebenslaufs."
+        },
+        {
+            "id": 2,
+            "description": "Maria fühlt sich bei der Arbeit oft gestresst und überfordert."
+        },
+        {
+            "id": 3,
+            "description": "David möchte lernen, wie er besser präsentieren kann."
+        },
+        {
+            "id": 4,
+            "description": "Sophia interessiert sich für umweltfreundliche Unternehmensführung."
+        },
+        {
+            "id": 5,
+            "description": "Mehmet denkt über einen kompletten Branchenwechsel nach."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Das Vorstellungsgespräch: Fragen, Antworten, Auftreten",
+            "description": "Sie haben eine Einladung zum Gespräch erhalten? Herzlichen Glückwunsch! Nun gilt es, auch persönlich zu überzeugen. Bereiten Sie sich auf typische Fragen vor, lernen Sie, wie Sie Nervosität kontrollieren und einen professionellen Eindruck hinterlassen. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Nachhaltige Unternehmensführung: Mehrwert für alle",
+            "description": "Immer mehr Unternehmen erkennen die Bedeutung von ökologischer und sozialer Verantwortung. Dieser Beitrag erklärt, was Corporate Social Responsibility (CSR) bedeutet, wie Firmen Nachhaltigkeit praktisch umsetzen und warum dies nicht nur dem Image, sondern auch dem Geschäftserfolg dient. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Stress im Job? Strategien für mehr Gelassenheit",
+            "description": "Fühlen Sie sich oft unter Druck und ausgelaugt? Lernen Sie effektive Methoden zur Stressbewältigung kennen, von Zeitmanagement-Techniken bis hin zu Achtsamkeitsübungen für den Büroalltag. Finden Sie heraus, wie Sie Prioritäten setzen und gesunde Grenzen ziehen können. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Ergonomie am Arbeitsplatz: Rückenschmerzen vorbeugen",
+            "description": "Langes Sitzen im Büro kann zu Verspannungen führen. Dieser Artikel gibt praktische Tipps zur richtigen Einstellung von Stuhl und Bildschirm, zur optimalen Schreibtischhöhe und zu kleinen Übungen, die Sie direkt am Arbeitsplatz machen können, um gesund zu bleiben. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Der perfekte Lebenslauf: So überzeugen Sie Personaler",
+            "description": "Ein gut strukturierter Lebenslauf ist der Schlüssel zur Einladung zum Vorstellungsgespräch. Dieser Artikel zeigt Ihnen, welche Abschnitte unerlässlich sind, wie Sie Ihre Erfahrungen optimal darstellen und welche häufigen Fehler Sie unbedingt vermeiden sollten. Inklusive Vorlagen und Beispielen für verschiedene Branchen. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Fremdsprachenkompetenz: Ihr Vorteil im globalen Markt",
+            "description": "In einer vernetzten Welt werden Sprachkenntnisse immer wichtiger. Erfahren Sie, welche Sprachen im internationalen Geschäft besonders gefragt sind und wie Sie Ihre Fremdsprachenfähigkeiten gezielt für Ihre Karriere nutzen können. Tipps für Online-Kurse und Zertifikate. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Beruflicher Neustart: Den Quereinstieg wagen",
+            "description": "Sie träumen von einem Job in einer ganz anderen Branche? Ein radikaler Berufswechsel ist möglich, erfordert aber Planung. Dieser Leitfaden hilft bei der Selbstanalyse, zeigt Wege zur Neuorientierung auf und gibt Tipps für die Bewerbung als Quereinsteiger. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Erfolgreich präsentieren: Tipps für mehr Wirkung",
+            "description": "Eine gute Präsentation kann Türen öffnen. Erfahren Sie, wie Sie Ihre Inhalte klar strukturieren, visuelle Hilfsmittel sinnvoll einsetzen und durch Körpersprache und Stimme überzeugen. Praktische Übungen helfen Ihnen, Lampenfieber zu reduzieren und souverän aufzutreten. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "h",
+        "5": "d"
+    }
+}

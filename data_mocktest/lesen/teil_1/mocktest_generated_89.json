@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden und Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna hat ihr Studium abgeschlossen und sucht Orientierung für den Jobeinstieg."
+        },
+        {
+            "id": 2,
+            "description": "Ben versteht nicht, warum er trotz guter Leistung keine Beförderung erhält."
+        },
+        {
+            "id": 3,
+            "description": "Carla muss öfter Präsentationen halten und möchte überzeugender wirken."
+        },
+        {
+            "id": 4,
+            "description": "David spielt mit dem Gedanken der Selbstständigkeit, sorgt sich aber um die Finanzen."
+        },
+        {
+            "id": 5,
+            "description": "Eva hat oft Meinungsverschiedenheiten mit einem Kollegen und sucht Lösungsansätze."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Flexibilität als Wettbewerbsvorteil",
+            "description": "Moderne Arbeitswelten erfordern neue Ansätze. Immer mehr Unternehmen erkennen, dass flexible Arbeitszeitmodelle und Home-Office-Optionen die Mitarbeiterzufriedenheit steigern und Talente anziehen. Erfahren Sie, wie Sie als Arbeitgeber solche Modelle erfolgreich einführen und managen können, um produktiv zu bleiben."
+        },
+        {
+            "id": "b",
+            "title": "Konflikte am Arbeitsplatz konstruktiv lösen",
+            "description": "Reibungen im Team sind normal, doch ungelöste Konflikte können die Zusammenarbeit lähmen. Dieser Artikel beleuchtet typische Konfliktursachen und stellt praxiserprobte Kommunikationstechniken vor. Lernen Sie, wie Sie Meinungsverschiedenheiten ansprechen und gemeinsam mit Kollegen faire Lösungen finden können."
+        },
+        {
+            "id": "d",
+            "title": "Weiterbildungstrends 2024: Was ist gefragt?",
+            "description": "Die Berufswelt verändert sich rasant. Lebenslanges Lernen ist unerlässlich. Wir geben einen Überblick über die aktuell gefragtesten Weiterbildungsformate – von digitalen Zertifikaten über berufsbegleitende Studiengänge bis hin zu spezialisierten Workshops. Finden Sie heraus, welche Qualifikationen Ihre Karrierechancen verbessern könnten."
+        },
+        {
+            "id": "e",
+            "title": "Karriere-Stillstand? Ursachen und Lösungen",
+            "description": "Sie leisten gute Arbeit, aber die nächste Karrierestufe bleibt aus? Oft liegen die Gründe tiefer als nur in der Leistung. Analysieren Sie mögliche Ursachen wie mangelnde Sichtbarkeit, fehlende strategische Weiterentwicklung oder Kommunikationsdefizite. Der Artikel zeigt Wege auf, wie Sie aktiv Ihre Beförderungschancen verbessern können."
+        },
+        {
+            "id": "g",
+            "title": "Sicher präsentieren im Job",
+            "description": "Ob im Meeting oder vor Kunden – eine überzeugende Präsentation ist oft entscheidend. Dieser Ratgeber bietet konkrete Tipps: vom klaren Aufbau Ihrer Inhalte über den wirkungsvollen Einsatz von Körpersprache und Stimme bis zum souveränen Umgang mit Fragen und Einwänden. So steigern Sie Ihre Wirkung und Professionalität."
+        },
+        {
+            "id": "h",
+            "title": "Arbeitsrecht: Kündigungen korrekt aussprechen",
+            "description": "Die Beendigung eines Arbeitsverhältnisses ist ein sensibler Prozess, der rechtliche Fallstricke birgt. Dieser Beitrag richtet sich an Führungskräfte und HR-Verantwortliche und erläutert die wichtigsten rechtlichen Rahmenbedingungen, Fristen und formalen Anforderungen bei der Aussprache von Kündigungen in Deutschland."
+        },
+        {
+            "id": "f",
+            "title": "Erfolgreich ins Berufsleben starten",
+            "description": "Der Übergang vom Studium in den ersten Job ist eine Herausforderung. Wo findet man passende Stellen? Wie überzeugt man im Anschreiben und Gespräch? Dieser Leitfaden gibt Absolventen praktische Ratschläge für die Jobsuche, die Bewerbung und die ersten Wochen im neuen Unternehmen, um typische Einstiegshürden zu meistern."
+        },
+        {
+            "id": "c",
+            "title": "Gründung finanzieren: Was Sie wissen müssen",
+            "description": "Die Idee ist da, aber wie steht es um das Kapital? Eine solide Finanzplanung ist das A und O jeder Existenzgründung. Wir erklären, wie Sie einen überzeugenden Businessplan erstellen, welche Finanzierungsquellen (Kredite, Förderungen, Investoren) es gibt und wie Sie finanzielle Risiken realistisch einschätzen und minimieren."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "e",
+        "3": "g",
+        "4": "c",
+        "5": "b"
+    }
+}

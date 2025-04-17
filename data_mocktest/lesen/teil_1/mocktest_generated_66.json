@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Julia braucht Tipps für das Verfassen von Bewerbungsschreiben."
+        },
+        {
+            "id": 2,
+            "description": "Kenji sucht nach Möglichkeiten, seine Arbeit im Homeoffice besser zu organisieren."
+        },
+        {
+            "id": 3,
+            "description": "Martina überlegt, eine Führungsposition anzustreben, und fragt sich, was das bedeutet."
+        },
+        {
+            "id": 4,
+            "description": "Samuel möchte wissen, wie er bei Gehaltsverhandlungen erfolgreich sein kann."
+        },
+        {
+            "id": 5,
+            "description": "Zeynep interessiert sich dafür, wie man ein berufliches Netzwerk aufbaut."
+        }
+    ],
+    "articles": [
+        {
+            "id": "b",
+            "title": "Der Schritt zur Führungskraft: Sind Sie bereit für Verantwortung?",
+            "description": "Sie spielen mit dem Gedanken, Teamleiter oder Abteilungsleiterin zu werden? Dieser Beitrag beleuchtet die neuen Aufgaben und Herausforderungen, die mit einer Führungsposition verbunden sind. Es geht um Mitarbeiterführung, Entscheidungsfindung und die Entwicklung von Führungsqualitäten. Ein Selbstcheck hilft bei der Einschätzung.\nmehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Souverän im Vorstellungsgespräch: Fragen, Antworten, Auftreten",
+            "description": "Die Einladung zum Gespräch ist da – jetzt gilt es zu überzeugen. Wie antworten Sie auf knifflige Fragen? Worauf achten Personaler beim Auftreten? Dieser Artikel bereitet Sie gezielt auf typische Gesprächssituationen vor und gibt Tipps zur Körpersprache und Selbstpräsentation.\nmehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Moderne Bürowelten: Trends in der Arbeitsplatzgestaltung",
+            "description": "Offene Raumkonzepte, flexible Arbeitsplätze, Wohlfühlzonen – die Gestaltung von Büros verändert sich rasant. Erfahren Sie, welche aktuellen Trends es gibt und wie Unternehmen versuchen, Kreativität und Wohlbefinden der Mitarbeiter durch die Raumgestaltung zu fördern. Beispiele aus innovativen Firmen.\nmehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Effektiv im Homeoffice: Struktur und Selbstmanagement",
+            "description": "Die Arbeit von zu Hause bietet Flexibilität, erfordert aber auch Disziplin. Erfahren Sie, wie Sie Ihren Arbeitsplatz optimal gestalten, Ablenkungen minimieren und feste Routinen etablieren. Der Artikel bietet praktische Tipps für Zeitmanagement, Pausengestaltung und die Trennung von Arbeit und Freizeit.\nmehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Führung im digitalen Zeitalter: Herausforderungen für Manager",
+            "description": "Die Digitalisierung verändert nicht nur Prozesse, sondern auch die Anforderungen an Führungskräfte. Wie führt man Teams remote? Wie fördert man digitale Kompetenzen? Dieser Artikel richtet sich an erfahrene Manager und beleuchtet neue Führungsstile und Strategien im Kontext der digitalen Transformation.\nmehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Mehr Geld verdienen: Strategien für die Gehaltsverhandlung",
+            "description": "Das Thema Gehalt ist heikel, aber wichtig. Bereiten Sie sich optimal auf Ihr nächstes Gehaltsgespräch vor. Dieser Artikel erklärt, wie Sie Ihren Marktwert recherchieren, überzeugende Argumente formulieren und selbstbewusst auftreten. Lernen Sie, wann der richtige Zeitpunkt ist und welche Fehler Sie vermeiden sollten.\nmehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Das perfekte Anschreiben: So überzeugen Sie Personaler",
+            "description": "Ihr Lebenslauf ist gut, aber das Anschreiben entscheidet oft über die Einladung zum Gespräch. Dieser Leitfaden zeigt Schritt für Schritt, wie Sie ein individuelles und überzeugendes Bewerbungsschreiben formulieren. Lernen Sie typische Floskeln zu vermeiden und Ihre Motivation klar darzustellen. Mit Beispielen für verschiedene Branchen.\nmehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Kontakte knüpfen und pflegen: Erfolgreiches Business-Networking",
+            "description": "Ein gutes Netzwerk ist im Berufsleben Gold wert. Doch wie baut man wertvolle Kontakte auf und erhält sie langfristig? Entdecken Sie effektive Strategien für Online-Plattformen wie LinkedIn und Xing sowie für Veranstaltungen und Konferenzen. Tipps zum Small Talk und zur nachhaltigen Beziehungspflege inklusive.\nmehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "h",
+        "2": "e",
+        "3": "b",
+        "4": "f",
+        "5": "d"
+    }
+}

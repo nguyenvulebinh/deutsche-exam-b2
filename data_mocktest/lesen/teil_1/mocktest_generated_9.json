@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anna möchte wissen, wie sie erfolgreich mehr Gehalt verhandeln kann."
+        },
+        {
+            "id": 2,
+            "description": "Ben muss bald eine wichtige Präsentation halten und fühlt sich unsicher."
+        },
+        {
+            "id": 3,
+            "description": "Chiara möchte nebenberuflich online handgemachten Schmuck verkaufen."
+        },
+        {
+            "id": 4,
+            "description": "David fühlt sich von seiner Arbeit überfordert und ist ständig erschöpft."
+        },
+        {
+            "id": 5,
+            "description": "Emilia arbeitet neu im Homeoffice und kennt die rechtlichen Rahmenbedingungen nicht."
+        }
+    ],
+    "articles": [
+        {
+            "id": "g",
+            "title": "Wenn der Job zur Last wird: Wege aus der Stressfalle",
+            "description": "Hoher Arbeitsdruck und ständige Erreichbarkeit können zu Überlastung führen. Erfahren Sie, wie Sie die ersten Anzeichen von Burnout erkennen, welche präventiven Maßnahmen helfen und wie Sie gesunde Bewältigungsstrategien im Alltag integrieren können. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Gehaltsunterschiede zwischen Männern und Frauen: Immer noch Realität?",
+            "description": "Trotz Fortschritten verdienen Frauen oft immer noch weniger als Männer bei gleicher Qualifikation. Dieser Artikel analysiert die aktuellen Zahlen, diskutiert mögliche Ursachen für die Lohnlücke und stellt politische Lösungsansätze vor. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Souverän präsentieren – auch bei Lampenfieber",
+            "description": "Eine gute Präsentation überzeugt durch Inhalt und Auftreten. Lernen Sie hier, wie Sie Ihre Inhalte klar strukturieren, mit Körpersprache punkten und Nervosität effektiv in den Griff bekommen. Praktische Tipps für den nächsten Vortrag. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Online-Marketing für Fortgeschrittene: Mehr Kunden erreichen",
+            "description": "Ihr Online-Geschäft läuft bereits, aber Sie wollen weiter wachsen? Entdecken Sie hier fortgeschrittene Strategien für Suchmaschinenoptimierung (SEO), Social-Media-Kampagnen und E-Mail-Marketing, um Ihre Reichweite signifikant zu steigern. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Homeoffice: Rechte und Pflichten für Arbeitnehmer",
+            "description": "Arbeiten von zu Hause bietet Flexibilität, birgt aber auch rechtliche Fragen. Was gilt bei Arbeitszeit, Datenschutz und der Bereitstellung von Arbeitsmitteln? Dieser Artikel klärt die wichtigsten rechtlichen Rahmenbedingungen für das Homeoffice auf. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Gehaltsverhandlungen erfolgreich führen",
+            "description": "Das Gehalt ist ein wichtiger Faktor, aber Verhandlungen sind oft schwierig. Dieser Artikel erklärt, wie Sie sich optimal vorbereiten, überzeugende Argumente finden und typische Fehler vermeiden, um das gewünschte Gehalt zu erreichen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Stressmanagement im Team: Aufgaben für Führungskräfte",
+            "description": "Motivierte und gesunde Mitarbeiter sind das Kapital jeder Firma. Führungskräfte spielen eine zentrale Rolle bei der Gestaltung eines stressarmen Arbeitsumfelds. Erfahren Sie hier, wie Sie Belastungen im Team frühzeitig erkennen und effektiv gegensteuern können. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Der eigene Online-Shop als Nebenerwerb",
+            "description": "Träumen Sie davon, eigene Produkte online zu verkaufen? Dieser Leitfaden zeigt Ihnen Schritt für Schritt, wie Sie einen kleinen Webshop aufbauen, welche rechtlichen Aspekte Sie beachten müssen und wie Sie erste Kunden gewinnen. Ideal für den Start. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "c",
+        "3": "h",
+        "4": "g",
+        "5": "e"
+    }
+}

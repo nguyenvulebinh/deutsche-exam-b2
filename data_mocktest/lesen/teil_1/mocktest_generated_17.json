@@ -1,0 +1,85 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Karriereportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Jonas möchte seine Bewerbungsunterlagen optimieren."
+        },
+        {
+            "id": 2,
+            "description": "Fatima will wissen, wie sie mehr Gehalt verhandeln kann."
+        },
+        {
+            "id": 3,
+            "description": "Markus leidet unter Stress im Job und sucht nach Lösungen."
+        },
+        {
+            "id": 4,
+            "description": "Anna interessiert sich für den nächsten Karriereschritt zur Führungskraft."
+        },
+        {
+            "id": 5,
+            "description": "Ben sucht Tipps für eine effektivere Zusammenarbeit im Team."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Jobsuche 4.0: Neue Wege zum Traumjob",
+            "description": "Die Jobsuche hat sich verändert. Neben klassischen Stellenportalen spielen soziale Netzwerke und digitale Tools eine immer größere Rolle. Erfahren Sie, wie Sie moderne Kanäle effektiv nutzen, um passende Angebote zu finden und von Recruitern entdeckt zu werden.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Erfolgreich im Team: So klappt die Zusammenarbeit",
+            "description": "Gute Teamarbeit ist der Schlüssel zum Erfolg vieler Projekte. Doch wie funktioniert sie wirklich? Dieser Artikel beleuchtet die wichtigsten Aspekte effektiver Kollaboration, von klarer Kommunikation bis zur konstruktiven Konfliktlösung. Verbessern Sie die Dynamik in Ihrem Team.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Mehr Geld? Strategien für die Gehaltsverhandlung",
+            "description": "Gut vorbereitet in die Gehaltsverhandlung gehen, erhöht Ihre Chancen deutlich. Erfahren Sie, wann der richtige Zeitpunkt ist, welche Argumente zählen und wie Sie selbstbewusst auftreten. Mit unseren Taktiken kommen Sie Ihrem Wunschgehalt näher.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Arbeitsrecht aktuell: Was Arbeitnehmer wissen müssen",
+            "description": "Kennen Sie Ihre Rechte und Pflichten im Arbeitsverhältnis? Aktuelle Gerichtsurteile und Gesetzesänderungen können Auswirkungen auf Ihren Vertrag oder Ihren Urlaubsanspruch haben. Ein Überblick über wichtige Themen, die jeden Arbeitnehmer betreffen.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Stressfrei arbeiten: Tipps gegen den Burnout",
+            "description": "Fühlen Sie sich oft überfordert und ausgelaugt? Anhaltender Stress kann zu Burnout führen. Dieser Ratgeber erklärt, wie Sie Stressfaktoren am Arbeitsplatz erkennen und bewältigen können. Entdecken Sie einfache Techniken für mehr Gelassenheit im Berufsalltag.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Weiterbildung als Karrieremotor: Richtige Wahl treffen",
+            "description": "Lebenslanges Lernen ist entscheidend für die Karriere. Doch welche Weiterbildung passt zu Ihnen und Ihren Zielen? Wir stellen verschiedene Formate vor, von Online-Kursen bis zum Masterstudium, und geben Tipps zur Finanzierung. Branchen-Insights helfen bei der Orientierung.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Perfekte Bewerbung: So überzeugen Sie",
+            "description": "Ein überzeugender Lebenslauf und ein fehlerfreies Anschreiben sind entscheidend für den Erfolg. Dieser Artikel zeigt Ihnen, wie Sie Ihre Dokumente auf den neuesten Stand bringen und typische Fehler vermeiden. Experten geben praktische Tipps für mehr Einladungen zum Gespräch.",
+            "link": "mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Der Weg zur Führungskraft: Kompetenzen entwickeln",
+            "description": "Sie streben eine Position mit Personalverantwortung an? Führung erfordert mehr als nur Fachwissen. Lernen Sie, welche Soft Skills entscheidend sind, wie Sie Führungskompetenz aufbauen und welche Schritte Sie auf dem Weg nach oben unterstützen. Eine Checkliste hilft bei der Selbsteinschätzung.",
+            "link": "mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "b",
+        "3": "a",
+        "4": "f",
+        "5": "h"
+    }
+}

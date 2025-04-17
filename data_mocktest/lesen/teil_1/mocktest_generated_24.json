@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden/Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Bernd sucht eine neue Arbeitsstelle, die besser bezahlt wird."
+        },
+        {
+            "id": 2,
+            "description": "Fatima möchte wissen, wie sie mit schwierigen Kollegen umgehen soll."
+        },
+        {
+            "id": 3,
+            "description": "Jonas will seine Präsentationsfähigkeiten für Meetings verbessern."
+        },
+        {
+            "id": 4,
+            "description": "Silke interessiert sich für flexible Arbeitszeitmodelle, da sie Familie hat."
+        },
+        {
+            "id": 5,
+            "description": "David möchte eine Weiterbildung im Bereich Projektmanagement machen."
+        }
+    ],
+    "articles": [
+        {
+            "id": "e",
+            "title": "Arbeit und Leben in Balance",
+            "description": "Immer mehr Beschäftigte wünschen sich mehr Flexibilität, um Beruf und Privatleben besser vereinbaren zu können. Modelle wie Teilzeit, Homeoffice oder Gleitzeit bieten Lösungen. Dieser Artikel erklärt die verschiedenen Möglichkeiten, ihre Vor- und Nachteile sowie rechtliche Rahmenbedingungen für Arbeitnehmer. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Der perfekte Lebenslauf",
+            "description": "Eine überzeugende Bewerbung beginnt mit einem professionellen Lebenslauf. Erfahren Sie, wie Sie Ihre Qualifikationen und Erfahrungen optimal darstellen, häufige Fehler vermeiden und welche modernen Layouts Personalverantwortliche beeindrucken. Wir zeigen Ihnen Schritt für Schritt den Weg zum Erfolg. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Konflikte am Arbeitsplatz lösen",
+            "description": "Nicht immer ist die Zusammenarbeit im Team einfach. Meinungsverschiedenheiten oder persönliche Differenzen können den Arbeitsalltag belasten. Dieser Ratgeber zeigt Ihnen bewährte Kommunikationsstrategien und Methoden zur Konfliktlösung, um ein positives Arbeitsklima zu fördern. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Mobbing – Was sagt das Gesetz?",
+            "description": "Systematische Schikane am Arbeitsplatz ist kein Kavaliersdelikt. Betroffene fragen sich oft nach ihren rechtlichen Möglichkeiten. Dieser Artikel erläutert die gesetzlichen Grundlagen zum Thema Mobbing, welche Pflichten der Arbeitgeber hat und welche Schritte Sie einleiten können. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Finanzierungshilfen für Weiterbildung",
+            "description": "Lebenslanges Lernen ist wichtig, doch Weiterbildungen kosten Geld. Glücklicherweise gibt es verschiedene staatliche und private Fördermöglichkeiten. Verschaffen Sie sich einen Überblick über Stipendien, Bildungsgutscheine und Kredite, um Ihre berufliche Entwicklung finanziell abzusichern. mehr ..."
+        },
+        {
+            "id": "a",
+            "title": "Überzeugend präsentieren",
+            "description": "Eine gute Präsentation kann Türen öffnen. Lernen Sie, wie Sie Ihre Inhalte klar strukturieren, ansprechende Folien gestalten und Ihr Publikum fesseln. Mit praktischen Tipps zu Körpersprache, Stimme und dem Umgang mit Lampenfieber werden Sie zum souveränen Redner. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Gehaltsverhandlung im neuen Job",
+            "description": "Sie haben ein Jobangebot, sind aber unsicher wegen des Gehalts? Eine gute Vorbereitung ist entscheidend. Finden Sie heraus, was Sie wert sind, indem Sie branchenübliche Gehälter recherchieren. Wir geben Tipps, wie Sie selbstbewusst in die Verhandlung gehen und ein faires Einkommen erzielen. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Karriereboost durch Projektmanagement",
+            "description": "Projektmanagement-Kompetenzen sind in vielen Branchen gefragt. Eine gezielte Weiterbildung kann Ihre Karrierechancen erheblich verbessern. Informieren Sie sich über anerkannte Zertifizierungen wie PMP oder PRINCE2, verschiedene Kursformate und wie Sie die passende Qualifizierung für Ihre Ziele auswählen. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "d",
+        "3": "a",
+        "4": "e",
+        "5": "c"
+    }
+}

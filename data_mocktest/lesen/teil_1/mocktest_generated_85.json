@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Kollegen einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Peter muss seinen Lebenslauf für eine Bewerbung überarbeiten."
+        },
+        {
+            "id": 2,
+            "description": "Julia fragt sich, wie sie Teilzeit beantragen kann."
+        },
+        {
+            "id": 3,
+            "description": "Markus möchte wissen, wie man einen Businessplan erstellt."
+        },
+        {
+            "id": 4,
+            "description": "Aisha ist neu im Team und unsicher bezüglich der Kommunikationsregeln."
+        },
+        {
+            "id": 5,
+            "description": "Stefan möchte seine Führungsqualitäten verbessern."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Knigge im Büro: Ungeschriebene Gesetze verstehen",
+            "description": "Jedes Unternehmen hat seine eigene Kultur und unausgesprochene Regeln, gerade in der Kommunikation. Wann ist das 'Du' angebracht, wann das 'Sie'? Wie formuliert man E-Mails professionell und vermeidet Missverständnisse? Unser Guide hilft Ihnen, sich im neuen Job schnell zurechtzufinden und typische Fettnäpfchen zu umgehen. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Arbeitsmarkt 4.0: Welche Jobs haben Zukunft?",
+            "description": "Die Digitalisierung verändert die Berufswelt rasant. Welche Kompetenzen werden in Zukunft besonders gefragt sein? Welche Branchen wachsen, welche schrumpfen? Dieser Artikel analysiert aktuelle Trends und gibt einen Ausblick auf die gefragtesten Qualifikationen der nächsten Jahre. Informieren Sie sich über Ihre langfristigen Karriereperspektiven. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Wegweiser zur Teilzeitarbeit: Anspruch und Antrag",
+            "description": "Immer mehr Arbeitnehmer wünschen sich flexiblere Arbeitszeiten. Das Teilzeit- und Befristungsgesetz gibt Ihnen unter bestimmten Voraussetzungen ein Recht darauf. Erfahren Sie hier, welche Bedingungen erfüllt sein müssen, wie Sie den Antrag korrekt bei Ihrem Arbeitgeber stellen und was Sie bezüglich Gehalt und Rentenansprüchen bedenken sollten. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Mehr als nur Chef sein: Führungskompetenz entwickeln",
+            "description": "Gute Führungskräfte werden nicht geboren, sie entwickeln sich. Egal ob Sie neu in einer Führungsposition sind oder Ihre Kompetenzen ausbauen wollen: Dieser Artikel beleuchtet wichtige Aspekte wie Mitarbeitermotivation, effektive Delegation und konstruktives Feedbackgeben. Mit praktischen Tipps und Hinweisen zu Weiterbildungsmöglichkeiten. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Das perfekte Büro finden: Mieten oder Kaufen?",
+            "description": "Die Wahl des richtigen Standorts und der passenden Räumlichkeiten ist für Gründer entscheidend. Sollten Sie Büroflächen mieten oder ist ein Kauf langfristig sinnvoller? Wir vergleichen Kosten, Flexibilität und vertragliche Aspekte verschiedener Optionen und geben Tipps zur Suche nach dem idealen Firmensitz. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Lebenslauf-Check: So überzeugen Sie Personaler",
+            "description": "Der erste Eindruck zählt: Ihr Lebenslauf ist Ihre wichtigste Visitenkarte bei der Jobsuche. Doch viele Bewerber machen unnötige Fehler. Unser Ratgeber zeigt Ihnen, wie Sie Ihr Profil schärfen, relevante Erfahrungen hervorheben und häufige Fallstricke bei Inhalt und Gestaltung vermeiden. Inklusive aktueller Formatvorlagen. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Teilzeitmodelle: Ein Gewinn für Unternehmen?",
+            "description": "Flexibilität wird für Arbeitnehmer immer wichtiger. Doch wie profitieren Unternehmen davon, Teilzeitstellen anzubieten? Dieser Beitrag untersucht die Vorteile für Arbeitgeber, wie z.B. höhere Mitarbeitermotivation, geringere Fluktuation und Zugang zu einem größeren Talentpool. Fallbeispiele zeigen erfolgreiche Umsetzungen in der Praxis. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Der Businessplan: Ihr Fahrplan zum Erfolg",
+            "description": "Eine gute Geschäftsidee allein reicht nicht. Ein überzeugender Businessplan ist entscheidend für den Erfolg Ihrer Gründung, besonders wenn Sie Investoren überzeugen oder Kredite beantragen möchten. Wir erklären Schritt für Schritt die wichtigsten Bestandteile – von der Marktanalyse über die Marketingstrategie bis zur detaillierten Finanzplanung. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "h",
+        "2": "e",
+        "3": "g",
+        "4": "a",
+        "5": "f"
+    }
+}

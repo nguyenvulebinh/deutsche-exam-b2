@@ -1,0 +1,77 @@
+{
+    "exercise_type": "TELC B2",
+    "skill": "Lesen",
+    "part": "Teil 1",
+    "instructions": "Sie lesen online in einem Berufsportal und möchten Ihren Freunden einige Artikel schicken.\nEntscheiden Sie, welcher Artikel a–h zu welcher Person 1–5 passt.\nMarkieren Sie Ihre Lösungen auf dem Antwortbogen.",
+    "people": [
+        {
+            "id": 1,
+            "description": "Anja sucht nach dem Uni-Abschluss Orientierung für den Berufseinstieg."
+        },
+        {
+            "id": 2,
+            "description": "Benno hat Schwierigkeiten, mit einem schwierigen Kollegen klarzukommen."
+        },
+        {
+            "id": 3,
+            "description": "Carla übernimmt bald ihre erste Teamleitungsfunktion und sucht Rat."
+        },
+        {
+            "id": 4,
+            "description": "David möchte als Freiberufler arbeiten und braucht Infos zu rechtlichen Aspekten."
+        },
+        {
+            "id": 5,
+            "description": "Eva fühlt sich bei der Arbeit oft unkonzentriert und abgelenkt."
+        }
+    ],
+    "articles": [
+        {
+            "id": "a",
+            "title": "Freelancer-ABC: Rechtliches Basiswissen",
+            "description": "Selbstständig arbeiten bedeutet Freiheit, aber auch Verantwortung. Wir erklären die Grundlagen zu Gewerbeanmeldung, Steuernummer, Rechnungsstellung und wichtigen Versicherungen für Freiberufler in Deutschland. Ein unverzichtbarer Leitfaden für den Start. mehr ..."
+        },
+        {
+            "id": "d",
+            "title": "Praktikum als Sprungbrett in den Job?",
+            "description": "Praxiserfahrung ist Gold wert. Viele Studierende nutzen Praktika, um Einblicke zu gewinnen und Kontakte zu knüpfen. Worauf kommt es bei der Bewerbung an und wie holt man das Beste aus der Praktikumszeit heraus? Experten geben Tipps. mehr ..."
+        },
+        {
+            "id": "e",
+            "title": "Wenn Kollegen nerven: Konflikte lösen",
+            "description": "Reibungen im Team sind normal, können aber die Produktivität lähmen. Erfahren Sie, wie Sie Meinungsverschiedenheiten konstruktiv ansprechen, Missverständnisse klären und eine positive Arbeitsatmosphäre auch in schwierigen Situationen fördern können. mehr ..."
+        },
+        {
+            "id": "b",
+            "title": "Mehr Spaß im Team: Ideen für Events",
+            "description": "Ein gutes Betriebsklima fördert Motivation und Leistung. Wir stellen kreative und effektive Teambuilding-Aktivitäten vor, vom gemeinsamen Kochen über sportliche Herausforderungen bis zum Escape Room, die den Zusammenhalt nachweislich stärken. mehr ..."
+        },
+        {
+            "id": "h",
+            "title": "Fokus statt Ablenkung am Arbeitsplatz",
+            "description": "Das Gehirn braucht klare Signale, um leistungsfähig zu sein. Entdecken Sie bewährte Techniken wie Zeitmanagement-Methoden (z.B. Pomodoro), digitale Detox-Strategien und Tipps zur optimalen Arbeitsplatzgestaltung für mehr Konzentration im Büroalltag. mehr ..."
+        },
+        {
+            "id": "c",
+            "title": "Startklar? Tipps für Absolventen",
+            "description": "Der Übergang von der Universität ins Berufsleben ist eine spannende, aber auch herausfordernde Phase. Dieser Artikel gibt konkrete Ratschläge für die erfolgreiche Jobsuche, realistische Gehaltsvorstellungen und wie man die ersten Wochen im neuen Job meistert. mehr ..."
+        },
+        {
+            "id": "f",
+            "title": "Arbeiten 4.0: Die Zukunft der Arbeit",
+            "description": "Wie werden wir morgen arbeiten? Experten diskutieren über den wachsenden Einfluss von künstlicher Intelligenz, die zunehmende Bedeutung flexibler Arbeitsmodelle und die Notwendigkeit des lebenslangen Lernens in der sich rasant wandelnden Berufswelt. mehr ..."
+        },
+        {
+            "id": "g",
+            "title": "Neu in der Führungsrolle: Tipps für den Start",
+            "description": "Die Beförderung zur Führungskraft bringt neue Aufgaben und Verantwortung mit sich. Dieser praxisnahe Leitfaden erklärt, wie Sie von Beginn an Erwartungen klären, Vertrauen im Team aufbauen und Ihre Mitarbeitenden erfolgreich motivieren und leiten. mehr ..."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "g",
+        "4": "a",
+        "5": "h"
+    }
+}
