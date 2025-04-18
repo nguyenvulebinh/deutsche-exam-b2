@@ -37,15 +37,31 @@ class Teil2Part extends BasePart {
                 // Shuffle the test data array
                 const shuffledTests = Utils.shuffleArray([...this.engine.allTestData]);
                 randomTests = shuffledTests.slice(0, 2);
+                // Make sure the _sourceFilename is preserved
+                randomTests.forEach(test => {
+                    if (!test._sourceFilename) {
+                        test._sourceFilename = 'unknown';
+                    }
+                });
             } else if (this.engine.allTestData.length === 1) {
-                randomTests = [this.engine.allTestData[0], this.engine.config.defaultTestData];
+                randomTests = [
+                    this.engine.allTestData[0],
+                    {...this.engine.config.defaultTestData, _sourceFilename: 'default'}
+                ];
             } else {
-                randomTests = [this.engine.config.defaultTestData, this.engine.config.defaultTestData];
+                randomTests = [
+                    {...this.engine.config.defaultTestData, _sourceFilename: 'default'},
+                    {...this.engine.config.defaultTestData, _sourceFilename: 'default'}
+                ];
             }
             
             // Save the tests and initialize solutions
             this.testData = randomTests;
             this.solutions = {};
+            
+            // Log the loaded tests
+            console.log(`Teil 2 loaded test 1: ${this.testData[0]._sourceFilename}`);
+            console.log(`Teil 2 loaded test 2: ${this.testData[1]._sourceFilename}`);
             
             return {
                 testData: this.testData,

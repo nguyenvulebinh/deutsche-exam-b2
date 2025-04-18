@@ -79,7 +79,12 @@ class ExamController {
             });
             
             const teil2Data = await this.parts[2].initialize();
-            console.log('Teil 2 loaded successfully. Task file:', teil2Data.testData._sourceFilename || 'default');
+            // Teil 2 has two tests, so handle the logging differently
+            if (Array.isArray(teil2Data.testData) && teil2Data.testData.length === 2) {
+                console.log(`Teil 2 loaded successfully with 2 texts: ${teil2Data.testData[0]._sourceFilename || 'unknown'} and ${teil2Data.testData[1]._sourceFilename || 'unknown'}`);
+            } else {
+                console.log('Teil 2 loaded successfully. Task file:', teil2Data.testData._sourceFilename || 'default');
+            }
             this.solutions[2] = teil2Data.solutions;
             this.parts[2].render();
             this.parts[2].setupEventListeners();
