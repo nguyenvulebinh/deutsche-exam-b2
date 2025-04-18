@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**25. September 20XX, 10:00 – 11:45 Uhr**\n**Ort:** Konferenzraum \"Kreativ\", Hauptverwaltung, Möbelallee 12, 603XX Frankfurt am Main\n\n**Anwesende:**\n*   Herr Stefan Brandt (SB, Geschäftsführer)\n*   Frau Lena Hauser (LH, Leitung Marketing)\n*   Herr Markus Vogel (MV, Leitung Vertrieb)\n*   Frau Anita Keller (AK, Leitung Einkauf)\n*   Herr David Schmidt (DS, Leitung Logistik & Lager)\n*   Frau Yasmin Çelik (YÇ, Leitung Personal)\n*   Herr Thomas Graf (TG, Leitung Finanzen)\n*   Frau Iris Blum (IB, Assistenz der Geschäftsführung)\n\n**Entschuldigt:** Herr Robert Fuchs (RF, Leitung IT)\n\n**Sitzungsleitung:** Stefan Brandt (SB)\n**Protokollantin:** Iris Blum (IB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. Juni 20XX\n2.  Rückblick Verkaufszahlen Q3 und Ausblick Q4\n3.  Neue Marketingkampagne \"Winterzauber\"\n4.  Optimierung Lagerhaltung und Logistik\n5.  Personalplanung Weihnachtsgeschäft\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nSB begrüßt alle Anwesenden zur heutigen Strategiesitzung. Das Protokoll der Sitzung vom 15. Juni 20XX wird ohne Einwände einstimmig genehmigt.\n\n**TOP 2 Rückblick Verkaufszahlen Q3 und Ausblick Q4**\n\nMV präsentiert die Verkaufszahlen des dritten Quartals. Der Umsatz konnte im Vergleich zum Vorjahresquartal um 5% gesteigert werden, blieb jedoch 2% hinter dem internen Plan zurück. Besonders positiv entwickelten sich die Verkäufe von Sofas und Betten. Die Nachfrage nach Gartenmöbeln war saisonbedingt erwartungsgemäß schwach. Für das vierte Quartal wird eine Umsatzsteigerung von 8% gegenüber dem Vorjahresquartal angestrebt, wobei der Fokus klar auf dem Weihnachtsgeschäft liegt. TG ergänzt, dass gestiegene Rohstoffpreise die Bruttogewinnmarge leicht belastet haben.\n\n**TOP 3 Neue Marketingkampagne \"Winterzauber\"**\n\nLH stellt das Konzept für die neue Marketingkampagne \"Winterzauber\" vor, die Mitte Oktober starten soll. Der Schwerpunkt liegt auf Wohnaccessoires, Heimtextilien und potentiellen Geschenkartikeln. Geplant sind Online-Werbeanzeigen, Aktivitäten auf Social Media, eine Print-Beilage in regionalen Zeitungen sowie eine spezielle Schaufenstergestaltung in den Filialen. Das Budget von 50.000 Euro wurde bereits genehmigt. MV äußert Bedenken, dass der Hauptwerbedruck erst Anfang November beginnt, was er für das Weihnachtsgeschäft als möglicherweise zu spät erachtet. LH verteidigt den gestaffelten Ansatz, um frühzeitig Interesse zu wecken.\n\n**TOP 4 Optimierung Lagerhaltung und Logistik**\n\nDS berichtet von einer anhaltend hohen Auslastung des Zentrallagers. Er schlägt vor, von Anfang November bis Ende Januar (3 Monate) ein externes Zusatzlager anzumieten. Zwei Optionen wurden geprüft: Firma LagerFix (ca. 10 km entfernt, etwas teurer) und Firma RaumWunder (ca. 25 km entfernt, günstiger). Nach kurzer Diskussion wird entschieden, die Firma LagerFix zu beauftragen, da die kürzeren Transportwege als wichtiger erachtet werden als die geringfügig höheren Mietkosten. DS wird ein finales Angebot von LagerFix einholen und den Vertrag zur Prüfung vorbereiten. AK merkt an, dass sich die Lieferzeiten für einige Importwaren aus Asien verlängern könnten, was die Lagerplanung zusätzlich erschwert.\n\n**TOP 5 Personalplanung Weihnachtsgeschäft**\n\nYÇ erläutert den Personalbedarf für das vierte Quartal. Insbesondere im Verkauf und im Lager werden etwa 15 zusätzliche Aushilfskräfte benötigt. Erste Gespräche mit Zeitarbeitsfirmen wurden bereits geführt. Ziel ist es, die Einstellungen bis spätestens Mitte November abzuschließen. Die Einarbeitung und Schulung der Aushilfen ist für die Kalenderwoche 47 geplant. YÇ wird die Verträge mit der ausgewählten Zeitarbeitsfirma bis Ende Oktober finalisieren.\n\n**TOP 6 Sonstiges**\n\nSB informiert über den aktuellen Stand bezüglich der geplanten Renovierung des Showrooms in der Filiale Nord. Der Beginn der Arbeiten wird sich voraussichtlich auf Februar nächsten Jahres verschieben. Ursprünglich war der Start für Januar geplant. Grund für die Verzögerung sind unerwartete Schwierigkeiten bei der Erteilung der Baugenehmigung durch die Behörden.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Verkaufszahlen im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "waren besonders bei Gartenmöbeln sehr gut."
+                },
+                {
+                    "key": "b",
+                    "text": "lagen leicht unter den Erwartungen des Unternehmens."
+                },
+                {
+                    "key": "c",
+                    "text": "sind im Vergleich zum Vorjahr gesunken."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Marketingkampagne \"Winterzauber\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird mit verschiedenen Werbemaßnahmen durchgeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "startet für die Kunden erst im November."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt noch eine Freigabe des Budgets."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Problem der Lagerkapazität",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird durch Probleme mit Lieferungen aus Asien verursacht."
+                },
+                {
+                    "key": "b",
+                    "text": "wird gelöst, indem das günstigere Zusatzlager gewählt wird."
+                },
+                {
+                    "key": "c",
+                    "text": "soll durch Anmietung bei der Firma LagerFix gelöst werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Personalplanung für das Weihnachtsgeschäft",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sieht Schulungen für neue Aushilfen vor Ende November vor."
+                },
+                {
+                    "key": "b",
+                    "text": "ist bereits abgeschlossen, da die Verträge fertig sind."
+                },
+                {
+                    "key": "c",
+                    "text": "betrifft ausschließlich den Verkaufsbereich."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Renovierung der Filiale Nord",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beginnt wie geplant Anfang nächsten Jahres."
+                },
+                {
+                    "key": "b",
+                    "text": "muss wegen fehlender Genehmigungen verschoben werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde unter Sonstiges nicht mehr diskutiert."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

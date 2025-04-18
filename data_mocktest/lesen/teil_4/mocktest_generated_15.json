@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Juni 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum \"Alpenblick\", Kreativstraße 5, 81234 Musterstadt\n\n**Anwesende:**\n*   Klaus Bauer (KB, Geschäftsführung)\n*   Sarah Richter (SR, Leitung Verkauf)\n*   Markus Weber (MW, Leitung Produktion)\n*   Lena Schmidt (LS, Leitung Einkauf)\n*   David Fink (DF, Leitung Personal)\n*   Aisha Khan (AK, Leitung IT)\n*   Jonas Mayer (JM, Assistenz Geschäftsführung)\n\n**Entschuldigt:** Petra Vogel (PV, Leitung Marketing)\n\n**Sitzungsleitung:** Klaus Bauer (KB)\n**Protokollant:** Jonas Mayer (JM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung, Feststellung Beschlussfähigkeit, Genehmigung Protokoll letzte Sitzung\n2.  Aktuelle Verkaufszahlen & Marktentwicklung\n3.  Produktionskapazitäten & Lieferketten\n4.  Projektstand: Einführung neue HR-Software\n5.  Planung Betriebsausflug\n6.  Sonstiges\n\n**TOP 1 Begrüßung, Feststellung Beschlussfähigkeit, Genehmigung Protokoll letzte Sitzung**\n\nKB begrüßt die Anwesenden zur heutigen Sitzung. Die Beschlussfähigkeit ist gegeben. KB bittet um Genehmigung des Protokolls der Sitzung vom 15. Mai 20XX. SR merkt an, dass bei TOP 4 ihr Name fälschlicherweise als verantwortlich für die Kundenumfrage genannt wurde; dies sei Aufgabe von PV gewesen. Nach dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen & Marktentwicklung**\n\nSR präsentiert die Verkaufszahlen des letzten Quartals. Insgesamt zeigt sich ein positiver Trend mit einer Steigerung von 8% gegenüber dem Vorjahresquartal. Besonders die Produktlinie \"Landhaus Classic\" laufe sehr gut. Die neue Linie \"UrbanLiving\" bleibe jedoch mit -5% leicht hinter den Erwartungen zurück. Als Grund vermutet SR den aggressiven Markteintritt eines neuen Wettbewerbers im Online-Segment. KB bittet SR, die Entwicklung genau zu beobachten und ggf. in der nächsten Sitzung Maßnahmen vorzuschlagen.\n\n**TOP 3 Produktionskapazitäten & Lieferketten**\n\nMW berichtet von einer weiterhin hohen Auslastung der Produktion, die bei ca. 95% liegt. Es gäbe jedoch wiederholt kleinere Verzögerungen bei Holzanlieferungen durch den Lieferanten \"Holzwerke Süd\". Diese seien aktuell noch nicht kritisch, könnten aber bei anhaltend hoher Nachfrage zu Engpässen führen. LS ergänzt, dass Preisverhandlungen mit Holzwerke Süd bisher erfolglos waren. Es wird beschlossen, dass LS vorsorglich zwei alternative Lieferanten prüfen und bis zur nächsten Sitzung Angebote einholen soll. MW betont, dass die Qualität dabei oberste Priorität hat.\n\n**TOP 4 Projektstand: Einführung neue HR-Software**\n\nDF und AK geben ein Update zum Projekt \"HR-System Plus\". Das Kernmodul für die Personalverwaltung und Zeiterfassung ist seit Anfang des Monats live und funktioniere stabil. Die Einführung des dazugehörigen Reporting-Moduls verzögert sich jedoch aufgrund unerwarteter technischer Schnittstellenprobleme um voraussichtlich drei Wochen. AK steht in engem Kontakt mit dem Softwareanbieter zur Lösungsfindung. Schulungen für die Mitarbeiter zur Nutzung des Kernmoduls sind für die erste Juli-Woche geplant; die Einladungen dazu werden von DF bis Ende dieser Woche versendet.\n\n**TOP 5 Planung Betriebsausflug**\n\nDF stellt drei Vorschläge für den diesjährigen Betriebsausflug im September vor: einen Wandertag in den Voralpen, eine Kanutour auf der Isar oder eine geführte Stadtführung in München mit anschließendem Abendessen. Nach kurzer Diskussion wird deutlich, dass alle Optionen Anklang finden. Da die Kosten noch unklar sind, wird die Entscheidung vertagt. DF wird beauftragt, für alle drei Optionen detaillierte Kostenangebote bis Ende Juni einzuholen und diese dann zur Entscheidung vorzulegen.\n\n**TOP 6 Sonstiges**\n\nKB informiert kurz darüber, dass nächste Woche am Dienstag eine Delegation von \"Möbelhaus Großmann\", einem wichtigen Großkunden, zu Werksbesichtigung und Vertragsgesprächen erwartet wird. Er bittet alle Abteilungsleiter, für eventuelle Rückfragen verfügbar zu sein. Weitere Punkte gibt es nicht. KB schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von Frau Richter korrigiert und dann genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste wegen falscher Verkaufszahlen geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "konnte nicht genehmigt werden, da Frau Vogel fehlte."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Verkaufszahlen der Möbelwerke",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind insgesamt stark rückläufig."
+                },
+                {
+                    "key": "b",
+                    "text": "erfüllen bei einer neuen Produktlinie nicht die Erwartungen."
+                },
+                {
+                    "key": "c",
+                    "text": "haben sich wegen Preissenkungen verbessert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Probleme mit dem Lieferanten Holzwerke Süd",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind der Grund für die niedrige Produktionsauslastung."
+                },
+                {
+                    "key": "b",
+                    "text": "führen dazu, dass sofort nach Alternativen gesucht wird."
+                },
+                {
+                    "key": "c",
+                    "text": "bestehen in gelegentlichen Lieferverzögerungen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue HR-Software",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kann aufgrund von Problemen noch gar nicht genutzt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird erst nach den Schulungen im Juli komplett eingeführt."
+                },
+                {
+                    "key": "c",
+                    "text": "ist teilweise in Betrieb, aber ein Modul ist verspätet."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Beim Thema Betriebsausflug",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde die Entscheidung über das Ziel getroffen."
+                },
+                {
+                    "key": "b",
+                    "text": "soll Herr Fink bis Ende Juni Kosteninformationen sammeln."
+                },
+                {
+                    "key": "c",
+                    "text": "wird Herr Bauer die Organisation übernehmen."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

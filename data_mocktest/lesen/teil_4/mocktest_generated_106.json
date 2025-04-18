@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**11. September 20XX, 09:00 – 10:15 Uhr**\n**Ort:** Besprechungsraum \"Eiche\", Werkstraße 12, 85435 Musterhausen\n\n**Anwesende:**\n*   Klaus Berger (KB, Geschäftsführung)\n*   Sarah Weber (SW, Leitung Produktion)\n*   Tim Fischer (TF, Leitung Verkauf)\n*   Julia Meier (JM, Leitung Einkauf)\n*   Robert Klein (RK, IT-Leitung)\n*   Sabine Huber (SHu, Werkstattmeisterin)\n*   Hanna Schmidt (HS, Marketing)\n\n**Entschuldigt:**\n*   Max Müller (MM, Finanzen)\n\n**Sitzungsleitung:** Klaus Berger (KB)\n**Protokollant:** Robert Klein (RK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung Protokoll vom 14.08.20XX\n2.  Produktionsstand & Kapazitäten (Bericht SW, SHu)\n3.  Neue Produktlinie \"UrbanWood\" (Bericht TF, HS, JM)\n4.  IT-Probleme: Warenwirtschaftssystem (Bericht RK)\n5.  Vorbereitung Handwerksmesse \"Zukunft Bauen\" (Bericht HS, TF)\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung Protokoll vom 14.08.20XX**\n\nKB begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der letzten Sitzung vom 14. August wird zur Genehmigung vorgelegt. JM bittet um eine kurze Klarstellung bezüglich der im letzten Protokoll unter TOP 4 genannten Lieferfristen für Beschläge von Lieferant Meierhofer. Nach kurzer Diskussion wird klargestellt, dass die Fristen korrekt notiert wurden. Das Protokoll wird daraufhin ohne Änderungen einstimmig genehmigt.\n\n**TOP 2 Produktionsstand & Kapazitäten**\n\nSW berichtet, dass die Produktion derzeit mit ca. 95% Kapazität sehr gut ausgelastet ist. Die Auftragsbücher sind voll. SHu ergänzt, dass die Stimmung im Team gut ist, aber die hohe Belastung spürbar wird. Ein aktuelles Problem stellt jedoch der Lieferengpass bei hochwertigem Eichenholz dar, der die Fertigung der Serie \"Landhaus Classic\" verzögert. SW ist bereits in Gesprächen mit zwei alternativen Holzhändlern, um die Versorgung sicherzustellen. Andere Produktlinien sind davon nicht betroffen.\n\n**TOP 3 Neue Produktlinie \"UrbanWood\"**\n\nTF berichtet von sehr positivem erstem Feedback von Schlüsselkunden, denen Prototypen der neuen Linie gezeigt wurden. Der offizielle Verkaufsstart ist für November geplant. JM informiert, dass die regulären Holzkomponenten gesichert sind, sie aber noch Angebote für zertifiziertes, nachhaltiges Bambusholz einholt, welches ein zentrales Designelement ist. Die Angebote sollen bis Ende September vorliegen und entschieden werden. HS arbeitet parallel an der Marketingkampagne, die sowohl Online-Maßnahmen (Social Media, Website-Update) als auch neue Print-Broschüren umfasst.\n\n**TOP 4 IT-Probleme: Warenwirtschaftssystem**\n\nRK berichtet über Performance-Probleme mit dem Warenwirtschaftssystem. Insbesondere Datenbankabfragen bezüglich der aktuellen Lagerbestände sind zu Stoßzeiten teilweise sehr langsam. Das System selbst läuft stabil, es gibt keine Ausfälle. RK analysiert derzeit die Performance der betreffenden Abfragen und SQL-Statements intern. Er wird in der nächsten Sitzung konkrete Vorschläge zur Optimierung vorstellen. Eine externe Unterstützung ist momentan nicht vorgesehen.\n\n**TOP 5 Vorbereitung Handwerksmesse \"Zukunft Bauen\"**\n\nDie Messe \"Zukunft Bauen\" findet vom 15.-18. November in Nürnberg statt. HS stellt erste Entwürfe für das Standdesign vor und berichtet, dass die neuen Broschüren im Druck sind. Sie koordiniert den Standbau. TF ist verantwortlich für die Erstellung des Personaleinsatzplans für den Messestand. Es wurde beschlossen, sowohl die neue Linie \"UrbanWood\" prominent zu präsentieren als auch ausgewählte Bestseller aus dem etablierten Sortiment, um die Bandbreite des Unternehmens zu zeigen.\n\n**TOP 6 Sonstiges**\n\nKB weist abschließend auf eine verpflichtende IT-Sicherheitsschulung hin. Diese findet am kommenden Freitag, den 15. September, von 14:00 bis 16:00 Uhr statt und ist für alle anwesenden Abteilungsleiterinnen und -leiter sowie die Geschäftsführung obligatorisch. Weitere Themen werden nicht angesprochen. KB schließt die Sitzung um 10:12 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Genehmigung August-Protokoll",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "enthielt Fehler bezüglich eines Lieferanten."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde nach kurzer Diskussion unverändert angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "muss von Herrn Klein korrigiert werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Produktion aktuell",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat generell zu wenig Kapazitäten."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigt dringend mehr Personal."
+                },
+                {
+                    "key": "c",
+                    "text": "leidet unter Lieferproblemen bei einer bestimmten Holzart."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Produktlinie \"UrbanWood\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird ab November auf dem Markt sein."
+                },
+                {
+                    "key": "b",
+                    "text": "wird nur über die Firmenwebseite beworben."
+                },
+                {
+                    "key": "c",
+                    "text": "kann erst starten, wenn Herr Fischer das Material bestellt hat."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Warenwirtschaftssystem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss komplett ersetzt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "bereitet durch langsame Abfragen Probleme."
+                },
+                {
+                    "key": "c",
+                    "text": "wird derzeit von einer externen Firma geprüft."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Handwerksmesse",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet nächsten Monat statt."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert nur Vorbereitungen vom Verkaufsteam."
+                },
+                {
+                    "key": "c",
+                    "text": "zeigt sowohl neue als auch bekannte Produkte."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

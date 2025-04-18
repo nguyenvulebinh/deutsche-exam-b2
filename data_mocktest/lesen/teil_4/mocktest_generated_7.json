@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum \"Galileo\", TechFertigung GmbH, Industriestraße 12, 98765 Technostadt\n\n**Anwesende:**\n*   Dr. Klaus Berger (KB, Geschäftsführung)\n*   Hanna Schmidt (HS, Leitung Produktion)\n*   Peter Müller (PM, Leitung Vertrieb)\n*   Simone Fischer (SF, Leitung Qualitätskontrolle)\n*   Lena König (LK, Leitung Personal)\n*   Ralf Weber (RW, IT-Spezialist)\n*   Max Ernst (ME, Leitung Einkauf)\n*   Anna Bauer (AB, Assistenz Geschäftsführung)\n\n**Entschuldigt:**\n*   Stefan Gruber (SG, Leitung Marketing)\n\n**Sitzungsleitung:** Dr. Klaus Berger (KB)\n**Protokollantin:** Anna Bauer (AB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Produktionsauslastung und Effizienzsteigerung\n3.  Stand Projekt \"Neue Montagelinie C\"\n4.  IT-Sicherheit Update und Schulungsbedarf\n5.  Personalplanung Q4 / Jahresanfang\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nKB begrüßt die Anwesenden. Das Protokoll der Sitzung vom 20. September wird zur Genehmigung vorgelegt. SF bittet um eine Korrektur bei TOP 4 des alten Protokolls: Die dort genannte Frist für die Qualitätsprüfung der neuen Sensoren war fälschlicherweise mit Ende Oktober angegeben, korrekt ist jedoch Mitte November. Nach Eintrag dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Produktionsauslastung und Effizienzsteigerung**\n\nHS berichtet von einer weiterhin sehr hohen Auslastung in der Produktion, die aktuell bei über 95% liegt. Um den hohen Auftragsbestand schneller abarbeiten zu können und gleichzeitig die Fehlerquote zu senken, schlägt HS eine Optimierung der Schichtpläne vor. Dies würde eine bessere Verteilung der Arbeitslast ermöglichen, ohne sofort Überstunden anordnen zu müssen. KB unterstützt den Vorschlag und beauftragt HS, bis zur nächsten Sitzung ein detailliertes Konzept für die neuen Schichtmodelle vorzulegen. Eine Umsetzung wird für Anfang Dezember angestrebt.\n\n**TOP 3 Stand Projekt \"Neue Montagelinie C\"**\n\nME informiert über den aktuellen Stand des Projekts. Die Bauarbeiten für die Halle sind abgeschlossen. Allerdings gibt es beim Hauptlieferanten für die Kernkomponenten der Linie unerwartete Verzögerungen. Laut Lieferant liegt dies an Engpässen bei Rohmaterialien. Dadurch verschiebt sich die geplante Inbetriebnahme der Linie C, die ursprünglich für Ende Januar 20XX+1 vorgesehen war, voraussichtlich auf März 20XX+1. ME steht in engem Kontakt mit dem Lieferanten, um den neuen Zeitplan zu bestätigen und Alternativen zu prüfen.\n\n**TOP 4 IT-Sicherheit Update und Schulungsbedarf**\n\nRW berichtet über die erfolgreiche Implementierung einer neuen Firewall-Generation im Firmennetzwerk letzte Woche. Im Zuge dessen wurden auch vermehrt Phishing-Versuche registriert, die jedoch erfolgreich abgewehrt wurden. Um das Bewusstsein weiter zu schärfen, hat RW ein neues Online-Trainingstool zum Thema Phishing-Erkennung evaluiert. KB entscheidet, dass die Nutzung dieses Tools für alle Mitarbeitenden verpflichtend wird. RW wird die Zugangsdaten und eine Anleitung bis Ende Oktober versenden; die Schulung muss von allen bis spätestens 30. November abgeschlossen sein.\n\n**TOP 5 Personalplanung Q4 / Jahresanfang**\n\nLK erläutert den Personalbedarf für das kommende erste Quartal. Insbesondere im Hinblick auf die Inbetriebnahme der Montagelinie C und die anhaltend hohe Auslastung wird zusätzliches Personal benötigt. HS bestätigt den dringenden Bedarf in der Produktion. Es wird beschlossen, drei neue feste Stellen für Fachkräfte in der Produktion zu schaffen. LK wird die Stellenausschreibungen vorbereiten und den Einstellungsprozess ab sofort starten, mit dem Ziel, die Stellen bis Februar 20XX+1 zu besetzen.\n\n**TOP 6 Sonstiges**\n\nPM erinnert an die bevorstehende Fachmesse \"Electronica World\" in München Mitte November. TechFertigung GmbH wird dort mit einem eigenen Stand vertreten sein. PM, SF und zwei Mitarbeiter aus dem Vertrieb werden vor Ort sein. Hauptziel ist die Präsentation des neuen Sensor-Modells S-XT und die Akquise von Neukunden. KB wünscht dem Messeteam viel Erfolg. Die nächste Sitzung findet am 15. November statt.",
+    "aufgaben_list": [
+        {
+            "frage": "Genehmigung des letzten Protokolls",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfolgte ohne Einwände sofort."
+                },
+                {
+                    "key": "b",
+                    "text": "war erst nach einer inhaltlichen Korrektur möglich."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde wegen fehlender Teilnehmer verschoben."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Effizienzsteigerung in der Produktion",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird durch die Anschaffung neuer Maschinen erreicht."
+                },
+                {
+                    "key": "b",
+                    "text": "ist wegen geringer Auslastung derzeit nicht nötig."
+                },
+                {
+                    "key": "c",
+                    "text": "soll durch angepasste Arbeitszeiten erfolgen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Projekt \"Neue Montagelinie C\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kann wie geplant Ende Januar starten."
+                },
+                {
+                    "key": "b",
+                    "text": "verzögert sich aufgrund von Lieferproblemen."
+                },
+                {
+                    "key": "c",
+                    "text": "ist wegen abgeschlossener Bauarbeiten im Zeitplan."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die IT-Sicherheitsschulung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist eine freiwillige Maßnahme für Interessierte."
+                },
+                {
+                    "key": "b",
+                    "text": "muss von allen Mitarbeitern bis Ende November gemacht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird nur für die IT-Abteilung durchgeführt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Personalplanung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sieht drei neue Stellen im Vertrieb vor."
+                },
+                {
+                    "key": "b",
+                    "text": "umfasst die Einstellung von temporären Aushilfen."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhaltet feste Arbeitsplätze für den Produktionsbereich."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

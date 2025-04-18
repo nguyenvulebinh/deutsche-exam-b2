@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Raum \"Alpenblick\", Firmenzentrale, Industriestraße 5, 81234 Musterstadt\n\n**Anwesende:**\n*   Stefan Huber (SH, Geschäftsführung)\n*   Claudia Bergmann (CB, Leitung Vertrieb)\n*   Markus Klein (MK, Leitung Produktion)\n*   Elena Fischer (EF, Leitung Einkauf)\n*   Thomas Schmidt (TS, Leitung Personal)\n*   Lena Wagner (LW, Leitung IT)\n*   David Müller (DM, Assistenz Geschäftsführung)\n\n**Entschuldigt:** Petra Schulz (PS, Leitung Finanzen)\n\n**Sitzungsleitung:** Stefan Huber (SH)\n**Protokollant:** David Müller (DM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. September 20XX\n2.  Aktuelle Verkaufszahlen und Marktentwicklung\n3.  Produktionsauslastung und Lieferkettenproblematik\n4.  Einführung des neuen CRM-Systems\n5.  Weiterbildungsmaßnahmen für Mitarbeiter\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. September 20XX**\n\nSH begrüßt alle Anwesenden zur heutigen Sitzung. DM bittet um Genehmigung des Protokolls der letzten Sitzung vom 15. September 20XX. EF weist auf eine notwendige Korrektur bei den unter TOP 4 des alten Protokolls genannten Lieferantennamen hin. Mit dieser spezifischen Änderung wird das Protokoll anschließend einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen und Marktentwicklung**\n\nCB präsentiert die Verkaufszahlen für das 3. Quartal. Die Umsätze liegen insgesamt 15% über dem vergleichbaren Vorjahresquartal, wobei besonders die Präzisionsteile für die Automobilindustrie stark nachgefragt sind. CB merkt an, dass der Wettbewerb aus Asien zwar zunimmt, der Gesamtmarkt jedoch weiterhin stabil sei. Sie schlägt vor, die Erschließung potenzieller neuer Märkte in Osteuropa zu prüfen. SH bittet CB, hierzu bis zur nächsten Sitzung am 9. November einen detaillierten Vorschlag mit einer ersten Marktanalyse auszuarbeiten.\n\n**TOP 3 Produktionsauslastung und Lieferkettenproblematik**\n\nMK berichtet, dass die Produktion derzeit mit 95% Kapazität sehr gut ausgelastet ist. Es bestehen jedoch akute Lieferverzögerungen bei der \"Speziallegierung Typ B\" von unserem Hauptlieferanten, der Metall Guss AG. Sollte bis Anfang November keine ausreichende Lieferung erfolgen oder keine Alternative gefunden werden, drohen Produktionsausfälle bei zwei wichtigen Produktlinien. EF informiert, dass sie bereits mit zwei potenziellen alternativen Lieferanten in Kontakt steht und voraussichtlich nächste Woche konkrete Ergebnisse zu deren Lieferfähigkeit und Preisen vorlegen kann. SH genehmigt den Vorschlag von MK, bei der Produktionsplanung Aufträge von strategischen Schlüsselkunden zu priorisieren, und betont die Dringlichkeit der alternativen Lieferantensuche durch EF.\n\n**TOP 4 Einführung des neuen CRM-Systems**\n\nLW informiert über den aktuellen Stand bei der Einführung des neuen CRM-Systems \"ClientConnect\". Phase 1, die technische Installation auf den Servern, wurde termingerecht abgeschlossen. Aktuell läuft Phase 2, die Migration der Kundendaten aus dem Altsystem. Die Schulungen für alle Mitarbeiterinnen und Mitarbeiter aus Vertrieb und Kundenservice sind fest für die ersten beiden Novemberwochen terminiert. Kleinere technische Probleme, die während der Testphase aufgetreten waren, konnten laut LW größtenteils behoben werden. Sie ist zuversichtlich, dass der geplante Go-Live-Termin am 1. Dezember 20XX eingehalten werden kann.\n\n**TOP 5 Weiterbildungsmaßnahmen für Mitarbeiter**\n\nTS stellt einen identifizierten Bedarf an Weiterbildung im Bereich digitaler Office-Anwendungen fest. Er schlägt vor, ab Januar des kommenden Jahres (20XY) verpflichtende halbtägige Workshops zur effizienten Nutzung von MS Office 365 (insbesondere Teams, SharePoint) anzubieten. Zielgruppe sollen zunächst alle Mitarbeiterinnen und Mitarbeiter der Verwaltung sein. Die genaue Finanzierung dieser Maßnahme ist noch nicht final geklärt. SH begrüßt die Initiative grundsätzlich, bittet TS jedoch, vor einer endgültigen Entscheidung die Budgetdetails und möglichen Kosten mit der abwesenden Finanzleiterin, Frau Schulz, abzustimmen und das Ergebnis in der nächsten Sitzung vorzustellen.\n\n**TOP 6 Sonstiges**\n\nSH weist auf das bevorstehende 25-jährige Firmenjubiläum im nächsten Jahr hin. Er kündigt an, dass demnächst mit der Planung einer entsprechenden Veranstaltung begonnen werden soll. Um erste Ideen zu sammeln, bittet er TS und CB, eine kleine Arbeitsgruppe zu bilden und zeitnah Vorschläge zu unterbreiten. Weitere Punkte werden von den Anwesenden nicht angesprochen. DM bestätigt abschließend den Termin für die nächste reguläre Sitzung am 9. November 20XX.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 15. September",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Änderungen einstimmig angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von Herrn Huber zur Überarbeitung zurückgegeben."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der Vertrieb",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird demnächst in Osteuropa aktiv werden."
+                },
+                {
+                    "key": "b",
+                    "text": "soll bis November einen Vorschlag zur Markterweiterung machen."
+                },
+                {
+                    "key": "c",
+                    "text": "leidet unter starkem Wettbewerb aus Asien."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Lieferprobleme bei der Speziallegierung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "führen bereits zu Produktionsausfällen."
+                },
+                {
+                    "key": "b",
+                    "text": "werden aktuell von Herrn Klein gelöst."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordern die Suche nach neuen Lieferanten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Schulungen für das CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "finden Anfang November für bestimmte Abteilungen statt."
+                },
+                {
+                    "key": "b",
+                    "text": "sind für das gesamte Personal vorgesehen."
+                },
+                {
+                    "key": "c",
+                    "text": "können wegen technischer Probleme erst im Dezember beginnen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die vorgeschlagenen Office-Workshops",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollen noch in diesem Jahr starten."
+                },
+                {
+                    "key": "b",
+                    "text": "sind für die Verwaltungsmitarbeiter gedacht."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden bereits fest vom Geschäftsführer eingeplant."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

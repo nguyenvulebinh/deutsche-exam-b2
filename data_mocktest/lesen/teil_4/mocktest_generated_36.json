@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Oktober 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum Alpha, Firmenzentrale, Industriestraße 5, 67890 Musterstadt\n\n**Anwesende:**\n*   Gerhard Müller (GM, Geschäftsführung)\n*   Stefan Bauer (SB, Leitung Produktion)\n*   Anna Schmidt (AS, Leitung Verkauf)\n*   David Fischer (DF, Leitung Einkauf)\n*   Laura Weber (LW, Leitung Qualitätssicherung)\n*   Thomas Wolf (TW, Leitung IT)\n*   Sandra Keller (SK, Leitung Marketing)\n\n**Entschuldigt:** Herr Klaus Vogel (KV, Leitung Personal)\n**Sitzungsleitung:** Stefan Bauer (SB)\n**Protokollantin:** Sandra Keller (SK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 14. September 20XX\n2.  Aktuelle Verkaufszahlen und Kundensituation\n3.  Produktionskapazitäten und Maßnahmen\n4.  Einführung Qualitätssoftware \"QS-Profi 4.0\"\n5.  Überarbeitung der Firmenwebseite (Karrierebereich)\n6.  Vorbereitung Industriemesse \"MetallTech 20XX+1\"\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 14. September 20XX**\n\nSB begrüßt die Anwesenden. Das Protokoll der letzten Sitzung vom 14. September wird zur Genehmigung vorgelegt. LW weist auf einen Tippfehler beim Datum unter TOP 4 hin. Nach Korrektur dieses Datums wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen und Kundensituation**\n\nAS berichtet über die Verkaufszahlen des letzten Quartals. Diese liegen erfreulicherweise um 15% über dem Vorjahresquartal. Maßgeblich dazu beigetragen hat der neue Großkunde \"Automotive Solutions AG\" aus der Automobilzuliefererindustrie, der seit August regelmäßig große Stückzahlen abnimmt. Es gibt jedoch auch Hinweise von Kunden auf längere Lieferzeiten bei Spezialanfertigungen.\n\n**TOP 3 Produktionskapazitäten und Maßnahmen**\n\nSB erläutert, dass die Produktion, insbesondere im Bereich der CNC-Fräsen, an ihrer Kapazitätsgrenze arbeitet. Dies führt zu den von AS erwähnten längeren Lieferzeiten. Um die hohe Nachfrage, insbesondere durch den neuen Großkunden, kurzfristig bedienen zu können, wird nach kurzer Diskussion einstimmig beschlossen, ab sofort für die nächsten drei Monate Überstunden für das Fachpersonal in der Produktion anzuordnen. Zusätzlich wird SB prüfen, ob über eine Zeitarbeitsfirma kurzfristig zwei bis drei qualifizierte Aushilfskräfte gewonnen werden können. Eine Investition in neue Maschinen wird erst für das nächste Geschäftsjahr in Betracht gezogen.\n\n**TOP 4 Einführung Qualitätssoftware \"QS-Profi 4.0\"**\n\nLW berichtet über die Einführung der neuen Software \"QS-Profi 4.0\". Die Installation auf den relevanten Rechnern in der QS und Produktion ist abgeschlossen. Es gab anfangs kleinere Probleme mit der Datenübernahme aus dem Altsystem, die aber laut TW inzwischen behoben sind. TW (IT) wird in Zusammenarbeit mit LW (QS) einen Schulungsplan erstellen. Die Teilnahme an den Schulungen, die voraussichtlich im November stattfinden werden, ist für alle Mitarbeiterinnen und Mitarbeiter der QS sowie die Schichtleiter der Produktion verpflichtend. Die Einladungen erfolgen über die IT-Abteilung.\n\n**TOP 5 Überarbeitung der Firmenwebseite (Karrierebereich)**\n\nGM weist darauf hin, dass die Gewinnung von Fachkräften eine hohe Priorität hat. Daher soll der Karrierebereich auf der Firmenwebseite dringend modernisiert und ansprechender gestaltet werden. SK (Marketing) wird beauftragt, in Abstimmung mit der Personalabteilung (KV) bis Ende November aktuelle Inhalte (Stellenprofile, Benefits, Mitarbeiterstimmen) zusammenzustellen. Über die Beauftragung einer externen Webdesign-Agentur wird erst nach Vorlage der Inhalte entschieden.\n\n**TOP 6 Vorbereitung Industriemesse \"MetallTech 20XX+1\"**\n\nDie Firma wird nächstes Jahr an der Leitmesse \"MetallTech\" in Hannover teilnehmen. Ziel ist die Präsentation neuer Fertigungstechniken und die Akquise weiterer Großkunden. SK (Marketing) ist federführend für die Organisation verantwortlich. Sie wird bis zur nächsten Sitzung einen ersten Entwurf für das Standdesign sowie eine Kostenschätzung vorlegen.\n\n**TOP 7 Sonstiges**\n\nDF (Einkauf) informiert kurz über leicht steigende Rohstoffpreise bei Edelstahl, die aber aktuell noch keine Auswirkungen auf die Kalkulation haben. Keine weiteren Wortmeldungen. SB schließt die Sitzung um 10:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "enthielt einen Fehler bei einem Datum."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Frau Weber korrigiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der neue Großkunde",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sorgt für etwa 15% weniger Umsatz."
+                },
+                {
+                    "key": "b",
+                    "text": "ist ein Unternehmen aus der Automobilbranche."
+                },
+                {
+                    "key": "c",
+                    "text": "hat sich über lange Lieferzeiten beschwert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Um die Produktion zu steigern,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden neue CNC-Fräsen angeschafft."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde der Einsatz von Aushilfen abgelehnt."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen Mitarbeiter Mehrarbeit leisten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Schulungen für \"QS-Profi 4.0\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind nur für die Qualitätskontrolle nötig."
+                },
+                {
+                    "key": "b",
+                    "text": "werden von der IT-Abteilung organisiert."
+                },
+                {
+                    "key": "c",
+                    "text": "haben bereits im Oktober stattgefunden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Marketingabteilung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beauftragt eine Agentur für die Webseite."
+                },
+                {
+                    "key": "b",
+                    "text": "kritisiert die steigenden Rohstoffpreise."
+                },
+                {
+                    "key": "c",
+                    "text": "ist für die Messeplanung verantwortlich."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

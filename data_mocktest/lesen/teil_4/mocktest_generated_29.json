@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. April 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum 'Alpenblick', Werkstraße 5, 84531 Musterstadt\n\n**Anwesende:**\n*   Heide Wessely (HW, Geschäftsführung)\n*   Sara Nakamura (SN, Leitung Produktion)\n*   Torsten Kunze (TK, Leitung Verkauf)\n*   Ottmar Peters (OP, Leitung Marketing)\n*   Paula Raabe (PR, Leitung Einkauf)\n*   Andrea Olms (AO, Leitung IT)\n*   Michael Ahlers (MA, Leitung Personalwesen)\n*   Roman Lauf (RL, Assistenz)\n\n**Entschuldigt:** Stefan Gruber (SG, Leitung Finanzen)\n\n**Sitzungsleitung:** Heide Wessely (HW)\n**Protokollant:** Roman Lauf (RL)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Vorstellung und Planung neue Produktlinie 'NaturPur'\n3.  Aktuelle Produktionsauslastung und Lieferzeiten\n4.  Update IT-System Migration 'Phoenix'\n5.  Planung Firmenjubiläum (50 Jahre)\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nHW begrüßt die Anwesenden. Das Protokoll der Sitzung vom 15. März wird nach kurzer Rückfrage zu TOP 4 (Budget Marketing) ohne Änderungen einstimmig genehmigt.\n\n**TOP 2 Vorstellung und Planung neue Produktlinie 'NaturPur'**\n\nOP stellt das Konzept für die neue, nachhaltige Produktlinie 'NaturPur' vor. Die Möbel dieser Linie sollen vorrangig aus FSC-zertifiziertem Eichenholz aus regionaler Forstwirtschaft gefertigt werden. Ziel ist es, umweltbewusste Kunden anzusprechen. Die Markteinführung ist für das vierte Quartal dieses Jahres geplant.\nHW betont die Wichtigkeit dieser strategischen Ausrichtung. OP wird beauftragt, bis Ende Mai ein detailliertes Konzept für die Marketing-Broschüre auszuarbeiten und dem Vertriebsteam vorzustellen.\n\n**TOP 3 Aktuelle Produktionsauslastung und Lieferzeiten**\n\nSN berichtet von einer weiterhin hohen Produktionsauslastung, insbesondere durch die starke Nachfrage nach dem Sofa-Modell 'AlpenKomfort'. Dies führt aktuell zu Lieferzeiten von ca. 8 Wochen statt der üblichen 4 Wochen für dieses spezielle Modell.\nPR ergänzt, dass es bei zwei spezifischen Bezugsstoffen weiterhin zu Lieferengpässen seitens der Zulieferer kommt, was die Situation zusätzlich erschwert. Alternative Lieferanten werden geprüft.\nSN wird beauftragt, bis zur nächsten Sitzung die Möglichkeit und Kosten von zusätzlichen Samstags-Schichten zu evaluieren, um die Lieferzeiten für 'AlpenKomfort' wieder zu reduzieren.\n\n**TOP 4 Update IT-System Migration 'Phoenix'**\n\nAO informiert über den Stand der Migration auf das neue Warenwirtschaftssystem 'Phoenix'. Das Projekt läuft, ist jedoch aufgrund unvorhergesehener Kompatibilitätsprobleme beim Import alter Kundendaten um etwa zwei Wochen verzögert. Die vollständige Inbetriebnahme wird nun für Mitte Juni angestrebt.\nAO wird gebeten, der Geschäftsführung bis nächste Woche einen detaillierten Bericht zu den aufgetretenen Problemen und den Lösungsansätzen vorzulegen. Die Schulungen für die Mitarbeiterinnen und Mitarbeiter aus Verkauf und Produktion sind weiterhin für Anfang Juli geplant, sobald das System stabil läuft.\n\n**TOP 5 Planung Firmenjubiläum (50 Jahre)**\n\nHW leitet die Diskussion zum 50-jährigen Firmenjubiläum. Der Termin für die zentrale Feier wird auf den 15. September festgelegt. Ein Budgetrahmen für die Feierlichkeiten wurde ebenfalls genehmigt.\nBezüglich des Veranstaltungsortes läuft die Suche noch; drei Optionen wurden kurz vorgestellt. Eine Entscheidung soll bis Ende April fallen. Eine kleine Arbeitsgruppe unter der Leitung von MA (Personal) wird die Detailplanung übernehmen und Vorschläge für das Programm sowie die Gästeliste erarbeiten.\n\n**TOP 6 Sonstiges**\n\nTK bittet um die zeitnahe Bereitstellung der aktualisierten Preisliste unter Berücksichtigung der letzten Materialpreiserhöhungen. PR sagt eine kurzfristige Übermittlung zu.\nHW erinnert alle Abteilungsleiter an die Notwendigkeit, die Urlaubsplanung für die Sommerferien rechtzeitig abzuschließen und einzureichen.\n\nEnde der Sitzung: 11:35 Uhr",
+    "aufgaben_list": [
+        {
+            "frage": "Die neue Produktlinie 'NaturPur'",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits seit Anfang des Jahres verkauft."
+                },
+                {
+                    "key": "b",
+                    "text": "verwendet unter anderem speziell zertifiziertes Holz."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von der Geschäftsführung detailliert vorgestellt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Lieferzeiten für Möbel",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind bei allen Produkten aktuell doppelt so lang."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen durch bereits beschlossene Extraschichten verkürzt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "haben sich für ein bestimmtes Sofa verlängert."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das IT-Projekt 'Phoenix'",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird später fertig als ursprünglich geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "ist erfolgreich abgeschlossen und wird nun geschult."
+                },
+                {
+                    "key": "c",
+                    "text": "verzögert sich, weil die Schulungen noch nicht stattfinden konnten."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das 50-jährige Firmenjubiläum",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet an einem bereits ausgewählten Ort statt."
+                },
+                {
+                    "key": "b",
+                    "text": "hat bereits einen festen Termin im September."
+                },
+                {
+                    "key": "c",
+                    "text": "wird hauptsächlich von der Geschäftsführung organisiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Herr Peters (Marketing)",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist für die Erstellung einer Broschüre verantwortlich."
+                },
+                {
+                    "key": "b",
+                    "text": "berichtete über die Probleme bei den Lieferzeiten."
+                },
+                {
+                    "key": "c",
+                    "text": "kümmert sich um die Organisation des Firmenjubiläums."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

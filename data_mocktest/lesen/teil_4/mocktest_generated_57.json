@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 09:00 – 10:35 Uhr**\n**Ort:** Besprechungsraum \"Kreativ\", Hauptstraße 12, 80331 München\n\n**Anwesende:**\n*   Klaus Weber (KW, Geschäftsführung)\n*   Armin Steiner (AS, Leitung IT)\n*   Birgit Hauser (BH, Leitung Vertrieb)\n*   Lisa Klein (LK, Leitung Marketing)\n*   Jürgen Grau (JG, Leitung Finanzen)\n*   Martina Pohl (MP, Leitung Personal)\n*   Stefan Brandt (SB, Leitung Produktion)\n*   Anna Schmidt (ASC, Sekretariat)\n\n**Gast:** Dr. Eva Lorenz (EL, Externe Beraterin - Prozessoptimierung)\n\n**Sitzungsleitung:** Klaus Weber (KW)\n**Protokollant/in:** Anna Schmidt (ASC)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung, Genehmigung des Protokolls vom 20.09.20XX\n2.  Status Projekt \"Cloud Migration\"\n3.  Neues CRM-System: Auswahlprozess und nächste Schritte\n4.  Marketingkampagne Q4: Fokus und Budget\n5.  Personalsituation IT-Abteilung\n6.  Sonstiges\n\n**TOP 1 Begrüßung, Genehmigung des Protokolls vom 20.09.20XX**\n\nKW begrüßt die Anwesenden und den Gast, Frau Dr. Lorenz. Das Protokoll der letzten Sitzung vom 20. September wird zur Genehmigung vorgelegt. JG merkt an, dass in TOP 4 des alten Protokolls eine Budgetzahl korrigiert werden müsse. Mit dieser Änderung wird das Protokoll einstimmig angenommen.\n\n**TOP 2 Status Projekt \"Cloud Migration\"**\n\nAS berichtet über den Fortschritt. Phase 1 (Aufbau der Infrastruktur) wurde letzten Freitag abgeschlossen. Dies war eine Woche später als ursprünglich geplant, Grund waren unerwartete Kompatibilitätsprobleme mit älterer Hardware. Diese Probleme sind inzwischen gelöst. Das Budget für Phase 1 wurde um ca. 5 %, das entspricht 2.500 Euro, überschritten. Phase 2 (Datentransfer) beginnt am kommenden Montag und ist auf vier Wochen angesetzt. Die Gesamtfertigstellung des Projekts wird weiterhin für Ende November angestrebt. EL fragt nach den Schulungen für die Mitarbeiter. AS bestätigt, dass diese für Anfang Dezember geplant sind.\n\n**TOP 3 Neues CRM-System: Auswahlprozess und nächste Schritte**\n\nBH stellt die Analyse von drei potenziellen CRM-Systemen vor: Anbieter Alpha, Beta und Gamma. Die Empfehlung geht an Anbieter Beta aufgrund der besseren Integrationsmöglichkeiten mit der bestehenden Lagerhaltungssoftware und dem überlegenen mobilen Zugriff. Allerdings liegt die jährliche Lizenzgebühr für Beta mit ca. 22.000 Euro etwa 10 % über der von Anbieter Alpha (20.000 Euro p.a.). Anbieter Gamma schied wegen fehlender Sicherheitsfunktionen aus. AS bestätigt die technische Machbarkeit der Implementierung von Anbieter Beta. KW beauftragt BH, bis morgen Abend eine finale Kosten-Nutzen-Analyse für Alpha und Beta zu erstellen. Eine Entscheidung über den Anbieter wird KW bis Ende dieser Woche treffen.\n\n**TOP 4 Marketingkampagne Q4: Fokus und Budget**\n\nLK präsentiert die Pläne für die Marketingkampagne im vierten Quartal, deren Schwerpunkt auf der Einführung des neuen Dienstes \"SecureCloud\" liegt. Das Gesamtbudget beträgt 50.000 Euro. Die Hauptkanäle sind gezielte LinkedIn-Anzeigen (25.000 Euro), Google Ads (10.000 Euro) sowie die Teilnahme an der Fachkonferenz \"Digital Future\" in Köln vom 15. bis 17. November. Für die Konferenzteilnahme (Standmiete, Reisekosten) sind 15.000 Euro vorgesehen. JG äußert Bedenken hinsichtlich des messbaren Return on Investment (ROI) der Konferenz im Vergleich zu den Online-Maßnahmen. KW betont den Wert des Networkings bei der Konferenz und genehmigt das Budget von 15.000 Euro unter der Bedingung, dass LK im Vorfeld klare Kennzahlen (KPIs) zur Lead-Generierung für die Veranstaltung definiert.\n\n**TOP 5 Personalsituation IT-Abteilung**\n\nMP berichtet über die anhaltenden Schwierigkeiten bei der Besetzung von zwei Schlüsselpositionen in der IT-Abteilung: eine Stelle als Senior Systemadministrator und eine als Lead Software Developer. Besonders die Entwicklerposition erweist sich trotz zahlreicher Ausschreibungen als schwer zu besetzen. MP schlägt vor, die spezialisierte Personalvermittlungsagentur \"TechRecruit\" zu beauftragen, die für ihr gutes Netzwerk in der Entwickler-Community bekannt ist. Die Agentur arbeitet auf Erfolgsbasis mit einer Gebühr von 5.000 Euro pro erfolgreicher Vermittlung. JG weist auf die zusätzlichen Kosten hin. AS plädiert nachdrücklich dafür, die Agentur sofort für die Suche nach dem Lead Developer einzuschalten, da sonst Projektverzögerungen drohen. KW genehmigt die Beauftragung von TechRecruit zunächst spezifisch für die Suche nach dem Lead Developer. Die Suche nach dem Systemadministrator wird vorerst intern fortgesetzt.\n\n**TOP 6 Sonstiges**\n\nKW gibt den Termin für die jährliche Weihnachtsfeier bekannt: Freitag, 15. Dezember, ab 19:00 Uhr im \"Restaurant am See\". MP wird gebeten, die Einladungen und weitere Organisation zu übernehmen. AS erinnert alle an die notwendige Serverwartung am kommenden Samstag, den 21. Oktober. Die IT-Systeme werden an diesem Tag von 08:00 Uhr bis voraussichtlich 18:00 Uhr nicht verfügbar sein. ASC wird eine offizielle Information an alle Mitarbeiterinnen und Mitarbeiter versenden. EL bedankt sich für die Einladung und die Einblicke. Die Sitzung endet um 10:35 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Projekt \"Cloud Migration\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kostet bisher etwas mehr als geplant war."
+                },
+                {
+                    "key": "b",
+                    "text": "ist insgesamt eine Woche im Verzug."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde durch Hardwareprobleme gestoppt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Bei der Auswahl des CRM-Systems",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird das günstigste System favorisiert."
+                },
+                {
+                    "key": "b",
+                    "text": "ist die technische Einbindung ein wichtiges Kriterium."
+                },
+                {
+                    "key": "c",
+                    "text": "hat Herr Weber bereits eine Entscheidung getroffen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Budget für die Messe \"Digital Future\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beträgt 50.000 Euro für die gesamte Kampagne."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde unter der Bedingung genehmigt, Erfolgsziele festzulegen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von Herrn Grau abgelehnt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Zur Besetzung der IT-Stellen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll für beide Positionen eine Personalagentur beauftragt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "ist die Suche nach einem Systemadministrator besonders schwierig."
+                },
+                {
+                    "key": "c",
+                    "text": "wird zunächst nur für die Entwicklerstelle externe Hilfe gesucht."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Am kommenden Samstag (21.10.)",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "informiert Herr Steiner alle Mitarbeiter über Systemausfälle."
+                },
+                {
+                    "key": "b",
+                    "text": "können die Computersysteme der Firma ganztägig ausfallen."
+                },
+                {
+                    "key": "c",
+                    "text": "findet eine externe Beratung zur Prozessoptimierung statt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 14:00 – 15:30 Uhr**\n**Ort:** Konferenzraum Alpha, Hauptstraße 50, 12345 Neustadt\n\n**Anwesende:**\n*   Dr. Eva Müller (EM, Geschäftsführung)\n*   Klaus Berger (KB, Leitung Produktion)\n*   Sabine Fischer (SF, Leitung Verkauf)\n*   Peter Klein (PK, Leitung Einkauf)\n*   Anna Schmidt (AS, Leitung Personal)\n*   Thomas Weber (TW, Leitung Marketing)\n*   Jens Richter (JR, Leitung IT)\n\n**Entschuldigt:**\n*   Maria Braun (MB, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Eva Müller (EM)\n**Protokollant:** Thomas Weber (TW)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Aktuelle Produktionsauslastung und Lieferzeiten\n3.  Vorstellung neues Marketingkonzept für Produktlinie \"Delta\"\n4.  Ergebnisse der Mitarbeiterbefragung\n5.  Planung der IT-Systemwartung am Wochenende\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nEM begrüßt die Anwesenden zur heutigen Sitzung. Sie bittet um Genehmigung des Protokolls der letzten Sitzung vom 15. August. PK weist darauf hin, dass unter TOP 4 das Datum eines Lieferantenvertrags korrigiert werden muss (nicht 01.08., sondern 01.07.). Mit dieser kleinen Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionsauslastung und Lieferzeiten**\n\nKB berichtet, dass die Produktion derzeit sehr gut läuft und die Auslastung bei 95% liegt. Die Standard-Lieferzeiten betragen aktuell vier Wochen, das Ziel bleiben jedoch drei Wochen. Es gab kurzfristig einen Anstieg auf fünf Wochen Lieferzeit durch einen unerwartet großen Auftrag des Kunden Großmann GmbH, dieser Engpass ist aber mittlerweile behoben. KB schlägt vor, über temporäre Aushilfskräfte nachzudenken, sollte die Auslastung für länger als einen Monat über 95% bleiben. Dies wird zur Kenntnis genommen, eine Entscheidung dazu ist aber aktuell nicht notwendig.\n\n**TOP 3 Vorstellung neues Marketingkonzept für Produktlinie \"Delta\"**\n\nTW stellt das neue Marketingkonzept \"Delta Offensiv\" vor. Der Schwerpunkt liegt auf einer verstärkten Präsenz in B2B-Online-Kanälen sowie auf ausgewählten Fachmessen im kommenden Jahr. Das detaillierte Budget ist noch nicht final genehmigt, da die Finanzierungszusage von MB noch aussteht. Allerdings wurde die Agentur \"Kreativ & Klar\" bereits beauftragt, erste Mockups für die überarbeitete Produkt-Webseite zu erstellen. TW bittet um Feedback zum Gesamtkonzept bis Ende September.\n\n**TOP 4 Ergebnisse der Mitarbeiterbefragung**\n\nAS präsentiert die zentralen Ergebnisse der jährlichen Mitarbeiterbefragung. Die allgemeine Zufriedenheit im Unternehmen ist weiterhin hoch. Allerdings gibt es wiederholt Kritik an der Kommunikation von Management-Entscheidungen und den begrenzten individuellen Weiterbildungsmöglichkeiten. AS schlägt zwei Maßnahmen vor: Die Überarbeitung des internen Newsletters und die Einführung eines Pilotprojekts \"Weiterbildungsbudget pro Abteilung\". EM stimmt dem Pilotprojekt zu und bittet AS, bis zur nächsten Sitzung einen konkreten Plan dafür vorzulegen. Der Newsletter soll von TW und AS gemeinsam überarbeitet werden.\n\n**TOP 5 Planung der IT-Systemwartung am Wochenende**\n\nJR informiert über notwendige Wartungsarbeiten an der IT-Infrastruktur. Diese finden am kommenden Wochenende statt, beginnend am Samstag um 18:00 Uhr bis voraussichtlich Sonntag, 06:00 Uhr. Während dieser Zeit wird ausschließlich das ERP-System nicht verfügbar sein. Alle anderen Systeme (E-Mail, Intranet etc.) sind nicht betroffen. Eine Information an alle Mitarbeiterinnen und Mitarbeiter ist bereits per E-Mail erfolgt. Bei dringenden Notfällen während der Wartung ist JR direkt telefonisch erreichbar.\n\n**TOP 6 Sonstiges**\n\nEM weist auf das bevorstehende 20-jährige Firmenjubiläum im nächsten Monat (Oktober) hin. Ein kleines Planungskomitee (bestehend aus KB, AS, TW) wird in der nächsten Sitzung erste Ideen für eine Feier vorstellen. PK möchte kurz auf Qualitätsprobleme bei Lieferant X eingehen. EM bittet darum, dieses Thema in einem separaten Termin zwischen PK und KB zu klären, um den Zeitrahmen der heutigen Sitzung nicht zu sprengen. Die nächste Sitzung findet am 10. Oktober statt.",
+    "aufgaben_list": [
+        {
+            "frage": "Das letzte Protokoll",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "enthielt keine Fehler."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde mit einer kleinen Änderung genehmigt."
+                },
+                {
+                    "key": "c",
+                    "text": "muss grundlegend überarbeitet werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Produktionsauslastung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert sofortige Einstellung von Aushilfen."
+                },
+                {
+                    "key": "b",
+                    "text": "führt dauerhaft zu 5 Wochen Lieferzeit."
+                },
+                {
+                    "key": "c",
+                    "text": "liegt aktuell bei 95 Prozent."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das neue Marketingkonzept",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhaltet Online- und Messeaktivitäten."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde mit festem Budget beschlossen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird komplett von der Agentur \"Kreativ & Klar\" umgesetzt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Mitarbeiterbefragung ergab, dass",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Mitarbeiter insgesamt unzufrieden sind."
+                },
+                {
+                    "key": "b",
+                    "text": "die interne Kommunikation verbessert werden soll."
+                },
+                {
+                    "key": "c",
+                    "text": "bereits konkrete Weiterbildungsmaßnahmen laufen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die IT-Wartung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet während der normalen Arbeitszeit statt."
+                },
+                {
+                    "key": "b",
+                    "text": "alle IT-Systeme der Firma lahmlegen wird."
+                },
+                {
+                    "key": "c",
+                    "text": "betrifft am Wochenende das ERP-System."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

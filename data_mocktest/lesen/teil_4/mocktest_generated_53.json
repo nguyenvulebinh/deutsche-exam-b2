@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum 'Cloud', Hauptgebäude, Technologiepark 12, 98765 Digitalstadt\n\n**Anwesende:**\n*   Dr. Sabine Müller (SM, Geschäftsführung)\n*   Peter Kraus (PK, Leitung Entwicklung)\n*   Elena Petrova (EP, Leitung Marketing & Vertrieb)\n*   Jürgen Becker (JB, Leitung Finanzen & Controlling)\n*   Aylin Yilmaz (AY, Leitung Personalwesen)\n*   Chen Wang (CW, Leitung Kundenservice)\n*   Michael Schneider (MS, IT-Infrastruktur)\n\n**Entschuldigt:**\n*   Laura Berger (LB, Projektleitung 'Phoenix')\n\n**Sitzungsleitung:** Dr. Sabine Müller (SM)\n**Protokollant:** Michael Schneider (MS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.09.20XX\n2.  Rückblick Q3: Vertriebsergebnisse und Kundenzufriedenheit\n3.  Entwicklungs-Update: Projekt 'Phoenix' und 'OptiFlow v2.0'\n4.  Planung Q4: Marketing-Kampagnen und Budgetfreigabe\n5.  Interne Umstrukturierung: IT-Support\n6.  Sonstiges (u.a. Termin nächste Sitzung)\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.09.20XX**\n\nSM begrüßt die Anwesenden. Sie bittet um Anmerkungen zum Protokoll der letzten Sitzung. EP merkt an, dass unter TOP 4 ihr Nachname falsch geschrieben wurde („Petrov“ statt „Petrova“). Nach Zusage von MS, dies zu korrigieren, wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Rückblick Q3: Vertriebsergebnisse und Kundenzufriedenheit**\n\nEP präsentiert die Vertriebszahlen für das dritte Quartal. Insgesamt liegen die Umsätze 5% über Plan. Besonders erfreulich entwickelte sich der Absatz der neuen Software „OptiFlow v1.5“, die deutlich über den Erwartungen lag. Die Verkäufe von Beratungsleistungen im Umfeld des Projekts 'Phoenix' blieben hingegen leicht hinter den Zielen zurück. CW berichtet anschließend über die Kundenzufriedenheit. Die Umfragen zeigen eine hohe Gesamtzufriedenheit (Index 8.5/10). Kritisch angemerkt wurde von einigen Kunden jedoch die längere Wartezeit bei Supportanfragen per Telefon am Montagmorgen.\n\n**TOP 3 Entwicklungs-Update: Projekt 'Phoenix' und 'OptiFlow v2.0'**\n\nPK berichtet über den Stand der Entwicklungsprojekte. Das Projekt 'Phoenix' (strategische Neuausrichtung Kundenservice-Plattform) liegt aufgrund externer Abhängigkeiten bei einem Modullieferanten aktuell ca. zwei Wochen hinter dem ursprünglichen Zeitplan. Der Go-Live der ersten Phase ist nun für Mitte Dezember anvisiert. PK ist jedoch zuversichtlich, die Verzögerung teilweise aufholen zu können. Die Entwicklung von 'OptiFlow v2.0' (Nachfolgeprodukt) läuft planmäßig. Die interne Testphase beginnt wie geplant in der nächsten Woche. Der offizielle Release ist für Ende Q1 des Folgejahres vorgesehen.\n\n**TOP 4 Planung Q4: Marketing-Kampagnen und Budgetfreigabe**\n\nEP stellt die geplanten Marketingaktivitäten für Q4 vor. Der Schwerpunkt liegt auf einer Online-Kampagne zur Bewerbung von 'OptiFlow v2.0' bei Bestandskunden sowie gezielten Webinaren zur Neukundengewinnung im Mittelstand. JB bestätigt, dass das von EP beantragte Budget nach Prüfung der Wirtschaftlichkeit von SM vollständig genehmigt wurde. Die Kampagnen starten Anfang November.\n\n**TOP 5 Interne Umstrukturierung: IT-Support**\n\nMS informiert über die anstehende Neuorganisation des internen IT-Supports. Um die Effizienz zu steigern und Reaktionszeiten zu verkürzen, wird ab dem 1. November ein zentralisiertes Ticketsystem für alle Anfragen eingeführt. Der First-Level-Support wird dann von einem dedizierten Team übernommen, das direkt MS unterstellt ist. Eine Informationsveranstaltung für alle Mitarbeiter dazu findet am 28.10. statt. Gründe für die Umstellung sind das gestiegene Anfragevolumen und das Ziel, Fachexperten von Routineanfragen zu entlasten.\n\n**TOP 6 Sonstiges**\n\nAY erinnert an die anstehende Weihnachtsfeier am 15. Dezember und bittet um zeitnahe Anmeldung. SM schlägt als Termin für die nächste Sitzung den 20. November vor, was allgemeine Zustimmung findet. Weitere Punkte werden nicht angesprochen. SM schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "konnte wegen Einwänden nicht genehmigt werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "blieben alle Verkaufszahlen unter den Erwartungen."
+                },
+                {
+                    "key": "b",
+                    "text": "verkaufte sich eine neue Software besonders gut."
+                },
+                {
+                    "key": "c",
+                    "text": "waren die Kunden vor allem mit dem Telefonsupport zufrieden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Projekt 'Phoenix'",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "liegt derzeit etwas hinter dem Zeitplan."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von Frau Berger erfolgreich geleitet."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bereits in der ersten Phase live gegangen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Marketing-Kampagnen in Q4",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "können nur mit einem Teil des Budgets starten."
+                },
+                {
+                    "key": "b",
+                    "text": "wurden von der Finanzabteilung geplant."
+                },
+                {
+                    "key": "c",
+                    "text": "haben die Genehmigung für das beantragte Budget erhalten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Der IT-Support wird neu organisiert,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "weil die bisherigen Kosten zu hoch waren."
+                },
+                {
+                    "key": "b",
+                    "text": "um Anfragen effizienter bearbeiten zu können."
+                },
+                {
+                    "key": "c",
+                    "text": "indem er an eine externe Firma übergeben wird."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

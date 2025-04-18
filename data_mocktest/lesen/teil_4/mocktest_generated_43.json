@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Juli 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum \"Alpenblick\", ÖkoPlus GmbH, Talweg 5, 8XXXX Musterstadt\n\n**Anwesende:**\n*   Dr. Daniela Weber (DW, Geschäftsführung) - Sitzungsleitung\n*   Herr Stefan Meier (SM, Leitung Vertrieb)\n*   Frau Laura Schmidt (LS, Leitung Produktion)\n*   Herr Ben Fischer (BF, Leitung Marketing)\n*   Frau Anna Keller (AK, Leitung IT)\n*   Herr Thomas Graf (TG, Leitung Personal)\n*   Herr Markus Roth (MR, Leitung Finanzen) - Protokollant\n\n**Entschuldigt:** Frau Sabine Vogel (SV, Leitung Einkauf)\n**Gast:** Herr Jan Nowak (JN, Externer Berater - Nachhaltigkeit)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 14.06.20XX\n2.  Aktuelle Verkaufszahlen Q2 und Ausblick Q3\n3.  Projektstatus \"Neuer Online-Shop\"\n4.  Ergebnisse Mitarbeiterbefragung Arbeitszufriedenheit\n5.  Maßnahmen zur CO2-Reduzierung (Bericht JN)\n6.  Sonstiges (Planung Betriebsausflug)\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 14.06.20XX**\n\nDW begrüßt alle Anwesenden sowie den Gast Herrn Nowak. Sie bittet um Anmerkungen zum Protokoll der letzten Sitzung vom 14. Juni. MR merkt an, dass bei TOP 4 die Deadline für die Budgetplanung für Q3 auf Ende Juni korrigiert werden sollte, nicht Mitte Juni. Mit dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen Q2 und Ausblick Q3**\n\nSM präsentiert die Verkaufszahlen für das zweite Quartal. Insgesamt konnte ein Umsatzplus von 8% gegenüber dem ersten Quartal erzielt werden. Besonders die Produkte aus Recyclingpapier entwickelten sich sehr stark. Bei den biologisch abbaubaren Stiften gab es jedoch einen leichten Rückgang um ca. 3%. SM äußert sich bezüglich Q3 vorsichtig, da die steigenden Rohstoffpreise voraussichtlich zu Preisanpassungen führen müssen. \n*Beschluss:* BF wird beauftragt, bis Ende Juli eine Marketingaktion für die Stiftserie zu entwickeln, um den Absatz wieder zu steigern.\n\n**TOP 3 Projektstatus \"Neuer Online-Shop\"**\n\nAK berichtet über den Fortschritt des Projekts. Die Entwicklung liegt im Zeitplan. Der Launch des neuen Online-Shops ist weiterhin für Ende August 20XX geplant. Nächste Woche beginnt die Beta-Testing-Phase, an der ausgewählte Schlüsselkunden teilnehmen werden, um Feedback zu geben. AK informiert, dass das Budget durch unvorhergesehene Programmierarbeiten an einer Schnittstelle um ca. 5.000 € überschritten wurde.\n*Beschluss:* Die Budgetüberschreitung wird genehmigt.\n\n**TOP 4 Ergebnisse Mitarbeiterbefragung Arbeitszufriedenheit**\n\nTG stellt die zentralen Ergebnisse der kürzlich durchgeführten anonymen Mitarbeiterbefragung vor. Die allgemeine Arbeitszufriedenheit ist mit 85% Zustimmung erfreulich hoch. Als Verbesserungspotenziale wurden am häufigsten die interne Kommunikation (Informationsfluss zwischen Abteilungen) und erweiterte Weiterbildungsmöglichkeiten genannt.\n*Beschluss:* TG erarbeitet bis zur nächsten Sitzung konkrete Vorschläge für einen verbesserten internen Newsletter und ermittelt den spezifischen Weiterbildungsbedarf in den Abteilungen.\n\n**TOP 5 Maßnahmen zur CO2-Reduzierung (Bericht JN)**\n\nHerr Nowak (JN) präsentiert die Ergebnisse seiner Analyse zur CO2-Bilanz des Unternehmens. Er zeigt signifikante Einsparpotenziale auf. Insbesondere in der Logistik durch optimierte Routenplanung und bei der Gebäudeenergie durch eine Umrüstung auf LED-Beleuchtung in den Produktionshallen könnten erhebliche Reduzierungen erzielt werden.\n*Beschluss:* LS prüft umgehend Möglichkeiten zur Routenoptimierung für die Auslieferungsfahrzeuge. MR holt bis Ende Juli Angebote für die LED-Umrüstung ein.\n\n**TOP 6 Sonstiges (Planung Betriebsausflug)**\n\nDW schlägt vor, den jährlichen Betriebsausflug im September durchzuführen. Als Thema schlägt sie \"Team Building in der Natur\" vor, um den Zusammenhalt zu fördern. Sie bittet alle Abteilungsleiter, bis Ende dieser Woche Vorschläge für geeignete Orte oder Aktivitäten per E-Mail an sie zu senden.\n\nEnde der Sitzung: 10:28 Uhr\nNächste Sitzung: 09. August 20XX, 09:00 Uhr",
+    "aufgaben_list": [
+        {
+            "frage": "Die Verkaufsentwicklung im zweiten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "war bei allen Produkten positiv."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigte insgesamt ein Wachstum."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Herrn Meier als optimistisch eingeschätzt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der neue Online-Shop",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird ab nächster Woche von Kunden getestet."
+                },
+                {
+                    "key": "b",
+                    "text": "überschreitet das geplante Budget erheblich."
+                },
+                {
+                    "key": "c",
+                    "text": "kann erst im September starten."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Mitarbeiterbefragung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigte große Unzufriedenheit im Team."
+                },
+                {
+                    "key": "b",
+                    "text": "ergab keine Notwendigkeit für Verbesserungen."
+                },
+                {
+                    "key": "c",
+                    "text": "führte zu konkreten Arbeitsaufträgen für Herrn Graf."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Maßnahmen zur CO2-Reduzierung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhalten eine Prüfung der Transportwege."
+                },
+                {
+                    "key": "b",
+                    "text": "wurden bereits vollständig umgesetzt."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen bis Ende Juli abgeschlossen sein."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der Betriebsausflug",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet Ende dieser Woche statt."
+                },
+                {
+                    "key": "b",
+                    "text": "ist für September geplant."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Frau Dr. Weber allein organisiert."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

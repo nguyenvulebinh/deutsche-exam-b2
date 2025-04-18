@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Raum \"Kreativ\", Firmenzentrale, Industriestraße 5, 67890 Neustadt\n\n**Anwesende:**\n*   Dr. Klaus Berger (KB, Geschäftsführung)\n*   Simone Fischer (SF, Leitung Vertrieb)\n*   Jürgen Meyer (JM, Leitung Produktion)\n*   Elena Petrova (EP, Leitung Personal)\n*   Andreas Wolf (AW, Leitung IT)\n*   Nadja Klein (NK, Leitung Marketing)\n*   Bernd Scholz (BS, Leitung Finanzen)\n*   Lisa Schmidt (LS, Assistenz GF)\n\n**Sitzungsleitung:** Dr. Klaus Berger (KB)\n**Protokollantin:** Lisa Schmidt (LS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. August 20XX\n2.  Aktuelle Produktionsauslastung und Lieferzeiten\n3.  Einführung neue CRM-Software \"SalesFlow\"\n4.  Personalplanung Q4\n5.  Vorbereitung Herbstmesse Frankfurt\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. August 20XX**\n\nKB begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 15. August 20XX wird ohne Änderungen einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionsauslastung und Lieferzeiten**\n\nJM berichtet über die anhaltend hohe Nachfrage, welche die Produktionskapazitäten stark auslastet. Dies führt insbesondere bei der Komponente XZ-500 zu längeren Lieferzeiten als üblich. Nach kurzer Diskussion über mögliche Lösungen (Einstellung von Zeitarbeitskräften vs. Auslagerung eines Teils der Produktion) wird beschlossen, kurzfristig drei zusätzliche Zeitarbeitskräfte einzustellen. JM wird dies in Abstimmung mit EP umgehend organisieren.\n\n**TOP 3 Einführung neue CRM-Software \"SalesFlow\"**\n\nAW informiert, dass die neue CRM-Software \"SalesFlow\" letzte Woche erfolgreich eingeführt wurde. Eine verpflichtende Schulung für alle Mitarbeiterinnen und Mitarbeiter des Vertriebs ist für die erste Oktoberwoche angesetzt. AW erwähnt, dass es anfangs kleinere Probleme beim Login gab, die von der Marketingabteilung (NK) gemeldet, aber von der IT bereits behoben wurden. Eine Feedbackrunde zur Software ist für November geplant.\n\n**TOP 4 Personalplanung Q4**\n\nEP stellt die Personalplanung für das vierte Quartal vor. Es besteht Bedarf an zwei neuen Stellen: einer unbefristeten Stelle als Fachkraft in der Produktion und einer auf ein Jahr befristeten Stelle als Assistenz im Marketing. EP weist darauf hin, dass die Suche nach qualifizierten Fachkräften für die Produktion aktuell eine Herausforderung darstellt. Sie wird die Rekrutierungsmaßnahmen intensivieren, sowohl über Online-Stellenportale als auch durch die Beauftragung eines spezialisierten Headhunters.\n\n**TOP 5 Vorbereitung Herbstmesse Frankfurt**\n\nNK gibt ein Update zur Vorbereitung der Herbstmesse in Frankfurt (10.-12. November). Der Messestand ist gebucht. Das übergeordnete Thema lautet \"Innovation & Nachhaltigkeit\". NK bittet alle Abteilungsleiter, ihr bis Ende September Informationen zu relevanten Produkt-Highlights und Demonstrationen zukommen zu lassen. SF äußert Bedenken hinsichtlich einer ausreichenden personellen Besetzung des Messestandes. KB beauftragt daraufhin NK und EP, bis zur nächsten Sitzung einen detaillierten Plan für die Standbesetzung zu erarbeiten.\n\n**TOP 6 Sonstiges**\n\nBS erinnert alle Abteilungsleiter an die Abgabefrist für die Budgetplanung des kommenden Jahres: Diese ist der 31. Oktober. Weitere Punkte werden nicht angesprochen. KB bedankt sich für die Teilnahme und schließt die Sitzung pünktlich um 11:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Produktionsauslastung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird durch Auslagerung von Teilen verbessert."
+                },
+                {
+                    "key": "b",
+                    "text": "betrifft zurzeit alle Komponenten gleich stark."
+                },
+                {
+                    "key": "c",
+                    "text": "führt zur Einstellung von zusätzlichem Personal."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue CRM-Software",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird seit kurzem im Unternehmen genutzt."
+                },
+                {
+                    "key": "b",
+                    "text": "erforderte eine Problembehebung durch die Vertriebsabteilung."
+                },
+                {
+                    "key": "c",
+                    "text": "soll im Oktober von allen Mitarbeitern getestet werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Im Personalbereich",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden zwei unbefristete Stellen neu geschaffen."
+                },
+                {
+                    "key": "b",
+                    "text": "gibt es Schwierigkeiten bei der Besetzung einer Produktionsstelle."
+                },
+                {
+                    "key": "c",
+                    "text": "übernimmt Herr Meyer die Suche nach Fachkräften."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Herbstmesse",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert noch Informationen von den Abteilungen."
+                },
+                {
+                    "key": "b",
+                    "text": "findet Ende September in Frankfurt statt."
+                },
+                {
+                    "key": "c",
+                    "text": "wird personell bereits von Frau Petrova und Frau Klein geplant."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Laut Protokoll",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde das vorherige Protokoll in einem Punkt korrigiert."
+                },
+                {
+                    "key": "b",
+                    "text": "erinnert Frau Schmidt an die Budgetabgabe Ende Oktober."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen die Budgetplanungen bis Ende Oktober vorliegen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

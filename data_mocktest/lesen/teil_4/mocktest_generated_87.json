@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. April 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum 'Alpenblick', Firmenzentrale BüroTech GmbH, Musterstraße 1, 12345 Musterstadt\n\n**Anwesende:**\n*   Hanna Meier (HM, Geschäftsführung)\n*   Klaus Berger (KB, Leitung Einkauf)\n*   Simone Roth (SR, Leitung Verkauf)\n*   Lars Jensen (LJ, Leitung Produktion)\n*   David Chen (DC, Leitung IT)\n*   Eva Klein (EK, Leitung Personal)\n*   Martin Wolf (MW, Leitung Marketing)\n\n**Sitzungsleitung:** Hanna Meier (HM)\n**Protokollantin:** Eva Klein (EK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Verkaufszahlen Q1 & Ausblick Q2\n3.  Neues CRM-System: Stand der Planung\n4.  Weiterbildungskonzept für Mitarbeitende\n5.  Energieeinsparungspotenziale\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nHM begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der letzten Sitzung vom 15. März 20XX lag allen vor. Es gibt keine Änderungswünsche. Das Protokoll wird einstimmig genehmigt.\n\n**TOP 2 Verkaufszahlen Q1 & Ausblick Q2**\n\nSR präsentiert die Verkaufszahlen für das erste Quartal. Die Zahlen sind erfreulich und lagen leicht über dem Plan (+3%). Insbesondere die neue Serie ergonomischer Schreibtische hat sich sehr gut verkauft und maßgeblich zu diesem Ergebnis beigetragen. Die Auftragseingänge für das zweite Quartal sind stabil, SR gibt einen vorsichtig optimistischen Ausblick und erwartet ein Ergebnis auf Planniveau für Q2. HM dankt SR und ihrem Team für die gute Arbeit.\n\n**TOP 3 Neues CRM-System: Stand der Planung**\n\nDC berichtet über den aktuellen Stand bei der Suche nach einem neuen Customer-Relationship-Management (CRM)-System. Nach einer ersten Marktanalyse wurden drei Anbieter in die engere Wahl genommen. DC stellt die Hauptfunktionen und Kostenmodelle der drei Systeme kurz vor. Ziel ist es, die Kundenbetreuung effizienter zu gestalten und die Vertriebsprozesse besser zu unterstützen. DC wird beauftragt, bis zur nächsten Sitzung im Mai eine detaillierte Vergleichsanalyse und eine klare Empfehlung vorzulegen. Auf dieser Basis soll dann die Entscheidung getroffen werden. KB weist auf die Wichtigkeit einer guten Datenmigration hin.\n\n**TOP 4 Weiterbildungskonzept für Mitarbeitende**\n\nEK spricht die Notwendigkeit an, die Weiterbildung im Unternehmen strategischer zu planen. Bisher gab es eher Einzelmaßnahmen. Insbesondere im Bereich Projektmanagement und interkulturelle Kommunikation bestehe Bedarf. EK wird beauftragt, bis Ende Juni ein Konzept für ein unternehmensweites Weiterbildungsprogramm zu erarbeiten. Das Konzept soll Vorschläge zu Inhalten, Formaten (Präsenz/Online) und möglichen Kosten enthalten. Über das Budget wird erst nach Vorlage des Konzepts entschieden.\n\n**TOP 5 Energieeinsparungspotenziale**\n\nKB berichtet über die gestiegenen Energiekosten. Er sieht Potenzial für Einsparungen, insbesondere bei der Beleuchtung in den Produktionshallen und Lagerräumen sowie bei den Heizungsanlagen in den Verwaltungsgebäuden. Konkrete Maßnahmen wurden noch nicht festgelegt. KB soll bis zur Julisitzung prüfen, ob durch den Einsatz von LED-Technologie oder die Optimierung der Heizungssteuerung signifikante Einsparungen erzielt werden können und welche Investitionen dafür notwendig wären. LJ bietet Unterstützung bei der Analyse in der Produktion an.\n\n**TOP 6 Sonstiges**\n\nHM schlägt vor, in diesem Jahr wieder ein Sommerfest für die Belegschaft zu organisieren, eventuell Mitte Juli. Um die Organisation zu stemmen, regt sie an, ein kleines Organisationsteam aus Freiwilligen verschiedener Abteilungen zu bilden. Interessierte sollen sich bis zur nächsten Sitzung bei EK melden. MW bietet Unterstützung seitens des Marketings für Einladungen etc. an. Weitere Punkte unter Sonstiges gibt es nicht. HM schließt die Sitzung pünktlich um 11:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Verkaufszahlen im ersten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "waren schlechter als im Vorjahresquartal."
+                },
+                {
+                    "key": "b",
+                    "text": "lagen über den Erwartungen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden hauptsächlich durch Bürostühle gesteigert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird nächsten Monat ausgewählt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird bereits von der IT-Abteilung installiert."
+                },
+                {
+                    "key": "c",
+                    "text": "soll die Produktionskosten senken."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Weiterbildungskonzept",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist für alle Mitarbeitenden verpflichtend."
+                },
+                {
+                    "key": "b",
+                    "text": "konzentriert sich ausschließlich auf IT-Kenntnisse."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von der Personalabteilung entwickelt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Maßnahmen zur Energieeinsparung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurden bereits konkret für die Beleuchtung beschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen von Herrn Berger geprüft werden."
+                },
+                {
+                    "key": "c",
+                    "text": "sind für das laufende Jahr nicht mehr geplant."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das geplante Sommerfest",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "braucht noch ein Organisationsteam."
+                },
+                {
+                    "key": "b",
+                    "text": "findet definitiv im Juli statt."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von der Marketingabteilung organisiert."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

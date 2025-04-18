@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Raum \"Innovationspark\", Müller-Straße 1, 12345 Neustadt\n\n**Anwesende:**\n*   Herr Peter Schmitz (PS, Geschäftsführung)\n*   Frau Anja Weber (AW, Leitung Vertrieb)\n*   Herr Klaus Richter (KR, Leitung Produktion)\n*   Frau Lena Bauer (LB, Leitung Marketing)\n*   Herr Sven Erikson (SE, Leitung IT)\n*   Frau Petra Müller (PM, Leitung Personal)\n*   Herr Jens Hoffmann (JH, Leitung Finanzen)\n\n**Entschuldigt:** Leitung Einkauf\n\n**Sitzungsleitung:** Herr Peter Schmitz (PS)\n**Protokollant:** Herr Jens Hoffmann (JH)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls der letzten Sitzung vom 15.08.20XX\n2.  Aktuelle Verkaufszahlen Q3 & Ausblick Q4\n3.  Stand Projekt \"CRM-Einführung\"\n4.  Personalsituation: Neueinstellungen & Weiterbildung\n5.  Marketingkampagne \"Grüne Welle\"\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls der letzten Sitzung vom 15.08.20XX**\n\nPS begrüßt die Anwesenden zur heutigen Sitzung. Er bittet um Genehmigung des Protokolls vom 15.08. Frau Weber weist darauf hin, dass unter TOP 4 das Datum für den Start der Vertriebsschulung fälschlicherweise mit 01.09. statt 10.09. angegeben war. Nach dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen Q3 & Ausblick Q4**\n\nAW berichtet über die Verkaufszahlen des dritten Quartals. Insgesamt zeigt sich eine positive Entwicklung, die über den Planungen liegt. Eine Ausnahme bildet jedoch die Produktlinie \"EcoBox Standard\", deren Verkaufszahlen leicht rückläufig waren (-3% im Vergleich zum Vorquartal). Für das vierte Quartal wird ein ambitioniertes Wachstumsziel von +15% über alle Produktlinien angestrebt. Es wird beschlossen, dass das Vertriebsteam gezielte Maßnahmen zur Förderung der \"EcoBox Standard\" entwickeln soll.\n\n**TOP 3 Stand Projekt \"CRM-Einführung\"**\n\nSE informiert über den aktuellen Stand des CRM-Projekts. Die Phase 1, die Datenmigration aus dem Altsystem, konnte erfolgreich und termingerecht abgeschlossen werden. Ab nächster Woche beginnt Phase 2, die Schulungen der Mitarbeiterinnen und Mitarbeiter. Erste informelle Rückmeldungen deuten jedoch auf eine gewisse Skepsis und geringe Akzeptanz bei einigen zukünftigen Nutzern hin. PS beauftragt SE und PM gemeinsam, zusätzliche Informationsmaterialien und Support-Angebote zu entwickeln, um die Akzeptanz zu fördern.\n\n**TOP 4 Personalsituation: Neueinstellungen & Weiterbildung**\n\nPM berichtet, dass zum 1. Oktober zwei neue Mitarbeiterinnen ihre Tätigkeit aufnehmen werden: eine im Marketing und eine in der Produktion. Aktuell sind jedoch noch drei Stellen unbesetzt (Vertrieb, IT, Qualitätsmanagement). PM informiert außerdem, dass das Budget für eine umfassende IT-Sicherheitsschulung für alle Mitarbeitenden genehmigt wurde. Diese Schulung soll im Laufe des vierten Quartals stattfinden.\n\n**TOP 5 Marketingkampagne \"Grüne Welle\"**\n\nLB stellt das Konzept für die neue Marketingkampagne \"Grüne Welle\" vor, die das Nachhaltigkeitsengagement der Firma stärker kommunizieren soll. Der Fokus liegt auf Online-Marketing und Social-Media-Aktivitäten. Ein Budget von 50.000 € wurde hierfür freigegeben. Der Start der Kampagne ist für Mitte Oktober geplant. KR äußert Bedenken, ob die Produktionskapazitäten ausreichen, falls die Kampagne sehr erfolgreich wird und die Nachfrage stark ansteigt. Es wird vereinbart, dass LB und KR sich eng abstimmen, um die Produktionsplanung an die erwartete Nachfrage anzupassen.\n\n**TOP 6 Sonstiges**\n\nPS erinnert an die bevorstehende \"Verpackungsmesse\" in Nürnberg im November. Er bittet AW und LB, das Konzept für den Messestand bis Ende September fertigzustellen und ihm zur finalen Freigabe vorzulegen. Weitere Punkte werden nicht angesprochen. PS schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 15.08.",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte noch nicht genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde mit einer Korrektur genehmigt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Verkaufszahlen im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "waren bei einem Produkt rückläufig."
+                },
+                {
+                    "key": "b",
+                    "text": "entsprachen nicht den Erwartungen der Leitung."
+                },
+                {
+                    "key": "c",
+                    "text": "führten zu einer Reduzierung des Q4-Ziels."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das neue CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat zu technischen Problemen geführt."
+                },
+                {
+                    "key": "b",
+                    "text": "soll nächste Woche dem Personal vorgestellt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bereits in allen Abteilungen im Einsatz."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Im Personalbereich",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "gibt es mehr offene Stellen als Neueinstellungen."
+                },
+                {
+                    "key": "b",
+                    "text": "beginnen demnächst fünf neue Mitarbeiter."
+                },
+                {
+                    "key": "c",
+                    "text": "wird die IT-Schulung nur für neue Mitarbeiter angeboten."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Marketingkampagne \"Grüne Welle\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von der Produktionsleitung grundsätzlich kritisiert."
+                },
+                {
+                    "key": "b",
+                    "text": "startet Ende September."
+                },
+                {
+                    "key": "c",
+                    "text": "könnte laut Herrn Richter die Produktion überlasten."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

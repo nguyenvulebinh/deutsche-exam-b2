@@ -1,0 +1,96 @@
+{
+    "meeting_note": "## Protokoll\n\n**19. Februar 20XX, 10.00–11.45 Uhr**\n**Konferenzraum 7, Ort: Neuburger Allee 28, 87341 Ballhausen**\n\n**Anwesende:**\n*   Maria Loppinet (ML, Geschäftsführung)\n*   Lukas Meier (LM, Leitung Einkauf)\n*   Magda Nauner (MN, Leitung Personal)\n*   Gert Schrader (GS, Leitung Produktion)\n*   Peter Schuldt (PS, Leitung Verkauf)\n*   Katja Stevens (KS, Leitung Qualitätskontrolle)\n*   Volha Schäfer (VS, Leitung Finanzen)\n*   Gast: Wanda Lubic (WL, IT-Beauftragte)\n\n**Sitzungsleitung:** Magda Nauner\n**Protokollantin:** Volha Schäfer\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Stand des Projekts „Fertigungsanlage“\n3.  Berichte\n4.  Neue Mitarbeiterinnen und Mitarbeiter\n5.  Update der Software\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nMN begrüßt Frau Loppinet und alle Leiterinnen und Leiter zur heutigen Sitzung. Sie bittet um Genehmigung des Protokolls der letzten Sitzung. Nach Handzeichen wird das Protokoll der Sitzung vom 15.01. ohne weitere Änderungen und Ergänzungen einstimmig genehmigt.\n\n**TOP 2 Stand des Projekts „Fertigungsanlage“**\n\nLM gibt einen Überblick zum Projekt „Fertigungsanlage“. Er berichtet über den Auftrag an eine Firma aus Italien, die bereits ähnliche Anlagen hergestellt und aufgebaut hat. Die italienische Firma kommt nächsten Monat, um sich vor Ort ein Bild von unseren Werkshallen II und IV zu machen, wo die Anlage stehen soll. Der genaue Termin steht noch nicht fest. Wenn Werkshalle II oder IV als geeignet erscheint, wird unmittelbar mit der Herstellung der Fertigungsanlage in Italien begonnen. Die Montage der Anlage ist dann einige Monate später. Wie geplant soll die neue Fertigungsanlage im folgenden Frühjahr betriebsbereit sein. Sollte keine der beiden Werkshallen für den Aufbau der Fertigungsanlage groß genug sein, müssten wir zuerst eine komplett neue Werkshalle auf dem südlichen Werksgelände errichten lassen. Dadurch könnte sich die Inbetriebnahme einer neuen Fertigungsanlage um mindestens 8 bis 9 Monate verschieben.\n\n**TOP 3 Berichte**\n\nGS berichtet über die ohne große Probleme laufende Produktion der Metallkästen und Metallgehäuse, die sehr nachgefragt sind. Bei noch größerer Nachfrage nach Metallgehäusen könnte jedoch die derzeitige Fertigungsanlage nicht ausreichen. GS freut sich daher über die Planung einer neuen Fertigungsanlage.\n\nPS legt neue Verkaufszahlen vor, die im letzten Quartal 20 Prozent über dem vergleichbaren Quartal des Vorjahrs liegen. Besonders die Metallgehäuse für den Hochbau zeigen sehr gute Verkaufszahlen. PS erwähnt hier einen großen Auftrag aus Kasachstan, der für das hohe Auftragsvolumen ausschlaggebend ist.\n\n**TOP 4 Neue Mitarbeiterinnen und Mitarbeiter**\n\nMN nennt die Namen von fünf neuen Mitarbeiterinnen und Mitarbeitern, drei Frauen und zwei Männern, die ab dem 1. des Monats im Betrieb in Vollzeit tätig sind.\n\n**TOP 5 Update der Software**\n\nWL spielt am kommenden Freitag ab 19 Uhr ein Software-Update auf unser Computersystem. Daher darf am Freitag ab 19 Uhr niemand am Computer arbeiten.\nDie leicht überarbeitete Software hat einige Neuerungen. Allen Mitarbeiterinnen und Mitarbeitern werden diese Neuerungen in einem halbtägigen Info-Workshop demonstriert. Es wird zeitversetzte Workshops geben. Die Termine dafür werden noch bekannt gegeben.\n\n**TOP 6 Sonstiges**\n\nML berichtet über den Stand der Planung eines Sommerfests, das etwas größer als in den vergangenen Jahren sein soll. Alle wichtigen Kunden und großen Lieferanten werden eingeladen. ML bittet alle Leiterinnen und Leiter, sich den 31. Juli freizuhalten. Der Ort steht auch schon fest. ML möchte ihn aber noch nicht nennen. Es soll eine Überraschung für alle sein, da der 31. Juli auch ihr 60. Geburtstag ist, den sie mit allen feiern möchte.",
+    "aufgaben_list": [
+      {
+        "frage": "Das Protokoll",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "der letzten Sitzung ist nach Überarbeitung genehmigt."
+          },
+          {
+            "key": "b",
+            "text": "nennt die Teilnehmer der Januar-Sitzung."
+          },
+          {
+            "key": "c",
+            "text": "wird heute von Frau Schäfer geschrieben."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Die neue Fertigungsanlage",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "kommt in die Werkshalle IV."
+          },
+          {
+            "key": "b",
+            "text": "steht in einem Neubau."
+          },
+          {
+            "key": "c",
+            "text": "wird in Italien gebaut."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Metallkästen und Metallgehäuse",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "lassen sich nur in Deutschland verkaufen."
+          },
+          {
+            "key": "b",
+            "text": "sind eine Belastung für die Produktion."
+          },
+          {
+            "key": "c",
+            "text": "zeigen steigende Verkaufszahlen."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Das Update der Software",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "erfordert ein neues Computersystem."
+          },
+          {
+            "key": "b",
+            "text": "schließt einen eintägigen Workshop mit ein."
+          },
+          {
+            "key": "c",
+            "text": "wird am Freitag installiert."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Die Geschäftsführerin",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "berichtet über Ort und Termin eines Sommerfests."
+          },
+          {
+            "key": "b",
+            "text": "erwartet eine genaue Planung des Sommerfests."
+          },
+          {
+            "key": "c",
+            "text": "möchte zum Sommerfest Kunden und Lieferanten einladen."
+          }
+        ],
+        "loesung": "c"
+      }
+    ]
+}
+  

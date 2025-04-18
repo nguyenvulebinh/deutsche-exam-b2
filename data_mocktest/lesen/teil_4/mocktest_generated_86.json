@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Juni 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum 'Alpenblick', Firmenzentrale, Ökostraße 5, 80331 München\n\n**Anwesende:**\n*   Dr. Klaus Weber (KW, Geschäftsführung)\n*   Sabine Meyer (SM, Projektleitung Nachhaltigkeit)\n*   Ursula Brandt (UB, Leitung Personal)\n*   Felix Richter (FR, Leitung IT)\n*   Lena Hauser (LH, Leitung Marketing)\n*   Anja Schmidt (AS, Assistenz GF)\n\n**Entschuldigt:**\n*   Herr Bäumer (HB, Leitung Vertrieb)\n\n**Sitzungsleitung:** Dr. Klaus Weber (KW)\n**Protokollantin:** Anja Schmidt (AS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Projektstatus \"Grünes Dach Initiative\"\n3.  Personalsituation und Fortbildungsbedarf\n4.  Einführung der neuen CRM-Software\n5.  Planung \"Tag der offenen Tür\"\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nKW begrüßt die Anwesenden zum Monatsmeeting. Das Protokoll der letzten Sitzung vom 15. Mai wird zur Genehmigung vorgelegt. UB merkt an, dass unter TOP 4 das Budget für die externe Schulung korrigiert werden musste, was nun erfolgt ist. Mit dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Projektstatus \"Grünes Dach Initiative\"**\n\nSM berichtet über das Leuchtturmprojekt \"Grünes Dach Initiative\" für den Kunden Stadtwerke Grünburg. Die Installation der Basissysteme verläuft planmäßig. Allerdings gibt es Lieferschwierigkeiten bei der Firma GrünTec bezüglich der benötigten Spezialerde, was die Bepflanzung eines Teilbereichs um voraussichtlich zwei Wochen verzögert. SM ist jedoch zuversichtlich, dass der Gesamtfertigstellungstermin Ende August gehalten werden kann. Nächste Woche findet ein Abstimmungsgespräch mit den Stadtwerken statt.\n\n**TOP 3 Personalsituation und Fortbildungsbedarf**\n\nUB informiert über die aktuelle Personalsituation. Die Stelle des „Junior Beraters Nachhaltigkeit“ ist trotz intensiver Suche weiterhin unbesetzt. Es gab zwar Bewerbungen, aber keine passende Qualifikation. Alle anderen offenen Stellen konnten besetzt werden. Ab September startet das neue interne Fortbildungsprogramm \"Projektmanagement-Zertifizierung\". Die Teilnahme ist für alle Projektleiterinnen und Projektleiter verpflichtend, für andere interessierte Mitarbeitende ist sie optional möglich. Die Anmeldung läuft bis Ende Juli.\n\n**TOP 4 Einführung der neuen CRM-Software**\n\nFR gibt ein Update zur Implementierung der neuen Customer-Relationship-Management (CRM) Software. Die technische Einführung ist fast abgeschlossen. Es treten noch kleinere Probleme bei der Datenmigration aus dem Altsystem auf, speziell bei den Kontakthistorien von Altkunden. FR versichert, dass diese bis zum geplanten Go-Live am 1. Juli behoben sein werden. In der letzten Juniwoche finden verpflichtende Anwenderschulungen für alle Mitarbeitenden mit Kundenkontakt statt. Die genauen Termine werden per E-Mail bekannt gegeben.\n\n**TOP 5 Planung \"Tag der offenen Tür\"**\n\nLH stellt das Konzept für den \"Tag der offenen Tür\" vor, der am Samstag, den 15. September stattfinden soll. Hauptziele sind die Steigerung der lokalen Bekanntheit der EcoConsult GmbH sowie die Gewinnung von potenziellen Auszubildenden und Praktikanten. Geplant sind Führungen durch die Büros, Kurzvorträge zu Nachhaltigkeitsthemen und ein kleiner Workshop für Kinder. Das vorgeschlagene Budget benötigt noch die finale Freigabe durch KW. LH betont, dass für die Durchführung des Tages Unterstützung durch Personal aus allen Abteilungen benötigt wird und bittet um entsprechende Planung.\n\n**TOP 6 Sonstiges**\n\nKW spricht die Reisekosten an. Eine Auswertung hat ergeben, dass diese im Vergleich zum Vorjahreszeitraum um 15% gestiegen sind, vor allem durch vermehrte Flugreisen auf Kurzstrecken. Nach kurzer Diskussion wird beschlossen, die Reisekostenrichtlinie anzupassen: Für Dienstreisen unter 500 km Entfernung ist ab dem 1. August grundsätzlich die Bahn zu nutzen. Ausnahmen müssen vorab von der Geschäftsführung genehmigt werden. AS wird die aktualisierte Richtlinie im Intranet veröffentlichen. KW beendet die Sitzung pünktlich um 11:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste wegen einer Budgetfrage korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt Fehler bei den Teilnehmerlisten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Projekt \"Grünes Dach Initiative\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "liegt trotz Lieferproblemen im Zeitplan."
+                },
+                {
+                    "key": "b",
+                    "text": "wird sich wegen Problemen mit GrünTec verzögern."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt eine neue Spezialerde von einem anderen Lieferanten."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neue CRM-Software",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "funktioniert bereits problemlos im gesamten Unternehmen."
+                },
+                {
+                    "key": "b",
+                    "text": "hat vor allem Probleme bei neuen Kundenkontakten."
+                },
+                {
+                    "key": "c",
+                    "text": "wird ab Juli genutzt und erfordert Schulungen Ende Juni."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Der \"Tag der offenen Tür\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll vor allem Auszubildende und die lokale Gemeinschaft ansprechen."
+                },
+                {
+                    "key": "b",
+                    "text": "findet statt, sobald das Budget genehmigt ist."
+                },
+                {
+                    "key": "c",
+                    "text": "wird hauptsächlich vom Marketing-Team organisiert und betreut."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Reisekostenregelung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erlaubt Flugreisen nur noch unter 500 km."
+                },
+                {
+                    "key": "b",
+                    "text": "wird geändert, weil die Kosten gestiegen sind."
+                },
+                {
+                    "key": "c",
+                    "text": "tritt sofort nach der Sitzung in Kraft."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

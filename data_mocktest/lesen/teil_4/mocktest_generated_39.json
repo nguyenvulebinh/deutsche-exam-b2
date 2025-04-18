@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum \"Weitblick\", Medienallee 5, 10117 Berlin\n\n**Anwesende:**\n*   Dr. Hanna Klein (HK, Geschäftsführung)\n*   Markus Weber (MW, Leitung Redaktion)\n*   Sabine Richter (SR, Leitung Digitalstrategie)\n*   Jens Friedrich (JF, Leitung Marketing & Vertrieb)\n*   Klaus Meyer (KM, Leitung Personal)\n*   Anna Vogel (AV, Leitung Finanzen)\n*   Tim Schulze (TS, Assistenz)\n\n**Entschuldigt:** Laura Brandt (LB, Leitung Vertrieb)\n\n**Sitzungsleitung:** Dr. Hanna Klein (HK)\n**Protokollant:** Tim Schulze (TS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 14.09.20XX\n2.  Projektstand \"Digital Plus\" Abo-Modell\n3.  Marketingkampagne für \"Digital Plus\"\n4.  Auswertung Quartalszahlen Q3 Print/Digital\n5.  Personalsituation Redaktion Politik\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 14.09.20XX**\n\nHK begrüßt die Teilnehmerinnen und Teilnehmer. Sie fragt nach Anmerkungen zum Protokoll der letzten Sitzung vom 14. September. MW merkt an, dass in TOP 4 der Name eines externen Partners falsch geschrieben wurde. Nach Berücksichtigung dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Projektstand \"Digital Plus\" Abo-Modell**\n\nSR berichtet über den Fortschritt des Projekts \"Digital Plus\". Die technische Entwicklung der Plattform liegt im Zeitplan. Als Ziel für den Launch wird weiterhin das erste Quartal des kommenden Jahres angestrebt, ein genauer Termin steht jedoch noch nicht fest. Die Definition der exklusiven Inhalte für Abonnenten ist noch in Arbeit. Über das Preismodell wurde intensiv diskutiert, eine endgültige Entscheidung hierzu steht aber noch aus und soll in einer separaten Runde getroffen werden.\n\n**TOP 3 Marketingkampagne für \"Digital Plus\"**\n\nJF stellt den Entwurf der Marketingstrategie zur Einführung von \"Digital Plus\" vor. Der Fokus liegt klar auf Online-Marketingkanälen, insbesondere Social Media Kampagnen und Suchmaschinenwerbung. Ein detaillierter Budgetrahmen wurde präsentiert. Dieser muss jedoch noch final von der Finanzabteilung, also AV, geprüft und freigegeben werden. Geplanter Start der ersten Marketingmaßnahmen ist Anfang November, um frühzeitig Interesse zu wecken.\n\n**TOP 4 Auswertung Quartalszahlen Q3 Print/Digital**\n\nDa LB krankheitsbedingt fehlt, übernimmt JF die Präsentation der Verkaufszahlen für das dritte Quartal. Die Verkäufe im Printbereich sind erwartungsgemäß leicht um 8% zurückgegangen. Demgegenüber steht ein erfreuliches Wachstum bei den digitalen Abonnements von 15%. Insgesamt konnte der Umsatz dadurch auf Vorjahresniveau gehalten bzw. sogar leicht gesteigert werden. AV bestätigt, dass die finanzielle Gesamtentwicklung damit im Rahmen der Planungen liegt.\n\n**TOP 5 Personalsituation Redaktion Politik**\n\nM W schildert die angespannte Situation im Politik-Ressort der Redaktion aufgrund des hohen Arbeitsaufkommens, besonders durch die aktuelle Nachrichtenlage. KM informiert daraufhin, dass die Geschäftsführung der Schaffung von zwei zusätzlichen Redakteursstellen für diesen Bereich zugestimmt hat. Der Rekrutierungsprozess wurde bereits eingeleitet. Man hofft, die neuen Kolleginnen oder Kollegen im Januar oder Februar nächsten Jahres begrüßen zu können.\n\n**TOP 6 Sonstiges**\n\nHK weist kurz auf die anstehende Planung der jährlichen Weihnachtsfeier hin. Datum und Ort sind noch offen. Sie bittet darum, Vorschläge für ein mögliches Motto oder Thema der Feier bis Ende Oktober per E-Mail an TS zu senden. Weitere Punkte werden nicht angesprochen. HK beendet die Sitzung pünktlich um 11:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt Fehler bei den Teilnehmerangaben."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue \"Digital Plus\" Abo",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird noch in diesem Jahr eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "hat bereits ein festes Preismodell."
+                },
+                {
+                    "key": "c",
+                    "text": "soll im ersten Quartal des nächsten Jahres starten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Marketingkampagne",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "braucht noch die finanzielle Freigabe."
+                },
+                {
+                    "key": "b",
+                    "text": "konzentriert sich hauptsächlich auf Printwerbung."
+                },
+                {
+                    "key": "c",
+                    "text": "beginnt erst nach dem Start von \"Digital Plus\"."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Verkaufsentwicklung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von der erkrankten Vertriebsleiterin präsentiert."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigt steigende Zahlen im digitalen Bereich."
+                },
+                {
+                    "key": "c",
+                    "text": "ist insgesamt stark rückläufig."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Personalplanung für die Redaktion",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits abgeschlossen worden."
+                },
+                {
+                    "key": "b",
+                    "text": "betrifft alle Abteilungen des Verlags."
+                },
+                {
+                    "key": "c",
+                    "text": "sieht zwei neue Stellen für Redakteure vor."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

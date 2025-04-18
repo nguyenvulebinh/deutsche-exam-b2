@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. April 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Konferenzraum „Wald“, Firmenzentrale, Ökostraße 5, 80999 München\n\n**Anwesende:**\n*   Dr. Lena Weber (LW, Geschäftsführung)\n*   Markus Scholz (MS, Leitung Verkauf)\n*   Sabine Richter (SR, Leitung Produktion)\n*   Thomas Graf (TG, Leitung Marketing)\n*   Anna Bauer (AB, Leitung Personal)\n*   David Klein (DK, Leitung Finanzen)\n*   Julia Fink (JF, Leitung IT)\n*   Gast: Dr. Peter Grün (PG, Nachhaltigkeitsberater)\n\n**Sitzungsleitung:** Dr. Lena Weber (LW)\n**Protokollant:** David Klein (DK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.03.20XX\n2.  Vertriebsergebnisse Q1 und Nachhaltigkeits-Audit\n3.  Projektstand „ErgoFlex“-Produktlinie\n4.  Einführung neues CRM-System\n5.  Vorbereitung Messe „Grüne Woche Büro“\n6.  Sonstiges: Mitarbeiterzufriedenheit\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.03.20XX**\n\nLW begrüßt alle Anwesenden sowie den Gast Dr. Grün zur heutigen Sitzung. Sie bittet um Genehmigung des Protokolls der letzten Sitzung vom 15. März. Nach kurzer Diskussion wird das Protokoll mit einer kleinen Korrektur bei der Liste der Teilnehmenden einstimmig genehmigt.\n\n**TOP 2 Vertriebsergebnisse Q1 und Nachhaltigkeits-Audit**\n\nMS präsentiert die Verkaufszahlen des ersten Quartals. Der Umsatz konnte im Vergleich zum Vorjahresquartal um 8% gesteigert werden. Das gesetzte Ziel von 10% wurde damit knapp verfehlt. Als Hauptgrund identifiziert MS eine unerwartete Lieferverzögerung beim Hauptlieferanten für Buchenholz, der Waldholz AG. PG berichtet anschließend über die Ergebnisse des jährlichen Nachhaltigkeits-Audits. Der CO2-Fußabdruck des Unternehmens konnte um 5% reduziert werden, womit das interne Ziel von 7% nicht ganz erreicht wurde. Positiv hervorgehoben wurden jedoch die neuen Recyclingverfahren in der Produktion. DK wird beauftragt zu prüfen, ob gegenüber der Waldholz AG aufgrund der Lieferverzögerung Schadensersatzansprüche geltend gemacht werden können.\n\n**TOP 3 Projektstand „ErgoFlex“-Produktlinie**\n\nSR berichtet über den Fortschritt bei der Entwicklung der neuen ergonomischen Bürostuhl-Linie „ErgoFlex“. Die Prototypen sind fertiggestellt und die internen Belastungstests wurden erfolgreich abgeschlossen. Der Start der Serienproduktion ist nun fest für die Kalenderwoche 20 geplant. TG informiert, dass die Marketingmaterialien, einschließlich der Produktbroschüren und der Online-Kampagne, in der finalen Entwicklungsphase sind. Eine endgültige Freigabe der Materialien durch LW ist bis spätestens 30.04. erforderlich, um den Zeitplan einzuhalten. Als primäre Zielgruppe für die Markteinführung wurden Großkunden im Gesundheitswesen (Kliniken, Arztpraxen) definiert.\n\n**TOP 4 Einführung neues CRM-System**\n\nJF stellt den aktuellen Stand zur Einführung des neuen Customer-Relationship-Management-Systems „ConnectFlow“ vor. Das System soll die Kundendatenverwaltung zentralisieren und die Prozesse im Vertrieb und Marketing optimieren. Der geplante Go-Live-Termin ist der 01. Juni 20XX. Um einen reibungslosen Übergang zu gewährleisten, werden ab Mitte Mai verpflichtende Schulungen für alle Mitarbeiterinnen und Mitarbeiter im Vertrieb (Team MS) und Marketing (Team TG) stattfinden. Die Organisation und Durchführung der Schulungen liegt in der Verantwortung von JF und ihrem IT-Team. JF weist darauf hin, dass das Modul für Service- und Support-Tickets erst in einer zweiten Phase, voraussichtlich im Herbst, implementiert wird.\n\n**TOP 5 Vorbereitung Messe „Grüne Woche Büro“**\n\nDie Teilnahme an der Fachmesse „Grüne Woche Büro“, die vom 10. bis 12. Juli in Berlin stattfindet, wird besprochen. TG präsentiert das entworfene Standkonzept, welches einen klaren Fokus auf die neue „ErgoFlex“-Linie und die Nachhaltigkeitsbemühungen des Unternehmens legt. Der Standbau wird durch die externe Firma „Messebau Schnell“ realisiert. TG ist verantwortlich für die Planung der Standbesetzung und die Koordination des Messepersonals. Als konkretes Ziel für die Messe wird die Generierung von mindestens 50 qualifizierten Business-Leads festgelegt.\n\n**TOP 6 Sonstiges: Mitarbeiterzufriedenheit**\n\nAB stellt die zentralen Ergebnisse der kürzlich durchgeführten anonymen Mitarbeiterumfrage vor. Die allgemeine Zufriedenheit im Unternehmen ist weiterhin auf einem hohen Niveau. Jedoch wurde von vielen Mitarbeitenden kritisiert, dass die interne Kommunikation, insbesondere zwischen den Abteilungen, verbessert werden könnte. Als eine erste Maßnahme schlägt AB die Einführung eines monatlichen, digitalen Firmen-Newsletters vor. LW begrüßt den Vorschlag. TG wird gebeten, bis zur nächsten Sitzung ein konkretes Konzept für den Newsletter auszuarbeiten, das Inhalte, Format und Verteilungsprozess umfasst.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde mit einer kleinen Änderung angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Änderungen akzeptiert."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von Herrn Klein (DK) korrigiert."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Ergebnisse des ersten Quartals",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfüllten die Umsatzziele vollständig."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigten eine bessere Nachhaltigkeitsbilanz als erwartet."
+                },
+                {
+                    "key": "c",
+                    "text": "lagen beim Umsatz leicht unter den Erwartungen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue Produktlinie „ErgoFlex“",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits seit April produziert."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigt noch eine Freigabe für die Werbematerialien."
+                },
+                {
+                    "key": "c",
+                    "text": "richtet sich hauptsächlich an private Endkunden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue CRM-System „ConnectFlow“",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird Anfang Juni live gehen."
+                },
+                {
+                    "key": "b",
+                    "text": "beinhaltet von Anfang an ein Modul für Service-Tickets."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Herrn Scholz (MS) geschult werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Mitarbeiterzufriedenheit",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll durch mehr Gehalt verbessert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "ist generell gut, aber die Kommunikation braucht Verbesserung."
+                },
+                {
+                    "key": "c",
+                    "text": "wird durch einen von Frau Bauer (AB) erstellten Newsletter gefördert."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

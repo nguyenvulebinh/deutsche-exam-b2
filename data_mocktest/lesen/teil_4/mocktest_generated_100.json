@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 14:00 – 15:30 Uhr**\n**Ort:** Konferenzraum \"Alpenblick\", Technologiepark 5, 81234 München\n\n**Anwesende:**\n*   Dr. Lena Bergmann (LB, Geschäftsführung)\n*   Markus Weber (MW, Leitung Marketing)\n*   Anna Kowalski (AK, Leitung Vertrieb)\n*   Stefan Hauser (SH, Leitung Produktion)\n*   Julia Richter (JR, Leitung Personal)\n*   David Schmidt (DS, Leitung IT)\n*   Eva Müller (EM, Leitung Qualität)\n\n**Entschuldigt:** Klaus Fischer (KF, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Lena Bergmann (LB)\n**Protokollantin:** Julia Richter (JR)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Stand Markteinführung Produkt \"EcoClean\"\n3.  Aktualisierung der IT-Sicherheitsmaßnahmen\n4.  Vertriebsergebnisse Q3 und Ausblick Q4\n5.  Planung Mitarbeiter-Weiterbildungsprogramm\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nLB begrüßt die Anwesenden. Das Protokoll der Sitzung vom 15. August wird zur Genehmigung vorgelegt. AK bittet um eine Korrektur unter TOP 6 (\"Sonstiges\") bezüglich einer dort genannten Verkaufszahl für die Region Nordics. Nach Eintrag der korrekten Zahl wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Stand Markteinführung Produkt \"EcoClean\"**\n\nMW berichtet über den aktuellen Stand der Vorbereitungen für die Markteinführung des neuen Reinigungsmittels \"EcoClean\". Marketingmaterialien sind fertiggestellt, die Kampagne ist geplant. Zieltermin für den Verkaufsstart bleibt Ende Oktober. SH bestätigt, dass die Produktion termingerecht läuft und erste Chargen fertiggestellt sind. Er weist jedoch auf Lieferschwierigkeiten beim beauftragten Verpackungshersteller \"PackWell\" hin. Sollte sich dies nicht kurzfristig lösen, könnte der Starttermin auf Anfang November verschoben werden müssen. MW wird beauftragt, bis Mitte nächster Woche Kontakt mit dem Alternativlieferanten \"GreenPack\" aufzunehmen und dessen Kapazitäten zu prüfen. EM erinnert daran, dass die finale Qualitätsfreigabe der ersten Produktionscharge erst nach Eingang und Prüfung der korrekten Verpackung erfolgen kann.\n\n**TOP 3 Aktualisierung der IT-Sicherheitsmaßnahmen**\n\nDS stellt die geplanten Maßnahmen zur Erhöhung der IT-Sicherheit vor. Anlass ist ein versuchter Phishing-Angriff im Vormonat, der jedoch frühzeitig erkannt und abgewehrt werden konnte. Als zentrale Maßnahme wird eine Multi-Faktor-Authentifizierung (MFA) für alle Systemzugänge eingeführt. Für die Abteilungen IT und Finanzen ist die Umstellung ab sofort verpflichtend, für alle anderen Abteilungen gilt eine Frist bis zum 31. Oktober. Begleitend dazu wird ein obligatorisches Online-Trainingsmodul zur Nutzung der MFA und zur Sensibilisierung für Cybergefahren bereitgestellt, das von allen Mitarbeitern bis zum 15. November absolviert werden muss.\n\n**TOP 4 Vertriebsergebnisse Q3 und Ausblick Q4**\n\nAK präsentiert die Vertriebszahlen für das dritte Quartal. Insgesamt liegt der Umsatz 15% über dem Plan. Besonders erfreulich entwickelte sich die DACH-Region mit einem Plus von 20%. Die Verkäufe in den Nordics lagen hingegen leicht unter den Erwartungen (-5%). Für das vierte Quartal gibt sich AK \"verhalten optimistisch\". Die Markteinführung von \"EcoClean\" sollte positive Impulse geben, jedoch bereiten die anhaltend steigenden Rohstoffpreise Sorge. Zudem hat der Hauptwettbewerber \"CleanFuture AG\" letzte Woche ein vergleichbares Öko-Produkt auf den Markt gebracht. \n\n**TOP 5 Planung Mitarbeiter-Weiterbildungsprogramm**\n\nJR stellt einen Konzeptentwurf für das Weiterbildungsprogramm im kommenden Jahr vor. Schwerpunkte sollen auf dem Ausbau digitaler Kompetenzen, insbesondere im Umgang mit der neuen CRM-Software, sowie auf der Förderung interkultureller Kommunikation für international agierende Teams liegen. Die Teilnahme an den Modulen ist grundsätzlich freiwillig, für bestimmte Zielgruppen (z.B. Vertriebsteam für CRM-Schulung) jedoch verpflichtend. Das endgültige Konzept soll bis Ende Oktober verabschiedet werden, die Umsetzung ist für das erste Quartal des nächsten Jahres geplant.\n\n**TOP 6 Sonstiges**\n\nLB informiert über die Planungen zur diesjährigen Weihnachtsfeier. Der Termin steht fest: Freitag, der 15. Dezember. Als Veranstaltungsort wurde der \"Alpenrose Gasthof\" bestätigt. Die Einladungen an die Belegschaft werden in der nächsten Woche versendet.\nEM weist darauf hin, dass die Kaffeemaschine in der Hauptküche erneut defekt ist. Das Facility Management wurde bereits informiert.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Markteinführung von \"EcoClean\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet definitiv Ende Oktober statt."
+                },
+                {
+                    "key": "b",
+                    "text": "hängt von der Lieferung durch die Firma \"PackWell\" ab."
+                },
+                {
+                    "key": "c",
+                    "text": "könnte sich wegen Materialmangels verschieben."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die IT-Sicherheit",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird verbessert, weil es kürzlich einen Hackerangriff gab."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert von allen Mitarbeitern bis Ende Oktober eine Umstellung."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhaltet eine obligatorische Schulung zur neuen Authentifizierung."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Der Vertrieb im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "war in der DACH-Region besonders erfolgreich."
+                },
+                {
+                    "key": "b",
+                    "text": "lag in allen Geschäftsbereichen über dem Plan."
+                },
+                {
+                    "key": "c",
+                    "text": "litt unter den gestiegenen Rohstoffpreisen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das geplante Weiterbildungsprogramm",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konzentriert sich ausschließlich auf Software-Schulungen."
+                },
+                {
+                    "key": "b",
+                    "text": "wird im ersten Quartal 20XX+1 starten."
+                },
+                {
+                    "key": "c",
+                    "text": "ist für alle Mitarbeiterinnen und Mitarbeiter verpflichtend."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Weihnachtsfeier",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird von Frau Bergmann nächste Woche organisiert."
+                },
+                {
+                    "key": "b",
+                    "text": "findet sicher am 15. Dezember statt."
+                },
+                {
+                    "key": "c",
+                    "text": "muss noch einen passenden Ort finden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

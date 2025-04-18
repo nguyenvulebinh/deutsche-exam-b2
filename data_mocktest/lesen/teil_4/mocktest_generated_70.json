@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 9:30 – 11:00 Uhr**\n**Ort:** Besprechungsraum 'Arosa', Firmensitz Hauptstraße 12, 54321 Musterstadt\n\n**Anwesende:**\n*   Stefan Kramer (SK, Geschäftsführung)\n*   Dr. Elena Fischer (EF, Leitung IT)\n*   Markus Weber (MW, Leitung Personal)\n*   Petra Lang (PL, Leitung Produktion)\n*   Jürgen Haas (JH, Leitung Verkauf)\n*   Silke Neumann (SN, Leitung Einkauf)\n\n**Entschuldigt:** Thomas Bauer (TB, Leitung Marketing)\n**Gast:** Herr Robert Klein (RK, Externer IT-Berater, Fa. ConsultIT)\n\n**Sitzungsleitung:** Stefan Kramer (SK)\n**Protokollant:** Markus Weber (MW)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Projektstand IT-System Migration (`NeuSys`)\n3.  Schulungsbedarf Personal für `NeuSys`\n4.  Aktuelle Produktionsauslastung und Kapazitäten\n5.  Verkaufsbericht Quartal 3\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nSK begrüßt die Anwesenden, insbesondere den Gast Herrn Klein. MW bittet um Genehmigung des Protokolls der letzten Sitzung vom 15.08.XX. PL meldet sich zu Wort und bittet um Korrektur in TOP 4 des alten Protokolls; der Name eines dort genannten Zulieferers sei falsch geschrieben gewesen. Nach erfolgter mündlicher Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Projektstand IT-System Migration (`NeuSys`)**\n\nEF berichtet über den Fortschritt der Migration vom Altsystem (`AltSystem`) auf das neue ERP-System `NeuSys`. Die Phase 1, die das grundlegende Setup umfasste, konnte erfolgreich abgeschlossen werden. Jedoch treten in der laufenden Phase 2 (Datenmigration und Aktivierung der spezifischen Module für Vertrieb und Produktion) unerwartete Schwierigkeiten auf. Hauptproblem sind diverse Dateninkonsistenzen zwischen `AltSystem` und `NeuSys`, die bei den Testläufen entdeckt wurden und bereinigt werden müssen. RK bestätigt, dass die Komplexität der Datenübernahme höher ist als ursprünglich eingeschätzt. Der ursprünglich geplante Go-Live-Termin zum 01.11.XX kann daher nicht gehalten werden. Als neuer, realistischer Zieltermin für die Inbetriebnahme wird nun der 01.12.XX anvisiert. Um die Datenbereinigung zu beschleunigen, beantragt EF zusätzliche interne Ressourcen: ein Mitarbeiter aus ihrer Abteilung soll für zwei Wochen Vollzeit an diesem Thema arbeiten. SK genehmigt diesen Antrag. Herr Klein wird das Projekt weiterhin beratend unterstützen.\n\n**TOP 3 Schulungsbedarf Personal für `NeuSys`**\n\nMW knüpft an TOP 2 an und erläutert den erheblichen Schulungsbedarf, der sich durch die Einführung von `NeuSys` ergibt. Insbesondere die Mitarbeiterinnen und Mitarbeiter in den Abteilungen Vertrieb, Einkauf und Produktion benötigen intensive Schulungen, da sie täglich mit den neuen Modulen arbeiten werden. MW stellt zwei grundlegende Konzepte zur Diskussion: Eine rein externe Schulung durch den Softwareanbieter (Vorteil: schnell verfügbar; Nachteil: hohe Kosten, weniger firmenspezifisch) versus ein internes Train-the-Trainer-Konzept (Vorteil: kostengünstiger auf Dauer, maßgeschneidert; Nachteil: längere Vorlaufzeit für die Ausbildung der internen Trainer). Nach kurzer Diskussion über Vor- und Nachteile sowie den Zeitaufwand wird entschieden, das interne Konzept zu verfolgen. MW wird beauftragt, bis zur nächsten Sitzung einen detaillierten Schulungsplan zu erarbeiten. Dieser soll die Namen der vorgesehenen internen Trainer sowie einen Zeitplan enthalten. Es wird festgehalten, dass für sehr spezielle Expertenmodule zu einem späteren Zeitpunkt gegebenenfalls doch externe Schulungen hinzugezogen werden könnten.\n\n**TOP 4 Aktuelle Produktionsauslastung und Kapazitäten**\n\nPL berichtet, dass die Produktion derzeit sehr gut ausgelastet ist. Hauptgrund hierfür ist der laufende Großauftrag der Firma \"Huber Stahlbau\", dessen Auslieferung für Ende Oktober geplant ist. Dieser Auftrag allein bindet aktuell fast 60% der Produktionskapazitäten. PL äußert jedoch Bedenken hinsichtlich der IT-Umstellung: Sollte `NeuSys` nicht bis spätestens Anfang Dezember stabil und voll funktionsfähig sein, sieht sie erhebliche Risiken für die Produktionsplanung und Materialdisposition, insbesondere im Hinblick auf das wichtige Weihnachtsgeschäft und die ersten Aufträge im neuen Jahr. Sie betont die kritische Abhängigkeit eines reibungslosen Produktionsablaufs von einer funktionierenden IT-Infrastruktur.\n\n**TOP 5 Verkaufsbericht Quartal 3**\n\nJH präsentiert die vorläufigen Verkaufszahlen des dritten Quartals. Insgesamt zeigt sich eine positive Entwicklung mit einer Umsatzsteigerung von etwa 8% im Vergleich zum Vorjahresquartal. Besonders gut verkauften sich die Standardprofile. Einen leichten Rückgang um ca. 5% gab es hingegen bei den kundenspezifischen Sonderanfertigungen. JH führt dies zum einen auf die aktuell längeren Lieferzeiten aufgrund der hohen Produktionsauslastung (siehe TOP 4) zurück, zum anderen aber auch auf erste Verunsicherungen bei Kunden bezüglich der Umstellung auf `NeuSys` und möglicher Änderungen im Bestellprozess. Er unterstreicht damit die Notwendigkeit eines pünktlichen Go-Lives des neuen Systems (TOP 2) und einer klaren, proaktiven Kundenkommunikation sowie gut geschulter Mitarbeiter (TOP 3).\n\n**TOP 6 Sonstiges**\n\nSK erinnert alle an den geplanten Betriebsausflug am 18. Oktober. Es handelt sich um einen ganztägigen Ausflug mit einer Wanderung und anschließender Einkehr. Genauere Details zum Ablauf und Treffpunkt werden zeitnah per E-Mail bekannt gegeben. MW weist auf die bevorstehende jährliche Sicherheitsunterweisung inklusive Brandschutzübung hin. Diese findet am 25. September um 14:00 Uhr statt; Treffpunkt ist der Betriebshof. Die nächste reguläre Sitzung ist für den 10. Oktober 20XX angesetzt.\nSK schließt die Sitzung pünktlich um 11:00 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde vom Protokollanten selbst geändert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Einführung von `NeuSys`",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits erfolgreich abgeschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "scheitert am geplanten Termin wegen des externen Beraters."
+                },
+                {
+                    "key": "c",
+                    "text": "wird sich wegen Datenproblemen verzögern."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Schulungen für Mitarbeiter",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollen zunächst intern organisiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "werden extern durchgeführt, weil das günstiger ist."
+                },
+                {
+                    "key": "c",
+                    "text": "werden von der IT-Abteilung geplant."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Produktion bei Metallbau Kramer",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "leidet bereits jetzt unter den IT-Problemen."
+                },
+                {
+                    "key": "b",
+                    "text": "ist momentan durch einen Großauftrag stark beansprucht."
+                },
+                {
+                    "key": "c",
+                    "text": "kann die allgemeine Kundennachfrage kaum noch decken."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Vertriebsleiter JH",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "berichtet über insgesamt gestiegene Verkaufszahlen."
+                },
+                {
+                    "key": "b",
+                    "text": "erklärt hauptsächlich den Umsatzrückgang bei Sonderanfertigungen."
+                },
+                {
+                    "key": "c",
+                    "text": "sieht die IT-Umstellung als Hauptgrund für gute Verkaufszahlen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

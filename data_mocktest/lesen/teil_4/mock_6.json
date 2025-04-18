@@ -1,0 +1,96 @@
+{
+    "meeting_note": "## Protokoll\n\n**7. Mai 20.., 8:30–9:30 Uhr**\n**Ort: Besprechungszimmer 2, Max-Reiter-Weg 4, 95139 Süßheim**\n\n**Anwesende:**\n*   Max Quirin (MQ, Geschäftsführung)\n*   Sara Nakamura (SN, Leitung Produktion)\n*   Günter Lorenz (GL, Leitung Qualitätskontrolle)\n*   Paula Raabe (PR, Leitung Einkauf)\n*   Tassilo Wüst (TW, Leitung Verkauf)\n*   Marie Steinberg (MS, Leitung Finanzen)\n*   Dirk Pätsch (DP, Leitung Personal)\n*   Klaus Schranz (KS, Leitung Marketing)\n*   Gast: Nieva Escarda (NE, Praktikantin)\n\n**Protokollant:** Günter Lorenz\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung, Termine und Genehmigung des letzten Protokolls\n2.  Personelles\n3.  Aktuelle Lage in der Produktion\n4.  Stand Produktionsstätte II\n5.  Berichte\n6.  Sonstiges\n\n**TOP 1 Begrüßung, Termine und Genehmigung des letzten Protokolls**\n\nMQ begrüßt alle Anwesenden, lobt das pünktliche und vollständige Erscheinen und kündigt an, dass die Sitzung wegen eines wichtigen Außentermins heute auf keinen Fall länger als bis 09:30 Uhr dauern kann. Nach Diskussion zweier Termine wird die nächste Sitzung auf den 21. Mai, 8:30 Uhr bis 10:30 Uhr gelegt. Das Protokoll der letzten Sitzung wird nach einer kurzen Diskussion genehmigt.\n\n**TOP 2 Personelles**\n\nDP stellt Frau Escarda vor, die neue Halbjahrespraktikantin. NE studiert Betriebswirtschaft und stammt ursprünglich von den Philippinen, wo sie mehrere Jahre in einem Hotel als Rezeptionistin tätig war. In den nächsten Wochen soll sie alle Abteilungen kennenlernen und macht dafür anschließend an die Sitzung mit der jeweiligen Leitung Zeiten aus.\n\n**TOP 3 Aktuelle Lage in der Produktion**\n\nSN stellt fest, dass wegen des im Vergleich zum letzten Jahr erfreulich hohen Auftragsvolumens dieses Jahr schon ab KW 25 mit der Produktion der Lebkuchen und sonstigen saisonalen Waren begonnen werden muss. PR ergänzt, dass die Zulieferer alle erforderlichen Zutaten in ausreichender Menge zugesagt haben und die entsprechenden Bestellungen schon getätigt worden sind, sodass die Ware rechtzeitig angeliefert werden kann. DP berichtet, dass er für diese Produktionsphase bei der Zeitarbeitsfirma flexibelhelp, mit der wir seit Jahren gut zusammenarbeiten, fünf Aushilfskräfte angefordert hat.\n\n**TOP 4 Stand Produktionsstätte II**\n\nMQ berichtet über die Erweiterungspläne der Firma. Die zweite Produktionsstätte wird nun doch nicht in Süßheim angemietet werden, da hier die Gewerbemieten zu hoch sind. Damit kann auch der ursprünglich geplante Eröffnungstermin in einem halben Jahr nicht gehalten werden. MQ hat einen Immobilienmakler beauftragt, die Lage im benachbarten Thüringen zu prüfen, da dort die Mieten deutlich niedriger liegen. Es wird aber auf jeden Fall ein Standort in weniger als 30 km Entfernung gesucht.\n\n**TOP 5 Berichte**\n\nKS zeigt das Werbevideo, das produziert wurde, um wieder vermehrt auch jüngere Zielgruppen für unsere Produkte zu interessieren. Es bekam großen Beifall und wird ab nächste Woche online über verschiedene Kanäle ausgestrahlt werden. Außerdem ist KS auf der Suche nach einem Influencer, der Werbung für unseren Adventskalender macht. Details dazu dann in der nächsten Sitzung.\n\n**TOP 6 Sonstiges**\n\nAbschließend gibt MQ bekannt, dass unsere externen freien Mitarbeiter*innen dieses Jahr anstelle eines Lebkuchenpakets aus unserer Produktion elektronische Grußkarten bekommen werden. Diese enthalten die Mitteilung, dass das Geld für Projekte in den Kakaoanbaugebieten unserer Zulieferer gespendet wird. Diese Projekte fördern insbesondere die Ausbildung von Mädchen. Er kündigt im Sinne einer langfristigen Terminplanung außerdem vorab schon einmal an, dass die Weihnachtsfeier wie üblich am letzten Freitag vor Heiligabend stattfindet und die Firma auch dieses Jahr zwischen dem 24.12. und dem 1.1. geschlossen bleiben wird.",
+    "aufgaben_list": [
+      {
+        "frage": "Die Sitzung heute",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "dauert zwei Stunden."
+          },
+          {
+            "key": "b",
+            "text": "muss pünktlich enden."
+          },
+          {
+            "key": "c",
+            "text": "wurde zweimal verschoben."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Die Praktikantin",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "hat noch keine Berufserfahrung."
+          },
+          {
+            "key": "b",
+            "text": "spricht im Anschluss Termine ab."
+          },
+          {
+            "key": "c",
+            "text": "wird in der Personalabteilung arbeiten."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Die Produktion der Saisonartikel",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "erfolgt mit zusätzlichem Personal."
+          },
+          {
+            "key": "b",
+            "text": "hat bereits pünktlich begonnen."
+          },
+          {
+            "key": "c",
+            "text": "verzögert sich wegen fehlender Zutaten."
+          }
+        ],
+        "loesung": "a"
+      },
+      {
+        "frage": "Die neue Produktionsstätte",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "geht in 6 Monaten in Betrieb."
+          },
+          {
+            "key": "b",
+            "text": "kann bis zu 30 km entfernt liegen."
+          },
+          {
+            "key": "c",
+            "text": "wird voraussichtlich in Thüringen gebaut."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Der Geschäftsführer",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "erläutert den Dienstplan zwischen Weihnachten und Neujahr."
+          },
+          {
+            "key": "b",
+            "text": "informiert über die Weihnachtsaktion."
+          },
+          {
+            "key": "c",
+            "text": "will anstelle der Feier Geld spenden."
+          }
+        ],
+        "loesung": "b"
+      }
+    ]
+}
+  

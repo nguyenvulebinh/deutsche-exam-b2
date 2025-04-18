@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum 'Berlin', Innovatec Solutions GmbH, Hauptstraße 12, 10115 Berlin\n\n**Anwesende:**\n*   Dr. Elena Petrova (EP, Geschäftsführung)\n*   Markus Schreiber (MS, Leitung Entwicklung)\n*   Simone Vogel (SV, Leitung Produktion)\n*   Jonas Kaufmann (JK, Leitung Einkauf)\n*   Anja Weber (AW, Leitung Personalwesen)\n*   Ben Müller (BM, Leitung IT)\n*   Lea Richter (LR, Assistenz der Geschäftsführung)\n\n**Entschuldigt:** Klaus Berger (KB, Leitung Vertrieb)\n\n**Sitzungsleitung:** Dr. Elena Petrova (EP)\n**Protokollant/in:** Lea Richter (LR)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 21.08.20XX\n2.  Projektstatus „Phoenix“\n3.  Aktuelle Situation Materialbeschaffung\n4.  Einführung neue Kommunikationsplattform „ConnectUs“\n5.  Anstehende Mitarbeiterschulungen\n6.  Messe „TechVision 20XX+1“\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 21.08.20XX**\n\nEP begrüßt die Anwesenden zur heutigen Sitzung. Sie bittet um Genehmigung des Protokolls der letzten Sitzung vom 21. August. JK weist auf eine kleine Ungenauigkeit in TOP 3 hin; die dort genannte Bestellnummer war fehlerhaft. Nach mündlicher Korrektur dieser Nummer durch LR wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Projektstatus „Phoenix“**\n\nMS berichtet über den Fortschritt beim Projekt „Phoenix“. Die Hardware-Tests verlaufen nach Plan. Allerdings gibt es bei der Integration eines zentralen Software-Moduls eine leichte Verzögerung von etwa zwei Wochen. Grund hierfür ist eine unerwartet hohe Komplexität bei der Schnittstellenanbindung. Ziel ist es nun, die Modul-Integration bis Ende Oktober abzuschließen. Der Gesamtprojektzeitplan sei dadurch aber noch nicht gefährdet.\n\n**TOP 3 Aktuelle Situation Materialbeschaffung**\n\nJK erläutert die anhaltenden Schwierigkeiten bei der Beschaffung des Mikrocontroller-Chips 'MC-5'. Der bisherige Lieferant hat wiederholt Liefertermine nicht eingehalten. Als Alternative wurde die Firma 'ChipCore' identifiziert. Erste Mustersendungen werden für nächste Woche erwartet. SV bestätigt, dass ihr Team bereitsteht, die Muster umgehend auf Kompatibilität und Leistung zu testen. Eine schnelle Entscheidung sei notwendig, da eine fehlgeschlagene Qualifizierung der ChipCore-Muster zu Produktionsengpässen bei „Phoenix“ führen könnte.\n\n**TOP 4 Einführung neue Kommunikationsplattform „ConnectUs“**\n\nBM stellt die neue interne Kommunikationsplattform „ConnectUs“ vor. Diese soll ab Mitte Oktober unternehmensweit für alle Abteilungen ausgerollt werden. Die Plattform bietet Funktionen wie Abteilungs-Chats, projektbezogene Arbeitsräume und eine zentrale Dokumentenablage. BM betont, dass besonderer Wert auf die Einhaltung der Datenschutzgrundverordnung (DSGVO) gelegt wurde. Die Einführung erfordert entsprechende Schulungen für die Belegschaft.\n\n**TOP 5 Anstehende Mitarbeiterschulungen**\n\nAW informiert über die anstehenden Schulungsmaßnahmen. Für die neue Plattform „ConnectUs“ wird es ab der letzten Oktoberwoche verpflichtende Online-Schulungsmodule geben, ergänzt durch kurze Q&A-Sessions für jede Abteilung. Die genauen Termine werden über das Intranet bekannt gegeben. Zusätzlich wird im November ein freiwilliger Fortgeschrittenen-Kurs für Microsoft Excel angeboten, für den sich Interessierte bald anmelden können.\n\n**TOP 6 Messe „TechVision 20XX+1“**\n\nEP bringt die Teilnahme an der Fachmesse „TechVision“, die im Februar des nächsten Jahres stattfindet, zur Sprache. Es muss entschieden werden, in welchem Umfang (Standgröße, Personaleinsatz) Innovatec Solutions dort auftreten soll. Da KB vom Vertrieb entschuldigt ist, bittet EP Herrn Schreiber (MS) und Herrn Kaufmann (JK, der Vertriebsthemen interimsweise mitbetreut) darum, bis zur nächsten Sitzung gemeinsam einen Vorschlag auszuarbeiten, der verschiedene Optionen und die damit verbundenen Kosten darstellt.\n\n**TOP 7 Sonstiges**\n\nKeine weiteren Punkte werden von den Anwesenden eingebracht. EP schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 21.08.",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde nach einem Hinweis von Herrn Kaufmann genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "ist ohne Anmerkungen einstimmig angenommen worden."
+                },
+                {
+                    "key": "c",
+                    "text": "musste von Frau Richter grundlegend überarbeitet werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Arbeit am Projekt \"Phoenix\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bei einem Software-Modul leicht verzögert."
+                },
+                {
+                    "key": "b",
+                    "text": "leidet aktuell unter fehlenden Hardware-Komponenten."
+                },
+                {
+                    "key": "c",
+                    "text": "kann wegen der Verzögerung nicht rechtzeitig fertig werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der alternative Chip-Lieferant",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat bereits verbindliche Liefertermine zugesagt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird vom Einkauf auf Qualität geprüft."
+                },
+                {
+                    "key": "c",
+                    "text": "liefert nächste Woche Muster zur Prüfung durch die Produktion."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue Plattform \"ConnectUs\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird zuerst nur in der IT-Abteilung eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird Mitte Oktober für alle Abteilungen eingeführt."
+                },
+                {
+                    "key": "c",
+                    "text": "ist hauptsächlich für die externe Kundenkommunikation gedacht."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Messe \"TechVision\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet bereits im nächsten Monat statt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird allein von Herrn Schreiber vorbereitet."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordert einen Vorschlag von Entwicklung und Einkauf/Vertrieb."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

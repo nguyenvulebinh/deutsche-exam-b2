@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**25. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum \"Hamburg\", ElektroWerk GmbH, Industriestraße 12, 603XX Frankfurt am Main\n\n**Anwesende:**\n*   Dr. Hanna Voss (HV, Geschäftsführung)\n*   Markus Weber (MW, Leitung Produktion)\n*   Sabine Koch (SK, Leitung Vertrieb)\n*   Karim Müller (KM, Leitung Marketing)\n*   Jens Larsen (JL, Leitung IT)\n*   Petra Novak (PN, Leitung Personal)\n*   Tim Berger (TB, Assistenz GF)\n\n**Entschuldigt:**\n*   Stefan Kurz (Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Hanna Voss (HV)\n**Protokollant:** Tim Berger (TB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 28.08.20XX\n2.  Projekt \"SmartHome Hub Gen 2\": Aktueller Stand und Probleme\n3.  Analyse der Verkaufszahlen Q3\n4.  Einführung neues CRM-System: Zeitplan und Schulungen\n5.  Planung 25-jähriges Firmenjubiläum\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 28.08.20XX**\n\nHV begrüßt die Anwesenden. PN weist auf einen Tippfehler im Datum unter TOP 4 des letzten Protokolls hin (falsches Jahr angegeben). Nach einstimmiger Annahme dieser Korrektur wird das Protokoll vom 28.08.20XX genehmigt.\n\n**TOP 2 Projekt \"SmartHome Hub Gen 2\": Aktueller Stand und Probleme**\n\nJL (IT) berichtet, dass der Launch des SmartHome Hub Gen 2 verschoben werden muss. Hauptgrund ist ein kritischer Softwarefehler in der Steuerungslogik, dessen Behebung komplexer ist als erwartet. JL koordiniert die Fehlerbehebung eng mit dem externen Software-Entwicklungspartner und strebt eine Lösung bis Mitte November an. Lieferschwierigkeiten bei einem spezifischen Sensor aus Asien stellen ein sekundäres Problem dar, das aber lösbar scheint. Neuer geplanter Launch-Termin ist nun Q1 des kommenden Jahres (20XX+1), statt wie ursprünglich geplant Q4/20XX. HV betont die Wichtigkeit einer stabilen Software vor dem Launch.\n\n**TOP 3 Analyse der Verkaufszahlen Q3**\n\nSK (Vertrieb) präsentiert die Zahlen für das dritte Quartal. Insgesamt zeigt sich ein positives Wachstum von 8% gegenüber dem Vorjahresquartal. Besonders erfreulich entwickelten sich die Verkäufe der Smart Thermostate (+20%), was SK auf die erfolgreiche Sommer-Marketingkampagne von KM zurückführt. Sorgen bereitet jedoch der Absatz der Smart Plugs (-15%). Als Hauptgrund wird der gestiegene Wettbewerb durch neue Anbieter im Niedrigpreissegment gesehen. SK schlägt vor, Preisoptionen zu prüfen.\n\n**TOP 4 Einführung neues CRM-System: Zeitplan und Schulungen**\n\nJL (IT) informiert, dass das neue CRM-System technisch implementiert ist und nächste Woche live gehen soll. Um einen reibungslosen Übergang zu gewährleisten, finden verpflichtende Einführungsschulungen statt. Diese sind für alle Mitarbeiterinnen und Mitarbeiter der Abteilungen Vertrieb (SK) und Marketing (KM) vorgesehen und werden in der kommenden Woche (KW 40) durchgeführt. Die Schulungen leitet der interne IT-Trainer, Herr Bauer. JL hebt hervor, dass das System eine deutlich verbesserte Verwaltung von Kundendaten und -interaktionen ermöglichen wird.\n\n**TOP 5 Planung 25-jähriges Firmenjubiläum**\n\nHV leitet die Diskussion zum 25-jährigen Firmenjubiläum ein, das im Mai nächsten Jahres stattfinden soll. PN (Personal) stellt erste grobe Ideen vor. Es wird beschlossen, eine Arbeitsgruppe zur detaillierten Planung zu bilden. Mitglieder sind PN (Leitung), KM (Marketing) und TB (Assistenz GF). Diese Gruppe soll bis Ende Oktober konkrete Vorschläge zu Programm, Budgetrahmen und möglichen Locations erarbeiten. Es besteht Einigkeit darüber, alle Mitarbeiterinnen und Mitarbeiter sowie ausgewählte langjährige Geschäftspartner einzuladen. Die Entscheidung, ob auch wichtige Kunden eingeladen werden, wird auf Basis der Vorschläge der Arbeitsgruppe getroffen. Ein konkreter Veranstaltungsort ist noch nicht festgelegt.\n\n**TOP 6 Sonstiges**\n\nKM (Marketing) fragt nach der Möglichkeit, ein Budget für eine Influencer-Marketing-Kampagne zur Unterstützung des verzögerten Launches des SmartHome Hub Gen 2 (siehe TOP 2) zu erhalten. HV stellt klar, dass Budgetentscheidungen hierzu erst getroffen werden können, wenn der überarbeitete Launch-Plan und die damit verbundenen Marketingstrategien finalisiert sind. Aktuell ist kein Budget dafür freigegeben. Weitere Punkte werden nicht angesprochen. HV schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Einwände direkt angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von der Personalabteilung überarbeitet."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Start des SmartHome Hub Gen 2",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfolgt später als ursprünglich geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "hängt nur von den Zulieferern ab."
+                },
+                {
+                    "key": "c",
+                    "text": "ist noch für dieses Jahr vorgesehen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die CRM-System Schulungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden für die gesamte Belegschaft angeboten."
+                },
+                {
+                    "key": "b",
+                    "text": "organisiert der externe Softwareanbieter im nächsten Monat."
+                },
+                {
+                    "key": "c",
+                    "text": "sind für bestimmte Abteilungen obligatorisch."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Planung des Firmenjubiläums",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhaltet eine Arbeitsgruppe mit drei Abteilungen/Funktionen."
+                },
+                {
+                    "key": "b",
+                    "text": "hat bereits einen festen Ort und Termin festgelegt."
+                },
+                {
+                    "key": "c",
+                    "text": "beschränkt sich auf eine interne Feier nur für Mitarbeiter."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Budget für Influencer-Marketing",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde in der Sitzung genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "ist momentan noch nicht freigegeben."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde abgelehnt, da die Kosten zu hoch sind."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

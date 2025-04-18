@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**16. September 20XX, 09:00 – 10:25 Uhr**\n**Ort:** Konferenzraum A, Hauptgebäude, Industriestraße 12, 67890 Neustadt\n\n**Anwesende:**\n*   Harald Müller (HM, Geschäftsführung)\n*   Gerhard Schneider (GS, Leitung Produktion)\n*   Franziska Bauer (FB, Leitung Vertrieb)\n*   Horst Vogel (HV, Leitung Einkauf)\n*   Katrin Roth (KR, Leitung IT)\n*   Jürgen Huber (JH, Leitung Personal)\n*   Martina Adler (MA, Leitung Marketing)\n*   Peter Lang (PL, Assistenz GF)\n\n**Sitzungsleitung:** Harald Müller (HM)\n**Protokollant:** Peter Lang (PL)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 19.08.20XX\n2.  Auftragslage und Kapazitätsplanung (Neukunde AutoTech AG)\n3.  Rollout ERP-System ProX\n4.  Vorbereitung Messe MetallTech 20XX\n5.  Neues Schulungsprogramm CNC-Technik\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 19.08.20XX**\n\nHM begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der letzten Sitzung vom 19. August wird zur Genehmigung vorgelegt. HV merkt an, dass unter TOP 4 der Name eines Lieferanten korrigiert werden muss. Nach Aufnahme dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Auftragslage und Kapazitätsplanung (Neukunde AutoTech AG)**\n\nFB berichtet erfreut über den erfolgreichen Vertragsabschluss mit dem Neukunden AutoTech AG. Es handelt sich um einen Großauftrag für das Präzisionsteil AZ-5000, der zu einer signifikanten Steigerung des Produktionsvolumens führen wird. Die Kalkulationen zeigen, dass eine Kapazitätssteigerung von mindestens 20% erforderlich ist.\n\nGS erläutert die Auswirkungen auf die Produktion. Um den Auftrag termingerecht zu erfüllen, müsse die Produktion des Teils AZ-5000 umgehend starten. Die erste große Auslieferung an AutoTech AG ist bereits für Ende Oktober 20XX fest zugesagt. GS plant, zunächst die Kapazitäten der Nachtschicht voll auszunutzen. HM betont die strategische Bedeutung des Kunden und genehmigt nach kurzer Diskussion, dass GS Überstunden anordnen kann, *falls* die Kapazität der Nachtschicht nicht ausreicht, um die Liefertermine zu halten. GS ist verantwortlich für die detaillierte Produktionsplanung und -steuerung.\n*Beschluss:* Überstunden werden bei Bedarf nach Ausschöpfung der Nachtschichtkapazität genehmigt.\n*Aktion:* FB klärt letzte technische Spezifikationsdetails für AZ-5000 mit AutoTech AG bis Ende dieser Woche (KW 38).\n*Aktion:* GS erstellt einen detaillierten Produktionsplan bis Anfang nächster Woche.\n\n**TOP 3 Rollout ERP-System ProX**\n\nKR informiert über den bevorstehenden Rollout des neuen ERP-Systems „ProX“. Die Einführung erfolgt in zwei Phasen, um einen reibungslosen Übergang zu gewährleisten.\nPhase 1: Die Abteilungen Vertrieb (FB) und Einkauf (HV) stellen am kommenden Montag (23.09.) auf das neue System um.\nPhase 2: Die Produktion (GS) und die Logistik folgen am darauffolgenden Montag (30.09.).\nFür alle betroffenen Mitarbeiterinnen und Mitarbeiter finden *vor* dem jeweiligen Go-Live-Datum verpflichtende Schulungen statt. Die Schulungen für Phase 1 sind bereits für diese Woche terminiert. Die Schulungstermine für Phase 2 werden nächste Woche bekannt gegeben.\n*Aktion:* KR koordiniert die Schulungen und den technischen Support während des Rollouts.\n*Aktion:* Alle Abteilungsleitungen stellen die Teilnahme ihrer Mitarbeiter an den Pflichtschulungen sicher.\n\n**TOP 4 Vorbereitung Messe MetallTech 20XX**\n\nDie Fachmesse MetallTech 20XX findet vom 15. bis 18. November statt. MA präsentiert das Konzept für den Messestand, welches positiv aufgenommen und genehmigt wird. Das Budget für den Standbau und die Messepräsenz wurde bereits freigegeben.\nMA betont die Wichtigkeit einer koordinierten Vorbereitung. Sie ist für das Standdesign und die Marketingmaterialien verantwortlich.\n*Aktion:* FB erstellt den finalen Personaleinsatzplan für die Standbesetzung und reicht diesen bis zum 15. Oktober bei MA ein.\n*Aktion:* GS stellt sicher, dass die benötigten Demoteile, insbesondere das Bauteil AZ-5000 für AutoTech AG sowie der neue Prototyp BX-100, bis spätestens 31. Oktober fertiggestellt und funktionsgeprüft sind.\n\n**TOP 5 Neues Schulungsprogramm CNC-Technik**\n\nJH stellt das geplante Schulungsprogramm zur Bedienung der neuen CNC-Fräsmaschine vor. Die Schulung wird durch den externen Anbieter „TechSchulung GmbH“ durchgeführt und richtet sich ausschließlich an *erfahrene* Fachkräfte aus der Produktion, nicht an Auszubildende oder neu eingestelltes Personal.\nDer Kurs beginnt in der ersten Oktoberwoche und erstreckt sich über vier aufeinanderfolgende Wochen, wobei die Teilnahme berufsbegleitend organisiert wird.\n*Beschluss:* Das Schulungskonzept und die Beauftragung von TechSchulung GmbH werden genehmigt.\n*Aktion:* JH übernimmt die Anmeldung der ausgewählten Mitarbeiter und die weitere Koordination mit dem Schulungsanbieter.\n\n**TOP 6 Sonstiges**\n\nHM bestätigt den Termin für das Betriebsfest: Es findet am letzten Freitag im September statt. Eine separate Einladung folgt.\nEr erinnert zudem an die Einhaltung der kürzlich aktualisierten Brandschutzordnung; die entsprechenden Unterlagen wurden per E-Mail verteilt.\nKeine weiteren Wortmeldungen.\n\nEnde der Sitzung: 10:25 Uhr\nNächste Sitzung: Termin wird per E-Mail bekannt gegeben.",
+    "aufgaben_list": [
+        {
+            "frage": "Der neue Auftrag von AutoTech AG",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert eine erste Lieferung bis Ende Oktober."
+                },
+                {
+                    "key": "b",
+                    "text": "führt sofort zu Überstunden in der gesamten Produktion."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde vom Produktionsleiter allein verhandelt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das ERP-System ProX",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird nächste Woche zeitgleich in allen Abteilungen eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "bedingt eine Pflichtschulung für die betreffenden Mitarbeiter."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von der IT-Abteilung erst nach der Schulung installiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Vorbereitung der MetallTech Messe",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "liegt ausschließlich in der Verantwortung des Marketings."
+                },
+                {
+                    "key": "b",
+                    "text": "beinhaltet die Fertigstellung von Demoteilen kurz vor Messebeginn."
+                },
+                {
+                    "key": "c",
+                    "text": "umfasst unter anderem die Bereitstellung spezifischer Produkte durch die Produktion."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "An der Schulung zur CNC-Technik",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "nehmen nur Mitarbeiter mit Berufserfahrung teil."
+                },
+                {
+                    "key": "b",
+                    "text": "unterrichtet der Leiter der Personalabteilung selbst."
+                },
+                {
+                    "key": "c",
+                    "text": "können Mitarbeiter vier Wochen lang ganztags teilnehmen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Protokoll der Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von der Geschäftsführerin geschrieben."
+                },
+                {
+                    "key": "b",
+                    "text": "dokumentiert einen Beschluss zur bedingten Einführung von Überstunden."
+                },
+                {
+                    "key": "c",
+                    "text": "bestätigt die Genehmigung des letzten Protokolls ohne Änderungen."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**10. Juni 20XX, 09:00 – 10:15 Uhr**\n**Ort:** Besprechungsraum \"Wald\", Hauptstraße 15, 98765 Grünstadt\n\n**Anwesende:**\n*   Dr. Elena Weber (EW, Geschäftsführerin)\n*   Markus Stern (MS, Leitung Produktion)\n*   Sandra Bauer (SB, Leitung Vertrieb)\n*   Jonas Kiefer (JK, Leitung Einkauf)\n*   Lena Hauser (LH, Leitung Marketing)\n*   David Chen (DC, Leitung IT)\n*   Robert Lang (RL, Assistenz der Geschäftsführung)\n\n**Entschuldigt:** Karin Vogel (KV, Leitung Personal)\n\n**Sitzungsleitung:** Dr. Elena Weber (EW)\n**Protokollant:** Robert Lang (RL)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 13.05.20XX\n2.  Aktuelle Marktsituation und Vertriebszahlen\n3.  Projekt \"BioPlast 2.0\": Stand der Entwicklung\n4.  Vorbereitung Messe \"GreenPack\"\n5.  IT: Störungen im Bestellsystem\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 13.05.20XX**\n\nEW begrüßt die Anwesenden. RL bittet um Genehmigung des Protokolls der letzten Sitzung. JK merkt an, dass unter TOP 4 des alten Protokolls fälschlicherweise stand, er sei für die Materialrecherche bei BioPlast 2.0 zuständig gewesen; dies war jedoch Herr Stern (MS). Nach dieser Korrektur wird das Protokoll vom 13.05. einstimmig genehmigt.\n\n**TOP 2 Aktuelle Marktsituation und Vertriebszahlen**\n\nSB berichtet über die Vertriebszahlen des letzten Quartals. Insgesamt sei die Entwicklung positiv, insbesondere die Nachfrage nach den neuen kompostierbaren Folien sei stark gestiegen (+15% im Vergleich zum Vorquartal). Jedoch sei bei den Standard-Kartonverpackungen ein leichter Rückgang von ca. 5% zu verzeichnen. JK bestätigt, dass dies hauptsächlich auf die um fast 10% gestiegenen Preise für Altpapier als Rohstoff zurückzuführen sei. Eine Weitergabe der Preiserhöhung an die Kunden wird vorerst nicht empfohlen, um wettbewerbsfähig zu bleiben.\n\n**TOP 3 Projekt \"BioPlast 2.0\": Stand der Entwicklung**\n\nMS informiert über das Projekt \"BioPlast 2.0\", eine Weiterentwicklung der biologisch abbaubaren Kunststoffalternative. Die Materialtests im Labor seien sehr vielversprechend. Bevor jedoch eine Entscheidung über die Aufnahme in die Serienproduktion getroffen werden kann, müssen noch umfangreiche Belastungstests unter Realbedingungen durchgeführt werden. MS plant, diese Tests bis Ende Juli abzuschließen und dann erneut zu berichten. EW betont die strategische Wichtigkeit des Projekts.\n\n**TOP 4 Vorbereitung Messe \"GreenPack\"**\n\nLH stellt den aktuellen Stand der Vorbereitungen für die Messe \"GreenPack\" vor, die vom 15.-17. September in Frankfurt stattfindet. Ziel sei es dieses Jahr, gezielt neue Großkunden aus der Lebensmittelindustrie zu gewinnen. Der Messestand ist konzipiert, Materialien sind im Druck. LH bittet SB um die finale Benennung von zwei Vertriebsmitarbeitern, die sie am Stand unterstützen werden. Sie selbst wird die gesamte Organisation vor Ort leiten. JK wird ebenfalls an einem Tag anwesend sein, um Gespräche mit Rohstofflieferanten zu führen.\n\n**TOP 5 IT: Störungen im Bestellsystem**\n\nDC berichtet über wiederkehrende technische Probleme mit dem Online-Bestellsystem. In den letzten zwei Wochen kam es mehrmals zu kurzzeitigen Ausfällen (ca. 15-30 Minuten), während derer Kunden keine Bestellungen aufgeben konnten. Dies führte zu vermehrten telefonischen Anfragen und Unzufriedenheit bei einigen Kunden. Die genaue Ursache wird noch untersucht, ein Software-Update ist aber bereits für Ende Juni geplant. DC ist zuversichtlich, das Problem damit zu beheben.\n\n**TOP 6 Sonstiges**\n\nEW informiert darüber, dass die Stadtverwaltung Grünstadt eine Initiative für mehr E-Ladesäulen im Gewerbegebiet plant und Unternehmen zur Teilnahme aufruft. Sie bittet DC und JK, die technischen und finanziellen Voraussetzungen für eine Beteiligung zu prüfen und bis zur nächsten Sitzung eine Empfehlung abzugeben.\nRL gibt bekannt, dass die nächste Sitzung am 08. Juli 20XX zur gewohnten Zeit stattfindet.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom Mai",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von Herrn Lang zum ersten Mal vorgestellt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "behandelt hauptsächlich das Projekt \"BioPlast 2.0\"."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Verkauf von Kartonverpackungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist momentan leicht rückläufig."
+                },
+                {
+                    "key": "b",
+                    "text": "profitiert von neuen Marketingmaßnahmen."
+                },
+                {
+                    "key": "c",
+                    "text": "soll durch Preiserhöhungen angekurbelt werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Projekt \"BioPlast 2.0\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird von Herrn Kiefer geleitet."
+                },
+                {
+                    "key": "b",
+                    "text": "ist wegen technischer Probleme verzögert."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt noch weitere Tests vor der Markteinführung."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Messe \"GreenPack\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll vor allem neue Großkunden ansprechen."
+                },
+                {
+                    "key": "b",
+                    "text": "findet bereits im nächsten Monat statt."
+                },
+                {
+                    "key": "c",
+                    "text": "wird hauptsächlich vom Vertriebsteam organisiert."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das IT-Bestellsystem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde kürzlich komplett erneuert."
+                },
+                {
+                    "key": "b",
+                    "text": "funktioniert manchmal nicht zuverlässig."
+                },
+                {
+                    "key": "c",
+                    "text": "hat zu falschen Lieferungen geführt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll der Quartalsbesprechung Q3/20XX\n\n**18. Oktober 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Konferenzraum „Sonnenschein“, BioAllee 1, 9XXXX Ökodorf\n\n**Anwesende:**\n*   Dr. Evelyn Richter (ER, Vorstandsvorsitzende)\n*   Ben Weber (BW, Leitung Vertrieb & Marketing)\n*   Silke Mayer (SM, Leitung Produktentwicklung)\n*   Karim Al-Hayani (KA, Leitung Einkauf & Logistik)\n*   Lars Neumann (LN, Leitung Finanzen)\n*   Petra Vogel (PV, Leitung Qualitätssicherung)\n*   Marco Rossi (MR, IT-Leiter)\n\n**Gast:** Herr Stefan Gruber (SG, Berater Nachhaltigkeit)\n\n**Sitzungsleitung:** Dr. Evelyn Richter (ER)\n**Protokollant:** Lars Neumann (LN)\n\n**Tagesordnungspunkte**\n\n1.  Eröffnung und Genehmigung des Protokolls vom 12.07.20XX\n2.  Vertriebsbericht Q3 und Ausblick Q4\n3.  Stand der Entwicklung: Neue vegane Produktlinie \"PlantPure\"\n4.  Umstellung der Verpackungen auf recyceltes Material\n5.  Ergebnisse der IT-Systemprüfung\n6.  Bericht Nachhaltigkeitsstrategie (Gastvortrag SG)\n7.  Sonstiges\n\n**TOP 1 Eröffnung und Genehmigung des Protokolls vom 12.07.20XX**\n\nER eröffnet die Sitzung. PV bittet um eine Präzisierung bezüglich eines Testergebnisses unter TOP 4 des letzten Protokolls. Nach kurzer Klärung und entsprechender mündlicher Ergänzung wird das Protokoll vom 12.07.20XX einstimmig genehmigt.\n\n**TOP 2 Vertriebsbericht Q3 und Ausblick Q4**\n\nBW präsentiert die Vertriebszahlen für Q3. Der Gesamtumsatz stieg im Vergleich zum Vorjahresquartal um 6%, blieb damit jedoch leicht unter dem ambitionierten internen Ziel von 8% Wachstum. Besonders stark entwickelte sich der Online-Vertrieb mit einem Plus von 20%, während der Absatz im stationären Einzelhandel stagnierte. Die Müsli-Produktreihe zeigte eine sehr gute Performance. Leichte Rückgänge (-3%) gab es bei den Fruchtaufstrichen.\nFür Q4 wird aufgrund der gestiegenen Energiekosten und deren erwarteten Auswirkungen auf das Konsumverhalten eine vorsichtige Prognose abgegeben. Der Marketingfokus soll auf Vorteilspackungen und Sonderangebote gelegt werden.\n\n**TOP 3 Stand der Entwicklung: Neue vegane Produktlinie \"PlantPure\"**\n\nSM berichtet über Fortschritte bei der Entwicklung der neuen veganen Linie \"PlantPure\" (Aufstriche und Fertiggerichte). Das erste Prototypen-Tasting verlief erfolgreich. Die Rezepturen für zwei der fünf geplanten Produkte sind finalisiert. Für eine spezielle Soja-Alternative wird noch die endgültige Lieferbestätigung eines Lieferanten aus Frankreich erwartet. Ein erster Produktionstestlauf ist für Ende November angesetzt. Die Markteinführung wird für Ende Q1 des nächsten Jahres angestrebt. Herausforderungen gibt es noch bei der Haltbarkeitsprüfung eines der Fertiggerichte; hier sind weitere Tests erforderlich.\n\n**TOP 4 Umstellung der Verpackungen auf recyceltes Material**\n\nKA informiert, dass die Umstellung der PET-Getränkeflaschen auf 100% recyceltes Material im September erfolgreich abgeschlossen wurde. Die Tests von papierbasierten Verpackungen für Trockenprodukte wie Müsli zeigten jedoch Probleme bei der Feuchtigkeitsresistenz. Das Team von PV untersucht derzeit alternative Materialien und Beschichtungen gemeinsam mit dem Lieferanten. KA benötigt eine Entscheidung über die zu verwendende Alternative bis spätestens Mitte November, um die Verfügbarkeit der Verpackungen für die Q1-Produktion sicherzustellen. Das übergeordnete Ziel bleibt, bis Mitte nächsten Jahres 80% des gesamten Verpackungsportfolios auf recyceltes oder erneuerbares Material umzustellen.\n\n**TOP 5 Ergebnisse der IT-Systemprüfung**\n\nMR stellt die Ergebnisse des kürzlich durch die externe Firma \"SecureIT\" durchgeführten Sicherheitsaudits vor. Der Bericht bestätigt einen generell guten Sicherheitsstandard, identifiziert jedoch Verbesserungspotenzial bei den Passwortrichtlinien und empfiehlt dringend die Einführung einer verpflichtenden Zwei-Faktor-Authentifizierung (2FA) für alle externen Zugriffe. Es wurden keine schwerwiegenden Schwachstellen entdeckt. MR präsentiert den Umsetzungsplan: Die neue Passwortrichtlinie wird nächste Woche kommuniziert und tritt sofort in Kraft. Die technische Implementierung der 2FA soll bis Ende Dezember abgeschlossen sein. Schulungsunterlagen für die Mitarbeiter werden aktuell von der IT-Abteilung vorbereitet.\n\n**TOP 6 Bericht Nachhaltigkeitsstrategie (Gastvortrag SG)**\n\nSG präsentiert die Ergebnisse der CO2-Fußabdruck-Analyse für die BioKost AG. Die größten Emissionsquellen sind die Transportlogistik und der Energieverbrauch in der Produktion. Er empfiehlt die Prüfung des Einsatzes von Elektro-Lieferfahrzeugen für regionale Auslieferungen (KA wird Optionen und Kosten prüfen) sowie die Umstellung der Energieversorgung der Produktionsstätten auf zertifizierten Ökostrom (ER und LN prüfen bestehende Verträge und die technische Machbarkeit). Es wird beschlossen, diesen Empfehlungen zu folgen. Das Ziel ist eine Reduzierung der CO2-Emissionen um 15% bis Ende 20XX+2. Ein Statusupdate erfolgt in der Q1-Sitzung.\n\n**TOP 7 Sonstiges**\n\nLN erinnert an die Deadline für die Einreichung der Budgetplanung für das kommende Geschäftsjahr am 15. November. Die nächste reguläre Quartalsbesprechung wird auf den 15. Januar 20XX+1 terminiert. ER schließt die Sitzung um 10:43 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Der Vertrieb im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "war in allen Vertriebskanälen erfolgreich."
+                },
+                {
+                    "key": "b",
+                    "text": "erfüllte die internen Wachstumsziele nicht ganz."
+                },
+                {
+                    "key": "c",
+                    "text": "zeigte eine positive Entwicklung bei Fruchtaufstrichen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Produktlinie \"PlantPure\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits vollständig zur Produktion bereit."
+                },
+                {
+                    "key": "b",
+                    "text": "verwendet ausschließlich Zutaten aus Deutschland."
+                },
+                {
+                    "key": "c",
+                    "text": "soll Ende des ersten Quartals nächsten Jahres eingeführt werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Umstellung der Verpackungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bei Getränkeflaschen bereits abgeschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "auf Papiermaterial für Müsli verläuft problemlos."
+                },
+                {
+                    "key": "c",
+                    "text": "soll bis Mitte November zu 80% umgesetzt sein."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die IT-Sicherheitsprüfung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von der internen IT-Abteilung durchgeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "führt zur sofortigen Einführung der Zwei-Faktor-Authentifizierung."
+                },
+                {
+                    "key": "c",
+                    "text": "ergab keine schwerwiegenden Sicherheitslücken."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Nachhaltigkeitsstrategie",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird hauptsächlich vom externen Berater umgesetzt."
+                },
+                {
+                    "key": "b",
+                    "text": "beinhaltet konkrete Maßnahmen zur CO2-Reduktion."
+                },
+                {
+                    "key": "c",
+                    "text": "zielt auf eine CO2-Reduktion von über 20% ab."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

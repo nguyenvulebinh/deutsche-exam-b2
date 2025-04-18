@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. April 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum \"Innovation\", TechnoForm GmbH, Industriestraße 5, 12345 Musterstadt\n\n**Anwesende:**\n*   Dr. Eva Lang (EL, Geschäftsführung)\n*   Klaus Richter (KR, Leitung Personal)\n*   Heiko Schmidt (HS, Leitung Produktion)\n*   Barbara Fink (BF, Leitung Verkauf)\n*   Michael Jansen (MJ, Leitung IT)\n*   Sabine Reiser (SR, Leitung Marketing)\n*   Anja Weber (AW, Leitung Qualitätskontrolle)\n*   Peter Müller (PM, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Eva Lang\n**Protokollant:** Klaus Richter\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. März 20XX\n2.  Update Projekt \"Neues ERP-System\"\n3.  Vorbereitung Fachmesse \"PlastiTec\"\n4.  Qualitätskontrolle – Aktuelle Herausforderungen\n5.  Budgetplanung Personalentwicklung 20XX+1\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. März 20XX**\n\nEL begrüßt die Anwesenden. Das Protokoll der Sitzung vom 15. März 20XX wird ohne Einwände einstimmig genehmigt.\n\n**TOP 2 Update Projekt \"Neues ERP-System\"**\n\nMJ berichtet über den aktuellen Stand des Projekts. Die geplante Testphase muss verschoben werden, da der externe Consultant unerwartet technische Schwierigkeiten meldet. Der neue geplante Start für die intensiven Systemtests ist nun Ende April. Erst nach erfolgreichem Abschluss der Tests, voraussichtlich im Juni, können die Mitarbeiterschulungen beginnen. EL betont die Dringlichkeit des Projekts und bittet MJ, den Druck auf den Dienstleister aufrechtzuerhalten.\n\n**TOP 3 Vorbereitung Fachmesse \"PlastiTec\"**\n\nSR präsentiert den Planungsstand für die Fachmesse \"PlastiTec\", die vom 15. bis 18. Mai stattfindet. Das Messeteam steht fest: Es besteht aus SR, BF und einem technischen Experten aus der Produktion (Name wird noch festgelegt). Hauptziel der Messe ist die Vorstellung der neuen nachhaltigen Produktlinie \"EcoForm\". Als Nebenziel soll eine Wettbewerbsanalyse durchgeführt werden. Der Entwurf für den Messestand wurde bereits von EL genehmigt.\n\n**TOP 4 Qualitätskontrolle – Aktuelle Herausforderungen**\n\nAW berichtet über eine erhöhte Ausschussquote bei der Komponente PX-7 in den letzten Wochen. Als Ursache konnte eine fehlerhafte Kalibrierung von Maschine 3 identifiziert werden. HS teilt mit, dass die Neukalibrierung der Maschine durch sein Team bereits gestern erfolgt ist. Zur Absicherung werden für die nächsten zwei Wochen zusätzliche visuelle Kontrollen für die Komponente PX-7 durchgeführt, bis die Produktionsstabilität wieder vollständig bestätigt ist.\n\n**TOP 5 Budgetplanung Personalentwicklung 20XX+1**\n\nKR stellt den Budgetantrag für die Personalentwicklung im kommenden Geschäftsjahr vor. Er beantragt eine Erhöhung um 15% gegenüber dem laufenden Jahr, mit Schwerpunkten auf Weiterbildungen im Bereich digitale Kompetenzen und Führungskräftetraining. PM weist auf die angespannte Budgetsituation hin, erkennt aber die Notwendigkeit von Investitionen in die Mitarbeiterqualifikation an. Nach kurzer Diskussion wird beschlossen, das Budget für Personalentwicklung um 10% zu erhöhen. KR wird gebeten, bis Ende Mai einen detaillierten Maßnahmenplan einzureichen.\n\n**TOP 6 Sonstiges**\n\nHS informiert über einen kurzfristigen Engpass in der Auftragsabwicklung, bedingt durch krankheitsbedingte Ausfälle. Er erwartet jedoch, dass die Situation sich innerhalb einer Woche wieder normalisiert.\nEL kündigt an, dass für alle Abteilungsleiter ein interner Workshop zum Thema \"Effektive Kommunikation\" organisiert wird. Ein genauer Termin wird noch bekannt gegeben.",
+    "aufgaben_list": [
+        {
+            "frage": "Das neue ERP-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits erfolgreich eingesetzt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von den Mitarbeitern im Juni geschult."
+                },
+                {
+                    "key": "c",
+                    "text": "kann später als geplant getestet werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Bei der Fachmesse \"PlastiTec\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll ein neues umweltfreundliches Produkt vorgestellt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "analysieren alle Abteilungsleiter die Konkurrenz."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde das Standdesign noch nicht genehmigt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Qualitätsprobleme",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordern eine dauerhafte verstärkte Kontrolle."
+                },
+                {
+                    "key": "b",
+                    "text": "bei Komponente PX-7 sind auf Maschinenfehler zurückzuführen."
+                },
+                {
+                    "key": "c",
+                    "text": "konnten bisher noch nicht behoben werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Personalentwicklung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "bekommt das von Herrn Richter gewünschte Budget."
+                },
+                {
+                    "key": "b",
+                    "text": "fokussiert sich nur noch auf digitale Weiterbildung."
+                },
+                {
+                    "key": "c",
+                    "text": "erhält im nächsten Jahr mehr Budget als bisher."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Frau Dr. Lang",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "plant einen internen Workshop für Führungskräfte."
+                },
+                {
+                    "key": "b",
+                    "text": "ist mit dem Fortschritt des ERP-Projekts zufrieden."
+                },
+                {
+                    "key": "c",
+                    "text": "informierte über Produktionsengpässe."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

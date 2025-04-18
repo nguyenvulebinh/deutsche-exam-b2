@@ -19,6 +19,162 @@
         .back-button:hover {
             background-color: #5a6268;
         }
+
+        /* Styles for meeting notes */
+        .meeting-container {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        /* Additional styles for markdown content */
+        .meeting-container h2 {
+            color: #2c3e50;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        .meeting-container h3 {
+            color: #34495e;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }
+
+        .meeting-container h4 {
+            color: #3c6382;
+            margin-top: 0.8em;
+            margin-bottom: 0.4em;
+        }
+
+        .meeting-container p {
+            margin-bottom: 1em;
+        }
+
+        .meeting-container strong, .meeting-container b {
+            font-weight: 600;
+            color: #222;
+        }
+
+        .meeting-container em, .meeting-container i {
+            font-style: italic;
+        }
+
+        .meeting-container ul, .meeting-container ol {
+            margin-left: 1.5em;
+            margin-bottom: 1em;
+        }
+
+        .meeting-container li {
+            margin-bottom: 0.3em;
+        }
+
+        .meeting-container a {
+            color: #3498db;
+            text-decoration: underline;
+        }
+
+        .meeting-container a:hover {
+            color: #2980b9;
+        }
+
+        /* Additional styles for marked.js rendered content */
+        .meeting-container blockquote {
+            border-left: 3px solid #ddd;
+            padding-left: 10px;
+            margin-left: 10px;
+            color: #555;
+        }
+        
+        .meeting-container table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 1em;
+        }
+        
+        .meeting-container th,
+        .meeting-container td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        
+        .meeting-container th {
+            background-color: #f2f2f2;
+        }
+        
+        .meeting-container code {
+            background-color: #f5f5f5;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+        
+        .meeting-container pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        
+        /* Fix line height in lists for better readability */
+        .meeting-container li p {
+            margin: 0;
+        }
+
+        /* Question styles */
+        .question {
+            background-color: #fff;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        .question-text {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .options {
+            margin-left: 20px;
+        }
+
+        .option {
+            margin: 5px 0;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+
+        .option input[type="radio"] {
+            margin-right: 10px;
+        }
+
+        .option-text {
+            flex-grow: 1;
+        }
+
+        .option.selected {
+            font-weight: bold;
+        }
+
+        .option.correct {
+            color: #28a745;
+        }
+
+        .option.incorrect {
+            color: #dc3545;
+        }
+
+        /* Use the global styles for buttons and other UI elements */
+        /* Hide loading by default once page has loaded */
+        #loading.loaded {
+            display: none;
+        }
     </style>
 </head>
 <body>
@@ -26,5 +182,46 @@
         <h1>TELC B2 - Lesen Teil 4</h1>
         <a href="../index.html" class="back-button">← Zurück zur Testauswahl</a>
     </div>
+    
+    <div id="loading" class="loading">
+        Test wird geladen...
+    </div>
+    
+    <div id="test-content" class="hidden">
+        <div class="instructions" id="instructions">Lesen Sie das Protokoll und die Aufgaben. Welche Antwort (a, b oder c) passt am besten?
+            Markieren Sie Ihre Lösungen auf dem Antwortbogen.</div>
+
+        <div class="meeting-container">
+            <div id="meeting-content"></div>
+        </div>
+        
+        <div id="questions-container">
+            <!-- Questions will be dynamically generated here -->
+        </div>
+        
+        <div class="buttons">
+            <button id="finish-btn">Fertig</button>
+            <button id="new-test-btn" class="hidden">Neuer Test</button>
+        </div>
+        
+        <div id="results" class="results hidden">
+            <h2>Ergebnisse</h2>
+            <div class="score" id="score"></div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>TELC B2 Test Übungsplattform | contact: <a href="mailto:nguyenvulebinh@gmail.com">nguyenbinh</a></p>
+    </footer>
+    
+    <!-- Include Marked.js for markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Import JavaScript modules -->
+    <script type="module">
+        // Set the test type parameter for the app.js module
+        window.testType = 'lesen-teil-4';
+        import "../js/app.js";
+    </script>
 </body>
 </html> 

@@ -1,0 +1,96 @@
+{
+    "meeting_note": "## Protokoll\n\n**30. Januar 20XX, 14:00–15:30 Uhr**\n**Ort:** Besprechungsraum, Baseler Landstraße 158-162, 79342 Herbolzen\n\n**Anwesende:**\n*   Franz Schwacker (FS, Geschäftsführung)\n*   Metin Basel (MB, Assistenz Geschäftsführung)\n*   Samson Abdulkarim (SA, Leitung Vertrieb)\n*   Lothar Charrier (LC, Leitung Personal)\n*   Christian Celin (CC, Leitung Online-Vertrieb)\n*   Bertha Willmann (BW, Leitung Einkauf)\n\n**Sitzungsleitung:** Franz Schwacker\n**Protokollant:** Metin Basel\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Verkaufszahlen\n3.  Webshop\n4.  Einführung Mitarbeiterkleidung\n5.  Personelles\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nFS begrüßt die Anwesenden und bittet um Genehmigung des Protokolls der letzten Sitzung. BW erhebt Einwände gegen TOP 3: Es wurden nicht wie angegeben zwei, sondern drei Vergleichsangebote zum Bau des neuen Gewächshauses eingeholt. Nach dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Verkaufszahlen**\n\nSA gibt einen Überblick über die Verkäufe im vergangenen Geschäftsjahr: Wie bisher standen mehrjährig blühende Pflanzen oben in der Rangliste der Verkäufe. Weiterhin ungeschlagen ganz vorne liegen die Schnittblumen, während sich die Zimmerpflanzen etwas geringer verkauft haben. Stärker eingebrochen dagegen sind die Verkaufszahlen bei den Orchideen. Die Überraschung des Jahres ist die Flamingoblume, die erst im Februar ins Sortiment aufgenommen wurde, und bereits auf Platz fünf der Verkäufe geklettert ist. SA berichtet insgesamt von einem positiven Ergebnis, obwohl die Absätze im vierten Quartal gegenüber dem ersten bis dritten Quartal gesunken sind.\n\n**TOP 3 Webshop**\n\nCC schlägt vor, auch für weitere Pflanzen zu prüfen, ob der Onlinehandel möglich ist. Nach seiner Einschätzung kämen dafür luftreinigende Pflanzen fürs Büro sowie Kakteen in Frage. SA wendet ein, dass sich der Verkauf von Pflanzen über das Internet durch den Aufwand für Verpackung und Versand bisher nicht gelohnt hat. Er empfiehlt, höchstens künstliche Blumen oder Trockenblumen ins Sortiment aufzunehmen. Nach kurzer Diskussion wird die Entscheidung über den Ausbau des Webshops auf das Frühjahr vertagt.\n\n**TOP 4 Einführung Mitarbeiterkleidung**\n\nLC berichtet vom Stimmungsbild unter den Mitarbeitenden zum Thema Einheitliche Mitarbeiterkleidung. Nahezu alle Befragten haben sich ablehnend geäußert. Es wird beschlossen, dass es außer im Verkauf bei der alten Regelung bleibt.\n\n**TOP 5 Personelles**\n\nLC informiert darüber, dass Zaccarias Özil am 1. August diesen Jahres bei uns seine Ausbildung zum Einzelhandelskaufmann beginnen wird. Herr Özil kennt unsere Firma schon von einem Schüler- und einem zweimonatigen betrieblichen Praktikum nach seinem Schulabschluss. LC betont, dass man im Betrieb einen sehr guten Eindruck von Herrn Özil gewonnen habe und besonders seine Fremdsprachenkenntnisse hilfreiche eingebunden werden können.\n\n**TOP 6 Sonstiges**\n\nFS informiert über Probleme bei der Planung der Tage der Offenen Gärtnerei. Diese könnten in diesem Jahr nicht wie immer am ersten Mai-Wochenende stattfinden, da durch den Bau des neuen Gewächshauses noch nicht genug Schaufläche für die Fachbesucher zur Verfügung steht. Er schlägt für die Tage der Offenen Gärtnerei das zweite Wochenende im Juli vor. Nach Abstimmung wird das so beschlossen. Keine sonstigen Punkte durch die Teilnehmenden. Die nächste Sitzung findet am 28.02. statt.",
+    "aufgaben_list": [
+      {
+        "frage": "Das Protokoll der letzten Sitzung",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "hat Frau Willmann geschrieben."
+          },
+          {
+            "key": "b",
+            "text": "musste korrigiert werden."
+          },
+          {
+            "key": "c",
+            "text": "wird in mehreren Punkten ergänzt."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Die Verkäufe",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "einer neuen Pflanze waren unerwartet gut."
+          },
+          {
+            "key": "b",
+            "text": "für Schnittblumen haben sich positiv verändert."
+          },
+          {
+            "key": "c",
+            "text": "sind im vergangenen Jahr stark gefallen."
+          }
+        ],
+        "loesung": "a"
+      },
+      {
+        "frage": "Der Handel über das Internet",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "fängt jetzt erst an."
+          },
+          {
+            "key": "b",
+            "text": "macht noch keinen Gewinn."
+          },
+          {
+            "key": "c",
+            "text": "wird bald ausgebaut."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Der neue Auszubildende",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "beendet demnächst die Schule."
+          },
+          {
+            "key": "b",
+            "text": "ist das erste Mal im Betrieb."
+          },
+          {
+            "key": "c",
+            "text": "wird in sechs Monaten anfangen."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Der Geschäftsführer",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "berichtet von Problemen im Gewächshaus."
+          },
+          {
+            "key": "b",
+            "text": "plant im Sommer einen Geschäftsbesuch."
+          },
+          {
+            "key": "c",
+            "text": "verschiebt den Termin einer Veranstaltung."
+          }
+        ],
+        "loesung": "c"
+      }
+    ]
+}
+  

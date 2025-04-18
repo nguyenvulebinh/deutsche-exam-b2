@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**22. April 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum \"Eiche\", Werkstraße 5, 82031 Grünwald\n\n**Anwesende:**\n*   Herr Stefan Bauer (SB, Geschäftsführung)\n*   Frau Ingrid Hansen (IH, Leitung Produktion)\n*   Herr Jörg Müller (JM, Leitung Einkauf)\n*   Frau Sabine Keller (SK, Leitung Verkauf & Marketing)\n*   Herr Lars Richter (LR, Leitung Logistik & Lager)\n*   Frau Ayşe Yılmaz (AY, Qualitätsmanagement)\n*   Herr David Klein (DK, Assistenz der Geschäftsführung)\n\n**Entschuldigt:** Frau Petra Neumann (PN, Leitung Finanzen)\n\n**Sitzungsleitung:** Herr Stefan Bauer (SB)\n**Protokollant:** Herr David Klein (DK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 18.03.\n2.  Aktuelle Produktionslage und Herausforderungen (IH)\n3.  Lieferantensituation Holzart \"Buche\" (JM)\n4.  Neue Marketingkampagne \"Natürlich Wohnen\" (SK)\n5.  Vorbereitungen Möbelmesse Köln (LR, SK)\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 18.03.**\n\nSB begrüßt die Anwesenden. Er bittet um Genehmigung des Protokolls der letzten Sitzung vom 18. März. AY bittet um eine Korrektur bei TOP 4 im alten Protokoll: Die Abweichung bei der Holzhärteprüfung lag bei 3%, nicht wie notiert bei 5%. Mit dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionslage und Herausforderungen**\n\nIH berichtet über die generelle Auslastung, die gut ist. Allerdings gibt es derzeit einen Engpass bei der Stuhlserie \"Waldsee\". Grund hierfür ist ein technischer Defekt an der zentralen Schleifmaschine, der seit gestern besteht. Die Reparatur ist beauftragt, die voraussichtliche Ausfallzeit beträgt laut Techniker etwa eine Woche. IH prüft Möglichkeiten, andere Aufträge vorzuziehen, um die Gesamtverzögerung gering zu halten.\n\n**TOP 3 Lieferantensituation Holzart \"Buche\"**\n\nJM informiert über anhaltende Qualitätsprobleme mit der letzten Lieferung Buchenholz vom Lieferanten Holzmann AG. Es wurden vermehrt Risse im Material festgestellt, was AY bestätigt. JM führt bereits Gespräche mit Holzmann AG bezüglich einer Reklamation und Minderung. Parallel dazu holt er Angebote von zwei alternativen Lieferanten ein, eine Entscheidung über einen möglichen Wechsel steht aber noch aus. Bis zur Klärung wird die Verarbeitung des betroffenen Holzes für hochwertige Sichtflächen gestoppt.\n\n**TOP 4 Neue Marketingkampagne \"Natürlich Wohnen\"**\n\nSK stellt die Details der neuen Marketingkampagne \"Natürlich Wohnen\" vor. Die Kampagne soll Anfang Mai starten und sich auf umweltbewusste Familien als Zielgruppe konzentrieren. Hauptkanäle werden Social Media (Instagram, Pinterest) und der Firmenblog sein, ergänzt durch Anzeigen in regionalen Wohnmagazinen. DK wird SK bei der Erstellung von Blogbeiträgen unterstützen.\n\n**TOP 5 Vorbereitungen Möbelmesse Köln**\n\nDie Vorbereitungen für die Möbelmesse Köln im Juni laufen. SK präsentiert den finalen Entwurf für den Messestand (Halle 3, Stand C24, 50qm). LR bestätigt, dass der Transport der Ausstellungsmöbel beauftragt ist und bis Ende nächster Woche erfolgen soll. SK wird den detaillierten Standbesetzungsplan bis Montag an alle Beteiligten versenden.\n\n**TOP 6 Sonstiges**\n\nAY berichtet kurz über positive Testergebnisse eines neuen, ökologischen Holzlacks, der eventuell zukünftig eingesetzt werden könnte. Weitere Tests folgen. SB weist auf die Abwesenheit von PN (Finanzen) hin und bittet darum, finanzrelevante Anfragen direkt per E-Mail an sie zu richten. Die nächste Sitzung findet am 20. Mai um 10:00 Uhr statt. Sitzungsende: 11:32 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 18.03.",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde nach einem Hinweis von Frau Yılmaz korrigiert."
+                },
+                {
+                    "key": "b",
+                    "text": "enthielt einen Fehler bei den Produktionszahlen von Frau Hansen."
+                },
+                {
+                    "key": "c",
+                    "text": "ist ohne Anmerkungen angenommen worden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Produktion der Stuhlserie \"Waldsee\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verzögert sich wegen fehlenden Buchenholzes."
+                },
+                {
+                    "key": "b",
+                    "text": "ist aufgrund eines Maschinendefekts verspätet."
+                },
+                {
+                    "key": "c",
+                    "text": "kann voraussichtlich erst in einem Monat wieder starten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Herr Müller berichtet, dass",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Lieferant Holzmann AG Buchenholz zu spät liefert."
+                },
+                {
+                    "key": "b",
+                    "text": "es Qualitätsprobleme mit geliefertem Buchenholz gibt."
+                },
+                {
+                    "key": "c",
+                    "text": "bereits ein neuer Holzanbieter gefunden wurde."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Marketingkampagne",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "startet Anfang nächsten Monats."
+                },
+                {
+                    "key": "b",
+                    "text": "konzentriert sich ausschließlich auf Social Media."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Herrn Richter geleitet."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Für die Möbelmesse in Köln",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist Herr Richter für das Standdesign verantwortlich."
+                },
+                {
+                    "key": "b",
+                    "text": "steht ein Stand mit der Nummer C50 zur Verfügung."
+                },
+                {
+                    "key": "c",
+                    "text": "organisiert Herr Richter den Transport der Ausstellungsmöbel."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

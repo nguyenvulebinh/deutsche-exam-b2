@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll - Teammeeting\n\n**12. September 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum \"Ideenquelle\", Hauptstraße 45, 10115 Berlin\n\n**Anwesende:**\n*   Frau Dr. Anna Herzog (AH, Geschäftsführung)\n*   Herr Stefan Meier (SM, Leitung Marketing)\n*   Frau Julia Wagner (JW, Leitung Events)\n*   Herr Ben Schmidt (BS, Leitung IT)\n*   Frau Lena Kraus (LK, Finanzen)\n*   Herr David Chen (DC, Senior Berater Vertrieb)\n*   Frau Sabine Klein (SK, Assistenz)\n\n**Entschuldigt:** Herr Tim Bauer (TB, Junior Designer)\n\n**Sitzungsleitung:** Dr. Anna Herzog (AH)\n**Protokollant/in:** Sabine Klein (SK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.08.20XX\n2.  Rückblick Kampagne \"Sommerfrische 20XX\"\n3.  Planung Kundenjubiläum Fa. TechnoBuild GmbH\n4.  Einführung neue CRM-Software \"ClientConnect 3.0\"\n5.  Stand Projekt Website-Relaunch\n6.  Sonstiges (Team-Event, Praktikant)\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.08.20XX**\n\nAH begrüßt alle Anwesenden zum heutigen Meeting. Das Protokoll der Sitzung vom 15. August wird zur Genehmigung vorgelegt. LK bittet um eine Korrektur in TOP 4 des alten Protokolls bezüglich einer genannten Budgetsumme, die um 50€ abweicht. Nach Eintrag der Korrektur durch SK wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Rückblick Kampagne \"Sommerfrische 20XX\"**\n\nSM präsentiert die Auswertung der Marketingkampagne \"Sommerfrische\". Die Kampagne führte zu einer Steigerung der qualifizierten Leads um 15% gegenüber der Prognose. Das Kundenfeedback war durchweg sehr positiv. Lediglich von einem Großkunden gab es die Anmerkung, dass die Reaktionszeit auf Anfragen über Social-Media-Kanäle teilweise etwas länger als erwartet war. SM nimmt dies zur Kenntnis und wird interne Prozesse prüfen. AH dankt SM und dem Marketingteam für die erfolgreiche Umsetzung.\n\n**TOP 3 Planung Kundenjubiläum Fa. TechnoBuild GmbH**\n\nJW stellt das Grobkonzept für die Feier zum 25-jährigen Bestehen der TechnoBuild GmbH vor. Als Veranstaltungsdatum wird der 18. November 20XX vorgeschlagen. Für die Location wurden zwei Optionen geprüft: das Hotel Adlon und die Eventlocation \"Spreeblick\". JW hat LK einen detaillierten Budgetvorschlag übermittelt. Die finale Freigabe durch AH erfolgt nach Prüfung durch LK in der kommenden Woche. Um eine der Locations verbindlich zu reservieren, benötigt JW die Entscheidung bis Ende dieser Woche. DC übernimmt die Koordination der Einladungen für die VIP-Gäste.\n\n**TOP 4 Einführung neue CRM-Software \"ClientConnect 3.0\"**\n\nBS erläutert den Zeitplan für die Einführung der neuen CRM-Software \"ClientConnect 3.0\". Die Migration der Kundendaten aus dem Altsystem ist für das Wochenende vom 07./08. Oktober geplant. In der Kalenderwoche 41 (ab 09.10.) finden verpflichtende Schulungen für alle betroffenen Mitarbeiterinnen und Mitarbeiter statt. Ziel der Software ist eine deutliche Effizienzsteigerung in der Kundenverwaltung und im Vertriebsprozess. BS weist auf die Herausforderung hin, die Vollständigkeit und Korrektheit der Daten während der Migration sicherzustellen und bittet die Abteilungen um Unterstützung bei der Datenprüfung vorab.\n\n**TOP 5 Stand Projekt Website-Relaunch**\n\nSM berichtet über den Fortschritt des Website-Relaunchs. Die Designphase wurde erfolgreich abgeschlossen und von der Geschäftsführung freigegeben. Die technische Entwicklung durch die beauftragte externe Agentur \"Pixel Perfect\" läuft derzeit planmäßig. Der angestrebte Launch-Termin Ende Oktober kann nach aktueller Einschätzung gehalten werden. SM merkt an, dass noch einige finale Textinhalte aus dem Marketing fehlen; SK wird die Zuarbeit bis diesen Freitag koordinieren.\n\n**TOP 6 Sonstiges (Team-Event, Praktikant)**\n\nJW schlägt zur Stärkung des Teamgeists ein gemeinsames Bowling-Event für Mitte Dezember vor. Sie bittet die Abteilungsleiter, die generelle Verfügbarkeit ihrer Teams zu prüfen. Ein konkreter Terminvorschlag und die Budgetanfrage folgen separat. AH informiert die Runde, dass Herr Max Mustermann ab dem 01.10.20XX für drei Monate ein Praktikum im Bereich Marketing absolvieren wird.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung leicht korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "konnte nicht genehmigt werden, da Punkte fehlten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kampagne \"Sommerfrische\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verlief ohne jegliche kritische Rückmeldung."
+                },
+                {
+                    "key": "b",
+                    "text": "brachte mehr Kundenkontakte als erwartet."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Frau Wagner (JW) verantwortet."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Jubiläum für TechnoBuild",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat bereits ein fest reserviertes Hotel."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert noch die Freigabe des Budgets durch die Leitung."
+                },
+                {
+                    "key": "c",
+                    "text": "findet sicher am 18. November statt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue CRM-Software \"ClientConnect 3.0\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits seit Anfang September genutzt."
+                },
+                {
+                    "key": "b",
+                    "text": "birgt Risiken bei der Übertragung alter Daten."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von der IT-Abteilung selbst programmiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Website-Relaunch",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verzögert sich wegen Problemen mit der Agentur."
+                },
+                {
+                    "key": "b",
+                    "text": "wird derzeit von einer externen Firma technisch umgesetzt."
+                },
+                {
+                    "key": "c",
+                    "text": "befindet sich noch in der Planungs- und Designphase."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

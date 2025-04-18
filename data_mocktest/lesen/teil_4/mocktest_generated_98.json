@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**15. November 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Konferenzraum 'Rosengarten', Hauptstraße 12, 54321 Sonnenberg\n\n**Anwesende:**\n*   Stefan Meier (SM, Geschäftsführer)\n*   Klaus Berger (KB, Leitung Projektmanagement)\n*   Lena Fischer (LF, Personalwesen)\n*   Petra Nowak (PN, Kundenbetreuung & Vertrieb)\n*   Ahmed Yilmaz (AY, Einkauf & Materialwirtschaft)\n*   Britta Klein (BK, Sekretariat)\n\n**Sitzungsleitung:** Klaus Berger\n**Protokollantin:** Britta Klein\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Rückblick Großprojekte Herbst & Ausblick Winterdienst\n3.  Materialbeschaffung und Lagerbestand\n4.  Personalsituation und Fortbildung\n5.  Kundenfeedback und Neukundenakquise\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nKB begrüßt alle Anwesenden pünktlich zur Sitzung. Das Protokoll der letzten Sitzung vom 18. Oktober 20XX wird ohne Einwände einstimmig genehmigt.\n\n**TOP 2 Rückblick Großprojekte Herbst & Ausblick Winterdienst**\n\nKB berichtet, dass das große Herbstprojekt „Parkgestaltung Villa Rosenhain“ erfolgreich und termingerecht abgeschlossen werden konnte. Die Abnahme durch den Kunden erfolgte letzte Woche ohne Beanstandungen.\nBezüglich des bevorstehenden Winterdienstes informiert KB, dass die Verträge mit den wichtigsten städtischen Kunden gesichert sind. Aufgrund der hohen Auslastung wird jedoch beschlossen, keine neuen Privatkunden für den Winterdienst in dieser Saison aufzunehmen, um die Qualität für Bestandskunden zu sichern. KB koordiniert die Einsatzplanung der Teams.\n\n**TOP 3 Materialbeschaffung und Lagerbestand**\n\nAY berichtet von einem aktuellen Lieferengpass bei unserem Hauptlieferanten für hochwertige Gehwegplatten. Als Grund wurde eine unerwartet hohe Nachfrage im Bausektor genannt. Eine alternative Bezugsquelle konnte gefunden werden, allerdings zu einem um ca. 15% höheren Preis. Es wird vereinbart, vorerst nur für dringende Projekte beim teureren Anbieter zu bestellen.\nAY wird zudem bis Ende der Woche den genauen Lagerbestand an Streusalz prüfen und KB sowie SM über das Ergebnis informieren, um bei Bedarf rechtzeitig nachbestellen zu können.\n\n**TOP 4 Personalsituation und Fortbildung**\n\nLF erläutert die Personalsituation. Für den Winterdienst werden zusätzliche Saisonkräfte benötigt. Die Suche nach qualifiziertem Personal gestaltet sich jedoch schwierig. Bisher konnten erst drei von fünf benötigten Aushilfen fest verpflichtet werden.\nLF weist auf die verpflichtende Sicherheitsschulung für alle Mitarbeitenden (neue und bestehende), die im Winterdienst eingesetzt werden, hin. Diese findet in der ersten Dezemberwoche statt. LF kümmert sich um die Organisation und die Einladungen.\n\n**TOP 5 Kundenfeedback und Neukundenakquise**\n\nPN berichtet über überwiegend positives Kundenfeedback aus dem Herbst, insbesondere zur Gestaltung der Villa Rosenhain. Es gab jedoch eine Beschwerde bezüglich der Rasenpflege beim Objekt „Bürokomplex Nord“ im Oktober, die auf einen kurzfristigen Personalwechsel zurückzuführen war. PN wird sich noch diese Woche persönlich mit dem Kunden in Verbindung setzen, um die Situation zu klären und eine Lösung anzubieten.\nFür das kommende Frühjahr schlägt PN eine Flyer-Aktion zur Bewerbung der Frühjahrsdienste (z.B. Beetpflege, Heckenschnitt) vor, die gezielt in Neubaugebieten verteilt werden soll. Der Vorschlag wird angenommen. PN wird ein Konzept dazu ausarbeiten.\n\n**TOP 6 Sonstiges**\n\nSM informiert über die geplante Weihnachtsfeier des Betriebs. Sie findet am Freitag, den 15. Dezember, ab 18:00 Uhr im Restaurant „Zum grünen Daumen“ statt. Alle Mitarbeiterinnen und Mitarbeiter sind herzlich eingeladen. Um Anmeldung bei BK wird bis spätestens Ende November gebeten, damit die Plätze reserviert werden können. Weitere Punkte werden nicht angesprochen. Die Sitzung endet pünktlich um 10:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Der Winterdienst für Privatkunden",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird in dieser Saison komplett eingestellt."
+                },
+                {
+                    "key": "b",
+                    "text": "kann in dieser Saison nicht ausgeweitet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "hat Vorrang vor den städtischen Aufträgen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Bei der Materialbeschaffung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "fehlt es momentan besonders an Streusalz."
+                },
+                {
+                    "key": "b",
+                    "text": "sind vor allem die hohen Kosten das Problem."
+                },
+                {
+                    "key": "c",
+                    "text": "gibt es bei einem Zulieferer einen Engpass."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Sicherheitsschulung im Dezember",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist nur für die neuen Saisonkräfte gedacht."
+                },
+                {
+                    "key": "b",
+                    "text": "muss von allen Winterdienst-Mitarbeitern besucht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist freiwillig für erfahrene Kollegen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Wegen der Kundenbeschwerde",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "gab es Probleme beim Projekt „Villa Rosenhain“."
+                },
+                {
+                    "key": "b",
+                    "text": "wird Frau Nowak persönlich Kontakt aufnehmen."
+                },
+                {
+                    "key": "c",
+                    "text": "ist ein Wechsel des zuständigen Personals geplant."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Weihnachtsfeier des Betriebs",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet in einem Restaurant statt."
+                },
+                {
+                    "key": "b",
+                    "text": "ist für Ende November geplant."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Frau Klein organisiert."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

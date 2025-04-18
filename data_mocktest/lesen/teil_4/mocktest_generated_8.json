@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 10:00 – 11:45 Uhr**\n**Ort:** Großer Besprechungsraum (Raum A12), Firmenzentrale, Industriestraße 5, 67890 Neustadt\n\n**Anwesende:**\n*   Herr Dr. Thomas Fischer (TF, Geschäftsführung)\n*   Frau Sabine Berger (SB, Leitung Personal)\n*   Herr Markus Klein (MK, Leitung Fuhrpark)\n*   Frau Anja Weber (AW, Leitung Disposition)\n*   Herr Cem Yilmaz (CY, Leitung IT)\n*   Frau Petra Neumann (PN, Leitung Finanzen)\n*   Herr David Meier (DM, Assistenz GF)\n\n**Entschuldigt:**\n*   Herr Lars Jensen (LJ, Leitung Vertrieb)\n\n**Sitzungsleitung:** Dr. Thomas Fischer (TF)\n**Protokollant:** David Meier (DM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.09.20XX\n2.  Aktueller Stand Fuhrpark: Wartung und Neuanschaffung E-Transporter\n3.  Einführung neue Dispositionssoftware \"RouteMax\"\n4.  Personalbedarf Fahrer und Lager\n5.  Ergebnisse Kundenbefragung Q3\n6.  Planung Weihnachtsfeier\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.09.20XX**\n\nTF begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der letzten Sitzung vom 15. September wird zur Genehmigung vorgelegt. PN bittet um eine Korrektur bei TOP 4 (Budgetplanung): Die genannte Summe für IT-Investitionen war nicht final, sondern ein erster Schätzwert. Nach Aufnahme dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktueller Stand Fuhrpark: Wartung und Neuanschaffung E-Transporter**\n\nMK berichtet, dass die regulären Wartungsarbeiten an allen LKWs und Transportern planmäßig verlaufen. Es gibt keine größeren technischen Ausfälle zu vermelden.\nBezüglich der Neuanschaffungen informiert MK, dass der Beschluss gefasst wurde, vier neue E-Transporter zu bestellen. Diese sollen ältere Diesel-Modelle ersetzen und zur Verbesserung der Umweltbilanz beitragen. Die Lieferung wird bis Ende des ersten Quartals des kommenden Jahres erwartet. Voraussetzung für die verbindliche Bestellung ist jedoch die positive Entscheidung über den eingereichten Antrag auf staatliche Fördermittel. MK ist optimistisch, dass dieser bewilligt wird.\n\n**TOP 3 Einführung neue Dispositionssoftware \"RouteMax\"**\n\nCY gibt einen aktuellen Sachstand zur neuen Dispositionssoftware \"RouteMax\". Diese befindet sich seit Anfang Oktober in der aktiven Testphase direkt in der Disposition. Erste Rückmeldungen von den Disponenten sind positiv, insbesondere bezüglich der Benutzerfreundlichkeit.\nAW ergänzt, dass die Software stabile Läufe zeigt, konkrete, messbare Zeit- oder Kostenersparnisse jedoch noch nicht quantifiziert werden können. Das sei in dieser frühen Phase aber normal. Die Schulung der Disponenten wird nächste Woche durch die IT-Abteilung (Herr Yilmaz und Team) durchgeführt. Die vollständige operative Einführung der Software ist weiterhin für Anfang Dezember geplant.\n\n**TOP 4 Personalbedarf Fahrer und Lager**\n\nSB erläutert die angespannte Personalsituation. Aktuell sind drei Stellen für Berufskraftfahrer (m/w/d) unbesetzt. Noch dringender sei der Bedarf im Lager: Hier fehlen zwei ausgebildete Lageristen mit gültigem Staplerschein. Aufgrund des bevorstehenden Weihnachtsgeschäfts muss hier schnell gehandelt werden.\nAls Sofortmaßnahmen werden die Stellenausschreibungen auf relevanten Online-Jobportalen intensiviert. Zusätzlich wird ab sofort eine interne \"Mitarbeiter-werben-Mitarbeiter\"-Prämie eingeführt, um Anreize für Empfehlungen zu schaffen. Ziel ist es, alle offenen Positionen möglichst bis zum Jahresende zu besetzen.\n\n**TOP 5 Ergebnisse Kundenbefragung Q3**\n\nTF präsentiert die zentralen Ergebnisse der Kundenbefragung für das dritte Quartal. Die Kunden zeigten sich weiterhin sehr zufrieden mit der Freundlichkeit des Fahrpersonals und der Zuverlässigkeit der Terminabsprachen. Hauptkritikpunkte waren jedoch die Kommunikation bei unvorhergesehenen Verspätungen sowie in Einzelfällen der Zustand der äußeren Transportverpackung bei Anlieferung.\nAls Konsequenz wird beschlossen: AW prüft mit ihrem Team in der Disposition, wie die proaktive Benachrichtigung der Kunden bei drohenden Verspätungen verbessert werden kann. MK wird eine kurze Auffrischungsschulung zur optimalen Ladungssicherung und zum sorgsamen Umgang mit Verpackungen für das Fahr- und Lagerpersonal organisieren.\n\n**TOP 6 Planung Weihnachtsfeier**\n\nSB stellt im Auftrag der Geschäftsführung erste Überlegungen zur diesjährigen Weihnachtsfeier vor. Als möglicher Termin wird Freitag, der 15. Dezember, vorgeschlagen. Als Veranstaltungsort käme die Eventhalle Neustadt in Frage. Der Budgetrahmen wird auf ca. 50 Euro pro Person festgelegt. Die Organisation der Feier übernimmt federführend die Personalabteilung (Team SB). Eingeladen werden sollen ausschließlich die Mitarbeiterinnen und Mitarbeiter der LogiTrans GmbH. TF bittet alle Anwesenden um eine kurze Rückmeldung zur Termineignung bis Ende nächster Woche, damit die weiteren Schritte eingeleitet werden können.\n\n**TOP 7 Sonstiges**\n\nKeine weiteren Wortmeldungen. TF bedankt sich für die konstruktive Sitzung und schließt sie um 11:40 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Die neuen E-Transporter",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden noch in diesem Jahr geliefert."
+                },
+                {
+                    "key": "b",
+                    "text": "können nur mit staatlicher Hilfe gekauft werden."
+                },
+                {
+                    "key": "c",
+                    "text": "erweitern den bestehenden Fuhrpark."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Software \"RouteMax\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat bereits zu deutlichen Zeitersparnissen geführt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird derzeit von den Disponenten geprüft."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Frau Weber geschult."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Personalmangel",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "betrifft ausschließlich die Fahrer."
+                },
+                {
+                    "key": "b",
+                    "text": "soll unter anderem durch finanzielle Anreize behoben werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist momentan besonders im Fahrerbereich kritisch."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundenbefragung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigte vor allem Probleme mit der Pünktlichkeit."
+                },
+                {
+                    "key": "b",
+                    "text": "führt zu Maßnahmen in verschiedenen Abteilungen."
+                },
+                {
+                    "key": "c",
+                    "text": "ergab eine insgesamt niedrige Zufriedenheit."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Weihnachtsfeier",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet sicher am 15. Dezember statt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von der Personalabteilung organisiert."
+                },
+                {
+                    "key": "c",
+                    "text": "hat ein höheres Budget als letztes Jahr."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

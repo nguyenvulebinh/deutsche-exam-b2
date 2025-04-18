@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**14. Oktober 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Besprechungsraum 'Zukunft', Innovatec Robotics GmbH, Industriestraße 12, 60314 Frankfurt am Main\n\n**Anwesende:**\n*   Dr. Lena Wagner (LW, Geschäftsführerin)\n*   Markus Keller (MK, Leitung Produktion)\n*   Sandra Berger (SB, Leitung Vertrieb & Marketing)\n*   Tim Schneider (TS, Leitung Entwicklung)\n*   Jasmin Huber (JH, Leitung Personal)\n*   Felix Roth (FR, Leitung Einkauf)\n*   Noah Becker (NB, IT-Koordinator)\n\n**Entschuldigt:**\n*   Isabelle Dubois (ID, Finanzen)\n\n**Sitzungsleitung:** Dr. Lena Wagner (LW)\n**Protokollantin:** Jasmin Huber (JH)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 10.09.20XX\n2.  Bericht Vertrieb & Marketing: Aktuelle Marktlage und neue Kampagne\n3.  Statusbericht Projekt \"RoboScan 2.0\"\n4.  Optimierung der internen IT-Infrastruktur\n5.  Personalplanung Q1 nächstes Jahr\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 10.09.20XX**\n\nLW begrüßt die Anwesenden. Das Protokoll der Sitzung vom 10. September 20XX wird ohne Einwände einstimmig genehmigt.\n\n**TOP 2 Bericht Vertrieb & Marketing: Aktuelle Marktlage und neue Kampagne**\n\nSB berichtet über eine insgesamt positive Absatzentwicklung im letzten Quartal. Besonders erfreulich entwickeln sich die Verkäufe in Skandinavien, die 20% über Plan liegen. Um diesen Trend zu unterstützen und neue Märkte zu erschließen, startet nächsten Monat (November) eine gezielte Online-Marketingkampagne für die Produktlinie 'LogiBot'. Die Kampagne umfasst Social Media Aktivitäten und Webinare. SB bittet alle um Unterstützung bei der Verbreitung der Inhalte.\n\n**TOP 3 Statusbericht Projekt \"RoboScan 2.0\"**\n\nTS informiert über den aktuellen Stand des Projekts \"RoboScan 2.0\". Die ersten Tests des Prototyps verliefen erfolgreich und zeigten eine hohe Leistungsfähigkeit. Es sind jedoch noch geringfügige Anpassungen bei der Sensorempfindlichkeit notwendig, um die Fehlerquote unter 0,1% zu senken. Dies erfordert eine enge Abstimmung mit der Produktion (MK). Aufgrund dieser notwendigen Justierungen verschiebt sich der geplante Markteinführungstermin voraussichtlich auf Ende Q1 des kommenden Jahres, statt wie ursprünglich geplant im Februar.\n\n**TOP 4 Optimierung der internen IT-Infrastruktur**\n\nNB erläutert die Pläne zur Migration der Hauptserver auf eine neue Hardware-Plattform. Diese Maßnahme ist für das Wochenende vom 25. zum 26. November geplant. Während der Umstellung in der Nacht von Samstag auf Sonntag ist mit einer potenziellen Nichterreichbarkeit interner Dienste (E-Mail, Intranet) von maximal 4 Stunden zu rechnen. Ein detaillierter Kommunikationsplan mit genauen Zeiten und Ansprechpartnern wird in der nächsten Woche an alle Mitarbeitenden versendet.\n\n**TOP 5 Personalplanung Q1 nächstes Jahr**\n\nJH stellt die vorläufige Personalplanung für das erste Quartal des nächsten Jahres vor. Basierend auf den Wachstumsprognosen und Projekten werden voraussichtlich zwei neue Softwareentwickler für das Team von TS und ein zusätzlicher Servicetechniker für die Produktion (MK) benötigt. Die endgültige Budgetfreigabe durch ID steht noch aus. JH bittet TS und MK, die detaillierten Anforderungsprofile für die neuen Stellen bis Ende dieses Monats (Oktober) an die Personalabteilung zu übermitteln, um die Ausschreibungen zeitnah vorbereiten zu können.\n\n**TOP 6 Sonstiges**\n\nFR berichtet über eine Mitteilung des Lieferanten 'Sensoren GmbH', der eine potenzielle Preiserhöhung für wichtige Bauteile ab Januar angekündigt hat. Eine verbindliche Bestätigung und genaue Details stehen jedoch noch aus. FR bleibt mit dem Lieferanten in Kontakt.\nLW weist abschließend auf eine obligatorische, firmenweite Sicherheitsschulung hin, die im Dezember stattfinden wird. Der genaue Termin wird noch bekannt gegeben. Alle Mitarbeitenden sind zur Teilnahme verpflichtet.",
+    "aufgaben_list": [
+        {
+            "frage": "Die neue Marketingkampagne",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde bereits erfolgreich gestartet."
+                },
+                {
+                    "key": "b",
+                    "text": "konzentriert sich auf den skandinavischen Markt."
+                },
+                {
+                    "key": "c",
+                    "text": "soll den Verkauf eines bestimmten Robotertyps fördern."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das Projekt \"RoboScan 2.0\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "benötigt eine Zusammenarbeit zwischen Entwicklung und Produktion."
+                },
+                {
+                    "key": "b",
+                    "text": "wird pünktlich im Februar nächsten Jahres eingeführt."
+                },
+                {
+                    "key": "c",
+                    "text": "ist abgeschlossen, da die Prototypen funktionierten."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die geplante Server-Migration",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet nächstes Wochenende statt."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert, dass alle Mitarbeiter am 25./26. November nicht arbeiten."
+                },
+                {
+                    "key": "c",
+                    "text": "wird nächste Woche den Mitarbeitern angekündigt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Neueinstellungen im nächsten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind bereits vom Finanzressort genehmigt worden."
+                },
+                {
+                    "key": "b",
+                    "text": "betreffen vor allem die Abteilung von Herrn Schneider und Herrn Keller."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen von Frau Huber bis Ende Oktober ausgewählt werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Im Bereich \"Sonstiges\" wurde berichtet,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass die Preise für Sensoren definitiv steigen werden."
+                },
+                {
+                    "key": "b",
+                    "text": "dass eine Sicherheitsschulung für alle im Dezember stattfindet."
+                },
+                {
+                    "key": "c",
+                    "text": "dass Herr Roth eine Schulung im Dezember organisieren soll."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

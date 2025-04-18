@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 14:00 – 15:45 Uhr**\n**Ort:** Besprechungsraum „Alpenblick“, EcoTech-Zentrale, Technologiestraße 5, 87654 Bergstadt\n\n**Anwesende:**\n*   Dr. Hanna Klein (HK, Geschäftsführerin)\n*   Markus Weber (MW, Leitung Produktion)\n*   Silke Schneider (SS, Leitung Einkauf)\n*   Jonas Baumann (JB, Leitung Marketing & Verkauf)\n*   Petra Vogel (PV, Leitung Personal)\n*   David Chen (DC, Leitung IT)\n*   Klaus Richter (KR, Qualitätsmanagement)\n\n**Entschuldigt:** Sabine Ernst (SE, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Hanna Klein (HK)\n**Protokollant:** David Chen (DC)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.08.20XX\n2.  Aktuelle Produktionslage und Lieferzeiten\n3.  Fortschritt Nachhaltigkeitsinitiative „EcoPlus“\n4.  Marketingkampagne „Zukunftssicher“\n5.  Personalplanung Q4\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.08.20XX**\n\nHK begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der letzten Sitzung vom 15. August 20XX wird ohne Änderungswünsche einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionslage und Lieferzeiten**\n\nMW berichtet über die aktuelle Situation in der Produktion. Es gibt derzeit eine Verzögerung von ca. zwei Wochen bei der Lieferung des Bauteils „SensorTyp X“, was auf Lieferengpässe beim Zulieferer „Supplier Alpha“ zurückzuführen ist. Andere Komponenten sind nicht betroffen. Die Gesamtkapazität der Produktion ist ausreichend, und die angepassten Liefertermine für die Endprodukte können voraussichtlich eingehalten werden. KR fügt hinzu, dass für die verspätet eintreffenden Bauteile zusätzliche Qualitätskontrollen eingeplant sind, um sicherzustellen, dass keine Mängel übersehen werden.\n\n**TOP 3 Fortschritt Nachhaltigkeitsinitiative „EcoPlus“**\n\nSS gibt einen Überblick über die Initiative „EcoPlus“. Beim Ziel, den Anteil recycelter Materialien zu erhöhen, gibt es gute Fortschritte: Für die Kunststoffgehäuse wird das Ziel von 30% Recyclinganteil bereits erreicht. Schwierigkeiten bereitet jedoch die Beschaffung von zertifiziertem recyceltem Kupfer zu wirtschaftlichen Preisen. SS wird bis Ende Oktober alternative Lieferanten oder Materialien prüfen und Vorschläge präsentieren. Bezüglich des Ziels der Energieeinsparung (10% bis Jahresende) liegt man aktuell bei einer Reduktion von 6% im Vergleich zum Vorjahr.\n\n**TOP 4 Marketingkampagne „Zukunftssicher“**\n\nJB stellt das Konzept der neuen Marketingkampagne „Zukunftssicher“ vor. Der Fokus liegt auf der Kommunikation der Langlebigkeit und Reparaturfreundlichkeit der EcoTech-Produkte. Der Kampagnenstart ist für den 15. November geplant. Das zentrale Kampagnenmotiv wurde bereits intern freigegeben. Ein Teil des Budgets, speziell die Mittel für geplante Kooperationen mit Influencern, bedarf jedoch noch der finalen Genehmigung durch SE (Finanzen). JB wird dies direkt mit SE nach ihrer Rückkehr klären.\n\n**TOP 5 Personalplanung Q4**\n\nPV berichtet über den Personalbedarf für das vierte Quartal. Aufgrund der guten Auftragslage werden dringend zwei zusätzliche Technikerinnen oder Techniker in der Produktion benötigt. Die Stellenausschreibungen sind erfolgt, und erste Bewerbungsgespräche laufen bereits. Ziel ist es, die Positionen bis zum 01. November zu besetzen. Für die Einarbeitung wird ein Plan erstellt; DC sichert Unterstützung bei der Einrichtung der IT-Zugänge und der Einweisung in die relevanten Systeme zu.\n\n**TOP 6 Sonstiges**\n\nHK informiert die Anwesenden über eine bevorstehende externe Auditierung des Unternehmens, die für Anfang Dezember geplant ist. Sie erinnert in diesem Zusammenhang erneut an die strikte Einhaltung der Datenschutzrichtlinien im Umgang mit Kunden- und Mitarbeiterdaten. DC bestätigt, dass die IT-Systeme entsprechend vorbereitet sind und alle notwendigen Sicherheitsupdates durchgeführt wurden. HK erwähnt abschließend kurz, dass im nächsten Jahr das 25-jährige Firmenjubiläum ansteht und erste Ideen zur Gestaltung gesammelt werden sollen.",
+    "aufgaben_list": [
+        {
+            "frage": "Produktionsverzögerungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind auf Probleme mit einem Zulieferer zurückzuführen."
+                },
+                {
+                    "key": "b",
+                    "text": "werden durch fehlende Kapazitäten in der Firma verursacht."
+                },
+                {
+                    "key": "c",
+                    "text": "betreffen alle Bauteile und gefährden die Jahresziele."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Nachhaltigkeitsziele",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "für Energieeinsparung wurden bereits vollständig erreicht."
+                },
+                {
+                    "key": "b",
+                    "text": "konnten beim Recycling von Kunststoffgehäusen erfüllt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordern, dass alle Materialien bis Oktober recycelt werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Marketingkampagne „Zukunftssicher“",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "startet erst nach Genehmigung des Gesamtbudgets durch Frau Ernst."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde von Herrn Baumann und Frau Ernst gemeinsam konzipiert."
+                },
+                {
+                    "key": "c",
+                    "text": "hebt die Langlebigkeit der Produkte hervor."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Frau Vogel (Personal)",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sucht aktuell zwei neue Mitarbeitende für die Produktion."
+                },
+                {
+                    "key": "b",
+                    "text": "hat die benötigten Techniker bereits zum 1. November eingestellt."
+                },
+                {
+                    "key": "c",
+                    "text": "soll Herrn Chen bei der IT-Schulung neuer Mitarbeiter unterstützen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Im Protokoll steht, dass",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Herr Chen heute die Sitzung geleitet hat."
+                },
+                {
+                    "key": "b",
+                    "text": "bald eine externe Firmenprüfung stattfinden wird."
+                },
+                {
+                    "key": "c",
+                    "text": "das Firmenjubiläum bereits im Dezember gefeiert wird."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

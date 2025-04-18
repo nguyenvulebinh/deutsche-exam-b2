@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**14. Mai 20XX, 09:30 – 11:00 Uhr**\n**Ort:** Besprechungsraum \"Berlin\", Hauptstraße 12, 10115 Berlin\n\n**Anwesende:**\n*   Dr. Lena Wagner (LW, Geschäftsführung/CEO)\n*   Markus Klein (MK, Leitung Vertrieb)\n*   Sabine Huber (SH, Leitung IT)\n*   Thomas Beyer (TB, Leitung Personal)\n*   Anna Fischer (AF, Leitung Marketing)\n*   Jan Schmidt (JS, Projektmanager)\n*   David Müller (DM, Assistenz)\n\n**Entschuldigt:** - \n**Sitzungsleitung:** Sabine Huber (SH)\n**Protokollant:** David Müller (DM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 16. April 20XX\n2.  Aktuelle Verkaufszahlen Q1/20XX\n3.  Personalplanung: Neueinstellungen\n4.  Projekt \"Intranet Relaunch\": Kick-off und nächste Schritte\n5.  Planung Sommerfest 20XX\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 16. April 20XX**\n\nSH eröffnet die Sitzung und begrüßt alle Anwesenden. Sie bittet um Prüfung und Genehmigung des Protokolls der letzten Sitzung vom 16. April. MK bittet um eine Korrektur unter TOP 6 (Sonstiges): Das dort erwähnte Datum für die Messe \"Connecta\" war nicht der 15.06., sondern der 25.06. Nach Aufnahme dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen Q1/20XX**\n\nMK präsentiert die Verkaufszahlen für das erste Quartal 20XX. Insgesamt liegt der Umsatz 15% über dem des Vorjahresquartals (Q1/20XX-1). Dies ist maßgeblich auf einen neuen Großkunden im Bereich Softwarelösungen zurückzuführen. Besonders positiv entwickelte sich Produkt A (Lizenzmodell) mit einem Zuwachs von 25%. Produkt B (Hardware-Komponenten) verzeichnete hingegen einen leichten Rückgang von 5%. MK betont, dass trotz des Rückgangs bei Produkt B die Gesamtentwicklung sehr erfreulich ist.\n\n**TOP 3 Personalplanung: Neueinstellungen**\n\nTB informiert über den Stand der Personalplanung. Erfreulicherweise konnten zum 1. Juni zwei neue Mitarbeitende eingestellt werden: eine Marketing-Spezialistin (Frau Bauer) und ein IT-Support-Techniker (Herr Neumann). Beide Positionen waren seit Februar ausgeschrieben. Die Suche nach einem zusätzlichen Vertriebsmitarbeiter für die Region Süd läuft weiterhin; hier hofft TB auf einen Abschluss bis spätestens Ende Q3.\n\n**TOP 4 Projekt \"Intranet Relaunch\": Kick-off und nächste Schritte**\n\nSH stellt das neue interne Projekt \"Intranet Relaunch\" vor. Hauptziel ist die Verbesserung der internen Kommunikation und des Wissensmanagements. Ein Projektteam wurde gebildet, bestehend aus JS (Projektleitung), einem Vertreter aus dem Marketing (AF benennt jemanden) und einem aus dem Vertrieb (MK benennt jemanden). JS wird beauftragt, bis Ende Mai einen detaillierten Projektplan inklusive Meilensteinen und Ressourcenbedarf zu erstellen. Die Prüfung verschiedener Softwareplattformen wurde begonnen, eine Entscheidung hierüber wird jedoch erst nach Vorlage des Projektplans getroffen.\n\n**TOP 5 Planung Sommerfest 20XX**\n\nAF präsentiert erste Ideen für das diesjährige Sommerfest, das Mitte Juli stattfinden soll. Als mögliche Locations wurden der \"Seepark Grünau\" und eine \"Flussfahrt auf der Spree\" vorgeschlagen. Beide Optionen haben Vor- und Nachteile bezüglich Kosten und Logistik. Es wird beschlossen, dass AF bis zur nächsten Sitzung konkrete Angebote für beide Optionen einholt, damit eine fundierte Entscheidung getroffen werden kann.\n\n**TOP 6 Sonstiges**\n\nLW weist auf das bevorstehende, obligatorische Online-Training zum Thema Datenschutz (DSGVO-Update) hin. Alle Mitarbeitenden müssen das Modul bis spätestens 30. Juni abgeschlossen haben. DM erinnert an die Frist zur Einreichung der Budgetanforderungen für das nächste Geschäftsjahr, welche am 15. Juni endet. Keine weiteren Punkte.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste wegen eines Datums korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt Fehler bei den Verkaufszahlen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Verkaufszahlen im ersten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "waren insgesamt besser als im Vorjahr."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigten für alle Produkte eine Steigerung."
+                },
+                {
+                    "key": "c",
+                    "text": "sind vor allem wegen neuer Produkte gestiegen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Neueinstellungen im Personalbereich",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind für drei Positionen bereits abgeschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "beginnen für den Verkauf im nächsten Monat."
+                },
+                {
+                    "key": "c",
+                    "text": "betreffen ab Juni zwei Abteilungen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das Projekt \"Intranet Relaunch\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll die interne Kommunikation verbessern."
+                },
+                {
+                    "key": "b",
+                    "text": "hat bereits eine Software ausgewählt."
+                },
+                {
+                    "key": "c",
+                    "text": "wird vom Marketingleiter verantwortet."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Sommerfest der Firma",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet Mitte Juli am Fluss statt."
+                },
+                {
+                    "key": "b",
+                    "text": "hat noch keinen festgelegten Ort."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von der IT-Abteilung organisiert."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

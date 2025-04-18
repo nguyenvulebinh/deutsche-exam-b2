@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum \"Cloud\", Hauptgebäude, Schillerstraße 12, 60313 Frankfurt am Main\n\n**Anwesende:**\n*   Sabine Berger (SB, Geschäftsführung)\n*   Jonas Keller (JK, Leitung Entwicklung)\n*   Chen Li (CL, Leitung Consulting)\n*   Markus Voss (MV, Leitung Vertrieb)\n*   Anja Schmidt (AS, Leitung Personal)\n*   David Fischer (DF, Leitung Finanzen)\n*   Ralf Petersen (RP, Projektleiter \"Alpha\")\n\n**Entschuldigt:**\n*   Lena Weber (LW, Leitung Marketing)\n\n**Sitzungsleitung:** Sabine Berger (SB)\n**Protokollant:** David Fischer (DF)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. September 20XX\n2.  Aktueller Stand Projekt \"Alpha\" (Kunde: PharmaCorp AG)\n3.  Vorstellung neues internes Zeiterfassungssystem \"TimeTrack Pro\"\n4.  Neukundenakquise & Vertriebsziele Q4\n5.  Personalplanung & Weiterbildung\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. September 20XX**\n\nSB begrüßt die Anwesenden zum heutigen Jour Fixe. Das Protokoll der Sitzung vom 15. September wird zur Genehmigung vorgelegt. MV bittet um eine Ergänzung bei TOP 4 (Vertriebsziele Q3): Es sollte festgehalten werden, dass die Akquise im Pharmabereich besonders erfolgreich war. Mit dieser Ergänzung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktueller Stand Projekt \"Alpha\" (Kunde: PharmaCorp AG)**\n\nRP berichtet über den Fortschritt des Großprojekts \"Alpha\" für die PharmaCorp AG. Phase 2 (Implementierung Kernmodule) konnte erfolgreich abgeschlossen werden. Allerdings traten in der letzten Woche unerwartete technische Probleme bei der Datenbankintegration auf, was zu einer leichten Verzögerung von ca. einer Woche im Gesamtprojektplan führt. JK bestätigt die Komplexität des Problems, ist aber zuversichtlich, es zeitnah zu lösen. Um die verlorene Zeit aufzuholen und den Endtermin Ende Januar 20XX zu halten, wird beschlossen, ab nächster Woche zwei zusätzliche Entwickler aus dem Team \"Beta\" dem Projekt \"Alpha\" zuzuweisen. RP koordiniert die Einarbeitung. Ein Update-Meeting mit PharmaCorp ist für den 28. Oktober angesetzt.\n\n**TOP 3 Vorstellung neues internes Zeiterfassungssystem \"TimeTrack Pro\"**\n\nDF stellt das neue digitale Zeiterfassungssystem \"TimeTrack Pro\" vor, das ab dem 1. Dezember 20XX unternehmensweit eingeführt wird. Hauptziele sind eine effizientere Arbeitszeiterfassung und eine genauere Zuordnung der Arbeitsstunden zu den einzelnen Kundenprojekten, was die Projektabrechnung deutlich verbessern soll. Das System ist webbasiert und über eine App nutzbar. Für alle Mitarbeitenden werden kurze Online-Tutorials sowie eine FAQ-Seite im Intranet zur Verfügung gestellt. Eine separate Schulung ist vorerst nicht geplant, bei Bedarf können aber Abteilungs-Workshops angefragt werden.\n\n**TOP 4 Neukundenakquise & Vertriebsziele Q4**\n\nMV präsentiert die Vertriebszahlen für das abgeschlossene Q3. Diese lagen insgesamt leicht unter dem Plan (-5%), wobei die Neukundenakquise im Pharmabereich positiv hervorsticht. Für Q4 ist das Ziel, mindestens fünf Neukunden zu gewinnen und den Umsatz im Vergleich zum Vorjahresquartal um 10% zu steigern. Um dies zu erreichen, wird eine gezielte Marketingkampagne für den Finanzsektor gestartet (Verantwortung LW, in Abstimmung mit MV) und der Vertriebsaußendienst personell verstärkt.\n\n**TOP 5 Personalplanung & Weiterbildung**\n\nAS informiert über die Personalplanung. Um den Bedarf in der Entwicklung zu decken, ist die Schaffung von zwei neuen Stellen für erfahrene Softwareentwickler (Backend) geplant. Die Ausschreibungen sollen noch im Oktober veröffentlicht werden. Im Bereich Weiterbildung findet im November der bereits angekündigte Cloud-Zertifizierungskurs für ausgewählte Mitarbeiter statt. Zusätzlich wird geprüft, ob im ersten Quartal des nächsten Jahres ein Inhouse-Seminar zum Thema Projektmanagement angeboten werden kann. Vorschläge für weitere Themen sind willkommen.\n\n**TOP 6 Sonstiges**\n\nSB erinnert an die jährliche Weihnachtsfeier, die am Freitag, den 15. Dezember 20XX, stattfinden wird. Details zum Ort und Programm folgen per separater E-Mail. Es gibt keine weiteren Wortmeldungen. Die nächste Sitzung findet am 20. November 20XX statt. SB schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der Septembersitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde mit einer Anmerkung versehen akzeptiert."
+                },
+                {
+                    "key": "b",
+                    "text": "muss wegen Fehlern neu geschrieben werden."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt falsche Angaben zum Projekt \"Alpha\"."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Projekt \"Alpha\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "liegt momentan hinter dem Zeitplan zurück."
+                },
+                {
+                    "key": "b",
+                    "text": "ist bereits in der abschließenden Testphase."
+                },
+                {
+                    "key": "c",
+                    "text": "wird aufgrund von Kundenwünschen angepasst."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das neue Zeiterfassungssystem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird zuerst in einer Abteilung getestet."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert eine Präsenzschulung für alle."
+                },
+                {
+                    "key": "c",
+                    "text": "soll die Abrechnung von Projekten erleichtern."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Vertriebsleitung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "war mit den Ergebnissen des dritten Quartals sehr zufrieden."
+                },
+                {
+                    "key": "b",
+                    "text": "plant für Q4 die Gewinnung von zehn Neukunden."
+                },
+                {
+                    "key": "c",
+                    "text": "möchte den Umsatz im Vergleich zum Vorjahr steigern."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Im Personalbereich",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist als Nächstes ein Seminar zu Projektmanagement geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "werden aktuell keine neuen Mitarbeiter gesucht."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen zwei Stellen für Entwickler geschaffen werden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

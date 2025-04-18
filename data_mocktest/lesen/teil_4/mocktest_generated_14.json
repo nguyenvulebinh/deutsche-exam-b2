@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Konferenzraum A3, TechnoPark Allee 5, 80999 München\n\n**Anwesende:**\n*   Dr. Martin Schneider (MS, Geschäftsführung)\n*   Jana Weber (JW, Leitung Produktion)\n*   Stefan Bauer (SB, Leitung Vertrieb)\n*   Rita Nowak (RN, Leitung Einkauf)\n*   David Chen (DC, Leitung IT)\n*   Anna Kowalski (AK, Leitung Personal)\n*   Lukas Meyer (LM, Assistenz GL)\n\n**Entschuldigt:** Katrin Schulz (KS, Leitung Marketing)\n\n**Sitzungsleitung:** Dr. Martin Schneider (MS)\n**Protokollant:** Lukas Meyer (LM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.09.XX\n2.  Aktuelle Produktionsauslastung und Materialverfügbarkeit\n3.  Vertriebsbericht Q3 und Ausblick Q4\n4.  Einführung einer neuen Zeiterfassungssoftware\n5.  Personalbedarf und Weiterbildung\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.09.XX**\n\nMS begrüßt die Anwesenden. Das Protokoll der letzten Sitzung vom 15.09.XX wird zur Genehmigung vorgelegt. RN bittet um eine Korrektur unter TOP 4 des alten Protokolls: Der erwähnte Lieferant für Spezialschrauben war nicht 'Schraubenwelt GmbH', sondern 'FixTec AG'. Mit dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionsauslastung und Materialverfügbarkeit**\n\nJW berichtet, dass die Produktion derzeit mit 92% Kapazität sehr gut ausgelastet ist. Ein Problem stellt jedoch die Verfügbarkeit der Aluminium-Legierung Typ B dar. Der Hauptlieferant, Firma Metallix, hat aktuell eine Lieferzeit von mindestens 4 Wochen statt der üblichen 2 Wochen angekündigt. Dies gefährdet potenziell die termingerechte Fertigstellung von Aufträgen ab KW 45. RN wird beauftragt, dringend alternative Lieferanten zu prüfen und bis Ende dieser Woche (KW 42) erste Ergebnisse vorzulegen.\n\n**TOP 3 Vertriebsbericht Q3 und Ausblick Q4**\n\nSB präsentiert die Verkaufszahlen für das dritte Quartal. Das Umsatzziel wurde insgesamt um 3% übertroffen. Besonders erfreulich ist die Entwicklung im DACH-Raum, während die Verkäufe in Osteuropa hinter den Erwartungen zurückblieben. Die Neukundengewinnung im Automotive-Sektor läuft gut. Für Q4 wird ein Wachstum von 5% gegenüber dem Vorjahresquartal angestrebt. MS betont, dass zur Erreichung dieses Ziels die Pflege der Bestandskunden intensiviert werden soll.\n\n**TOP 4 Einführung einer neuen Zeiterfassungssoftware**\n\nDC informiert über den Stand des Projekts. Die neue Software soll die alte, fehleranfällige Excel-Lösung ersetzen und die gesetzlichen Anforderungen erfüllen. Eine Pilotphase mit der Verwaltung startet am 01.11.XX. Der vollständige Rollout für alle Mitarbeiter mit PC-Arbeitsplatz ist für den 01.12.XX geplant. Die Schulungen werden von der IT in Kooperation mit der Personalabteilung durchgeführt und beginnen Mitte November. Der Budgetrahmen von 25.000 € wird voraussichtlich eingehalten.\n\n**TOP 5 Personalbedarf und Weiterbildung**\n\nAK erläutert den aktuellen Personalbedarf. Dringend gesucht werden zwei Facharbeiter für die Produktion (möglichst ab sofort) sowie ein IT-Administrator zur Unterstützung von DC (Einstellung bis Jahresende angestrebt). Die Ausschreibungen laufen bereits. Bezüglich Weiterbildung wurde der Vorschlag für Englischkurse für das Vertriebsteam diskutiert und genehmigt. AK wird Angebote einholen und die Organisation übernehmen. Das Budget hierfür beträgt 5.000 €.\n\n**TOP 6 Sonstiges**\n\nAuf Nachfrage von JW bestätigt MS, dass das jährliche Firmen-Audit für die ISO-Zertifizierung in KW 44 stattfinden wird. Alle Abteilungsleiter werden gebeten, die notwendigen Unterlagen bereitzuhalten. LM erinnert an die Einreichungsfrist für die Budgetplanung 20XX+1 bis zum 15.11.XX. Die nächste Sitzung findet am 14.11.XX statt.\n",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Diskussionsbedarf genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste von der Einkaufsleitung überarbeitet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde erst nach einer Korrektur angenommen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Materialversorgung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bei allen Aluminiumarten problematisch."
+                },
+                {
+                    "key": "b",
+                    "text": "könnte ab Kalenderwoche 45 zu Produktionsproblemen führen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird durch Firma Metallix bis Ende der Woche gelöst."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Vertriebsbericht für Q3",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "war in allen Märkten sehr erfolgreich."
+                },
+                {
+                    "key": "b",
+                    "text": "empfiehlt die Konzentration auf neue Kundengruppen."
+                },
+                {
+                    "key": "c",
+                    "text": "zeigt unterschiedliche Ergebnisse in verschiedenen Regionen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue Zeiterfassungssoftware",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird schrittweise im Unternehmen eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "betrifft nur die Mitarbeiter in der Verwaltung."
+                },
+                {
+                    "key": "c",
+                    "text": "überschreitet das geplante Budget deutlich."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Geplante Personalmaßnahmen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "umfassen IT-Schulungen für neue Produktionsmitarbeiter."
+                },
+                {
+                    "key": "b",
+                    "text": "beinhalten genehmigte Sprachkurse für Verkäufer."
+                },
+                {
+                    "key": "c",
+                    "text": "sehen die sofortige Einstellung eines IT-Administrators vor."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

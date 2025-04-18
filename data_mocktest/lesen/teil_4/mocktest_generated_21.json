@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum \"Alpenblick\", Firmenzentrale, BioAllee 1, 8XXXX Ökodorf\n\n**Anwesende:**\n*   Gerd Hoffmann (GH, Geschäftsführung)\n*   Petra Breitner (PB, Leitung Einkauf)\n*   Jan Schilling (JS, Leitung Produktion)\n*   Katrin Meier (KM, Leitung Marketing)\n*   Martin Abel (MA, Leitung Vertrieb)\n*   Dr. Lena Feldt (LF, Leitung Qualitätssicherung)\n*   Dirk Baumgartner (DB, Leitung Personal)\n*   Carla Fernández (CF, Leitung Finanzen)\n*   Sven Ulrich (SU, Assistenz GF)\n\n**Entschuldigt:** Hanna König (HK, IT-Leitung)\n\n**Sitzungsleitung:** Gerd Hoffmann (GH)\n**Protokollant:** Sven Ulrich (SU)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.08.20XX\n2.  Neues Produkt: \"Bio-Apfel-Ingwer Schorle\"\n3.  Erster Nachhaltigkeitsbericht\n4.  Verkaufszahlen Q3 (vorläufig)\n5.  Einführung strukturiertes Praktikantenprogramm\n6.  Stand Relaunch Firmenwebseite\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.08.20XX**\n\nGH begrüßt die Anwesenden und entschuldigt HK. Er bittet um Genehmigung des Protokolls der letzten Sitzung. CF weist auf einen kleinen Fehler im Datum unter TOP 4 hin. Nach dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Neues Produkt: \"Bio-Apfel-Ingwer Schorle\"**\n\nKM stellt das Konzept und positive Marktforschungsdaten für eine neue \"Bio-Apfel-Ingwer Schorle\" vor. JS bestätigt die grundsätzliche Machbarkeit in der Produktion, merkt jedoch an, dass für die Abfüllung geringfügige Anpassungen an der Linie notwendig seien. LF wirft die Frage der Haltbarkeit bei rein natürlichen Zutaten ohne Konservierungsstoffe auf und empfiehlt spezifische Lagertests während einer Pilotphase. GH entscheidet, eine Pilotproduktion von ca. 5.000 Flaschen bis Ende Oktober durchzuführen. JS und LF werden die Pilotproduktion und die notwendigen Qualitätstests gemeinsam verantworten.\n\n**TOP 3 Erster Nachhaltigkeitsbericht**\n\nGH präsentiert die wichtigsten Ergebnisse des ersten internen Nachhaltigkeitsberichts. Es gab viel positives Feedback zu den Erfolgen bei der Abfallreduzierung im letzten Jahr. Gleichzeitig zeigt der Bericht aber auch deutlichen Verbesserungsbedarf bei den Verpackungsmaterialien, insbesondere bei der Reduzierung von Kunststoff. Es wird beschlossen, eine kleine Arbeitsgruppe, bestehend aus PB und KM, einzusetzen. Diese soll bis Jahresende recherchieren, welche nachhaltigeren Verpackungsalternativen realistisch umsetzbar sind.\n\n**TOP 4 Verkaufszahlen Q3 (vorläufig)**\n\nMA präsentiert die vorläufigen Verkaufszahlen für das dritte Quartal. Der Gesamttrend ist positiv mit einem Plus von ca. 8% im Vergleich zum Vorjahresquartal. Besonders die etablierte Schorle-Linie entwickelte sich mit +15% sehr gut. Der Absatz traditioneller Säfte ist hingegen leicht rückläufig (-3%). MA erwähnt zudem, dass ein kürzlich gesicherter Großauftrag der Supermarktkette \"BioMarkt\" das positive Gesamtergebnis unterstützt hat.\n\n**TOP 5 Einführung strukturiertes Praktikantenprogramm**\n\nDB stellt einen Vorschlag für ein sechsmonatiges, strukturiertes Praktikantenprogramm für Hochschulstudierende vor. Er betont die Vorteile für das Employer Branding und die frühzeitige Rekrutierung von Talenten. Für die Umsetzung seien Mentoren in den Fachabteilungen sowie ein kleines Budget für gemeinsame Praktikantenaktivitäten notwendig. GH begrüßt die Initiative. Es wird beschlossen, das Programm als Pilotprojekt ab dem Sommersemester des nächsten Jahres (Start April) einzuführen. DB wird beauftragt, bis Dezember einen detaillierten Programmablauf sowie Richtlinien für die Mentoren auszuarbeiten.\n\n**TOP 6 Stand Relaunch Firmenwebseite**\n\nKM berichtet über den aktuellen Stand des Website-Relaunchs. Das Design sei finalisiert und die technische Umsetzung laufe. Es gebe jedoch Verzögerungen, da wichtige Inhalte wie finale Produktbeschreibungen und Teamfotos aus verschiedenen Abteilungen, namentlich Produktion und Vertrieb, noch nicht geliefert wurden. Der ursprünglich geplante Launch-Termin am 1. Oktober sei daher nicht mehr haltbar. Als neuer Zieltermin wird Mitte November anvisiert. GH fordert alle Abteilungsleitungen nachdrücklich auf, die benötigten Inhalte bis spätestens Ende September an KM zu liefern.\n\n**TOP 7 Sonstiges**\n\nCF kündigt die Termine für die anstehenden Budgetplanungsrunden für das Q4 an. GH dankt allen Teilnehmenden für die konstruktive Mitarbeit und beendet die Sitzung pünktlich.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Anmerkungen akzeptiert."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung leicht geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von Frau Fernández komplett überarbeitet."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Bio-Apfel-Ingwer Schorle",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll bis Ende Oktober testweise hergestellt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "kann problemlos auf der bestehenden Anlage produziert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird wegen Bedenken zur Haltbarkeit vorerst nicht produziert."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der Nachhaltigkeitsbericht",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "lobt die Firma für ihre umweltfreundlichen Verpackungen."
+                },
+                {
+                    "key": "b",
+                    "text": "beauftragt Frau Breitner und Frau Meier mit der sofortigen Materialumstellung."
+                },
+                {
+                    "key": "c",
+                    "text": "stellt fest, dass im Bereich Verpackung noch Handlungsbedarf besteht."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das Praktikantenprogramm",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beginnt noch in diesem Jahr mit den ersten Teilnehmern."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde von der Personalabteilung vorgeschlagen und wird nächstes Jahr starten."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bereits vollständig geplant und budgetiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Relaunch der Firmenwebseite",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verschiebt sich, da Zuarbeiten aus Abteilungen fehlen."
+                },
+                {
+                    "key": "b",
+                    "text": "verzögert sich wegen technischer Probleme bei der Programmierung."
+                },
+                {
+                    "key": "c",
+                    "text": "liegt hinter dem Zeitplan, weil das Marketing die Inhalte nicht fertigstellt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

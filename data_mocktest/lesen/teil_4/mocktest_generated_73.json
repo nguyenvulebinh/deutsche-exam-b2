@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum 'Kreativ', Firmensitz Musterstraße 5, 12345 Musterstadt\n\n**Anwesende:**\n*   Dr. Martin Gruber (MG, Geschäftsführung)\n*   Sandra Weiß (SW, Leitung Vertrieb)\n*   Peter Klein (PK, Leitung Marketing)\n*   Laura Schmidt (LS, Leitung Einkauf)\n*   Bernd Fischer (BF, Leitung Logistik)\n*   Anna Müller (AM, Leitung Personal)\n*   Jonas Becker (JB, Assistenz GF)\n\n**Entschuldigt:** Thomas Wolf (TW, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Martin Gruber (MG)\n**Protokollant:** Jonas Becker (JB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. August 20XX\n2.  Aktuelle Verkaufszahlen und Marktanalyse Q3\n3.  Vorstellung Marketingkampagne \"Büro-Upgrade Herbst\"\n4.  Lieferengpässe bei Lieferant 'PapierProfi AG'\n5.  Vorbereitung Fachmesse \"Office World\" (November)\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. August 20XX**\n\nMG begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 15. August 20XX wird ohne Einwände oder Änderungswünsche einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen und Marktanalyse Q3**\n\nSW berichtet über die Verkaufszahlen des fast abgelaufenen dritten Quartals. Insgesamt zeigt sich ein positiver Trend (+5% ggü. Vorjahr). Besonders erfreulich ist die Entwicklung im Bereich nachhaltiger Büroartikel, hier gab es ein Umsatzplus von 15%. Sorgen bereitet jedoch der Absatz von ergonomischen Bürostühlen, der um 8% zurückgegangen ist. Analysen deuten darauf hin, dass der Wettbewerber 'OfficeConcept' hier Marktanteile gewinnen konnte. MG bittet SW, bis zur nächsten Sitzung konkrete Gegenmaßnahmen vorzuschlagen.\n\n**TOP 3 Vorstellung Marketingkampagne \"Büro-Upgrade Herbst\"**\n\nPK stellt die geplante Marketingkampagne \"Büro-Upgrade Herbst\" vor. Die Kampagne soll am 1. Oktober starten und für eine Dauer von sechs Wochen laufen. Kernbestandteile sind gezielte Online-Werbeanzeigen, ein Sonder-Newsletter sowie ein Rabatt von 10% auf speziell zusammengestellte Möbel-Bundles (Schreibtisch + Stuhl). Der Rabatt gilt explizit nicht für das gesamte Möbelsortiment. Das Budget für die Kampagne wurde bereits in der letzten Finanzplanung freigegeben. PK betont, dass die Unterstützung des Vertriebs für die Nachverfolgung von Anfragen entscheidend für den Erfolg sein wird.\n\n**TOP 4 Lieferengpässe bei Lieferant 'PapierProfi AG'**\n\nLS informiert über akute Lieferschwierigkeiten beim Hauptlieferanten 'PapierProfi AG'. Aufgrund eines Maschinenschadens kann dieser für voraussichtlich vier Wochen kein Standard-Kopierpapier (A4, 80g/m²) liefern. Dies betrifft eine wesentliche Menge des täglichen Bedarfs. Als Übergangslösung schlägt LS vor, auf den Anbieter 'EcoPaper' auszuweichen. Dieser kann zwar sofort liefern, liegt preislich jedoch ca. 5% über den Konditionen der PapierProfi AG. Nach kurzer Diskussion wird beschlossen, die temporäre Bestellung bei 'EcoPaper' für die Dauer des Ausfalls bei PapierProfi AG zu genehmigen, um die Versorgung sicherzustellen.\n\n**TOP 5 Vorbereitung Fachmesse \"Office World\" (November)**\n\nMG erläutert die Ziele für die Teilnahme an der Fachmesse \"Office World\" Mitte November. Hauptaugenmerk soll auf der Präsentation der neu entwickelten Smart-Office-Lösungen liegen. Die finale Standplanung und das Design müssen bis Ende September abgeschlossen sein. Die Verantwortung hierfür liegt gemeinsam bei PK (Marketing) und SW (Vertrieb). Für die Standbetreuung werden täglich drei Mitarbeiter benötigt: eine Person aus dem Marketing und zwei Personen aus dem Vertrieb.\n\n**TOP 6 Sonstiges**\n\nAM informiert kurz darüber, dass die Planung für die jährliche Mitarbeiterbefragung begonnen hat; diese soll im vierten Quartal durchgeführt werden. MG erinnert an das bevorstehende Firmenjubiläum am 5. November, Details zur Feier werden noch bekannt gegeben. Die nächste reguläre Sitzung findet am 10. Oktober statt. MG schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Verkaufszahlen im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind in allen Produktbereichen gestiegen."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigen Schwächen bei ergonomischen Stühlen."
+                },
+                {
+                    "key": "c",
+                    "text": "sind insgesamt um 8% gesunken."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Marketingkampagne \"Büro-Upgrade Herbst\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhaltet einen Rabatt auf bestimmte Möbelpakete."
+                },
+                {
+                    "key": "b",
+                    "text": "bietet sechs Wochen lang 10% auf alle Möbel."
+                },
+                {
+                    "key": "c",
+                    "text": "startet erst nach der Genehmigung des Budgets."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Lieferprobleme bei PapierProfi AG",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "betreffen teures Spezialpapier wegen hoher Nachfrage."
+                },
+                {
+                    "key": "b",
+                    "text": "führen zu einem dauerhaften Wechsel zu EcoPaper."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordern eine temporäre Lösung mit einem anderen Lieferanten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Für die Fachmesse \"Office World\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden Mitarbeiter aus Marketing und Vertrieb benötigt."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen vor allem nachhaltige Büroartikel präsentiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist geplant, dass drei Vertriebsmitarbeiter den Stand betreuen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Protokoll der vorherigen Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt die Planung für die Mitarbeiterbefragung."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

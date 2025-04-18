@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**Datum:** 12. September 20XX\n**Zeit:** 09:00 – 10:15 Uhr\n**Ort:** Konferenzraum \"Alpenblick\", Firmenzentrale, Talweg 5, 80331 München\n\n**Anwesende:**\n*   Stefan Meyer (SM, Geschäftsführung)\n*   Lisa Krämer (LK, Leitung Vertrieb)\n*   Jörg Bauer (JB, Leitung Marketing)\n*   Anna Schulz (AS, Leitung IT)\n*   Markus Weber (MW, Leitung Einkauf)\n*   Petra Nowak (PN, Personalwesen)\n*   Thomas Fischer (TF, Assistenz GF)\n\n**Entschuldigt:**\n*   Ralf Ziegler (RZ, Leitung Produktion)\n\n**Sitzungsleitung:** Stefan Meyer (SM)\n**Protokoll:** Thomas Fischer (TF)\n\n**Tagesordnungspunkte (TOPs)**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. August 20XX\n2.  Aktuelle Verkaufszahlen und Regionenanalyse\n3.  Projektstand: Einführung CRM-System \"KundenMeister 3.0\"\n4.  Personal: Neueinstellungen und Weiterbildung\n5.  Planung Messeauftritt \"BüroWelt 20XX+1\"\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. August 20XX**\n\nSM begrüßt die Anwesenden. TF bittet um Genehmigung des Protokolls der letzten Sitzung. LK weist darauf hin, dass bei TOP 4 im alten Protokoll fälschlicherweise Herr Ziegler als Teilnehmer genannt wurde, obwohl dieser bereits im Urlaub war. Nach dieser Korrektur wird das Protokoll vom 15.08. einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen und Regionenanalyse**\n\nLK präsentiert die Verkaufszahlen für das letzte Quartal. Gesamt konnte eine Steigerung von 8% im Vergleich zum Vorjahresquartal erzielt werden, was sehr erfreulich ist. Besonders stark war das Wachstum in den Regionen Nord (+15%) und Ost (+12%). Sorgen bereitet jedoch die Region Süd, wo ein Rückgang von 5% zu verzeichnen ist. Als Hauptgrund wird der Markteintritt eines neuen, sehr aggressiven Wettbewerbers vermutet. JB berichtet, dass gemeinsam mit LK eine gezielte Marketingkampagne für die Region Süd geplant ist, die im nächsten Monat starten soll. Details werden noch ausgearbeitet.\n\n**TOP 3 Projektstand: Einführung CRM-System \"KundenMeister 3.0\"**\n\nAS informiert über den Fortschritt des Projekts. Die Module für Kundendatenverwaltung und Kontakthistorie sind erfolgreich implementiert und werden von einem Pilot-Team im Vertrieb getestet. Die Anbindung an das Warenwirtschaftssystem (Modul Auftragsmanagement) läuft ebenfalls. Herausforderungen gibt es bei der Migration der Altdaten aus dem vorherigen System; diese gestaltet sich komplexer und zeitaufwändiger als ursprünglich geplant. AS ist jedoch zuversichtlich, den Gesamtprojektplan einhalten zu können. Schulungen für alle Vertriebsmitarbeiter sind für die Kalenderwochen 42 und 43 (Mitte/Ende Oktober) geplant. Die IT-Abteilung ist für die technische Umsetzung verantwortlich, LK und ihr Team liefern die notwendigen Testdaten und validieren die Funktionen.\n\n**TOP 4 Personal: Neueinstellungen und Weiterbildung**\n\nPN berichtet, dass seit dem 01.09. zwei neue Mitarbeiter im Vertriebsaußendienst tätig sind: Frau Hanna Klein für die Region Nord und Herr Sven Ludwig für die Region Ost. Beide haben ihre Einarbeitung begonnen. Aktuell gibt es keine weiteren offenen Stellen.\nBezüglich Weiterbildungen informiert PN, dass die laufenden Englischkurse für Fortgeschrittene gut besucht sind. Es besteht zudem die Möglichkeit, sich für einen Aufbaukurs \"Excel für Controller\" anzumelden. Die Anmeldefrist hierfür endet bereits am Freitag dieser Woche (15.09.).\n\n**TOP 5 Planung Messeauftritt \"BüroWelt 20XX+1\"**\n\nJB stellt den aktuellen Planungsstand für die Messe \"BüroWelt\" vor, die im März 20XX+1 in Frankfurt stattfinden wird. Der Standplatz in Halle 3 ist bestätigt und die Verträge sind unterzeichnet. Ein erster Entwurf für das Standdesign wurde von der beauftragten Agentur vorgelegt und wird intern diskutiert. Das Budget ist bisher im Plan. Als nächster Schritt muss der Einkauf (MW) bis Ende September eine Auswahl der Kernprodukte treffen, die als Messemuster präsentiert werden sollen. JB koordiniert die Gesamtorganisation, LK stellt das Standpersonal zusammen.\n\n**TOP 6 Sonstiges**\n\nSM erinnert alle Abteilungsleiter daran, die Anmeldungen für das Firmen-Sommerfest (findet am 30.09. statt) bis spätestens Ende nächster Woche einzureichen. \nDie nächste reguläre Sitzung findet am 10. Oktober 20XX zur gewohnten Zeit statt.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 15. August",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von Herrn Ziegler geschrieben."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "konnte nicht genehmigt werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Verkaufszahlen im letzten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind in allen Regionen deutlich gestiegen."
+                },
+                {
+                    "key": "b",
+                    "text": "haben sich besonders im Süden gut entwickelt."
+                },
+                {
+                    "key": "c",
+                    "text": "zeigen insgesamt eine positive Tendenz."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Beim neuen CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "gibt es Probleme mit der Übernahme alter Daten."
+                },
+                {
+                    "key": "b",
+                    "text": "ist die Schulung der Mitarbeiter schon abgeschlossen."
+                },
+                {
+                    "key": "c",
+                    "text": "ist der ursprüngliche Zeitplan nicht mehr haltbar."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Für eine Weiterbildung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden bald neue Englischkurse angeboten."
+                },
+                {
+                    "key": "b",
+                    "text": "kann man sich diese Woche noch anmelden."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen sich die neuen Vertriebler registrieren."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Für den Messeauftritt nächstes Jahr",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss der Einkauf das Standpersonal auswählen."
+                },
+                {
+                    "key": "b",
+                    "text": "ist das Design des Standes bereits final."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen bis Monatsende Produktmuster ausgewählt werden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

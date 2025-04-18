@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Konferenzraum \"Alpenblick\", Firmenzentrale, Industriestraße 5, 87654 Musterstadt\n\n**Anwesende:**\n*   Herr Klaus Berger (KB, Geschäftsführung)\n*   Frau Sabine Meier (SM, Leitung Produktion)\n*   Herr Lars Fischer (LF, Leitung Vertrieb)\n*   Frau Anja Wolf (AW, Leitung Einkauf)\n*   Herr Jonas Richter (JR, Leitung Qualitätssicherung)\n*   Frau Elena Petrova (EP, Leitung Personal)\n*   Herr Ben Schmidt (BS, IT-Koordinator)\n\n**Entschuldigt:** Herr Martin Gruber (MG, Leitung Finanzen)\n\n**Sitzungsleitung:** Klaus Berger (KB)\n**Protokollant:** Ben Schmidt (BS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.07.20XX\n2.  Bericht Vertrieb: Aktuelle Auftragslage & Jahresprognose\n3.  Produktion: Kapazitätsplanung Q4 und Engpässe\n4.  Projekt \"Neue CNC-Maschine\": Statusbericht\n5.  Einführung neue Arbeitszeiterfassung\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.07.20XX**\n\nKB begrüßt die Anwesenden. Er bittet um Genehmigung des Protokolls der letzten Sitzung. AW weist auf eine kleine Ungenauigkeit bei den genannten Lieferantennamen in TOP 4 des alten Protokolls hin. Nach entsprechender Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Bericht Vertrieb: Aktuelle Auftragslage & Jahresprognose**\n\nLF berichtet über die Verkaufszahlen des dritten Quartals. Insgesamt liegt der Umsatz 8% über dem Vorjahreszeitraum. Besonders stark entwickeln sich die Exporte nach Skandinavien. Im Inland hingegen sind die Aufträge leicht rückläufig. LF führt dies auf die zögerliche Investitionsbereitschaft einiger Stammkunden zurück. Die Jahresprognose hängt maßgeblich von einem erwarteten Großauftrag der Firma Nordtech ab; bei Zusage wird das Jahresziel übertroffen, andernfalls leicht verfehlt.\n\n**TOP 3 Produktion: Kapazitätsplanung Q4 und Engpässe**\n\nSM informiert, dass die Produktionskapazität aktuell zu ca. 95% ausgelastet ist. Dies führt zu einer angespannten Planung für das vierte Quartal. AW ergänzt, dass es derzeit Lieferverzögerungen beim Zulieferer für Spezialstahl Typ B gibt, was bereits zu Umplanungen führte. Aufgrund der hohen Auslastung und des Materialengpasses wird es voraussichtlich notwendig sein, im November zusätzliche Schichten bzw. Überstunden zu fahren. SM bittet EP, dies bei der Personalplanung zu berücksichtigen.\n\n**TOP 4 Projekt \"Neue CNC-Maschine\": Statusbericht**\n\nJR berichtet über das Projekt. Die neue CNC-Maschine wurde termingerecht geliefert und die Installation durch den Hersteller erfolgte letzte Woche planmäßig. Die Kalibrierung wurde erfolgreich abgeschlossen und erste Testläufe mit Musterteilen zeigen sehr präzise Ergebnisse. BS meldet ein kleines Kompatibilitätsproblem zwischen der Maschinensteuerung und der zentralen Datenbank, ein Software-Patch des Herstellers wird jedoch bis Ende dieser Woche erwartet. Die offizielle Übergabe der Maschine an die Produktion ist für kommenden Montag geplant.\n\n**TOP 5 Einführung neue Arbeitszeiterfassung**\n\nEP stellt das neue digitale System zur Arbeitszeiterfassung vor, das über Terminals in den Abteilungen sowie eine mobile App bedient wird. Die Einführung ist fest für den 01.12.20XX geplant. Um einen reibungslosen Übergang zu gewährleisten, finden in der zweiten und dritten Novemberwoche gestaffelte Schulungen für alle Mitarbeiterinnen und Mitarbeiter statt. Anfängliche Bedenken bezüglich des Datenschutzes wurden durch eine externe Prüfung geklärt und ausgeräumt. Es gibt jedoch noch Vorbehalte bei einigen langjährigen Mitarbeitern in der Fertigung, denen EP durch zusätzliche Informationsgespräche begegnen will.\n\n**TOP 6 Sonstiges**\n\nKB kündigt an, dass der diesjährige Betriebsausflug voraussichtlich am ersten oder zweiten Freitag im Dezember stattfinden wird. Genauere Informationen zu Ziel und Ablauf folgen in Kürze per E-Mail. Er erinnert außerdem alle Abteilungsleiter daran, weiterhin auf die Einhaltung der Energiesparmaßnahmen (Licht, Heizung, Standby-Geräte) zu achten.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste komplett neu geschrieben werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde nach einer Korrektur angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von Frau Meier einstimmig abgelehnt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Vertriebsbericht",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigt eine positive Entwicklung im Ausland."
+                },
+                {
+                    "key": "b",
+                    "text": "meldet einen starken Anstieg der Inlandsaufträge."
+                },
+                {
+                    "key": "c",
+                    "text": "stellt eine stabile Auftragslage fest."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Produktion",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "leidet unter zu geringer Auslastung."
+                },
+                {
+                    "key": "b",
+                    "text": "hat Probleme mit allen Stahllieferungen."
+                },
+                {
+                    "key": "c",
+                    "text": "muss im November möglicherweise Überstunden einplanen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue CNC-Maschine",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "funktioniert wegen Softwareproblemen noch nicht."
+                },
+                {
+                    "key": "b",
+                    "text": "wird nächste Woche offiziell übergeben."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde vom Qualitätssicherungsleiter installiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Arbeitszeiterfassung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird ab Dezember eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "betrifft nur die Mitarbeiter in der Produktion."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordert noch eine Klärung bezüglich Datenschutz."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

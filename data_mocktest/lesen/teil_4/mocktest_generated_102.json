@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Raum \"Kreativwerkstatt\", Innovatec GmbH, Industriestraße 12, 60314 Frankfurt am Main\n\n**Anwesende:**\n*   Dr. Lena Schmidt (LS, Geschäftsführung)\n*   Markus Weber (MW, Leitung Produktion)\n*   Sandra Bauer (SB, Leitung Vertrieb)\n*   Jonas Klein (JK, Leitung Marketing)\n*   Anja Hoffmann (AH, Leitung Personalwesen)\n*   David Wolf (DW, Leitung IT)\n*   Eva Richter (ER, Leitung Finanzen)\n*   Mustafa Yilmaz (MY, Qualitätsmanagement)\n\n**Sitzungsleitung:** Dr. Lena Schmidt (LS)\n**Protokollant:** Jonas Klein (JK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Aktuelle Produktionszahlen und Kapazitätsplanung\n3.  Marketingkampagne Q4 \"Innovatec GreenLine\"\n4.  Einführung neuer HR-Software \"HR-Plus\"\n5.  Budgetplanung 20XX+1\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nLS begrüßt die Anwesenden. Sie bittet um Genehmigung des Protokolls der Sitzung vom 20. September 20XX. ER weist auf eine kleine Ungenauigkeit in TOP 5 hin: Die dort genannte Deadline war nicht der 15.10., sondern der 18.10. Nach dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen und Kapazitätsplanung**\n\nMW berichtet, dass die Produktionszahlen im dritten Quartal sehr gut waren und die Ziele übertroffen wurden. Allerdings deuten die aktuellen Auftragseingänge darauf hin, dass es im nächsten Quartal zu Kapazitätsengpässen kommen könnte. Die Möglichkeit von Überstunden wurde diskutiert, jedoch noch keine Entscheidung getroffen. MW führt derzeit eine detaillierte Kapazitätsanalyse durch. Es wird beschlossen, das Thema in zwei Wochen in einer kurzen Sondersitzung erneut zu bewerten.\n\n**TOP 3 Marketingkampagne Q4 \"Innovatec GreenLine\"**\n\nJK stellt die geplante Marketingkampagne für das neue nachhaltige Produktportfolio \"Innovatec GreenLine\" vor. Der Schwerpunkt liegt auf Online-Marketingmaßnahmen sowie Präsenz auf zwei wichtigen Fachmessen im November. Das beantragte Budget wurde von LS grundsätzlich genehmigt, musste jedoch um 5% gekürzt werden. SB äußert Bedenken, ob das Vertriebsteam ausreichend auf die neuen Produkte vorbereitet ist. Ein entsprechendes Vertriebstraining ist bereits terminiert und findet Anfang November statt.\n\n**TOP 4 Einführung neuer HR-Software \"HR-Plus\"**\n\nAH und DW informieren über den Stand der Einführung der neuen HR-Software \"HR-Plus\". Der geplante Go-Live-Termin ist der 1. Januar 20XX+1. Die Datenmigration aus dem Altsystem ist größtenteils abgeschlossen; DW und sein Team kümmern sich aktuell um kleinere technische Probleme bei der Übernahme der Lohndaten. Ab dem 1. Dezember beginnen die gestaffelten Schulungen für alle Mitarbeiterinnen und Mitarbeiter, die verpflichtend sind.\n\n**TOP 5 Budgetplanung 20XX+1**\n\nER präsentiert den ersten Entwurf der Budgetplanung für das kommende Geschäftsjahr. Aufgrund gestiegener Rohstoffpreise besteht die Notwendigkeit für Kosteneinsparungen. Ein konkreter Bereich, der geprüft werden soll, sind die Reisekosten. MW argumentiert, dass die Produktion aufgrund der geplanten Auslastung eher eine Budgeterhöhung benötigt. LS bittet alle Abteilungsleitungen, ihre Budgetentwürfe zu überprüfen und überarbeitete, detaillierte Vorschläge bis Ende des Monats bei ER einzureichen.\n\n**TOP 6 Sonstiges**\n\nMY weist darauf hin, dass Ende November das externe ISO-9001-Qualitätsaudit stattfindet und bittet alle relevanten Bereiche um Vorbereitung der Dokumentation. LS erinnert an die bevorstehende Firmen-Weihnachtsfeier; der genaue Termin und der Veranstaltungsort werden in Kürze bekannt gegeben.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde mit einer Korrektur von Frau Richter genehmigt."
+                },
+                {
+                    "key": "c",
+                    "text": "muss wegen eines Fehlers neu geschrieben werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Überstunden in der Produktion",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurden diskutiert, aber noch nicht angeordnet."
+                },
+                {
+                    "key": "b",
+                    "text": "sind ab dem nächsten Quartal fest eingeplant."
+                },
+                {
+                    "key": "c",
+                    "text": "sind wegen der aktuellen Auftragslage sofort notwendig."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Marketingkampagne \"GreenLine\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beschränkt sich auf Werbung auf Fachmessen."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigt noch ein Training für das Marketingteam."
+                },
+                {
+                    "key": "c",
+                    "text": "hat ein leicht gekürztes Budget erhalten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue HR-Software \"HR-Plus\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird am 1. Dezember vollständig im Betrieb eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert Schulungen für die gesamte Belegschaft."
+                },
+                {
+                    "key": "c",
+                    "text": "läuft bereits seit einiger Zeit ohne Probleme."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Bei der Budgetplanung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde eine Budgeterhöhung für die Produktion beschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen alle Abteilungen bis Monatsende neue Vorschläge machen."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen vor allem Kosten im Marketing eingespart werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

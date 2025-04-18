@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**25. Oktober 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Konferenzraum \"Berlin\", Innovatech Hauptsitz, Technologiepark 5, 80995 München\n\n**Anwesende:**\n*   Dr. Hanna Gruber (HG, Geschäftsführung)\n*   Markus Steiner (MS, Leitung Projektmanagement)\n*   Sabine Lang (SL, Leitung Softwareentwicklung)\n*   Peter Klausen (PK, Leitung Vertrieb & Marketing)\n*   Eva Brandt (EB, Leitung Personalwesen)\n*   Ralf Meyer (RM, Leitung Finanzen)\n*   Jonas Friedrich (JF, Teamleiter Entwicklungsteam Alpha)\n\n**Gast:** Herr Chen Liang (CL, Externer Berater - Cybersecurity)\n\n**Sitzungsleitung:** Dr. Hanna Gruber (HG)\n**Protokollant:** Markus Steiner (MS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 11.10.20XX\n2.  Aktueller Stand Projekt \"Phoenix\" (Kunde: GlobalTrade AG)\n3.  Ergebnisse der Kundenzufriedenheitsumfrage Q3\n4.  Planung Ressourcen Softwareentwicklung Q1/Nächstes Jahr\n5.  Vorbereitung Cybersecurity-Audit (Bericht Herr Liang)\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 11.10.20XX**\n\nHG begrüßt alle Anwesenden sowie den Gast Herrn Liang. Sie bittet um Genehmigung des Protokolls der letzten Sitzung vom 11. Oktober. PK bittet um eine Korrektur bei einer unter TOP 4 genannten Verkaufszahl, die um 5% zu niedrig angegeben war. Nach kurzer Prüfung und Bestätigung durch RM wird das Protokoll mit dieser einen kleinen Änderung einstimmig genehmigt.\n\n**TOP 2 Aktueller Stand Projekt \"Phoenix\" (Kunde: GlobalTrade AG)**\n\nMS berichtet über den Fortschritt des Großprojekts \"Phoenix\". Die Entwicklungsphase wurde erfolgreich abgeschlossen. Aktuell befindet sich das Projekt in Phase 2 (Testing). Hier gibt es eine leichte Verzögerung von etwa einer Woche gegenüber dem ursprünglichen Plan, verursacht durch unerwartete Probleme bei der Integration mit einem Altsystem des Kunden. Der finale Liefertermin am 15.12.20XX soll aber laut MS weiterhin gehalten werden. Dies erfordert jedoch zusätzliche Arbeitsstunden, insbesondere vom Team Alpha unter Leitung von JF, in den nächsten Wochen. SL bestätigt die technischen Herausforderungen, sieht aber bereits Lösungsansätze. HG betont die Wichtigkeit proaktiver Kommunikation mit dem Kunden GlobalTrade AG über den aktuellen Stand.\n\n**TOP 3 Ergebnisse der Kundenzufriedenheitsumfrage Q3**\n\nPK präsentiert die Resultate der kürzlich durchgeführten Kundenzufriedenheitsumfrage für das dritte Quartal. Das Gesamtergebnis ist mit 85% zufriedenen oder sehr zufriedenen Kunden positiv. Als signifikantester Schwachpunkt wurde jedoch von 15% der Befragten die Antwortgeschwindigkeit der technischen Support-Hotline genannt. PK schlägt zur Verbesserung die Einführung eines neuen, webbasierten Ticketsystems bis Ende des Jahres vor. RM weist darauf hin, dass dies eine ungeplante Ausgabe sei und das Budget dafür geprüft werden müsse. Es wird beschlossen, dass PK und RM gemeinsam eine detaillierte Kosten-Nutzen-Analyse erstellen und diese in der nächsten Sitzung vorstellen.\n\n**TOP 4 Planung Ressourcen Softwareentwicklung Q1/Nächstes Jahr**\n\nSL erläutert den Bedarf für das erste Quartal des kommenden Jahres. Aufgrund geplanter Neuprojekte und Erweiterungen werden dringend drei zusätzliche Senior-Softwareentwickler benötigt. EB berichtet von der angespannten Lage auf dem Arbeitsmarkt, speziell für erfahrene Fachkräfte. Als mittelfristige Strategie schlägt sie vor, die Kooperationen mit lokalen Universitäten zur Gewinnung von Nachwuchskräften zu intensivieren. Kurzfristig, für den Bedarf in Q1, empfiehlt sie jedoch die Prüfung von temporären externen Kräften (Contractors). Es wird vereinbart, dass EB umgehend Kontakt zu zwei spezialisierten Recruiting-Agenturen aufnimmt und bis Mitte November konkrete Optionen und Konditionen für externe Unterstützung vorlegt.\n\n**TOP 5 Vorbereitung Cybersecurity-Audit (Bericht Herr Liang)**\n\nHerr Liang (CL), der externe Berater, berichtet über den Stand der Vorbereitungen für das anstehende Cybersecurity-Audit. Die Schulungen zur Sensibilisierung der Mitarbeiter wurden erfolgreich abgeschlossen. Ein durchgeführter technischer Schwachstellen-Scan hat jedoch drei kritische Sicherheitslücken identifiziert, die hauptsächlich veraltete Software-Patches auf einigen Servern betreffen. SL bestätigt, dass ihr Team bereits an der Behebung dieser Probleme arbeitet. Der Termin für das Audit durch die externe Zertifizierungsstelle ist für die erste Dezemberwoche bestätigt. CL zeigt sich zuversichtlich, dass das Audit erfolgreich bestanden wird, vorausgesetzt, die identifizierten kritischen Lücken sind bis dahin geschlossen.\n\n**TOP 6 Sonstiges**\n\nHG gibt bekannt, dass die diesjährige Weihnachtsfeier am 18.12.20XX stattfinden wird. Anders als in den Vorjahren wird sie extern im \"Restaurant am See\" ausgerichtet. Einladungen folgen separat. PK erwähnt kurz einen vielversprechenden neuen Kontakt zu einem potenziellen Großkunden aus der Automobilbranche. Er wird dazu in der nächsten Sitzung ausführlicher berichten. Weitere Punkte gibt es nicht. HG schließt die Sitzung um 10:42 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte wegen fehlender Informationen nicht genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde mit einer kleinen Änderung angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "ist ohne Anmerkungen akzeptiert worden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Projekt \"Phoenix\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "liegt momentan leicht hinter dem Zeitplan."
+                },
+                {
+                    "key": "b",
+                    "text": "wird definitiv nicht rechtzeitig fertiggestellt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt mehr Personal in der Entwicklungsphase."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Kundenzufriedenheitsumfrage",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "führte zur sofortigen Einführung eines neuen Systems."
+                },
+                {
+                    "key": "b",
+                    "text": "ergab hauptsächlich negative Rückmeldungen."
+                },
+                {
+                    "key": "c",
+                    "text": "zeigte Schwächen beim telefonischen Support."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Personalplanung für Q1",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konzentriert sich auf die Einstellung von Hochschulabsolventen."
+                },
+                {
+                    "key": "b",
+                    "text": "beinhaltet die Suche nach externen Fachkräften."
+                },
+                {
+                    "key": "c",
+                    "text": "ist schwierig, weil drei Junior-Entwickler fehlen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Cybersecurity-Audit",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert die Behebung bekannter Sicherheitsprobleme."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde vom externen Berater bereits durchgeführt."
+                },
+                {
+                    "key": "c",
+                    "text": "kann stattfinden, obwohl Server-Updates noch ausstehen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

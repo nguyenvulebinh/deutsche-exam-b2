@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll - Monatsmeeting Geschäftsleitung\n\n**14. Mai 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Besprechungsraum \"Sirius\", TechnoForm Hauptgebäude, Industriestraße 12, 67890 Neustadt\n\n**Anwesende:**\n*   Dr. Lena Weber (LW, Geschäftsführung)\n*   Markus Klein (MK, Leitung Produktion)\n*   Sandra Bergmann (SB, Leitung Qualitätssicherung)\n*   Jonas Richter (JR, Leitung Einkauf & Logistik)\n*   Eva Schuster (ES, Leitung Personal)\n*   Thomas Bauer (TB, Leitung IT)\n*   Anna Fischer (AF, Vertriebsleitung)\n\n**Sitzungsleitung:** Dr. Lena Weber (LW)\n**Protokollantin:** Eva Schuster (ES)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 16.04.20XX\n2.  Aktueller Stand Qualitätssicherung: Analyse Fehlerquote Linie C\n3.  Produktionseffizienz: Maßnahmenplan Linie B\n4.  Projektstatus: Einführung neues ERP-System\n5.  Personal: Schulungsbedarf neue QS-Software\n6.  Sonstiges: Planung Sommerfest\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 16.04.20XX**\n\nLW begrüßt die Anwesenden zur Sitzung. Sie bittet um Genehmigung des Protokolls der letzten Sitzung. JR weist darauf hin, dass unter TOP 4 des alten Protokolls eine von ihm genannte Lieferfrist für Rohmaterial um eine Woche korrigiert werden musste, was im Entwurf bereits berücksichtigt wurde. Nach dieser Klarstellung wird das Protokoll vom 16.04. einstimmig genehmigt.\n\n**TOP 2 Aktueller Stand Qualitätssicherung: Analyse Fehlerquote Linie C**\n\nSB präsentiert die QS-Daten der letzten vier Wochen. Insgesamt liegen die Werte im Rahmen, jedoch zeigt sich, dass die Fehlerquote bei Gratbildung an gefertigten Teilen auf Linie C in den letzten vier Wochen leicht über unserem Zielwert von 0,5% liegt (aktuell 0,6%). Andere Fehlerarten und Linien sind unauffällig. Als mögliche Ursache werden Schwankungen in der angelieferten Materialqualität vermutet. SB wird dies gemeinsam mit MK in der nächsten Woche genauer analysieren und spezifische Materialchargen prüfen.\n\n**TOP 3 Produktionseffizienz: Maßnahmenplan Linie B**\n\nMK berichtet von leicht gesunkenen Ausstoßzahlen bei Linie B im Vergleich zum Vormonat, hauptsächlich wegen längerer Rüstzeiten bei Produktwechseln. Eine technische Ursache konnte ausgeschlossen werden. Er schlägt gezielte Schulungen für die Bediener dieser Linie bezüglich der optimalen Rüstprozesse vor. Nach kurzer Diskussion über den Umfang wird einstimmig beschlossen: Die Schulung (halbtägig) wird genehmigt und soll durch ES innerhalb der nächsten vier Wochen organisiert werden.\n\n**TOP 4 Projektstatus: Einführung neues ERP-System**\n\nTB berichtet über den Fortschritt des ERP-Projekts. Phase 1 (Systemkonfiguration) ist abgeschlossen. Phase 2 (Datenmigration) läuft aktuell; es gibt hier eine leichte Verzögerung von ca. einer Woche gegenüber dem Plan, da die Regeln zur Datenbereinigung aus dem Altsystem durch JR noch final definiert werden müssen. TB bittet JR dringend um Lieferung bis Ende dieser Woche. Als nächstes startet Phase 3 (User Acceptance Testing), geplant ab Mitte Juni. Hierfür werden Key User aus allen Abteilungen benötigt.\n\n**TOP 5 Personal: Schulungsbedarf neue QS-Software**\n\nIm Zusammenhang mit der kürzlich eingeführten neuen Software zur Qualitätsdatenerfassung (im ERP integriert) besteht Schulungsbedarf. ES informiert, dass eine verpflichtende Basisschulung für alle Mitarbeiter der Qualitätssicherung (Team SB) bis Ende Juni abgeschlossen sein wird. Termine werden nächste Woche bekannt gegeben. Eine weiterführende Schulung für Administratoren und Key User (SB und ein von ihr benannter Mitarbeiter) ist für Juli geplant.\n\n**TOP 6 Sonstiges: Planung Sommerfest**\n\nLW bringt die Planung für das jährliche Sommerfest zur Sprache. Sie schlägt als Termin Freitag, den 19. Juli vor, um Überschneidungen mit der Ferienzeit zu minimieren. Bezüglich des Ortes bittet sie die Anwesenden um kreative Vorschläge (intern/extern) bis zur nächsten Sitzung am 11. Juni. Der Budgetrahmen wurde bereits intern festgelegt und von LW bestätigt. Weitere Punkte wurden nicht angesprochen. LW schließt die Sitzung um 10:42 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 16.04.",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "enthielt einen Fehler bei den Teilnehmerzahlen."
+                },
+                {
+                    "key": "c",
+                    "text": "musste vor der Genehmigung leicht geändert werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Qualität auf Linie C",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigt bei einem bestimmten Fehler eine leichte Verschlechterung."
+                },
+                {
+                    "key": "b",
+                    "text": "erfüllt aktuell alle Qualitätsziele vollständig."
+                },
+                {
+                    "key": "c",
+                    "text": "wird durch Materialprobleme verursacht, die bereits gelöst sind."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Zur Verbesserung der Effizienz",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird die Wartung von Linie B vorgezogen."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen die Bediener von Linie B geschult werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird eine neue Maschine für Linie B angeschafft."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue ERP-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "befindet sich momentan in der Phase der Datenübertragung."
+                },
+                {
+                    "key": "b",
+                    "text": "kann ab Mitte Juni von allen Mitarbeitern genutzt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "verzögert sich stark wegen fehlender Zuarbeit von TB."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Sommerfest der Firma",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet sicher am 19. Juli in der Firma statt."
+                },
+                {
+                    "key": "b",
+                    "text": "muss noch vom Einkauf budgetiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "hat bereits einen Terminvorschlag, aber noch keinen Ort."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

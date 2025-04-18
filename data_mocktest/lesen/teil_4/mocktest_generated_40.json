@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Raum K2, Firmenzentrale, Sensorstraße 1, 12345 Neustadt\n\n**Anwesende:**\n*   Dr. Eva Roth (ER, Geschäftsführung)\n*   Markus Weber (MW, Leitung Entwicklung)\n*   Sandra König (SK, Leitung Produktion)\n*   Jan Hoffmann (JH, Leitung Vertrieb)\n*   Lena Bauer (LB, Leitung Einkauf)\n*   Tim Schulz (TS, Leitung IT)\n*   Anna Ziegler (AZ, Leitung Personal)\n*   Gast: Herr Lars Meyer (LM, externer Berater - Prozessoptimierung)\n\n**Sitzungsleitung:** Dr. Eva Roth (ER)\n**Protokollantin:** Lena Bauer (LB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. August 20XX\n2.  Projektstatus \"SensorX Pro\"\n3.  Qualitätsprobleme Zulieferer Bauteil C-45\n4.  Umstellung Warenwirtschaftssystem (WWS)\n5.  Vorbereitung Industriemesse \"Sensorica\"\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. August 20XX**\n\nER begrüßt alle Anwesenden, insbesondere Herrn Meyer als Gast. Das Protokoll der letzten Sitzung vom 15. August wird ohne Änderungen einstimmig genehmigt. LB hat das Protokoll verfasst.\n\n**TOP 2 Projektstatus \"SensorX Pro\"**\n\nMW berichtet über den aktuellen Stand des neuen High-End-Sensors \"SensorX Pro\". Die ersten Prototypen wurden erfolgreich intern getestet und zeigen vielversprechende Ergebnisse. Allerdings gibt es eine unerwartete Verzögerung bei den externen Belastungstests für eine Schlüsselkomponente, was den ursprünglichen Zeitplan um etwa vier Wochen verschiebt. MW ist jedoch zuversichtlich, dass die Tests bis Mitte Oktober abgeschlossen werden können. Eine Kostenüberschreitung ist derzeit nicht zu verzeichnen.\n\n**TOP 3 Qualitätsprobleme Zulieferer Bauteil C-45**\n\nLB informiert über Qualitätsschwankungen beim Bauteil C-45, die spezifisch bei der letzten Lieferung (Charge #78B) vom Zulieferer BetaCorp festgestellt wurden. SK bestätigt, dass dies zu vereinzelten Ausfällen in der Endkontrolle führte. Das Problem betrifft nicht andere Zulieferer oder andere Bauteile von BetaCorp. Es wird beschlossen, dass LB umgehend Nachverhandlungen mit BetaCorp bezüglich der betroffenen Charge aufnimmt und die Eingangskontrolle für dieses Bauteil temporär intensiviert wird. Eine generelle Sperrung des Zulieferers wird aktuell nicht erwogen.\n\n**TOP 4 Umstellung Warenwirtschaftssystem (WWS)**\n\nTS gibt ein Update zur Migration auf das neue WWS. Die Datenmigration aus dem Altsystem läuft planmäßig, ist aber noch nicht abgeschlossen; circa 70% der Daten sind übertragen. Es zeigen sich kleinere Kompatibilitätsprobleme mit einer alten Datenbank, an deren Lösung gearbeitet wird. Erste Schulungstermine für die Pilot-Anwendergruppen in Einkauf (LB) und Produktion (SK) sind für Ende Oktober angesetzt. Die Schulung für alle Mitarbeiter erfolgt dann gestaffelt im November. TS leitet die internen Schulungen.\n\n**TOP 5 Vorbereitung Industriemesse \"Sensorica\"**\n\nJH berichtet über die Vorbereitungen für die wichtige Messe \"Sensorica\" im nächsten Frühjahr. Der Messestand an prominenter Position ist fest reserviert. Der Designvorschlag A für den Standaufbau wurde nach kurzer Diskussion von ER genehmigt. Die Produktion der neuen Produktbroschüren und Werbematerialien läuft bereits und soll bis Jahresende abgeschlossen sein. JH wird sich nun um die zeitnahe Buchung der notwendigen Hotelkontingente und Reiseorganisation für das Messeteam kümmern; dies ist noch offen.\n\n**TOP 6 Sonstiges**\n\nAZ informiert kurz, dass die überarbeitete Gleitzeitregelung finalisiert ist und wie geplant zum 01. November 20XX in Kraft treten wird. Details werden per E-Mail kommuniziert.\nLM stellt sich kurz vor und kündigt an, dass im Rahmen der Prozessoptimierung im nächsten Quartal eine anonyme Online-Mitarbeiterumfrage zur internen Zusammenarbeit durchgeführt wird. Er wird die Umfrage konzipieren und auswerten.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Projekt \"SensorX Pro\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verzögert sich wegen Problemen bei Tests."
+                },
+                {
+                    "key": "b",
+                    "text": "ist bereits in der Massenproduktion."
+                },
+                {
+                    "key": "c",
+                    "text": "überschreitet die geplanten Kosten stark."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Qualitätsproblem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "betrifft alle Lieferungen des Bauteils C-45."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert Nachverhandlungen mit dem Zulieferer BetaCorp."
+                },
+                {
+                    "key": "c",
+                    "text": "führte zur sofortigen Sperrung des Lieferanten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Umstellung des Warenwirtschaftssystems",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist mittlerweile vollständig abgeschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert eine Schulung aller Mitarbeiter sofort."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhaltet geplante Schulungen für bestimmte Abteilungen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Vorbereitung der \"Sensorica\" Messe",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhaltet ein bereits genehmigtes Standdesign."
+                },
+                {
+                    "key": "b",
+                    "text": "bedeutet, dass die Reisen bereits organisiert sind."
+                },
+                {
+                    "key": "c",
+                    "text": "zeigt, dass die Werbematerialien noch entworfen werden müssen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Im Bereich \"Sonstiges\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird eine sofort gültige neue Arbeitszeitregelung verkündet."
+                },
+                {
+                    "key": "b",
+                    "text": "kündigt ein externer Berater eine Mitarbeiterumfrage an."
+                },
+                {
+                    "key": "c",
+                    "text": "informiert die Personalabteilung über eine externe Umfrage."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

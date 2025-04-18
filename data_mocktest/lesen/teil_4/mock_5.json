@@ -1,0 +1,96 @@
+{
+    "meeting_note": "## Protokoll\n\n**15. Juli 20XX, 10:00–11:00 Uhr**\n**Ort: Raum 471, Rostocker Chaussee 10, 17628 Grabenow**\n\n**Anwesende:**\n*   Heide Wessely (HW, Geschäftsführung)\n*   Roman Lauf (RL, Assistenz Geschäftsführung)\n*   Ottmar Peters (OP, Abteilungsleiter Marketing)\n*   Andrea Olms (AO, Abteilungsleiterin IT)\n*   Frank Traube (FT, Abteilungsleiter Einkauf)\n*   Ingmar Kves (IK, Abteilungsleiter Logistik)\n\n**Sitzungsleitung:** Heide Wessely\n**Protokollant:** Roman Lauf\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung, Genehmigung des letzten Protokolls\n2.  Berichte aus den Abteilungen\n3.  Baumaßnahmen Rostocker Chaussee\n4.  Stand Homepage\n5.  Termine\n6.  Verschiedenes\n\n**TOP 1 Begrüßung, Genehmigung des letzten Protokolls**\n\nNach der Begrüßung durch HW wird die Tagesordnung einstimmig beschlossen. OP meldet sich zum Protokoll der letzten Sitzung zu Wort und weist darauf hin, dass unter TOP 5 ein falscher Termin für die Schiffbauermesse steht. Nach Korrektur des Termins erfolgt einstimmig die Abnahme des Protokolls.\n\n**TOP 2 Berichte aus den Abteilungen**\n\nHW weist auf die Berichte hin, die vorab an alle Teilnehmenden verschickt wurden, und bittet um Fragen oder Anmerkungen. FT greift den Bericht der IT-Abteilung auf. Die Datenbank zur Erfassung der Lagerbestände habe sich seit ihrer Einführung vor einem Jahr bewährt. FT weist auf Probleme beim Log-in hin, die er kürzlich hatte. Diese Probleme seien jetzt zwar gelöst, er bittet aber darum, dies der Vollständigkeit halber in dem Bericht zu ergänzen. AO sagt zu, den Bericht entsprechend zu ändern.\n\n**TOP 3 Baumaßnahmen Rostocker Chaussee**\n\nIK informiert über die kurzfristig geplante Fahrbahnerneuerung auf der Rostocker Chaussee, die laut Bauamt bereits im August erfolgen soll. Dafür wird es notwendig sein, die Rostocker Chaussee für eine Fahrbahn zu sperren und eine Ampel für Wechselverkehr einzurichten. Wie lange die Sperrung dauert, ist noch nicht bekannt. Das bedeute logistische Herausforderungen, so IK. Es werde aufgrund der Sperrung zu längeren Fahrzeiten bei An- und Auslieferungen kommen und es stelle sich die Frage, ob die Zufahrt während der Baumaßnahmen auch für große Fahrzeuge möglich sein wird. IK soll sich umgehend mit dem Bauamt in Verbindung setzen, um diese Punkte zu klären. Ein Bericht darüber soll zur Information für alle ins Intranet gestellt werden.\n\n**TOP 4 Stand Homepage**\n\nWie auf der letzten Sitzung beschlossen, hat AO Angebote eingeholt und im Vorfeld dieser Sitzung drei Angebote präsentiert, die in die engere Auswahl kommen. Alle Firmen haben Erfahrung darin, einen Webshop für Großkunden auf einer Homepage zu integrieren, was die zentrale Neuerung bei uns sein wird. AO hält die zuverlässige Abwicklung der Arbeiten dabei für wichtiger, als nur auf die Kosten zu achten. OP stimmt zu und weist darauf hin, dass bereits zahlreiche Kunden angefragt haben, wann es bei uns die Möglichkeit des Online-Einkaufs geben wird. Das Thema sei für die Kunden entscheidend, so OP, und wir sollten dies schnell und qualitativ hochwertig umsetzen lassen. Unter Berücksichtigung dieser Aspekte wird einstimmig beschlossen, der Firma Sasaki Systems den Zuschlag zu erteilen.\n\n**TOP 5 Termine**\n\nIm kommenden Januar unternehmen FT und OP eine Geschäftsreise nach Busan (Südkorea), um dort eine Schiffswerft zu besichtigen, die an einer Zusammenarbeit interessiert ist.\n\n**TOP 6 Verschiedenes**\n\nHW berichtet von einer Anfrage, im kommenden Jahr einen Tag der Berufsorientierung für Schülerinnen und Schüler durchzuführen. Sie halte dies für interessant und werde auf der nächsten Sitzung genauer darüber informieren.",
+    "aufgaben_list": [
+      {
+        "frage": "Das Protokoll",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "führt heute ein Abteilungsleiter."
+          },
+          {
+            "key": "b",
+            "text": "wird nach Änderung genehmigt."
+          },
+          {
+            "key": "c",
+            "text": "wird um einen TOP erweitert."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Der Bericht der IT-Abteilung",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "beschreibt Schwierigkeiten."
+          },
+          {
+            "key": "b",
+            "text": "soll korrigiert werden."
+          },
+          {
+            "key": "c",
+            "text": "wird in der Sitzung verteilt."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Die Fahrbahnerneuerung vor dem Firmengelände",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "bereitet der Logistik Probleme."
+          },
+          {
+            "key": "b",
+            "text": "betrifft die Firma kaum."
+          },
+          {
+            "key": "c",
+            "text": "dauert nicht mehr lange."
+          }
+        ],
+        "loesung": "a"
+      },
+      {
+        "frage": "Die Homepage der Firma",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "ist von vielen Kunden kritisiert worden."
+          },
+          {
+            "key": "b",
+            "text": "kostet der Marketingleitung zu viel."
+          },
+          {
+            "key": "c",
+            "text": "wird um einen wichtigen Bereich erweitert."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Im nächsten Jahr",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "besuchen Mitarbeiter eine andere Firma."
+          },
+          {
+            "key": "b",
+            "text": "kommen Gäste zu Besuch."
+          },
+          {
+            "key": "c",
+            "text": "kooperiert der Betrieb mit einer Schule."
+          }
+        ],
+        "loesung": "a"
+      }
+    ]
+}
+  

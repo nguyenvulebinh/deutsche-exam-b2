@@ -1,0 +1,96 @@
+{
+    "meeting_note": "## Protokoll\n\n**15. März 20XX, 9:00 – 10:30 Uhr**\n**Ort: Konferenzraum 2, Karlingerstraße 15, 75347 Holzhausen**\n\n**Anwesende:**\n*   Christine Belarz (CB, Klinikleiterin)\n*   Michael Ahlers (MA, Personalleiter)\n*   Ramona Hartmann (RH, Leiterin der Station 3)\n*   Tanja Schmied (TS, Verwaltungsleiterin)\n*   Andrey Petruk (AP, Pflegeleitung)\n*   Thomas Bringhaus (TB, Technik)\n*   Dr. Fatma Schüler (FS, Innere Medizin)\n*   Aigul Kohrmann (AK, Sekretariat)\n\n**Sitzungsleitung:** Michael Ahlers\n**Protokollantin:** Aigul Kohrmann\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Personelles\n3.  Renovierung der Station 4\n4.  Probleme auf der Station 3\n5.  Erfahrungsbericht mit der neuen Software\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nMA begrüßt Frau Belarz und alle anwesenden Mitarbeitenden zur heutigen Sitzung und entschuldigt sich für die Verspätung durch einen anderen Termin. Das Protokoll vom 2. Februar wird durch Handzeichen ohne Einwände einstimmig angenommen.\n\n**TOP 2 Personelles**\n\nMA weist darauf hin, dass in der Unfallstation zwei Kolleginnen zum 30. April in Rente gehen und noch kein Ersatz eingestellt wurde. Der generelle Personalmangel in der Pflege wurde laut MA schon oft diskutiert, familienfreundlichere Arbeitszeiten machen die Klinik als Arbeitgeber aber attraktiv. Im Verlauf des nächsten halben Jahres werden vier weitere Mitarbeitende im Pflegedienstbereich eingestellt.\n\n**TOP 3 Renovierung der Station 4**\n\nFS berichtet vom Stand der Dinge: Mehr als die Hälfte der Zimmer, in denen die Bäder durch den häufigen Gebrauch von Desinfektionsmitteln unansehnlich geworden waren, und die teilweise auch beschädigte Waschbecken und Fliesen hatten, wurden bereits renoviert. Bis Mitte April sollen alle Arbeiten dort abgeschlossen werden. Danach wird der Flur der Station in freundlichen Farben gestrichen. Dafür liegen bereits Angebote von zwei Malerbetrieben vor.\n\n**TOP 4 Probleme auf der Station 3**\n\nAP und RH bemängeln, dass es auf der Geburtenstation immer wieder Probleme mit jungen Vätern gibt, die manchmal spät abends angetrunken auf die Station kommen, um Mutter und Kind zu besuchen. Das ist natürlich verboten und stört andere Mütter und das Personal. Manche übertreiben es auch mit Blumensträußen, sodass es in einigen Krankenzimmern wie in einer Gärtnerei aussehe. Die Krankenhausregeln müssen klarer kommuniziert werden.\n\n**TOP 5 Erfahrungsbericht mit der neuen Software**\n\nAK berichtet über ihre Erfahrungen mit der neuen Software für die Aufnahme neuer Patientinnen und Patienten. Sie ist insgesamt zufrieden damit. Nur die Verbindung zur Medikamentendatenbank mache manchmal Probleme. Die Software-Firma ist schon verständigt.\n\n**TOP 6 Sonstiges**\n\nCB lobt den gelungenen Umbau der Cafeteria im Erdgeschoss von Haus 5. Die große Glasfront zur Terrasse lässt viel Licht herein und der Übergang zur Terrasse ist jetzt barrierefrei. Die freundliche Atmosphäre lädt auch das Personal ein, hier die Pausen zu verbringen. CB weist dringend darauf hin, sich hier nicht über vertrauliche Patienteninformationen zu unterhalten.\nKommenden Freitagnachmittag lädt der Personalleiter dort die Auszubildenden anlässlich ihrer bestandenen Prüfung zu Kaffee und Kuchen ein. Die Stationsleitungen sollen das in der Arbeitszeitplanung berücksichtigen.",
+    "aufgaben_list": [
+      {
+        "frage": "Die heutige Sitzung",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "eröffnete die Klinikleitung."
+          },
+          {
+            "key": "b",
+            "text": "fand am 2. Februar statt."
+          },
+          {
+            "key": "c",
+            "text": "wurde vom Personalleiter geführt."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Neues Personal",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "bemängelt familienfeindliche Arbeitszeiten."
+          },
+          {
+            "key": "b",
+            "text": "fängt in den kommenden Monaten an."
+          },
+          {
+            "key": "c",
+            "text": "wurde in der Unfallstation eingestellt."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "In den Zimmern auf Station 4",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "erfolgen im April noch Malerarbeiten."
+          },
+          {
+            "key": "b",
+            "text": "müssen einige Bäder neu gemacht werden."
+          },
+          {
+            "key": "c",
+            "text": "wird zu viel Desinfektionsmittel benutzt."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Auf der Geburtenstation",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "beschweren sich immer mehr Mütter."
+          },
+          {
+            "key": "b",
+            "text": "dürfen in den Zimmern keine Blumen stehen."
+          },
+          {
+            "key": "c",
+            "text": "halten sich Besucher nicht an die Regeln."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Die Klinikleiterin",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "berichtet über die helle Cafeteria."
+          },
+          {
+            "key": "b",
+            "text": "kritisiert den Umbau der Terrasse."
+          },
+          {
+            "key": "c",
+            "text": "lädt die Stationsleitungen ein."
+          }
+        ],
+        "loesung": "a"
+      }
+    ]
+}
+  

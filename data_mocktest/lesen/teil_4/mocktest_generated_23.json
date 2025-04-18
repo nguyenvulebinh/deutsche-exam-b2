@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum \"Kreativ\", TechSolutions GmbH, Hauptstraße 42, 10115 Berlin\n\n**Anwesende:**\n*   Dr. Hanna Müller (HM, Geschäftsführung)\n*   Markus Weber (MW, Leitung Projektmanagement)\n*   Sabine Keller (SK, Leitung Entwicklung)\n*   Ben Schneider (BS, Leitung IT-Infrastruktur)\n*   Julia Richter (JR, Leitung Marketing & Vertrieb)\n*   Leo Schmidt (LS, Senior Entwickler)\n*   Anja Bergmann (AB, Personalwesen)\n\n**Entschuldigt:** Stefan Kurz (SKu, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Hanna Müller (HM)\n**Protokollant:** Markus Weber (MW)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 29.08.20XX\n2.  Projekt \"Phoenix\": Status Update Kundensystem Meier AG\n3.  Ressourcenplanung Q4\n4.  Geplantes Server-Upgrade\n5.  Weiterbildungsbedarf: Cloud-Technologien\n6.  Marketing-Initiative: Fachartikel\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 29.08.20XX**\n\nHM begrüßt die Anwesenden. Das Protokoll der Sitzung vom 29. August 20XX wurde vorab verteilt. Es gibt keine Änderungsanträge oder Einwände. Das Protokoll wird einstimmig genehmigt.\n\n**TOP 2 Projekt \"Phoenix\": Status Update Kundensystem Meier AG**\n\nMW berichtet über den aktuellen Stand des Projekts für die Meier AG. Das Projekt befindet sich plangemäß in der Phase des User Acceptance Testing (UAT), die pünktlich begonnen hat. SK ergänzt, dass das initiale Feedback des Kunden grundsätzlich positiv sei. Allerdings wurde die Ladegeschwindigkeit des Reporting-Moduls bemängelt. HM betont die Wichtigkeit der Kundenzufriedenheit. LS wird beauftragt, bis Ende nächster Woche eine Optimierung des Moduls vorzunehmen und das Ergebnis zu dokumentieren. Durch diese zusätzliche Aufgabe könnte sich der Abschluss der UAT-Phase leicht verzögern.\n\n**TOP 3 Ressourcenplanung Q4**\n\nHM leitet die Diskussion zur Ressourcenplanung für das kommende Quartal. Angesichts der hohen Auslastung wird einstimmig beschlossen, dass das Projekt \"Phoenix\" und das geplante Server-Upgrade (siehe TOP 4) höchste Priorität haben. Die Akquise-Aktivitäten für Neukunden werden im Q4 leicht reduziert. Der Vorschlag, externe Freiberufler zur Unterstützung hinzuzuziehen, wird nach kurzer Diskussion verworfen; stattdessen soll auf interne Umschichtung gesetzt werden. Die Entwicklung eines kleineren internen Verwaltungstools wird auf das Q1 des Folgejahres verschoben.\n\n**TOP 4 Geplantes Server-Upgrade**\n\nBS stellt die Notwendigkeit eines Upgrades der zentralen Serverinfrastruktur dar. Gründe sind vor allem zunehmende Performance-Engpässe und das bevorstehende Support-Ende für Teile der aktuellen Hardware. Das Upgrade ist für das Wochenende vom 28./29. Oktober 20XX geplant. BS erwartet eine notwendige Downtime von ca. 8 Stunden, voraussichtlich am Samstagabend. Hiervon sind primär interne Systeme wie das Entwicklungsnetzwerk und das Intranet betroffen. Durch redundante Systeme sollte die Erreichbarkeit der externen Kundensysteme gewährleistet bleiben.\n\n**TOP 5 Weiterbildungsbedarf: Cloud-Technologien**\n\nSK berichtet über den steigenden Bedarf an Know-how im Bereich Cloud-Technologien, insbesondere AWS, für kommende Projekte. Es wird beschlossen, eine externe Schulungsmaßnahme zu organisieren. SK wird bis Mitte Oktober fünf Entwicklerinnen und Entwickler auswählen, deren Teilnahme auf freiwilliger Basis erfolgt, jedoch stark empfohlen wird. AB wird die Organisation der Schulung übernehmen, die im November stattfinden soll.\n\n**TOP 6 Marketing-Initiative: Fachartikel**\n\nJR stellt ihre Idee vor, einen Fachartikel zum Thema \"Modernisierung von Legacy-Systemen\" im \"IT Management Magazin\" zu platzieren, um die Expertise der Firma (auch anhand der Erfahrungen aus Projekt Phoenix) zu demonstrieren. HM begrüßt die Initiative. Da LS über tiefgehendes technisches Wissen verfügt, wird er gebeten, JR als Co-Autor mit fachlichem Input zu unterstützen. JR koordiniert den Prozess. Ein erster Entwurf des Artikels soll intern bis zum 15. Oktober vorliegen.\n\n**TOP 7 Sonstiges**\n\nHM gibt bekannt, dass die Planung für den jährlichen Firmenausflug begonnen hat. Als Termin ist das erste Wochenende im Dezember anvisiert. Weitere Details folgen zu gegebener Zeit.\nWeitere Punkte werden nicht angesprochen. HM schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Projekt \"Phoenix\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde vom Kunden Meier AG vollständig abgenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigt aktuell technische Probleme in einem Teilbereich."
+                },
+                {
+                    "key": "c",
+                    "text": "liegt derzeit hinter dem ursprünglichen Zeitplan zurück."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Ressourcenplanung für Q4",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sieht eine Priorisierung bestimmter Aufgaben vor."
+                },
+                {
+                    "key": "b",
+                    "text": "beinhaltet die Einstellung externer Mitarbeiter."
+                },
+                {
+                    "key": "c",
+                    "text": "verschiebt das Server-Upgrade auf nächstes Jahr."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Server-Upgrade",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "führt zu einem ganztägigen Ausfall aller Kundensysteme."
+                },
+                {
+                    "key": "b",
+                    "text": "wird durchgeführt, weil die aktuelle Software veraltet ist."
+                },
+                {
+                    "key": "c",
+                    "text": "findet Ende Oktober statt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Eine Weiterbildung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll von ausgewählten Mitarbeitern besucht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von Anja Bergmann inhaltlich geplant."
+                },
+                {
+                    "key": "c",
+                    "text": "ist für alle Entwickler der Firma verpflichtend."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Leo Schmidt",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "leitet die Entwicklung für das Projekt \"Phoenix\"."
+                },
+                {
+                    "key": "b",
+                    "text": "soll bei einer Marketing-Aktivität mitwirken."
+                },
+                {
+                    "key": "c",
+                    "text": "ist für die Auswahl der Schulungsteilnehmer verantwortlich."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

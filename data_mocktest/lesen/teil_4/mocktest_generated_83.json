@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Konferenzraum \"Hamburg\", TechFab GmbH Hauptverwaltung, Industriestraße 15, 45XXX Essen\n\n**Anwesende:**\n*   Herr Klaus Hoffman (KH, Geschäftsführung)\n*   Frau Sabine Keller (SK, Leitung Marketing)\n*   Herr Gerd Schumacher (GS, Leitung Produktion)\n*   Frau Lena Neubauer (LN, Leitung Personal)\n*   Herr Michael Adams (MA, Leitung IT)\n*   Herr Frank Berger (FB, Leitung Einkauf)\n*   Frau Anja Ziegler (AZ, Assistenz der Geschäftsführung)\n\n**Entschuldigt:** Herr Dr. Meier (Leitung F&E)\n\n**Sitzungsleitung:** Herr Klaus Hoffman (KH)\n**Protokollantin:** Frau Anja Ziegler (AZ)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.08.20XX\n2.  Aktuelle Produktionszahlen und Herausforderungen (Q3)\n3.  Projekt \"NovaTech Sensor\": Stand Marketingkampagne\n4.  Einführung neue Zeiterfassungssoftware\n5.  Personalbedarf Produktion für Q4\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.08.20XX**\n\nKH begrüßt die Anwesenden. Er bittet um Genehmigung des Protokolls der letzten Sitzung vom 15. August. FB bittet um eine Korrektur unter TOP 4 des alten Protokolls: Der Name des erwähnten Zulieferers lautet \"Connect AG\", nicht \"Connekt GmbH\". Nach Eintragung dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen und Herausforderungen (Q3)**\n\nGS berichtet, dass die Produktionszahlen im dritten Quartal insgesamt stabil sind und die Auftragsbücher gut gefüllt seien. Allerdings gibt es aktuell eine Herausforderung: Die Lieferung von speziellen Mikrochips aus Asien verzögert sich um voraussichtlich zwei Wochen, was die Fertigstellung der Premium-Produktlinie beeinflusst. Alle anderen Materialflüsse sind im Plan. Um Engpässe zu vermeiden, wird die geplante Wartung von Maschine B auf die kommende Woche vorgezogen. GS ist zuversichtlich, die Verzögerung bei den Chips durch interne Umplanung teilweise kompensieren zu können.\n\n**TOP 3 Projekt \"NovaTech Sensor\": Stand Marketingkampagne**\n\nSK informiert über den Fortschritt der Marketingkampagne für den neuen \"NovaTech Sensor\". Der offizielle Kampagnenstart ist fest für den 15. Oktober 20XX bestätigt. Das dafür notwendige Budget wurde bereits freigegeben. Die Kernbotschaften und ersten Werbemittel (Online-Banner, Pressemappe) sind fertiggestellt. Ein offener Punkt ist die Auswahl des passenden Influencers für die Social-Media-Aktivitäten; hier gibt es zwei vielversprechende Kandidaten. SK wird bis Ende dieser Woche die finale Entscheidung treffen und die Kooperation aufsetzen.\n\n**TOP 4 Einführung neue Zeiterfassungssoftware**\n\nMA gibt ein Update zur Einführung der neuen digitalen Zeiterfassung. Der technische Rollout der Software ist für den 1. November 20XX geplant. Obligatorische Schulungen für alle Mitarbeitenden sind für die letzten beiden Oktoberwochen vorgesehen. Die genauen Termine für die einzelnen Abteilungen werden in Kürze von LN (Personalabteilung) bekannt gegeben, um den Betriebsablauf möglichst wenig zu stören. Erste Tests durch die IT zeigten kleinere Anzeigefehler auf bestimmten Monitoren, die aber bereits in Arbeit sind und den Rollout nicht gefährden.\n\n**TOP 5 Personalbedarf Produktion für Q4**\n\nLN erläutert den aufgrund der guten Auftragslage gestiegenen Personalbedarf in der Produktion für das vierte Quartal. Es werden dringend drei zusätzliche Fachkräfte (Vollzeit) benötigt, idealerweise mit Eintrittsdatum zum 1. Dezember 20XX. KH stimmt dem Antrag zu. LN wird die entsprechenden Stellenausschreibungen vorbereiten und ab kommendem Montag auf den relevanten Portalen und der Firmenwebseite veröffentlichen.\n\n**TOP 6 Sonstiges**\n\nKH informiert kurz über die Planung der diesjährigen Weihnachtsfeier. Das Hotel \"Zum Anker\" als Veranstaltungsort ist fest gebucht. Der genaue Termin im Dezember muss jedoch noch final mit dem Hotel abgestimmt werden, da es eine Terminkollision gab. KH hofft, den Termin bis zur nächsten Sitzung fixieren zu können. Weitere Punkte werden nicht angesprochen. KH schließt die Sitzung um 10:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 15.08.",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Anmerkungen genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Herrn Berger neu geschrieben."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Produktion bei TechFab",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat derzeit Probleme mit allen Zulieferern."
+                },
+                {
+                    "key": "b",
+                    "text": "muss eine wichtige Maschine sofort reparieren."
+                },
+                {
+                    "key": "c",
+                    "text": "wird durch fehlende Mikrochips beeinträchtigt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Marketingkampagne \"NovaTech\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll Mitte Oktober starten."
+                },
+                {
+                    "key": "b",
+                    "text": "hat noch kein festes Budget erhalten."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von zwei Influencern unterstützt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Schulungen zur Zeiterfassung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden von der IT-Abteilung terminiert."
+                },
+                {
+                    "key": "b",
+                    "text": "finden Ende Oktober statt, die genauen Termine fehlen noch."
+                },
+                {
+                    "key": "c",
+                    "text": "können wegen Softwarefehlern noch nicht geplant werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Neueinstellungen für die Produktion",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden sofort benötigt."
+                },
+                {
+                    "key": "b",
+                    "text": "umfassen drei Stellen und die Suche beginnt bald."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden von der Geschäftsführung abgelehnt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

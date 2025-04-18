@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll - Operatives Quartalsmeeting\n\n**25. Oktober 20XX, 14:00 – 15:45 Uhr**\n**Ort:** Zentrale, Besprechungsraum \"Europa\", RapidTrans GmbH, Logistikweg 12, 40227 Düsseldorf\n\n**Anwesende:**\n*   Stefan Meyer (SM, Geschäftsführer)\n*   Isabelle Dubois (ID, Leitung Disposition National)\n*   Karim Al-Jabari (KAJ, Leitung Lagerhaltung)\n*   Elena Petrova (EP, Leitung Personal)\n*   Jürgen Winkler (JW, Leitung Fuhrparkmanagement)\n*   Maria Rossi (MR, Leitung Finanzen & Controlling)\n*   Chen Yang (CY, IT-Koordinator)\n\n**Gast:** Bernd Schäfer (BS, Externer Berater Lageroptimierung)\n\n**Sitzungsleitung:** Stefan Meyer (SM)\n**Protokollant:** Maria Rossi (MR)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 20.07.20XX\n2.  Aktuelle Auslastung und Performance Q3\n3.  Projekt \"Neues Zentrallager Rhein-Ruhr\"\n4.  Personalsituation Fahrpersonal\n5.  Digitalisierung: Status Tracking-System Update\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 20.07.20XX**\n\nSM begrüßt die Teilnehmerinnen und Teilnehmer sowie den Gast Herrn Schäfer. Er bittet um Genehmigung des Protokolls der Sitzung vom 20. Juli. KAJ bittet um eine Korrektur unter TOP 4 des alten Protokolls: Die dort genannte maximale Lagerkapazität nach der Regaloptimierung war um 50 Palettenplätze zu niedrig angesetzt. Mit dieser Änderung wird das Protokoll vom 20.07. einstimmig genehmigt.\n\n**TOP 2 Aktuelle Auslastung und Performance Q3**\n\nID berichtet über das dritte Quartal. Die durchschnittliche Auslastung der Flotte lag bei erfreulichen 92%. Allerdings gab es eine leichte Zunahme von Zustellungsverzögerungen unter 24 Stunden, was primär auf die hohe Verkehrsdichte, insbesondere auf den Autobahnen A3 und A40, zurückzuführen ist. Die Kosten pro gefahrenem Kilometer konnten stabil gehalten werden. KAJ ergänzt, dass die Lagerauslastung im September aufgrund saisonaler Wareneingänge ihren Spitzenwert erreichte.\n\n**TOP 3 Projekt \"Neues Zentrallager Rhein-Ruhr\"**\n\nSM informiert über den aktuellen Stand. Der Standort im Duisburg Logistics Park ist final gesichert. Die Einreichung des Bauantrags ist erfolgt, die Genehmigung wird für Mitte November erwartet. Der Baubeginn ist daraufhin für Anfang Q1 des kommenden Jahres geplant. BS stellt anschließend erste Entwürfe für das Lagerlayout vor, die einen starken Fokus auf effiziente Cross-Docking-Prozesse legen. Die geplante Fertigstellung des neuen Lagers ist Ende Q3 des nächsten Jahres.\n\n**TOP 4 Personalsituation Fahrpersonal**\n\nEP und JW schildern die weiterhin angespannte Lage. Trotz einer laufenden Rekrutierungskampagne sind derzeit 5 Fahrerstellen unbesetzt. Dies führt zu einer erhöhten Belastung durch Überstunden für das bestehende Personal. EP schlägt vor, die angebotene Einstiegsprämie auf 2000 € zu erhöhen, um sich von Wettbewerbern (die meist 1500 € bieten) abzuheben. MR prüft die finanzielle Machbarkeit und wird kurzfristig entscheiden. JW berichtet zudem, dass aktuell in drei LKWs neue Fahrerassistenzsysteme zur Müdigkeitserkennung getestet werden. Erste Auswertungen dazu werden in etwa vier Wochen erwartet.\n\n**TOP 5 Digitalisierung: Status Tracking-System Update**\n\nCY berichtet über das Rollout des Tracking-System Updates, das letzten Monat erfolgte. Das Feedback zur neuen Benutzeroberfläche ist überwiegend positiv. Jedoch treten sporadisch Probleme mit dem GPS-Signalverlust in ländlichen Gebieten auf, insbesondere in der Eifel-Region. Der Softwareanbieter wurde informiert und hat einen Patch innerhalb der nächsten zwei Wochen zugesagt. ID hat den Wunsch nach einer Integration von Echtzeit-Verkehrsdaten zur genaueren ETA-Berechnung geäußert. CY wird die technische Machbarkeit und die Kosten hierfür mit dem Anbieter klären.\n\n**TOP 6 Sonstiges**\n\nMR gibt einen ersten Ausblick auf die Budgetplanung für Q4. Die Aussichten sind grundsätzlich positiv, sie mahnt jedoch zur Vorsicht angesichts der stark steigenden Energiekosten für Lager und Fuhrpark. SM kündigt die jährliche Betriebsversammlung mit anschließender Weihnachtsfeier für den 15. Dezember an. Der genaue Veranstaltungsort wird noch bekannt gegeben.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der Juli-Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "enthielt falsche Angaben zur Lagerkapazität."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde vom Leiter der Lagerhaltung korrigiert."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde ohne Anmerkungen einstimmig genehmigt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das neue Zentrallager",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird Ende nächsten Jahres fertiggestellt sein."
+                },
+                {
+                    "key": "b",
+                    "text": "soll auf Vorschlag von Herrn Al-Jabari optimiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "kann erst gebaut werden, wenn die Genehmigung Anfang Q1 vorliegt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Um neue Fahrer zu gewinnen,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden bereits höhere Einstiegsprämien gezahlt."
+                },
+                {
+                    "key": "b",
+                    "text": "testet man neue Assistenzsysteme in allen LKWs."
+                },
+                {
+                    "key": "c",
+                    "text": "soll die Finanzabteilung über eine höhere Prämie entscheiden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das aktualisierte Tracking-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "funktioniert seit letztem Monat fehlerfrei."
+                },
+                {
+                    "key": "b",
+                    "text": "hat Probleme mit der Signalübertragung in bestimmten Gebieten."
+                },
+                {
+                    "key": "c",
+                    "text": "wird auf Wunsch von Herrn Yang um eine Stauprognose erweitert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Laut Frau Rossi",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird die Weihnachtsfeier am 15.12. in Düsseldorf stattfinden."
+                },
+                {
+                    "key": "b",
+                    "text": "belasten steigende Energiekosten das Budget."
+                },
+                {
+                    "key": "c",
+                    "text": "sind die Personalkosten der Hauptgrund für Budgetbedenken."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

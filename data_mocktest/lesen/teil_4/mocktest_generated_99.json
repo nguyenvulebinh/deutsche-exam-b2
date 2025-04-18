@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll - Projekt- und Planungsmeeting\n\n**18. April 20XX, 09:00 – 10:15 Uhr**\n**Ort:** Konferenzraum „Sirius“, TechNova Solutions GmbH, Siliconstraße 12, 80999 München\n\n**Anwesende:**\n*   Dr. Elena Petrova (EP, Geschäftsführung)\n*   Markus Weber (MW, Leitung Projektmanagement)\n*   Sabine Fischer (SF, Leitung Softwareentwicklung)\n*   Jonas Kaufmann (JK, Senior IT-Consultant)\n*   Laura Schmidt (LS, Leitung Marketing & Vertrieb)\n*   Ben Meyer (BM, Leitung Personal)\n*   Chen Yang (CY, Finanzen & Controlling)\n\n**Entschuldigt:** Klaus Richter (KR, Leitung Infrastruktur)\n\n**Sitzungsleitung:** Dr. Elena Petrova (EP)\n**Protokollant:** Ben Meyer (BM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls (vom 21. März 20XX)\n2.  Statusbericht Projekt \"Phoenix\" - Aktuelle Herausforderungen und nächste Schritte\n3.  Einführung neue Projektmanagement-Software \"PM-Suite Pro\"\n4.  Vorbereitung Messeauftritt \"Digital Future Expo\" (Juni 20XX)\n5.  Personalsituation im Entwicklerteam\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nEP begrüßt die Anwesenden. Das Protokoll der Sitzung vom 21. März 20XX wird ohne Einwände einstimmig genehmigt.\n\n**TOP 2 Statusbericht Projekt \"Phoenix\" - Aktuelle Herausforderungen und nächste Schritte**\n\nMW berichtet über Verzögerungen im Projekt \"Phoenix\". Hauptgrund sind unerwartete Änderungswünsche des Kunden, die erst kürzlich eingegangen sind. JK ergänzt, dass diese Änderungen auch technisch anspruchsvoll umzusetzen seien. Aktuell sei der ursprüngliche Zeitplan nicht mehr haltbar.\nEs wird beschlossen, dass MW bis Ende der kommenden Woche (KW 17) mit dem Kunden verhandeln soll. Ziel ist es, entweder eine Verlängerung der Deadline zu erreichen oder alternativ den ursprünglich vereinbarten Leistungsumfang zu reduzieren. EP betont die hohe Priorität des Projekts für die Firma.\n\n**TOP 3 Einführung neue Projektmanagement-Software \"PM-Suite Pro\"**\n\nSF berichtet, dass die interne Testphase der neuen Software \"PM-Suite Pro\" erfolgreich letzte Woche abgeschlossen wurde. Die Software soll nun wie geplant zum 1. Mai für alle Projektteams im Unternehmen eingeführt werden.\nFür die Einarbeitung sind bereits Online-Schulungen terminiert: Projektteam A wird in Kalenderwoche 18 geschult, Projektteam B in Kalenderwoche 19. CY bestätigt, dass das Budget für die Lizenzen und die Schulungen freigegeben ist.\n\n**TOP 4 Vorbereitung Messeauftritt \"Digital Future Expo\" (Juni 20XX)**\n\nLS stellt das Konzept für den Messestand auf der \"Digital Future Expo\" im Juni vor. Kernidee ist es, die innovativen Ansätze und (geplanten) Erfolge aus dem Projekt \"Phoenix\" zu präsentieren, auch wenn es aktuell Herausforderungen gibt. Das Designkonzept findet allgemeine Zustimmung.\nLS wird beauftragt, das Konzept zu finalisieren und die notwendigen Materialien und Standelemente bis zum 30. April zu bestellen. Für Live-Demonstrationen der Software am Stand werden JK und ein weiterer Entwickler benötigt. BM prüft umgehend deren Verfügbarkeit für den Messezeitraum.\n\n**TOP 5 Personalsituation im Entwicklerteam**\n\nBM informiert über die weiterhin schwierige Suche nach qualifizierten Senior-Softwareentwicklern. Aktuell sind noch zwei Stellen unbesetzt. Der Markt sei sehr angespannt.\nBM schlägt vor, das Budget für externe Personalvermittler (Recruiter) zu erhöhen, falls die offenen Positionen nicht bis Ende Mai intern oder durch eigene Bemühungen besetzt werden können. EP stimmt diesem Vorgehen unter dieser Bedingung zu.\n\n**TOP 6 Sonstiges**\n\nEP erinnert daran, dass das Planungskomitee für das diesjährige Sommerfest am kommenden Dienstag seine erste Sitzung hat. Freiwillige zur Unterstützung können sich noch bei BM melden.\nCY erwähnt abschließend, dass der Cashflow sich weiterhin positiv entwickelt. Er warnt jedoch, dass sich signifikante Verzögerungen oder Mehrkosten beim Projekt \"Phoenix\" negativ auf die Finanzlage im dritten Quartal auswirken könnten.",
+    "aufgaben_list": [
+        {
+            "frage": "Projekt \"Phoenix\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verzögert sich wegen technischer Probleme im Team."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert Verhandlungen über Zeitplan oder Umfang."
+                },
+                {
+                    "key": "c",
+                    "text": "wird laut Herrn Weber nächste Woche abgeschlossen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Projektmanagement-Software",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird derzeit noch intern getestet."
+                },
+                {
+                    "key": "b",
+                    "text": "wird am 1. Mai nur für Team A eingeführt."
+                },
+                {
+                    "key": "c",
+                    "text": "ist ab Mai für alle Projektteams verfügbar."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Der Messeauftritt",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird von Frau Schmidt bis Ende April vorbereitet."
+                },
+                {
+                    "key": "b",
+                    "text": "präsentiert hauptsächlich die Probleme des Phoenix-Projekts."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt nur Herrn Kaufmann für die Präsentation."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Personalsituation",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigt einen Mangel an Junior-Entwicklern."
+                },
+                {
+                    "key": "b",
+                    "text": "könnte zu höheren Ausgaben für externe Hilfe führen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird sich bis Ende Mai sicher verbessern."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die finanzielle Lage",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist wegen des Phoenix-Projekts besorgniserregend."
+                },
+                {
+                    "key": "b",
+                    "text": "hat sich im Vergleich zum Vorjahr verschlechtert."
+                },
+                {
+                    "key": "c",
+                    "text": "entwickelt sich gut, birgt aber Risiken."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

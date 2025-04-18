@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**Datum:** 12. Juni 20XX\n**Zeit:** 14:00 – 15:30 Uhr\n**Ort:** Besprechungsraum \"Sonne\", Solarweg 10, 54321 Ökostadt\n\n**Anwesende:**\n*   Dr. Eva Grünberg (EG, Geschäftsführung)\n*   Markus Steiner (MS, Leitung F&E)\n*   Sandra Weber (SW, Leitung Produktion)\n*   Jonas Kaufmann (JK, Leitung Vertrieb)\n*   Petra Vogel (PV, Leitung Marketing)\n*   Lars Berger (LB, Leitung Einkauf)\n*   Anja Schulz (AS, Leitung Finanzen)\n*   Klaus Richter (KR, Assistenz GF)\n\n**Entschuldigt:** Herr Klein (Leitung Logistik)\n**Sitzungsleitung:** Dr. Eva Grünberg\n**Protokollant:** Klaus Richter\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. Mai 20XX\n2.  Neues Verpackungsmaterial \"BioFlex\" – Stand der Entwicklung\n3.  Auslastung und Herausforderungen in der Produktion\n4.  Marketingstrategie für \"BioFlex\"\n5.  Kostenkalkulation und Preisgestaltung\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nEG begrüßt alle Anwesenden. KR bittet um Genehmigung des Protokolls der Sitzung vom 15. Mai. SW merkt an, dass unter TOP 3 ihr Bericht über die Lieferzeiten nicht korrekt wiedergegeben wurde; die Verzögerung betrug zwei Wochen, nicht eine. Nach Aufnahme dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Neues Verpackungsmaterial \"BioFlex\" – Stand der Entwicklung**\n\nMS präsentiert die finalen Testergebnisse für das neue Material \"BioFlex\". Die Tests zur Kompostierbarkeit unter Industriebedingungen wurden erfolgreich abgeschlossen. Das Material erfüllt alle angestrebten Nachhaltigkeitskriterien und ist zudem reißfester als das bisher verwendete Material \"EcoStandard\", allerdings sind die Rohstoffkosten aktuell ca. 15% höher. MS betont, dass die Beschaffung der Rohstoffe gesichert ist, jedoch nur über einen einzigen zertifizierten Lieferanten aus Skandinavien erfolgen kann. Die Produktionstestläufe sind für Juli geplant.\n\n**TOP 3 Auslastung und Herausforderungen in der Produktion**\n\nSW berichtet von einer derzeitigen Vollauslastung der Produktionslinien, hauptsächlich bedingt durch einen Großauftrag eines Kosmetikherstellers. Die ältere Maschine (Linie 2) hatte letzte Woche einen unerwarteten Ausfall von zwei Tagen, was zu leichten Verzögerungen führte. Die Reparatur war erfolgreich, aber SW empfiehlt, mittelfristig über eine Ersatzinvestition nachzudenken, spätestens Anfang nächsten Jahres. Kurzfristig müssen Überstunden genehmigt werden, um den Rückstand aufzuholen. Dies wird von EG genehmigt.\n\n**TOP 4 Marketingstrategie für \"BioFlex\"**\n\nPV stellt die geplante Marketingkampagne für \"BioFlex\" vor. Der Start ist für das vierte Quartal (Q4) dieses Jahres vorgesehen, sobald die Produktionssicherheit gewährleistet ist. Die Kampagne fokussiert sich auf B2B-Kunden im Bio-Lebensmittel- und Naturkosmetiksektor. Geplant sind gezielte Online-Marketingmaßnahmen (LinkedIn, Fachportale) sowie Anzeigen in relevanten Fachzeitschriften. Ein erster Messeauftritt mit \"BioFlex\" ist für die \"BioWelt\"-Messe im Februar nächsten Jahres geplant. JK (Vertrieb) unterstützt die Fokussierung und wird sein Team entsprechend schulen.\n\n**TOP 5 Kostenkalkulation und Preisgestaltung**\n\nAS präsentiert eine vorläufige Kostenkalkulation für Produkte aus \"BioFlex\". Aufgrund der höheren Rohstoffkosten (siehe TOP 2) wird der Endpreis für Kunden voraussichtlich 10-12% über den \"EcoStandard\"-Produkten liegen. AS betont, dass die finale Kalkulation erst nach den Produktionstestläufen im Juli erfolgen kann. Es wird diskutiert, ob der höhere Preis durch die verbesserten Eigenschaften und die Nachhaltigkeit gerechtfertigt und kommunizierbar ist. JK ist optimistisch, dass dies bei der Zielgruppe möglich ist. AS wird die finale Preisliste bis Ende August vorlegen.\n\n**TOP 6 Sonstiges**\n\nLB informiert, dass Herr Bauer aus der Einkaufsabteilung das Unternehmen zum 31. August auf eigenen Wunsch verlassen wird, um eine neue Herausforderung anzunehmen. Die Nachfolgersuche läuft bereits. EG dankt Herrn Bauer für seine langjährige Tätigkeit. Die nächste Sitzung findet am 10. Juli statt.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung angepasst werden."
+                },
+                {
+                    "key": "c",
+                    "text": "enthält eine Beschwerde über Lieferanten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue Material \"BioFlex\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist günstiger als bisherige Materialien."
+                },
+                {
+                    "key": "b",
+                    "text": "befindet sich noch in der Testphase."
+                },
+                {
+                    "key": "c",
+                    "text": "hat die Tests zur Kompostierbarkeit bestanden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Produktionsabteilung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hatte kürzlich technische Probleme."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigt dringend neue Lieferanten."
+                },
+                {
+                    "key": "c",
+                    "text": "arbeitet momentan nicht mit voller Kapazität."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Marketingkampagne für \"BioFlex\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konzentriert sich ausschließlich auf Online-Medien."
+                },
+                {
+                    "key": "b",
+                    "text": "richtet sich an bestimmte Branchen."
+                },
+                {
+                    "key": "c",
+                    "text": "beginnt noch diesen Sommer."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Herr Bauer",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird die Firma in Kürze verlassen."
+                },
+                {
+                    "key": "b",
+                    "text": "ist für die Preisgestaltung verantwortlich."
+                },
+                {
+                    "key": "c",
+                    "text": "wechselt in die Logistikabteilung."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

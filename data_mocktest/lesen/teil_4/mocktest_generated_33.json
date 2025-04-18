@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 9:00 – 10:30 Uhr**\n**Ort:** Raum \"Alpenblick\", Firmenzentrale, Industriestraße 5, 81234 Musterstadt\n\n**Anwesende:**\n*   Peter Schmidt (PS, Geschäftsführung)\n*   Sabine Huber (SH, Leitung Produktion)\n*   Karl Weber (KW, Leitung Einkauf)\n*   Lena Meier (LM, Leitung Verkauf)\n*   Ben Fischer (BF, Leitung IT)\n*   Anna Braun (AB, Leitung Personal)\n*   Markus Wagner (MW, Leitung Marketing)\n*   Greta Klein (GK, Leitung Qualitätssicherung)\n\n**Sitzungsleitung:** Peter Schmidt (PS)\n**Protokollant/in:** Anna Braun (AB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Aktuelle Produktionszahlen & Lieferkettenstatus\n3.  Projekt \"Neue Carbonfelgen-Linie\"\n4.  IT-Systemumstellung: Feedback & nächste Schritte\n5.  Personal: Weiterbildungskonzept 20XX+1\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nPS begrüßt die Anwesenden zur heutigen Sitzung. Er bittet um Genehmigung des Protokolls der Sitzung vom 15. August. Das Protokoll wird ohne Änderungen oder Einwände einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen & Lieferkettenstatus**\n\nSH berichtet über eine positive Entwicklung in der Produktion. Die Auslastung ist hoch, und die Produktionsmenge konnte im Vergleich zum Vorjahreszeitraum um ca. 8% gesteigert werden. KW informiert jedoch über anhaltende Lieferverzögerungen bei wichtigen Elektronikkomponenten vom Zulieferer TechGlobal aus Taiwan. Dies führt aktuell zu einer leichten Verzögerung von etwa einer Woche bei der Endmontage des E-Bike-Modells \"CityCruiser\". KW wurde beauftragt, dringend alternative Lieferanten in Europa zu prüfen und bis zur nächsten Sitzung erste Ergebnisse vorzulegen.\n\n**TOP 3 Projekt \"Neue Carbonfelgen-Linie\"**\n\nGK gibt einen Update zum Projektstatus. Die Tests der Prototypen in Phase 2 sind nahezu abgeschlossen. Allerdings zeigten sich bei den Langzeit-Belastungstests unerwartete Anzeichen von Materialermüdung bei einem der verwendeten Carbon-Typen. PS betont die Wichtigkeit höchster Qualität und Sicherheit. Es wird beschlossen, ein zusätzliches Budget für erweiterte Materialtests und eventuelle Anpassungen freizugeben. GK wird diese erweiterten Tests leiten. Aufgrund dessen wird der geplante Markteintritt von Ende Q4 dieses Jahres auf Q1 des nächsten Jahres verschoben.\n\n**TOP 4 IT-Systemumstellung: Feedback & nächste Schritte**\n\nBF fasst das Feedback zur Einführung des neuen ERP-Systems zusammen. Die Umstellung verlief insgesamt reibungslos und das System wird von den meisten Abteilungen als Verbesserung wahrgenommen. Ein wiederkehrendes Problem ist jedoch die Performance bei der Generierung von individuell angepassten Verkaufsberichten, was teilweise zu langen Wartezeiten führt. BF wird daher im nächsten Monat gezielte Anwenderschulungen für das Verkaufsteam organisieren, um effizientere Abfragemethoden zu vermitteln. Ein größeres Update für das Berichtsmodul ist vom Softwarehersteller für November angekündigt.\n\n**TOP 5 Personal: Weiterbildungskonzept 20XX+1**\n\nAB stellt das Konzept \"Fit for Future\" vor, das die strategische Personalentwicklung für das kommende Jahr umreißen soll. Ziel ist die Stärkung von Fachkompetenzen und die Förderung der Mitarbeiterbindung. Das Konzept sieht eine Mischung aus erweitertem Zugang zu einer Online-Lernplattform, internen Workshops zu Schlüsselthemen (z.B. Digitalisierung, Projektmanagement) und einem individuellen Budget für externe Fachschulungen vor. Das Konzept wurde heute erstmals vorgestellt. AB bittet alle Abteilungsleiter um schriftliches Feedback und konkrete Vorschläge aus ihren Bereichen bis zum 15. Oktober. Eine Entscheidung über das finale Konzept soll in der November-Sitzung fallen.\n\n**TOP 6 Sonstiges**\n\nMW erinnert an die bevorstehende Teilnahme an der \"EuroBike\"-Messe. Er wird das finale Standkonzept und die geplante Besetzung nächste Woche per E-Mail an die relevanten Abteilungen verteilen. Weitere Punkte werden nicht angesprochen. PS beendet die Sitzung pünktlich um 10:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das vorherige Protokoll",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Einwände genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst in der nächsten Sitzung finalisiert."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Lieferschwierigkeiten bei TechGlobal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "haben leichte Verzögerungen bei einem E-Bike-Modell zur Folge."
+                },
+                {
+                    "key": "b",
+                    "text": "stoppen die gesamte Produktion der Firma."
+                },
+                {
+                    "key": "c",
+                    "text": "betreffen vor allem die neue Carbonfelgen-Linie."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Projekt \"Neue Carbonfelgen-Linie\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird trotz Problemen im geplanten Zeitrahmen fertig."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigt mehr Budget für zusätzliche Tests."
+                },
+                {
+                    "key": "c",
+                    "text": "wird nun von Frau Klein (GK) komplett neu geplant."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue IT-System (ERP)",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird von den Mitarbeitern überwiegend kritisiert."
+                },
+                {
+                    "key": "b",
+                    "text": "erhält bereits nächsten Monat ein umfassendes Update."
+                },
+                {
+                    "key": "c",
+                    "text": "funktioniert bei der Erstellung von Verkaufsberichten noch nicht optimal."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das Weiterbildungskonzept \"Fit for Future\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde in der Sitzung bereits final beschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "soll von den Abteilungsleitern bis Mitte Oktober bewertet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "setzt ausschließlich auf Online-Lernplattformen."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum 'Alpenblick', Firmenzentrale, Musterstraße 1, 12345 Neustadt\n\n**Anwesende:**\n*   Herr Klaus Berger (KB, Geschäftsführung)\n*   Frau Lena Schmidt (LS, Marketingleitung)\n*   Herr Markus Weber (MW, Produktionsleitung)\n*   Frau Sabine Fischer (SF, Einkaufsleitung)\n*   Herr David Müller (DM, IT-Leitung)\n*   Frau Anna Gruber (AG, Personalwesen)\n*   Herr Stefan Klein (SK, Vertriebsleitung)\n*   Frau Petra Novak (PN, Assistenz/Protokoll)\n\n**Sitzungsleitung:** Klaus Berger (KB)\n**Protokollantin:** Petra Novak (PN)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Aktuelle Verkaufszahlen & Markttrends (Bericht: SK)\n3.  Produktionsauslastung & Materialbeschaffung (Bericht: MW, SF)\n4.  Neues CRM-System: Einführung & Schulung (Bericht: DM)\n5.  Planung Firmenjubiläum (Bericht: LS)\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nKB begrüßt alle Anwesenden pünktlich um 10:00 Uhr. Er bittet um Anmerkungen zum Protokoll der Sitzung vom 15. August, das vorab verteilt wurde. LS merkt an, dass unter TOP 4 ihr Beitrag zur Lieferantenauswahl nicht erwähnt wurde. PN notiert die Ergänzung. Mit dieser Änderung wird das Protokoll anschließend einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen & Markttrends**\n\nSK präsentiert die Verkaufszahlen für das letzte Quartal (Q3). Insgesamt konnte der Umsatz im Vergleich zum Vorquartal um 5% gesteigert werden. Dies sei vor allem auf die sehr erfolgreiche Online-Marketingkampagne für den Bereich „Wohnzimmermöbel“ zurückzuführen. Die Nachfrage in diesem Segment ist ungebrochen hoch. Im Gegensatz dazu verzeichnete der Bereich „Büromöbel“ einen leichten Rückgang von 2%. SK beobachtet hier verstärkte Konkurrenzaktivitäten. Er schlägt vor, die Preisgestaltung für Büromöbel im nächsten Quartal zu überprüfen.\n\n**TOP 3 Produktionsauslastung & Materialbeschaffung**\n\nMW berichtet, dass die Produktion derzeit sehr gut läuft und mit einer Auslastung von etwa 95% operiert. Man arbeite also nahe am Kapazitätslimit. SF ergänzt zur Materialsituation: Die Versorgung mit den Hauptmaterialien, insbesondere Holz, sei aktuell stabil und gesichert. Allerdings gebe es beim Zulieferer Metalltechnik GmbH (Lieferant Z) Hinweise auf mögliche Verzögerungen bei bestimmten Metallkomponenten ab dem nächsten Monat. SF steht in engem Kontakt mit dem Lieferanten und überwacht die Situation. Konkrete Maßnahmen seien derzeit noch nicht nötig, man müsse aber wachsam bleiben.\n\n**TOP 4 Neues CRM-System: Einführung & Schulung**\n\nDM informiert über den Fortschritt bei der Einführung des neuen CRM-Systems „KundenFokus 3.0“. Die technische Implementierung sei abgeschlossen und die Tests verliefen erfolgreich. Der verbindliche Starttermin („Go-Live“) für das System ist der 1. Oktober 20XX. Unbedingt erforderlich sei die Teilnahme an der ganztägigen Schulung am 25. September. Diese Schulung ist verpflichtend für alle Mitarbeiterinnen und Mitarbeiter aus den Abteilungen Vertrieb, Marketing und Kundenservice. Für andere Abteilungen wird es zu einem späteren Zeitpunkt eine optionale Informationsveranstaltung geben.\n\n**TOP 5 Planung Firmenjubiläum**\n\nLS trägt erste Ideen zur Gestaltung des 25-jährigen Firmenjubiläums im nächsten Jahr vor. Es besteht Einigkeit, dass dies ein besonderes Ereignis werden soll. KB schlägt vor, ein kleines Planungskomitee zu bilden, um konkrete Vorschläge zu erarbeiten. Dem Komitee sollen LS, AG und PN angehören. Aufgabe des Komitees ist es, bis zur nächsten Sitzung Vorschläge für mögliche Veranstaltungsorte, Termine (Zeitraum Mai/Juni 20XX+1) und einen ersten Budgetrahmen auszuarbeiten. Es wurden noch keine endgültigen Entscheidungen getroffen.\n\n**TOP 6 Sonstiges**\n\nKB erinnert alle Abteilungsleiter daran, die Urlaubsplanung für die Weihnachtszeit und den Jahreswechsel bis spätestens 30. September bei der Personalabteilung einzureichen. Weitere Wortmeldungen gibt es nicht. KB dankt für die Teilnahme und schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist ohne Einwände angenommen worden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde erst nach einer Anmerkung genehmigt."
+                },
+                {
+                    "key": "c",
+                    "text": "muss komplett neu geschrieben werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Verkaufsbericht zeigte, dass",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Verkäufe insgesamt leicht gestiegen sind."
+                },
+                {
+                    "key": "b",
+                    "text": "sich Büromöbel besonders gut verkauft haben."
+                },
+                {
+                    "key": "c",
+                    "text": "alle Produktlinien bessere Ergebnisse erzielten."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Produktion bei Möbelwerke Innova",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat aktuell ernste Probleme mit Holzmangel."
+                },
+                {
+                    "key": "b",
+                    "text": "muss wegen fehlender Aufträge reduziert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "arbeitet momentan fast an ihrer Kapazitätsgrenze."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Schulung für das neue CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist für Mitarbeiter bestimmter Abteilungen verpflichtend."
+                },
+                {
+                    "key": "b",
+                    "text": "findet erst nach der Systemeinführung statt."
+                },
+                {
+                    "key": "c",
+                    "text": "wird für alle Angestellten der Firma angeboten."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Bezüglich des Firmenjubiläums",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurden bereits Datum und Ort festgelegt."
+                },
+                {
+                    "key": "b",
+                    "text": "soll ein Komitee weitere Vorschläge erarbeiten."
+                },
+                {
+                    "key": "c",
+                    "text": "ist die Marketingleitung allein verantwortlich."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

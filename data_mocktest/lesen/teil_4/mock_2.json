@@ -1,0 +1,96 @@
+{
+    "meeting_note": "## PROTOKOLL\n\n**Monatsmeeting: 08.06.20XX, Besprechungsraum I**\n\n**Teilnehmer*innen:** Torsten Koslik (TK, Geschäftsleitung), Manuela Batista (MB, Kundenservice), Joseph Chuma (JC, Herstellung), Christine Gündel (CG, Marketing), Andreas Radosch (AR, IT)\n**Entschuldigt:** Sumaiya Reza (SR, Verkauf)\n**Protokoll:** MB\n\n**TAGESORDNUNG**\n\n**TOP 1:** Materialkosten & Preise\n**TOP 2:** Kundenservice: Stand der Dinge\n**TOP 3:** Zusatzauftrag\n**TOP 4:** Neues Logo\n**TOP 5:** Veranstaltungen\n\n**TOP 1: Materialkosten & Preise**\n\nSeit Jahresbeginn sind die Preise für Holz stetig gestiegen und das wird voraussichtlich auch im zweiten Halbjahr so bleiben. Einen wesentlichen Grund für den Preisanstieg sieht TK darin, dass Bauen mit Holz zurzeit stark im Trend liegt und Holz deshalb sowohl von Baufirmen als auch von Privatleuten stärker nachgefragt wird. TK berichtet, dass die meisten anderen Möbelhersteller ihre Verkaufspreise bereits erhöht haben. Bei Möbel Koslik sind bis zum Jahresende jedoch keine Preisanpassungen vorgesehen und das soll auch so auf der Webseite kommuniziert werden. CG verfasst diese Woche noch einen entsprechenden Text. Im Januar wird die Situation neu bewertet.\n\n**TOP 2: Kundenservice: Stand der Dinge**\n\nMB berichtet, dass die Kundenzufriedenheit nach wie vor sehr hoch ist. Besonders geschätzt wird die individuelle Betreuung der Kunden, die allerdings sehr zeitaufwändig ist. Um sich wiederholende Kundenanfragen zu reduzieren, schlägt MB vor, den Fragen-und-Antworten-Bereich auf der Webseite zu erweitern. AR glaubt nicht, dass dies zu einer spürbaren Entlastung im Kundenservice führt. Er schlägt zusätzlich vor, kurze Erklärfilme zu produzieren, die die Produkte und Leistungen des Unternehmens unterhaltsam und leicht verständlich darstellen. Die praktische Umsetzbarkeit dieses Vorschlags und die damit verbundenen Kosten sollen in den kommenden Wochen geprüft werden: AR recherchiert Dienstleister und Preise, CG und MB skizzieren mögliche Inhalte der Erklärfilme.\n\n**TOP 3: Zusatzauftrag**\n\nVor acht Jahren wurde die Einrichtung für das Restaurant „Landhaus“ von Möbel Koslik angefertigt. Nach einem Brand muss die Einrichtung komplett erneuert werden und der Inhaber des Restaurants hat angefragt, ob Möbel Koslik diesen zusätzlichen Auftrag übernehmen kann. Die Anfertigung der Einrichtung soll größtenteils parallel zu der Gebäudesanierung laufen und rechtzeitig zur Neueröffnung (voraussichtlich Ende September) fertig sein. TK möchte den Auftrag annehmen. JC hat bereits zu bedenken gegeben, dass die Produktion zurzeit keine Kapazitäten für ein zusätzliches Projekt hat. Um den Auftrag trotzdem ausführen zu können, schlägt er vor, vorübergehend Leiharbeiter einzustellen. TK stimmt zu und wird den Personaldienstleister kontaktieren.\n\n**TOP 4: Neues Logo**\n\nIm Rahmen der Modernisierungsmaßnahmen von Möbel Koslik soll auch ein neues Logo für das Unternehmen entwickelt werden. CG hat im Vorfeld Angebote von verschiedenen Agenturen eingeholt und stellt die drei besten vor. Nach sorgfältigem Vergleich wurde entschieden, dass die Agentur Kellermann den Zuschlag erhält. Das Angebot liegt preislich zwar über dem der anderen, aber die Agentur ist deutschlandweit für ihre ausgezeichneten Logodesigns bekannt, die TK sehr überzeugt haben. CG kontaktiert die Agentur heute im Laufe des Tages, um den Auftrag zu erteilen.\n\n**TOP 5: Veranstaltungen**\n\nAm 25.07. findet wieder der Teambuilding-Tag statt, der alle zwei Jahre für die Angestellten organisiert wird. Zur Vorbereitung sammelt eine Arbeitsgruppe zurzeit neue Ideen für einen geeigneten Ort und Aktivitäten. Die zuständige Ansprechpartnerin ist CG. Wer Vorschläge oder Wünsche für den Teambuilding-Tag hat, kann sich an sie wenden.\n\nDer Seniorchef Manfred Koslik wird sich ab September aus Altersgründen komplett aus dem Unternehmen zurückziehen. Aus diesem Anlass wird sein Nachfolger Paul Koslik eine Feier im Parkhotel organisieren, zu der alle Mitarbeiter*innen eingeladen werden. Ob die Feier wie von Manfred Koslik gewünscht am 26.08. stattfinden kann oder doch erst am 30., wird derzeit noch geklärt.",
+    "aufgaben_list": [
+      {
+        "frage": "In der zweiten Jahreshälfte",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "müssen die Kunden bei Möbel Koslik mehr bezahlen."
+          },
+          {
+            "key": "b",
+            "text": "sollen die Preise bei Möbel Koslik stabil bleiben."
+          },
+          {
+            "key": "c",
+            "text": "werden die Holzpreise voraussichtlich wieder sinken."
+          }
+        ],
+        "loesung": "b"
+      },
+      {
+        "frage": "Manuela Batista schlägt eine Maßnahme vor, um",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "die Kosten für die Produktion der Erklärfilme zu senken."
+          },
+          {
+            "key": "b",
+            "text": "die Zufriedenheit der Kunden zu verbessern."
+          },
+          {
+            "key": "c",
+            "text": "Zeit bei der Kundenbetreuung einzusparen."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Möbel Koslik",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "benötigt mehr Personal, um den Auftrag durchzuführen."
+          },
+          {
+            "key": "b",
+            "text": "hat noch keinen Auftrag für das Restaurant ausgeführt."
+          },
+          {
+            "key": "c",
+            "text": "soll nach Abschluss der Sanierung mit der Arbeit beginnen."
+          }
+        ],
+        "loesung": "a"
+      },
+      {
+        "frage": "Die Agentur Kellermann",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "bekommt den Auftrag, obwohl sie am teuersten ist."
+          },
+          {
+            "key": "b",
+            "text": "organisiert die Modernisierungsmaßnahmen."
+          },
+          {
+            "key": "c",
+            "text": "wurde von Frau Gündel bereits beauftragt."
+          }
+        ],
+        "loesung": "a"
+      },
+      {
+        "frage": "Es gibt zurzeit noch",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "keine Neubesetzung für Manfred Kosliks Position im Unternehmen."
+          },
+          {
+            "key": "b",
+            "text": "keinen festen Termin für die Abschiedsfeier im Parkhotel."
+          },
+          {
+            "key": "c",
+            "text": "niemanden, der sich um die Vorbereitung des Teambuilding-Tags kümmert."
+          }
+        ],
+        "loesung": "b"
+      }
+    ]
+}
+  

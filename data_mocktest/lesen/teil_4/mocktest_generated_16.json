@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Juni 20XX, 14:00 – 15:30 Uhr**\n**Ort:** Besprechungsraum \"Galaxy\", Firmenzentrale, Hauptstraße 50, 10115 Berlin\n\n**Anwesende:**\n*   Anna Huber (AH, CEO)\n*   Ben Schmidt (BS, Head of Development)\n*   Clara Wagner (CW, Project Lead \"Phoenix\")\n*   David Meyer (DM, Head of Sales)\n*   Elena Fischer (EF, Head of Customer Support)\n*   Gerd Keller (GK, IT Admin)\n*   Hanna Lang (HL, Marketing Specialist)\n*   Jonas Müller (JM, HR Manager)\n\n**Entschuldigt:** Iris Neumann (IN, Head of Finance)\n**Sitzungsleitung:** Anna Huber (AH)\n**Protokollant:** Jonas Müller (JM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Projekt \"Phoenix\" – Aktueller Stand und nächste Schritte\n3.  Einführung Kommunikationsplattform \"ConnectUs\"\n4.  Vorbereitung TechKonferenz 20XX\n5.  Auswertung Kundenfeedback Support\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nAH begrüßt die Anwesenden zur Sitzung. JM bittet um Genehmigung des Protokolls der letzten Sitzung vom 15. Mai. HL weist darauf hin, dass unter TOP 4 der Name der erwähnten Messe falsch war; dies wird korrigiert. Das Protokoll wird anschließend einstimmig genehmigt.\n\n**TOP 2 Projekt \"Phoenix\" – Aktueller Stand und nächste Schritte**\n\nCW berichtet über den Fortschritt von Projekt \"Phoenix\". Die Tests der Phase 2 wurden größtenteils erfolgreich abgeschlossen. Allerdings wurde im Modul \"Kundenverwaltung\" ein kritischer Bug identifiziert, der die Datenintegrität gefährden könnte. Dieser Bug muss unbedingt vor der geplanten Kundendemonstration Ende Juli behoben werden. BS bestätigt, dass die notwendigen Entwicklerressourcen bereits dafür eingeplant sind. AH betont die Wichtigkeit der Einhaltung dieses Termins für die Kundenbeziehung.\n\n**TOP 3 Einführung Kommunikationsplattform \"ConnectUs\"**\n\nGK stellt die neue interne Kommunikationsplattform \"ConnectUs\" vor. Der unternehmensweite Rollout ist für den 1. August geplant. JM informiert, dass die verpflichtenden Online-Schulungen für alle Mitarbeitenden nächste Woche terminiert und per E-Mail kommuniziert werden. Das Feedback aus der Pilotgruppe war generell positiv; lediglich bei der Synchronisation mit dem bestehenden Outlook-Kalender gibt es noch ein kleineres Problem, an dessen Lösung bereits gearbeitet wird.\n\n**TOP 4 Vorbereitung TechKonferenz 20XX**\n\nHL präsentiert das Konzept für den Messestand auf der TechKonferenz Mitte September. Das Design findet Anklang. Es muss jedoch bis Ende dieser Woche entschieden werden, welche Software-Neuerung (Produkt \"Sigma\" oder \"Omega\") primär am Stand demonstriert werden soll. DM meldet zwei Mitarbeiter aus seinem Sales-Team freiwillig für die Standbetreuung an. JM bestätigt, dass das Reisebudget für die Konferenzteilnahme genehmigt wurde.\n\n**TOP 5 Auswertung Kundenfeedback Support**\n\nEF legt die Analyse des Kundenfeedbacks für das letzte Quartal vor. Die durchschnittliche Erst-Antwortzeit im Support hat sich um 15% erhöht. Als Hauptgrund wurde ein Mangel an Support-Spezialisten für das neu eingeführte Produkt \"AlphaSuite\" identifiziert, da viele Anfragen hierzu sehr komplex sind. Es wird beschlossen, zwei neue Support-Mitarbeiter mit nachgewiesener Expertise in \"AlphaSuite\" einzustellen. JM wird den Rekrutierungsprozess umgehend starten.\n\n**TOP 6 Sonstiges**\n\nAH kündigt an, dass in Kürze Informationen zum diesjährigen Sommer-Teamevent per E-Mail versendet werden. Weitere Punkte werden nicht angesprochen. Die nächste Sitzung wird für den 10. Juli, 14:00 Uhr, vereinbart.",
+    "aufgaben_list": [
+        {
+            "frage": "Projekt \"Phoenix\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde erfolgreich in Phase 2 getestet."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert vor der Kundendemo noch eine Fehlerbehebung."
+                },
+                {
+                    "key": "c",
+                    "text": "kann dem Kunden erst nach Juli präsentiert werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Kommunikationsplattform",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird Anfang August eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "funktioniert noch nicht mit dem Kalendersystem."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde vom Personalmanagement vorgestellt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Für die TechKonferenz",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss diese Woche das Standdesign entschieden werden."
+                },
+                {
+                    "key": "b",
+                    "text": "haben sich Freiwillige aus dem Marketing gemeldet."
+                },
+                {
+                    "key": "c",
+                    "text": "ist die Finanzierung der Reisekosten gesichert."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Kundensupport-Analyse",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ergab eine Zunahme der Antwortzeit um ein Fünftel."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigt einen Mangel an Experten für ein bestimmtes Produkt."
+                },
+                {
+                    "key": "c",
+                    "text": "führte zur Planung von Weiterbildungen im August."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "In der heutigen Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde das Protokoll der letzten Sitzung korrigiert."
+                },
+                {
+                    "key": "b",
+                    "text": "wurden Details zum nächsten Teamevent besprochen."
+                },
+                {
+                    "key": "c",
+                    "text": "beschwerte sich der Vertrieb über das neue Kommunikationstool."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

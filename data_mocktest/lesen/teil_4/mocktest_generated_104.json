@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 09:30 – 11:00 Uhr**\n**Ort:** Besprechungsraum 'Kiefer', Firmenzentrale, Eichenweg 12, 79110 Waldstadt\n\n**Anwesende:**\n*   Herr Stefan Meyer (SM, Geschäftsführung)\n*   Frau Anke Bauer (AB, Leitung Produktion)\n*   Herr Lars Koch (LK, Leitung Vertrieb)\n*   Frau Elena Petrova (EP, Leitung Einkauf)\n*   Herr Ben Schmidt (BS, Leitung IT)\n*   Frau Julia Wagner (JW, Leitung Personalwesen)\n*   Herr Tim Baumgartner (TB, Assistenz GF)\n\n**Sitzungsleitung:** Herr Stefan Meyer (SM)\n**Protokollant:** Herr Tim Baumgartner (TB)\n\n**Entschuldigt:**\n*   Herr Ralf Ziegler (RZ, Leitung Marketing)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.09.20XX\n2.  Aktuelle Produktionslage und Kapazitätsauslastung\n3.  Neues CRM-System: Stand der Einführung\n4.  Auswertung der Kundenbefragung Q3\n5.  Personalplanung: Ausbildungsplätze 20XX+1\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.09.20XX**\n\nSM begrüßt die Anwesenden. Er bittet um Genehmigung des Protokolls der letzten Sitzung vom 15. September. EP bittet um eine Klarstellung bei den im letzten Protokoll unter TOP 4 genannten Lieferantennamen; nach kurzer Diskussion wird die korrekte Bezeichnung festgehalten. Mit dieser Ergänzung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionslage und Kapazitätsauslastung**\n\nAB berichtet über eine weiterhin hohe Auslastung in der Produktion. Insbesondere die Produktlinie 'Buche Classic' erfreut sich großer Nachfrage. Dies, zusammen mit einem unerwarteten, aber inzwischen behobenen Maschinenausfall in der letzten Woche, hat zu Lieferverzögerungen geführt. Die aktuelle Lieferzeit für 'Buche Classic' beträgt ca. 3 Wochen, während üblicherweise eine Woche angestrebt wird. AB prüft die Möglichkeit, in Kalenderwoche 43 Überstunden anzuordnen, um den Rückstand aufzuholen.\n\n**TOP 3 Neues CRM-System: Stand der Einführung**\n\nBS informiert über den Fortschritt bei der Einführung des neuen Customer-Relationship-Management (CRM)-Systems. Seit dem 1. Oktober läuft eine Pilotphase ausschließlich in der Vertriebsabteilung. Das erste Feedback sei generell positiv. LK merkt jedoch an, dass die Generierung komplexer Berichte teilweise noch langsam sei. BS bestätigt, dass dies bekannt ist und an einer Optimierung gearbeitet wird. Der vollständige Rollout für alle Abteilungen ist unverändert für den 1. Januar 20XX+1 geplant. Entsprechende Schulungsworkshops für alle Mitarbeitenden finden im Dezember statt.\n\n**TOP 4 Auswertung der Kundenbefragung Q3**\n\nDa RZ entschuldigt ist, präsentiert LK die von der Marketingabteilung vorbereiteten Ergebnisse der Kundenbefragung für das dritte Quartal. Die Gesamtzufriedenheit der Kunden ist stabil geblieben. Besonders gelobt wurde erneut die Langlebigkeit und Qualität der Produkte. Kritische Anmerkungen gab es jedoch bezüglich der Kommunikation über den Lieferstatus bestellter Ware; Kunden wünschen sich hier proaktivere und genauere Informationen. LK schlägt vor, gemeinsam mit BS zu prüfen, inwieweit das neue CRM-System zur Verbesserung dieser Kommunikation genutzt werden kann. Ein konkreter Maßnahmenplan soll bis zur nächsten Sitzung erarbeitet werden.\n\n**TOP 5 Personalplanung: Ausbildungsplätze 20XX+1**\n\nJW teilt die Entscheidung der Geschäftsführung zur Anzahl der Ausbildungsplätze für das kommende Jahr (Beginn August 20XX+1) mit. Es werden insgesamt drei Plätze angeboten: zwei für Holzmechaniker/in und ein Platz für Industriekaufmann/-frau. Die Ausschreibungen werden vorbereitet und sollen ab Anfang November veröffentlicht werden. JW bittet alle Abteilungsleiter um Unterstützung bei der Auswahl geeigneter Kandidaten.\n\n**TOP 6 Sonstiges**\n\nSM erinnert alle Anwesenden an die bevorstehende, verpflichtende Brandschutzübung am Vormittag des 5. November. Die genauen Zeitpläne für die einzelnen Bereiche werden noch per E-Mail bekannt gegeben. Weitere Punkte werden nicht angesprochen. SM bedankt sich für die konstruktive Sitzung und schließt sie pünktlich um 11:00 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte heute nicht genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde nach einer Korrektur genehmigt."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt Fehler im Produktionsbericht."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Produktion der 'Buche Classic' Linie",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "leidet unter ständigem Materialmangel."
+                },
+                {
+                    "key": "b",
+                    "text": "wird ab Kalenderwoche 43 eingestellt."
+                },
+                {
+                    "key": "c",
+                    "text": "hat aktuell längere Lieferzeiten als üblich."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das neue CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird zurzeit nur im Vertrieb getestet."
+                },
+                {
+                    "key": "b",
+                    "text": "soll ab Dezember in allen Abteilungen laufen."
+                },
+                {
+                    "key": "c",
+                    "text": "funktioniert laut Herrn Koch fehlerfrei."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Kunden des Unternehmens",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind mit der Haltbarkeit der Produkte unzufrieden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurden von Herrn Koch persönlich befragt."
+                },
+                {
+                    "key": "c",
+                    "text": "wünschen sich bessere Lieferinformationen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Für das nächste Ausbildungsjahr",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden insgesamt drei Auszubildende gesucht."
+                },
+                {
+                    "key": "b",
+                    "text": "beginnt die Suche nach Personal sofort."
+                },
+                {
+                    "key": "c",
+                    "text": "gibt es nur kaufmännische Ausbildungsplätze."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

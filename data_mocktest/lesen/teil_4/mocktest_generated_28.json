@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**14. Juni 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum \"Alpenblick\", Firmenzentrale, Alpinweg 12, 89999 Bergdorf\n\n**Anwesende:**\n*   Gerhard Müller (GM, Geschäftsführer)\n*   Sabine Fischer (SF, Leitung Produktion)\n*   Hans Kramer (HK, Leitung Vertrieb)\n*   Ursula Bergmann (UB, Leitung Einkauf)\n*   Peter Nowak (PN, Leitung Qualitätsmanagement)\n*   Anja Keller (AK, Leitung Personal)\n*   Markus Weber (MW, Leitung IT)\n*   Karl Heinz (KH, Assistenz GF)\n\n**Gast:** Dr. Erik Ziegler (DZ, Externer Berater - Digitalisierung)\n\n**Sitzungsleitung:** Gerhard Müller (GM)\n**Protokollant:** Karl Heinz (KH)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. März 20XX\n2.  Aktuelle Produktionszahlen und Kapazitäten\n3.  Projekt \"Digitalisierung Produktionslinie B\"\n4.  Qualitätsbericht Quartal 2\n5.  Personalbedarf und Weiterbildung\n6.  Sonstiges (Marktsituation China, Planung Sommerfest)\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. März 20XX**\n\nGM begrüßt alle Anwesenden sowie den Gast, Herrn Dr. Ziegler. Er bittet um Kommentare zum Protokoll der letzten Sitzung vom 15. März. PN weist darauf hin, dass unter TOP 4 die Frist für die Überprüfung der Lieferantenqualität falsch notiert war; korrekt sei der 30.04., nicht der 30.05. Nach Aufnahme dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen und Kapazitäten**\n\nSF berichtet, dass die Produktionszahlen im zweiten Quartal insgesamt 5% über dem Plan liegen, was sehr erfreulich ist. Insbesondere die Nachfrage nach den neuen Titan-Komponenten sei hoch. Allerdings bereitet eine der Fräsmaschinen auf Linie C zunehmend Probleme und benötigt dringend eine Generalüberholung, was zu kurzfristigen Engpässen führen könnte. UB bestätigt, dass alle benötigten Rohmaterialien ausreichend auf Lager sind.\n\n**TOP 3 Projekt \"Digitalisierung Produktionslinie B\"**\n\nMW stellt gemeinsam mit Dr. Ziegler (DZ) das Konzept für die Digitalisierung der Produktionslinie B vor. Ziel ist eine Effizienzsteigerung von 15% durch Prozessautomatisierung und Echtzeit-Datenanalyse. DZ betont die Notwendigkeit einer intensiven Schulung der betroffenen Mitarbeiter. Das Projekt soll im August starten und bis Ende des Jahres erste Ergebnisse liefern. Ein detaillierter Projektplan inklusive Budgetbedarf wird von MW und DZ bis zur nächsten Sitzung ausgearbeitet. GM bestätigt die strategische Wichtigkeit des Projekts.\n\n**TOP 4 Qualitätsbericht Quartal 2**\n\nPN präsentiert den Qualitätsbericht. Die interne Fehlerrate konnte leicht gesenkt werden, jedoch gab es einen Anstieg der Kundenreklamationen um 8% im Vergleich zum Q1, hauptsächlich bezogen auf Maßhaltigkeit bei Teilen von Linie A. PN schlägt eine sofortige Prozessanalyse auf Linie A und verstärkte Endkontrollen vor. GM fordert PN auf, bis Ende Juli konkrete Maßnahmen zur Verbesserung vorzulegen.\n\n**TOP 5 Personalbedarf und Weiterbildung**\n\nAK berichtet, dass aufgrund der guten Auftragslage zwei zusätzliche Fachkräfte für die Produktion (Linie C) benötigt werden. Die Stellenausschreibungen sind bereits veröffentlicht. Des Weiteren informiert sie über die geplante IT-Schulung für die Mitarbeiter der Produktionslinie B im Zusammenhang mit dem Digitalisierungsprojekt. Diese Schulungen sollen im September beginnen und werden von MW und externen Trainern durchgeführt. Überstunden in der Produktion sind momentan leicht erhöht, aber noch im Rahmen.\n\n**TOP 6 Sonstiges (Marktsituation China, Planung Sommerfest)**\n\nHK informiert kurz über die Marktsituation in China. Nach leichten Rückgängen im Vorquartal ziehen die Anfragen wieder an, was hauptsächlich auf neue Zollbestimmungen zurückzuführen sei, die nun klarer sind. GM beauftragt KH mit der Organisation des jährlichen Sommerfestes. Es soll Mitte August stattfinden, ein genauer Termin wird noch bekannt gegeben. Zweck ist das Teambuilding und Dank an die Mitarbeiter.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 15. März",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen sofort angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "wird in der nächsten Sitzung erneut besprochen."
+                },
+                {
+                    "key": "c",
+                    "text": "musste vor der Genehmigung leicht korrigiert werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Produktionskapazität",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist generell gut, aber eine Maschine braucht Wartung."
+                },
+                {
+                    "key": "b",
+                    "text": "reicht momentan für alle Aufträge nicht aus."
+                },
+                {
+                    "key": "c",
+                    "text": "wird durch Materialmangel stark eingeschränkt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Digitalisierungsprojekt",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird allein von der IT-Abteilung durchgeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "betrifft Linie B und wird extern unterstützt."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bereits erfolgreich abgeschlossen worden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Qualität der Produkte",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert Maßnahmen wegen steigender Reklamationen."
+                },
+                {
+                    "key": "b",
+                    "text": "hat sich im letzten Quartal deutlich verbessert."
+                },
+                {
+                    "key": "c",
+                    "text": "wird extern von Dr. Ziegler überprüft."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Personalsituation",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigt, dass keine neuen Mitarbeiter benötigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert, dass alle Mitarbeiter eine IT-Schulung machen."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhaltet eine Schulung für Mitarbeiter der Linie B."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

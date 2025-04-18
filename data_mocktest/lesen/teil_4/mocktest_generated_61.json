@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Besprechungsraum \"Königssee\", Werk II, Industriestraße 12, 85748 Garching\n\n**Anwesende:**\n*   Dr. Thomas Bauer (TB, Geschäftsführung)\n*   Silke Wagner (SW, Leitung Produktion)\n*   Jürgen Kurz (JK, Leitung Vertrieb)\n*   Martin Keller (MK, Leitung Einkauf)\n*   Hannah Neumann (HN, Leitung IT)\n*   Stefan Roth (SR, Leitung Personal)\n*   Laura Bergmann (LB, Leitung Qualitätssicherung)\n\n**Entschuldigt:** Herr Robert Mayer (RM, Leitung Marketing)\n**Sitzungsleitung:** Dr. Thomas Bauer (TB)\n**Protokollant:** Stefan Roth (SR)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 20. September 20XX\n2.  Aktueller Stand: Projekt \"Optimierung Lagerhaltung\"\n3.  Qualitätssicherung: Ergebnisse Kundenbefragung Q3\n4.  IT-Sicherheit: Update und nächste Schritte\n5.  Personalsituation: Weiterbildungsbedarf\n6.  Sonstiges: Messe \"LogiMAT 20XX+1\"\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 20. September 20XX**\n\nTB begrüßt die Anwesenden zur heutigen Sitzung. SR fragt nach Anmerkungen zum Protokoll der letzten Sitzung vom 20. September. LB weist darauf hin, dass in TOP 3 die von ihr genannte Fehlerquote nicht korrekt wiedergegeben wurde; sie betrug 1,8% und nicht 1,5%. Nach Korrektur dieser Zahl wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktueller Stand: Projekt \"Optimierung Lagerhaltung\"**\n\nHN berichtet über den Fortschritt des Projekts. Die Analysephase (Phase 1) ist abgeschlossen. Die Implementierung der neuen Software für die digitale Bestandserfassung (Phase 2) läuft seit Anfang Oktober. Es gibt jedoch leichte Verzögerungen bei der Datenmigration alter Bestände, sodass der Abschluss dieser Phase sich voraussichtlich um zwei Wochen auf Ende November verschieben wird. MK bestätigt, dass sein Team die Datenaufbereitung unterstützt, aber Kapazitätsengpässe hat. HN und MK prüfen gemeinsam bis Ende dieser Woche, wie der Prozess beschleunigt werden kann.\n\n**TOP 3 Qualitätssicherung: Ergebnisse Kundenbefragung Q3**\n\nLB stellt die zentralen Ergebnisse der Kundenbefragung für das dritte Quartal vor. Die Produktqualität wird weiterhin sehr positiv bewertet (Zufriedenheitswert 94%). Kritisch angemerkt wurde jedoch von mehreren Großkunden die telefonische Erreichbarkeit des technischen Supports, insbesondere am Nachmittag. Es wird beschlossen, dass JK (Vertrieb) und LB gemeinsam bis zur nächsten Sitzung einen Vorschlag zur Verbesserung der Erreichbarkeit erarbeiten (z.B. erweiterte Servicezeiten, Ticketsystem).\n\n**TOP 4 IT-Sicherheit: Update und nächste Schritte**\n\nHN informiert, dass es letzte Woche vermehrt Phishing-Versuche auf Mitarbeiter-Accounts gab, die jedoch dank der bestehenden Filter größtenteils abgefangen wurden. Dennoch kamen vereinzelte Mails durch. Zur Sensibilisierung wird eine verpflichtende Online-Schulung für alle Mitarbeiterinnen und Mitarbeiter mit PC-Zugang ausgerollt. Diese muss bis zum 15. November 20XX absolviert werden. Bei Nichtteilnahme erfolgt zunächst eine Erinnerung, bei weiterer Ignoranz wird der Account temporär gesperrt, bis die Schulung nachgeholt wurde.\n\n**TOP 5 Personalsituation: Weiterbildungsbedarf**\n\nSR berichtet über den identifizierten Weiterbildungsbedarf, der sich aus den Jahresgesprächen und den Anforderungen neuer Projekte ergibt. Insbesondere im Bereich Produktion (SW) besteht Bedarf an Schulungen zur Bedienung der neuen CNC-Maschine. Im Vertrieb (JK) gibt es Wünsche nach Verhandlungstrainings in englischer Sprache. SR wird beauftragt, bis Ende November geeignete externe Anbieter zu recherchieren und erste Angebote einzuholen. Über das Budget wird nach Vorlage der Angebote entschieden.\n\n**TOP 6 Sonstiges: Messe \"LogiMAT 20XX+1\"**\n\nTB bringt die Teilnahme an der Logistikmesse \"LogiMAT\" im kommenden Frühjahr zur Sprache. Er sieht dies als gute Gelegenheit, das optimierte Lagerhaltungssystem (siehe TOP 2) zu präsentieren. JK äußert sich positiv, weist aber auf die hohen Kosten für Standmiete und Personal hin. Es wird beschlossen, dass JK und HN gemeinsam bis zum 15. Dezember ein Grobkonzept für den Stand sowie eine Kostenschätzung erstellen. Auf dieser Basis wird dann final über die Teilnahme entschieden.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom September",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte nicht genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das Projekt \"Optimierung Lagerhaltung\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits vollständig abgeschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "verzögert sich momentan in Phase 2."
+                },
+                {
+                    "key": "c",
+                    "text": "wird hauptsächlich vom Einkauf geleitet."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundenbefragung ergab,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass die Produktqualität nachgelassen hat."
+                },
+                {
+                    "key": "b",
+                    "text": "dass der technische Support schwer erreichbar ist."
+                },
+                {
+                    "key": "c",
+                    "text": "dass neue Servicezeiten bereits eingeführt wurden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Online-Schulung zur IT-Sicherheit",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist freiwillig für interessierte Mitarbeiter."
+                },
+                {
+                    "key": "b",
+                    "text": "muss von allen Mitarbeitern bis Mitte November gemacht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird nur für die IT-Abteilung angeboten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Über die Teilnahme an der LogiMAT Messe",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits positiv entschieden worden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird erst nach Vorlage einer Kostenschätzung entschieden."
+                },
+                {
+                    "key": "c",
+                    "text": "soll nur die Geschäftsführung entscheiden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

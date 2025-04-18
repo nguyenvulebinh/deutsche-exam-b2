@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**14. Mai 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum A, Werkstraße 12, 8 Munich XXX\n\n**Anwesende:**\n*   Karl Fischer (KF, Geschäftsführung)\n*   Sabine Berger (SB, Leitung Einkauf)\n*   Markus Müller (MM, Leitung Produktion)\n*   Anja Schneider (AS, Leitung Qualitätsmanagement)\n*   David Ludwig (DL, Leitung Personal)\n*   Elena Petrova (EP, Leitung Finanzen)\n\n**Entschuldigt:**\n*   Thomas Bauer (TB, Leitung Marketing)\n\n**Sitzungsleitung:** Karl Fischer (KF)\n**Protokollantin:** Elena Petrova (EP)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Aktuelle Produktionslage und Lieferkettenproblematik\n3.  Einführung neuer QM-Software \"QualiSys 5.0\"\n4.  Planung Betriebserweiterung Standort Süd\n5.  Personalbedarf und Weiterbildung\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nKF begrüßt die Anwesenden. Er bittet um Genehmigung des Protokolls der Sitzung vom 16. April. SB bat um Korrektur von TOP 4 bezüglich der genannten Lieferantennamen für Speziallegierungen; die Firma 'Metallwerke Huber' wurde fälschlicherweise als 'Huber Stahl' bezeichnet. Nach mündlicher Anpassung durch die Protokollantin wurde das korrigierte Protokoll vom 16. April einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionslage und Lieferkettenproblematik**\n\nMM berichtet von einer generell guten Auslastung der Produktion. Allerdings gibt es anhaltende Lieferverzögerungen bei Mikrochips von einem Hauptlieferanten aus Asien. Dies betrifft aktuell vor allem die Premium-Produktlinie 'P-X7' für die Luftfahrtindustrie, was zu möglichen Verzögerungen bei zwei Großaufträgen führen könnte. Die Standardlinie 'S-Basis' für den Automobilsektor ist derzeit nicht betroffen. MM prüft bis Ende der Woche alternative europäische Lieferanten und wird nächste Woche berichten.\n\n**TOP 3 Einführung neuer QM-Software \"QualiSys 5.0\"**\n\nAS kündigt den geplanten Rollout der neuen, cloudbasierten Qualitätsmanagement-Software 'QualiSys 5.0' für den 1. Juni an. Die Software verspricht eine effizientere Dokumentation und Fehlerverfolgung. Eine verpflichtende Online-Schulung für alle festangestellten Mitarbeitenden der Abteilungen Produktion und Qualitätskontrolle findet in der Woche *danach*, vom 7. bis 11. Juni, statt. Die Einladungen dazu werden von AS Ende Mai verschickt.\n\n**TOP 4 Planung Betriebserweiterung Standort Süd**\n\nKF berichtet über die Notwendigkeit einer Betriebserweiterung aufgrund der konstant hohen Nachfrage und begrenzter Kapazitäten am Hauptstandort. Die Suche nach einem geeigneten Grundstück oder einer bestehenden Halle am geplanten Standort Süd läuft noch. Die bisher geprüften Optionen waren entweder logistisch ungünstig oder lagen deutlich über dem Budget. Eine Entscheidung über den Standort soll möglichst bis zum Herbst getroffen werden, um mit den Bauplanungen beginnen zu können.\n\n**TOP 5 Personalbedarf und Weiterbildung**\n\nDL meldet dringenden Bedarf an zwei zusätzlichen Fachkräften in der CNC-Fertigung (Bereich Fräsen) aufgrund der gestiegenen Auftragslage und um die Produktionsziele für das zweite Halbjahr zu sichern. Die Stellenanzeigen werden nächste Woche auf der Firmenhomepage und relevanten Jobportalen veröffentlicht. Zudem weist DL auf die anstehenden jährlichen Sicherheitsschulungen hin, die im Juli für alle Produktionsmitarbeiter verpflichtend sind.\n\n**TOP 6 Sonstiges**\n\nEP informiert kurz darüber, dass die Kantine aufgrund von Wartungsarbeiten an der Lüftungsanlage am kommenden Montag, den 17. Mai, ganztägig geschlossen bleiben muss. Die Mitarbeiter wurden bereits per Aushang und E-Mail informiert. Es gibt keine weiteren Punkte.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "konnte nicht genehmigt werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Lieferkettenproblematik",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sorgt für einen Produktionsstopp aller Linien."
+                },
+                {
+                    "key": "b",
+                    "text": "wird durch alternative Lieferanten bereits gelöst."
+                },
+                {
+                    "key": "c",
+                    "text": "betrifft derzeit nur einen Teil der Produkte."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue QM-Software",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird nach der Einführung Schulungen erfordern."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert eine Schulung aller Mitarbeiter der Firma."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst nach den Schulungen eingeführt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Betriebserweiterung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet am bereits gesicherten Standort Süd statt."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde aus Kostengründen abgesagt."
+                },
+                {
+                    "key": "c",
+                    "text": "verzögert sich wegen der Standortsuche."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Der Personalbedarf",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "betrifft alle Abteilungen der Firma."
+                },
+                {
+                    "key": "b",
+                    "text": "besteht aktuell in einem bestimmten Produktionsbereich."
+                },
+                {
+                    "key": "c",
+                    "text": "konnte bereits durch Neueinstellungen gedeckt werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum 'Silicon Valley', TechSolutions GmbH, Innovationsstraße 5, 80331 München\n\n**Anwesende:**\n*   Dr. Eva Reinhardt (ER, Geschäftsführung) - Sitzungsleitung\n*   Markus Weber (MW, Leitung Softwareentwicklung)\n*   Julia Becker (JB, Leitung Projektmanagement)\n*   Thomas Graf (TG, Leitung Kundensupport)\n*   Sabine Koch (SK, Leitung Marketing & Vertrieb)\n*   Paul Ziegler (PZ, Senior Entwickler)\n*   Anja Kraus (AK, Assistenz der Geschäftsführung) - Protokollantin\n\n**Entschuldigt:**\n*   Stefan Huber (SH, Leitung Finanzen)\n\n**Gast:**\n*   Laura Schmidt (LS, Externe Beraterin User Experience)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 28.09.\n2.  Status-Update Software-Release \"Phoenix 3.0\"\n3.  Analyse Kundenfeedback zu \"Phoenix 2.5\"\n4.  Vorbereitung TechKonferenz \"Digital Future\"\n5.  Optimierung interner Kommunikationswege\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 28.09.**\n\nER begrüßt alle Anwesenden, insbesondere den Gast Frau Schmidt. AK bittet um Genehmigung des Protokolls der letzten Sitzung. TG merkt an, dass unter TOP 4 des letzten Protokolls die Deadline für die Support-Dokumentation fälschlicherweise mit Ende Oktober statt Mitte Oktober angegeben wurde. Mit dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Status-Update Software-Release \"Phoenix 3.0\"**\n\nMW berichtet, dass sich das neue Release \"Phoenix 3.0\" in der finalen Testphase befindet. Der geplante Veröffentlichungstermin ist der 30. Oktober. PZ weist auf ein potenzielles Problem hin: Bei internen Lasttests zeigte die Datenbankintegration unter sehr hoher Nutzerlast vereinzelte Verlangsamungen. Er empfiehlt dringend weitere Stresstests, um sicherzustellen, dass dies im Live-Betrieb keine kritischen Auswirkungen hat. Es wird beschlossen, dass MW und PZ zusätzliche, intensive Tests bis zum 19.10. durchführen. Eine finale Entscheidung über die Einhaltung des Release-Termins wird am 20.10. getroffen. SK bestätigt auf Nachfrage, dass alle Marketingmaterialien für den geplanten Launch bereitstehen.\n\n**TOP 3 Analyse Kundenfeedback zu \"Phoenix 2.5\"**\n\nTG stellt die Auswertung des Kundenfeedbacks der letzten drei Monate für die aktuelle Version 2.5 vor. Grundsätzlich sei die Zufriedenheit hoch. Allerdings meldeten etwa 20% der Nutzer, insbesondere Kunden ohne tiefere technische Kenntnisse, wiederholt Probleme mit der Komplexität der Benutzeroberfläche bei bestimmten erweiterten Funktionen. LS, die externe UX-Beraterin, bestätigt diese Analyse aufgrund ihrer eigenen Stichproben und Interviews. Sie schlägt vor, für die nachfolgende Version 3.1 gezielt die am häufigsten kritisierten Arbeitsabläufe zu vereinfachen. Es wird beschlossen, dass JB eine kleine Arbeitsgruppe (bestehend aus TG, PZ, LS) einrichtet. Diese soll bis Ende November konkrete Maßnahmen zur Vereinfachung definieren, die dann in die Roadmap für Phoenix 3.1 aufgenommen werden.\n\n**TOP 4 Vorbereitung TechKonferenz \"Digital Future\"**\n\nSK präsentiert den Planungsstand für die Konferenz vom 15. bis 17. November. Das Standkonzept ist finalisiert und der Aufbau gebucht. Zwei Vortragsslots sind fest zugesagt: MW wird über \"KI-Einsatz in der modernen Softwareentwicklung\" sprechen, SK über \"Erfolgsstrategien im SaaS-Produktmarketing\". Neben SK und MW werden noch zwei weitere Mitarbeiter für die Standbetreuung benötigt, um durchgehend Präsenz zu zeigen und Gespräche führen zu können. TG sagt zu, einen Mitarbeiter aus dem Support-Team abzustellen. JB prüft bis Ende der Woche die Verfügbarkeit bei den Projektmanagern. Die endgültige Benennung der Standmitarbeiter soll bis spätestens 25. Oktober erfolgen.\n\n**TOP 5 Optimierung interner Kommunikationswege**\n\nER äußert Bedenken bezüglich des Informationsflusses zwischen der Softwareentwicklung und dem Kundensupport, der teilweise verzögert sei. MW schlägt zur Verbesserung wöchentliche, kurze Synchronisationsmeetings (ca. 15 Minuten) zwischen den Teamleitern vor. TG befürwortet dies, sieht aber zusätzlich Bedarf an einem dedizierten Slack-Kanal für dringende technische Rückfragen vom Support an die Entwickler. Nach kurzer Diskussion wird entschieden, beide Maßnahmen ab der kommenden Woche parallel einzuführen. MW übernimmt die Organisation der wöchentlichen Meetings, TG erstellt die Richtlinien für den neuen Slack-Kanal. AK wird gebeten, die neuen Abläufe kurz zu dokumentieren und im Intranet bereitzustellen.\n\n**TOP 6 Sonstiges**\n\nER erinnert alle Abteilungsleiter an die anstehenden Zielvereinbarungsgespräche für das Q4, die bis Mitte November abgeschlossen sein sollen. AK fragt bezüglich der von der Entwicklungsabteilung gewünschten neuen ergonomischen Bürostühle nach. ER bestätigt die Freigabe der Anschaffung, da diese laut Rücksprache per E-Mail mit SH (Leitung Finanzen) aus dem bestehenden Budget für Arbeitsplatzausstattung gedeckt werden kann. Die nächste Sitzung wird für den 26.10. um 10:00 Uhr vereinbart.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Software-Release \"Phoenix 3.0\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird definitiv am 30. Oktober veröffentlicht."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert vor der Freigabe noch weitere Tests."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von der externen Beraterin geprüft."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Feedback der Kunden zu Version 2.5",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigt Probleme bei der Benutzerfreundlichkeit auf."
+                },
+                {
+                    "key": "b",
+                    "text": "führt zu Änderungen in der Version 3.0."
+                },
+                {
+                    "key": "c",
+                    "text": "war überwiegend negativ und kritisch."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Teilnahme an der TechKonferenz",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist personell bereits vollständig geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "beinhaltet nur eine Präsentation durch die Firma."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordert noch die Bestätigung von zwei Mitarbeitern für den Standdienst."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Verbesserung der internen Kommunikation",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhaltet sowohl regelmäßige Meetings als auch einen Chat-Kanal."
+                },
+                {
+                    "key": "b",
+                    "text": "wird ausschließlich über einen neuen Slack-Kanal erfolgen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von der Geschäftsführung vorgeschlagen und umgesetzt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neuen Bürostühle",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen vom abwesenden Finanzleiter noch genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "werden aus dem vorhandenen Budget bezahlt."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden von der Geschäftsführung für alle Abteilungen bestellt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

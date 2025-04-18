@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Juni 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum „Elbe“, SchnellTrans GmbH, Industriestraße 15, 21XXX Hamburg\n\n**Anwesende:**\n*   Herr Dr. Martin König (MK, Geschäftsführung)\n*   Frau Sabine Richter (SR, Leitung Operations/Disposition)\n*   Herr Uwe Hansen (UH, Leitung Fuhrparkmanagement)\n*   Frau Lena Bauer (LB, Leitung Vertrieb)\n*   Herr Andreas Roth (AR, Leitung IT)\n*   Frau Petra Neumann (PN, Leitung Personal)\n*   Herr Klaus Schneider (KS, Assistenz der Geschäftsführung)\n\n**Entschuldigt:** Frau Yasmin Çelik (YÇ, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Martin König (MK)\n**Protokollant:** Klaus Schneider (KS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls der letzten Sitzung\n2.  Aktuelle Auftragslage und Auslastung der Flotte\n3.  Anschaffung neuer LKW und Stand Fuhrparkwartung\n4.  Einführung neues Tracking-System für Fahrzeuge\n5.  Planungsstand neues Logistikzentrum (Standortentscheidung)\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls der letzten Sitzung**\n\nMK begrüßt alle Anwesenden zur heutigen Sitzung. Er bittet um Genehmigung des Protokolls vom 15. Mai 20XX. AR weist darauf hin, dass in TOP 4 des letzten Protokolls ein Datum für die Serverwartung fälschlicherweise mit dem 25.05. angegeben wurde; korrekt sei der 28.05. gewesen. Nach dieser Korrektur wird das Protokoll einstimmig angenommen.\n\n**TOP 2 Aktuelle Auftragslage und Auslastung der Flotte**\n\nLB berichtet über eine positive Entwicklung der Auftragslage im zweiten Quartal. Im Vergleich zum ersten Quartal konnte eine Steigerung von rund 15% erzielt werden. Dies sei vor allem auf eine Zunahme der Transportaufträge von Kunden aus dem Lebensmittelsektor zurückzuführen. SR ergänzt, dass die Auslastung der Flotte derzeit bei über 90% liege, was sehr erfreulich, aber operativ auch herausfordernd sei.\n\n**TOP 3 Anschaffung neuer LKW und Stand Fuhrparkwartung**\n\nUH informiert, dass der Vorstand der Anschaffung von fünf neuen Sattelzugmaschinen zugestimmt hat. Der Auftrag an den Hersteller MAN wurde erteilt. Die Fahrzeuge erfüllen die Euro-6-Abgasnorm und sollen laut Hersteller voraussichtlich im August 20XX geliefert werden. Diese Neuanschaffung ist auch dringend notwendig, da die Wartungsintervalle und Reparaturkosten bei drei der älteren Fahrzeuge im Fuhrpark zuletzt deutlich angestiegen sind. UH wird die betreffenden Fahrzeuge nach Eintreffen der neuen LKW außer Dienst stellen.\n\n**TOP 4 Einführung neues Tracking-System für Fahrzeuge**\n\nAR berichtet über den Fortschritt bei der Implementierung des neuen GPS-basierten Tracking-Systems „FleetControl“. Das System befindet sich aktuell in der finalen Testphase mit zehn ausgewählten Fahrzeugen. Diese Testphase wird planmäßig Ende nächster Woche abgeschlossen. AR entwickelt derzeit einen Schulungsplan für alle Fahrerinnen und Fahrer sowie die Dispositionsmitarbeiter. Die Schulungen sollen bis Ende Juli abgeschlossen sein, damit das System flächendeckend genutzt werden kann.\n\n**TOP 5 Planungsstand neues Logistikzentrum (Standortentscheidung)**\n\nMK teilt mit, dass die Entscheidung für den Standort des neuen Logistikzentrums gefallen ist. Ein geeignetes Grundstück im Gewerbegebiet Hamburg-Süd konnte optioniert werden. Der nächste Schritt ist die Einreichung des Bauantrags. MK weist jedoch darauf hin, dass die Erteilung der Baugenehmigung erfahrungsgemäß einige Zeit in Anspruch nehmen kann. Ein Baubeginn im ursprünglich erhofften vierten Quartal dieses Jahres sei daher zwar angestrebt, aber nicht garantiert und könnte sich eventuell ins nächste Jahr verschieben.\n\n**TOP 6 Sonstiges**\n\nPN informiert über die Planung des diesjährigen Sommerfestes für die Belegschaft. Es wird am letzten Freitag im Juli (28.07.) stattfinden. Der genaue Ort wird von MK noch bekannt gegeben – es soll eine Überraschung für die Mitarbeiterinnen und Mitarbeiter sein. Weiterhin kündigt PN an, dass im September eine verpflichtende eintägige Fahrerschulung zum Thema Ladungssicherung und neue Lenk- und Ruhezeiten stattfinden wird. Genaue Termine folgen.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Einwände genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird vom Protokollanten erst noch überarbeitet."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die aktuelle Auftragslage",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat sich durch Aufträge aus dem Lebensmittelsektor verbessert."
+                },
+                {
+                    "key": "b",
+                    "text": "ist insgesamt um 10% gestiegen."
+                },
+                {
+                    "key": "c",
+                    "text": "leidet unter der geringeren Auslastung der Flotte."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neuen LKW",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden bereits im Juli erwartet."
+                },
+                {
+                    "key": "b",
+                    "text": "erfüllen die aktuelle europäische Abgasnorm."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen die Wartungsprobleme vollständig lösen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue Tracking-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits von allen Fahrern genutzt."
+                },
+                {
+                    "key": "b",
+                    "text": "dessen Schulung wird sofort nächste Woche beginnen."
+                },
+                {
+                    "key": "c",
+                    "text": "befindet sich noch in der Testphase."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Der Bau des neuen Logistikzentrums",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hängt von einer behördlichen Genehmigung ab."
+                },
+                {
+                    "key": "b",
+                    "text": "wird im Gewerbegebiet Nord stattfinden."
+                },
+                {
+                    "key": "c",
+                    "text": "beginnt sicher noch in diesem Jahr."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

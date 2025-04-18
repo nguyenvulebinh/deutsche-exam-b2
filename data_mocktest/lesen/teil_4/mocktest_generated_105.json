@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 10:30 – 12:00 Uhr**\n**Ort:** Besprechungsraum A3, Industriestraße 12, 87654 Metallburg\n\n**Anwesende:**\n*   Stefan Gruber (SG, Werksleitung)\n*   Laura Novak (LN, Leitung Produktion)\n*   Ralf Ziegler (RZ, Leitung Qualitätssicherung)\n*   Isabelle Moreau (IM, Leitung Vertrieb)\n*   David Chen (DC, Leitung Einkauf)\n*   Kerstin Bauer (KB, Personalwesen)\n*   Markus Jahn (MJ, Assistenz Werksleitung)\n\n**Gast:** Herr Dr. Albers (DA, Externer Berater Qualität)\n**Sitzungsleitung:** Stefan Gruber (SG)\n**Protokollant:** Markus Jahn (MJ)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 20.09.20XX\n2.  Produktionszahlen und Auslastung September\n3.  Projekt \"Neukunde AeroDrive\" – Aktueller Stand\n4.  Maßnahmen zur Verbesserung der Qualitätssicherung\n5.  Schulungsplan Q4\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 20.09.20XX**\n\nSG begrüßt die Anwesenden sowie Herrn Dr. Albers. Das Protokoll der Sitzung vom 20. September 20XX liegt vor. Es gibt keine Änderungswünsche, das Protokoll wird einstimmig genehmigt.\n\n**TOP 2 Produktionszahlen und Auslastung September**\n\nLN präsentiert die Produktionszahlen für September. Die Gesamtauslastung lag bei 88%. Die gesteckten Produktionsziele wurden leider um ca. 5% verfehlt. Hauptgrund hierfür waren unerwartete und längere Ausfallzeiten der CNC-Fräsmaschine Typ 5b in Halle 2. Die Reparatur ist abgeschlossen, die Maschine läuft wieder stabil. Für Oktober wird eine Zielerreichung von über 95% angestrebt.\n\n**TOP 3 Projekt \"Neukunde AeroDrive\" – Aktueller Stand**\n\nIM berichtet über das strategisch wichtige Projekt für den Neukunden AeroDrive. Die ersten Prototypen der Komponente AX-7 sind fertiggestellt und werden aktuell intern geprüft. Ein kritisches Problem stellt jedoch die Beschaffung des benötigten Spezialstahls dar; der vorgesehene Lieferant hat unerwartet Lieferschwierigkeiten gemeldet. DC prüft bereits alternative Lieferanten, dies wird aber voraussichtlich zu Mehrkosten und einer leichten Verzögerung führen. Der ursprüngliche Zeitplan mit Auslieferung der ersten Serie bis Ende November kann daher wahrscheinlich nicht gehalten werden. Eine Anpassung um ca. 2-3 Wochen scheint realistisch. DC soll bis Ende der Woche Optionen vorlegen.\n\n**TOP 4 Maßnahmen zur Verbesserung der Qualitätssicherung**\n\nRZ und DA stellen die Ergebnisse der Analyse der aktuellen QS-Prozesse vor. DA erläutert konkrete Vorschläge zur Optimierung, insbesondere die Einführung neuer digitaler Messprotokolle und erweiterter statistischer Prozesskontrollen (SPC). Nach kurzer Diskussion wird einstimmig beschlossen, die vorgeschlagenen neuen Methoden nicht sofort flächendeckend, sondern zunächst im Rahmen einer Pilotphase auf der Produktionslinie für Hydraulikkomponenten (Linie 3) zu testen. Die Pilotphase soll im November beginnen und drei Monate dauern. RZ ist für die Organisation und Auswertung verantwortlich.\n\n**TOP 5 Schulungsplan Q4**\n\nKB präsentiert den Schulungsplan für das vierte Quartal. Für alle Produktionsmitarbeiter sind die jährlichen Sicherheitsschulungen verpflichtend und finden gestaffelt im November statt. Zusätzlich wird eine optionale Schulung zur neuen Planungssoftware (ERP-Modul PP) im Dezember angeboten. Aufgrund der unter TOP 4 beschlossenen Maßnahmen wird zudem eine Schulung zu den neuen QS-Methoden für die Mitarbeiter der Linie 3 notwendig; der genaue Termin hierfür wird von RZ und KB noch festgelegt und kommuniziert.\n\n**TOP 6 Sonstiges**\n\nSG berichtet kurz über erste Erfolge der neuen Energiesparmaßnahmen im Bereich Beleuchtung. Weitere Maßnahmen (Druckluftsystem) sind in Prüfung.\nSG erinnert zudem daran, dass nächstes Jahr das 25-jährige Firmenjubiläum ansteht. Er bittet darum, dass sich die Abteilungsleiter Gedanken zu möglichen Feierlichkeiten machen. Ein erstes Planungsmeeting hierzu wird Anfang November stattfinden; MJ versendet hierzu noch eine separate Einladung mit Terminvorschlägen.\n\nDie Sitzung endet um 11:58 Uhr.\nNächste reguläre Sitzung: 15. November 20XX.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Produktionsziele im September",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnten wie geplant erfüllt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurden wegen technischer Probleme nicht erreicht."
+                },
+                {
+                    "key": "c",
+                    "text": "litten unter Personalmangel."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Projekt \"AeroDrive\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verzögert sich aufgrund von Materialproblemen."
+                },
+                {
+                    "key": "b",
+                    "text": "läuft genau nach dem ursprünglichen Zeitplan."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bei den Prototypen technisch gescheitert."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neuen QS-Maßnahmen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurden von Herrn Ziegler vorgeschlagen."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen sofort im ganzen Werk umgesetzt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "werden zunächst testweise eingeführt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Der Schulungsplan für Q4",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "enthält verpflichtende Sicherheitstrainings."
+                },
+                {
+                    "key": "b",
+                    "text": "ist für alle Mitarbeiter optional."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhaltet nur Software-Schulungen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Firmenjubiläum",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet dieses Jahr nicht statt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird in einer nächsten Sitzung geplant."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde bereits detailliert organisiert."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

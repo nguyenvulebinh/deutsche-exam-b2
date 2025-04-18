@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**Datum:** 14. Mai 20XX\n**Zeit:** 09:00 – 10:30 Uhr\n**Ort:** Raum Kopenhagen, Innovatech Allee 1, 12345 Berlin\n\n**Anwesende:**\n*   Klaus Müller (KM, Geschäftsführung)\n*   Sandra Weber (SW, Leitung Vertrieb)\n*   Jonas Richter (JR, Leitung Entwicklung)\n*   Anke Voss (AV, Leitung Consulting)\n*   Thomas Bauer (TB, Leitung Personal)\n*   Elena Petrova (EP, Leitung Finanzen)\n*   Max Fischer (MF, Marketing Manager)\n*   Laura Neumann (LN, Office Management)\n\n**Entschuldigt:** Keiner\n**Gast:** Dr. Lena Hoffmann (LH, Externe Beraterin - nur TOP 4)\n\n**Sitzungsleitung:** Klaus Müller (KM)\n**Protokollant/in:** Laura Neumann (LN)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 16. April 20XX\n2.  Aktuelle Projektlage: Projekt Phoenix (Kundenportal-Relaunch)\n3.  Quartalszahlen Q1 & Ausblick Q2\n4.  Neue Marketing-Strategie: Fokus Social Media\n5.  Personalplanung: Neueinstellungen Entwicklungsteam\n6.  Sonstiges (Interne Schulung, Parkplatzsituation)\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 16. April 20XX**\n\nKM begrüßt alle Anwesenden zur heutigen Sitzung. Das Protokoll der letzten Sitzung vom 16. April wird zur Genehmigung vorgelegt. JR bittet um eine Präzisierung unter TOP 3 bezüglich der zugewiesenen Entwicklerressourcen für das interne CRM-Update. Nach kurzer Diskussion und Einigung auf eine geänderte Formulierung wird das Protokoll mit dieser Änderung einstimmig genehmigt.\n\n**TOP 2 Aktuelle Projektlage: Projekt Phoenix (Kundenportal-Relaunch)**\n\nJR berichtet über den aktuellen Stand des Projekts Phoenix. Der Meilenstein „Freigabe Design-Prototyp“ wurde erreicht. Allerdings gibt es eine Verzögerung von ca. zwei Wochen gegenüber dem ursprünglichen Plan. Grund dafür sind verspätete Detail-Rückmeldungen vom Pilotkunden „Musterbau GmbH“. Der nächste Schritt ist die technische Umsetzung des Frontends. AV merkt an, dass ihr Consulting-Team dringend die Testversion benötigt, um die Schulungsunterlagen vorzubereiten. JR sichert zu, bis Ende nächster Woche einen Zeitplan für die Bereitstellung der Testversion vorzulegen. Der angestrebte Go-Live Ende Q3 scheint aktuell noch realistisch, sofern keine weiteren Verzögerungen eintreten.\n\n**TOP 3 Quartalszahlen Q1 & Ausblick Q2**\n\nEP präsentiert die Zahlen für das erste Quartal. Der Gesamtumsatz liegt 5% über dem Vorjahresquartal, aber 2% unter dem Plan für Q1. Besonders erfreulich entwickelte sich der Bereich Consulting (AV) mit +15% über Plan. Der Verkauf von Software-Lizenzen (SW) blieb jedoch 10% hinter den Erwartungen zurück. Für Q2 wird aufgrund der Pipeline im Consulting und erster positiver Signale aus dem Lizenzgeschäft eine vorsichtig optimistische Prognose abgegeben, die aber stark von der allgemeinen Wirtschaftslage abhängt. KM beauftragt SW, bis zur nächsten Sitzung Maßnahmen zur Stärkung des Lizenzverkaufs vorzuschlagen.\n\n**TOP 4 Neue Marketing-Strategie: Fokus Social Media**\n\nMF stellt gemeinsam mit der externen Beraterin LH die Grundzüge der neuen Marketing-Strategie vor. Hauptfokus soll zukünftig auf Business-Netzwerken wie LinkedIn und Xing liegen, um gezielt Entscheider im Mittelstand zu erreichen. Geplant sind regelmäßige Fachbeiträge, Case Studies und Webinare. Andere Kanäle wie die klassische Printwerbung werden deutlich reduziert, aber nicht komplett eingestellt. MF wurde beauftragt, bis Ende Juni einen detaillierten Redaktions- und Budgetplan zu erarbeiten. Die Auswahl einer spezialisierten Agentur für die Content-Erstellung ist noch offen; MF recherchiert derzeit passende Kandidaten.\n\n**TOP 5 Personalplanung: Neueinstellungen Entwicklungsteam**\n\nTB berichtet über den Personalbedarf in der Entwicklung (JR). Aufgrund des Projektvolumens, insbesondere Projekt Phoenix und zweier weiterer Großprojekte, werden dringend zwei zusätzliche Entwickler benötigt, idealerweise mit Erfahrung in Cloud-Technologien. Eine Senior- und eine Junior-Position sind vorgesehen. KM genehmigt die Ausschreibung der Stellen. Der Rekrutierungsprozess soll sofort beginnen und wird federführend von TB in enger Abstimmung mit JR durchgeführt. Ziel ist die Besetzung der Stellen bis spätestens Anfang Q4.\n\n**TOP 6 Sonstiges (Interne Schulung, Parkplatzsituation)**\n\nJR informiert über eine geplante interne Schulung zur neuen Version des Code-Repositories (GitLab Advanced Features). Die Teilnahme ist für alle Mitarbeiterinnen und Mitarbeiter der Entwicklungs- und Consultingabteilung verpflichtend. Die Schulung findet an zwei alternativen Terminen Ende Juli statt (genaue Daten folgen per E-Mail). LN weist abschließend auf die angespannte Parkplatzsituation hin und bittet darum, die reservierten Kundenparkplätze unbedingt freizuhalten.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Projekt Phoenix",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "liegt genau im ursprünglichen Zeitplan."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigt mehr Entwickler für das Frontend."
+                },
+                {
+                    "key": "c",
+                    "text": "ist aufgrund fehlender Kundenrückmeldungen verzögert."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die finanzielle Situation",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "entsprach im ersten Quartal nicht ganz den Erwartungen."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigt in allen Geschäftsbereichen ein starkes Wachstum."
+                },
+                {
+                    "key": "c",
+                    "text": "war im Vorjahresquartal deutlich schlechter als jetzt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neue Marketing-Strategie",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits von einer externen Agentur betreut."
+                },
+                {
+                    "key": "b",
+                    "text": "setzt hauptsächlich auf soziale Netzwerke für Geschäftskontakte."
+                },
+                {
+                    "key": "c",
+                    "text": "führt zur kompletten Einstellung aller Printwerbung."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Neueinstellungen im Entwicklungsteam",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden allein von der Personalabteilung verantwortet."
+                },
+                {
+                    "key": "b",
+                    "text": "sind geplant, weil aktuelle Mitarbeiter gekündigt haben."
+                },
+                {
+                    "key": "c",
+                    "text": "umfassen sowohl erfahrene als auch Nachwuchskräfte."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die geplante interne Schulung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist für alle Angestellten der Firma verpflichtend."
+                },
+                {
+                    "key": "b",
+                    "text": "findet für Entwickler und Berater statt."
+                },
+                {
+                    "key": "c",
+                    "text": "hat bereits Ende April stattgefunden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

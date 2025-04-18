@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum \"Jupiter\", Firmenzentrale, Technologiepark 5, 44227 Dortmund\n\n**Anwesende:**\n*   Dr. Lena Bauer (LB, Geschäftsführung)\n*   Markus Weber (MW, Leitung Entwicklung)\n*   Sabine Koch (SK, Leitung Vertrieb)\n*   Jan Müller (JM, Leitung IT)\n*   Petra Haas (PH, Leitung Personalwesen)\n*   Thomas Ziegler (TZ, Leitung Finanzen)\n*   Anna Schmidt (AS, Leitung Marketing)\n*   Gast: Herr David Grün (DG, Externer Berater - Prozessoptimierung)\n\n**Entschuldigt:**\n*   Stefan Fischer (SF, Leitung Kundenservice)\n\n**Sitzungsleitung:** Dr. Lena Bauer (LB)\n**Protokollantin:** Petra Haas (PH)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.09.20XX\n2.  Quartalszahlen Vertrieb und Ausblick Q4\n3.  Stand Projekt \"Kundenportal Relaunch\"\n4.  Prozessoptimierung in der Entwicklung (Bericht Herr Grün)\n5.  Personalplanung 20XX+1\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.09.20XX**\n\nLB begrüßt alle Anwesenden, insbesondere den Gast Herrn Grün. Sie bittet um Genehmigung des Protokolls der letzten Sitzung. TZ bittet um eine kleine Korrektur bei den unter TOP 4 genannten Budgetzahlen, was von PH notiert wird. Mit dieser Änderung wird das Protokoll vom 15.09. einstimmig genehmigt.\n\n**TOP 2 Quartalszahlen Vertrieb und Ausblick Q4**\n\nSK präsentiert die Vertriebszahlen für Q3. Insgesamt zeigt sich eine positive Entwicklung mit einer Umsatzsteigerung von 8% gegenüber Q2. Besonders erfreulich ist das Wachstum im Bereich Nordeuropa (+15%), während die Ergebnisse in Südeuropa aufgrund starker lokaler Konkurrenz leicht rückläufig sind (-3%). SK schlägt vor, für Südeuropa im Q4 eine gezielte Marketingaktion zu prüfen. AS wird diesbezüglich bis zur nächsten Sitzung erste Ideen entwickeln.\n\n**TOP 3 Stand Projekt \"Kundenportal Relaunch\"**\n\nJM berichtet, dass das Projekt „Kundenportal Relaunch“ derzeit leichte Verzögerungen aufweist. Grund hierfür sind unerwartete technische Schwierigkeiten bei der Integration der neuen SSO-Lösung (Single Sign-On). Die Entwicklung arbeitet an einer Lösung, benötigt aber dringend die finalen Content-Elemente von der Marketingabteilung (AS), um die Testphase nicht weiter zu gefährden. Geplanter Live-Gang ist nun Ende November anvisiert, statt wie ursprünglich geplant Ende Oktober.\n\n**TOP 4 Prozessoptimierung in der Entwicklung (Bericht Herr Grün)**\n\nDG stellt die Ergebnisse seiner Analyse der Entwicklungsprozesse vor. Er identifiziert Potenzial bei der Automatisierung von Testing-Routinen und schlägt die Einführung einer spezialisierten Software vor. Des Weiteren empfiehlt er eine Anpassung der agilen Meeting-Strukturen. MW bestätigt den grundsätzlichen Bedarf, äußert aber Bedenken bezüglich der Implementierungsdauer der Software. Es wird beschlossen, dass MW gemeinsam mit JM die Software-Option prüft (Kosten, Kompatibilität) und bis Ende November berichtet. Die Anpassung der Meeting-Strukturen wird zunächst zurückgestellt.\n\n**TOP 5 Personalplanung 20XX+1**\n\nPH stellt erste Überlegungen zur Personalplanung für das kommende Geschäftsjahr vor. Aufgrund des erwarteten Wachstums wird ein Bedarf von mindestens drei zusätzlichen Stellen in der Entwicklung (MW) und einer Stelle im Vertrieb (SK) gesehen. TZ weist darauf hin, dass die endgültige Budgetfreigabe von der Geschäftsentwicklung im Q4 abhängt, signalisiert aber grundsätzliche Unterstützung bei positivem Verlauf. PH wird einen detaillierteren Plan bis zur Dezembersitzung ausarbeiten.\n\n**TOP 6 Sonstiges**\n\nAS informiert kurz über die bevorstehende Teilnahme an der Fachmesse „Digital Future“ in Berlin Anfang Dezember. Ein detaillierter Plan zur Standbesetzung folgt.\nJM erinnert alle Abteilungsleitungen an das verpflichtende IT-Sicherheitstraining für alle Mitarbeiterinnen und Mitarbeiter, das bis zum 15.11. online abgeschlossen sein muss.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der Septembersitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste bei den Finanzzahlen korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Frau Haas noch überarbeitet."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Vertrieb im letzten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "war in allen Regionen Europas erfolgreich."
+                },
+                {
+                    "key": "b",
+                    "text": "konnte den Umsatz insgesamt steigern."
+                },
+                {
+                    "key": "c",
+                    "text": "führt als Nächstes eine Marketingaktion durch."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Relaunch des Kundenportals",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verzögert sich wegen fehlender Inhalte vom Marketing."
+                },
+                {
+                    "key": "b",
+                    "text": "ist wegen technischer Probleme verschoben worden."
+                },
+                {
+                    "key": "c",
+                    "text": "kann pünktlich Ende Oktober live gehen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Vorschläge von Herrn Grün",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "betreffen nur die Meeting-Strukturen."
+                },
+                {
+                    "key": "b",
+                    "text": "werden teilweise sofort umgesetzt."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhalten eine Prüfung neuer Software."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Neueinstellungen im nächsten Jahr",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind nur für die Entwicklung geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "hängen von der finanziellen Entwicklung ab."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden von Herrn Ziegler bereits genehmigt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum \"Sonneblume\", BioLecker Allee 1, 80331 München\n\n**Anwesende:**\n*   Dr. Eva Reinhardt (ER, Geschäftsführung)\n*   Markus Weber (MW, Leitung Produktion)\n*   Sandra König (SK, Leitung Verkauf)\n*   Jonas Bachmann (JB, Leitung Marketing)\n*   Anna Petrova (AP, Leitung IT)\n*   Thomas Lang (TL, Leitung Finanzen)\n*   Lukas Schmidt (LS, Assistenz GF)\n\n**Entschuldigt:** Kerstin Meyer (KM, Leitung Einkauf)\n\n**Sitzungsleitung:** Dr. Eva Reinhardt (ER)\n**Protokollant:** Lukas Schmidt (LS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Aktuelle Verkaufszahlen und Marktanalyse (Schwerpunkt Veggie-Produkte)\n3.  Entwicklung neuer veganer Produktlinie \"PflanzenKraft\"\n4.  Relaunch der Firmenwebsite und Webshop-Integration\n5.  Nachhaltigkeitsinitiative: Verpackungsoptimierung\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nER begrüßt die Anwesenden zur Sitzung. Das Protokoll der Sitzung vom 15. August wird zur Genehmigung vorgelegt. JB merkt an, dass unter TOP 4 sein Name fälschlicherweise bei der Verantwortung für die Social-Media-Analyse genannt wurde; dies war Aufgabe von AP. Nach dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen und Marktanalyse (Schwerpunkt Veggie-Produkte)**\n\nSK präsentiert die Verkaufszahlen für das letzte Quartal. Die Gesamtverkäufe sind stabil geblieben. Sehr erfreulich ist die Entwicklung im Veggie-Segment, das im Vergleich zum Vorjahresquartal um 15% zugelegt hat. Dies führt SK auf das gestiegene Konsumbewusstsein zurück. Eine Ausnahme bildet die etablierte Bio-Linsensuppe, deren Absatz leicht zurückging. Überraschung des Quartals war der neue Bio-Apfel-Ingwer-Saft, der die Erwartungen deutlich übertroffen hat.\n\n**TOP 3 Entwicklung neuer veganer Produktlinie \"PflanzenKraft\"**\n\nMW berichtet über den Stand der Entwicklung der veganen Linie \"PflanzenKraft\". Die Rezepturen für die vegane Bolognese und den Linsen-Aufstrich sind in der finalen Abstimmung. Die Prüfung potenzieller Lieferanten für spezielle Zutaten durch KM (Leitung Einkauf) läuft noch. JB stellt klar, dass die Marketingkampagne parallel vorbereitet wird. TL bestätigt, dass das Budget für Entwicklung und Markteinführung, die für Q1 des kommenden Jahres geplant ist, freigegeben wurde.\n\n**TOP 4 Relaunch der Firmenwebsite und Webshop-Integration**\n\nAP informiert, dass nach Prüfung mehrerer Angebote die Agentur \"WebWerk\" für den Relaunch der Website beauftragt wurde. Ein erstes Kickoff-Meeting findet nächste Woche statt. Ziel ist der Livegang der neuen Seite bis Ende Q4 dieses Jahres. Ein zentrales Element ist der neue Webshop. Dieser wird jedoch zu Beginn nur das Trockensortiment (z.B. Müsli, Nudeln, Hülsenfrüchte) umfassen, da die Logistik für Kühlprodukte online noch aufgebaut werden muss. Die Kompetenz von WebWerk im Bereich E-Commerce war ausschlaggebend.\n\n**TOP 5 Nachhaltigkeitsinitiative: Verpackungsoptimierung**\n\nDa KM entschuldigt ist, berichtet MW über erste Ergebnisse zur Verpackungsoptimierung. Ziel ist es, den Plastikanteil bei den Eigenmarken innerhalb von zwei Jahren um 25% zu reduzieren. Erste Tests mit neuen Schalen auf Papierbasis für Fertiggerichte zeigen vielversprechende Ergebnisse, jedoch gibt es bei Produkten mit hoher Feuchtigkeit noch Herausforderungen. Eine endgültige Entscheidung über Materialumstellungen wird daher vertagt, bis weitere Tests abgeschlossen sind. TL weist darauf hin, dass mögliche Kostensteigerungen durch neue Materialien genau analysiert werden müssen.\n\n**TOP 6 Sonstiges**\n\nER blickt kurz auf das erfolgreiche Sommerfest Ende August zurück. Für die diesjährige Weihnachtsfeier bittet sie LS, Vorschläge für externe Locations zu sammeln und bis zur nächsten Sitzung vorzulegen. Des Weiteren bestätigt ER die Teilnahme von ihr und SK an der BioFach-Messe in Nürnberg im kommenden Februar.",
+    "aufgaben_list": [
+        {
+            "frage": "Das letzte Protokoll",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist ohne Änderungen angenommen worden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde vor der Genehmigung leicht geändert."
+                },
+                {
+                    "key": "c",
+                    "text": "musste von Frau König korrigiert werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Verkaufszahlen von Veggie-Produkten",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "haben sich insgesamt positiv entwickelt."
+                },
+                {
+                    "key": "b",
+                    "text": "sind bei allen Produkten gestiegen."
+                },
+                {
+                    "key": "c",
+                    "text": "waren weniger erfolgreich als Bio-Säfte."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neue Produktlinie \"PflanzenKraft\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits von Kunden getestet."
+                },
+                {
+                    "key": "b",
+                    "text": "liegt in der Verantwortung der Marketingabteilung."
+                },
+                {
+                    "key": "c",
+                    "text": "soll im nächsten Frühjahr auf den Markt kommen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Der neue Webshop",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits seit letzter Woche online."
+                },
+                {
+                    "key": "b",
+                    "text": "wird zunächst nur ein Teilsortiment anbieten."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von der IT-Abteilung selbst programmiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Verpackungsinitiative",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert weitere Prüfungen vor einer Entscheidung."
+                },
+                {
+                    "key": "b",
+                    "text": "zielt auf eine vollständige Plastikvermeidung ab."
+                },
+                {
+                    "key": "c",
+                    "text": "wird bereits von der Produktionsleitung umgesetzt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

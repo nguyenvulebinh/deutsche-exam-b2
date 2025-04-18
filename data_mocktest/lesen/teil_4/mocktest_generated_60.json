@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**Datum:** 18. September 20XX\n**Zeit:** 10:00 – 11:15 Uhr\n**Ort:** Besprechungsraum \"Alpenblick\", Präzitek GmbH, Industriestraße 12, 87654 Musterstadt\n\n**Anwesende:**\n*   Herr Dr. Klaus Berger (KB, Geschäftsführung)\n*   Frau Lena Fischer (LF, Leitung IT)\n*   Herr Markus Weber (MW, Leitung Vertrieb)\n*   Frau Sabine Haas (SH, Leitung Kundenservice)\n*   Herr Jörg Schmidt (JS, Leitung Produktion)\n*   Frau Anna Keller (AK, Personalentwicklung)\n*   Herr David Müller (DM, IT-Projektleiter CRM)\n\n**Entschuldigt:** Frau Petra Lang (PL, Leitung Marketing)\n\n**Sitzungsleitung:** Dr. Klaus Berger (KB)\n**Protokollantin:** Lena Fischer (LF)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.08.20XX\n2.  Projektstand Einführung CRM-System \"KundenMeister 4.0\" (Bericht DM)\n3.  Schulungsplan und -konzept (Bericht AK, DM)\n4.  Feedback aus den Abteilungen (Vertrieb, Kundenservice)\n5.  Technische Voraussetzungen und Support (Bericht LF)\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.08.20XX**\n\nKB begrüßt die Anwesenden zur Sitzung. Das Protokoll der Sitzung vom 15. August 20XX wird ohne Einwände einstimmig genehmigt.\n\n**TOP 2 Projektstand Einführung CRM-System \"KundenMeister 4.0\"**\n\nDM berichtet über den aktuellen Stand des CRM-Projekts. Das Projekt liegt größtenteils im Zeitplan. Die geplante Produktivsetzung (Go-Live) des Systems ist weiterhin für den **1. November 20XX** vorgesehen. Die Datenmigration aus dem Altsystem wurde letzte Woche erfolgreich abgeschlossen. Im Reporting-Modul wurde ein kleinerer Softwarefehler entdeckt; die Behebung durch den Hersteller wird bis Ende nächster Woche erwartet. Die finale Testphase beginnt am kommenden Montag.\n\n**TOP 3 Schulungsplan und -konzept**\n\nAK stellt den detaillierten Schulungsplan vor. Für alle zukünftigen Anwenderinnen und Anwender aus Vertrieb, Kundenservice und Marketing sind verpflichtende halbtägige Basisschulungen vorgesehen. Diese finden gestaffelt im Oktober, spezifisch in den Kalenderwochen 41 und 42, statt. Darüber hinaus wird es im November, also nach dem Go-Live, zwei vertiefende Workshops zu den Themen \"Vertriebssteuerung\" und \"Reporting\" für ausgewählte Nutzergruppen geben. Die Anmeldung zu allen Schulungen ist ab morgen über das Intranet möglich. DM ergänzt, dass während der Schulungstermine technische Unterstützung durch die IT-Abteilung sichergestellt wird.\n\n**TOP 4 Feedback aus den Abteilungen**\n\nMW teilt mit, dass sein Team im Vertrieb dem neuen System positiv gegenübersteht, jedoch Bedenken bezüglich der Einarbeitungszeit während des geschäftigen vierten Quartals bestehen. SH berichtet von positiven Rückmeldungen zur Benutzerfreundlichkeit durch die Pilot-Tester im Kundenservice. Sie fragt nach der geplanten Integration des bestehenden Ticketsystems in das neue CRM.\nLF erläutert daraufhin, dass die Anbindung des Ticketsystems erst in einer zweiten Projektphase geplant ist und voraussichtlich im ersten Quartal des nächsten Jahres umgesetzt wird. Sie ist nicht Bestandteil des initialen Rollouts zum 1. November.\n\n**TOP 5 Technische Voraussetzungen und Support**\n\nLF bestätigt, dass die notwendigen Hardware-Aufrüstungen an den meisten Arbeitsplätzen abgeschlossen sind. Eine Ausnahme bilden fünf ältere PCs im Kundenservice, die aufgrund ihrer Leistung nicht für das neue CRM geeignet sind. Diese müssen zwingend vor dem Go-Live ausgetauscht werden.\n**Aktion:** LF wird die Bestellung der Ersatzgeräte umgehend veranlassen; die Lieferung wird innerhalb von zwei Wochen erwartet.\nDer First-Level-Support für das CRM wird nach der Einführung durch den internen IT-Helpdesk erfolgen. Komplexere technische Anfragen werden an das Projektteam von DM eskaliert.\n\n**TOP 6 Sonstiges**\n\nKB erinnert an die bevorstehende Feier zum Firmenjubiläum am **15. Oktober** und bittet alle Abteilungsleitungen um zeitnahe Rückmeldung bezüglich der Teilnahme ihrer Teams.\nWeitere Punkte werden nicht angesprochen. KB schließt die Sitzung um 11:15 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Der Projektzeitplan für das CRM",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist wegen eines Softwarefehlers gefährdet."
+                },
+                {
+                    "key": "b",
+                    "text": "sieht den Start des Systems für Anfang November vor."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhaltet die Datenmigration als letzten Schritt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Schulungen für \"KundenMeister 4.0\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "finden teilweise vor der Systemeinführung statt."
+                },
+                {
+                    "key": "b",
+                    "text": "sind für alle Mitarbeiter halbtägig geplant."
+                },
+                {
+                    "key": "c",
+                    "text": "werden ausschließlich von Herrn Müller durchgeführt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der Kundenservice",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "bekommt sofort neue Computer für alle Arbeitsplätze."
+                },
+                {
+                    "key": "b",
+                    "text": "hat die neue Benutzeroberfläche kritisiert."
+                },
+                {
+                    "key": "c",
+                    "text": "muss vorerst ohne integriertes Ticketsystem arbeiten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Frau Fischer",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "korrigiert das Protokoll der letzten Sitzung."
+                },
+                {
+                    "key": "b",
+                    "text": "kümmert sich um die Beschaffung neuer Hardware."
+                },
+                {
+                    "key": "c",
+                    "text": "leitet die Schulungen für das neue CRM-System."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die technische Umsetzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert noch den Austausch einiger Geräte."
+                },
+                {
+                    "key": "b",
+                    "text": "wird durch Probleme mit der Datenbank erschwert."
+                },
+                {
+                    "key": "c",
+                    "text": "wird extern durch die Softwarefirma unterstützt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

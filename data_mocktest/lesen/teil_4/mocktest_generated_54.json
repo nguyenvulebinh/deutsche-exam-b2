@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll - Projektmeeting\n\n**22. Mai 20XX, 13:30 – 15:00 Uhr**\n**Ort:** Konferenzraum \"Genf\", PharmaServ Solutions GmbH, Hauptstraße 12, 80331 München\n\n**Anwesende:**\n*   Dr. Eva Reinhardt (ER, Leitung Forschung & Entwicklung)\n*   Ben Weber (BW, Projektleiter Alpha/Beta)\n*   Sandra König (SK, Datenmanagement)\n*   Markus Klein (MK, Klinische Operationen)\n*   Laura Chen (LC, Qualitätsmanagement)\n*   Omar Fahed (OF, IT-Sicherheit)\n*   Julia Weiß (JW, Assistenz)\n\n**Gast:**\n*   Herr Dr. Jansen (DJ, Kunde PharmaCorp für Projekt Beta)\n\n**Sitzungsleitung:** Dr. Eva Reinhardt (ER)\n**Protokollantin:** Julia Weiß (JW)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung Protokoll vom 25. April\n2.  Abschlussbericht Projekt \"Alpha\" (Studienergebnisse Diabetes Typ II)\n3.  Projektstart \"Beta\" (Neue Studie Hypertonie mit PharmaCorp)\n4.  Ressourcenplanung Q3/Q4\n5.  Aktualisierung IT-Sicherheitsprotokolle\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung Protokoll vom 25. April**\n\nER begrüßt alle Anwesenden, insbesondere den Gast Herrn Dr. Jansen. Das Protokoll der Sitzung vom 25. April 20XX wird ohne Änderungen einstimmig genehmigt.\n\n**TOP 2 Abschlussbericht Projekt \"Alpha\" (Studienergebnisse Diabetes Typ II)**\n\nBW präsentiert die finalen Ergebnisse der abgeschlossenen Diabetes-Typ-II-Studie (Projekt \"Alpha\"). Die Datenanalyse, durchgeführt von SK, ist vollständig. Die Ergebnisse zeigen eine Tendenz zur Wirksamkeit, die leicht besser als erwartet ausfiel. In der vordefinierten Subgruppe der Patienten unter 50 Jahren konnte jedoch keine statistische Signifikanz nachgewiesen werden. BW kündigt an, dass der umfassende Abschlussbericht bis Ende Mai fertiggestellt und anschließend dem (nicht anwesenden) Kunden übermittelt wird.\n\n**TOP 3 Projektstart \"Beta\" (Neue Studie Hypertonie mit PharmaCorp)**\n\nER leitet zum offiziellen Start von Projekt \"Beta\" über, einer neuen Studie zur Behandlung von Hypertonie im Auftrag von PharmaCorp. Sie begrüßt Herrn Dr. Jansen (DJ) als Vertreter des Kunden. BW stellt den detaillierten Projektplan vor: Die Patientenrekrutierung ist für Juni bis August geplant, die Hauptbehandlungsphase für September bis Dezember. Die finale Datenauswertung soll im ersten Quartal des Folgejahres erfolgen. DJ äußert sich positiv zum Zeitplan, bittet jedoch darum zu prüfen, ob statt der vorgesehenen quartalsweisen Kurzreports auch monatliche Updates möglich wären. ER bittet BW, die Machbarkeit und den zusätzlichen Aufwand hierfür bis Ende dieser Woche zu prüfen und DJ direkt zu informieren. Die vereinbarten Rekrutierungsziele werden bekräftigt.\n\n**TOP 4 Ressourcenplanung Q3/Q4**\n\nMK berichtet über die aktuelle und geplante Auslastung der Abteilung Klinische Operationen. Das anlaufende Projekt \"Beta\" erfordert zusätzliche personelle Ressourcen. Konkret werden ab August zwei neue klinische Monitore (CRAs) benötigt. Die Personalabteilung wurde bereits informiert, die Stellenausschreibungen sind aktiv. Ein potenzieller Engpass zeichnet sich im Bereich erfahrener Datenmanager ab, da SK einen Großteil ihrer Kapazität für \"Beta\" aufwenden wird. Um andere laufende Projekte nicht zu gefährden, wird ER prüfen, ob interne Umschichtungen möglich sind oder ob für bestimmte Aufgaben externe Dienstleister ab dem dritten Quartal hinzugezogen werden müssen.\n\n**TOP 5 Aktualisierung IT-Sicherheitsprotokolle**\n\nOF informiert über die Notwendigkeit einer Aktualisierung der IT-Sicherheitsprotokolle im gesamten Unternehmen. Grund hierfür sind neue regulatorische Vorgaben gemäß der EU-Richtlinie XYZ vom März 20XX, die insbesondere den Umgang mit Patientendaten betreffen. Das Update betrifft alle Datenbanken und Systeme, die entsprechende Daten speichern oder verarbeiten. Die Implementierung wird schrittweise erfolgen und soll bis Ende Juli abgeschlossen sein. OF kündigt eine obligatorische Online-Schulung für alle betroffenen Mitarbeiter für Mitte Juni an. Genaue Termine folgen per E-Mail. Er weist darauf hin, dass während der einzelnen Update-Prozesse pro Abteilung kurzfristige Systemunterbrechungen von maximal einer Stunde möglich sind. Diese werden jedoch geplant und, soweit möglich, außerhalb der Kernarbeitszeiten (vor 9 Uhr oder nach 17 Uhr) durchgeführt.\n\n**TOP 6 Sonstiges**\n\nLC erkundigt sich nach dem Stand der Planung für das interne Audit im dritten Quartal. ER teilt mit, dass der Audit-Plan derzeit finalisiert wird und voraussichtlich nächste Woche an alle Abteilungsleiter verteilt wird. Weitere Punkte werden nicht angesprochen. ER bedankt sich für die Teilnahme und schließt die Sitzung um 14:55 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Ergebnisse von Projekt \"Alpha\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "entsprachen genau den Erwartungen."
+                },
+                {
+                    "key": "b",
+                    "text": "waren nicht für alle Altersgruppen signifikant."
+                },
+                {
+                    "key": "c",
+                    "text": "werden dem Kunden im Juni präsentiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Für das neue Projekt \"Beta\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beginnt die Patientenbehandlung bereits im Sommer."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde die Erstellung monatlicher Berichte fest vereinbart."
+                },
+                {
+                    "key": "c",
+                    "text": "werden im August zusätzliche Mitarbeiter benötigt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Personalplanung zeigt,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass erfahrene Datenmanager knapp werden könnten."
+                },
+                {
+                    "key": "b",
+                    "text": "dass Frau König für andere Projekte freigestellt wird."
+                },
+                {
+                    "key": "c",
+                    "text": "dass dringend neue IT-Spezialisten gesucht werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das IT-Sicherheitsupdate",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert eine verpflichtende Schulung für Mitarbeiter."
+                },
+                {
+                    "key": "b",
+                    "text": "soll bis Ende Juni abgeschlossen sein."
+                },
+                {
+                    "key": "c",
+                    "text": "wird voraussichtlich zu längeren Systemausfällen führen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Frau Dr. Reinhardt",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "informiert über die IT-Sicherheitsmaßnahmen."
+                },
+                {
+                    "key": "b",
+                    "text": "prüft Möglichkeiten zur Lösung von Personalengpässen."
+                },
+                {
+                    "key": "c",
+                    "text": "legt den Audit-Plan während der Sitzung vor."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

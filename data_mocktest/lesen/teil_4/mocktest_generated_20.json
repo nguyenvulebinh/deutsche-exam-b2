@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Juni 20XX, 09:30 – 11:00 Uhr**\n**Ort:** Konferenzraum 'Alpenblick', Metallstraße 5, 82467 Garmisch-Partenkirchen\n\n**Anwesende:**\n*   Dr. Klaus Berger (KB, Geschäftsführung)\n*   Stefan Maier (SM, Leitung Produktion)\n*   Anna Vogel (AV, Leitung Verkauf)\n*   Lena Schmidt (LS, Leitung Qualitätskontrolle)\n*   Markus Fischer (MF, Leitung Personal)\n*   Petra Novak (PN, IT-Spezialistin)\n*   Thomas Weber (TW, Assistenz)\n\n**Entschuldigt:**\n*   Sabine Roth (SR, Leitung Einkauf)\n\n**Sitzungsleitung:** Dr. Klaus Berger (KB)\n**Protokollant:** Thomas Weber (TW)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. Mai 20XX\n2.  Aktuelle Produktionszahlen und Kapazitätsplanung\n3.  Vorstellung neues Qualitätsmanagement-System\n4.  Personalplanung: Sommerzeit und Azubi-Übernahme\n5.  Stand IT-Sicherheitsprojekt 'SecureNet'\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. Mai 20XX**\n\nKB begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 15. Mai 20XX wird zur Genehmigung vorgelegt und einstimmig ohne Änderungen angenommen.\n\n**TOP 2 Aktuelle Produktionszahlen und Kapazitätsplanung**\n\nSM berichtet, dass die Produktion aktuell leicht über Plan läuft, insbesondere bei der Komponente AX-5 für einen Großkunden. Es gibt jedoch einen drohenden Engpass bei einem speziellen Zulieferteil von Lieferant Beta, was die Kapazität in den nächsten Wochen einschränken könnte. Um die Liefertermine dennoch möglichst einzuhalten, sind zusätzliche Überstunden in KW 25 und 26 geplant. AV wird gebeten, die dringendsten Kundenaufträge zu priorisieren und SM bis Ende der Woche eine Liste zukommen zu lassen.\n\n**TOP 3 Vorstellung neues Qualitätsmanagement-System**\n\nLS stellt das Konzept für das neue digitale Qualitätsmanagement-System „QM-Digital“ vor. Die Einführung ist verbindlich für den 01. August 20XX geplant. LS betont, dass damit eine effizientere Dokumentation und Fehlerverfolgung möglich wird. Zuvor sind ab Mitte Juli verpflichtende Schulungen für alle Mitarbeiterinnen und Mitarbeiter in der Produktion vorgesehen. LS wird die Organisation der Schulungstermine in Absprache mit MF übernehmen.\n\n**TOP 4 Personalplanung: Sommerzeit und Azubi-Übernahme**\n\nMF erläutert die Personalplanung für die Haupturlaubszeit im Juli und August. Aufgrund der erwarteten Abwesenheiten wird ein Bedarf von 3 Aushilfskräften für die Produktion und Logistik gesehen. Die Einstellung wird genehmigt. Des Weiteren beenden zwei Auszubildende im Juli ihre Ausbildung. Herr Klein (Fertigungsmechaniker) zeigt sehr gute Leistungen und erhält direkt ein Angebot zur Übernahme in ein festes Arbeitsverhältnis. Frau Berger (Industriekauffrau) wird ebenfalls ermutigt, sich zu bewerben, muss jedoch das reguläre Bewerbungsverfahren durchlaufen, da die entsprechende Stelle erst noch final genehmigt werden muss.\n\n**TOP 5 Stand IT-Sicherheitsprojekt 'SecureNet'**\n\nPN gibt ein Update zum Projekt 'SecureNet'. Phase 1 (Infrastruktur-Upgrade) konnte erfolgreich abgeschlossen werden. Phase 2 (Implementierung neuer Firewall-Regeln) verzögert sich jedoch um voraussichtlich zwei Wochen aufgrund unerwarteter Kompatibilitätsprobleme mit einer bestehenden Fachanwendung. Der Abschluss der Phase 2 wird nun für Ende Juli erwartet. Als nächster Schritt nach Abschluss der Phase 2 sind unternehmensweite Sensibilisierungsschulungen zur IT-Sicherheit geplant.\n\n**TOP 6 Sonstiges**\n\nKB informiert kurz über die Planung des diesjährigen Sommerfestes. Als Termin wurde der 19. August festgelegt. Der Veranstaltungsort ist jedoch noch offen. TW wird gebeten, bis Ende dieser Woche drei geeignete Optionen inklusive Kostenübersicht zu prüfen und vorzulegen. Weitere Punkte werden nicht angesprochen. KB schließt die Sitzung um 10:55 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das neue QM-System \"QM-Digital\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits im Juli vollständig eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "bietet freiwillige Kurse für alle Mitarbeiter an."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordert ab Mitte Juli Schulungen für die Produktion."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Produktionskapazität",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist durch Probleme bei einem Lieferanten eingeschränkt."
+                },
+                {
+                    "key": "b",
+                    "text": "liegt deutlich unter dem geplanten Niveau."
+                },
+                {
+                    "key": "c",
+                    "text": "wird wegen fehlender Aufträge reduziert."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Auszubildenden",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erhalten beide eine feste Stelle nach der Ausbildung."
+                },
+                {
+                    "key": "b",
+                    "text": "werden unterschiedlich behandelt, was ihre Weiterbeschäftigung angeht."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen sich beide für eine Übernahme neu bewerben."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das IT-Projekt \"SecureNet\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat technische Schwierigkeiten in der zweiten Phase."
+                },
+                {
+                    "key": "b",
+                    "text": "wird planmäßig Ende Juni abgeschlossen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde wegen Personalmangels unterbrochen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Sommerfest der Firma",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet an einem bekannten Ort statt, das Datum ist offen."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von Frau Vogel organisiert."
+                },
+                {
+                    "key": "c",
+                    "text": "hat bereits einen festen Termin, aber noch keinen Ort."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

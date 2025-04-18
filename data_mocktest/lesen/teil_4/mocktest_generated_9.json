@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**Datum:** 12. September 20XX\n**Zeit:** 10:00 – 11:30 Uhr\n**Ort:** Besprechungsraum 'Apfel', Grün & Vital GmbH, Ökostraße 5, 85435 Bioburg\n\n**Anwesende:**\n*   Dr. Eva Brandt (EB, Geschäftsführung)\n*   Markus Schneider (MS, Leitung Produktion)\n*   Sabine Keller (SK, Leitung Marketing & Verkauf)\n*   Thomas Fischer (TF, Leitung Einkauf)\n*   Julia Weber (JW, Qualitätsmanagement)\n*   Ben Müller (BM, IT-Koordination)\n*   Lena Bauer (LB, Assistenz Geschäftsführung)\n\n**Entschuldigt:** Harald Grün (HG, Finanzen - krankheitsbedingt)\n\n**Sitzungsleitung:** Dr. Eva Brandt (EB)\n**Protokollantin:** Lena Bauer (LB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.06.20XX\n2.  Produktionsstand und Herausforderungen (insb. BioBoost Smoothie)\n3.  Marketingkampagne & Verkaufszahlen Q3\n4.  Vorbereitung BioMesse Nürnberg (Oktober)\n5.  IT-Update: Neues Warenwirtschaftssystem\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.06.20XX**\n\nEB begrüßt die Anwesenden zur Sitzung. Das Protokoll der letzten Sitzung vom 15. Juni 20XX wird ohne Änderungen einstimmig genehmigt.\n\n**TOP 2 Produktionsstand und Herausforderungen (insb. BioBoost Smoothie)**\n\nMS berichtet über den Produktionsstart des neuen „BioBoost Smoothies“. Dieser konnte leider erst eine Woche später als ursprünglich geplant beginnen, da der Hauptlieferant für Bio-Spinat unerwartete Lieferengpässe hatte. Die aktuelle Produktionskapazität reicht aus, um die erste Nachfrage zu decken, für die geplante Steigerung der Verkaufszahlen im nächsten Quartal muss die Produktion jedoch noch ausgebaut werden. JW informiert über vereinzelte Rückmeldungen aus der Erstabfüllung bezüglich leichter Farbabweichungen beim Smoothie. Dies sei kein Qualitätsproblem im Sinne der Lebensmittelsicherheit, werde aber genau beobachtet. EB betont die Notwendigkeit, kurzfristig einen zuverlässigen Zweitlieferanten für kritische Rohstoffe wie den Spinat zu finden, um zukünftige Engpässe zu vermeiden. MS prüft Optionen.\n\n**TOP 3 Marketingkampagne & Verkaufszahlen Q3**\n\nSK präsentiert die Ergebnisse für das dritte Quartal. Die Verkaufszahlen für den BioBoost Smoothie seien dank der Social-Media-Kampagne sehr gut angelaufen. Dennoch liegen die Gesamtumsätze des Unternehmens für Q3 leicht unter dem Planziel (minus 3%). Hauptgrund hierfür sind die rückläufigen Verkaufszahlen der älteren Saftlinie „VitalPlus“. SK wird bis zur nächsten Sitzung einen Maßnahmenplan zur Stärkung von VitalPlus oder ggf. zur Überarbeitung des Produkts vorstellen. Der Online-Shop hingegen verzeichnete eine positive Entwicklung mit einem Umsatzplus von 8% im Vergleich zum Vorquartal.\n\n**TOP 4 Vorbereitung BioMesse Nürnberg (Oktober)**\n\nDie BioMesse in Nürnberg findet vom 18. bis 20. Oktober statt. SK stellt die Planungen vor. Der Fokus des Messeauftritts liegt klar auf der Bewerbung des neuen BioBoost Smoothies. Das Design des Messestands wurde bereits finalisiert und genehmigt. Für die Standbesetzung werden neben SK selbst noch zwei Mitarbeiter aus dem Verkaufsteam benötigt. SK bittet um Freiwillige aus der Marketingabteilung zur Unterstützung an den besucherstärksten Tagen (voraussichtlich Samstag). JW wird sicherstellen, dass ausreichende Mengen an Produktproben für die Messe bis spätestens 10. Oktober bereitstehen.\n\n**TOP 5 IT-Update: Neues Warenwirtschaftssystem**\n\nBM berichtet über die Einführung des neuen Warenwirtschaftssystems (WWS). Die erste Phase, die die Lagerbestandsverwaltung umfasst, wurde Ende August erfolgreich abgeschlossen und läuft stabil. Es gab anfangs kleinere Schwierigkeiten bei einigen Mitarbeitern bei der Bedienung, die jedoch durch zusätzliche kurze Schulungen behoben werden konnten. Die zweite Phase, die Implementierung des Moduls für die Auftragsverarbeitung, soll planmäßig Anfang nächsten Monats (Oktober) starten. EB bittet BM, bis Ende September einen kurzen Bericht über den Stand der Vorbereitungen für Phase 2 vorzulegen.\n\n**TOP 6 Sonstiges**\n\nTF informiert darüber, dass die Preise für Bio-Glasflaschen von unserem Hauptlieferanten erneut gestiegen sind. Er prüft derzeit kostengünstigere Alternativen, eventuell auch aus recyceltem Material oder Mehrweg-Optionen, die aber unsere Qualitäts- und Nachhaltigkeitsstandards erfüllen müssen. EB erinnert alle Anwesenden an das verschobene Sommerfest des Unternehmens, das nun am 22. September stattfinden wird. Die nächste reguläre Sitzung ist für Anfang Dezember geplant. Der genaue Termin wird noch bekannt gegeben.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Produktion des BioBoost Smoothies",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "startete wegen eines Lieferproblems verspätet."
+                },
+                {
+                    "key": "b",
+                    "text": "musste wegen Qualitätsproblemen unterbrochen werden."
+                },
+                {
+                    "key": "c",
+                    "text": "läuft problemlos mit ausreichender Kapazität."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Verkaufsergebnis im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "war dank des neuen Smoothies sehr positiv."
+                },
+                {
+                    "key": "b",
+                    "text": "lag leicht unter den Erwartungen des Unternehmens."
+                },
+                {
+                    "key": "c",
+                    "text": "zeigte einen Rückgang der Online-Verkäufe."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Für die BioMesse in Nürnberg",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss das Messestand-Design noch genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "steht das benötigte Personal bereits fest."
+                },
+                {
+                    "key": "c",
+                    "text": "sind Produktproben bis Mitte Oktober bereitzustellen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das neue Warenwirtschaftssystem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird erst im nächsten Monat vollständig implementiert sein."
+                },
+                {
+                    "key": "b",
+                    "text": "verursachte durch technische Fehler größere Probleme."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bereits seit August komplett im Einsatz."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Laut Protokoll",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde das Sommerfest des Unternehmens abgesagt."
+                },
+                {
+                    "key": "b",
+                    "text": "hat Herr Fischer bereits günstigere Flaschen gefunden."
+                },
+                {
+                    "key": "c",
+                    "text": "findet die nächste Sitzung Anfang Dezember statt."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

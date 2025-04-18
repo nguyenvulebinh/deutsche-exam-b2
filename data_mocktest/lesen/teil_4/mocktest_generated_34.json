@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Besprechungsraum Alpha, Solarparkweg 5, 89073 Ulm\n\n**Anwesende:**\n*   Dr. Eva Roth (ER, Geschäftsführung)\n*   Klaus Berger (KB, Leitung Produktion)\n*   Lena Meyer (LM, Leitung Vertrieb)\n*   Ben Schmidt (BS, Leitung Einkauf)\n*   Dr. Omar Sharif (OS, Leitung F&E)\n*   Sabine Weiss (SW, Leitung Finanzen)\n*   Tim Fuchs (TF, Marketing Manager)\n*   Hanna Klein (HK, Assistenz)\n\n**Sitzungsleitung:** Dr. Eva Roth (ER)\n**Protokollantin:** Hanna Klein (HK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung, Feststellung der Beschlussfähigkeit, Genehmigung des letzten Protokolls\n2.  Aktuelle Produktionsauslastung und Lieferzeiten\n3.  Marktentwicklung & Vertriebsstrategie Q4\n4.  Neues Projekt: \"SolarFlex-Modul\"\n5.  Budgetplanung 20XX+1\n6.  Sonstiges\n\n**TOP 1 Begrüßung, Feststellung der Beschlussfähigkeit, Genehmigung des letzten Protokolls**\n\nER begrüßt alle Anwesenden. Die Beschlussfähigkeit ist gegeben. ER bittet um Genehmigung des Protokolls der Sitzung vom 15. August. KB bittet um eine Korrektur bei TOP 2 des alten Protokolls: Die dort genannte Produktionssteigerung betrug 8%, nicht 10%. Nach Eintragung dieser Korrektur durch HK wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionsauslastung und Lieferzeiten**\n\nKB berichtet, dass die Produktion weiterhin sehr gut ausgelastet ist, insbesondere bei den Standard-Solarmodulen (Typ S-200 und S-250). Aufgrund anhaltender Engpässe bei Siliziumlieferungen haben sich die Lieferzeiten für diese Modelle von durchschnittlich 6 auf 8 Wochen erhöht. BS bestätigt, dass er intensiv nach alternativen Lieferanten sucht, die Lage aber angespannt bleibt. Sonderanfertigungen und Montagesysteme sind von den Verzögerungen derzeit nicht betroffen.\n\n**TOP 3 Marktentwicklung & Vertriebsstrategie Q4**\n\nLM präsentiert die aktuellen Verkaufszahlen. Im Vergleich zum zweiten Quartal konnte der Umsatz um 5% gesteigert werden, was erfreulich ist. Für das vierte Quartal schlägt LM vor, den Fokus des Vertriebs verstärkt auf das Geschäftskunden-Segment (B2B) zu legen, insbesondere auf Installationsbetriebe und Projektentwickler für größere Solarparks. Ziel ist es, hier Marktanteile zu gewinnen. ER unterstützt diesen Vorschlag. TF soll entsprechende Marketingmaterialien vorbereiten.\n\n**TOP 4 Neues Projekt: \"SolarFlex-Modul\"**\n\nOS gibt einen aktuellen Stand zum Entwicklungsprojekt der flexiblen Solarmodule. Das Projekt befindet sich aktuell in der Prototypentestphase. Die ersten Ergebnisse bezüglich Effizienz sind vielversprechend. Es gibt jedoch noch kleinere Probleme mit der Wetterbeständigkeit der Anschlussdose unter extremen Bedingungen, an deren Lösung das F&E-Team derzeit arbeitet. OS ist zuversichtlich, diese bis Ende Oktober zu beheben, sodass anschließend die Vorbereitung für Pre-Produktionstests beginnen kann.\n\n**TOP 5 Budgetplanung 20XX+1**\n\nSW stellt den ersten Entwurf der Budgetplanung für das kommende Geschäftsjahr vor. Der Gesamtetat sieht eine moderate Steigerung von 3% vor. OS meldet zusätzlichen Bedarf für die F&E-Abteilung an, um die Tests und die Vorbereitung der Markteinführung des \"SolarFlex-Moduls\" zu finanzieren. Nach kurzer Diskussion beauftragt ER Frau Weiss und Herrn Dr. Sharif, den F&E-Posten bis zur nächsten Sitzung detaillierter auszuarbeiten und eine überarbeitete Version vorzulegen. Eine Entscheidung über das F&E-Budget wird vertagt.\n\n**TOP 6 Sonstiges**\n\nTF fragt nach der Teilnahme an der Messe \"Solar World\" in München im November. Nach kurzer Diskussion wird beschlossen, an der Messe teilzunehmen, da sie eine wichtige Plattform für B2B-Kontakte darstellt. Herr Fuchs (TF) kümmert sich um die Standbuchung und die Organisation des Messeauftritts. \nER schlägt unverbindlich vor, den diesjährigen Betriebsausflug eventuell als Wanderwochenende in den Alpen zu gestalten und bittet um Ideen und Feedback bis Ende des Monats.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist ohne Änderungen angenommen worden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde erst nach einer Korrektur genehmigt."
+                },
+                {
+                    "key": "c",
+                    "text": "muss wegen Unklarheiten neu geschrieben werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Lieferzeiten für Standard-Solarmodule",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind bei allen Produkten des Unternehmens länger geworden."
+                },
+                {
+                    "key": "b",
+                    "text": "sind wegen gesunkener Nachfrage kürzer als erwartet."
+                },
+                {
+                    "key": "c",
+                    "text": "haben sich aufgrund von Materialproblemen verlängert."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Im vierten Quartal soll der Vertrieb",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sich besonders auf Geschäftskunden konzentrieren."
+                },
+                {
+                    "key": "b",
+                    "text": "versuchen, mehr Privatpersonen zu erreichen."
+                },
+                {
+                    "key": "c",
+                    "text": "die Verkaufszahlen des Vorjahres übertreffen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das neue Projekt \"SolarFlex-Modul\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist technisch fertig entwickelt und bereit für die Produktion."
+                },
+                {
+                    "key": "b",
+                    "text": "wird momentan im Prototypenstadium getestet."
+                },
+                {
+                    "key": "c",
+                    "text": "soll bis Jahresende fertiggestellt werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Messe \"Solar World\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist ein Vorschlag, über den noch entschieden wird."
+                },
+                {
+                    "key": "b",
+                    "text": "findet statt, aber die Organisation ist noch unklar."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von der Firma besucht und von Herrn Fuchs organisiert."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

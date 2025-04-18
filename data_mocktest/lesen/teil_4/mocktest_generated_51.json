@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll der Abteilungsleitersitzung\n\n**Datum:** 12. Juni 20XX\n**Zeit:** 10:00 – 11:30 Uhr\n**Ort:** Besprechungsraum \"Bio-Sphäre\", ÖkoPack GmbH Zentrale, Musterstraße 1, 12345 Ökostadt\n\n**Anwesende:**\n*   Dr. Elena Weber (EW, Geschäftsführung)\n*   Stefan Meyer (SM, Leitung Produktion)\n*   Anja Koch (AK, Leitung Vertrieb)\n*   David Berger (DB, Leitung Marketing)\n*   Petra Schmidt (PS, Leitung Einkauf & Materialwirtschaft)\n*   Markus Klein (MK, Leitung IT)\n*   Lisa Fischer (LF, Assistenz GF & Marketing)\n\n**Gast:**\n*   Dr. Jan Lorenz (JL, Externer Berater Nachhaltigkeit)\n\n**Sitzungsleitung:** Dr. Elena Weber (EW)\n**Protokollantin:** Lisa Fischer (LF)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung, Feststellung der Beschlussfähigkeit, Genehmigung Protokoll vom 15.05.20XX\n2.  Aktuelle Produktionszahlen und Materialverfügbarkeit (Bericht SM/PS)\n3.  Vorstellung Marketingkampagne \"Grüner Sommer\" (Bericht DB)\n4.  Statusbericht Einführung neues CRM-System (Bericht MK)\n5.  Nächste Schritte zur Nachhaltigkeitszertifizierung \"Blauer Engel\" (Bericht JL/EW)\n6.  Sonstiges\n\n**TOP 1 Begrüßung, Feststellung der Beschlussfähigkeit, Genehmigung Protokoll vom 15.05.20XX**\n\nEW begrüßt alle Anwesenden sowie den Gast Dr. Lorenz. Die Beschlussfähigkeit ist gegeben. EW bittet um Genehmigung des Protokolls der letzten Sitzung vom 15. Mai. PS merkt an, dass bei TOP 4 die genannte Bestellnummer für das Büromaterial korrigiert werden muss. Mit dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen und Materialverfügbarkeit**\n\nSM berichtet über insgesamt stabile Produktionszahlen im letzten Monat, die leicht über dem Plan liegen. Ein Problem stellt jedoch die Verfügbarkeit des Rohstoffs \"Bio-Polymer X\" dar. PS erläutert, dass dies auf eine unerwartet hohe Marktnachfrage und Lieferengpässe beim Hauptlieferanten zurückzuführen ist. Sie prüft derzeit Angebote von zwei potenziellen alternativen Lieferanten aus Skandinavien, eine finale Vereinbarung gibt es aber noch nicht. Aufgrund dieses Engpasses muss laut SM mit einer leichten Lieferverzögerung von ca. einer Woche bei der Produktlinie \"ÖkoFoodtainer\" gerechnet werden. Alle anderen Produktlinien sind nicht betroffen.\n\n**TOP 3 Vorstellung Marketingkampagne \"Grüner Sommer\"**\n\nDB stellt das Konzept der neuen Marketingkampagne \"Grüner Sommer\" vor. Ziel ist es, die Markenbekanntheit bei Endverbrauchern zu steigern und das umweltfreundliche Image zu stärken. Die Kampagne wird sich auf gezielte Social-Media-Aktivitäten (Instagram, Blog-Kooperationen) sowie auf die Präsenz bei zwei regionalen Sommermärkten konzentrieren. Der Start ist für Mitte Juli geplant. EW bestätigt, dass das von DB beantragte Budget für die Kampagne in der letzten Geschäftsführungssitzung freigegeben wurde.\n\n**TOP 4 Statusbericht Einführung neues CRM-System**\n\nMK informiert über den Fortschritt bei der Einführung des neuen Customer-Relationship-Management (CRM)-Systems \"ConnectPlus\". Die Pilotphase, an der ausschließlich das Vertriebsteam (AK und Mitarbeiter) teilgenommen hat, wurde Ende Mai erfolgreich abgeschlossen. Das Feedback war sehr positiv. Der unternehmensweite Rollout für alle Abteilungen ist nun bis Ende des vierten Quartals (Q4) dieses Jahres geplant. Hierfür sind noch umfassende Schulungen für alle betroffenen Mitarbeiter notwendig. Die genauen Schulungstermine werden von MK in Abstimmung mit den Abteilungsleitern festgelegt und zeitnah bekannt gegeben.\n\n**TOP 5 Nächste Schritte zur Nachhaltigkeitszertifizierung \"Blauer Engel\"**\n\nDr. Lorenz (JL) fasst die wesentlichen Anforderungen für die Erlangung des Umweltzeichens \"Blauer Engel\" zusammen, insbesondere im Hinblick auf Materialherkunft und Recyclingfähigkeit. EW betont die strategische Bedeutung dieser Zertifizierung für die ÖkoPack GmbH. Es wird beschlossen, eine interne Task-Force zu gründen, bestehend aus EW, SM und PS, die die notwendigen Schritte koordiniert. Ziel ist es, den vollständigen Antrag für die Zertifizierung bis spätestens Ende September 20XX bei der zuständigen Vergabestelle einzureichen.\n\n**TOP 6 Sonstiges**\n\nEW weist darauf hin, dass in der ersten Juliwoche eine verpflichtende interne Schulung zur Auffrischung der Kenntnisse bezüglich der Datenschutz-Grundverordnung (DSGVO) stattfinden wird. Diese Schulung richtet sich an alle anwesenden Abteilungsleiter und wird von einem externen Datenschutzexperten durchgeführt. LF wird die genaue Terminfindung koordinieren und eine Einladung versenden. Weitere Punkte werden nicht angesprochen. EW schließt die Sitzung pünktlich um 11:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Der Mangel an Bio-Polymer X",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte durch alternative Lieferanten bereits behoben werden."
+                },
+                {
+                    "key": "b",
+                    "text": "führt zu leichten Verzögerungen bei einem Produkt."
+                },
+                {
+                    "key": "c",
+                    "text": "stoppt derzeit die gesamte Produktion der ÖkoPack GmbH."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Marketingkampagne \"Grüner Sommer\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird ausschließlich über soziale Medien beworben."
+                },
+                {
+                    "key": "b",
+                    "text": "wartet noch auf die Freigabe des Budgets durch die Geschäftsführung."
+                },
+                {
+                    "key": "c",
+                    "text": "soll planmäßig Mitte nächsten Monats beginnen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das neue CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde bisher nur von der Vertriebsabteilung genutzt."
+                },
+                {
+                    "key": "b",
+                    "text": "steht ab dem nächsten Quartal allen Abteilungen zur Verfügung."
+                },
+                {
+                    "key": "c",
+                    "text": "kann ohne weitere Schulungen von allen Mitarbeitern bedient werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Für die Zertifizierung \"Blauer Engel\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist allein der externe Berater Dr. Lorenz zuständig."
+                },
+                {
+                    "key": "b",
+                    "text": "soll der Antrag bis Ende September eingereicht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde bereits das Zertifikat \"Grüner Punkt\" beantragt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die angekündigte interne Schulung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen alle anwesenden Abteilungsleiter besuchen."
+                },
+                {
+                    "key": "b",
+                    "text": "behandelt die Einführung des neuen CRM-Systems."
+                },
+                {
+                    "key": "c",
+                    "text": "findet erst nach Abschluss der Nachhaltigkeitszertifizierung statt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

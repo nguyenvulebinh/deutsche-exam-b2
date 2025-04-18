@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Oktober 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum \"Hamburg\", Firmenzentrale, Industriestraße 15, 60314 Frankfurt am Main\n\n**Anwesende:**\n*   Herr Klaus Berger (KB, Geschäftsführer)\n*   Frau Sabine Maier (SM, Leitung Logistik)\n*   Herr Jörg Petersen (JP, Leitung Personal)\n*   Frau Lena Richter (LR, Leitung IT)\n*   Herr Ahmed Khan (AK, Leitung Vertrieb)\n*   Frau Ursula Vogel (UV, Finanzen)\n*   Herr Marco Rossi (MR, Assistenz der Geschäftsführung)\n\n**Entschuldigt:** Frau Dr. Eva Klein (EK, Leitung Qualitätssicherung)\n\n**Sitzungsleitung:** Klaus Berger (KB)\n**Protokollant:** Marco Rossi (MR)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 14. September 20XX\n2.  Optimierung der Routenplanung mittels neuer Software\n3.  Aktuelle Personalsituation: Fahrermangel\n4.  Analyse Kundenfeedback letztes Quartal\n5.  Vorbereitung Logistikmesse \"Transport & Future\"\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 14. September 20XX**\n\nKB begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der letzten Sitzung vom 14. September 20XX liegt allen vor. Es gibt keine Wortmeldungen zu Änderungen oder Ergänzungen. Das Protokoll wird einstimmig genehmigt.\n\n**TOP 2 Optimierung der Routenplanung mittels neuer Software**\n\nLR berichtet über den Stand der Einführung der neuen Software \"RouteOptimo\". Ziel der Software ist es, sowohl die Transportkosten durch effizientere Routen zu senken als auch die Pünktlichkeit durch bessere Verkehrsdatenintegration zu erhöhen. Die vollständige Implementierung ist für Q1 des nächsten Jahres geplant. Es wird beschlossen, ab dem 1. November eine Pilotphase auf fünf ausgewählten Langstreckenrouten zu starten. LR koordiniert die notwendigen Schulungen für die Disponenten, die in der letzten Oktoberwoche stattfinden sollen.\n\n**TOP 3 Aktuelle Personalsituation: Fahrermangel**\n\nJP erläutert die angespannte Personalsituation im Fahrdienst. Insbesondere die gestiegene Anzahl an krankheitsbedingten Ausfällen und einige Renteneintritte verschärfen den Mangel. Um kurzfristig neue Fahrerinnen und Fahrer zu gewinnen, wird einstimmig beschlossen, ab sofort eine \"Mitarbeiter werben Mitarbeiter\"-Prämie einzuführen. Jeder Mitarbeiter, der erfolgreich einen neuen Fahrer vermittelt (nach bestandener Probezeit), erhält eine einmalige Bonuszahlung von 1000 Euro. JP ist verantwortlich für die interne Kommunikation dieser Maßnahme.\n\n**TOP 4 Analyse Kundenfeedback letztes Quartal**\n\nAK stellt die Ergebnisse der Kundenfeedback-Analyse für Q3 vor. Die allgemeine Zufriedenheit ist stabil, jedoch gab es vermehrt Beschwerden über die mangelnde proaktive Kommunikation bei Lieferverzögerungen. Insbesondere bei Verspätungen von mehr als einer Stunde erwarten Kunden eine zeitnahe Information. Es wird vereinbart, einen standardisierten Prozess für SMS-Benachrichtigungen bei signifikanten Verspätungen einzuführen. Das Team von AK wird entsprechende Textvorlagen bis zum 31. Oktober erarbeiten und den Prozess in Zusammenarbeit mit der IT implementieren.\n\n**TOP 5 Vorbereitung Logistikmesse \"Transport & Future\"**\n\nKB informiert über die anstehende Fachmesse \"Transport & Future\", die vom 20. bis 22. November in Hamburg stattfindet. Die Messe ist eine wichtige Plattform für Networking und die Akquise von Neukunden. Als Standpersonal sind KB, AK und SM vorgesehen. UV bestätigt, dass das Budget für den Messeauftritt genehmigt ist. MR wird beauftragt, die Organisation des Standaufbaus und der Logistik zu koordinieren.\n\n**TOP 6 Sonstiges**\n\nUV erinnert an die Frist zur Einreichung der Budgetplanung für das kommende Geschäftsjahr bis zum 15. Dezember. KB kündigt an, dass die diesjährige Firmen-Weihnachtsfeier voraussichtlich am zweiten Freitag im Dezember stattfinden wird; eine offizielle Einladung mit Details folgt in Kürze. Keine weiteren Wortmeldungen. KB schließt die Sitzung um 10:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste wegen eines Fehlers korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst nächsten Monat genehmigt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Software für die Routenplanung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll Kosten sparen und die Effizienz steigern."
+                },
+                {
+                    "key": "b",
+                    "text": "ist bereits auf allen Routen im Einsatz."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von der IT-Abteilung selbst entwickelt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Um neue Fahrer zu gewinnen,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden die Arbeitszeiten flexibler gestaltet."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde die Zusammenarbeit mit Zeitarbeitsfirmen beendet."
+                },
+                {
+                    "key": "c",
+                    "text": "erhalten Mitarbeiter eine Prämie für Empfehlungen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das Kundenfeedback zeigte Probleme",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "bei der Information über Lieferverspätungen."
+                },
+                {
+                    "key": "b",
+                    "text": "mit beschädigter Ware während des Transports."
+                },
+                {
+                    "key": "c",
+                    "text": "die nur durch die Geschäftsführung gelöst werden können."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Logistikmesse in Hamburg",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet noch in diesem Monat statt."
+                },
+                {
+                    "key": "b",
+                    "text": "dient der Anbahnung neuer Geschäftsbeziehungen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird nur von Herrn Berger und Herrn Khan besucht."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

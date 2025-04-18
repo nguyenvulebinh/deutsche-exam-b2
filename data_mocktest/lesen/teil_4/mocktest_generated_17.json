@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**10. Mai 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Besprechungsraum 'Zukunft', Innovatec Robotics GmbH, Industriestraße 12, 60314 Frankfurt am Main\n\n**Anwesende:**\n*   Herr Dr. Klaus Berger (KB, Geschäftsführung)\n*   Frau Lena Weber (LW, Leitung Entwicklung)\n*   Herr Sven Fischer (SF, Leitung Produktion)\n*   Frau Anna Kowalski (AK, Leitung Vertrieb & Marketing)\n*   Herr Markus Stein (MS, Leitung Einkauf)\n*   Frau Julia Richter (JR, Leitung Personal)\n*   Herr Tim Nowak (TN, Leitung IT)\n\n**Entschuldigt:** Herr Omar Benali (OB, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Klaus Berger (KB)\n**Protokollant:** Julia Richter (JR)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 12. April 20XX\n2.  Aktuelle Auftragslage und Vertriebsprognose Q3\n3.  Status Projekt \"Logistikroboter LR-500\"\n4.  Lieferengpässe bei Schlüsselkomponenten\n5.  Einführung neues Zeiterfassungssystem\n6.  Sonstiges (Messebeteiligung, Weiterbildung)\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 12. April 20XX**\n\nKB begrüßt die Anwesenden. Das Protokoll der Sitzung vom 12. April 20XX wird ohne Anmerkungen oder Änderungswünsche einstimmig genehmigt.\n\n**TOP 2 Aktuelle Auftragslage und Vertriebsprognose Q3**\n\nAK berichtet über eine erfreuliche Entwicklung der Auftragseingänge im laufenden Quartal (+12% über Plan). Besonders stark ist die Nachfrage aus dem Automobilsektor. Für das kommende dritte Quartal (Q3) prognostiziert AK eine weitere Steigerung um ca. 15%, hauptsächlich getrieben durch einen erwarteten Großauftrag eines süddeutschen Automobilzulieferers. Sie weist jedoch darauf hin, dass die allgemeine wirtschaftliche Unsicherheit ein gewisses Risiko darstellt.\n\n**TOP 3 Status Projekt \"Logistikroboter LR-500\"**\n\nLW informiert, dass die Entwicklungsphase des LR-500 weitgehend abgeschlossen ist. Die letzten Labortests zur Navigationsgenauigkeit verliefen erfolgreich. Kleinere Anpassungen an der Greifarm-Software werden aktuell vorgenommen und sollen bis Ende nächster Woche abgeschlossen sein. SF ergänzt, dass nach Abschluss dieser Anpassungen und der finalen Freigabe durch die Entwicklung die Pilotproduktion für eine Kleinserie von 10 Einheiten im nächsten Monat starten kann. Die Serienproduktion ist dann für Q4 geplant.\n\n**TOP 4 Lieferengpässe bei Schlüsselkomponenten**\n\nMS berichtet über anhaltende Schwierigkeiten bei der Beschaffung spezifischer Hochleistungs-Microchips von unserem Hauptlieferanten aus Asien. Diese Chips sind essenziell für die Steuerungseinheit des neuen LR-500. Eine Lieferung wird aktuell erst für August zugesagt, was den Zeitplan für die Serienproduktion gefährden könnte. SF bestätigt, dass die Produktion anderer Modelle davon nicht betroffen ist. MS wurde beauftragt, dringend alternative Lieferanten in Europa zu prüfen und bis zur nächsten Sitzung Ergebnisse vorzulegen.\n\n**TOP 5 Einführung neues Zeiterfassungssystem**\n\nTN stellt den Plan zur Einführung des neuen digitalen Zeiterfassungssystems „TimeFlow“ vor. Ziel ist die Verbesserung der Effizienz und die Einhaltung neuer gesetzlicher Vorgaben. Der Rollout soll unternehmensweit zum 30. Juni 20XX erfolgen. TN ist für die technische Implementierung verantwortlich. JR organisiert ab Anfang Juni verpflichtende Online-Schulungen für alle Mitarbeitenden zur Handhabung des Systems. Die Zugangsdaten werden rechtzeitig versandt.\n\n**TOP 6 Sonstiges (Messebeteiligung, Weiterbildung)**\n\nKB bestätigt die Teilnahme an der Fachmesse „LogiMAT“ in Stuttgart im kommenden September. Ziel ist die Präsentation des Produktportfolios und die Gewinnung von Neukunden. Die Firma wird durch AK und KB vertreten. \nJR weist auf eine kommende, verpflichtende Weiterbildung zum Thema „Datenschutz am Arbeitsplatz“ hin, die online stattfindet. Die genauen Termine werden noch per E-Mail bekanntgegeben. \n\nNächste Sitzung: 14. Juni 20XX, 09:00 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Lieferprobleme",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "führen zu einem Produktionsstopp aller Robotermodelle."
+                },
+                {
+                    "key": "b",
+                    "text": "betreffen Microchips für den neuen Logistikroboter."
+                },
+                {
+                    "key": "c",
+                    "text": "werden hauptsächlich von Herrn Fischer (SF) gelöst."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Vertriebsprognose für Q3",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "liegt bei über 20% Steigerung."
+                },
+                {
+                    "key": "b",
+                    "text": "erwartet ein deutliches Wachstum im Automobilsektor."
+                },
+                {
+                    "key": "c",
+                    "text": "zeigt einen Rückgang der Aufträge an."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Logistikroboter LR-500",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat die Labortests erfolgreich abgeschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "befindet sich bereits in der Serienproduktion."
+                },
+                {
+                    "key": "c",
+                    "text": "kann wegen aktueller Softwareprobleme noch nicht starten."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das neue Zeiterfassungssystem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird zuerst nur in der Personalabteilung getestet."
+                },
+                {
+                    "key": "b",
+                    "text": "löst das alte System wegen häufiger Fehler ab."
+                },
+                {
+                    "key": "c",
+                    "text": "wird Ende Juni eingeführt und erfordert Schulungen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Messebeteiligung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet in Frankfurt statt und wird vom gesamten Management besucht."
+                },
+                {
+                    "key": "b",
+                    "text": "dient der Gewinnung von Neukunden auf der LogiMAT."
+                },
+                {
+                    "key": "c",
+                    "text": "ist für die Vorstellung des LR-500 im nächsten Jahr geplant."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

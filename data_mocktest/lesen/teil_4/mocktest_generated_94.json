@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**Datum:** 23. Oktober 20XX\n**Zeit:** 09:30 – 11:00 Uhr\n**Ort:** Besprechungsraum \"Eiche\", Firmenzentrale, Waldstraße 12, 67890 Musterstadt\n\n**Anwesende:**\n*   Herr Stefan Meier (SM, Geschäftsführer)\n*   Frau Lena Wagner (LW, Leitung Marketing & Vertrieb)\n*   Herr David Müller (DM, Leitung Produktion)\n*   Frau Ayşe Kaya (AK, Leitung Einkauf)\n*   Herr Thomas Schmidt (TS, Leitung Finanzen)\n*   Frau Julia Becker (JB, Leitung Personal)\n*   Herr Ben Fischer (BF, IT-Koordinator)\n\n**Entschuldigt:** Herr Klaus Vogel (KV, Qualitätsmanagement)\n\n**Sitzungsleitung:** Stefan Meier (SM)\n**Protokollant/in:** Julia Becker (JB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.09.20XX\n2.  Aktuelle Marktsituation und Vertriebszahlen Q3\n3.  Optimierung der Produktionsabläufe – Vorstellung erster Ideen\n4.  Einführung des neuen Online-Konfigurators\n5.  Personalbedarf und Ausbildungsplätze 20XX+1\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.09.20XX**\n\nSM begrüßt die Anwesenden. Er bittet um Genehmigung des Protokolls der letzten Sitzung. AK weist darauf hin, dass unter TOP 4 die Frist für die Lieferantenbewertung fälschlicherweise mit Ende Oktober angegeben wurde; korrekt sei Mitte November. Nach Aufnahme dieser Korrektur wird das Protokoll vom 15.09. einstimmig genehmigt.\n\n**TOP 2 Aktuelle Marktsituation und Vertriebszahlen Q3**\n\nLW präsentiert die Vertriebszahlen für das dritte Quartal. Insgesamt zeigt sich eine leichte Stagnation im Vergleich zum Vorjahr. Besonders der Absatz der Standard-Bürostuhlserie \"Basic Comfort\" ist aufgrund neuer Konkurrenzprodukte zurückgegangen. Erfreulich entwickelt sich jedoch der Direktvertrieb über den Online-Shop, dessen Umsatz um 15% gestiegen ist. LW wird bis zur nächsten Sitzung eine detailliertere Analyse der einzelnen Produktgruppen und Vertriebskanäle vorlegen.\n\n**TOP 3 Optimierung der Produktionsabläufe – Vorstellung erster Ideen**\n\nDM stellt verschiedene Ansätze zur Effizienzsteigerung in der Produktion vor, insbesondere zur Reduzierung von Materialverschnitt bei Holzzuschnitten. Die Ideen zielen darauf ab, Kosten zu senken und nachhaltiger zu produzieren. Eine erste Schätzung ergibt ein mögliches Einsparpotenzial von bis zu 8% bei den Materialkosten für die betroffenen Linien. Es wird beschlossen, zunächst ein Pilotprojekt auf der Produktionslinie für die \"FlexiDesk\"-Serie zu starten. DM ist verantwortlich für die Ausarbeitung eines detaillierten Plans für dieses Pilotprojekt bis Ende November.\n\n**TOP 4 Einführung des neuen Online-Konfigurators**\n\nBF berichtet über den aktuellen Stand des neuen Online-Konfigurators. Die technische Entwicklung ist abgeschlossen und die Software wurde intern erfolgreich getestet. Kleinere Bugs wurden bereits behoben. Bevor der Konfigurator für Kunden live geschaltet werden kann, ist jedoch eine intensive Schulung der Vertriebs- und Servicemitarbeiter erforderlich. Diese Schulungen sind für die zweite Novemberwoche geplant. Der offizielle Launch des Konfigurators ist für den 1. Dezember 20XX vorgesehen. LW bereitet die entsprechenden Marketingmaßnahmen zur Einführung vor.\n\n**TOP 5 Personalbedarf und Ausbildungsplätze 20XX+1**\n\nJB erläutert den Personalbedarf für das kommende Jahr. Aufgrund der guten Auftragslage in der Maßanfertigung werden dringend zwei zusätzliche Tischler/innen oder Holzmechaniker/innen für die Produktion benötigt. Des Weiteren werden für den Ausbildungsstart im August 20XX+1 insgesamt drei Ausbildungsplätze angeboten: zwei als Holzmechaniker/in und einer als Kaufmann/Kauffrau für Marketingkommunikation. JB bittet die Anwesenden um Empfehlungen geeigneter Kandidaten aus dem internen oder externen Umfeld bis spätestens 15. November.\n\n**TOP 6 Sonstiges**\n\nSM informiert darüber, dass KreativMöbel GmbH im kommenden Februar an der Fachmesse \"Office World\" in Köln teilnehmen wird. Dies ist eine wichtige Gelegenheit, die neuen Produkte und den Online-Konfigurator einem breiten Fachpublikum zu präsentieren. LW wird die Organisation des Messestandes koordinieren. Weitere Details werden in einer separaten Projektbesprechung geklärt. Keine weiteren Wortmeldungen. SM schließt die Sitzung um 10:55 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der Septembersitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Anmerkungen akzeptiert."
+                },
+                {
+                    "key": "b",
+                    "text": "musste bezüglich eines Termins korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird in der nächsten Sitzung genehmigt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Maßnahmen zur Produktionsoptimierung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurden bereits vollständig umgesetzt."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen vorerst nur in einem Bereich getestet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhalten vor allem die Einstellung neuer Mitarbeiter."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der neue Online-Konfigurator",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits für Kunden nutzbar."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von Frau Wagner technisch betreut."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt noch eine Schulung der Mitarbeiter."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Im Bereich Personal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden ausschließlich neue Auszubildende gesucht."
+                },
+                {
+                    "key": "b",
+                    "text": "gibt es aktuell keinen Bedarf an neuen Mitarbeitern."
+                },
+                {
+                    "key": "c",
+                    "text": "sucht man Fachkräfte für die Produktion."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Firma KreativMöbel GmbH",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird im nächsten Jahr keine Messen besuchen."
+                },
+                {
+                    "key": "b",
+                    "text": "plant die Teilnahme an einer Fachmesse."
+                },
+                {
+                    "key": "c",
+                    "text": "verzeichnet stark sinkende Verkaufszahlen in allen Bereichen."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**14. August 20XX, 09:30 – 11:00 Uhr**\n**Ort:** Konferenzraum Alpha, Firmenzentrale, Industriestraße 5, 12345 Neustadt\n\n**Anwesende:**\n*   Herr Dr. Klaus Richter (KR, Geschäftsführer)\n*   Frau Sabine Keller (SK, Leitung Produktion)\n*   Herr Markus Weber (MW, Leitung Vertrieb)\n*   Frau Lena Vogel (LV, Leitung IT)\n*   Herr Jan Schmidt (JS, Leitung Personal)\n*   Frau Petra Neumann (PN, Qualitätsmanagement)\n*   Herr Ben Fischer (BF, Assistenz der Geschäftsführung)\n\n**Entschuldigt:**\n*   Herr David Meier (DM, Leitung Finanzen)\n\n**Sitzungsleitung:** Herr Dr. Klaus Richter (KR)\n**Protokoll:** Herr Ben Fischer (BF)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls der letzten Sitzung\n2.  Aktuelle Produktionszahlen und Engpässe\n3.  Markteinführung Produktlinie \"X-Connect\"\n4.  Implementierung neues CRM-System\n5.  Personalplanung Q4\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls der letzten Sitzung**\n\nKR begrüßt die Anwesenden. Er bittet um Genehmigung des Protokolls der Sitzung vom 10. Juli 20XX. PN merkt an, dass unter TOP 3 des alten Protokolls eine falsche Chargennummer für die Qualitätsprüfung genannt wurde; die korrekte Nummer sei 765B, nicht 756B. BF notiert die Korrektur. Mit dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen und Engpässe**\n\nSK präsentiert die Produktionszahlen für Juli. Während die Komponenten B12 und C4 über Plan lagen, wurden die Ziele für die Komponente A7 um ca. 5% verfehlt. Als Hauptgrund nennt SK unerwartete Lieferverzögerungen beim Zulieferer Alpha GmbH für benötigte Halbleiter. Die Maschinenverfügbarkeit war im Berichtszeitraum gut, es gab keine größeren Ausfälle. Um den Rückstand aufzuholen und die Aufträge für August termingerecht zu erfüllen, schlägt SK vor, in Kalenderwoche 34 und 35 für die A7-Linie bezahlte Überstunden am Samstag anzubieten. Dies wird nach kurzer Diskussion genehmigt. JS wird die Organisation mit dem Betriebsrat abstimmen.\n\n**TOP 3 Markteinführung Produktlinie \"X-Connect\"**\n\nMW berichtet über den Stand der Vorbereitungen für die neue Produktlinie \"X-Connect\". Die Produktmuster sind fertig und die ersten internen Tests durch PN verliefen positiv. Der offizielle Verkaufsstart ist weiterhin für Anfang November geplant. Als zentrale Marketingmaßnahme zur Einführung wird das Produkt auf der internationalen Elektronikmesse \"Electronica\" in München Mitte Oktober prominent vorgestellt. MW bestätigt, dass der Messestand bereits gebucht ist und die Marketingmaterialien (Broschüren, Online-Banner) in Arbeit sind. Eine separate Online-Kampagne startet parallel zur Messe.\n\n**TOP 4 Implementierung neues CRM-System**\n\nLV informiert über die Einführung des neuen CRM-Systems \"SalesFlow\". Die technische Implementierung auf den Servern ist abgeschlossen und die Datenmigration aus dem Altsystem erfolgte erfolgreich. Erste Rückmeldungen von Testnutzern aus dem Vertrieb sind überwiegend positiv, es wurden nur kleinere Anpassungswünsche bezüglich der Report-Ansichten geäußert, die bereits umgesetzt wurden. LV betont jedoch, dass eine umfassende Nutzung erst nach Abschluss der Anwenderschulungen sinnvoll ist. Sie wird bis Ende August einen Plan für verpflichtende Halbtagesschulungen für alle Mitarbeiterinnen und Mitarbeiter im Vertrieb und Kundenservice vorlegen. Diese sollen im September stattfinden.\n\n**TOP 5 Personalplanung Q4**\n\nJS stellt den Personalbedarf für das vierte Quartal vor. Aufgrund der erwarteten Auftragslage und der geplanten Projekte gibt es zusätzlichen Bedarf. Nach Diskussion wird beschlossen, zwei neue Stellen in der Produktion (Montage) und eine Stelle im IT-Support (Fokus CRM-Betreuung) auszuschreiben. Die Stellenausschreibungen sollen intern und extern bis spätestens Mitte September veröffentlicht werden. Ziel ist eine Besetzung zum 1. Dezember. Weitere Abteilungen meldeten aktuell keinen zusätzlichen Bedarf an.\n\n**TOP 6 Sonstiges**\n\nKR erinnert daran, dass die MüllerTech GmbH im nächsten Jahr ihr 25-jähriges Firmenjubiläum feiert. Er bittet darum, dass sich aus jeder Abteilung (Produktion, Vertrieb, IT, Personal, QM, Finanzen) ein Freiwilliger meldet, um in einem kleinen Komitee die Planung für eine angemessene Feier im Sommer nächsten Jahres zu unterstützen. BF wird die Interessenten sammeln. Die nächste reguläre Sitzung findet am 11. September 20XX statt.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Einwände angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "enthält keine Angaben zu Qualitätsprüfungen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Produktionsergebnisse",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "litten unter häufigen Maschinenausfällen."
+                },
+                {
+                    "key": "b",
+                    "text": "waren wegen Lieferproblemen etwas unter dem Ziel."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen durch Personalabbau verbessert werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Produktlinie \"X-Connect\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits erfolgreich am Markt eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "verzögert sich wegen Produktionsproblemen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird im Oktober auf einer Messe vorgestellt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das neue CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert noch eine Schulung für den Vertrieb."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von den Mitarbeitern überwiegend abgelehnt."
+                },
+                {
+                    "key": "c",
+                    "text": "ist wegen technischer Fehler noch nicht nutzbar."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Personalplanung für das vierte Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde auf die nächste Sitzung vertagt."
+                },
+                {
+                    "key": "b",
+                    "text": "sieht Neueinstellungen für Produktion und IT vor."
+                },
+                {
+                    "key": "c",
+                    "text": "betrifft ausschließlich die Produktionsabteilung."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

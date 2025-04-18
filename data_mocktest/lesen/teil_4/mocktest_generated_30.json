@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Oktober 20XX, 10:00 – 11:15 Uhr**\n**Ort:** Konferenzraum 'Alpenblick', Hauptstraße 42, 80331 München\n\n**Anwesende:**\n*   Dr. Elena Weber (EW, Geschäftsführung)\n*   Markus Schmidt (MS, Technischer Leiter / CTO)\n*   Laura Becker (LB, Leitung Vertrieb)\n*   Ben Wagner (BW, Leitung Projektmanagement)\n*   Sarah König (SK, Leitung Personal)\n*   David Fischer (DF, Senior Consultant)\n*   Anna Ziegler (AZ, Leitung Marketing)\n\n**Sitzungsleitung:** Dr. Elena Weber (EW)\n**Protokollant:** Markus Schmidt (MS)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 14.09.20XX\n2.  Projektstatus \"Projekt Alpha\"\n3.  Aktuelle Vertriebszahlen und Kundenfeedback\n4.  Update IT-Infrastruktur: Neuer Server & IT-Sicherheit\n5.  Personal: Mitarbeiterzufriedenheit & Fortbildungsplan\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 14.09.20XX**\n\nEW begrüßt die Anwesenden. Das Protokoll der Sitzung vom 14. September 20XX wird ohne Einwände oder Änderungswünsche einstimmig genehmigt.\n\n**TOP 2 Projektstatus \"Projekt Alpha\"**\n\nBW berichtet über den aktuellen Stand von Projekt Alpha. Das Projekt liegt aktuell etwa eine Woche hinter dem ursprünglichen Zeitplan. Hauptgrund hierfür sind Verzögerungen bei der Lieferung einer Schlüsselkomponente durch einen externen Zulieferer. BW koordiniert die Abstimmung mit dem Zulieferer und interne Maßnahmen, um die verlorene Zeit möglichst wieder aufzuholen. Der nächste wichtige Meilenstein, die Fertigstellung des Moduls Beta, ist nun für den 15. November angesetzt. Der Kunde wurde über die leichte Verzögerung informiert.\n\n**TOP 3 Aktuelle Vertriebszahlen und Kundenfeedback**\n\nLB präsentiert die Vertriebszahlen für das dritte Quartal. Insgesamt liegen die Umsätze 5% über dem Vorjahresquartal, was hauptsächlich auf starke Verkäufe im Bereich der maßgeschneiderten Softwarelösungen zurückzuführen ist. Der Bereich Standardsoftware stagniert hingegen. LB berichtet außerdem über gesammeltes Kundenfeedback der letzten Wochen: Das Support-Team wird häufig für seine schnelle Reaktionszeit gelobt. Mehrere Neukunden bemängelten jedoch die Übersichtlichkeit und Vollständigkeit der technischen Dokumentation für die neu eingeführte Software-Suite 'Innovatec Pro'. LB wird bis Ende des Monats einen Vorschlag zur Überarbeitung der Dokumentation erstellen.\n\n**TOP 4 Update IT-Infrastruktur: Neuer Server & IT-Sicherheit**\n\nMS gibt ein Update zur Implementierung des neuen zentralen Firmenservers. Die Hardware ist installiert, die Grundkonfiguration abgeschlossen. Kleinere Probleme gibt es noch bei der Anbindung einiger spezifischer Abteilungsanwendungen; MS ist zuversichtlich, diese bis Ende nächster Woche zu lösen. Im Bereich IT-Sicherheit kündigt MS eine firmenweite, verpflichtende Schulung zum Thema Phishing und Passwortsicherheit an. Diese wird voraussichtlich im November stattfinden, die genauen Termine werden noch bekannt gegeben.\n\n**TOP 5 Personal: Mitarbeiterzufriedenheit & Fortbildungsplan**\n\nSK stellt die Ergebnisse der kürzlich durchgeführten anonymen Mitarbeiterbefragung vor. Die allgemeine Zufriedenheit ist leicht gesunken, insbesondere im Bereich interne Kommunikation gibt es Verbesserungsbedarf. Positiv bewertet wurden die flexiblen Arbeitszeitmodelle. SK wird Vorschläge zur Verbesserung der internen Kommunikation ausarbeiten. Bezüglich Fortbildungen informiert SK über eine geplante Schulung zur neuen Projektmanagement-Software, die im November für alle Mitarbeiter in Projektteams verpflichtend sein wird. Weitere optionale Angebote sind in Planung.\n\n**TOP 6 Sonstiges**\n\nEW erinnert an den bevorstehenden jährlichen Firmenausflug am 28. Oktober. Details zum Programm wurden bereits per E-Mail versandt. AZ fragt nach dem Stand der Planung für die Weihnachtsfeier; EW antwortet, dass die Organisation gerade beginnt und Vorschläge willkommen sind. Keine weiteren Punkte. Die Sitzung endet pünktlich um 11:15 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Projekt Alpha",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird pünktlich bis Mitte November abgeschlossen sein."
+                },
+                {
+                    "key": "b",
+                    "text": "liegt wegen Lieferschwierigkeiten leicht hinter dem Zeitplan."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt dringend mehr Personalressourcen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Kundenfeedback",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigt Verbesserungsbedarf bei der Produktdokumentation."
+                },
+                {
+                    "key": "b",
+                    "text": "fiel insgesamt sehr positiv aus."
+                },
+                {
+                    "key": "c",
+                    "text": "führte zur sofortigen Überarbeitung des Supports."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die IT-Sicherheit",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde durch den neuen Server bereits deutlich verbessert."
+                },
+                {
+                    "key": "b",
+                    "text": "wird aktuell durch freiwillige Workshops gefördert."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordert eine baldige, verpflichtende Schulung der Mitarbeiter."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Geplante Fortbildungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind für bestimmte Mitarbeitergruppen obligatorisch."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen die allgemeine Mitarbeiterzufriedenheit steigern."
+                },
+                {
+                    "key": "c",
+                    "text": "umfassen vor allem allgemeine Management-Themen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Protokoll dieser Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "des Vormonats musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird vom Technischen Leiter verfasst."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von der Geschäftsführung selbst geschrieben."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**22. November 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Besprechungsraum 3, Hauptgebäude, Industriestraße 12, 98765 Neustadt\n\n**Anwesende:**\n*   Herr Klaus Richter (KR, Geschäftsführer) - Sitzungsleitung\n*   Frau Dr. Sabine Weber (SW, Leitung Produktion)\n*   Herr Markus Lange (ML, Leitung Vertrieb)\n*   Frau Hanna Bauer (HB, Leitung Einkauf)\n*   Herr Cem Yilmaz (CY, Leitung Qualitätssicherung)\n*   Frau Lena Mayer (LM, Leitung IT)\n*   Herr Paul Neumann (PN, Leitung Personal)\n*   Herr David Fink (DF, Assistenz der Geschäftsführung) - Protokollant\n\n**Entschuldigt:** Frau Eva Schuster (ES, Leitung Finanzen)\n**Gast:** Herr Dr. Jens Schröder (JS, Externer Berater - Qualitätsmanagement)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 25. Oktober 20XX\n2.  Aktuelle Marktlage und Vertriebsergebnisse\n3.  Qualitätsoffensive \"Q-Plus 20XX+1\" – Statusbericht (Gast: Dr. Schröder)\n4.  Produktionskapazitäten und Lieferzeiten\n5.  Digitalisierungsprojekt: Einführung Kundenportal\n6.  Planung Messe \"AeroTech\" Frühjahr 20XX+1\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 25. Oktober 20XX**\n\nKR begrüßt die Anwesenden sowie den Gast Dr. Schröder. Er bittet um Genehmigung des Protokolls der letzten Sitzung vom 25.10. HB weist auf eine nötige Korrektur bei den unter TOP 4 genannten Materialkosten für Stahl hin; der Betrag war falsch wiedergegeben. Nach Eintragung der Korrektur durch DF wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Marktlage und Vertriebsergebnisse**\n\nML präsentiert die Vertriebszahlen für Oktober. Der Gesamtumsatz lag 3% über dem Plan, jedoch 2% unter dem starken Vorjahresmonat. Besonders erfreulich entwickelte sich der Aerospace-Bereich (+8% ggü. Plan) dank eines neuen Großkunden. Der Automotive-Sektor blieb hingegen 5% unter Plan, was ML auf die allgemeinen Lieferkettenprobleme in dieser Branche zurückführt. Die Prognose für das restliche Q4 bleibt verhalten optimistisch.\n\n**TOP 3 Qualitätsoffensive \"Q-Plus 20XX+1\" – Statusbericht**\n\nGast Dr. Schröder (JS) stellt die Ergebnisse der letzten Audit-Phase des Projekts \"Q-Plus\" vor. Er lobt die bereits erfolgreich umgesetzten Prozessverbesserungen in der Endkontrolle. Gleichzeitig mahnt er jedoch an, die interne Dokumentation der Prüfschritte weiterhin konsequent und lückenlos zu verfolgen, hier gäbe es noch Verbesserungspotenzial. JS schlägt vor, im nächsten Quartal einen vertiefenden Workshop zur Fehlerursachenanalyse (Root Cause Analysis) für die Teamleiter durchzuführen. Der Vorschlag wird zur Prüfung und Planung an CY weitergegeben.\n\n**TOP 4 Produktionskapazitäten und Lieferzeiten**\n\nSW berichtet von einer weiterhin sehr hohen Auslastung in der Produktion, insbesondere bei den CNC-Fräsmaschinen vom Typ ZX5, die nahezu rund um die Uhr laufen. Materialengpässe bei speziellen Titanlegierungen bestehen leider weiterhin, obwohl HB an alternativen Lieferanten arbeitet. Diese Faktoren führen aktuell zu durchschnittlich 4 Werktagen längeren Lieferzeiten als geplant. Es wurde daher beschlossen, ab nächster Woche vorübergehend Samstagsarbeit in der Fräserei einzuführen, um den Auftragsstau abzuarbeiten.\n\n**TOP 5 Digitalisierungsprojekt: Einführung Kundenportal**\n\nLM berichtet über das Projekt Kundenportal. Die interne Testphase mit ausgewählten Mitarbeitern des Vertriebsteams ist erfolgreich abgeschlossen. Kleinere Bugs im Bestellmodul wurden identifiziert und bereits behoben. Der Rollout für die Top-10-Schlüsselkunden ist nun verbindlich für Mitte Januar 20XX+1 geplant. Eine Online-Schulung für die Ansprechpartner dieser Kunden wird derzeit von LM und ML gemeinsam vorbereitet. LM ist für die technische Umsetzung und Wartung verantwortlich, ML für die Kundenkommunikation und das Einholen von Feedback.\n\n**TOP 6 Planung Messe \"AeroTech\" Frühjahr 20XX+1**\n\nML informiert über die Planungen zur wichtigen Branchenmesse AeroTech im März 20XX+1. Der Standplatz in Halle B4 ist fest gebucht. Die Agentur 'DesignWorks' arbeitet derzeit am finalen Standkonzept; eine Präsentation für KR und ML ist für Ende November angesetzt. Das Gesamtbudget wurde von KR grundsätzlich genehmigt, unterliegt aber noch der finalen Kostenprüfung des detaillierten Standbau-Angebots. Die verbindliche Personalplanung für den Stand (wer ist an welchen Tagen vor Ort) muss bis zum 15.12. abgeschlossen sein. Hauptziel der Messe ist die Generierung von qualifizierten Leads im Aerospace-Sektor.\n\n**TOP 7 Sonstiges**\n\nPN weist auf den Bedarf an einer aktualisierten Schulung zum Thema Arbeitssicherheit für die Produktionsmitarbeiter hin; Termine werden gesucht. KR informiert kurz, dass die diesjährige Weihnachtsfeier am Freitag, den 16.12., stattfinden wird. Details zum Ort und Ablauf folgen per separater Einladung.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom Oktober",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst nach der Sitzung angepasst."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Dr. Schröder",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kritisierte die bisherigen Projektfortschritte."
+                },
+                {
+                    "key": "b",
+                    "text": "hat einen zusätzlichen Workshop angeleitet."
+                },
+                {
+                    "key": "c",
+                    "text": "machte einen Vorschlag für das weitere Vorgehen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Längere Lieferzeiten",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind hauptsächlich auf Personalmangel zurückzuführen."
+                },
+                {
+                    "key": "b",
+                    "text": "betragen zurzeit etwa vier Arbeitstage."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen durch den Kauf neuer Maschinen reduziert werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue Kundenportal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "steht bereits allen Kunden zur Verfügung."
+                },
+                {
+                    "key": "b",
+                    "text": "wird ab Mitte Januar von den ersten Kunden genutzt werden können."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Herrn Lange technisch betreut."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Messe \"AeroTech\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet bereits im Dezember statt."
+                },
+                {
+                    "key": "b",
+                    "text": "dient vorrangig der Gewinnung neuer Geschäftskontakte."
+                },
+                {
+                    "key": "c",
+                    "text": "verfügt über ein vollständig bestätigtes Budget."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

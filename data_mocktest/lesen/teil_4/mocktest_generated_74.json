@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll - Leitungssitzung\n\n**12. September 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum „Hamburg“, Firmenzentrale, Möbelallee 5, 22761 Hamburg\n\n**Anwesende:**\n*   Dr. Elena Weiß (EW, Geschäftsführung)\n*   Markus Bauer (MB, Leitung Produktion)\n*   Sandra Keller (SK, Leitung Verkauf)\n*   Jörg Richter (JR, Leitung Einkauf)\n*   Anna Schuster (AS, Leitung Marketing)\n*   Lars Neumann (LN, Leitung Nachhaltigkeitsmanagement)\n*   Tim Fischer (TF, Assistenz Geschäftsführung)\n\n**Gast:**\n*   Rita Singh (RS, IT-Systeme)\n\n**Sitzungsleitung:** Dr. Elena Weiß (EW)\n**Protokollant:** Tim Fischer (TF)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.08.20XX\n2.  Aktuelle Marktlage & Verkaufszahlen Q3\n3.  Nachhaltigkeitsbericht & Initiative „Grünes Büro“\n4.  Umstellung auf recycelte Verpackungsmaterialien\n5.  Einführung neues IT-System Lagerverwaltung\n6.  Sonstiges (Messeplanung \"Orgatec\", Mitarbeiterfest)\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.08.20XX**\n\nEW begrüßt alle Anwesenden sowie den Gast Frau Singh. Sie verweist auf das Protokoll der letzten Sitzung vom 15. August 20XX, das allen vorab zugesendet wurde. Es gibt keine Wortmeldungen zu Korrekturen oder Ergänzungen. Das Protokoll wird somit einstimmig genehmigt.\n\n**TOP 2 Aktuelle Marktlage & Verkaufszahlen Q3**\n\nSK präsentiert die Verkaufszahlen für das dritte Quartal. Insgesamt liegt der Umsatz 8% über dem des Vorjahresquartals (Q3/20XX-1). Besonders erfreulich entwickelte sich der Bereich der ergonomischen Bürostühle mit einem Plus von 15%, was SK auf die erfolgreichen Online-Marketingkampagnen zurückführt. Leichte Rückgänge (-5%) gab es jedoch bei den Standard-Schreibtischen, hier macht sich laut SK der gestiegene Wettbewerbsdruck bemerkbar. EW dankt für den Bericht und betont die Wichtigkeit, auf Marktveränderungen flexibel zu reagieren.\n\n**TOP 3 Nachhaltigkeitsbericht & Initiative „Grünes Büro“**\n\nLN stellt die Kernpunkte des ersten internen Nachhaltigkeitsberichts vor und erläutert die geplante Initiative „Grünes Büro“, die ab Oktober starten soll. Konkrete erste Maßnahmen umfassen die Umrüstung der Bürobeleuchtung auf LED bis Jahresende (Verantwortlich: JR in Abstimmung mit LN), die zentrale Einstellung von doppelseitigem Druck als Standard an allen Büroarbeitsplätzen (Verantwortlich: RS/IT) sowie eine Informationskampagne zur Förderung der Fahrradnutzung für den Arbeitsweg. LN koordiniert die Initiative und wird regelmäßig berichten.\n\n**TOP 4 Umstellung auf recycelte Verpackungsmaterialien**\n\nJR berichtet über die geplante Umstellung der Produktverpackungen ab dem vierten Quartal (Q4). Ziel ist es, den Einsatz von neuem Kunststoff und Styropor drastisch zu reduzieren. Konkret sollen Styropor-Formteile durch passgenaue Einsätze aus stabiler Wellpappe ersetzt werden. Wo weiterhin Schutzfolien nötig sind, wird auf Folien aus zertifiziertem Recycling-Kunststoff umgestiegen. MB (Produktion) bestätigt die technische Machbarkeit. JR räumt ein, dass die Kosten für die Wellpappe-Einsätze zunächst etwas höher liegen, man verspricht sich aber neben der positiven Umweltwirkung auch Marketingvorteile und langfristig keine Mehrkosten durch effizientere Prozesse.\n\n**TOP 5 Einführung neues IT-System Lagerverwaltung**\n\nRS informiert über die bevorstehende Einführung des neuen IT-Systems für die Lagerverwaltung. Das System geht am kommenden Montag offiziell in Betrieb („Go-Live“). Es soll die Genauigkeit der Bestandsdaten erhöhen und die Kommissionierprozesse im Lager beschleunigen. Eine verpflichtende Schulung für alle Mitarbeitenden der Lagerlogistik findet am kommenden Freitag unter Leitung von RS statt. Andere Abteilungen erhalten bei Bedarf separate Einweisungen.\n\n**TOP 6 Sonstiges (Messeplanung \"Orgatec\", Mitarbeiterfest)**\n\nAS gibt einen kurzen Ausblick auf die Messeplanung. Die Teilnahme an der „Orgatec“ in Köln im nächsten Frühjahr ist fest geplant. Details zum Standkonzept folgen. Bezüglich des jährlichen Mitarbeiterfestes informiert EW, dass dieses wie üblich im Dezember stattfinden soll. Ein genauer Termin steht noch nicht fest. AS wird beauftragt, Vorschläge für Datum und Ort zu erarbeiten und in der nächsten Sitzung vorzustellen. EW beendet die Sitzung pünktlich um 11:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der vorherigen Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste von Herrn Fischer korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde in der heutigen Sitzung bestätigt."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt Fehler bei den Teilnehmerlisten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Verkauf im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigte ein besseres Ergebnis als im Vorjahr."
+                },
+                {
+                    "key": "b",
+                    "text": "war bei allen Produktgruppen rückläufig."
+                },
+                {
+                    "key": "c",
+                    "text": "übertraf die Verkäufe des zweiten Quartals deutlich."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Im Rahmen der Initiative „Grünes Büro“",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "leitet Herr Neumann alle Umsetzungsmaßnahmen allein."
+                },
+                {
+                    "key": "b",
+                    "text": "wird ab sofort nur noch Recyclingpapier verwendet."
+                },
+                {
+                    "key": "c",
+                    "text": "soll unter anderem die Beleuchtung modernisiert werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Umstellung der Verpackungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfolgt, weil die alten Materialien zu teuer waren."
+                },
+                {
+                    "key": "b",
+                    "text": "beinhaltet den Einsatz von Pappe und recyceltem Kunststoff."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst im nächsten Jahr beginnen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Für das neue IT-Lagersystem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet eine Schulung für alle Abteilungen statt."
+                },
+                {
+                    "key": "b",
+                    "text": "ist Frau Singh von der IT zuständig."
+                },
+                {
+                    "key": "c",
+                    "text": "erwartet man eine einfachere Bedienung für die Kunden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

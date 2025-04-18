@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll - Monatliches Leitungsteam-Meeting\n\n**22. Oktober 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Konferenzraum \"Sonne\", BioFeld GmbH, Am Grünen Hügel 12, 87654 Ökodorf\n\n**Anwesende:**\n*   Sabine Müller (SM, Geschäftsführung)\n*   Markus Weber (MW, Leitung Einkauf)\n*   Julia Kramer (JK, Leitung Verkauf & Marketing)\n*   David Chen (DC, Leitung Logistik)\n*   Elena Petrova (EP, Leitung Finanzen & Personal)\n*   Finn Lange (FL, IT-Koordinator)\n\n**Entschuldigt:** Keiner\n\n**Sitzungsleitung:** Sabine Müller (SM)\n**Protokollantin:** Elena Petrova (EP)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 18.09.20XX\n2.  Ergebnisse der Kundenzufriedenheitsumfrage (Juli-Sept 20XX)\n3.  Planung Messeauftritt \"RegioBio Süd\" (Februar 20XY)\n4.  Logistikprobleme mit Lieferant \"Sonnenhof Bauern\"\n5.  Vorstellung neues Mitarbeiterportal\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 18.09.20XX**\n\nSM begrüßt das Leitungsteam. Das Protokoll der Sitzung vom 18. September wird ohne Änderungen einstimmig genehmigt.\n\n**TOP 2 Ergebnisse der Kundenzufriedenheitsumfrage (Juli-Sept 20XX)**\n\nJK präsentiert die Ergebnisse der letzten Kundenumfrage. Die Produktqualität wird von den Kunden weiterhin sehr geschätzt. Kritisiert wurden jedoch häufiger die Lieferzeiten, insbesondere bei Frischwaren wie Obst und Gemüse, sowie die Benutzerfreundlichkeit der Bestell-Webseite. JK schlägt vor, eine Arbeitsgruppe bestehend aus ihr, DC und FL zu bilden. Diese soll konkrete Vorschläge zur Optimierung der Lieferrouten und zur Verbesserung der Webseite erarbeiten. Es wird beschlossen, dass die Arbeitsgruppe ihre ersten Vorschläge in der nächsten Sitzung präsentiert.\n\n**TOP 3 Planung Messeauftritt \"RegioBio Süd\" (Februar 20XY)**\n\nJK stellt die Planungen für die Teilnahme an der Messe \"RegioBio Süd\" im kommenden Februar vor. Der Schwerpunkt des Auftritts soll auf der neu eingeführten Produktlinie veganer Spezialitäten liegen. EP bestätigt, dass das notwendige Budget für den Messeauftritt genehmigt ist. Es werden noch Konzepte für die Gestaltung des Messestands benötigt. MW wird beauftragt, Kontakt zu potenziellen regionalen Partnerbetrieben aufzunehmen, die als Mitaussteller in Frage kämen. JK soll MW dafür die genauen Stand-Spezifikationen bis Ende nächster Woche zukommen lassen.\n\n**TOP 4 Logistikprobleme mit Lieferant \"Sonnenhof Bauern\"**\n\nDC berichtet über wiederholte Probleme mit dem Lieferanten \"Sonnenhof Bauern\". Es komme in letzter Zeit häufig zu verspäteten und unvollständigen Lieferungen, was vor allem das saisonale Gemüseangebot betreffe. MW bestätigt, dass bisherige Versuche, die Situation mit dem Lieferanten zu klären, leider erfolglos blieben. Nach eingehender Diskussion wird beschlossen, dass MW umgehend nach zwei alternativen regionalen Lieferanten für Gemüse suchen und innerhalb von zwei Wochen darüber berichten soll. DC wird die aktuellen Lieferprobleme genau dokumentieren.\n\n**TOP 5 Vorstellung neues Mitarbeiterportal**\n\nFL präsentiert das neue interne Mitarbeiterportal \"BioNet\". Es bietet Funktionen wie einen internen News-Bereich, die digitale Beantragung von Urlaub sowie Zugriff auf wichtige Firmendokumente. Der Start des Portals ist für den 1. Dezember 20XX geplant. EP wird im November für alle Mitarbeitenden verpflichtende Schulungstermine organisieren. FL hebt hervor, dass bei der Entwicklung großer Wert auf Datensicherheit gelegt wurde.\n\n**TOP 6 Sonstiges**\n\nEP erinnert an die Abgabefrist für die Budgetplanung des kommenden Geschäftsjahres, die am 15. November endet. SM kündigt einen Betriebsausflug an: Am 10. Dezember ist ein Besuch bei einem Bio-Weingut in der Region geplant. Weitere Punkte werden nicht genannt. Die nächste Sitzung findet am 19. November statt.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Kundenzufriedenheit",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist hoch bei der Qualität, aber schlecht bei der Lieferung."
+                },
+                {
+                    "key": "b",
+                    "text": "war bei der Bedienung der Webseite besonders positiv."
+                },
+                {
+                    "key": "c",
+                    "text": "soll durch eine Arbeitsgruppe generell verbessert werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der Messeauftritt \"RegioBio Süd\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konzentriert sich auf das neue vegane Sortiment."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von Herrn Weber bezüglich möglicher Partner organisiert."
+                },
+                {
+                    "key": "c",
+                    "text": "hat noch kein bestätigtes Budget von der Finanzabteilung."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der Lieferant \"Sonnenhof Bauern\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sorgt für Probleme speziell bei saisonalem Gemüse."
+                },
+                {
+                    "key": "b",
+                    "text": "wird sofort gekündigt, weil Gespräche erfolglos waren."
+                },
+                {
+                    "key": "c",
+                    "text": "soll innerhalb von zwei Wochen besucht werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das neue Mitarbeiterportal \"BioNet\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird Anfang Dezember für alle Mitarbeiter eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von Herrn Lange im November für alle geschult."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bereits seit September in der Testphase."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Termine und Fristen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhalten eine Abgabefrist für Budgets Mitte November."
+                },
+                {
+                    "key": "b",
+                    "text": "sehen einen Betriebsausflug zum Lieferanten Sonnenhof vor."
+                },
+                {
+                    "key": "c",
+                    "text": "legen die nächste Sitzung auf den Tag des Betriebsausflugs."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

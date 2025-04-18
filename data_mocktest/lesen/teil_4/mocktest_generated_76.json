@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 14:00 – 15:45 Uhr**\n**Ort:** Konferenzraum 'Alpenblick', ÖkoVerpack GmbH, Grüner Weg 15, 8XXXX München\n\n**Anwesende:**\n*   Dr. Lena Weber (LW, Geschäftsführung)\n*   Markus Steiner (MS, Leitung Produktion)\n*   Julia Richter (JR, Leitung Marketing & Verkauf)\n*   David Koch (DK, Leitung IT)\n*   Anna Bergmann (AB, Leitung Personal)\n*   Ben Schmidt (BS, Leitung Einkauf)\n*   Gast: Clara Neumann (CN, Externe Beraterin - Nachhaltigkeit)\n\n**Sitzungsleitung:** Dr. Lena Weber (LW)\n**Protokollantin:** Anna Bergmann (AB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung, Genehmigung Protokoll vom 15.08.20XX\n2.  Update Projekt \"Kundenportal 2.0\"\n3.  Nachhaltigkeitsbericht Q3 & Maßnahmen (Präsentation CN)\n4.  Marketingkampagne \"Grüner Herbst\"\n5.  Personal: Neue Azubi-Stellen & Weiterbildung\n6.  Sonstiges\n\n**TOP 1 Begrüßung, Genehmigung Protokoll vom 15.08.20XX**\n\nLW begrüßt alle Anwesenden, insbesondere die externe Beraterin Frau Neumann. Sie bittet um Genehmigung des Protokolls der letzten Sitzung vom 15. August. DK meldet sich zu Wort und weist darauf hin, dass unter TOP 4 des alten Protokolls ein fehlerhaftes Zieldatum genannt wurde. Die Frist für die Lieferung der Testserver war nicht der 30.08., sondern der 05.09. gewesen. Nach dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Update Projekt \"Kundenportal 2.0\"**\n\nDK berichtet über den aktuellen Stand des Projekts \"Kundenportal 2.0\". Die Alpha-Testphase konnte letzte Woche erfolgreich abgeschlossen werden. Aufgrund unerwarteter Schwierigkeiten bei der Integration der neuen Portalfunktionen mit dem bestehenden ERP-System muss der Zeitplan jedoch angepasst werden. Die Beta-Testphase mit ausgewählten Pilotkunden kann daher erst nächste Woche beginnen.\nDer geplante Rollout für alle Kunden, ursprünglich für Q4 dieses Jahres vorgesehen, verschiebt sich dadurch voraussichtlich auf Q1 des kommenden Jahres. AB wird nach Abschluss der Beta-Phase entsprechende Anwenderschulungen für die Vertriebsmitarbeiter organisieren und koordinieren.\n\n**TOP 3 Nachhaltigkeitsbericht Q3 & Maßnahmen (Präsentation CN)**\n\nCN präsentiert die Ergebnisse des Nachhaltigkeitsberichts für das dritte Quartal. Das Ziel einer CO2-Reduktion um 10% im Vergleich zum Vorjahresquartal wurde mit 9,5% fast erreicht. Der Wasserverbrauch ist leicht gestiegen, was jedoch ausschließlich auf die Inbetriebnahme der neuen Produktionslinie für kompostierbare Folien zurückzuführen ist und nicht auf allgemeine Ineffizienzen.\nAls konkrete Maßnahme schlägt CN vor, für das Hauptverwaltungsgebäude (HQ) einen Wechsel zu einem zertifizierten Ökostromanbieter bis zum Jahresende durchzuführen. Andere Standorte sind davon vorerst nicht betroffen. BS wird beauftragt, bis zur nächsten Sitzung im Oktober mindestens drei Angebote von geeigneten Anbietern einzuholen und zu präsentieren.\n\n**TOP 4 Marketingkampagne \"Grüner Herbst\"**\n\nJR stellt die geplante Marketingkampagne \"Grüner Herbst\" vor, die am 01. Oktober starten soll. Der Fokus liegt auf der Bewerbung der neuen Produktlinie für biologisch abbaubare Versandverpackungen. Das Budget für die Kampagne wurde auf 25.000 EUR festgelegt und genehmigt. Als Hauptkanäle sind gezielte Social-Media-Aktionen sowie Anzeigen in relevanten Fachzeitschriften geplant. Auf teure Fernsehwerbung wird bewusst verzichtet.\nMS äußert Bedenken hinsichtlich der Produktionskapazitäten: Sollte die Nachfrage nach der neuen Linie durch die Kampagne um mehr als 20% über der Prognose liegen, könnten Engpässe entstehen. Es wird beschlossen, dass JR die Verkaufszahlen engmaschig überwacht und MS vorsorglich einen Notfallplan zur kurzfristigen Kapazitätserweiterung ausarbeitet.\n\n**TOP 5 Personal: Neue Azubi-Stellen & Weiterbildung**\n\nAB informiert, dass die Geschäftsführung der Schaffung von zwei zusätzlichen Ausbildungsplätzen zum/zur Kaufmann/-frau für Büromanagement zugestimmt hat. Diese Stellen sollen zum 01. August des nächsten Jahres besetzt werden. Damit wird die Gesamtzahl der Auszubildenden im Unternehmen auf fünf steigen.\nDes Weiteren kündigt AB eine verpflichtende Online-Schulung zum Thema Datenschutzgrundlagen für alle Mitarbeiterinnen und Mitarbeiter an. Diese soll im November stattfinden und eine Dauer von etwa zwei Stunden haben. Genaue Termine werden noch bekannt gegeben.\n\n**TOP 6 Sonstiges**\n\nLW teilt mit, dass am 10. Oktober ein wichtiger potenzieller Neukunde, die BioMarkt AG, das Unternehmen besuchen wird. Sie bittet MS, eine umfassende Werksführung für die Delegation zu organisieren. Weitere Punkte unter Sonstiges werden nicht angesprochen. Die Sitzung endet pünktlich um 15:45 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der August-Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte keine Zustimmung finden."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde ohne Änderungen akzeptiert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue Kundenportal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird noch dieses Jahr fertiggestellt."
+                },
+                {
+                    "key": "b",
+                    "text": "verursachte Probleme bei der ERP-Integration."
+                },
+                {
+                    "key": "c",
+                    "text": "wird von Herrn Koch für die Anwender geschult."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Nachhaltigkeitsbericht",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigt, dass das CO2-Ziel für Q3 erreicht wurde."
+                },
+                {
+                    "key": "b",
+                    "text": "nennt gestiegenen Wasserverbrauch als generelles Problem."
+                },
+                {
+                    "key": "c",
+                    "text": "führt zu einer Prüfung von Ökostrom für das Hauptgebäude."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Marketingkampagne \"Grüner Herbst\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "nutzt Fernsehwerbung als Hauptkanal."
+                },
+                {
+                    "key": "b",
+                    "text": "bewirbt ab Oktober eine neue Produktlinie."
+                },
+                {
+                    "key": "c",
+                    "text": "musste wegen Produktionsproblemen verschoben werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Personalmaßnahmen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sehen eine Schulung nur für neue Azubis vor."
+                },
+                {
+                    "key": "b",
+                    "text": "umfassen ab nächstem Jahr zwei neue Ausbildungsplätze."
+                },
+                {
+                    "key": "c",
+                    "text": "erhöhen die Gesamtzahl der Azubis auf zwei."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

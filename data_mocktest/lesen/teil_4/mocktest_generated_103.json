@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**10. Oktober 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Konferenzraum Alpha, Luxusallee 1, 80798 München\n\n**Anwesende:**\n*   Dr. Anke Schneider (AS, Geschäftsführung)\n*   Markus Weber (MW, Leitung Verkauf)\n*   Sabine Koch (SK, Leitung Produktion)\n*   Jonas Berger (JB, Leitung Marketing)\n*   Lena Haas (LH, Leitung IT)\n*   Klaus Richter (KR, Leitung Qualitätskontrolle)\n*   Petra Nowak (PN, Assistenz Geschäftsführung)\n\n**Sitzungsleitung:** Dr. Anke Schneider (AS)\n**Protokollantin:** Petra Nowak (PN)\n\n**Entschuldigt:** Thomas Klein (TK, Leitung Personal)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls der letzten Sitzung\n2.  Aktuelle Verkaufszahlen und Marktentwicklung\n3.  Projektstatus „Neuer Konferenzstuhl Serie 7“\n4.  Fortschritt Relaunch Unternehmenswebsite\n5.  Qualitätssicherung: Lieferantenbewertung Holzkomponenten\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls der letzten Sitzung**\n\nAS begrüßt die Anwesenden. Das Protokoll der Sitzung vom 12. September 20XX wird zur Genehmigung vorgelegt. KR merkt an, dass unter TOP 4 die Frist für die Überprüfung der Lackierprozesse fälschlicherweise mit Ende September statt Mitte Oktober angegeben war. Nach dieser Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen und Marktentwicklung**\n\nMW präsentiert die Verkaufszahlen für das dritte Quartal (Q3). Insgesamt liegt der Umsatz 8% über dem des zweiten Quartals. Besonders erfreulich entwickelte sich die „Executive Line“, deren Verkäufe um 15% stiegen, hauptsächlich durch Großaufträge aus dem Benelux-Raum. Eine Herausforderung bleibt der starke Wettbewerb im mittleren Preissegment, wo die Margen unter Druck stehen. MW schlägt vor, hier im nächsten Quartal gezielte Rabattaktionen zu prüfen.\n\n**TOP 3 Projektstatus „Neuer Konferenzstuhl Serie 7“**\n\nJB berichtet, dass die Marketingmaterialien (Broschüren, Online-Banner) fertiggestellt sind. Die Produktion unter Leitung von SK läuft planmäßig. Der offizielle Verkaufsstart ist weiterhin für Mitte November geplant. Es gibt jedoch eine leichte Verzögerung bei der Fertigstellung der französischen Übersetzung des Benutzerhandbuchs durch den externen Dienstleister. JB kümmert sich darum, dass die Übersetzung bis spätestens Ende Oktober vorliegt, damit der Launch nicht gefährdet wird.\n\n**TOP 4 Fortschritt Relaunch Unternehmenswebsite**\n\nLH informiert über den aktuellen Stand. Die Designphase ist abgeschlossen, die Programmierung der Kernfunktionen läuft. Der neue Online-Konfigurator für individuelle Stuhlvarianten ist technisch anspruchsvoller als gedacht. Es zeichnet sich ab, dass das ursprünglich kalkulierte Budget um ca. 10% überschritten werden könnte. AS bittet LH um eine detaillierte Kostenaufstellung bis zur nächsten Sitzung, dann wird entschieden. Der geplante Launch-Termin Ende Q1 des nächsten Jahres soll aber gehalten werden.\n\n**TOP 5 Qualitätssicherung: Lieferantenbewertung Holzkomponenten**\n\nKR berichtet über wiederholte kleinere Mängel (Farbabweichungen, feine Risse) bei Holzteilen des Lieferanten „HolzMeister GmbH“ in den letzten zwei Monaten. Dies führte vereinzelt zu Nacharbeiten in der Produktion. Nach kurzer Diskussion wird beschlossen, vorsorglich Muster bei einem potenziellen Alternativlieferanten, der „Edelholz AG“, anzufragen und deren Qualität zu prüfen. SK wird den Erstkontakt zur Edelholz AG herstellen und Muster für Tests anfordern. Eine Entscheidung über einen möglichen Lieferantenwechsel wird erst nach Prüfung der Muster getroffen.\n\n**TOP 6 Sonstiges**\n\nAS gibt bekannt, dass die Firma im nächsten Frühjahr definitiv an der Fachmesse „BüroWelt“ in Frankfurt teilnehmen wird. Sie bittet MW, JB und SK, bis Ende November erste Konzepte für den Messestand und die Produktpräsentation zu erarbeiten und vorzustellen. PN wird dazu für Anfang Dezember eine separate Besprechung ansetzen. Weitere Punkte werden nicht angesprochen. AS schließt die Sitzung um 10:43 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom September",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte heute nicht genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde erst nach einer Korrektur angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt falsche Teilnehmerangaben."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Verkaufsleiter berichtete, dass",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Gesamtumsatz im Vergleich zum Vorjahr stark stieg."
+                },
+                {
+                    "key": "b",
+                    "text": "die „Executive Line“ im dritten Quartal sehr erfolgreich war."
+                },
+                {
+                    "key": "c",
+                    "text": "es vor allem im mittleren Preissegment keine Probleme gab."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Einführung des Konferenzstuhls Serie 7",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist für November geplant und verläuft ohne Probleme."
+                },
+                {
+                    "key": "b",
+                    "text": "wird von Herrn Berger komplett allein verantwortet."
+                },
+                {
+                    "key": "c",
+                    "text": "könnte sich wegen der Handbuch-Übersetzung leicht verzögern."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Wegen Qualitätsproblemen mit Holz",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde die Zusammenarbeit mit HolzMeister GmbH sofort beendet."
+                },
+                {
+                    "key": "b",
+                    "text": "soll ein alternativer Lieferant getestet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "muss Frau Koch einen neuen Vertrag aushandeln."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Für die Messe „BüroWelt“",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollen bis Ende November Präsentationskonzepte vorliegen."
+                },
+                {
+                    "key": "b",
+                    "text": "wird die Teilnahme noch von Frau Schneider geprüft."
+                },
+                {
+                    "key": "c",
+                    "text": "ist Frau Nowak für die gesamte Organisation zuständig."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

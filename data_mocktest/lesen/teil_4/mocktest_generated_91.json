@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**14. November 20XX, 09:30 – 11:00 Uhr**\n**Ort:** Besprechungsraum 3, Industriestraße 42, 67890 Beispielstadt\n\n**Anwesende:**\n*   Markus Weber (MW, Geschäftsführung) - Sitzungsleitung\n*   Sonja Kraus (SK, Leitung Vertrieb)\n*   Bernd Müller (BM, Leitung Produktion)\n*   Lena Vogel (LV, Leitung Einkauf)\n*   Ahmed Khan (AK, Leitung IT)\n*   Claudia Hoffmann (CH, Leitung Personal) - Protokollantin\n*   Tim Schulz (TS, Qualitätssicherung)\n\n**Entschuldigt:**\n*   Frank Ziegler (FZ, Finanzen)\n\n**Sitzungsleitung:** Markus Weber\n**Protokollantin:** Claudia Hoffmann\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Aktueller Stand Produktion & Materialbeschaffung\n3.  Projekt \"Digitaler Kundenzugang\": Vorstellung Konzept\n4.  Planung Messe \"TechnoForma 20XX+1\"\n5.  Personalbedarf und geplante Schulungen\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nMW begrüßt die Anwesenden zur heutigen Sitzung. Anschließend wird das Protokoll der Sitzung vom 17. Oktober zur Genehmigung vorgelegt. SK bittet um Klarstellung bei TOP 3 des letzten Protokolls: Das Budget für die Online-Kampagne wurde *vorläufig* genehmigt, nicht final, wie es der Text suggerieren könnte. Mit dieser Klarstellung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktueller Stand Produktion & Materialbeschaffung**\n\nBM berichtet, dass die Produktion derzeit unter Vollauslastung läuft, um die hohe Nachfrage zu decken. Es gibt keine internen Produktionsprobleme. LV informiert jedoch über potenzielle Engpässe in der Materialbeschaffung. Während Lieferant A (Hauptkomponenten) sehr zuverlässig liefert, gibt es bei Lieferant B (Spezialdichtungen) wiederholt Verzögerungen, die kritisch werden könnten. LV wird beauftragt, bis Ende November dringend mindestens zwei alternative Lieferanten für diese Dichtungen zu evaluieren und Angebote einzuholen. MW betont die Wichtigkeit, hier schnell handlungsfähig zu sein.\n\n**TOP 3 Projekt \"Digitaler Kundenzugang\": Vorstellung Konzept**\n\nAK stellt das Konzept für das neue Kundenportal \"Digitaler Kundenzugang\" vor. Das Portal soll Kunden ermöglichen, online den Status ihrer Bestellungen zu verfolgen, Rechnungen und technische Dokumentationen herunterzuladen sowie Serviceanfragen direkt zu stellen. Die technische Umsetzung soll auf einer neuen Plattform erfolgen. AK plant den Start einer Pilotphase mit ausgewählten Schlüsselkunden für das erste Quartal des kommenden Jahres. Das Konzept wird grundsätzlich positiv aufgenommen und genehmigt. AK wird gebeten, bis zur nächsten Sitzung eine detaillierte Aufstellung der benötigten Budgetmittel und Ressourcen vorzulegen.\n\n**TOP 4 Planung Messe \"TechnoForma 20XX+1\"**\n\nSK präsentiert die Grundzüge der Planung für den Messeauftritt bei der \"TechnoForma\" im nächsten Frühjahr. Der Fokus soll auf der Vorstellung des neuen Produktes \"Komponente X\" liegen. Die geplante Standgröße beträgt 40qm, was der Größe des Vorjahres entspricht. Interaktive Elemente sind geplant. Der Plan wird genehmigt. SK ist verantwortlich für die Ausarbeitung eines detaillierten Standdesign-Vorschlags in Zusammenarbeit mit der Agentur Müller&Schmidt. LV wird beauftragt, die Logistikkosten (Transport, Aufbau) zu prüfen und bis spätestens Mitte Dezember eine Übersicht vorzulegen.\n\n**TOP 5 Personalbedarf und geplante Schulungen**\n\nCH berichtet über den aktuellen Personalstand. Aufgrund der hohen Auslastung in der Produktion besteht dringender Bedarf an zwei zusätzlichen Fachkräften. MW stimmt der Ausschreibung dieser Stellen zu. Im Vertriebsbereich sei die Lage angespannt, aber aktuell keine Neueinstellung geplant. Weiterhin informiert CH über eine verpflichtende IT-Sicherheitsschulung für alle Mitarbeiterinnen und Mitarbeiter, die im Januar 20XX+1 online durchgeführt wird. Zusätzlich wird im Februar ein optionaler Fortgeschrittenen-Kurs \"Excel für Controller und Planer\" angeboten; hierfür gibt es jedoch nur 12 Plätze.\n\n**TOP 6 Sonstiges**\n\nMW erinnert an den Termin für die Weihnachtsfeier am 15. Dezember und bittet um zeitnahe Anmeldung bei CH. TS fragt kurz nach dem Status einer kleineren Qualitätsabweichung, die letzte Woche bei Produkt Y festgestellt wurde. BM bestätigt, dass die Ursache gefunden und das Problem bereits behoben wurde. Weitere Punkte gibt es nicht. MW schließt die Sitzung um 10:58 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das vorherige Protokoll",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Anmerkungen akzeptiert."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung in einem Punkt präzisiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt einen Fehler bezüglich der Lieferanten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Materialbeschaffung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "bereitet bei einem bestimmten Lieferanten Sorgen."
+                },
+                {
+                    "key": "b",
+                    "text": "ist generell schwierig wegen hoher Preise."
+                },
+                {
+                    "key": "c",
+                    "text": "wird bis Jahresende von Frau Vogel neu organisiert."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der neue digitale Kundenzugang",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von der Leitung abgelehnt."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigt kein zusätzliches Budget mehr."
+                },
+                {
+                    "key": "c",
+                    "text": "soll im nächsten Jahr getestet werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Messe \"TechnoForma\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erfordert die Klärung von Transportkosten durch Frau Vogel."
+                },
+                {
+                    "key": "b",
+                    "text": "wird mit einem größeren Stand als letztes Jahr geplant."
+                },
+                {
+                    "key": "c",
+                    "text": "wird hauptsächlich von Herrn Müller vorbereitet."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Geplante Personalmaßnahmen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "umfassen Neueinstellungen im Vertriebsbereich."
+                },
+                {
+                    "key": "b",
+                    "text": "sehen eine Pflichtschulung für die gesamte Belegschaft vor."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhalten einen Excel-Kurs für alle Interessierten im Januar."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

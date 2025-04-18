@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**14. Juni 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum \"Alpenblick\", Hauptstraße 55, 87654 Bergstadt\n\n**Anwesende:**\n*   Klaus Berger (KB, Geschäftsführung)\n*   Sonja Richter (SR, Leitung Produktion)\n*   Markus Weber (MW, Leitung Vertrieb)\n*   Lena Schmidt (LS, Leitung Einkauf)\n*   Thomas Klein (TK, Leitung IT)\n*   Petra Vogel (PV, Leitung Personal)\n*   Anja Meyer (AM, Assistenz GF)\n\n**Entschuldigt:**\n*   Jan Fischer (JF, Leitung Marketing)\n\n**Sitzungsleitung:** Klaus Berger (KB)\n**Protokollantin:** Anja Meyer (AM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 10. Mai 20XX\n2.  Aktuelle Produktionszahlen und Kapazitätsplanung\n3.  Neues CRM-System – Stand der Einführung\n4.  Marketingkampagne Herbst/Winter\n5.  Personalangelegenheiten: Weiterbildung & Neueinstellungen\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 10. Mai 20XX**\n\nKB begrüßt die Anwesenden. Das Protokoll der Sitzung vom 10. Mai 20XX wird zur Genehmigung vorgelegt. PV bittet um eine Korrektur bei TOP 4 des alten Protokolls: Der genannte Weiterbildungsanbieter war nicht korrekt. Nach Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen und Kapazitätsplanung**\n\nSR berichtet über erfreulich hohe Produktionszahlen im laufenden Quartal, die über den Planungen liegen. Sie warnt jedoch vor möglichen Engpässen im dritten Quartal (Q3), da eine umfangreiche, planmäßige Wartung der Hauptproduktionslinie ansteht. Um Auftragsspitzen dennoch abdecken zu können, wird eine temporäre Kapazitätserhöhung diskutiert. Optionen sind genehmigte Überstunden oder die Einstellung von Zeitarbeitskräften. LS wird beauftragt, bis zur nächsten Sitzung eine Kostenanalyse für beide Optionen vorzulegen, danach wird entschieden.\n\n**TOP 3 Neues CRM-System – Stand der Einführung**\n\nTK informiert über den Fortschritt bei der Einführung des neuen Customer-Relationship-Management (CRM)-Systems. Das Projekt liegt aktuell etwa eineinhalb Wochen hinter dem ursprünglichen Zeitplan. Grund hierfür ist die unerwartet komplexe Datenmigration aus dem Altsystem. Die Schulungen für alle Mitarbeiterinnen und Mitarbeiter des Vertriebsteams (Leitung MW) sind fest für die erste Augustwoche terminiert. Der Produktivstart (Rollout) ist weiterhin für den 1. September angepeilt, vorausgesetzt, die finalen Systemtests verlaufen erfolgreich.\n\n**TOP 4 Marketingkampagne Herbst/Winter**\n\nDa JF entschuldigt ist, berichtet KB über die geplante Marketingkampagne für Herbst/Winter. Das Konzept wurde final genehmigt und das Budget ist bestätigt. Der Fokus liegt auf Online-Marketingmaßnahmen sowie der Präsenz auf den zwei Fachmessen \"ProTec\" im Oktober und \"InnoBau\" im November. MW fragt nach der Integration der Leadgenerierung von den Messen und der Website in das neue CRM-System. TK bestätigt, dass dies technisch vorgesehen ist, die finale Konfiguration aber erst nach dem erfolgreichen Rollout des CRM erfolgen kann.\n\n**TOP 5 Personalangelegenheiten: Weiterbildung & Neueinstellungen**\n\nPV stellt den Plan für die verpflichtende IT-Sicherheitsunterweisung vor. Diese Online-Schulung muss von allen Mitarbeiterinnen und Mitarbeitern bis Ende Juli abgeschlossen werden. PV bestätigt zudem, dass zum 1. August zwei neue Produktionsmitarbeiter eingestellt werden, um die von SR unter TOP 2 erwähnten möglichen Kapazitätsengpässe in Q3 abzufedern. Die Suche nach einer Assistenzkraft für das Marketing läuft weiterhin; es gab bereits erste Vorstellungsgespräche, aber noch keine Entscheidung.\n\n**TOP 6 Sonstiges**\n\nLS äußert Bedenken bezüglich wiederholter Lieferverzögerungen durch den Zulieferer \"Metallbau Süd GmbH\" (Lieferant X). Dies betrifft wichtige Komponenten für Produktlinie A. KB bittet LS, die Angelegenheit beim Lieferanten zu eskalieren und parallel nach alternativen Bezugsquellen zu suchen. LS soll in der nächsten Sitzung über den Stand berichten. AM erinnert an das bevorstehende Firmen-Sommerfest und bittet um zeitnahe Rückmeldung zur Teilnahme zwecks finaler Planung.\nKB schließt die Sitzung um 11:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das neue CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist genau im Zeitplan für die Einführung."
+                },
+                {
+                    "key": "b",
+                    "text": "wird voraussichtlich Anfang September eingeführt."
+                },
+                {
+                    "key": "c",
+                    "text": "kann bereits von allen Mitarbeitern genutzt werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Produktionskapazität",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "könnte im dritten Quartal wegen Wartungsarbeiten knapp werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird durch sofortige Überstunden erhöht."
+                },
+                {
+                    "key": "c",
+                    "text": "reicht trotz hoher Auftragszahlen sicher aus."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Mitarbeiterschulungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind nur für das Verkaufsteam vorgesehen."
+                },
+                {
+                    "key": "b",
+                    "text": "für das CRM-System sind bereits abgeschlossen."
+                },
+                {
+                    "key": "c",
+                    "text": "finden im Juli und August statt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Probleme mit Lieferant X",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurden bereits durch den Geschäftsführer gelöst."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen von der Einkaufsleitung untersucht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "führen zur sofortigen Einstellung der Produktion."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Neueinstellungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind für die Produktion zur Unterstützung geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "gibt es demnächst auch im Marketing."
+                },
+                {
+                    "key": "c",
+                    "text": "kompensieren den Weggang von Mitarbeitern im Verkauf."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**10. Mai 20XX, 14:00 – 15:30 Uhr**\n**Ort:** Besprechungsraum Alpha, Technologiepark 12, 50933 Köln\n\n**Anwesende:**\n*   Hans Müller (HM, Geschäftsführung)\n*   Sabine Richter (SR, Leitung Produktion)\n*   Jonas Kaufmann (JK, Leitung Verkauf)\n*   Anja Berger (AB, Leitung Marketing)\n*   Tim Weber (TW, Leitung IT)\n*   Karin Fischer (KF, Leitung Personal)\n*   Lars Schmidt (LS, Leitung Einkauf)\n*   Elena Petrova (EP, Leitung Qualitätssicherung)\n\n**Entschuldigt:** Petra Klein (PK, Finanzen)\n\n**Sitzungsleitung:** Hans Müller\n**Protokollantin:** Karin Fischer\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Projektstatus \"SensorPlus\"\n3.  Aktuelle Verkaufszahlen & Marktfeedback\n4.  Vorbereitung Messe \"Electronica 20XX\"\n5.  Personalplanung Q3\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nHM begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 12. April wird nach einer Korrektur unter TOP 4 (Budget Messe) auf Antrag von AB einstimmig genehmigt.\n\n**TOP 2 Projektstatus \"SensorPlus\"**\n\nTW (IT) berichtet von Verzögerungen bei der Software-Integration aufgrund unerwarteter Kompatibilitätsprobleme mit einer Zulieferkomponente. Dies betrifft die Schnittstelle zur Datenübertragung. HM beauftragt TW, bis Ende nächster Woche eine technische Lösung zu erarbeiten und LS (Einkauf), parallel dazu alternative Lieferanten für die Komponente zu prüfen. Der Start der internen Testphase verschiebt sich dadurch voraussichtlich um mindestens zwei Wochen auf Mitte Juni.\n\n**TOP 3 Aktuelle Verkaufszahlen & Marktfeedback**\n\nJK (Verkauf) präsentiert die Zahlen des letzten Quartals (Q1 20XX). Es gab einen leichten Rückgang von 3% im Vergleich zum starken Vorquartal (Q4 20XX), aber einen Anstieg von 5% gegenüber dem gleichen Quartal des Vorjahres (Q1 20XX-1). Besonders das neue Modell 'Compact Sensor' läuft sehr gut an und kompensiert Schwächen bei älteren Modellen. Das Kundenfeedback aus dem Service bemängelt teilweise die Lieferzeiten für Großbestellungen, lobt aber durchweg die hohe Produktqualität und Zuverlässigkeit.\n\n**TOP 4 Vorbereitung Messe \"Electronica 20XX\"**\n\nAB (Marketing) stellt den aktuellen Planungsstand für die Messe im November vor. Hauptziel ist die Präsentation des funktionsfähigen 'SensorPlus'-Prototyps und die Gewinnung von Erstkontakten für potenzielle Großkunden. Das dafür vorgesehene Budget wurde bereits von der Geschäftsführung genehmigt. AB kümmert sich federführend um das Standdesign in Absprache mit JK. Die Hotelbuchungen für das Messeteam sind allerdings aufgrund hoher Nachfrage noch nicht abgeschlossen; KF unterstützt hierbei.\n\n**TOP 5 Personalplanung Q3**\n\nKF (Personal) erläutert den Personalbedarf für das dritte Quartal. Geplant sind zwei neue Stellen in der Produktion zur Kapazitätserweiterung, deren Dringlichkeit SR bestätigt, sowie eine zusätzliche Stelle im IT-Support zur Entlastung von TWs Team. Die entsprechenden Stellenausschreibungen sollen Ende Mai auf der Firmenhomepage und relevanten Jobportalen veröffentlicht werden.\n\n**TOP 6 Sonstiges**\n\nEP (Qualitätssicherung) berichtet kurz über die erfolgreiche Durchführung eines internen Audits ohne wesentliche Beanstandungen. HM weist auf einen geplanten, unangekündigten IT-Sicherheitscheck (Phishing-Simulation) in den nächsten Wochen hin. Die nächste Abteilungsleiterrunde findet am 14. Juni 20XX zur gleichen Zeit statt. HM schließt die Sitzung pünktlich um 15:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Projekt \"SensorPlus\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat Probleme wegen verspäteter Hardware-Lieferungen."
+                },
+                {
+                    "key": "b",
+                    "text": "wird sich wegen Softwareproblemen verzögern."
+                },
+                {
+                    "key": "c",
+                    "text": "muss um exakt zwei Wochen verschoben werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Verkaufszahlen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind im letzten Quartal generell gesunken."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigen, dass Kunden mit der Qualität unzufrieden sind."
+                },
+                {
+                    "key": "c",
+                    "text": "waren besser als im gleichen Zeitraum des Vorjahres."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Teilnahme an der Messe",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll ein neues Produkt bekannt machen."
+                },
+                {
+                    "key": "b",
+                    "text": "ist noch unsicher, da das Budget fehlt."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bereits vollständig vorbereitet."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Neue Mitarbeiter für Q3",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden nur für die Produktion gesucht."
+                },
+                {
+                    "key": "b",
+                    "text": "werden für die Bereiche Produktion und IT benötigt."
+                },
+                {
+                    "key": "c",
+                    "text": "können sich bereits auf die Stellen bewerben."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde auf Wunsch von Herrn Müller geändert."
+                },
+                {
+                    "key": "c",
+                    "text": "musste in einem Punkt korrigiert werden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

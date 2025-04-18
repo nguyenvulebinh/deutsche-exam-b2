@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 14:00 – 15:30 Uhr**\n**Ort:** Besprechungsraum 'Kreativ', Innovatech HQ, TechPark Allee 5, 12345 Digitalstadt\n\n**Anwesende:**\n*   Dr. Elena Petrova (EP, Geschäftsführung)\n*   Markus Weber (MW, Leitung Entwicklung)\n*   Sofia Rossi (SR, Leitung Vertrieb)\n*   Klaus Bauer (KB, Leitung Personal)\n*   Lena Schmidt (LS, Projektleitung CRM)\n*   Ahmed Khan (AK, Leitung IT-Support)\n*   Tim Fischer (TF, Assistenz GF)\n\n**Sitzungsleitung:** Dr. Elena Petrova (EP)\n**Protokollant:** Tim Fischer (TF)\n\n**Entschuldigt:**\n*   Julia Nowak (JN, Leitung Marketing)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 25.08.\n2.  Projektstatus \"CRM-Einführung\"\n3.  Aktuelle Vertriebszahlen Q3 und Ausblick Q4\n4.  Personalplanung: Neueinstellungen Entwicklung\n5.  Update IT-Sicherheitsmaßnahmen\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 25.08.**\n\nEP begrüßt die Anwesenden zum heutigen Strategiemeeting. Sie bittet um Genehmigung des Protokolls der letzten Sitzung vom 25. August. MW weist darauf hin, dass bei einer unter TOP 4 festgehaltenen Aufgabe die Zuständigkeit korrigiert werden muss; nicht er, sondern LS sei verantwortlich. Nach Aufnahme dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Projektstatus \"CRM-Einführung\"**\n\nLS berichtet über den Fortschritt des CRM-Projekts. Die Phase 1, die Datenmigration aus dem Altsystem, konnte pünktlich abgeschlossen werden. Bei Phase 2, der Integration der Schnittstellen zum bestehenden ERP-System, gibt es jedoch aufgrund unerwarteter technischer Komplexität eine leichte Verzögerung von voraussichtlich einer Woche. LS wird nächste Woche detaillierte Lösungsvorschläge und einen aktualisierten Zeitplan für diese Phase präsentieren. Die umfassenden Anwenderschulungen sind weiterhin für das 4. Quartal geplant; die genauen Termine werden noch bekannt gegeben, sobald die Schnittstellenintegration stabil läuft.\n\n**TOP 3 Aktuelle Vertriebszahlen Q3 und Ausblick Q4**\n\nSR präsentiert die Vertriebszahlen für das dritte Quartal. Die Umsätze liegen erfreulicherweise 15% über denen des zweiten Quartals dieses Jahres. Besonders stark war das Wachstum im DACH-Raum (Deutschland, Österreich, Schweiz). Zudem konnte letzten Monat mit der \"Logistik AG\" ein wichtiger Neukunde gewonnen werden. Für das vierte Quartal zeigt sich SR vorsichtig optimistisch; das Hauptziel sei die Konsolidierung der jüngsten Erfolge und die intensive Betreuung der Neukunden.\n\n**TOP 4 Personalplanung: Neueinstellungen Entwicklung**\n\nKB erläutert den aktuellen Personalbedarf. Für die Abteilung Entwicklung werden dringend drei neue Backend-Entwicklerinnen bzw. -Entwickler gesucht, um die gestiegene Projektauslastung zu bewältigen. Ziel ist es, diese Positionen bis zum Jahresende zu besetzen. KB weist jedoch darauf hin, dass der Markt für diese Spezialisten derzeit sehr umkämpft ist. Er plant, die Recruiting-Maßnahmen zu intensivieren und prüft auch den Einsatz externer Personalberater.\n\n**TOP 5 Update IT-Sicherheitsmaßnahmen**\n\nAK informiert über die jüngsten IT-Sicherheitsaktivitäten. Das verpflichtende Online-Training zur Sensibilisierung für Cybersicherheit wurde im letzten Monat von allen Mitarbeiterinnen und Mitarbeitern erfolgreich abgeschlossen. Als nächste Maßnahme startet ab dem kommenden Monat (Oktober) eine unternehmensweite Phishing-Simulationskampagne, um die Wachsamkeit weiter zu erhöhen. Das Team von AK wird diese Kampagne durchführen und auswerten.\n\n**TOP 6 Sonstiges**\n\nEP gibt bekannt, dass der Termin für das diesjährige Sommerfest feststeht: Es findet am Freitag, den 27. September, statt. Der Veranstaltungsort wird jedoch vorerst als Überraschung geheim gehalten. EP bittet alle Anwesenden, bis Ende dieser Woche Vorschläge für gemeinsame Teamaktivitäten während des Festes per E-Mail an TF zu senden. \nDie nächste Sitzung ist für den 10. Oktober um 14:00 Uhr angesetzt.\nEnde der Sitzung: 15:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll vom 25.08.",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste vor der Genehmigung korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von Frau Petrova kritisiert."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Schulungen für das neue CRM",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind für das vierte Quartal geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "finden bereits nächste Woche statt."
+                },
+                {
+                    "key": "c",
+                    "text": "werden wegen der Projektverzögerung verschoben."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die aktuellen Verkaufszahlen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind 15% höher als im Vorjahr."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigen ein Plus gegenüber dem zweiten Quartal."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden von Logistik AG positiv beeinflusst."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die geplanten Neueinstellungen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "betreffen drei Mitarbeiter für den Vertrieb."
+                },
+                {
+                    "key": "b",
+                    "text": "sind wegen des Marktes erst nächstes Jahr möglich."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen bis Ende des Jahres erfolgen."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die IT-Sicherheitsmaßnahmen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhalten ein Training, das nächsten Monat beginnt."
+                },
+                {
+                    "key": "b",
+                    "text": "werden durch eine Phishing-Simulation ergänzt."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden nur von einem Teil der Mitarbeiter beachtet."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

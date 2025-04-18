@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**11. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum Alpha, LogiTrans GmbH, Industriestraße 12, 89073 Ulm\n\n**Anwesende:**\n*   Herr Klaus Berger (KB, Geschäftsführung)\n*   Frau Simone Fischer (SF, Leitung Personal)\n*   Herr Ahmed Yilmaz (AY, Leitung Fuhrparkmanagement)\n*   Frau Petra Klein (PK, Leitung Disposition)\n*   Herr Uwe Schmidt (US, IT-Koordinator)\n*   Frau Lena Gruber (LG, Kundenbetreuung)\n*   Herr Marek Novak (MN, Fahrervertreter)\n\n**Entschuldigt:** Herr Stefan Meier (SM, Finanzen)\n\n**Sitzungsleitung:** Klaus Berger (KB)\n**Protokollantin:** Lena Gruber (LG)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 13.09.20XX\n2.  Aktuelle Auftragslage und Routenplanung\n3.  Zustand des Fuhrparks und Wartungsplan\n4.  Einführung neuer Dispositionssoftware\n5.  Personalangelegenheiten: Schulungen und Neueinstellungen\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 13.09.20XX**\n\nKB begrüßt alle Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 13. September 20XX wird ohne Änderungen einstimmig genehmigt.\n\n**TOP 2 Aktuelle Auftragslage und Routenplanung**\n\nPK berichtet über eine erfreuliche Entwicklung der Auftragslage im letzten Quartal. Insbesondere die internationalen Transporte, vor allem auf der neuen Route nach Polen, haben zugenommen. Die Auslastung der Fahrzeuge ist insgesamt sehr gut. Eine Herausforderung stellt jedoch weiterhin die Verfügbarkeit von Fahrern für besonders lange Touren dar, was gelegentlich zu Engpässen führt.\n\n**TOP 3 Zustand des Fuhrparks und Wartungsplan**\n\nAY gibt einen Überblick über den Zustand des Fuhrparks. Dieser sei generell gut, jedoch benötigen aktuell drei LKW größere, kostenintensive Reparaturen an den Motoren. AY wurde beauftragt, hierfür umgehend Vergleichsangebote von Fachwerkstätten einzuholen, bevor eine Entscheidung über die Vergabe getroffen wird. Der reguläre Wartungsplan wird ansonsten eingehalten.\n\n**TOP 4 Einführung neuer Dispositionssoftware**\n\nUS informiert über den Stand der Einführung der neuen Dispositionssoftware „DispoProfi 5.0“. Die Testphase wurde erfolgreich abgeschlossen, es gab nur kleinere Probleme mit der Schnittstelle zur Rechnungslegung, die aber behoben werden konnten. Die endgültige Einführung ist für Anfang November geplant. Schulungen für alle Disponentinnen und Disponenten sind für die letzte Oktoberwoche terminiert. Es wurde bestätigt, dass für die Datenmigration externe Unterstützung durch einen spezialisierten Berater notwendig ist.\n\n**TOP 5 Personalangelegenheiten: Schulungen und Neueinstellungen**\n\nSF weist auf die verpflichtende jährliche Sicherheitsschulung hin, die nächste Woche für alle Fahrerinnen und Fahrer stattfindet. Weiterhin besteht dringender Bedarf an zwei zusätzlichen Disponenten, um die Abteilung zu entlasten. Die Stellenausschreibungen werden noch diese Woche veröffentlicht. Die Diskussion über Modelle für flexiblere Arbeitszeiten im Bürobereich wird auf die nächste Sitzung vertagt, da noch Klärungsbedarf besteht.\n\n**TOP 6 Sonstiges**\n\nMN, als Vertreter der Fahrer, äußert Bedenken bezüglich der Sauberkeit und Ausstattung einiger Raststätten entlang der Autobahn A7. KB nimmt die Kritik zur Kenntnis und bittet AY, die Situation zu prüfen und mögliche Alternativrouten oder Pausenorte zu recherchieren. KB informiert zudem, dass die diesjährige Weihnachtsfeier wie geplant in der Betriebskantine stattfinden wird. Der genaue Termin im Dezember wird noch bekannt gegeben.",
+    "aufgaben_list": [
+        {
+            "frage": "Die internationale Auftragslage",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "bereitet wegen Fahrermangels große Sorgen."
+                },
+                {
+                    "key": "b",
+                    "text": "hat sich besonders positiv entwickelt."
+                },
+                {
+                    "key": "c",
+                    "text": "ist dank eines neuen Kunden in Polen stabil."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Reparatur der LKW",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "betrifft drei Fahrzeuge mit kleineren Schäden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde bereits an eine Werkstatt vergeben."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordert das Einholen von Angeboten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die neue Dispositionssoftware",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird im November eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "funktionierte im Test ohne Probleme."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt nur internes Training."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Fahrerschulung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet erst nächsten Monat statt."
+                },
+                {
+                    "key": "b",
+                    "text": "ist für alle Fahrer verpflichtend."
+                },
+                {
+                    "key": "c",
+                    "text": "konzentriert sich auf neue Mitarbeiter."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Im Punkt 'Sonstiges'",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird der Termin der Weihnachtsfeier festgelegt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird eine Lösung für die Raststätten an der A7 beschlossen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird über die Prüfung eines Fahrerproblems berichtet."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

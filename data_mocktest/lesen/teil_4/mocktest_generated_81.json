@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll: Monatsbesprechung\n\n**12. Oktober 20XX, 10:00 – 11:30 Uhr**\n**Ort:** Konferenzraum 'Alpenblick', Werkstraße 5, 8XXXX Musterstadt\n\n**Anwesende:**\n*   Dr. Elena Schmidt (ES, Geschäftsführung)\n*   Klaus Bauer (KB, Leitung Produktion)\n*   Sabine Mayer (SM, Leitung Vertrieb)\n*   Peter Wagner (PW, Leitung Marketing)\n*   Anja Richter (AR, Leitung Einkauf)\n*   Stefan Klein (SK, Leitung Personal)\n*   Jonas Wolf (JW, Leitung IT)\n\n**Entschuldigt:** Marie Huber (MH, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Elena Schmidt\n**Protokollant:** Stefan Klein\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 14.09.20XX\n2.  Aktuelle Verkaufszahlen & Marktlage (Q3/September)\n3.  Projekt \"EcoLine\": Stand & nächste Schritte\n4.  Personalentwicklung: Fachkräftemangel & Weiterbildung\n5.  Messeauftritt \"Haustrends 20XX+1\"\n6.  Energieeffizienzmaßnahmen\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 14.09.20XX**\n\nES begrüßt die Anwesenden zur heutigen Besprechung. Das Protokoll der Sitzung vom 14. September 20XX wird ohne Einwände oder Änderungsanträge einstimmig genehmigt.\n\n**TOP 2 Aktuelle Verkaufszahlen & Marktlage (Q3/September)**\n\nSM berichtet über die Verkaufszahlen des dritten Quartals. Es konnte eine Steigerung von 15% gegenüber dem Vorquartal erzielt werden. Dies ist hauptsächlich auf die sehr starke Nachfrage nach der Produktlinie \"ProfiClean\" zurückzuführen. Bei den älteren Modellen sei jedoch ein leichter Rückgang zu verzeichnen. Die allgemeine Marktlage bleibt angespannt, der Wettbewerbsdruck ist hoch. PW wird beauftragt, bis zur nächsten Sitzung eine Analyse der Preisstrategien der Hauptkonkurrenten vorzulegen.\n\n**TOP 3 Projekt \"EcoLine\": Stand & nächste Schritte**\n\nKB informiert über den aktuellen Stand des Projekts \"EcoLine\". Die Prototypentests laufen planmäßig. Ein Problem besteht jedoch bei der Materialbeschaffung: Der vorgesehene Lieferant für recyceltes PET-Granulat, die Firma RecyPlast GmbH, kann eine Lieferung vor Mitte November nicht garantieren. Dies gefährdet den Zeitplan. AR wird beauftragt, bis Ende nächster Woche alternative Lieferanten zu prüfen und Angebote einzuholen. Es wird beschlossen, den geplanten Produktionsstart zu verschieben, sollte bis dahin keine zeitnahe Lieferalternative für das Material gefunden werden.\n\n**TOP 4 Personalentwicklung: Fachkräftemangel & Weiterbildung**\n\nSK berichtet über die angespannte Personalsituation, insbesondere in der Produktion. Aktuell sind drei Stellen für CNC-Fachkräfte unbesetzt, die Suche gestaltet sich schwierig. Um dem entgegenzuwirken, wurde beschlossen, ein internes Weiterbildungsprogramm zur CNC-Fachkraft für bestehende Mitarbeitende aufzulegen. Das Programm soll im ersten Quartal des kommenden Jahres starten. Zusätzlich wird ein Prämienprogramm für Mitarbeiterempfehlungen eingeführt, um die externe Suche zu unterstützen.\n\n**TOP 5 Messeauftritt \"Haustrends 20XX+1\"**\n\nPW bestätigt die Buchung des Messestands für die Fachmesse \"Haustrends\", die im Februar 20XX+1 in Hamburg stattfinden wird. Der Fokus des Auftritts wird auf der offiziellen Markteinführung der neuen Produktlinie \"EcoLine\" liegen. Es soll ein modernes Standkonzept entwickelt werden, das die Nachhaltigkeitsaspekte hervorhebt. SM wird die Koordination des benötigten Verkaufspersonals für den Stand übernehmen.\n\n**TOP 6 Energieeffizienzmaßnahmen**\n\nES thematisiert die stark gestiegenen Energiekosten und bittet um Vorschläge zur Effizienzsteigerung. KB stellt eine konkrete Maßnahme vor: Die Umrüstung der Beleuchtung in Produktionshalle 2 auf moderne LED-Technik. Laut ersten Berechnungen könnten dadurch die jährlichen Stromkosten für diesen Bereich um etwa 10-12% gesenkt werden. KB wird beauftragt, bis Ende des Monats verbindliche Angebote von drei verschiedenen Anbietern einzuholen. Eine Entscheidung über die Umsetzung wird getroffen, sobald die Angebote vorliegen und die Finanzierung im Rahmen des Budgets für Q1/20XX+1 geklärt ist.\n\n**TOP 7 Sonstiges**\n\nJW berichtet kurz über positives Nutzerfeedback zum kürzlich überarbeiteten Intranet. Weitere Punkte werden nicht angesprochen. Die nächste Monatsbesprechung findet am 09. November 20XX statt.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Verkaufszahlen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnten besonders bei älteren Modellen zulegen."
+                },
+                {
+                    "key": "b",
+                    "text": "sind im Vergleich zum Vorquartal gestiegen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden durch den Einkauf stark beeinflusst."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Projekt \"EcoLine\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wartet aktuell auf die Budgetfreigabe."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigt dringend alternative Materialien von Herrn Bauer."
+                },
+                {
+                    "key": "c",
+                    "text": "verzögert sich eventuell wegen Lieferschwierigkeiten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Personalabteilung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "plant eine Weiterbildung für bestehende Mitarbeiter."
+                },
+                {
+                    "key": "b",
+                    "text": "hat bereits drei neue CNC-Fachkräfte eingestellt."
+                },
+                {
+                    "key": "c",
+                    "text": "sucht vor allem ungelernte Aushilfen für die Produktion."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Der Messeauftritt",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "findet noch in diesem Jahr in Hamburg statt."
+                },
+                {
+                    "key": "b",
+                    "text": "soll die neue Produktlinie vorstellen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird hauptsächlich von Frau Mayer geplant."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Energiekosten",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollen durch neue Beleuchtung gesenkt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "werden durch eine sofortige Umrüstung reduziert."
+                },
+                {
+                    "key": "c",
+                    "text": "sind im letzten Quartal um 10-12% gestiegen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 10:00 – 11:45 Uhr**\n**Ort:** Besprechungsraum 'Sirius', Innovatech Park 1, 8099X München\n\n**Anwesende:**\n*   Dr. Elena Weiss (EW, Geschäftsführung)\n*   Markus Stein (MS, Leitung Projektmanagement)\n*   Julia Richter (JR, Leitung Entwicklung)\n*   Ben Carter (BC, Vertrieb)\n*   Lena Vogel (LV, Marketing)\n*   Stefan Kurz (SK, Leitung Personal)\n*   David Chen (DC, IT-Administration)\n*   Assistentin: Frau Hanna Berg (HB)\n\n**Entschuldigt:** Robert Fuchs (RF, Leitung Finanzen)\n\n**Sitzungsleitung:** Dr. Elena Weiss (EW)\n**Protokollantin:** Hanna Berg (HB)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. September 20XX\n2.  Aktueller Stand Projekt 'Phoenix' (Client Software Update)\n3.  Analyse Kundenfeedback Q3\n4.  Einführung neuer agiler Entwicklungsmethoden\n5.  Personalplanung: Fachkräftemangel & Weiterbildung\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. September 20XX**\n\nEW begrüßt alle Anwesenden zur heutigen Strategiesitzung. Sie bittet um Kommentare zum Protokoll der letzten Sitzung. MS weist auf eine kleine Ungenauigkeit bei der Zeitangabe unter TOP 4 hin, die von HB korrigiert wird. Anschließend wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktueller Stand Projekt 'Phoenix'**\n\nMS berichtet über den Fortschritt des Kundenprojekts 'Phoenix'. Die Kernfunktionalitäten sind implementiert und die ersten Tests verlaufen positiv. Allerdings ist das Modul 'Reporting' etwa zwei Wochen hinter dem Zeitplan, was auf unerwartete Kompatibilitätsprobleme mit einer Drittanbieter-Schnittstelle zurückzuführen ist. MS schlägt vor, den internen Abgabetermin für dieses spezifische Modul auf den 30. November zu verschieben; der Gesamtprojekt-Endtermin für den Kunden bleibt unverändert. JR stimmt zu und teilt mit, dass Entwicklerin Frau Bauer sich ab sofort verstärkt um die Lösung der Schnittstellenprobleme kümmern wird.\n\n**TOP 3 Analyse Kundenfeedback Q3**\n\nLV und BC präsentieren die Auswertung des Kundenfeedbacks für das dritte Quartal. Die kürzlich überarbeitete Benutzeroberfläche der Standardsoftware wird von vielen Kunden gelobt. Jedoch gibt es wiederholt Beschwerden über lange Wartezeiten bei Supportanfragen per E-Mail. Einige Kunden bemängeln eine Reaktionszeit von über 48 Stunden. EW betont die Wichtigkeit eines exzellenten Kundenservice. Es wird beschlossen, bis Ende des Jahres ein neues, effizienteres Ticket-System für den Support einzuführen. DC wird beauftragt, bis zur nächsten Sitzung drei passende Systemoptionen inklusive Kostenschätzung zu recherchieren und vorzustellen.\n\n**TOP 4 Einführung neuer agiler Entwicklungsmethoden**\n\nJR stellt den Plan zur schrittweisen Einführung von SCRUM vor. Um Erfahrungen zu sammeln und den Übergang reibungslos zu gestalten, sollen zunächst nur die Teams 'Core Systems' und 'Mobile Apps' ab Januar nächsten Jahres nach diesem Framework arbeiten. Für diese beiden Teams sind verpflichtende zweitägige SCRUM-Schulungen für Mitte November angesetzt. Es gibt eine kurze Diskussion über mögliche anfängliche Produktivitätseinbußen während der Umstellungsphase, aber der Vorschlag wird grundsätzlich befürwortet. Die Entscheidung fällt, mit der Pilotphase wie vorgeschlagen fortzufahren.\n\n**TOP 5 Personalplanung: Fachkräftemangel & Weiterbildung**\n\nSK berichtet über die anhaltenden Schwierigkeiten bei der Rekrutierung erfahrener Backend-Entwickler, insbesondere mit Java-Expertise. Die aktuelle Marktlage sei angespannt. Um dem entgegenzuwirken, wird das interne Weiterbildungsprogramm für Junior-Entwickler ausgebaut; ein neuer Kurs mit Schwerpunkt auf fortgeschrittenen Python-Techniken startet im Dezember. SK weist darauf hin, dass derzeit zwei Stellen für Backend-Entwickler ausgeschrieben sind und hofft auf baldige Besetzung.\n\n**TOP 6 Sonstiges**\n\nEW informiert, dass sie und JR das Unternehmen auf der Fachkonferenz 'Digital Future' nächste Woche in Berlin vertreten werden. Sie bittet darum, dringende Anfragen in dieser Zeit an MS zu richten. Außerdem erinnert sie daran, dass das Organisationsteam für die Weihnachtsfeier nächste Woche seine Arbeit aufnimmt und Ideen willkommen sind.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Projekt 'Phoenix'",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist teilweise wegen technischer Probleme verzögert."
+                },
+                {
+                    "key": "b",
+                    "text": "kann insgesamt nicht termingerecht abgeschlossen werden."
+                },
+                {
+                    "key": "c",
+                    "text": "verzögert sich wegen fehlender Mitarbeiter."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Kundenfeedback aus Q3",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "fiel hauptsächlich negativ aus."
+                },
+                {
+                    "key": "b",
+                    "text": "führte zur Planung eines neuen Support-Systems."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordert eine sofortige Änderung der Benutzeroberfläche."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neuen agilen Methoden",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden sofort in allen Entwicklungsteams eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "erforderten bereits Schulungen für die Mitarbeiter."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen zunächst testweise in zwei Teams genutzt werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Im Personalbereich",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "gibt es aktuell offene Stellen für Backend-Entwickler."
+                },
+                {
+                    "key": "b",
+                    "text": "werden vor allem neue Frontend-Entwickler gesucht."
+                },
+                {
+                    "key": "c",
+                    "text": "erhalten alle Entwickler eine Python-Schulung."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Anmerkungen genehmigt."
+                },
+                {
+                    "key": "b",
+                    "text": "musste vor der Genehmigung leicht korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird vom Entwicklungsteam überprüft."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

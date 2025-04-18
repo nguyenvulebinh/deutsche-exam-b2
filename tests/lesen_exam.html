@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TELC B2 - Lesen exam</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .back-button {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 8px 15px;
+            background-color: #6c757d;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        .back-button:hover {
+            background-color: #5a6268;
+        }
+
+        /* Navigation styles */
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+
+        .nav-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        .nav-button:hover {
+            background-color: #0056b3;
+        }
+
+        .nav-button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+
+        /* Progress indicator */
+        .progress-container {
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .progress-indicator {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+        }
+
+        .progress-step {
+            width: 18%;
+            height: 10px;
+            margin: 0 1%;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .progress-step.active {
+            background-color: #007bff;
+        }
+
+        .progress-step.completed {
+            background-color: #28a745;
+        }
+
+        /* Test part section */
+        .test-part {
+            display: none;
+        }
+
+        .test-part.active {
+            display: block;
+        }
+
+        /* Test sections - specific to each part */
+        /* Teil 1 */
+        .people-section, .articles-section {
+            margin-bottom: 20px;
+        }
+
+        /* Ensure the answer grid styling is consistent */
+        .answer-grid-container {
+            overflow-x: auto;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .answer-section-title {
+            margin-bottom: 15px;
+            color: #007bff;
+        }
+
+        /* Teil 2 */
+        .reading-content {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        /* Thema styling to match lesen_teil_2.html */
+        .thema {
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .text {
+            white-space: pre-line;
+            margin-bottom: 20px;
+        }
+
+        /* Enhancement for thema to make it more prominent */
+        .thema {
+            font-weight: 700;
+            font-size: 1.4em;
+            margin-bottom: 15px;
+            color: #343a40;
+            border-bottom: 1px solid #dee2e6;
+            padding-bottom: 5px;
+        }
+        
+        /* Text title for Teil 2 */
+        .text-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin: 25px 0 10px 0;
+            color: #007bff;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .question {
+            background-color: #fff;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        .question-text {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .options {
+            margin-left: 20px;
+        }
+
+        .option {
+            margin: 5px 0;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+
+        .option input[type="radio"],
+        .option input[type="checkbox"] {
+            margin-right: 10px;
+        }
+
+        .option-text {
+            flex-grow: 1;
+        }
+
+        .option.selected {
+            font-weight: bold;
+        }
+
+        /* Styling for correct/incorrect answers */
+        .option.correct {
+            color: #28a745;
+        }
+
+        .option.incorrect {
+            color: #dc3545;
+        }
+
+        /* Teil 3 */
+        .test-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        @media (min-width: 768px) {
+            .test-container {
+                flex-direction: row;
+            }
+
+            .people-section {
+                flex: 1;
+            }
+
+            .articles-section {
+                flex: 2;
+            }
+        }
+
+        /* Teil 4 */
+        .meeting-container {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        /* Common styles */
+        .section-title {
+            margin-bottom: 15px;
+            font-size: 1.2rem;
+            color: #343a40;
+        }
+
+        /* Submit button */
+        .submit-button {
+            padding: 12px 25px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+        }
+
+        .submit-button:hover {
+            background-color: #218838;
+        }
+        
+        /* New Test button - make it same size as submit button */
+        #new-test-btn {
+            padding: 12px 25px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+        }
+        
+        #new-test-btn:hover {
+            background-color: #0056b3;
+        }
+
+        /* Detailed results styling */
+        .part-result {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        .part-result h4 {
+            margin-top: 0;
+            color: #343a40;
+            border-bottom: 1px solid #dee2e6;
+            padding-bottom: 5px;
+        }
+
+        /* Results table styling */
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            font-size: 0.95em;
+            box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        
+        .results-table th, 
+        .results-table td {
+            padding: 10px 15px;
+            text-align: center;
+        }
+        
+        .results-table th {
+            background-color: #007bff;
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85em;
+            letter-spacing: 0.5px;
+        }
+        
+        .results-table tr {
+            border-bottom: 1px solid #dddddd;
+        }
+        
+        .results-table tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        .results-table tr:last-of-type {
+            border-bottom: 2px solid #007bff;
+        }
+        
+        .results-table td:first-child {
+            text-align: left;
+            font-weight: 500;
+        }
+        
+        .results-total {
+            background-color: #e9f5ff !important;
+        }
+
+        /* Styling for correct/incorrect answers for Teil 2 and Teil 4 options */
+        .option.correct {
+            color: #28a745;
+        }
+
+        .option.incorrect {
+            color: #dc3545;
+        }
+
+        /* Styling for correct/incorrect answers for Teil 1 and Teil 3 grid cells */
+        .grid-cell.correct {
+            background-color: #28a745;
+            color: white;
+        }
+
+        .grid-cell.incorrect {
+            background-color: #dc3545;
+            color: white;
+        }
+
+        .grid-cell.selected {
+            background-color: #007bff;
+            color: white;
+        }
+
+        /* Timer styles */
+        .timer-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 10px 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            font-size: 18px;
+            font-weight: bold;
+            z-index: 1000;
+            border: 1px solid #dee2e6;
+        }
+        
+        .timer-label {
+            margin-right: 5px;
+            font-size: 16px;
+        }
+        
+        .timer-time {
+            font-family: monospace;
+        }
+        
+        .timer-time.warning {
+            color: #dc3545;
+            animation: pulse 1.5s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.7; }
+            100% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>TELC B2 - Lesen Exam</h1>
+        <a href="../index.html" class="back-button">← Zurück zur Testauswahl</a>
+    </div>
+    
+    <!-- Timer -->
+    <div class="timer-container" id="timer-container">
+        <span class="timer-label">Zeit:</span>
+        <span class="timer-time" id="timer">00:00:00</span>
+    </div>
+    
+    <div id="loading" class="loading">
+        Test wird geladen...
+    </div>
+    
+    <div id="test-content" class="hidden">
+        <div class="progress-container">
+            <h3>Fortschritt: <span id="current-part-label">Teil 1/4</span></h3>
+            <div class="progress-indicator">
+                <div class="progress-step active" id="progress-step-1"></div>
+                <div class="progress-step" id="progress-step-2"></div>
+                <div class="progress-step" id="progress-step-3"></div>
+                <div class="progress-step" id="progress-step-4"></div>
+            </div>
+        </div>
+        
+        <!-- Test Part 1 -->
+        <div id="test-part-1" class="test-part active">
+            <div class="instructions" id="instructions-part-1"></div>
+            
+            <div class="test-container">
+                <div class="people-section">
+                    <div id="people-container-part-1"></div>
+                </div>
+                
+                <div class="articles-section">
+                    <div id="articles-container-part-1"></div>
+                </div>
+            </div>
+
+            <div class="answer-grid-container">
+                <h3 class="answer-section-title">Ihre Antworten für Teil 1</h3>
+                <div class="answer-grid" id="answer-grid-part-1">
+                    <!-- Grid will be dynamically generated by JavaScript -->
+                </div>
+            </div>
+        </div>
+        
+        <!-- Test Part 2 -->
+        <div id="test-part-2" class="test-part">
+            <div class="instructions" id="instructions-part-2"></div>
+            
+            <div id="text-containers-part-2">
+                <!-- Text containers for Teil 2 will be generated here -->
+                <h3 class="text-title">Text 1</h3>
+                <div class="text-container" id="text-container-2-1">
+                    <div class="reading-content">
+                        <div class="thema" id="thema-2-1"></div>
+                        <div class="text" id="text-content-2-1"></div>
+                    </div>
+                    
+                    <div id="questions-container-2-1"></div>
+                </div>
+                
+                <h3 class="text-title">Text 2</h3>
+                <div class="text-container" id="text-container-2-2">
+                    <div class="reading-content">
+                        <div class="thema" id="thema-2-2"></div>
+                        <div class="text" id="text-content-2-2"></div>
+                    </div>
+                    
+                    <div id="questions-container-2-2"></div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Test Part 3 -->
+        <div id="test-part-3" class="test-part">
+            <div class="instructions" id="instructions-part-3"></div>
+            
+            <div class="test-container">
+                <div class="people-section">
+                    <div id="people-container-part-3"></div>
+                </div>
+                
+                <div class="articles-section">
+                    <h3 id="thema-title-part-3" class="section-title"></h3>
+                    <div id="posts-container-part-3"></div>
+                </div>
+            </div>
+
+            <div class="answer-grid-container">
+                <h3 class="answer-section-title">Ihre Antworten für Teil 3</h3>
+                <div class="answer-grid" id="answer-grid-part-3">
+                    <!-- Grid will be dynamically generated by JavaScript -->
+                </div>
+            </div>
+        </div>
+        
+        <!-- Test Part 4 -->
+        <div id="test-part-4" class="test-part">
+            <div class="instructions" id="instructions-part-4"></div>
+                        
+            <div class="meeting-container">
+                <div id="meeting-content-part-4"></div>
+            </div>
+            
+            <div id="questions-container-part-4"></div>
+        </div>
+        
+        <div class="nav-container">
+            <button id="prev-btn" class="nav-button" disabled>Zurück</button>
+            <button id="next-btn" class="nav-button">Weiter</button>
+        </div>
+        
+        <div class="buttons">
+            <button id="finish-btn" class="submit-button">Prüfung abgeben</button>
+            <button id="new-test-btn" class="hidden submit-button">Neuer Test</button>
+        </div>
+        
+        <div id="results" class="results hidden">
+            <div class="score" id="score"></div>
+            <div id="detailed-results"></div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>TELC B2 Test Übungsplattform | contact: <a href="mailto:nguyenvulebinh@gmail.com">nguyenbinh</a></p>
+    </footer>
+    
+    <!-- Include Marked.js for markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Import JavaScript modules -->
+    <script type="module">
+        // Set the test type parameter
+        window.testType = 'lesen-exam';
+        
+        // Timer functionality
+        let timerInterval;
+        let startTime;
+        let timerElement;
+        const maxTimeInMinutes = 45;
+        
+        function startTimer() {
+            // Get timer element
+            timerElement = document.getElementById('timer');
+            if (!timerElement) return;
+            
+            // Clear any existing timer
+            if (timerInterval) {
+                clearInterval(timerInterval);
+            }
+            
+            // Set start time
+            startTime = new Date().getTime();
+            
+            // Update timer immediately and then every second
+            updateTimer();
+            timerInterval = setInterval(updateTimer, 1000);
+        }
+        
+        function updateTimer() {
+            if (!timerElement) return;
+            
+            const currentTime = new Date().getTime();
+            const elapsedTime = currentTime - startTime;
+            
+            // Calculate hours, minutes, seconds
+            const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
+            const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
+            
+            // Format time as HH:MM:SS
+            const formattedTime = 
+                (hours < 10 ? '0' : '') + hours + ':' +
+                (minutes < 10 ? '0' : '') + minutes + ':' +
+                (seconds < 10 ? '0' : '') + seconds;
+                
+            // Update timer display
+            timerElement.textContent = formattedTime;
+            
+            // Check if time exceeds maximum (45 minutes)
+            if (minutes >= maxTimeInMinutes) {
+                timerElement.classList.add('warning');
+            } else {
+                timerElement.classList.remove('warning');
+            }
+        }
+        
+        function resetTimer() {
+            // Reset timer when starting a new test
+            startTimer();
+        }
+        
+        // Start timer when page is loaded and test is ready
+        document.addEventListener('DOMContentLoaded', function() {
+            // Will start the timer once the test is initialized
+        });
+        
+        // Add cache-busting to force browser to load fresh JavaScript
+        const timestamp = Date.now();
+        
+        // Import modules directly with cache-busting
+        import(`../js/core/utils.js?v=${timestamp}`).then(utilsModule => {
+            window.Utils = utilsModule.default;
+            
+            import(`../js/core/test-engine.js?v=${timestamp}`).then(engineModule => {
+                window.TestEngine = engineModule.default;
+                
+                import(`../js/test-types/lesen-exam.js?v=${timestamp}`).then(examModule => {
+                    window.LesenExam = examModule.default;
+                    
+                    // Initialize the test
+                    const testEngine = new window.LesenExam();
+                    testEngine.initialize().catch(error => {
+                        console.error('Error initializing test engine:', error);
+                    }).finally(() => {
+                        // Start the timer when test is initialized
+                        startTimer();
+                        
+                        // Add event listener to the new test button to reset timer
+                        const newTestButton = document.getElementById('new-test-btn');
+                        if (newTestButton) {
+                            newTestButton.addEventListener('click', resetTimer);
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html> 

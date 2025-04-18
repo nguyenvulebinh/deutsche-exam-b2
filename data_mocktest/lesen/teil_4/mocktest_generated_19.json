@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 09:30 – 11:00 Uhr**\n**Ort:** Konferenzraum 'Grünes Tal', EcoTech Hauptsitz, Ökostraße 12, 80331 München\n\n**Anwesende:**\n*   Dr. Anja Weber (AW, Geschäftsführung)\n*   Stefan Meier (SM, Leitung Produktion)\n*   Carla Novak (CN, Leitung Vertrieb & Marketing)\n*   Ben Schröder (BS, Leitung Forschung & Entwicklung)\n*   Lena Bauer (LB, Leitung Einkauf)\n*   Tim Richter (TR, Leitung Finanzen & Controlling)\n*   Sandra Keller (SK, Leitung Personal)\n\n**Entschuldigt:** Herr Klaus Vogel (KV, IT-Leitung)\n\n**Sitzungsleitung:** Dr. Anja Weber (AW)\n**Protokollantin:** Sandra Keller (SK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.09.20XX\n2.  Aktuelle Marktlage und Vertriebsziele Q4\n3.  Produktionskapazitäten und Materialbeschaffung (Fokus: Holzwerkstoffe)\n4.  Projekt \"SmartHome Modul Alpha\": Statusbericht F&E\n5.  Personal: Weiterbildungsprogramm 20XX+1\n6.  Sonstiges (Messeauftritt \"BauZukunft\", interne Feier)\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.09.20XX**\n\nAW begrüßt die Anwesenden. SK bittet um Genehmigung des Protokolls der letzten Sitzung. CN weist auf eine falsche Schreibweise eines Kundennamens unter TOP 4 hin. Nach Korrektur dieses Details wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Marktlage und Vertriebsziele Q4**\n\nCN berichtet über die aktuelle Marktsituation. Die Nachfrage nach den Standard-EcoBaustoffen ist weiterhin stabil und gut. Für diese Produktlinie wird für Q4 eine Umsatzsteigerung von 10% gegenüber Q3 angestrebt. Sorgen bereitet jedoch der Absatz der neuen Öko-Dämmmaterialien, der hinter den Erwartungen zurückbleibt. CN wird bis Mitte November ein Konzept für eine Sonderaktion entwickeln, um den Verkauf dieser Materialien zu fördern und potenzielle Großkunden gezielt anzusprechen.\n\n**TOP 3 Produktionskapazitäten und Materialbeschaffung (Fokus: Holzwerkstoffe)**\n\nSM erläutert, dass die Produktionskapazitäten aktuell ausgelastet, aber noch ausreichend sind. Sollte das Vertriebsziel für Q4 erreicht werden, könnte es jedoch eng werden. LB berichtet ergänzend von Herausforderungen bei der Beschaffung: Ein wichtiger Lieferant für zertifizierte Holzwerkstoffe zeigt sich zunehmend unzuverlässig bei den Lieferterminen. Dies hat bereits zu kleineren Verzögerungen geführt und könnte, falls es anhält, zu Produktionsverzögerungen von bis zu einer Woche führen. LB wurde beauftragt, dringend bis Ende Oktober mindestens einen alternativen, ebenfalls zertifizierten Lieferanten zu identifizieren und erste Konditionen zu verhandeln.\n\n**TOP 4 Projekt \"SmartHome Modul Alpha\": Statusbericht F&E**\n\nBS informiert über den Stand des Projekts. Die technische Entwicklung des Moduls selbst ist abgeschlossen. Derzeit läuft die intensive Software-Testphase. Dabei wurden Kompatibilitätsprobleme mit einem spezifischen mobilen Betriebssystem (iOS) festgestellt, die noch behoben werden müssen. Die geplante Markteinführung im ersten Quartal des kommenden Jahres ist davon abhängig, dass diese Probleme zeitnah gelöst werden können. BS versichert, dass die Fehlerbehebung höchste Priorität hat und er in der nächsten Sitzung über den Fortschritt berichten wird.\n\n**TOP 5 Personal: Weiterbildungsprogramm 20XX+1**\n\nSK stellt die Grundzüge des geplanten Weiterbildungsprogramms für das kommende Jahr vor. Schwerpunkte sollen auf der Stärkung digitaler Kompetenzen (Umgang mit neuer Planungssoftware, Datenanalyse) sowie auf vertieftem Wissen im Bereich Nachhaltigkeitszertifizierungen liegen. Das detaillierte Programm mit spezifischen Modulangeboten wird von SK bis Ende November finalisiert und im Dezember der Belegschaft vorgestellt. Die Teilnahme wird für Führungskräfte und Mitarbeiter aus F&E sowie Vertrieb verpflichtend sein, für andere Bereiche auf freiwilliger Basis angeboten.\n\n**TOP 6 Sonstiges (Messeauftritt \"BauZukunft\", interne Feier)**\n\nAW bestätigt die Teilnahme an der wichtigen Fachmesse \"BauZukunft\" im Februar des nächsten Jahres. CN wird die Koordination des Messeauftritts übernehmen. Weiterhin gibt AW bekannt, dass die Jahresabschlussfeier für alle Mitarbeiterinnen und Mitarbeiter am Freitag, den 15. Dezember, ab 18:00 Uhr in der firmeneigenen Kantine stattfinden wird. Es sind keine weiteren Punkte unter Sonstiges von den Teilnehmenden gemeldet worden. Die nächste Sitzung ist für den 16. November geplant.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Verkäufe des neuen Dämmmaterials",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "entsprechen den Erwartungen für Q4."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen durch eine Sonderaktion gefördert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "sind besser als die der Standardprodukte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Probleme bei der Materialbeschaffung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "betreffen zertifizierte Holzwerkstoffe."
+                },
+                {
+                    "key": "b",
+                    "text": "führen zu mehrwöchigen Produktionsausfällen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden bereits durch einen neuen Lieferanten gelöst."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Projekt \"SmartHome Modul Alpha\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist technisch noch nicht fertig entwickelt."
+                },
+                {
+                    "key": "b",
+                    "text": "wird sicher im ersten Quartal starten."
+                },
+                {
+                    "key": "c",
+                    "text": "befindet sich derzeit noch in der Testphase."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das neue Weiterbildungsprogramm",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird Ende November fertiggestellt sein."
+                },
+                {
+                    "key": "b",
+                    "text": "ist für alle Mitarbeiter verpflichtend."
+                },
+                {
+                    "key": "c",
+                    "text": "konzentriert sich ausschließlich auf Nachhaltigkeit."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Jahresabschlussfeier der Firma",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird von Frau Novak organisiert."
+                },
+                {
+                    "key": "b",
+                    "text": "findet Mitte Dezember in der Kantine statt."
+                },
+                {
+                    "key": "c",
+                    "text": "hat noch keinen bestätigten Termin."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 09:30 – 11:00 Uhr**\n**Ort:** Konferenzraum \"Alpenblick\", Firmenzentrale, Industriestraße 5, 8XXXX Musterstadt\n\n**Anwesende:**\n*   Dr. Lena Weber (LW, Geschäftsführung)\n*   Markus Schmidt (MS, Leitung Vertrieb)\n*   Sabine Keller (SK, Leitung Produktion)\n*   Omar Al-Hassan (OA, Leitung IT)\n*   Peter König (PK, Leitung Personal)\n*   Julia Meyer (JM, Leitung Finanzen)\n*   Ben Fischer (BF, Assistenz GF)\n\n**Sitzungsleitung:** Dr. Lena Weber (LW)\n**Protokollant:** Ben Fischer (BF)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Bericht Vertrieb: Aktuelle Verkaufszahlen Q3\n3.  Projektstand: Einführung CRM-System \"SalesFlow\"\n4.  Personalbedarf und Weiterbildung\n5.  Produktion: Notwendigkeit Anschaffung CNC-Maschine\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nLW begrüßt alle Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 15. August 20XX wird ohne Änderungen einstimmig genehmigt.\n\n**TOP 2 Bericht Vertrieb: Aktuelle Verkaufszahlen Q3**\n\nMS berichtet über die Verkaufszahlen des dritten Quartals. Insgesamt konnte ein Umsatzplus von 5% gegenüber dem Vorquartal erzielt werden. Besonders erfreulich entwickelt sich die Produktlinie \"Alpha\" mit einem Zuwachs von 15%. Dagegen zeigt die Produktlinie \"Beta\" einen Rückgang von 8%, insbesondere im Vertriebsgebiet Süddeutschland. Als Reaktion ist eine gezielte Marketingkampagne für die \"Beta\"-Linie geplant, die Anfang Oktober starten soll. JM weist auf die Notwendigkeit hin, das Budget für diese außerplanmäßige Kampagne zu prüfen.\n\n**TOP 3 Projektstand: Einführung CRM-System \"SalesFlow\"**\n\nOA informiert über den Stand der Einführung des neuen CRM-Systems \"SalesFlow\". Die Pilotphase im Vertriebsteam wurde letzte Woche erfolgreich abgeschlossen. Das Feedback der Nutzer ist überwiegend positiv. Allerdings bestehen weiterhin Probleme bei der Datenmigration aus dem Altsystem; hier sind noch Inkonsistenzen aufgetreten. OA schätzt, dass die vollständige Bereinigung der Daten noch etwa zwei Wochen in Anspruch nehmen wird. Der unternehmensweite Rollout ist nach wie vor für den 1. November geplant. Voraussetzung dafür ist die Durchführung von verpflichtenden Schulungen für alle Mitarbeiterinnen und Mitarbeiter im Vertrieb, die im Oktober stattfinden sollen.\n\n**TOP 4 Personalbedarf und Weiterbildung**\n\nPK erläutert den aktuellen Personalbedarf. Für die Abteilung Forschung und Entwicklung (R&D) werden dringend drei neue Ingenieure gesucht. Die entsprechenden Stellenausschreibungen wurden letzten Montag veröffentlicht. Erste Bewerbungsgespräche sind bereits für die kommende Woche terminiert. Des Weiteren schlägt PK die Durchführung eines internen Workshops zum Thema \"Digitale Kollaborationstools\" für alle Beschäftigten im vierten Quartal vor, um die Nutzung der vorhandenen Software zu optimieren. LW begrüßt den Vorschlag und genehmigt die Planung des Workshops.\n\n**TOP 5 Produktion: Notwendigkeit Anschaffung CNC-Maschine**\n\nSK begründet die Notwendigkeit der Anschaffung einer neuen CNC-Fräsmaschine. Gründe hierfür sind sowohl die gestiegene Auftragslage als auch die zunehmend häufigeren Ausfälle und hohen Reparaturkosten der bestehenden Altanlage. SK stellt zwei Modelle zur Diskussion: Modell X, das kostengünstiger ist, jedoch eine längere Lieferzeit hat, und Modell Y, das teurer ist, aber schneller verfügbar wäre und eine höhere Präzision bietet. Nach kurzer Diskussion wird die Entscheidung über die Anschaffung auf die nächste Sitzung vertagt. SK wird beauftragt, bis Ende September eine detaillierte Kosten-Nutzen-Analyse für beide Modelle vorzulegen.\n\n**TOP 6 Sonstiges**\n\nLW erinnert daran, dass das geplante Sommerfest des Unternehmens aufgrund der anhaltend schlechten Wetterprognose leider abgesagt werden musste. Sie schlägt vor, stattdessen über eine kleinere Winterfeier, möglicherweise Anfang Dezember, nachzudenken. Hierzu soll zu einem späteren Zeitpunkt entschieden werden. BF merkt an, dass im internen Telefonverzeichnis ein kleiner Tippfehler bei einer Durchwahl korrigiert werden müsse.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Verkaufsergebnisse",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind im Süden Deutschlands insgesamt gesunken."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigen Unterschiede je nach Produktlinie."
+                },
+                {
+                    "key": "c",
+                    "text": "werden durch eine Kampagne ab September verbessert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue CRM-Software",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits von allen Mitarbeitern genutzt."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert Schulungen wegen Bedienungsschwierigkeiten."
+                },
+                {
+                    "key": "c",
+                    "text": "hat noch Probleme bei der Datenübertragung."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Personalabteilung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sucht aktuell neue Mitarbeiter für die Entwicklung."
+                },
+                {
+                    "key": "b",
+                    "text": "hat bereits drei neue Ingenieure eingestellt."
+                },
+                {
+                    "key": "c",
+                    "text": "plant eine Schulung nur für die Forschungsabteilung."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neue CNC-Maschine",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll Ende September bestellt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird benötigt, weil die alte Maschine oft ausfällt."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde bereits ausgewählt, aber noch nicht finanziert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Betriebsfest",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte im Sommer nicht wie geplant stattfinden."
+                },
+                {
+                    "key": "b",
+                    "text": "findet dieses Jahr im frühen Dezember statt."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde auf Vorschlag des Protokollanten verschoben."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

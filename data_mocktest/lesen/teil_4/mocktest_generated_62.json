@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum \"Wald\", Firmenzentrale, Ökostraße 5, 12345 Grünstadt\n\n**Anwesende:**\n*   Dr. Anna Weber (AW, Geschäftsführung)\n*   Stefan Meier (SM, Leitung Vertrieb)\n*   Clara Fischer (CF, Leitung Produktion)\n*   Dr. Ben Schmidt (BS, Leitung Forschung & Entwicklung)\n*   Laura König (LK, Leitung Marketing)\n*   Markus Huber (MH, Leitung Personal)\n*   Eva Bauer (EB, Leitung Finanzen)\n\n**Entschuldigt:** Thomas Wolf (TW, Leitung IT)\n\n**Sitzungsleitung:** Dr. Anna Weber (AW)\n**Protokollantin:** Laura König (LK)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15. August 20XX\n2.  Aktuelle Marktsituation & Verkaufszahlen Q3\n3.  Projektstatus \"BioWrap-Folienentwicklung\"\n4.  Planung Produktionsumstellung Linie 3\n5.  Vorbereitung Fachmesse \"GreenPack Europe\"\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15. August 20XX**\n\nAW begrüßt alle Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 15. August wird zur Genehmigung vorgelegt. Es gibt keine Wortmeldungen oder Änderungsanträge. Das Protokoll wird einstimmig angenommen.\n\n**TOP 2 Aktuelle Marktsituation & Verkaufszahlen Q3**\n\nSM berichtet über die Verkaufszahlen des fast abgelaufenen dritten Quartals. Insgesamt liegt der Umsatz 8% über dem Vorjahresquartal, was hauptsächlich auf die allgemein gestiegene Nachfrage nach nachhaltigen Verpackungen zurückzuführen ist. Besonders erfreulich entwickelte sich der Verkauf der \"BioBox Kartons\", deren Absatz um fast 20% gesteigert werden konnte. Die Verkaufszahlen der \"CompoSchalen\" blieben hingegen leicht hinter den Erwartungen zurück, was möglicherweise an neuen Konkurrenzprodukten liegt. EB bestätigt die positiven Zahlen und ergänzt, dass die Profitabilität im Rahmen der Planung liegt.\n\n**TOP 3 Projektstatus \"BioWrap-Folienentwicklung\"**\n\nBS präsentiert die neuesten Testergebnisse der \"BioWrap\"-Folie. Die Tests zur Reißfestigkeit und Haltbarkeit waren erfolgreich. Allerdings zeigte sich bei den Kompostierungstests unter realen Bedingungen, dass der Zersetzungsprozess durchschnittlich zwei Wochen länger dauert als ursprünglich anvisiert (Ziel: 8 Wochen, Ist: ca. 10 Wochen). BS schlägt vor, die Zusammensetzung leicht zu modifizieren, um den Prozess zu beschleunigen. Dies erfordert weitere Tests. AW entscheidet, dass die Forschungsabteilung bis Ende Oktober Anpassungsvorschläge erarbeiten und erneut testen soll. Eine Entscheidung über die Markteinführung wird daher auf die November-Sitzung vertagt.\n\n**TOP 4 Planung Produktionsumstellung Linie 3**\n\nCF erläutert die Notwendigkeit, Produktionslinie 3 für die Herstellung der neuen, größeren \"BioBox XL\"-Formate umzurüsten. Die Umstellung ist technisch anspruchsvoll und soll planmäßig in Kalenderwoche 42 beginnen. Die voraussichtliche Dauer der Umbauarbeiten wird auf etwa drei Wochen geschätzt. Während dieser Zeit muss mit einer Reduzierung der Gesamtproduktionskapazität um ca. 15% gerechnet werden. CF und ihr Team haben bereits einen detaillierten Plan ausgearbeitet, um die Auswirkungen auf laufende Aufträge zu minimieren. Sie koordiniert die Umstellung und die Kommunikation mit dem Vertrieb.\n\n**TOP 5 Vorbereitung Fachmesse \"GreenPack Europe\"**\n\nLK informiert über den Stand der Vorbereitungen für die \"GreenPack Europe\" Messe in Brüssel im November. Das Hauptziel des Messeauftritts ist die Vorstellung der aktuellen Produktpalette sowie die Präsentation der \"BioWrap\"-Folien als Prototypen, um erstes Kundenfeedback einzuholen. Das beantragte Budget wurde von EB genehmigt, allerdings musste es um 10% gekürzt werden. LK präsentiert nächste Woche den Entwurf für das Standdesign und bittet um zeitnahes Feedback. SM bestätigt die Wichtigkeit der Messe für die Neukundengewinnung.\n\n**TOP 6 Sonstiges**\n\nMH erinnert alle Abteilungsleiter an die bevorstehende verpflichtende IT-Sicherheitsschulung am 25. September. Die Einladungen wurden bereits per E-Mail versandt. Weitere Punkte werden nicht angesprochen. AW bedankt sich für die konstruktive Sitzung und schließt sie pünktlich um 10:30 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste in einem Punkt korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst nächste Woche genehmigt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Verkaufszahlen im 3. Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zeigen ein starkes Wachstum bei BioBox Kartons."
+                },
+                {
+                    "key": "b",
+                    "text": "waren bei allen Produkten gleichbleibend."
+                },
+                {
+                    "key": "c",
+                    "text": "sind vor allem wegen eines Neukunden gestiegen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neuen BioWrap-Folien",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden später auf den Markt kommen als geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "sind bereits für die Produktion freigegeben."
+                },
+                {
+                    "key": "c",
+                    "text": "sind laut Tests besser als Konkurrenzprodukte."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Umstellung der Produktionslinie 3",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beginnt Mitte Oktober."
+                },
+                {
+                    "key": "b",
+                    "text": "ist bereits abgeschlossen."
+                },
+                {
+                    "key": "c",
+                    "text": "dauert nur eine Woche."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Fachmesse \"GreenPack Europe\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dient der Präsentation von Prototypen."
+                },
+                {
+                    "key": "b",
+                    "text": "hat ein höheres Budget als beantragt."
+                },
+                {
+                    "key": "c",
+                    "text": "findet dieses Jahr in Grünstadt statt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

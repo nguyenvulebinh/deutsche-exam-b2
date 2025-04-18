@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**10. Juli 20XX, 9:00 – 10:30 Uhr**\n**Ort:** Konferenzraum Alpha, Hauptstraße 15, 12345 Neustadt\n\n**Anwesende:**\n*   Herr Steiner (HS, Geschäftsführung)\n*   Frau Berger (FB, Leitung Verkauf)\n*   Herr Gruber (HG, Leitung Produktion)\n*   Frau Voss (FV, Leitung Marketing)\n*   Herr König (HKö, Leitung Personal)\n*   Herr Abel (HA, IT-Leitung)\n*   Frau Fischer (FF, Assistenz)\n\n**Entschuldigt:** Frau Sommer (FS, Leitung Einkauf)\n\n**Sitzungsleitung:** Herr Steiner (HS)\n**Protokollantin:** Frau Fischer (FF)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls der letzten Sitzung\n2.  Verkaufszahlen Q2 und Marktentwicklung\n3.  Aktuelle Produktionskapazitäten und Herausforderungen\n4.  Vorstellung Marketingkampagne \"EcoOffice\"\n5.  Zeitplan Rollout neues IT-System (CRM)\n6.  Budgetplanung Mitarbeiterschulungen\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls der letzten Sitzung**\n\nHS begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 12. Juni 20XX wird zur Genehmigung vorgelegt. Es gibt keine Wortmeldungen oder Änderungswünsche. Das Protokoll wird einstimmig ohne Einwände angenommen.\n\n**TOP 2 Verkaufszahlen Q2 und Marktentwicklung**\n\nFB präsentiert die Verkaufszahlen für das zweite Quartal. Insgesamt konnte der Umsatz im Vergleich zum Vorjahresquartal um erfreuliche 12% gesteigert werden. Besonders positiv entwickelten sich die neuen ergonomischen Bürostühle. Die Verkaufszahlen für klassische Schreibtische sind jedoch leicht rückläufig (-3%). Die allgemeine Marktentwicklung für Büromöbel bleibt stabil. Als Ziel für Q3 wird eine weitere Steigerung von 5% angestrebt.\n\n**TOP 3 Aktuelle Produktionskapazitäten und Herausforderungen**\n\nHG berichtet über die hohe Auslastung der Produktion, insbesondere aufgrund der starken Nachfrage nach dem neuen Bürostuhl Modell \"ErgoFlex\". Dies führt aktuell zu Kapazitätsengpässen. Die Einführung von Überstunden wurde im Team diskutiert, wird aber aufgrund der angespannten Personalsituation vorerst nicht umgesetzt. Um die Kapazität zu erhöhen, wird HG beauftragt, bis zur nächsten Sitzung die Anschaffung einer zusätzlichen CNC-Fräsmaschine zu prüfen und erste Angebote einzuholen. Probleme mit Materiallieferungen gibt es derzeit nicht.\n\n**TOP 4 Vorstellung Marketingkampagne \"EcoOffice\"**\n\nFV stellt die geplante Marketingkampagne \"EcoOffice\" vor, die sich auf nachhaltige Büromöbellösungen konzentriert. Zielgruppe sind kleine und mittelständische Unternehmen (KMU) mit Umweltbewusstsein. Die Kampagne soll am 1. September starten und zielt darauf ab, die Anzahl qualifizierter Anfragen (Leads) um 15% zu steigern. Das dafür notwendige Budget wurde bereits von HS genehmigt. FV präsentiert die zentralen Werbebotschaften und geplanten Online-Marketingmaßnahmen.\n\n**TOP 5 Zeitplan Rollout neues IT-System (CRM)**\n\nHA informiert über den bevorstehenden Rollout des neuen Customer-Relationship-Management (CRM) Systems. Der Start erfolgt gestaffelt: Ab nächster Woche (KW 29) beginnen die Abteilungen Verkauf und Marketing mit der Nutzung. Die restlichen Abteilungen folgen planmäßig im vierten Quartal (Q4). HA berichtet, dass kleinere technische Probleme während der Testphase auftraten, diese aber inzwischen vollständig behoben wurden. Die Teilnahme an den geplanten Anwenderschulungen ist für alle betroffenen Mitarbeiter verpflichtend; die genauen Termine werden in Kürze bekannt gegeben.\n\n**TOP 6 Budgetplanung Mitarbeiterschulungen**\n\nHKö erläutert den Bedarf an zusätzlichen Mitteln für Mitarbeiterschulungen, insbesondere für Englischkurse für das Verkaufsteam aufgrund zunehmender internationaler Kundenkontakte. Das aktuelle Jahresbudget von 20.000 € sei dafür nicht ausreichend. HS vertagt die Entscheidung über eine Budgeterhöhung auf die nächste Sitzung, um die Ergebnisse des Q2 abzuwarten.\n\n**TOP 7 Sonstiges**\n\nHS bestätigt die beschlossene Teilnahme an der Fachmesse \"Orgatec\" in Köln im kommenden Oktober. FB und FV werden das Unternehmen dort vertreten. FF wird gebeten, die Hotelreservierungen für die beiden Teilnehmerinnen bis Ende dieser Woche (KW 28) verbindlich vorzunehmen. Weitere Punkte werden nicht angesprochen. HS schließt die Sitzung um 10:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste von Frau Fischer korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Einwände angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst beim nächsten Treffen genehmigt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Laut Bericht von Frau Berger",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "stiegen die Verkäufe in allen Bereichen um 12%."
+                },
+                {
+                    "key": "b",
+                    "text": "soll das Verkaufsziel im nächsten Quartal erreicht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "entwickelten sich nicht alle Produktlinien gleich gut."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Produktionsabteilung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "prüft die Anschaffung einer zusätzlichen Maschine."
+                },
+                {
+                    "key": "b",
+                    "text": "führt wegen der hohen Nachfrage Überstunden ein."
+                },
+                {
+                    "key": "c",
+                    "text": "leidet unter verspäteten Materiallieferungen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das neue CRM-System",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "steht ab nächster Woche allen Mitarbeitern zur Verfügung."
+                },
+                {
+                    "key": "b",
+                    "text": "verursachte anfangs technische Probleme, die noch bestehen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird schrittweise im Unternehmen eingeführt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Für die Messe \"Orgatec\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist die Teilnahme der Firma noch nicht sicher."
+                },
+                {
+                    "key": "b",
+                    "text": "muss die Hotelbuchung bald erfolgen."
+                },
+                {
+                    "key": "c",
+                    "text": "übernimmt Frau Voss die gesamte Organisation."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

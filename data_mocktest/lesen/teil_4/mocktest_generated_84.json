@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**18. Oktober 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum „Alpenblick“, Firmenzentrale, Hauptstraße 42, 87654 Musterstadt\n\n**Anwesende:**\n*   Herr Dr. Klaus Berger (KB, Geschäftsführung)\n*   Frau Simone Adler (SA, Leitung Marketing)\n*   Herr Markus Weber (MW, Leitung Produktion)\n*   Frau Lena Richter (LR, Leitung Personal)\n*   Herr Jan Hoffmann (JH, Leitung Vertrieb)\n*   Frau Sabine Grünwald (SG, Leitung Finanzen)\n*   Herr Chen Li (CL, IT-Abteilung)\n\n**Entschuldigt:** Herr Peter Stein (PS, Leitung Einkauf)\n**Sitzungsleitung:** Dr. Klaus Berger (KB)\n**Protokollant:** Chen Li (CL)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 20.09.20XX\n2.  Aktuelle Produktionszahlen und Lieferkettenstatus\n3.  Projekt „Digitalisierung Vertriebsprozess“ – Update\n4.  Vorbereitung Messe „Electronica 20XX“\n5.  Personalentwicklung: Einführung Mentorenprogramm\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 20.09.20XX**\n\nKB begrüßt die Anwesenden zur heutigen Sitzung. Er bittet um Genehmigung des Protokolls der letzten Sitzung. JH weist darauf hin, dass sein Name in der Teilnehmerliste der letzten Sitzung falsch geschrieben war. Nach Berichtigung dieser Kleinigkeit wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen und Lieferkettenstatus**\n\nMW berichtet, dass die Produktion derzeit stabil läuft und die Produktionszahlen sogar leicht über dem Plan für das dritte Quartal liegen. Sorgen bereiten jedoch weiterhin die Lieferengpässe bei einem wichtigen Zulieferer für spezielle Mikrochips aus Asien. Obwohl bereits Gespräche zur Erhöhung der Liefermengen geführt wurden, bleibt die Situation angespannt. MW betont, dass aktuell keine unmittelbare Gefahr für die Auslieferung bestehender Kundenaufträge besteht. Es stelle sich jedoch ein mittelfristiges Risiko dar, falls dieser Engpass andauert. KB beauftragt MW und den abwesenden PS, dringend die Prüfung alternativer Lieferanten voranzutreiben und bis zur nächsten Sitzung erste Ergebnisse vorzulegen.\n\n**TOP 3 Projekt „Digitalisierung Vertriebsprozess“ – Update**\n\nJH und CL geben ein Update zum Projektstand. Die Implementierung der neuen CRM-Software ist in Phase 2 übergegangen, nachdem die Basisinstallation (Phase 1) erfolgreich abgeschlossen wurde. Die nun laufende Phase 2, welche die spezifischen Anpassungen für den Vertrieb und die Datenmigration aus dem Altsystem umfasst, gestaltet sich komplexer als erwartet. CL erläutert, dass insbesondere die Datenmigration mehr Zeit beansprucht. Der ursprüngliche Zeitplan kann daher nicht gehalten werden; als neues Zieldatum für den Abschluss von Phase 2 wird Ende November anvisiert. CL arbeitet intensiv an der Lösung der Migrationsprobleme. Die Schulungen für das Vertriebsteam zur Nutzung der neuen Software sind nun ab Anfang Dezember geplant.\n\n**TOP 4 Vorbereitung Messe „Electronica 20XX“**\n\nSA stellt den finalen Entwurf des Messestandes für die „Electronica“ im November vor. Das Konzept, das die neue Produktlinie „SensorX“ in den Mittelpunkt stellt, wird von allen Anwesenden positiv bewertet und genehmigt. Das zur Verfügung stehende Budget sei zwar knapp bemessen, könne aber nach aktueller Planung eingehalten werden, so SA. Ein kritisches Thema sei jedoch noch die Besetzung des Messestandes. Es werden dringend noch freiwillige Helferinnen und Helfer, auch aus anderen Abteilungen wie Produktion und IT, für die Standbetreuung gesucht. KB appelliert an alle Anwesenden, in ihren Teams dafür zu werben. Interessierte sollen sich bitte bis spätestens Ende Oktober bei SA melden.\n\n**TOP 5 Personalentwicklung: Einführung Mentorenprogramm**\n\nLR stellt das Konzept für ein neues Mentorenprogramm vor, das ab Januar des kommenden Jahres starten soll. Hauptziele sind die strukturierte Einarbeitung neuer Mitarbeiterinnen und Mitarbeiter sowie die gezielte Förderung von Potenzialträgern innerhalb des Unternehmens. Erfahrene Kolleginnen und Kollegen sollen dabei als Mentoren fungieren. LR betont, dass die Teilnahme als Mentor auf freiwilliger Basis erfolgt, jedoch von der Geschäftsführung sehr begrüßt wird. Sie bittet die Abteilungsleiter, geeignete und interessierte Mitarbeiter anzusprechen. Eine detaillierte Informationsveranstaltung für alle potenziellen Mentoren ist für Mitte November geplant.\n\n**TOP 6 Sonstiges**\n\nSG informiert kurz, dass die erste Runde der Budgetplanung für das nächste Geschäftsjahr begonnen hat und sie in den kommenden Wochen auf die Abteilungsleiter zukommen wird. KB erinnert zudem an das 25-jährige Firmenjubiläum im nächsten Frühjahr und kündigt an, dass dazu bald eine kleine Planungsgruppe eingesetzt wird. Keine weiteren Wortmeldungen. KB schließt die Sitzung um 10:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste vor der Genehmigung leicht korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt Fehler bei den Produktionszahlen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Liefersituation",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "gefährdet mittelfristig die Produktion bestimmter Teile."
+                },
+                {
+                    "key": "b",
+                    "text": "sorgt aktuell für Produktionsausfälle bei allen Produkten."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde durch einen neuen Vertragspartner bereits gelöst."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das Projekt „Digitalisierung Vertriebsprozess“",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "benötigt wegen technischer Probleme mehr Zeit als geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "wird vollständig bis Ende Oktober abgeschlossen sein."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhaltet ab Dezember Schulungen für alle Mitarbeiter."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Für die Messe „Electronica“",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden noch Mitarbeiter für die Standbetreuung gesucht."
+                },
+                {
+                    "key": "b",
+                    "text": "muss das geplante Budget erhöht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen ausschließlich Marketing-Mitarbeiter eingesetzt werden."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Das neue Mentorenprogramm",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll im nächsten Jahr starten und richtet sich an neue Kollegen."
+                },
+                {
+                    "key": "b",
+                    "text": "verpflichtet erfahrene Mitarbeiter zur Teilnahme als Mentor."
+                },
+                {
+                    "key": "c",
+                    "text": "beginnt bereits Mitte November mit einer Infoveranstaltung."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

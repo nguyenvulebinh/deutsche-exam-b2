@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 09:00 – 10:45 Uhr**\n**Ort:** Konferenzraum \"Alpenblick\", Klar & Frisch GmbH, Ökostraße 5, 87654 Grünstadt\n\n**Anwesende:**\n*   Dr. Hanna Gruber (HG, Geschäftsführung)\n*   Stefan Meier (SM, Leitung Produktion & Logistik)\n*   Lena Bauer (LB, Leitung Marketing & Vertrieb)\n*   Ahmet Yilmaz (AY, Leitung Forschung & Entwicklung)\n*   Claudia Richter (CR, Leitung Finanzen & Controlling)\n*   David Neumann (DN, Leitung Personal)\n*   Sandra Vogt (SV, Assistenz Geschäftsführung)\n\n**Gast:** Herr Klaus Fischer (KF, externer Berater Nachhaltigkeit)\n\n**Sitzungsleitung:** Dr. Hanna Gruber (HG)\n**Protokollantin:** Sandra Vogt (SV)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.08.20XX\n2.  Nachhaltigkeitsstrategie 20XX+ (Bericht Herr Fischer)\n3.  Neue Produktlinie \"Meeresbrise\" – Stand Markteinführung\n4.  Aktuelle Herausforderungen in der Logistik\n5.  Marketingkampagne Q4\n6.  Personalsituation und Weiterbildung\n7.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.08.20XX**\n\nHG begrüßt alle Anwesenden sowie Herrn Fischer. Das Protokoll der Sitzung vom 15. August 20XX wird ohne Einwände einstimmig genehmigt.\n\n**TOP 2 Nachhaltigkeitsstrategie 20XX+ (Bericht Herr Fischer)**\n\nKF präsentiert die Ergebnisse seiner Analyse und gibt Empfehlungen zur Weiterentwicklung der Nachhaltigkeitsstrategie. Ein Kernpunkt ist die Reduzierung von Plastikverpackungen. Es wird beschlossen, bis zum ersten Quartal des nächsten Jahres ein Pilotprojekt für Nachfüllstationen in ausgewählten Partnergeschäften zu starten. AY wird beauftragt, die technische Machbarkeit und potenzielle Kosten für alternative, biologisch abbaubare Verpackungsmaterialien zu evaluieren und bis Jahresende zu berichten. HG unterstreicht die strategische Bedeutung dieser Initiativen für das Unternehmensimage.\n\n**TOP 3 Neue Produktlinie \"Meeresbrise\" – Stand Markteinführung**\n\nAY berichtet, dass die Produktentwicklung für die neue Linie \"Meeresbrise\" abgeschlossen ist. LB informiert über das Feedback von Testkunden: Dieses sei überwiegend sehr positiv, lediglich die Intensität des Duftes wurde von einigen wenigen als zu schwach empfunden. SM bestätigt, dass die Produktion des ersten Batches für Kalenderwoche 42 geplant ist. Die von LB erstellten Marketingmaterialien sind fast fertig, benötigen aber noch die finale Freigabe durch HG. Der offizielle Markteinführungstermin wird auf den 1. November 20XX festgelegt.\n\n**TOP 4 Aktuelle Herausforderungen in der Logistik**\n\nSM weist auf die stark gestiegenen Transportkosten hin, hauptsächlich verursacht durch hohe Kraftstoffpreise und einen spürbaren Mangel an Fahrpersonal. Als mögliche langfristige Lösung schlägt er vor, den Transport auf längeren Strecken verstärkt über die Schiene zu prüfen. CR bestätigt die Auswirkungen auf das Budget und fordert eine detaillierte Kosten-Nutzen-Analyse dieser Option bis Ende Oktober. Eine Entscheidung hierüber wird vertagt, bis die Analyse vorliegt. Als Sofortmaßnahme wird die Implementierung einer neuen Software zur Routenoptimierung beschlossen, für die SM verantwortlich ist.\n\n**TOP 5 Marketingkampagne Q4**\n\nLB stellt das Konzept für die Marketingkampagne im vierten Quartal vor. Der Fokus liegt auf der Einführung von \"Meeresbrise\" und der Kommunikation der Nachhaltigkeitsbemühungen (vgl. TOP 2). Geplant sind gezielte Online-Werbung, eine Kooperation mit ausgewählten Influencern (Budget wurde von CR bereits genehmigt) sowie eine Sonderaktion für Bestandskunden. HG bittet um eine kleine Anpassung bei der Formulierung des Hauptslogans, welche LB umsetzen wird. Der Start der Kampagne ist für Mitte Oktober geplant.\n\n**TOP 6 Personalsituation und Weiterbildung**\n\nDN berichtet über die erfolgreiche Einstellung von zwei Chemikern für die Abteilung Forschung & Entwicklung. Die Suche nach qualifizierten Logistikfachkräften gestaltet sich jedoch weiterhin schwierig (siehe auch TOP 4). Für alle Mitarbeitenden ist im November eine verpflichtende Schulung zum Thema IT-Sicherheit angesetzt; die genauen Termine werden zeitnah bekannt gegeben. DN erinnert die Abteilungsleitungen zudem an die anstehenden jährlichen Mitarbeitergespräche und Leistungsbeurteilungen.\n\n**TOP 7 Sonstiges**\n\nCR erinnert an die Frist zur Einreichung der Budgetplanung für das kommende Geschäftsjahr bis Ende November. HG erwähnt kurz einen positiven Artikel über Klar & Frisch GmbH in der regionalen Presse. SV wird den Link zum Artikel an alle Teilnehmenden versenden. Der nächste Sitzungstermin wird auf den 10. Oktober 20XX festgelegt.",
+    "aufgaben_list": [
+        {
+            "frage": "Die Nachhaltigkeitsstrategie",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von der Geschäftsführung allein entwickelt."
+                },
+                {
+                    "key": "b",
+                    "text": "sieht als ersten Schritt einen Test mit Nachfüllstationen vor."
+                },
+                {
+                    "key": "c",
+                    "text": "beinhaltet die sofortige Umstellung auf neue Verpackungen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Produktlinie \"Meeresbrise\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde von Testkunden teilweise wegen des Duftes kritisiert."
+                },
+                {
+                    "key": "b",
+                    "text": "kann erst produziert werden, wenn das Marketing fertig ist."
+                },
+                {
+                    "key": "c",
+                    "text": "wird bereits im Oktober auf den Markt kommen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Wegen der Logistikprobleme",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "hat man sich für den Transport per Bahn entschieden."
+                },
+                {
+                    "key": "b",
+                    "text": "muss Frau Richter eine Kostenanalyse erstellen."
+                },
+                {
+                    "key": "c",
+                    "text": "soll zunächst eine neue Software eingesetzt werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Marketingkampagne für Q4",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beinhaltet keine Zusammenarbeit mit Influencern mehr."
+                },
+                {
+                    "key": "b",
+                    "text": "startet Mitte Oktober mit angepasstem Slogan."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde von Frau Gruber komplett neu entworfen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Im Bereich Personal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist eine Schulung zur IT-Sicherheit für alle geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "werden dringend neue Chemiker gesucht."
+                },
+                {
+                    "key": "c",
+                    "text": "finden die Leistungsbeurteilungen bereits diesen Monat statt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

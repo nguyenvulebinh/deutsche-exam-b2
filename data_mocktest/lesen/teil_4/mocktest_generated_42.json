@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Juni 20XX, 09:00 – 10:30 Uhr**\n**Ort:** Besprechungsraum \"Atlas\", Firmenzentrale, Hauptstraße 50, 12345 Neustadt\n\n**Anwesende:**\n*   Karin Lang (KL, Geschäftsführung)\n*   Jonas Bachmann (JB, Leitung Softwareentwicklung)\n*   Maria Santos (MS, Leitung IT-Infrastruktur)\n*   Stefan Weber (SW, Leitung Vertrieb & Marketing)\n*   Anja Richter (AR, Leitung Personal)\n*   David Klein (DK, Projektleitung „Cloud Migration“)\n*   Thomas Meier (TM, Assistenz Geschäftsführung)\n\n**Entschuldigt:**\n*   Sandra Pohl (SP, Leitung Finanzen)\n\n**Sitzungsleitung:** Karin Lang (KL)\n**Protokollant:** Thomas Meier (TM)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des letzten Protokolls\n2.  Projekt „Cloud Migration“: Statusbericht\n3.  Vertriebsergebnisse und Marketinginitiative KMU\n4.  Geplantes Server-Upgrade\n5.  Personalangelegenheiten: Recruiting und Schulungen\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des letzten Protokolls**\n\nKL begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der Sitzung vom 15. Mai 20XX wird ohne Einwände oder Änderungswünsche einstimmig genehmigt.\n\n**TOP 2 Projekt „Cloud Migration“: Statusbericht**\n\nDK berichtet über den aktuellen Stand des Projekts. Phase 2, die Migration der Kundendatenbanken, wurde planmäßig begonnen. Allerdings gibt es eine leichte Verzögerung von etwa einer Woche, da unerwartete Kompatibilitätsprobleme zwischen der alten Datenbankstruktur und der neuen Cloud-Umgebung aufgetreten sind. Das ursprüngliche Ziel, Ende Q2 fertig zu sein, ist damit nicht mehr haltbar. DK ist zuversichtlich, die Probleme zeitnah zu lösen. Der Abschluss des Gesamtprojekts wird nun für Ende Q3 20XX angestrebt. DK koordiniert die notwendigen Anpassungen mit der Softwareentwicklung (JB).\n\n**TOP 3 Vertriebsergebnisse und Marketinginitiative KMU**\n\nSW präsentiert die Vertriebszahlen für das laufende Jahr. Die Gesamtentwicklung ist positiv, insbesondere durch Großkundenprojekte. Jedoch stagniert der Umsatz im Bereich kleiner und mittlerer Unternehmen (KMU). Um dieses Segment zu stärken, plant die Marketingabteilung eine gezielte Online-Marketingkampagne, die im nächsten Monat starten soll. Ziel ist es, die Anzahl der aktiven KMU-Kunden bis zum Jahresende um 15 % zu steigern. SW betont die Wichtigkeit dieses Ziels für eine breitere Kundenbasis. Die Kampagne wird von seiner Abteilung konzipiert und in enger Abstimmung mit dem Vertriebsteam umgesetzt.\n\n**TOP 4 Geplantes Server-Upgrade**\n\nMS informiert über ein notwendiges Upgrade der zentralen Serverinfrastruktur zur Verbesserung der Performance und Sicherheit. Die Wartungsarbeiten sind für das kommende Wochenende geplant und zwar von **Samstagabend, 18:00 Uhr, bis Sonntagmorgen, ca. 06:00 Uhr**. Während dieser Zeit wird es zu einem Ausfall der internen IT-Systeme kommen (u.a. E-Mail-Server, internes Wiki, Entwicklungsumgebungen). Der externe Webauftritt der Firma sowie die Kundenportale sollen davon jedoch nicht betroffen sein. MS wird alle Mitarbeiterinnen und Mitarbeiter morgen per E-Mail über die genauen Auswirkungen und den Zeitplan informieren.\n\n**TOP 5 Personalangelegenheiten: Recruiting und Schulungen**\n\nAR berichtet, dass die Geschäftsführung die Schaffung einer zusätzlichen Stelle für einen „Senior Softwareentwickler“ genehmigt hat. Die Stellenausschreibung ist fertig und wird nächste Woche auf relevanten Online-Portalen und der Firmenwebseite veröffentlicht. Des Weiteren erinnert AR daran, dass die verpflichtende IT-Sicherheitsschulung mittlerweile größtenteils abgeschlossen ist. Sie bittet die Abteilungsleiter, ihre jeweiligen Mitarbeiterinnen und Mitarbeiter, die die Schulung noch nicht absolviert haben, an die Deadline Ende dieses Monats zu erinnern. Eine Liste der betreffenden Personen wurde bereits versandt.\n\n**TOP 6 Sonstiges**\n\nKL gibt bekannt, dass die Teilnahme an der Fachmesse „Digital Future Expo“ im November dieses Jahres bestätigt wurde. Die Standplanung läuft bereits. Details zur Messepräsenz folgen in einer der nächsten Sitzungen.\nZudem weist KL darauf hin, dass für das vierte Quartal eine kleinere Umgestaltung der Büroflächen im zweiten Stock geplant ist, um zusätzliche Arbeitsplätze zu schaffen. Genauere Pläne werden noch ausgearbeitet und vorgestellt.\nKL beendet die Sitzung um 10:28 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Projekt \"Cloud Migration\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "läuft genau nach dem ursprünglichen Zeitplan."
+                },
+                {
+                    "key": "b",
+                    "text": "ist aufgrund von Kompatibilitätsproblemen leicht verzögert."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst Ende des Jahres abgeschlossen sein."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die neue Marketinginitiative",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll die Kundenzahl im KMU-Bereich um 50 % erhöhen."
+                },
+                {
+                    "key": "b",
+                    "text": "konzentriert sich auf internationale Großkunden."
+                },
+                {
+                    "key": "c",
+                    "text": "zielt auf kleine und mittlere Unternehmen ab."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das geplante Server-Upgrade",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verursacht einen Ausfall der internen IT-Systeme."
+                },
+                {
+                    "key": "b",
+                    "text": "findet während der normalen Arbeitszeit statt."
+                },
+                {
+                    "key": "c",
+                    "text": "legt auch die Firmenwebseite vorübergehend lahm."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Sicherheitsschulung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde bereits von allen Mitarbeitern abgeschlossen."
+                },
+                {
+                    "key": "b",
+                    "text": "muss von einigen Beschäftigten noch beendet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist eine freiwillige Weiterbildungsmaßnahme."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die TechSolutions GmbH",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "plant ihre Messeteilnahme für November."
+                },
+                {
+                    "key": "b",
+                    "text": "wird die Büroräume umfassend sanieren."
+                },
+                {
+                    "key": "c",
+                    "text": "stellt noch in diesem Quartal einen Senior Entwickler ein."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

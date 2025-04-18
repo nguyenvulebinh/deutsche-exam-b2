@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. Oktober 20XX, 09:00 – 10:15 Uhr**\n**Ort:** Besprechungsraum \"Alpenblick\", Firmenzentrale, Industriestraße 15, 87654 Musterstadt\n\n**Anwesende:**\n*   Klaus Berger (KB, Geschäftsführung)\n*   Sabine Richter (SR, Leitung Produktion)\n*   Markus Bauer (MB, Leitung Einkauf)\n*   Julia Nowak (JN, Leitung Verkauf)\n*   Thomas Klein (TK, Leitung IT)\n*   Petra Weber (PW, Leitung Personal)\n*   Lars Hoffmann (LH, Leitung Qualitätssicherung)\n\n**Entschuldigt:** Stefan Meyer (SM, Leitung Finanzen)\n\n**Sitzungsleitung:** Klaus Berger (KB)\n**Protokollantin:** Petra Weber (PW)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 14. September 20XX\n2.  Aktuelle Produktionszahlen und Herausforderungen\n3.  Lieferkettenstatus Stahlbleche\n4.  Einführung neues Zeiterfassungssystem\n5.  Vorbereitung Messe \"MetallTech 20YY\"\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 14. September 20XX**\n\nKB begrüßt die Anwesenden zur heutigen Sitzung. Das Protokoll der letzten Sitzung vom 14. September wird zur Genehmigung vorgelegt. LH bittet um eine Korrektur bei TOP 4 des alten Protokolls: Die Qualitätsprüfung für Produktlinie C wurde nicht abgeschlossen, sondern nur begonnen. Mit dieser Änderung wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionszahlen und Herausforderungen**\n\nSR berichtet, dass die Produktionszahlen im letzten Monat etwa 5% unter dem Plan lagen. Hauptgrund hierfür war ein unerwarteter technischer Defekt an der Stanzmaschine M-03, der zu einem Produktionsausfall von fast drei Tagen führte. Die Maschine läuft zwar wieder, aber die verlorene Zeit konnte noch nicht vollständig aufgeholt werden. SR schlägt vor, am kommenden Wochenende eine Sonderschicht einzuplanen, um den Rückstand aufzuholen. Dies wird genehmigt. LH soll die Qualitätskontrolle für die Sonderschicht sicherstellen.\n\n**TOP 3 Lieferkettenstatus Stahlbleche**\n\nMB informiert über anhaltende Schwierigkeiten bei der Beschaffung von hochwertigen Stahlblechen. Der Hauptlieferant, Stahlwerk Nord GmbH, hat mitgeteilt, dass sich die nächste geplante Lieferung aufgrund von Rohstoffengpässen voraussichtlich um mindestens drei bis vier Wochen verzögern wird. Dies betrifft vor allem die Bestellungen für unsere Premium-Produktlinie. MB wurde beauftragt, dringend alternative Lieferanten in Europa zu prüfen und bis Ende dieser Woche erste Angebote einzuholen. Eine kurzfristige Lösung ist noch nicht gefunden.\n\n**TOP 4 Einführung neues Zeiterfassungssystem**\n\nTK und PW geben ein Update zur Einführung des neuen digitalen Zeiterfassungssystems \"TimeLog\". Der Rollout beginnt planmäßig am 1. November. Gestartet wird in der Produktionsabteilung (SR), da hier die Schichtarbeit die Umstellung am dringendsten macht. Die anderen Abteilungen folgen dann schrittweise bis Jahresende. TK informiert, dass die IT-Abteilung nächste Woche kurze Einführungsschulungen (ca. 1 Stunde pro Gruppe) für die Mitarbeiter der Produktion anbieten wird. PW ergänzt, dass Betriebsvereinbarungen dazu finalisiert wurden.\n\n**TOP 5 Vorbereitung Messe \"MetallTech 20YY\"**\n\nJN berichtet über den Stand der Vorbereitungen für die wichtige Branchenmesse \"MetallTech\" im kommenden Frühjahr. Das Hauptziel der Teilnahme ist die Akquise von Neukunden im Bereich Automotive. Der Standbau ist beauftragt, das Designkonzept wurde letzte Woche final genehmigt. JN bittet alle Abteilungsleiter, benötigte Exponate und Informationsmaterialien (insbesondere neue Produktbroschüren) bis spätestens 15. Dezember an das Marketingteam zu melden. JN koordiniert die Gesamtorganisation.\n\n**TOP 6 Sonstiges**\n\nKB weist darauf hin, dass die Weihnachtsfeier dieses Jahr am 18. Dezember stattfinden wird. Eine offizielle Einladung folgt. Es wird vereinbart, die nächste reguläre Sitzung am 9. November zur gleichen Zeit abzuhalten. Keine weiteren Punkte.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde ohne Änderungen angenommen."
+                },
+                {
+                    "key": "b",
+                    "text": "musste aufgrund einer Anmerkung von Herrn Hoffmann korrigiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird erst in der nächsten Sitzung genehmigt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Produktionsabteilung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "liegt wegen eines Maschinenausfalls hinter dem Plan zurück."
+                },
+                {
+                    "key": "b",
+                    "text": "hat die Ziele für den letzten Monat übertroffen."
+                },
+                {
+                    "key": "c",
+                    "text": "konnte den Produktionsrückstand bereits aufholen."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die Lieferung der Stahlbleche",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wurde vom Lieferanten komplett storniert."
+                },
+                {
+                    "key": "b",
+                    "text": "verzögert sich um einige Wochen."
+                },
+                {
+                    "key": "c",
+                    "text": "ist wegen eines Fehlers bei MechanoTec verspätet."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das neue Zeiterfassungssystem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "startet gleichzeitig in allen Abteilungen am 1. November."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert eine ganztägige externe Schulung."
+                },
+                {
+                    "key": "c",
+                    "text": "wird zuerst in der Produktionsabteilung eingeführt."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Die Teilnahme an der \"MetallTech\"-Messe",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird von der IT-Abteilung organisiert."
+                },
+                {
+                    "key": "b",
+                    "text": "soll vor allem neue Kunden gewinnen."
+                },
+                {
+                    "key": "c",
+                    "text": "findet noch in diesem Jahr statt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

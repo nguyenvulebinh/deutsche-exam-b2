@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**12. September 20XX, 09:00 – 10:15 Uhr**\n**Ort:** Konferenzraum \"Alu\", Werkstraße 5, 45678 Stahlheim\n\n**Anwesende:**\n*   Herr Klaus Berger (KB, Geschäftsführung)\n*   Frau Petra Wenzel (PW, Leitung Produktion)\n*   Herr Martin Scholz (MS, Leitung Verkauf)\n*   Frau Anja Meyer (AM, Leitung Einkauf)\n*   Herr Jürgen Fischer (JF, Leitung Qualitätssicherung)\n*   Frau Sabine Lang (SL, Personalwesen)\n\n**Gast (nur TOP 4):** Herr Tom Weber (TW, IT-Support)\n\n**Sitzungsleitung:** Klaus Berger (KB)\n**Protokollantin:** Sabine Lang (SL)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung und Genehmigung des Protokolls vom 15.08.20XX\n2.  Aktuelle Produktionsauslastung und Lieferzeiten\n3.  Neukundenprojekt \"SolarTech AG\"\n4.  Umstellung der Zeiterfassungssoftware\n5.  Qualitätsbericht August\n6.  Sonstiges\n\n**TOP 1 Begrüßung und Genehmigung des Protokolls vom 15.08.20XX**\n\nKB begrüßt die Anwesenden. Das Protokoll der Sitzung vom 15. August wird zur Genehmigung vorgelegt. Es gibt eine Anmerkung von MS bezüglich der korrekten Schreibweise eines Kundennamens in TOP 3 des alten Protokolls. Nach Vornahme dieser kleinen Korrektur wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Aktuelle Produktionsauslastung und Lieferzeiten**\n\nPW berichtet, dass die Produktion derzeit mit 95% sehr gut ausgelastet ist. Die Lieferzeit für Standardteile beträgt aktuell vier Wochen. Bei kundenspezifischen Sonderanfertigungen muss jedoch mit bis zu sechs Wochen gerechnet werden. PW weist darauf hin, dass bei anhaltend hoher Auftragslage im nächsten Monat eventuell über Überstunden nachgedacht werden muss, um die Lieferzeiten halten zu können. Eine Entscheidung hierzu ist aber noch nicht gefallen.\n\n**TOP 3 Neukundenprojekt \"SolarTech AG\"**\n\nMS informiert über einen bedeutenden neuen Kunden, die SolarTech AG. Ein erster Auftrag für das Bauteil \"Montagerahmen Typ B\" liegt vor. Dieses erfordert einen speziellen Stahl (Güteklasse XYZ). AM bestätigt, dass das Material kurzfristig verfügbar ist, allerdings liegt der Preis ca. 10% über der ursprünglichen Kalkulation. KB entscheidet, dass für diesen Erstauftrag die höheren Materialkosten akzeptiert werden, um den Kunden zu gewinnen. Für Folgeaufträge muss MS jedoch die Kalkulation anpassen. MS ist für die weitere Kommunikation mit SolarTech AG verantwortlich und soll den Liefertermin Ende Oktober bestätigen.\n\n**TOP 4 Umstellung der Zeiterfassungssoftware**\n\nTW stellt die neue Software \"ZeitMaster\" vor. Die Umstellung ist für das erste Wochenende im Oktober geplant. Das alte System wird am Freitagabend davor abgeschaltet. Um einen reibungslosen Übergang zu gewährleisten, wird TW in der letzten Septemberwoche zwei separate Schulungstermine anbieten: einen für die Mitarbeitenden im Büro und einen für die Schichtleiter in der Produktion. Die Teilnahme an der jeweiligen Schulung ist verpflichtend. TW erwähnt, dass es aktuell noch ein kleines Problem bei der Berechnung von Resturlaubstagen gibt, das aber bis zur Einführung behoben sein wird.\n\n**TOP 5 Qualitätsbericht August**\n\nJF legt den Qualitätsbericht für August vor. Die allgemeine Qualität ist weiterhin auf einem guten Niveau. Es gab jedoch ein Problem mit der Oberflächenbeschichtung bei einer Charge für den Kunden Meyer & Sohn. Dies wurde glücklicherweise intern vor dem Versand entdeckt und korrigiert. Als Ursache wurde eine falsche Temperatureinstellung bei der Beschichtungsanlage identifiziert. JF schlägt vor, zur Vermeidung solcher Fehler zukünftig zusätzliche Kontrollschritte im Beschichtungsprozess einzuführen. KB stimmt dem Vorschlag zu. Weitere größere Beanstandungen gab es nicht.\n\n**TOP 6 Sonstiges**\n\nSL kündigt den diesjährigen \"Gesundheitstag\" für den 15. November an. Es werden Workshops zu Ergonomie am Arbeitsplatz und Stressbewältigung angeboten. Eine Anmeldung ist bis zum 30. Oktober erforderlich. KB erinnert abschließend an die angekündigte Brandschutzübung, die am kommenden Dienstag stattfindet. Weitere Punkte gibt es nicht. KB schließt die Sitzung um 10:12 Uhr.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte ohne Änderungen genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde mit einer kleinen Änderung angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "musste wegen mehrerer Fehler neu geschrieben werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Produktion",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kann alle Aufträge innerhalb von vier Wochen liefern."
+                },
+                {
+                    "key": "b",
+                    "text": "wird nächsten Monat auf jeden Fall Überstunden machen."
+                },
+                {
+                    "key": "c",
+                    "text": "hat zurzeit kaum noch freie Kapazitäten."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Das Projekt \"SolarTech AG\"",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist teurer als ursprünglich geplant."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde von Frau Meyer wegen des Materials vorgeschlagen."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde trotz Mehrkosten für alle zukünftigen Lieferungen genehmigt."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Die neue Zeiterfassungssoftware",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird bereits nächste Woche vollständig eingeführt."
+                },
+                {
+                    "key": "b",
+                    "text": "erfordert verpflichtende Schulungen für bestimmte Mitarbeitergruppen."
+                },
+                {
+                    "key": "c",
+                    "text": "funktioniert bereits fehlerfrei und kann sofort genutzt werden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Im Qualitätsbericht August",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "gab es eine Kundenbeschwerde von Meyer & Sohn deswegen."
+                },
+                {
+                    "key": "b",
+                    "text": "sind die deswegen nötigen Kontrollen schon eingeführt worden."
+                },
+                {
+                    "key": "c",
+                    "text": "wurde ein Problem bei der Oberflächenbeschichtung genannt."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

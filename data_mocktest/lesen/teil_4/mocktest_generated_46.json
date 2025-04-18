@@ -1,0 +1,95 @@
+{
+    "meeting_note": "## Protokoll\n\n**Datum:** 17. Oktober 20XX\n**Zeit:** 10:00 – 11:30 Uhr\n**Ort:** Besprechungsraum 'Alpenblick', Hauptstraße 12, 82467 Garmisch\n\n**Anwesende:**\n*   Karl Gruber (KG, Geschäftsführung)\n*   Stefan Maier (SM, Leitung Produktion)\n*   Julia Weber (JW, Leitung Verkauf)\n*   Andreas Scholz (AS, Leitung Einkauf)\n*   Laura Beck (LB, Leitung Marketing)\n*   Thomas Fink (TF, Leitung Personal)\n*   Sandra Vogel (SV, Assistenz GF)\n\n**Entschuldigt:**\n*   Markus Bauer (MB, Leitung Finanzen)\n\n**Gast:**\n*   Dr. Eva Lang (EL, Externe Beraterin für Nachhaltigkeit)\n\n**Sitzungsleitung:** Karl Gruber (KG)\n**Protokollantin:** Sandra Vogel (SV)\n\n**Tagesordnungspunkte**\n\n1.  Begrüßung, Genehmigung des Protokolls vom 19. September 20XX\n2.  Marktanalyse Q3 und Ausblick Q4\n3.  Projekt \"Nachhaltige Materialien\"\n4.  Kapazitätsplanung Produktion für das Weihnachtsgeschäft\n5.  Ergebnisse Mitarbeiterbefragung Arbeitszufriedenheit\n6.  Sonstiges\n\n**TOP 1 Begrüßung, Genehmigung des Protokolls vom 19. September 20XX**\n\nKG begrüßt alle Anwesenden, insbesondere Frau Dr. Lang. Er bittet um Anmerkungen zum Protokoll der letzten Sitzung. AS weist darauf hin, dass unter TOP 4 sein Nachname fälschlicherweise \"Schulz\" geschrieben wurde. Nach Korrektur dieser Angabe wird das Protokoll einstimmig genehmigt.\n\n**TOP 2 Marktanalyse Q3 und Ausblick Q4**\n\nJW präsentiert die Verkaufszahlen für das dritte Quartal. Besonders erfreulich ist die Entwicklung im Bereich Büromöbel, hier konnte ein Zuwachs von 15% im Vergleich zum Vorjahresquartal erzielt werden. Die Nachfrage nach Wohnzimmermöbeln ist stabil geblieben, während der Verkauf von Gartenmöbeln saisonbedingt leicht zurückging. Für das vierte Quartal rechnet JW aufgrund der positiven Auftragslage, besonders bei individuellen Anfertigungen, mit einer leichten Steigerung des Gesamtumsatzes von etwa 5%.\n\n**TOP 3 Projekt \"Nachhaltige Materialien\"**\n\nAS berichtet über die Bemühungen, nachhaltigere Materialien im Einkauf zu berücksichtigen. Gemeinsam mit Dr. Lang wurden verschiedene Optionen geprüft. Dr. Lang stellt kurz die Vorteile von zertifiziertem Holz aus nachhaltiger Forstwirtschaft und recycelten Kunststoffen vor. Sie empfiehlt, zunächst in einem Pilotprojekt die Verwendung von Bambus für eine neue Serie von Kleinmöbeln (z.B. Beistelltische, Hocker) zu testen, da dieses Material schnell nachwächst und sehr robust ist. Ein konkreter Beschluss zur Einführung wird noch nicht gefasst. AS wird beauftragt, bis zur nächsten Sitzung Angebote für Bambusmaterial einzuholen und SM prüft die technischen Verarbeitungsmöglichkeiten.\n\n**TOP 4 Kapazitätsplanung Produktion für das Weihnachtsgeschäft**\n\nSM erläutert die Produktionsplanung für die kommenden Monate. Aufgrund des erwarteten hohen Auftragsvolumens vor Weihnachten, insbesondere bei den beliebten Massivholztischen, rechnet er mit Engpässen ab Mitte November. Um Liefertermine einhalten zu können, plant er, in KW 47 und 48 Samstagsarbeit anzuordnen. Zusätzlich wurde bereits bei einer Zeitarbeitsfirma angefragt, ob kurzfristig zwei bis drei erfahrene Tischler als Aushilfe zur Verfügung stehen. Eine Zusage der Zeitarbeitsfirma steht noch aus. Eine Anschaffung neuer Maschinen ist derzeit nicht geplant.\n\n**TOP 5 Ergebnisse Mitarbeiterbefragung Arbeitszufriedenheit**\n\nTF stellt die zentralen Ergebnisse der anonymen Mitarbeiterbefragung vor, an der 85% der Belegschaft teilgenommen haben. Generell ist die Zufriedenheit hoch, besonders das Kollegium und die Arbeitsplatzsicherheit werden positiv bewertet. Verbesserungsbedarf sehen viele Mitarbeiter jedoch bei der internen Kommunikation zwischen den Abteilungen und bei den Weiterbildungsmöglichkeiten. TF schlägt vor, im ersten Quartal des nächsten Jahres abteilungsübergreifende Workshops zur Verbesserung der Kommunikationswege anzubieten. KG stimmt dem Vorschlag zu und bittet TF, ein Konzept dafür zu entwickeln.\n\n**TOP 6 Sonstiges**\n\nKG erinnert an das 25-jährige Firmenjubiläum im kommenden Mai. Er plant eine größere Feier für Mitarbeiter und ausgewählte Geschäftspartner. Details werden in einer späteren Sitzung besprochen. SV merkt an, dass die Kaffeemaschine in der Teeküche häufig defekt ist. KG beauftragt SV, drei Angebote für ein neues, leistungsfähigeres Gerät einzuholen.\n\nDie nächste Sitzung findet am 14. November 20XX statt.",
+    "aufgaben_list": [
+        {
+            "frage": "Das Protokoll der letzten Sitzung",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte nicht genehmigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde erst nach einer Namenskorrektur angenommen."
+                },
+                {
+                    "key": "c",
+                    "text": "enthielt falsche Angaben zu den Finanzen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Verkauf im dritten Quartal",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "war in allen Bereichen rückläufig."
+                },
+                {
+                    "key": "b",
+                    "text": "zeigte eine positive Entwicklung bei Büromöbeln."
+                },
+                {
+                    "key": "c",
+                    "text": "blieb bei Gartenmöbeln unerwartet stark."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Im Bereich nachhaltige Materialien",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird Bambus bereits für alle Kleinmöbel eingesetzt."
+                },
+                {
+                    "key": "b",
+                    "text": "hat die Beraterin von recycelten Kunststoffen abgeraten."
+                },
+                {
+                    "key": "c",
+                    "text": "soll die Eignung von Bambus für ein Pilotprojekt geprüft werden."
+                }
+            ],
+            "loesung": "c"
+        },
+        {
+            "frage": "Um das Weihnachtsgeschäft zu bewältigen,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden neue Maschinen angeschafft."
+                },
+                {
+                    "key": "b",
+                    "text": "ist geplant, an zwei Samstagen zu arbeiten."
+                },
+                {
+                    "key": "c",
+                    "text": "wurden bereits drei zusätzliche Tischler eingestellt."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Mitarbeiterbefragung ergab,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass die interne Kommunikation verbessert werden sollte."
+                },
+                {
+                    "key": "b",
+                    "text": "dass die meisten Mitarbeiter mit der Weiterbildung zufrieden sind."
+                },
+                {
+                    "key": "c",
+                    "text": "dass sofort Workshops stattfinden müssen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}
