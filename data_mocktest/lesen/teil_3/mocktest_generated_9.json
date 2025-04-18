@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Stefan",
+            "situation": "Ich war zwei Wochen krankgeschrieben und genau in dieser Zeit habe ich die Kündigung von meinem Arbeitgeber erhalten. Ich bin schon seit drei Jahren in der Firma. Ist das überhaupt erlaubt, jemandem zu kündigen, während er krank ist? Ich bin total verunsichert, was jetzt meine Rechte sind."
+        },
+        {
+            "id": 2,
+            "name": "Julia",
+            "situation": "In meinem Büro fallen ständig Überstunden an, oft zwei bis drei pro Woche. Mein Chef erwartet das einfach, aber weder bekomme ich mehr Geld, noch kann ich die Stunden abfeiern. Er meint, das wäre mit meinem Gehalt abgedeckt. Kann das wirklich sein? Ich würde die Zeit lieber frei nehmen."
+        },
+        {
+            "id": 3,
+            "name": "Markus",
+            "situation": "Ich habe zum 1. Juli den Job gewechselt. In meinem neuen Vertrag stehen 28 Tage Urlaub pro Jahr. Wie viel Urlaub steht mir denn für den Rest dieses Jahres noch zu? Beim alten Arbeitgeber hatte ich schon 10 Tage genommen. Ich blicke da nicht ganz durch mit der Berechnung."
+        },
+        {
+            "id": 4,
+            "name": "Anja",
+            "situation": "Ich habe mein Arbeitszeugnis bekommen. Es klingt eigentlich ganz gut, aber ich habe gehört, dass es so 'Codes' gibt. Zum Beispiel steht da, ich hätte meine Aufgaben 'stets zu seiner Zufriedenheit' erledigt. Ich habe Angst, dass das schlecht ist. Wie erkenne ich solche versteckten negativen Bewertungen und wie kann ich konkret eine Änderung dieser Sätze fordern?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "KlausH",
+            "timestamp": "vor 45 Minuten",
+            "content": "In der Probezeit ist das leider oft anders. Da gilt meist eine verkürzte Kündigungsfrist von nur zwei Wochen, und der Arbeitgeber braucht keinen besonderen Grund anzugeben. Der Kündigungsschutz greift da noch nicht so stark wie bei langjährigen Mitarbeitern. Prüf mal deinen Vertrag!"
+        },
+        {
+            "id": "b",
+            "author": "Sabine_HR",
+            "timestamp": "vor 2 Stunden",
+            "content": "Wenn du mitten im Jahr wechselst, steht dir der Urlaub nur anteilig zu. Für jeden vollen Monat im neuen Job bekommst du 1/12 deines Jahresurlaubs. Für die Zeit von Juli bis Dezember wären das bei 28 Tagen Jahresurlaub also 6/12 * 28 Tage = 14 Tage. Der Urlaub vom alten Arbeitgeber spielt für den Anspruch beim *neuen* keine direkte Rolle mehr."
+        },
+        {
+            "id": "c",
+            "author": "MichaelP",
+            "timestamp": "vor 5 Stunden",
+            "content": "Wichtig sind auch die gesetzlichen Pausenregelungen. Wer länger als sechs Stunden arbeitet, dem steht eine Pause von 30 Minuten zu, bei mehr als neun Stunden sind es 45 Minuten. Diese Pausen zählen aber nicht zur bezahlten Arbeitszeit und müssen eingehalten werden, auch wenn viel zu tun ist."
+        },
+        {
+            "id": "d",
+            "author": "Rechtsinfo",
+            "timestamp": "vor 1 Stunde",
+            "content": "Eine Kündigung ist auch während einer Krankheit grundsätzlich zulässig. Die Krankheit selbst ist aber in der Regel kein Kündigungsgrund, außer sie ist sehr langwierig oder führt zu ständigen Ausfällen. Wichtig ist: Die normalen Kündigungsfristen und der allgemeine Kündigungsschutz (falls anwendbar) gelten trotzdem."
+        },
+        {
+            "id": "e",
+            "author": "AnnaB",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ja, das mit den Arbeitszeugnissen ist so eine Sache. Man hat zwar Anspruch auf ein 'wohlwollendes' Zeugnis, aber manchmal verstecken sich da komische Formulierungen. Wenn du unzufrieden bist, sprich am besten erstmal mit dem alten Chef oder lass dich extern beraten, z.B. bei der Gewerkschaft."
+        },
+        {
+            "id": "f",
+            "author": "Expertin78",
+            "timestamp": "vor 30 Minuten",
+            "content": "Überstunden müssen grundsätzlich entweder bezahlt oder durch Freizeit ausgeglichen werden. Eine pauschale Abgeltung mit dem Gehalt ist nur wirksam, wenn dies im Vertrag klar und transparent geregelt ist oder bei sehr hohen Gehältern. Fordere am besten schriftlich Freizeitausgleich oder Bezahlung ein."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "b",
+        "4": "x"
+    }
+}

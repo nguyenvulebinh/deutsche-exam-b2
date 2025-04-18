@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Sabine",
+            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche hat mich mein Chef noch für meine gute Arbeit gelobt. Heute habe ich aber überraschend die Kündigung zum Ende des Monats erhalten, also mit zwei Wochen Frist. Ich bin total verwirrt. Ist das rechtens, obwohl er mich gelobt hat und die Frist so kurz ist?"
+        },
+        {
+            "id": 2,
+            "name": "Mehmet",
+            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen. In der zweiten Urlaubswoche bin ich leider für vier Tage krank geworden und habe auch eine ärztliche Bescheinigung dafür eingereicht. Mein Arbeitgeber meint nun, diese vier Tage seien trotzdem als Urlaubstage zu werten. Stimmt das? Verliere ich diese Urlaubstage jetzt einfach?"
+        },
+        {
+            "id": 3,
+            "name": "Lena",
+            "situation": "In meinem Arbeitsvertrag steht eine Wochenarbeitszeit von 40 Stunden. Eine Regelung zu Überstunden gibt es nicht. Wegen vieler Aufträge verlangt mein Vorgesetzter in letzter Zeit aber oft, dass wir länger bleiben. Ich möchte das nicht regelmäßig tun. Bin ich gesetzlich verpflichtet, Überstunden zu machen, wenn es nicht im Vertrag steht?"
+        },
+        {
+            "id": 4,
+            "name": "Stefan",
+            "situation": "Mein Vorgesetzter hat mir vor einem halben Jahr mündlich eine Beförderung zum Teamleiter mit einer konkreten Gehaltserhöhung ab diesem Monat zugesagt. Schriftlich wurde nichts festgehalten, und nun kann er sich angeblich nicht mehr genau erinnern. Außerdem soll ich seit Kurzem dauerhaft Projektmanagement-Aufgaben übernehmen, die weit über meine IT-Support-Tätigkeit hinausgehen, ohne dass mein Vertrag angepasst wurde. Was kann ich wegen der Zusage und der neuen Aufgaben tun?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Anna",
+            "timestamp": "vor 2 Stunden",
+            "content": "Klar geregelt im Bundesurlaubsgesetz: Wenn du während deines Urlaubs krank wirst und das durch ein ärztliches Attest nachweist, werden diese Krankheitstage nicht auf den Jahresurlaub angerechnet. Du behältst den Anspruch auf diese Urlaubstage und musst sie später bekommen."
+        },
+        {
+            "id": "b",
+            "author": "Petra",
+            "timestamp": "vor 5 Stunden",
+            "content": "Nach der Probezeit greift meistens das Kündigungsschutzgesetz. Dann braucht der Arbeitgeber für eine ordentliche Kündigung einen triftigen Grund (betriebs-, personen- oder verhaltensbedingt) und muss längere Kündigungsfristen einhalten, die von der Betriebszugehörigkeit abhängen. Einfach so kündigen geht dann nicht mehr."
+        },
+        {
+            "id": "c",
+            "author": "Dirk",
+            "timestamp": "vor 1 Stunde",
+            "content": "Wichtig bei Krankheit ist die sofortige Meldung beim Arbeitgeber, am besten noch vor Arbeitsbeginn. Die Arbeitsunfähigkeitsbescheinigung vom Arzt muss dann in der Regel spätestens am dritten Kalendertag der Krankheit vorliegen. Die Lohnfortzahlung im Krankheitsfall ist gesetzlich für bis zu sechs Wochen gesichert."
+        },
+        {
+            "id": "d",
+            "author": "Klaus",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ja, das ist leider rechtens. Während der vereinbarten Probezeit (maximal 6 Monate) können beide Seiten – Arbeitgeber und Arbeitnehmer – das Arbeitsverhältnis mit einer Frist von nur zwei Wochen kündigen, und zwar ohne Angabe von Gründen. Vorheriges Lob ändert daran leider nichts."
+        },
+        {
+            "id": "e",
+            "author": "Yasmin",
+            "timestamp": "vor 4 Stunden",
+            "content": "Das Arbeitszeitgesetz setzt klare Grenzen: Die tägliche Arbeitszeit darf 8 Stunden nicht überschreiten, kann aber auf 10 Stunden verlängert werden, wenn im Durchschnitt von 6 Monaten 8 Stunden täglich nicht überschritten werden. Wichtig sind auch die vorgeschriebenen Pausen- und Ruhezeiten zwischen den Arbeitstagen."
+        },
+        {
+            "id": "f",
+            "author": "Boris",
+            "timestamp": "vor 8 Stunden",
+            "content": "Eine Verpflichtung zu Überstunden besteht grundsätzlich nur, wenn das im Arbeitsvertrag, einem geltenden Tarifvertrag oder einer Betriebsvereinbarung ausdrücklich geregelt ist. Fehlt eine solche Regelung, bist du im Normalfall nicht verpflichtet, Überstunden zu leisten, außer in absoluten Notfällen."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "a",
+        "3": "f",
+        "4": "x"
+    }
+}

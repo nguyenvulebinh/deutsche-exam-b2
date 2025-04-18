@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen und Alltagsprobleme im Job",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Ich hatte für die ersten beiden Juliwochen Urlaub eingereicht und genehmigt bekommen. Leider bin ich direkt am zweiten Urlaubstag krank geworden und war fünf Tage krankgeschrieben, mit ärztlichem Attest. Mein Chef meint nun, das sei Pech für mich und die Krankheitstage zählen trotzdem als Urlaub. Stimmt das wirklich? Ich dachte, Krankheit unterbricht den Urlaub?"
+        },
+        {
+            "id": 2,
+            "name": "Marco",
+            "situation": "Ich bin total überrascht worden. Gestern hat mir mein Vorgesetzter gekündigt, obwohl ich erst seit knapp fünf Monaten in der Firma bin und dachte, alles läuft gut. Er hat keinen Grund genannt. Ich bin doch noch in der Probezeit, die sechs Monate dauert. Ist das rechtens, so kurzfristig und ohne Angabe von Gründen? Was kann ich tun?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "In meinem Team ist es üblich, dass wir regelmäßig länger bleiben, oft ein bis zwei Stunden pro Tag. Das wird irgendwie erwartet, steht aber nicht explizit im Vertrag und wird auch nicht extra bezahlt oder durch Freizeit ausgeglichen. Langsam nervt mich das. Habe ich nicht einen Anspruch darauf, dass Überstunden irgendwie vergütet werden?"
+        },
+        {
+            "id": 4,
+            "name": "Benno",
+            "situation": "Bei meiner Einstellung hat mir der Abteilungsleiter mündlich zugesagt, dass die Firma die Kosten für spezielle Arbeitsjacken mit Firmenlogo übernimmt, die wir im Kundendienst tragen sollen. Es ist keine gesetzlich vorgeschriebene Schutzkleidung. Jetzt habe ich die Rechnung eingereicht, aber die Personalabteilung sagt, davon wüssten sie nichts und mündliche Absprachen zählen nicht. Muss ich die Jacken jetzt selbst bezahlen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sofia",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung ist immer unangenehm. Wenn man aber schon länger als sechs Monate dabei ist, gilt das Kündigungsschutzgesetz. Der Arbeitgeber braucht dann einen triftigen Grund (betriebsbedingt, verhaltensbedingt oder personenbedingt) und muss die gesetzlichen Kündigungsfristen beachten, die von der Dauer der Betriebszugehörigkeit abhängen."
+        },
+        {
+            "id": "b",
+            "author": "Anna",
+            "timestamp": "vor 55 Minuten",
+            "content": "Ja, das ist leider erlaubt. Während der vereinbarten Probezeit (maximal 6 Monate) können beide Seiten – Arbeitgeber und Arbeitnehmer – das Arbeitsverhältnis mit einer Frist von zwei Wochen kündigen, ohne dass dafür ein bestimmter Grund angegeben werden muss. Der Kündigungsschutz greift in der Regel erst nach sechs Monaten."
+        },
+        {
+            "id": "c",
+            "author": "Klaus",
+            "timestamp": "vor 4 Stunden",
+            "content": "Wenn du im Urlaub krank wirst und das mit einer ärztlichen Bescheinigung nachweisen kannst, gehen dir diese Urlaubstage nicht verloren. Die Tage, an denen du krankgeschrieben warst, müssen dir wieder gutgeschrieben werden. Wichtig ist, den Arbeitgeber sofort zu informieren und das Attest vorzulegen."
+        },
+        {
+            "id": "d",
+            "author": "Leon",
+            "timestamp": "vor 1 Stunde",
+            "content": "Oh je, im Urlaub krank werden ist wirklich ärgerlich! Das kenne ich auch, man freut sich auf die Erholung und dann das. Wichtig ist auf jeden Fall, dass du die Krankmeldung sofort an die Firma schickst, damit die Personalabteilung Bescheid weiß und es keine formalen Probleme gibt. Gute Besserung!"
+        },
+        {
+            "id": "e",
+            "author": "Miriam",
+            "timestamp": "vor 6 Stunden",
+            "content": "Bei uns in der Firma gab es neulich eine Diskussion über die Nutzung des Diensthandys für private Gespräche. Da gibt es klare Regeln, was erlaubt ist und was nicht. Verstöße können zu Abmahnungen führen. Man sollte sich da genau an die Betriebsvereinbarung halten, um Ärger zu vermeiden."
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 8 Stunden",
+            "content": "Grundsätzlich müssen Überstunden entweder bezahlt oder durch Freizeit ausgeglichen werden, es sei denn, dein Arbeitsvertrag schließt das explizit aus oder regelt eine pauschale Abgeltung (was aber Grenzen hat). Dokumentiere deine Arbeitszeiten genau und sprich das Thema klar an. Eventuell kann auch der Betriebsrat helfen, falls es einen gibt."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "b",
+        "3": "f",
+        "4": "x"
+    }
+}

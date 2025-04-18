@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Jonas ist seit vier Monaten in der Probezeit bei einer neuen Firma. Letzte Woche war er drei Tage krankgeschrieben wegen einer Grippe. Er hat die Krankmeldung fristgerecht eingereicht. Jetzt hat er aber gehört, dass man in der Probezeit sehr leicht gekündigt werden kann, auch wegen Krankheit. Er macht sich Sorgen, seinen Job zu verlieren. Kann mir wegen dieser kurzen Krankheit während der Probezeit gekündigt werden?"
+        },
+        {
+            "id": 2,
+            "name": "Lea",
+            "situation": "Leas Vorgesetzter hat ihr vor zwei Monaten mündlich eine Beförderung zu einer Teamleiterposition inklusive Gehaltserhöhung zugesagt, sobald das laufende Projekt erfolgreich abgeschlossen ist. Das Projekt ist nun fertig, aber der Chef meint, eine Beförderung sei aktuell doch nicht möglich, und von einer Gehaltserhöhung wisse er nichts. Schriftlich wurde nichts festgehalten. Habe ich eine Chance, die mündliche Zusage meines Chefs durchzusetzen, obwohl nichts schriftlich vereinbart wurde?"
+        },
+        {
+            "id": 3,
+            "name": "Mustafa",
+            "situation": "Mustafa arbeitet im Kundenservice eines Online-Shops. Seine offizielle Mittagspause beträgt 30 Minuten. Oft wird er aber gebeten, auch während der Pause kurz E-Mails zu checken oder ans Telefon zu gehen, wenn viel los ist. Er fühlt sich unter Druck gesetzt und kann nie richtig abschalten. Ist mein Arbeitgeber berechtigt, von mir zu verlangen, während meiner gesetzlichen Pause erreichbar zu sein oder kleine Aufgaben zu erledigen?"
+        },
+        {
+            "id": 4,
+            "name": "Soraya",
+            "situation": "Soraya arbeitet seit sechs Jahren als Projektmanagerin. In ihrem Arbeitsvertrag gibt es eine Klausel, die besagt, dass sie bei Bedarf an einen anderen Firmenstandort in Deutschland versetzt werden kann. Nun soll sie tatsächlich dauerhaft in eine 400 km entfernte Stadt wechseln. Ihre private Situation hat sich aber seit Vertragsunterzeichnung geändert: Sie pflegt ihre kranke Mutter vor Ort und ihre Kinder gehen hier zur Schule. Muss ich diese Versetzung akzeptieren, obwohl die Klausel im Vertrag steht, aber meine familiäre Situation sich stark verändert hat und ein Umzug eine extreme Härte bedeuten würde?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 8 Stunden",
+            "content": "Bei Krankheit muss man sich ja unverzüglich beim Arbeitgeber melden und spätestens am dritten Tag die ärztliche Bescheinigung (AU) vorlegen. Wichtig ist auch, dass der Lohn weitergezahlt wird (Lohnfortzahlung im Krankheitsfall) für bis zu sechs Wochen. Das ist gesetzlich klar geregelt."
+        },
+        {
+            "id": "b",
+            "author": "Miriam",
+            "timestamp": "vor 2 Stunden",
+            "content": "Während der Probezeit gilt leider ein gelockerter Kündigungsschutz. Eine Kündigung ist ohne Angabe von Gründen mit kurzer Frist (oft 2 Wochen) möglich. Zwar darf eine kurze Krankheit nicht der *alleinige* Kündigungsgrund sein, aber der Arbeitgeber braucht in der Probezeit keinen Grund anzugeben. Eine kurze Krankheit erhöht also das *Risiko*, schützt aber nicht sicher vor einer Kündigung."
+        },
+        {
+            "id": "c",
+            "author": "Elena",
+            "timestamp": "vor 3 Stunden",
+            "content": "Sowas ist wirklich ärgerlich! Chefs machen manchmal Versprechungen, um Mitarbeiter zu motivieren, und halten sie dann nicht. Das schafft Misstrauen und ist schlechter Führungsstil. Ich finde, Ehrlichkeit und Verlässlichkeit sind extrem wichtig am Arbeitsplatz. Vielleicht solltest du über einen Wechsel nachdenken, wenn das öfter vorkommt."
+        },
+        {
+            "id": "d",
+            "author": "Simone",
+            "timestamp": "vor 50 Minuten",
+            "content": "Nein, das ist nicht in Ordnung. Die gesetzliche Ruhepause dient der Erholung und du musst in dieser Zeit von jeder Arbeitsverpflichtung freigestellt sein. Das bedeutet: keine Anrufe, keine E-Mails, keine Bereitschaft. Dein Arbeitgeber muss sicherstellen, dass du deine Pause ungestört nehmen kannst. Sprich das am besten direkt an."
+        },
+        {
+            "id": "e",
+            "author": "Ben",
+            "timestamp": "vor 1 Stunde",
+            "content": "Überstunden sind ja manchmal nötig, aber sie müssen auch erfasst und entweder bezahlt oder durch Freizeit ausgeglichen werden. Es gibt klare Regeln zur Höchstarbeitszeit pro Tag und Woche, die eingehalten werden müssen. Achtet darauf, dass eure Überstunden korrekt dokumentiert werden!"
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Mündliche Zusagen sind rechtlich zwar theoretisch bindend, aber in der Praxis extrem schwer zu beweisen, wenn der Chef es abstreitet. Ohne Zeugen oder schriftliche Notizen stehen die Chancen leider schlecht. Versuche vielleicht, nochmal in Ruhe das Gespräch zu suchen, eventuell mit jemandem vom Betriebsrat (falls vorhanden) als Unterstützung. Für die Zukunft: Wichtige Vereinbarungen immer schriftlich bestätigen lassen!"
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "f",
+        "3": "d",
+        "4": "x"
+    }
+}

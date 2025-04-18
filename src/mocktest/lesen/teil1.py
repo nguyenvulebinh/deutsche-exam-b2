@@ -604,9 +604,13 @@ Your task is to generate the mock test and answer.
         contents=contents,
         config=generate_content_config,
     ):
-        output += chunk.text
-        if debug:
-            print(chunk.text, end="")
+      if chunk.text is not None:
+          output += chunk.text
+          if debug:
+              print(chunk.text, end="")
+      else:
+          # print(f"Chunk is None: {chunk}")
+          break
     return output
 
 def format_json(json_str):

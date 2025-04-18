@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Mehmet",
+            "situation": "Ich arbeite auf einer Baustelle und muss laut Vorschrift spezielle Sicherheitsschuhe und einen Schutzhelm tragen. Mein Chef meint nun, ich müsse diese selbst kaufen und bezahlen. Das finde ich merkwürdig, da es ja um vorgeschriebene Schutzausrüstung geht, nicht um eine normale Uniform. Wer muss die Kosten für diese persönliche Schutzausrüstung (PSA) übernehmen?"
+        },
+        {
+            "id": 2,
+            "name": "Simon",
+            "situation": "Ich bin total geschockt. Ich bin seit fünf Monaten in meiner neuen Firma und somit noch in der Probezeit. Gestern habe ich mein Kündigungsschreiben erhalten! Dabei wurde ich letzte Woche noch für meine gute Arbeit gelobt. Ist es überhaupt erlaubt, mir in der Probezeit ohne Angabe von Gründen zu kündigen, obwohl meine Leistung gut war?"
+        },
+        {
+            "id": 3,
+            "name": "Julia",
+            "situation": "Mein befristeter Arbeitsvertrag läuft bald aus. Vor einigen Wochen hat mir meine Abteilungsleiterin fest mündlich zugesagt, dass ich danach eine unbefristete Stelle bekommen werde. Jetzt tut sie aber so, als ob sie sich daran nicht erinnern kann. Hat eine solche mündliche Zusage überhaupt rechtliche Bedeutung oder kann ich nichts machen?"
+        },
+        {
+            "id": 4,
+            "name": "Lena",
+            "situation": "Auf dem Heimweg von der Arbeit bin ich heute mit dem Fahrrad gestürzt. Allerdings hatte ich einen Umweg gemacht, um noch schnell im Supermarkt private Einkäufe zu erledigen. Dabei ist der Unfall passiert. Mein Arzt fragt jetzt wegen der gesetzlichen Unfallversicherung, ob das ein Wegeunfall war. Zählt das überhaupt noch als versicherter Arbeitsweg, wenn ich für private Erledigungen vom direkten Weg abgewichen bin?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Erika",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung ist immer unangenehm. Generell gilt aber: Nach der Probezeit genießen Arbeitnehmer einen besseren Kündigungsschutz. Für bestimmte Gruppen wie Schwangere oder Schwerbehinderte gibt es sogar besondere Schutzvorschriften, die eine Kündigung sehr erschweren oder fast unmöglich machen."
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ja, das ist leider rechtlich zulässig. Während der vereinbarten Probezeit (maximal 6 Monate) können sowohl Arbeitgeber als auch Arbeitnehmer das Arbeitsverhältnis mit einer Frist von meist nur zwei Wochen kündigen, ohne dafür einen Grund nennen zu müssen. Vorheriges Lob ändert daran leider nichts."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 3 Stunden",
+            "content": "Arbeitgeber haben ein Weisungsrecht und können durchaus Dienstkleidung vorschreiben, um ein einheitliches Erscheinungsbild zu gewährleisten. Wenn es sich um Kleidung handelt, die theoretisch auch privat getragen werden könnte (z.B. ein Anzug), kann es sein, dass der Arbeitnehmer die Kosten tragen muss. Das ist aber anders als bei reiner Schutzkleidung."
+        },
+        {
+            "id": "d",
+            "author": "Sabine",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ganz klar: Wenn das Tragen von persönlicher Schutzausrüstung (PSA) wie Sicherheitsschuhen oder Helmen gesetzlich oder durch Unfallverhütungsvorschriften zwingend erforderlich ist, muss der Arbeitgeber diese gemäß Arbeitsschutzgesetz kostenlos zur Verfügung stellen und auch die Kosten dafür tragen."
+        },
+        {
+            "id": "e",
+            "author": "Markus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei befristeten Verträgen muss man genau aufpassen. Wichtig ist, ob eine sachgrundlose Befristung vorliegt und ob die Maximaldauer oder die Anzahl möglicher Verlängerungen eingehalten wurde. Manchmal steht im Vertrag auch, unter welchen Bedingungen eine Entfristung erfolgen kann."
+        },
+        {
+            "id": "f",
+            "author": "Renate",
+            "timestamp": "vor 30 Minuten",
+            "content": "Grundsätzlich können Arbeitsverträge oder Zusagen auch mündlich gültig sein. Das große Problem ist aber immer die Beweisbarkeit. Wenn Sie keine Zeugen haben oder nichts Schriftliches (auch keine E-Mail o.Ä.), wird es sehr schwer, diese Zusage rechtlich durchzusetzen, wenn die andere Seite sie bestreitet."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "b",
+        "3": "f",
+        "4": "x"
+    }
+}

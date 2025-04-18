@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Leon",
+            "situation": "Ich habe vor vier Monaten eine neue Stelle angetreten und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche wurde ich sogar für meine Arbeit gelobt, aber heute habe ich unerwartet die Kündigung erhalten, mit der üblichen Frist von zwei Wochen. Ein Grund wurde nicht genannt. Ist das überhaupt erlaubt, so kurzfristig und ohne Begründung in der Probezeit zu kündigen, auch wenn man vorher positives Feedback bekommen hat?"
+        },
+        {
+            "id": 2,
+            "name": "Clara",
+            "situation": "Bei meinem letzten Mitarbeitergespräch vor drei Monaten hat mir mein Vorgesetzter mündlich eine Beförderung und eine konkrete Gehaltserhöhung ab dem nächsten Monat zugesagt. Schriftlich wurde leider nichts festgehalten. Jetzt sagt mein Chef, er könne sich an diese spezielle Zusage nicht mehr erinnern. Kann ich auf die Beförderung und das versprochene Gehalt bestehen oder habe ich ohne schriftlichen Nachweis keine Chance?"
+        },
+        {
+            "id": 3,
+            "name": "Finn",
+            "situation": "Gestern habe ich mich bei der Arbeit an einer Maschine leicht an der Hand geschnitten. Es war nichts Ernstes, ich habe nur ein Pflaster draufgemacht und weitergearbeitet, ohne es offiziell zu melden. Ein Kollege meinte aber heute, ich müsse jeden noch so kleinen Arbeitsunfall meinem Vorgesetzten melden und dokumentieren lassen. Stimmt das wirklich? Muss man das auch bei kleinen Verletzungen machen?"
+        },
+        {
+            "id": 4,
+            "name": "Sofia",
+            "situation": "In meinem Job als Technikerin sind laut Betriebsordnung spezielle Sicherheitsschuhe vorgeschrieben. Mein Arbeitgeber stellt zwar andere Schutzausrüstung wie Handschuhe und Schutzbrillen zur Verfügung, meint aber, die Sicherheitsschuhe müssten wir Mitarbeiter selbst kaufen. Wir könnten die Kosten ja von der Steuer absetzen. Stimmt das, oder müsste die Firma für verpflichtende Schutzausrüstung aufkommen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Julia",
+            "timestamp": "vor 45 Minuten",
+            "content": "Unbedingt melden! Jeder Arbeitsunfall, egal wie klein, sollte sofort dem Vorgesetzten gemeldet und im Verbandbuch eingetragen werden. Das ist wichtig für die Berufsgenossenschaft (Unfallversicherung), falls später doch noch Komplikationen auftreten. Ohne Meldung könntest du Probleme mit Versicherungsleistungen bekommen."
+        },
+        {
+            "id": "b",
+            "author": "Sarah",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ja, das ist leider oft ein Schock, aber während der Probezeit (meist 6 Monate) können Arbeitgeber das Arbeitsverhältnis in der Regel mit einer kurzen Frist von 2 Wochen kündigen, ohne einen Grund angeben zu müssen. Das ist gesetzlich so vorgesehen, es sei denn, es liegt Diskriminierung vor. Prüfe deinen Arbeitsvertrag, aber die Möglichkeiten sind begrenzt."
+        },
+        {
+            "id": "c",
+            "author": "Peter",
+            "timestamp": "vor 5 Stunden",
+            "content": "Nach der Probezeit sieht das ganz anders aus! Da greift in der Regel der Kündigungsschutz. Arbeitgeber müssen dann eine Kündigung sozial rechtfertigen, und oft muss auch der Betriebsrat zustimmen. Langjährige Mitarbeiter einfach so zu kündigen, ist in Deutschland zum Glück nicht so leicht möglich."
+        },
+        {
+            "id": "d",
+            "author": "Anja",
+            "timestamp": "vor 1 Stunde",
+            "content": "Deshalb sind schriftliche Verträge so wichtig! Ich rate jedem, immer alles genau durchzulesen, bevor man unterschreibt – besonders die Punkte zu Gehalt, Aufgaben und Arbeitszeiten. Mündliche Absprachen sind zwar nett, aber im Streitfall zählt meist nur das, was im Vertrag steht. Sicher ist sicher!"
+        },
+        {
+            "id": "e",
+            "author": "Markus",
+            "timestamp": "vor 3 Stunden",
+            "content": "Mündliche Zusagen sind rechtlich zwar prinzipiell bindend, aber das große Problem ist die Beweisbarkeit. Ohne Zeugen oder schriftliche Notiz ist es fast unmöglich, so eine Absprache später durchzusetzen. Ich würde das Gespräch erneut suchen und für die Zukunft alles Wichtige schriftlich festhalten lassen."
+        },
+        {
+            "id": "f",
+            "author": "Ben",
+            "timestamp": "vor 30 Minuten",
+            "content": "Überstunden sind echt ein leidiges Thema. Bei uns wird auch erwartet, dass man länger bleibt, oft ohne Ausgleich. Ich finde das total ungerecht, dass die Freizeit einfach so geopfert werden muss. Da müsste mal gesetzlich was klarer geregelt werden, finde ich."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

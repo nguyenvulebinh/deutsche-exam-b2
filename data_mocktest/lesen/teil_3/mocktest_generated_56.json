@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Berufsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Ich hatte vor zwei Wochen meinen Jahresurlaub genehmigt bekommen, der nächste Woche beginnen sollte. Nun bin ich aber leider kurzfristig erkrankt und habe eine ärztliche Krankschreibung für die gesamte erste Urlaubswoche erhalten. Verfallen meine Urlaubstage jetzt einfach oder kann ich den Urlaub später nachholen? Ich bin mir unsicher, wie das rechtlich geregelt ist."
+        },
+        {
+            "id": 2,
+            "name": "Marco",
+            "situation": "Ich arbeite als Softwareentwickler. In letzter Zeit kommt es häufig vor, dass mein Chef kurz vor Feierabend noch dringende Aufgaben verteilt, wodurch ich regelmäßig länger bleiben muss. Im Arbeitsvertrag steht dazu nichts Konkretes. Wird das als selbstverständlich erwartet? Bekomme ich dafür einen Freizeitausgleich oder zusätzliche Bezahlung? Wie ist die Rechtslage bei spontanen Überstunden?"
+        },
+        {
+            "id": 3,
+            "name": "Sarah",
+            "situation": "Ich bin erst seit vier Monaten in meiner neuen Firma und befinde mich noch in der Probezeit. Jetzt habe ich erfahren, dass ich schwanger bin. Ich habe große Angst, dass mein Arbeitgeber mir kündigen könnte, wenn er davon erfährt, gerade weil ich noch in der Probezeit bin. Bin ich irgendwie geschützt oder kann mir leicht gekündigt werden?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich hatte mit meinem Vorgesetzten mündlich vereinbart, dass ich für ein bestimmtes Projekt eingestellt werde, das voraussichtlich 8 Monate dauert. Im schriftlichen Arbeitsvertrag steht aber nur eine Standardformulierung zur Tätigkeit ohne Befristung auf das Projekt. Jetzt, nach 5 Monaten, soll das Projektteam verkleinert werden und man deutete an, mein Vertrag könnte bald enden. Zählt die mündliche Zusage zur Projektdauer gar nicht?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Yasmin",
+            "timestamp": "vor 30 Minuten",
+            "content": "Sobald dein Arbeitgeber über die Schwangerschaft informiert ist, genießt du besonderen Kündigungsschutz nach dem Mutterschutzgesetz. Das gilt auch während der Probezeit! Eine Kündigung ist dann nur in ganz seltenen Ausnahmefällen möglich. Informiere deinen Arbeitgeber also am besten zeitnah, um diesen Schutz zu aktivieren."
+        },
+        {
+            "id": "b",
+            "author": "Stefan",
+            "timestamp": "vor 4 Stunden",
+            "content": "Eine Kündigung durch den Arbeitgeber ist immer eine heikle Sache. Es gibt gesetzliche Fristen, die eingehalten werden müssen, abhängig von der Betriebszugehörigkeit. Ohne triftigen Grund ist eine Kündigung nach der Probezeit oft schwierig, aber leider nicht unmöglich. Im Zweifel sollte man rechtlichen Rat einholen."
+        },
+        {
+            "id": "c",
+            "author": "Johanna",
+            "timestamp": "vor 2 Stunden",
+            "content": "Wenn du *vor* Urlaubsantritt krank wirst und das mit einem Attest nachweisen kannst, gelten die Krankheitstage nicht als Urlaubstage. Dein Urlaubsanspruch bleibt für diese Tage bestehen und du kannst sie nach deiner Genesung in Absprache mit dem Arbeitgeber zu einem späteren Zeitpunkt nehmen. Wichtig ist die rechtzeitige Krankmeldung!"
+        },
+        {
+            "id": "d",
+            "author": "Martin",
+            "timestamp": "vor 6 Stunden",
+            "content": "Bei uns in der Firma gibt es klare Regeln für die Urlaubsplanung. Anträge müssen mindestens vier Wochen vorher eingereicht werden und der Abteilungsleiter prüft dann, ob es mit den Kollegen passt. Bisher gab es da selten Probleme, die Abstimmung im Team funktioniert gut."
+        },
+        {
+            "id": "e",
+            "author": "Daniela",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ärgerlich, wenn man im Urlaub krank wird! Mir ist das letztes Jahr passiert. Ich lag drei Tage flach. Mein Chef meinte damals, Pech gehabt, Urlaub sei Urlaub. Ich glaube, wenn die Krankheit *während* des Urlaubs auftritt, bekommt man die Tage nicht zurückerstattet, aber sicher bin ich nicht."
+        },
+        {
+            "id": "f",
+            "author": "Klaus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Überstunden müssen in der Regel angeordnet oder zumindest vom Arbeitgeber gebilligt werden. Schau mal in deinen Vertrag oder eine eventuelle Betriebsvereinbarung. Normalerweise müssen Überstunden entweder bezahlt oder durch Freizeit ausgeglichen werden. Eine pauschale Verpflichtung zu unbezahlten Überstunden ist meistens nicht zulässig. Sprich am besten mal mit dem Betriebsrat, falls vorhanden."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

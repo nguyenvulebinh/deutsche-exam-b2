@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrecht: Krankheit und Abwesenheit",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich bin heute Morgen mit Fieber aufgewacht und kann definitiv nicht zur Arbeit. Es ist das erste Mal seit ich hier arbeite. Ich bin mir unsicher, wie genau ich mich jetzt krankmelden muss. Reicht eine E-Mail an meinen Chef oder muss ich anrufen? Und ab wann brauche ich eigentlich eine ärztliche Bescheinigung? Ich will alles richtig machen."
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Leider hat mich eine Grippe erwischt und ich bin jetzt schon die zweite Woche krankgeschrieben. Langsam mache ich mir Sorgen um mein Gehalt. Bekomme ich mein volles Gehalt weitergezahlt, auch wenn ich länger ausfalle? Gibt es da eine Grenze und was passiert danach? Ich bin seit über einem Jahr fest angestellt."
+        },
+        {
+            "id": 3,
+            "name": "Aisha",
+            "situation": "Ich hatte zwei Wochen Urlaub geplant und genehmigt bekommen. Ausgerechnet am dritten Urlaubstag wurde ich richtig krank und musste für fünf Tage zum Arzt, der mich auch krankgeschrieben hat. Mein Chef meint nun, Pech gehabt, Urlaub ist Urlaub. Stimmt das? Verfallen diese Krankheitstage jetzt einfach?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich bin alleinerziehend und mein Sohn (5 Jahre) ist seit gestern krank. Ich musste deshalb zu Hause bleiben, um ihn zu betreuen. Mein Chef war am Telefon nicht begeistert und fragte, ob das jetzt öfter vorkommt. Habe ich überhaupt Anspruch darauf, zur Betreuung meines kranken Kindes freigestellt zu werden, und bekomme ich für diese Tage Gehalt? Was, wenn er nächste Woche immer noch krank ist?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 20 Minuten",
+            "content": "Hallo Lena, wichtig ist, dass du deinem Arbeitgeber deine Arbeitsunfähigkeit und deren voraussichtliche Dauer *unverzüglich* mitteilst – am besten noch vor Arbeitsbeginn per Anruf, eine E-Mail geht oft auch. Die ärztliche Bescheinigung (AU) brauchst du gesetzlich spätestens am vierten Kalendertag der Krankheit, manche Arbeitgeber verlangen sie aber schon früher – schau mal in deinen Arbeitsvertrag!"
+        },
+        {
+            "id": "b",
+            "author": "Sabine",
+            "timestamp": "vor 1 Stunde",
+            "content": "Hallo Markus, keine Sorge. Wenn du länger als drei Tage krank bist, hast du als Arbeitnehmer Anspruch auf Entgeltfortzahlung durch deinen Arbeitgeber. Das bedeutet, du bekommst bis zu sechs Wochen lang dein volles Gehalt weitergezahlt. Erst danach würdest du Krankengeld von deiner Krankenkasse erhalten, was etwas weniger ist."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Aisha, dein Chef irrt sich! Wenn du im Urlaub krank wirst und das durch eine ärztliche Bescheinigung nachweisen kannst, gelten diese Tage nicht als Urlaubstage. Sie müssen dir wieder gutgeschrieben werden. Du musst die AU aber natürlich auch während des Urlaubs dem Arbeitgeber sofort vorlegen."
+        },
+        {
+            "id": "d",
+            "author": "Petra",
+            "timestamp": "vor 3 Stunden",
+            "content": "Längere Krankheit ist immer blöd. Bei mir war das damals in der Probezeit, da wurde mir dann leider gekündigt. Aber nach der Probezeit ist man ja besser geschützt. Ich drücke dir die Daumen, dass du schnell wieder fit bist! Gute Besserung!"
+        },
+        {
+            "id": "e",
+            "author": "Florian",
+            "timestamp": "vor 2 Stunden",
+            "content": "Wenn man im Ausland krank wird, ist das besonders kompliziert mit der Krankmeldung. Man braucht oft eine Übersetzung der Bescheinigung und muss die Krankenkasse informieren. Ich hatte das mal auf einer Dienstreise, das war ein echter Aufwand."
+        },
+        {
+            "id": "f",
+            "author": "Yasmin",
+            "timestamp": "vor 5 Stunden",
+            "content": "Oh je, krank im Urlaub, das ist ja maximal ärgerlich! Fühle mit dir! Mir ist das letztes Jahr auch passiert, die ganze Familie lag flach. Da ist die Erholung natürlich dahin. Ich finde, Arbeitgeber sollten da kulanter sein, aber naja..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

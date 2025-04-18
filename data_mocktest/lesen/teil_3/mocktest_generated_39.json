@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Petra",
+            "situation": "Ich arbeite Teilzeit 20 Stunden pro Woche. Mein Chef bittet mich aber fast jede Woche, länger zu bleiben, manchmal 3-4 Stunden extra. Im Vertrag steht nichts dazu, und ich bekomme weder mehr Geld noch Freizeitausgleich. Ist das erlaubt oder habe ich als Teilzeitkraft Anspruch auf Vergütung oder Ausgleich für diese Überstunden?"
+        },
+        {
+            "id": 2,
+            "name": "Stefan",
+            "situation": "Mein Arbeitsvertrag wurde letzten Monat gekündigt. Jetzt habe ich meine Endabrechnung erhalten und festgestellt, dass meine restlichen 8 Urlaubstage nicht ausbezahlt wurden. Mein Ex-Chef meinte, verfallener Urlaub wird nicht vergütet. Stimmt das? Ich dachte, nicht genommener Urlaub muss finanziell abgegolten werden."
+        },
+        {
+            "id": 3,
+            "name": "Lena",
+            "situation": "Ich arbeite im Schichtdienst in einem Krankenhaus. Manchmal endet meine Spätschicht um 22 Uhr und die Frühschicht beginnt schon am nächsten Tag um 7 Uhr. Das sind ja nur 9 Stunden Pause dazwischen. Gibt es nicht eine gesetzliche Mindestruhezeit zwischen zwei Arbeitseinsätzen, die eingehalten werden muss?"
+        },
+        {
+            "id": 4,
+            "name": "Markus",
+            "situation": "Vor Projektbeginn hat mir mein Vorgesetzter mündlich einen Bonus von 500 Euro versprochen, wenn wir erfolgreich sind. Das Projekt war ein voller Erfolg, aber jetzt will er von der Zusage nichts mehr wissen. Schriftlich habe ich leider nichts. Kann ich diesen mündlich zugesagten Bonus trotzdem rechtlich einfordern und sollte ich direkt einen Anwalt einschalten?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Jurij",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ja, das Arbeitszeitgesetz ist da eindeutig. Zwischen dem Ende einer täglichen Arbeitszeit und dem Beginn der nächsten muss eine ununterbrochene Ruhezeit von mindestens elf Stunden liegen. Ausnahmen sind in bestimmten Branchen möglich, aber 11 Stunden ist die Regel."
+        },
+        {
+            "id": "b",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Überstunden sind in vielen Berufen leider an der Tagesordnung. Gerade von Vollzeitkräften wird oft erwartet, dass sie bei Bedarf auch mal länger bleiben. Ein bisschen Flexibilität gehört meiner Meinung nach dazu, wenn man im Job weiterkommen will."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Auch Teilzeitkräfte haben Rechte! Überstunden müssen grundsätzlich angeordnet oder zumindest gebilligt sein und sind vergütungspflichtig – entweder durch Bezahlung oder Freizeitausgleich. Schau unbedingt in deinen Arbeitsvertrag oder einen eventuellen Tarifvertrag, oft ist das dort genauer geregelt."
+        },
+        {
+            "id": "d",
+            "author": "Maria",
+            "timestamp": "vor 8 Stunden",
+            "content": "Mein Rat: Immer alles Wichtige schriftlich festhalten! Auf mündliche Zusagen würde ich mich nie verlassen, besonders wenn es um Geld geht. Mir wurde mal eine Gehaltserhöhung versprochen, die ich dann nie bekommen habe. Sehr ärgerlich!"
+        },
+        {
+            "id": "e",
+            "author": "Klaus",
+            "timestamp": "vor 1 Tag",
+            "content": "Ganz klar: Wenn der Urlaub wegen der Beendigung des Arbeitsverhältnisses nicht mehr genommen werden kann, muss der Arbeitgeber ihn finanziell abgelten. Das betrifft den gesetzlichen Mindesturlaub. Lass dir das nicht gefallen, das Geld steht dir zu!"
+        },
+        {
+            "id": "f",
+            "author": "Fatima",
+            "timestamp": "vor 1 Tag",
+            "content": "Wichtig ist, dass man versucht, seinen Resturlaub noch während der Kündigungsfrist zu nehmen. Das ist meistens die beste Lösung. Nur wenn das aus betrieblichen Gründen oder wegen Krankheit nicht geht, kommt eine Auszahlung in Frage."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Ansgar",
+            "situation": "Ich arbeite seit Kurzem in leitender Position und muss jetzt das erste Mal einen Mitarbeiter entlassen. Der Angestellte ist älter als ich und arbeitet schon sehr lange in der Firma. Ich kenne natürlich die gesetzlichen Vorgaben und Fristen, weiß aber nicht, wie ich bei der Durchführung der Kündigung am besten vorgehen soll. Kann mir jemand einen Rat geben?"
+        },
+        {
+            "id": 2,
+            "name": "Will",
+            "situation": "Hallo liebe Forumsmitglieder! Ich stehe noch unter Schock. Soeben ist mir in der Probezeit gekündigt worden. Ich bin schon fünf Monate im Betrieb und noch letzte Woche hat man mich für meine Arbeit gelobt. Was mache ich jetzt? Habe ich irgendwelche Rechte?"
+        },
+        {
+            "id": 3,
+            "name": "Bahar",
+            "situation": "Weiß jemand Bescheid? Ich bin in der achten Woche schwanger und frage mich, wann genau ich das meinem Arbeitgeber mitteilen muss. Eigentlich wollte ich noch warten, aber jetzt habe ich gehört, dass man es sofort sagen sollte, um geschützt zu sein. Stimmt das? Ich möchte durch meine Schwangerschaft keine Nachteile im Job erleiden!"
+        },
+        {
+            "id": 4,
+            "name": "Serena",
+            "situation": "Ich bin mit meiner Arbeit eigentlich unzufrieden und habe etwas Besseres in Aussicht. Nun möchte ich kündigen. Meine Chefin war aber immer sehr bemüht um mich und hat mir gerade erst eine Gehaltserhöhung gegeben. Nun weiß ich nicht so richtig, wie ich das Kündigungsschreiben angemessen und taktvoll formulieren soll. Hat jemand einen Tipp für mich?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Verena",
+            "timestamp": "vor einem Tag",
+            "content": "Ich habe auch mal nach langer Betriebszugehörigkeit gekündigt und war davor wie du in einem absoluten Gefühlschaos. Tue ich das Richtige? Was, wenn ich nichts Neues finde? Ich war danach dann auch eine Weile arbeitslos, aber bereut habe ich meine Entscheidung keine Sekunde. Manchmal muss man einfach auf sein Herz hören."
+        },
+        {
+            "id": "b",
+            "author": "Alexej",
+            "timestamp": "vor vier Stunden",
+            "content": "Wer redet Ihnen denn so etwas ein? Sie müssen die Schwangerschaft nicht sofort melden, aber sobald Ihr Arbeitgeber informiert ist, genießen Sie besonderen Kündigungsschutz nach dem Mutterschutzgesetz. Nachteile dürfen Ihnen daraus nicht entstehen! Im Zweifel hilft das Bundesministerium für Familie: info@bmfsfjservice.bund.de."
+        },
+        {
+            "id": "c",
+            "author": "Lale",
+            "timestamp": "vor neun Stunden",
+            "content": "Vorgesetzte sind auch nur Menschen und niemand kündigt gerne. Meine Empfehlung: Sie sind zwar nicht verpflichtet, ein persönliches Trennungsgespräch zu führen, aber tun Sie es dennoch. Erklären Sie die Gründe möglichst sachlich, bevor die schriftliche Kündigung dem Mitarbeiter zugeht. Das zeigt Respekt."
+        },
+        {
+            "id": "d",
+            "author": "Fritz",
+            "timestamp": "vor dreißig Minuten",
+            "content": "Wenn Sie Ihr Arbeitsverhältnis beenden möchten, müssen Sie das fristgerecht und schriftlich tun. Gründe müssen Sie im Schreiben nicht nennen. In Ihrem speziellen Fall würde ich aber empfehlen, zuerst mit Ihrer Vorgesetzten zu sprechen und vielleicht private Motive anzudeuten, damit niemand gekränkt ist. Das kommt meist besser an."
+        },
+        {
+            "id": "e",
+            "author": "Bettina",
+            "timestamp": "vor 12 Stunden",
+            "content": "Nicht jede Kündigung ist einfach so rechtens! Besonders langjährige Arbeitnehmer genießen einen allgemeinen Kündigungsschutz. Und bestimmte Personengruppen, zum Beispiel Schwangere während der Schwangerschaft und nach der Entbindung, haben einen noch erweiterten Sonderkündigungsschutz nach dem Gesetz."
+        },
+        {
+            "id": "f",
+            "author": "Tina",
+            "timestamp": "vor zwei Tagen",
+            "content": "Ich habe in meiner Firma schon früh Bescheid gesagt, dass wir Nachwuchs erwarten – aber da ich Zwillinge bekam, war es auch schnell sichtbar. Der Gesetzgeber schreibt keine feste Frist vor. Machen Sie es aber nicht zu spät, allein schon damit Ihr Arbeitgeber planen und rechtzeitig eine Vertretung für Sie suchen kann."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "x",
+        "3": "b",
+        "4": "d"
+    }
+}

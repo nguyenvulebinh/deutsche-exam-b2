@@ -1,0 +1,69 @@
+{
+    "thema": "Konflikte und Fragen im Arbeitsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Marco",
+            "situation": "Ich bin seit über einem Jahr in meiner Firma und leiste regelmäßig Überstunden, die auch angeordnet und dokumentiert werden. Mein Chef meinte mündlich, diese würden 'irgendwann ausgeglichen'. Bisher ist aber nichts passiert, weder Freizeitausgleich noch Bezahlung. Langsam werde ich ungeduldig. Habe ich einen Anspruch darauf, dass diese geleisteten Stunden zeitnah vergütet oder durch Freizeit ausgeglichen werden?"
+        },
+        {
+            "id": 2,
+            "name": "Sofia",
+            "situation": "Ich habe vor drei Monaten meinen Urlaub für August eingereicht, da wir eine größere Familienfeier im Ausland planen. Nun hat mein Vorgesetzter den Antrag abgelehnt mit der Begründung, dass im August 'zu viel zu tun sei'. Andere Kollegen haben aber Urlaub bekommen. Darf er das einfach so, obwohl ich so früh gefragt habe und wichtige Gründe habe?"
+        },
+        {
+            "id": 3,
+            "name": "Leon",
+            "situation": "Bei meinem Einstellungsgespräch wurde mir mündlich eine Weiterbildung zum Projektleiter nach der Probezeit fest zugesagt. Das war ein wichtiger Grund für mich, die Stelle anzunehmen. Jetzt ist die Probezeit vorbei, aber mein Chef will davon nichts mehr wissen und sagt, das sei nur 'mal so überlegt' gewesen. Was kann ich tun? Auf diese Zusage habe ich mich verlassen."
+        },
+        {
+            "id": 4,
+            "name": "Fatima",
+            "situation": "Ich bin in der Probezeit und mir wurde überraschend gekündigt, obwohl meine Leistungen immer gut waren. Mein Chef nannte keine konkreten Gründe. Ich vermute aber, dass es daran liegt, dass ich neulich wegen meines kranken Kindes zwei Tage kurzfristig zu Hause bleiben musste. Ist eine Kündigung in der Probezeit aus diesem Grund überhaupt erlaubt und was kann ich jetzt konkret unternehmen? Brauche ich sofort einen Anwalt?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 25 Minuten",
+            "content": "Anspruch auf Ausgleich für angeordnete Überstunden besteht definitiv! Wenn diese dokumentiert sind, ist die Beweislage gut. Fordere deinen Arbeitgeber schriftlich auf, die Stunden auszuzahlen oder Freizeitausgleich zu gewähren, und setze eine Frist. Mündliche Versprechen sind oft unzuverlässig. Prüfe auch deinen Arbeitsvertrag oder einen eventuellen Tarifvertrag bezüglich der Regelungen."
+        },
+        {
+            "id": "b",
+            "author": "Julia",
+            "timestamp": "vor 1 Stunde",
+            "content": "Der Arbeitgeber muss bei der Urlaubsplanung soziale Gesichtspunkte (z.B. Familie, Schulpflichtige Kinder) und die Wünsche des Arbeitnehmers berücksichtigen. Er darf Urlaubswünsche aber ablehnen, wenn dringende betriebliche Gründe vorliegen (z.B. Personalmangel in der Hochsaison). Dass andere Urlaub bekommen haben, heißt nicht automatisch, dass dein Antrag genehmigt werden muss, aber es lohnt sich, das Gespräch zu suchen und die Gründe genau zu hinterfragen."
+        },
+        {
+            "id": "c",
+            "author": "Markus",
+            "timestamp": "vor 3 Stunden",
+            "content": "Mündliche Zusagen sind rechtlich zwar bindend, aber im Streitfall sehr schwer zu beweisen, wenn der Chef sich nicht erinnert. Ohne Zeugen oder schriftliche Notizen hast du leider schlechte Karten, die Weiterbildung einzufordern. Für die Zukunft gilt: Wichtige Zusagen immer schriftlich im Arbeitsvertrag oder einer Zusatzvereinbarung festhalten lassen."
+        },
+        {
+            "id": "d",
+            "author": "Sandra",
+            "timestamp": "vor 4 Stunden",
+            "content": "Überstunden sind in vielen Branchen leider normal. Wichtig ist aber, dass die gesetzliche Höchstarbeitszeit nicht überschritten wird. Mehr als 10 Stunden pro Tag sind auf Dauer nicht erlaubt. Achtet darauf, eure Pausen einzuhalten, das ist wichtig für die Gesundheit!"
+        },
+        {
+            "id": "e",
+            "author": "Thomas",
+            "timestamp": "vor 5 Stunden",
+            "content": "Wenn man im Urlaub krank wird, muss man sofort zum Arzt gehen und dem Arbeitgeber eine Arbeitsunfähigkeitsbescheinigung schicken. Dann werden die Krankheitstage nicht vom Urlaub abgezogen. Das ist gesetzlich geregelt und gilt auch im Ausland."
+        },
+        {
+            "id": "f",
+            "author": "Anna",
+            "timestamp": "vor 6 Stunden",
+            "content": "Karriereplanung ist wichtig. Ich finde, man sollte regelmäßig mit dem Vorgesetzten über Entwicklungsmöglichkeiten sprechen. Viele Firmen bieten interne Schulungen an, aber manchmal muss man auch Eigeninitiative zeigen und selbst Kurse suchen, die einen weiterbringen. Das zeigt Engagement."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

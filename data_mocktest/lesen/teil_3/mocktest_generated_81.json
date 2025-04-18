@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen und Antworten",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Stefan",
+            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und noch in der Probezeit. Letzte Woche wurde ich von meinem Vorgesetzten noch für meine gute Arbeit gelobt. Heute habe ich überraschend die Kündigung erhalten, mit der kurzen Frist von zwei Wochen. Ich bin total verwirrt. Ist das überhaupt rechtens und was kann ich jetzt tun?"
+        },
+        {
+            "id": 2,
+            "name": "Julia",
+            "situation": "Ich habe mir heute bei der Arbeit an einer Schneidemaschine in den Finger geschnitten. Es ist keine große Wunde, ich habe sie selbst versorgt. Mein Abteilungsleiter hat es kurz gesehen, aber nichts weiter gesagt. Sollte ich den Vorfall trotzdem offiziell melden, auch wenn es nur eine Kleinigkeit war? Es geht mir um die Absicherung, falls doch noch etwas nachkommt."
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "situation": "Ich arbeite im Marketing und mein Chef erwartet irgendwie, dass ich regelmäßig länger bleibe, oft so zwei bis drei Stunden pro Woche. Diese Überstunden werden aber weder erfasst noch bezahlt oder durch Freizeit ausgeglichen. Das summiert sich langsam. Ist das so in Ordnung oder habe ich einen Anspruch auf Bezahlung oder Freizeitausgleich?"
+        },
+        {
+            "id": 4,
+            "name": "Lisa",
+            "situation": "Ich bin Projektleiterin. Mein Chef hat in einer Teambesprechung beiläufig erwähnt, dass es einen Bonus für das Team gibt, wenn wir das schwierige Projekt pünktlich abschließen. Es gibt nichts Schriftliches dazu. Das Projekt ist jetzt erfolgreich beendet, aber der Chef will von einem konkreten Bonus nichts mehr wissen. Können wir uns auf die mündliche Aussage berufen und den Bonus einfordern?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "David",
+            "timestamp": "vor 50 Minuten",
+            "content": "Grundsätzlich müssen Überstunden, die vom Arbeitgeber angeordnet oder zumindest geduldet werden, auch vergütet werden – entweder durch Bezahlung oder Freizeitausgleich. Schau mal in deinen Arbeitsvertrag oder eine eventuelle Betriebsvereinbarung. Wenn dort nichts steht und es regelmäßig passiert, solltest du das Gespräch mit dem Chef oder Betriebsrat suchen."
+        },
+        {
+            "id": "b",
+            "author": "Anna",
+            "timestamp": "vor 1 Stunde",
+            "content": "Eine Kündigung nach langer Betriebszugehörigkeit ist immer hart. Da gibt es aber längere Kündigungsfristen und oft auch die Möglichkeit einer Abfindung. Es lohnt sich, das rechtlich prüfen zu lassen, besonders wenn soziale Aspekte wie Alter oder Unterhaltspflichten eine Rolle spielen."
+        },
+        {
+            "id": "c",
+            "author": "Markus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Leider ist es so, dass während der Probezeit (meist die ersten 6 Monate) beide Seiten – Arbeitgeber und Arbeitnehmer – das Arbeitsverhältnis mit einer kurzen Frist von 2 Wochen und ohne Angabe von Gründen kündigen können. Das Lob von letzter Woche ändert daran rechtlich nichts. Dein Kündigungsschutz greift erst nach der Probezeit."
+        },
+        {
+            "id": "d",
+            "author": "Thomas",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei einem Unfall auf dem direkten Weg zur oder von der Arbeit (Wegeunfall) ist man normalerweise über die Berufsgenossenschaft versichert. Wichtig ist aber, dass es der direkte Weg war und kein Umweg z.B. zum Einkaufen gemacht wurde. Melden muss man das natürlich auch."
+        },
+        {
+            "id": "e",
+            "author": "Sabine",
+            "timestamp": "vor 4 Stunden",
+            "content": "Unbedingt melden! Auch kleine Verletzungen bei der Arbeit gelten als Arbeitsunfall und müssen dem Arbeitgeber und der Berufsgenossenschaft gemeldet werden. Das ist wichtig für die Versicherung, falls doch Spätfolgen auftreten oder eine Infektion entsteht. Besser einmal zu viel melden als einmal zu wenig!"
+        },
+        {
+            "id": "f",
+            "author": "Clara",
+            "timestamp": "vor 6 Stunden",
+            "content": "Mündliche Zusagen sind im Arbeitsrecht oft schwierig. Grundsätzlich können sie gültig sein, aber im Streitfall muss man sie beweisen können, z.B. durch Zeugen. Bei wichtigen Dingen wie Gehalt oder Vertragsänderungen sollte man immer auf etwas Schriftliches bestehen. Das erspart viel Ärger."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

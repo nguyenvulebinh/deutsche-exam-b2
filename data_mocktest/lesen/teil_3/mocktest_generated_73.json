@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jan",
+            "situation": "Ich arbeite seit vier Monaten in einer Firma, bin also noch in der sechsmonatigen Probezeit. Obwohl ich kürzlich für meine Arbeit gelobt wurde, habe ich heute überraschend die Kündigung erhalten, mit der kurzen Frist von zwei Wochen. Begründet wurde das nicht weiter. Ist eine Kündigung in der Probezeit so einfach ohne Angabe von Gründen möglich und was kann ich jetzt überhaupt tun?"
+        },
+        {
+            "id": 2,
+            "name": "Lena",
+            "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit mit dem Fahrrad leicht gestürzt. Nur ein paar Schürfwunden, nichts Ernstes. Mein Mann meint aber, ich müsse das unbedingt der Firma melden, Stichwort 'Wegeunfall', auch wegen möglicher Spätfolgen und der Versicherung. Ich bin unsicher, da es harmlos wirkt und ich noch in der Probezeit bin. Ist eine Meldung wirklich nötig?"
+        },
+        {
+            "id": 3,
+            "name": "Markus",
+            "situation": "Ich arbeite auf dem Bau und muss laut Vorschrift spezielle Sicherheitsschuhe (S3) und einen Helm tragen. Den Helm stellt die Firma, aber die teuren Schuhe soll ich selbst kaufen und von der Steuer absetzen, sagt mein Vorarbeiter. Ist das rechtens? Ich dachte, der Arbeitgeber muss für die vorgeschriebene Schutzausrüstung komplett aufkommen."
+        },
+        {
+            "id": 4,
+            "name": "Simone",
+            "situation": "Ich bin seit fünf Wochen krankgeschrieben und erhalte Lohnfortzahlung. Jetzt hat mein Arbeitgeber mir mitgeteilt, dass während meiner Krankheit die Beitragszahlungen zur betrieblichen Altersvorsorge ausgesetzt werden und ich den Firmenwagen abgeben muss. Dass das Gehalt weiterläuft, ist klar, aber dürfen diese zusätzlichen Leistungen während der Krankschreibung einfach so gestrichen werden?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Birgit",
+            "timestamp": "vor 2 Stunden",
+            "content": "Nach der Probezeit genießt du ja Kündigungsschutz. Dann braucht der Arbeitgeber triftige Gründe – betriebs-, personen- oder verhaltensbedingt. Die Kündigungsfristen sind dann auch viel länger und hängen davon ab, wie lange du schon im Betrieb bist. Informiere dich mal über das Kündigungsschutzgesetz (KSchG)."
+        },
+        {
+            "id": "b",
+            "author": "Ralf",
+            "timestamp": "vor 45 Minuten",
+            "content": "Unbedingt melden! Unfälle auf dem direkten Weg zur oder von der Arbeit sind als Wegeunfälle über die Berufsgenossenschaft versichert. Auch wenn es harmlos scheint, solltest du es dokumentieren lassen (Arbeitgeber informieren, evtl. Durchgangsarzt aufsuchen), falls doch noch Spätfolgen auftreten. Das ist dein gutes Recht."
+        },
+        {
+            "id": "c",
+            "author": "Stefan",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei Unfällen direkt im Betrieb ist die Sache meist klar, da greift die Unfallversicherung. Wichtig ist aber, dass man sich an die Sicherheitsvorschriften gehalten hat. Wenn man grob fahrlässig handelt, kann es schwierig werden. Eine interne Unfallmeldung ist aber fast immer Pflicht."
+        },
+        {
+            "id": "d",
+            "author": "Yasmin",
+            "timestamp": "vor 1 Stunde",
+            "content": "Nein, das ist nicht korrekt. Wenn eine bestimmte Persönliche Schutzausrüstung (PSA) wie Sicherheitsschuhe aufgrund der Tätigkeit gesetzlich vorgeschrieben oder per Gefährdungsbeurteilung notwendig ist, muss der Arbeitgeber diese gemäß Arbeitsschutzgesetz (§3 ArbSchG) kostenlos zur Verfügung stellen. Das ist keine normale Arbeitskleidung."
+        },
+        {
+            "id": "e",
+            "author": "Klaus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Die Kosten für typische Berufsbekleidung, die man theoretisch auch privat tragen könnte (z.B. Anzug im Büro, weiße Hosen für Ärzte), kann man oft als Werbungskosten bei der Steuer geltend machen. Ob der Chef die Kosten übernimmt, ist Verhandlungssache oder im Tarifvertrag geregelt, eine Pflicht besteht da meist nicht."
+        },
+        {
+            "id": "f",
+            "author": "Anja",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ja, leider ist das in der Probezeit (max. 6 Monate) so. Gemäß § 622 Abs. 3 BGB kann das Arbeitsverhältnis von beiden Seiten mit einer Frist von zwei Wochen gekündigt werden, ohne dass dafür ein spezieller Grund genannt werden muss. Der umfassende Kündigungsschutz greift erst nach der Probezeit."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "b",
+        "3": "d",
+        "4": "x"
+    }
+}

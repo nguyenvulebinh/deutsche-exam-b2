@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Johanna",
+            "situation": "Ich bin seit drei Wochen krankgeschrieben wegen eines Bandscheibenvorfalls. Jetzt habe ich von einer Kollegin gehört, dass der Chef überlegt, mich zu kündigen, weil ich so lange ausfalle. Ich dachte, während einer Krankheit sei man unkündbar? Wie ist die Rechtslage dazu wirklich? Kann man mir trotz Krankschreibung kündigen?"
+        },
+        {
+            "id": 2,
+            "name": "Mateo",
+            "situation": "Mein Abteilungsleiter hat mich letzte Woche mündlich gebeten, am Wochenende zusätzliche Stunden zu leisten, um ein Projekt fertigzustellen. Er meinte, das würde natürlich \"großzügig vergütet\". Jetzt sehe ich auf meiner Lohnabrechnung nichts davon. Im Arbeitsvertrag steht dazu auch nichts Genaues. Habe ich Anspruch auf Bezahlung oder Freizeitausgleich, auch wenn es nur mündlich besprochen war?"
+        },
+        {
+            "id": 3,
+            "name": "Lena",
+            "situation": "Ich bin heute im Lager auf einer kleinen Ölpfütze ausgerutscht. Es ist zum Glück nichts Schlimmes passiert, nur ein blauer Fleck am Arm und der Schreck. Muss ich so einen kleinen Vorfall überhaupt melden? Mein Kollege meinte, das sei übertrieben, aber ich bin mir unsicher, falls doch noch Spätfolgen auftreten. Was ist richtig?"
+        },
+        {
+            "id": 4,
+            "name": "Stefan",
+            "situation": "Ich plane, in sechs Monaten die Firma zu wechseln und benötige für meine Bewerbungen ein Zwischenzeugnis. Mein Chef hat zugestimmt, mir eines auszustellen. Ich habe aber gehört, dass er verpflichtet ist, es \"wohlwollend\" zu formulieren. Heißt das, er darf gar keine Kritikpunkte erwähnen, auch wenn sie vielleicht berechtigt wären? Wie detailliert muss so ein Zeugnis sein?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "PetraM",
+            "timestamp": "vor 8 Stunden",
+            "content": "Kündigungen in der Probezeit sind immer heikel. Da gelten ja verkürzte Fristen und man braucht oft keinen speziellen Grund. Wenn man aber schon länger dabei ist, sieht das anders aus. Da muss der Kündigungsschutz beachtet werden. Bei dir klingt das ja aber eher nach längerer Krankheit."
+        },
+        {
+            "id": "b",
+            "author": "RechtsanwaltMeyer",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung während einer Krankheit ist leider nicht grundsätzlich ausgeschlossen. Der Arbeitgeber braucht aber einen triftigen Kündigungsgrund, der unabhängig von der aktuellen Erkrankung sein kann (z.B. betriebsbedingt). Eine Kündigung *wegen* der Krankheit ist nur unter sehr strengen Voraussetzungen möglich (z.B. langwierige Krankheit mit negativer Zukunftsprognose). Einfach so wegen drei Wochen Ausfall geht das normalerweise nicht."
+        },
+        {
+            "id": "c",
+            "author": "Max Mustermann",
+            "timestamp": "vor 1 Stunde",
+            "content": "Bei uns in der Firma sind Überstunden leider an der Tagesordnung. Bezahlung? Fehlanzeige! Meistens heißt es nur \"bitte mal abfeiern\", aber wann das gehen soll, weiß keiner. Ich finde das eine Unverschämtheit, was sich manche Chefs erlauben. Da hilft nur, sich zu wehren oder den Job zu wechseln."
+        },
+        {
+            "id": "d",
+            "author": "SabineH",
+            "timestamp": "vor 5 Stunden",
+            "content": "Mündliche Zusagen sind rechtlich schwierig nachzuweisen. Grundsätzlich gilt: Überstunden müssen angeordnet oder zumindest gebilligt worden sein und die Vergütung sollte idealerweise vertraglich geregelt sein. Fehlt eine Regelung, besteht oft trotzdem Anspruch auf Bezahlung oder Freizeitausgleich, gerade wenn Überstunden in der Branche üblich sind. Sprechen Sie Ihren Chef direkt darauf an und bitten Sie um Klärung."
+        },
+        {
+            "id": "e",
+            "author": "Berufsgenosse",
+            "timestamp": "vor 4 Stunden",
+            "content": "Wichtig ist auch der Unterschied zwischen Arbeits- und Wegeunfall. Wenn dir auf dem direkten Weg zur Arbeit oder nach Hause etwas passiert, ist das normalerweise auch versichert. Aber Vorsicht: Umwege, zum Beispiel zum Einkaufen, sind meistens nicht abgedeckt! Bei Unfällen im Betrieb gelten andere Regeln."
+        },
+        {
+            "id": "f",
+            "author": "SicherheitsGuru",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ja, unbedingt melden! Jeder Arbeitsunfall, auch ein scheinbar kleiner, sollte dem Arbeitgeber und ggf. dem Durchgangsarzt gemeldet werden. Das ist wichtig für die gesetzliche Unfallversicherung, falls doch Spätfolgen auftreten oder medizinische Behandlung nötig wird. Es geht nicht um \"Ärger machen\", sondern um Ihre Absicherung."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "d",
+        "3": "f",
+        "4": "x"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Hallo zusammen, ich bin etwas verzweifelt. Ich habe vor fast sechs Monaten in einer neuen Firma angefangen und befinde mich noch in der Probezeit. Heute wurde mir ohne genaue Begründung gekündigt. Ich dachte, ich hätte schon einen gewissen Schutz nach so langer Zeit. Welche Rechte habe ich in dieser Situation und ist das so einfach möglich?"
+        },
+        {
+            "id": 2,
+            "name": "Sofia",
+            "situation": "Ich arbeite Vollzeit, also 8 Stunden am Tag. Meine Chefin sagt, ich muss meine 30-minütige Pause genau nach 4 Stunden nehmen, aber manchmal passt das gar nicht in meinen Arbeitsablauf. Muss ich die Pause wirklich exakt dann machen, wenn sie es vorgibt, oder habe ich da Mitspracherecht? Und reichen 30 Minuten bei 8 Stunden Arbeit aus?"
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit auf dem vereisten Gehweg ausgerutscht und habe mir den Arm geprellt. Zählt das als Arbeitsunfall, obwohl es nicht im Betrieb passiert ist? Muss ich das meinem Arbeitgeber melden, auch wenn ich voraussichtlich nicht lange krankgeschrieben bin?"
+        },
+        {
+            "id": 4,
+            "name": "Lena",
+            "situation": "Ich habe zum 1. Juli den Job gewechselt. Bei meinem alten Arbeitgeber habe ich genau 6 Monate gearbeitet und meinen anteiligen Urlaub für dieses halbe Jahr bereits genommen. Wie viel Urlaub steht mir denn jetzt bei meinem neuen Arbeitgeber für den Rest des Jahres (Juli-Dezember) zu? Mein neuer Vertrag nennt 30 Tage Jahresurlaub."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Monika",
+            "timestamp": "vor 30 Minuten",
+            "content": "Eine Kündigung ist immer hart, besonders wenn man schon länger dabei ist. Für langjährige Mitarbeiter gibt es ja den Kündigungsschutz. Der Arbeitgeber muss dann soziale Aspekte berücksichtigen (Sozialauswahl) und braucht triftige Gründe. Einfach so geht das dann nicht mehr. Kopf hoch!"
+        },
+        {
+            "id": "b",
+            "author": "Lars",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ja, Unfälle auf dem direkten Weg zur oder von der Arbeit gelten als Wegeunfälle und sind somit über die gesetzliche Unfallversicherung abgedeckt. Du solltest den Vorfall unbedingt deinem Arbeitgeber und ggf. einem Durchgangsarzt melden, auch bei kleineren Verletzungen, falls Spätfolgen auftreten. Gute Besserung!"
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Thema Arbeitszeit: Überstunden sind bei uns leider an der Tagesordnung. Wichtig ist, dass diese entweder bezahlt oder durch Freizeit ausgeglichen werden. Es gibt aber Höchstarbeitszeiten pro Tag und Woche, die nicht überschritten werden dürfen. Schau mal in deinen Arbeitsvertrag, wie das bei euch geregelt ist."
+        },
+        {
+            "id": "d",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Während der Probezeit (maximal 6 Monate) ist eine Kündigung leider einfacher möglich, sowohl für dich als auch für den Arbeitgeber. Die gesetzliche Kündigungsfrist beträgt nur zwei Wochen, und es muss kein spezieller Grund angegeben werden. Der allgemeine Kündigungsschutz greift erst nach Ablauf der Probezeit."
+        },
+        {
+            "id": "e",
+            "author": "Sabine",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wenn man im Urlaub krank wird, ist das ärgerlich. Wichtig ist, sich sofort beim Arbeitgeber krankzumelden und ein ärztliches Attest vorzulegen. Dann werden die Krankheitstage nicht auf den Urlaub angerechnet und man kann die Urlaubstage später nachholen. Das ist gesetzlich so geregelt."
+        },
+        {
+            "id": "f",
+            "author": "Bettina",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ja, bei einer Arbeitszeit von mehr als sechs bis zu neun Stunden stehen dir gesetzlich mindestens 30 Minuten Pause zu. Diese muss nicht am Stück genommen werden. Der Arbeitgeber legt die Pausenzeiten fest, muss dabei aber die betrieblichen Belange und deine Interessen berücksichtigen. Eine feste Vorgabe genau nach 4 Stunden ist möglich."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "b",
+        "4": "x"
+    }
+}

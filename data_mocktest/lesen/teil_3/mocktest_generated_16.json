@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen für Auszubildende",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Egle",
+            "situation": "Eine Frage an alle. Hat jemand hier schon Erfahrungen gemacht? Ich hatte vor Monaten Urlaub beantragt, dann wurde ich zwei Tage vorher krank. Ich musste eine Woche zu Hause bleiben. Danach konnte ich dann zu meiner Familie nach Litauen in Urlaub fahren. Mein Chef sagt nun, dass ich Pech hatte, weil ich im Urlaub krank war. Die Krankentage hat er mir als Urlaubstage abgezogen. Eine Kollegin sagt, ich soll mich beschweren. Was soll ich tun?"
+        },
+        {
+            "id": 2,
+            "name": "Tomas",
+            "situation": "Hallo Leute, unser Chef möchte, dass wir auch am Samstag arbeiten. Wir sind noch in der Ausbildung. Wir haben gehört, dass Auszubildende am Samstag nicht arbeiten dürfen. Kann jemand schnell Auskunft geben?"
+        },
+        {
+            "id": 3,
+            "name": "Martha",
+            "situation": "Ich habe eine einfache Frage. Wie viele Tage Urlaub sollte ein Azubi unter 18 Jahren bekommen? Bei uns in der Firma haben fast alle Azubis unter 18 Jahren 24 Urlaubstage. Sie haben auch eine 40-Stunden-Woche, brauchen aber samstags nicht zu arbeiten. Ist das der gesetzliche Mindestanspruch? Antwortet mal fleißig, wenn's geht, mit einem Link zum Gesetz."
+        },
+        {
+            "id": 4,
+            "name": "Paul",
+            "situation": "Bei uns erhalten junge Leute unter 18 Jahren in der Ausbildung 25 Tage Urlaub. Wenn sie über 18 Jahre alt sind, kriegen sie sogar nur 24 Tage. Ich habe gehört, dass viele Betriebe einen Betriebsrat und eine Betriebsvereinbarung dazu haben könnten, die das regelt. Was können wir hier machen, um mehr Informationen genau dazu zu bekommen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Suszanna",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ich finde es total ungerecht, dass minderjährige Azubis mehr Urlaub bekommen als volljährige. Man sagt doch immer, jüngere Menschen seien belastbarer als ältere. Bei uns ist das aber auch so."
+        },
+        {
+            "id": "b",
+            "author": "Hanna",
+            "timestamp": "vor 56 Minuten",
+            "content": "Also, grundsätzlich ist der Samstag ein ganz normaler Werktag, ihr dürft da also auch arbeiten. Geschützt sind allerdings minderjährige Auszubildende: Sie dürfen nur dann samstags arbeiten, wenn sie dafür in derselben oder der darauffolgenden Woche einen freien Tag als Ausgleich bekommen."
+        },
+        {
+            "id": "c",
+            "author": "Veronica",
+            "timestamp": "vor 9 Stunden",
+            "content": "Krankheitszeiten haben keinen Einfluss auf den Urlaubsanspruch. Die Fehltage dürfen nicht auf den Urlaubsanspruch angerechnet werden. Im Gegenteil: Erkrankt der Azubi im Urlaub, werden die Krankentage nicht auf den Urlaub angerechnet, wenn er eine ärztliche Krankmeldung vorlegt."
+        },
+        {
+            "id": "d",
+            "author": "Franziska",
+            "timestamp": "vor 42 Minuten",
+            "content": "Urlaub ist Urlaub und Krankheit ist Krankheit. Wenn du krank bist, musst du das in der Berufsschule melden. Am besten, du reichst das Attest vom Arzt dort ein. Mach das aber möglichst sofort, sonst fehlen dir eventuell wichtige Tage in deiner Berufsschule."
+        },
+        {
+            "id": "e",
+            "author": "Chiara",
+            "timestamp": "vor 3 Stunden",
+            "content": "Samstags arbeiten ist immer blöd. Ich mache das auch nicht gerne. Aber manchmal muss es eben sein. Viele ältere Kollegen müssen auf jeden Fall Samstag ran. Ich würde das auch unbedingt machen, das macht einen guten Eindruck beim Chef!"
+        },
+        {
+            "id": "f",
+            "author": "Louis",
+            "timestamp": "vor 49 Minuten",
+            "content": "Das kann eigentlich nicht sein mit den 24 Tagen für U18. Das Gesetz schreibt vor, dass minderjährige Auszubildende mindestens 25 Werktage Urlaub haben müssen. Die wöchentliche Arbeitszeit beträgt für Minderjährige maximal 40 Stunden. Den Link dazu findest du unter www.azubi-azubine.de."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "b",
+        "3": "f",
+        "4": "x"
+    }
+}

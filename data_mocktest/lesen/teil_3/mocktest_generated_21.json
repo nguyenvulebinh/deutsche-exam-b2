@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Stelle und noch in der Probezeit, die sechs Monate dauert. Gestern wurde mir überraschend gekündigt, ohne Angabe von Gründen. Mein Chef meinte nur, es hätte nicht gepasst. Ich bin schockiert, denn ich dachte, es gäbe auch in der Probezeit einen gewissen Kündigungsschutz. Kann mein Arbeitgeber das wirklich so einfach machen?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Mein Chef erwartet regelmäßig, dass ich Überstunden leiste, was ich auch tue. In meinem Arbeitsvertrag steht allerdings nichts Konkretes zur Vergütung oder zum Ausgleich von Überstunden. Nun möchte mein Chef, dass ich die angesammelten Stunden ausschließlich durch Freizeitausgleich ('Abbummeln') abbaue. Ich würde sie aber lieber ausbezahlt bekommen. Habe ich ein Recht auf die Auszahlung?"
+        },
+        {
+            "id": 3,
+            "name": "Aylin",
+            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen und war bereits verreist. Leider wurde ich am dritten Urlaubstag krank und musste dort einen Arzt aufsuchen. Ich habe meinen Arbeitgeber umgehend informiert und eine ärztliche Bescheinigung (Arbeitsunfähigkeitsbescheinigung) eingereicht. Werden mir diese Krankheitstage nun trotzdem als Urlaubstage angerechnet oder behalte ich den Urlaubsanspruch dafür?"
+        },
+        {
+            "id": 4,
+            "name": "Tom",
+            "situation": "Vor zwei Monaten hat mir mein Abteilungsleiter in einem persönlichen Gespräch fest eine Beförderung zum Teamleiter inklusive einer deutlichen Gehaltserhöhung ab dem nächsten Quartal mündlich zugesagt. Ich habe mich riesig gefreut. Jetzt aber tut er so, als hätte es dieses Gespräch nie gegeben, und in meinem aktuellen Vertrag steht davon natürlich nichts. Gibt es eine Möglichkeit, diese mündliche Zusage einzufordern?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Markus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Hallo Julia, leider ja. Während der vereinbarten Probezeit (maximal 6 Monate) gilt eine gesetzliche Kündigungsfrist von nur zwei Wochen zu jedem beliebigen Tag, und der Arbeitgeber muss keinen Kündigungsgrund nennen. Der allgemeine Kündigungsschutz nach dem Kündigungsschutzgesetz greift erst nach sechs Monaten Betriebszugehörigkeit. Das ist rechtlich zulässig, auch wenn es für dich natürlich sehr ärgerlich ist."
+        },
+        {
+            "id": "b",
+            "author": "Sabine",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Ben, das ist eine häufige Frage. Wenn dein Arbeitsvertrag, ein anwendbarer Tarifvertrag oder eine Betriebsvereinbarung keine Regelung zum Überstundenausgleich (z.B. Freizeitausgleich) enthält, hast du grundsätzlich Anspruch auf die Bezahlung der geleisteten Überstunden inklusive eventueller Zuschläge. Freizeitausgleich kann der Arbeitgeber dann nur anbieten, aber nicht einseitig anordnen, es sei denn, du stimmst zu."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Hallo Aylin, da musst du dir keine Sorgen machen. Urlaub dient der Erholung. Wenn du während deines Urlaubs krank wirst und dies durch ein ärztliches Attest nachweisen kannst, werden diese Krankheitstage nicht auf deinen Jahresurlaub angerechnet. Du musst den Arbeitgeber natürlich unverzüglich informieren und die Bescheinigung vorlegen. Die Tage stehen dir dann später erneut als Urlaub zu."
+        },
+        {
+            "id": "d",
+            "author": "Lena",
+            "timestamp": "vor 1 Tag",
+            "content": "Eine Kündigung nach langjähriger Betriebszugehörigkeit ist nicht so einfach! Da greift das Kündigungsschutzgesetz. Der Arbeitgeber braucht einen triftigen Grund – betriebsbedingt, personenbedingt oder verhaltensbedingt. Einfach 'passt nicht' reicht da nicht aus. Man sollte so eine Kündigung immer rechtlich prüfen lassen, vielleicht ist sie unwirksam."
+        },
+        {
+            "id": "e",
+            "author": "Omar",
+            "timestamp": "vor 8 Stunden",
+            "content": "Beim Thema Arbeitszeit und Überstunden ist es auch extrem wichtig, die gesetzlichen Höchstarbeitszeiten zu beachten. Das Arbeitszeitgesetz schützt Arbeitnehmer vor Überlastung. Mehr als 10 Stunden am Tag sind nur in Ausnahmen erlaubt, und die Ruhezeiten zwischen den Arbeitstagen müssen eingehalten werden. Verstöße dagegen sollte man nicht hinnehmen!"
+        },
+        {
+            "id": "f",
+            "author": "Sophie",
+            "timestamp": "vor 30 Minuten",
+            "content": "Urlaub ist essenziell für die Work-Life-Balance! Ich finde, jeder sollte seinen vollen Urlaubsanspruch auch wirklich nehmen und sich gut erholen. Manchmal gibt es Diskussionen mit dem Chef wegen des Timings, aber eine frühzeitige Planung hilft meistens. Nehmt euch die Auszeit, ihr habt sie verdient!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

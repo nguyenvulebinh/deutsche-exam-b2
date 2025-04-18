@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Marlene",
+            "situation": "In dem letzten Gespräch mit meinem Chef hat er mir fest versprochen, dass ich im neuen Jahr eine Gehaltserhöhung bekommen würde. Nun haben wir Januar und er kann sich plötzlich nicht mehr daran erinnern. Schriftlich habe ich leider nichts. Was kann ich tun, um doch noch zu meinem Recht zu kommen?"
+        },
+        {
+            "id": 2,
+            "name": "Kamila",
+            "situation": "Ich stehe noch unter Schock. Soeben ist mir in der Probezeit gekündigt worden! Ich bin schon fünf Monate im Betrieb und noch letzte Woche hat man mich für meine gute Arbeit gelobt. Einen Grund für die Kündigung nannte man mir nicht. Ist das überhaupt erlaubt? Was mache ich jetzt?"
+        },
+        {
+            "id": 3,
+            "name": "Egle",
+            "situation": "Ich hatte Urlaub beantragt und genehmigt bekommen. Dann wurde ich aber genau am ersten Urlaubstag krank und war eine Woche arbeitsunfähig geschrieben. Danach bin ich dann verreist. Nun sagt mein Chef, die Krankentage werden mir trotzdem als Urlaub angerechnet. Stimmt das? Ich habe doch ein Attest eingereicht."
+        },
+        {
+            "id": 4,
+            "name": "Serena",
+            "situation": "Ich bin mit meiner Arbeit unzufrieden und habe etwas Besseres gefunden. Jetzt möchte ich kündigen. Meine Chefin war aber immer sehr korrekt, hat mich gefördert und mir gerade erst mehr Gehalt gegeben. Ich weiß nicht, wie ich das Kündigungsschreiben taktvoll formulieren soll, um keinen Streit zu provozieren. Hat jemand einen Tipp für eine gute Formulierung?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sekou",
+            "timestamp": "vor 15 Minuten",
+            "content": "Wenn das nur eine mündliche Zusage war und Sie nichts Schriftliches in der Hand haben, wie ein Gesprächsprotokoll oder eine E-Mail, dann sieht es rechtlich leider schlecht aus. Mündliche Verträge sind zwar gültig, aber im Streitfall schwer zu beweisen. Versuchen Sie es weiter mit guten Leistungen und sprechen Sie es später erneut an."
+        },
+        {
+            "id": "b",
+            "author": "Veronica",
+            "timestamp": "vor 4 Stunden",
+            "content": "Nein, das ist nicht korrekt. Wenn Sie während Ihres genehmigten Urlaubs erkranken und dies durch ein ärztliches Attest nachweisen können, dürfen diese Krankheitstage nicht auf Ihren Jahresurlaub angerechnet werden. Sie behalten den Anspruch auf diese Urlaubstage und können sie später nehmen. Legen Sie das Attest vor!"
+        },
+        {
+            "id": "c",
+            "author": "Eduardo",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ja, das ist leider erlaubt. Während der vereinbarten Probezeit, die maximal sechs Monate dauern darf, kann das Arbeitsverhältnis von beiden Seiten mit einer Frist von zwei Wochen gekündigt werden, ohne dass ein Grund angegeben werden muss. Das vorherige Lob ändert daran leider nichts. Melden Sie sich am besten umgehend bei der Agentur für Arbeit."
+        },
+        {
+            "id": "d",
+            "author": "Fritz",
+            "timestamp": "vor 30 Minuten",
+            "content": "Wenn Sie Ihr Arbeitsverhältnis selbst beenden möchten, müssen Sie das immer schriftlich tun und die Kündigungsfrist aus Ihrem Arbeitsvertrag beachten. Gründe müssen Sie in der Kündigung nicht angeben. Sie könnten aber vorab das Gespräch mit Ihrer Vorgesetzten suchen und Ihre Entscheidung persönlich erläutern, um die Situation zu klären."
+        },
+        {
+            "id": "e",
+            "author": "Bettina",
+            "timestamp": "vor 1 Tag",
+            "content": "Nicht jede Kündigung ist einfach so möglich! Nach der Probezeit genießen Arbeitnehmer allgemeinen Kündigungsschutz. Für bestimmte Gruppen wie Schwangere, Betriebsräte oder Schwerbehinderte gibt es sogar einen besonderen Kündigungsschutz, der eine Entlassung nochmals erschwert. Hier muss der Arbeitgeber sehr strenge Vorgaben beachten."
+        },
+        {
+            "id": "f",
+            "author": "Tina",
+            "timestamp": "vor 2 Tagen",
+            "content": "Ohje, eine Kündigung ist immer hart, egal unter welchen Umständen. Ich habe das auch schon mal durchgemacht nach vielen Jahren in einer Firma. Dieses Gefühl der Unsicherheit, was danach kommt, ist furchtbar. Aber Kopf hoch, oft ergeben sich daraus auch ganz neue Chancen, auch wenn es erstmal weh tut!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "c",
+        "3": "b",
+        "4": "x"
+    }
+}

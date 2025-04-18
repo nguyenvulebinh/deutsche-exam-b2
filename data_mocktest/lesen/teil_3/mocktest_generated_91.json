@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich studiere und mache gerade mein Pflichtpraktikum für die Uni in einer Marketingagentur. Es dauert sechs Monate. Eine Kommilitonin meinte, dass mir der Mindestlohn zusteht, weil es so lang ist. Mein Chef sagt aber, da es ein Pflichtpraktikum laut Studienordnung ist, bekomme ich nichts. Wer hat Recht? Ich bin etwas verwirrt wegen der Dauer des Praktikums."
+        },
+        {
+            "id": 2,
+            "name": "Martin",
+            "situation": "Ich arbeite als IT-Spezialist. Gestern habe ich eine Abmahnung bekommen, weil ich während der Arbeitszeit kurz meine privaten E-Mails gecheckt habe. In unserer Firma gibt es zwar eine Regelung, die private Internetnutzung untersagt, aber es war wirklich nur für fünf Minuten und hat meine Arbeit nicht beeinträchtigt. Ist die Abmahnung wirklich gerechtfertigt für so eine Kleinigkeit?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Ich arbeite als Kassiererin in Teilzeit, 20 Stunden pro Woche. Fast jeden Tag muss ich aber 10-15 Minuten länger bleiben, weil die Kassenübergabe so lange dauert oder noch Kunden da sind. Diese Zeit wird mir nicht bezahlt und steht auch nicht als Überstunden im System. Im Arbeitsvertrag steht nichts dazu. Ist das in Ordnung so, oder muss mein Arbeitgeber das irgendwie ausgleichen?"
+        },
+        {
+            "id": 4,
+            "name": "Klaus",
+            "situation": "Ich arbeite in einer Werkstatt und brauche spezielle Sicherheitsschuhe (Klasse S3), weil dort schwere Teile herunterfallen können. Mein Arbeitgeber stellt uns zwar Helme und Handschuhe, sagt aber, die Schuhe müssen wir selbst kaufen, da das „persönliche“ Ausstattung sei, die man ja auch woanders tragen könne. Das sehe ich anders, die brauche ich ja *für* die Arbeit. Muss der Arbeitgeber nicht für die gesamte notwendige Schutzausrüstung zahlen? Ich fühle mich da etwas unfair behandelt."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Bei Teilzeitkräften ist das mit den Überstunden oft knifflig. Auch wenn nichts im Vertrag steht: Wenn du regelmäßig und auf Anweisung länger arbeiten musst, sind das Überstunden. Dein Arbeitgeber müsste diese eigentlich entweder bezahlen oder durch Freizeit ausgleichen. Sprich ihn mal konkret darauf an. Vielleicht gibt es ja auch eine Betriebsvereinbarung dazu bei euch?"
+        },
+        {
+            "id": "b",
+            "author": "Jonas",
+            "timestamp": "vor 5 Stunden",
+            "content": "Beim Mindestlohn gibt es Ausnahmen, und Pflichtpraktika gehören leider oft dazu, egal wie lange sie dauern. Wenn das Praktikum in deiner Studienordnung vorgeschrieben ist, besteht meist kein Anspruch auf Mindestlohn. Anders wäre es bei einem freiwilligen Praktikum, das länger als drei Monate dauert. Schau am besten nochmal genau in deine Studienordnung oder frag beim Studierendenservice nach."
+        },
+        {
+            "id": "c",
+            "author": "Mehmet",
+            "timestamp": "vor 45 Minuten",
+            "content": "Eine Abmahnung wegen privater Internetnutzung ist grundsätzlich möglich, wenn es eine klare betriebliche Regelung dagegen gibt. Auch wenn es nur kurz war – der Verstoß gegen die Regelung zählt. Ob es \"verhältnismäßig\" ist, kann man diskutieren, aber rechtlich ist der Arbeitgeber oft im Recht. Wichtig ist, ob die Nutzung tatsächlich untersagt war. Wenn ja, ist die Abmahnung leider oft zulässig."
+        },
+        {
+            "id": "d",
+            "author": "Anna",
+            "timestamp": "vor 8 Stunden",
+            "content": "Ich finde, der Mindestlohn sollte generell für alle gelten, auch für Praktikanten! Es ist doch unfair, dass junge Leute oft ausgenutzt werden. Viele Firmen sparen dadurch Geld. Das müsste dringend geändert werden, damit jeder von seiner Arbeit leben kann. Aber die aktuelle Gesetzeslage ist da leider anders."
+        },
+        {
+            "id": "e",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Abmahnungen sind immer ärgerlich. Ein Freund von mir wurde mal abgemahnt, weil er angeblich zu oft geraucht hat. Sowas finde ich total übertrieben. Man sollte sich nicht alles gefallen lassen und vielleicht mal mit dem Betriebsrat sprechen, falls es einen gibt. Chefs übertreiben es manchmal einfach."
+        },
+        {
+            "id": "f",
+            "author": "Petra",
+            "timestamp": "vor 3 Stunden",
+            "content": "Überstunden müssen klar geregelt sein. Bei uns im Betrieb gibt es ein Zeiterfassungssystem, und jede Minute Mehrarbeit wird auf einem Überstundenkonto gutgeschrieben. Das kann man dann abfeiern. Das ist gesetzlich vorgeschrieben, dass Überstunden erfasst und vergütet werden müssen, soweit ich weiß."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "c",
+        "3": "a",
+        "4": "x"
+    }
+}

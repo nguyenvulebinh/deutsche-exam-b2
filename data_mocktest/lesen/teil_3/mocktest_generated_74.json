@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Simon",
+            "situation": "Ich bin seit fast sechs Monaten in meiner Probezeit bei einer Marketingagentur. Gestern wurde mir ohne Angabe von konkreten Gründen gekündigt, obwohl meine Leistung bisher immer gelobt wurde. Die Kündigungsfrist beträgt nur zwei Wochen. Ist das überhaupt rechtens, so kurz vor Ende der Probezeit und ohne Begründung? Was kann ich tun?"
+        },
+        {
+            "id": 2,
+            "name": "Anja",
+            "situation": "Ich arbeite Teilzeit in einem Café. Wir müssen alle spezielle T-Shirts und Schürzen mit dem Firmenlogo tragen. Mein Chef sagt, wir müssen diese selbst kaufen, da es ja keine spezielle Schutzkleidung sei. Aber das ist doch eine Uniform, die klar der Firma zugeordnet ist. Muss ich die Kosten wirklich selbst tragen?"
+        },
+        {
+            "id": 3,
+            "name": "Cem",
+            "situation": "Ich hatte zwei Wochen Urlaub geplant und genehmigt bekommen. Leider bin ich direkt am zweiten Urlaubstag krank geworden und war fünf Tage lang arbeitsunfähig, was ich auch mit einem ärztlichen Attest belegen kann. Mein Arbeitgeber meint, Pech gehabt, Urlaub sei Urlaub. Bekomme ich die fünf Krankheitstage nicht als Urlaubstage zurückerstattet?"
+        },
+        {
+            "id": 4,
+            "name": "Laura",
+            "situation": "Bei meinem Vorstellungsgespräch wurde mir mündlich eine baldige Beförderung zu einer Teamleiterposition mit mehr Verantwortung und Gehalt versprochen, sobald ich eingearbeitet bin. Im schriftlichen Arbeitsvertrag steht davon aber nichts, nur meine aktuelle Position als Sachbearbeiterin. Jetzt bin ich sechs Monate hier, aber mein Chef will von dem Versprechen nichts mehr wissen. Ist so eine mündliche Zusage bindend oder gilt nur der Vertrag?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Florian",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung muss immer sozial gerechtfertigt sein, besonders bei langjährigen Mitarbeitern. Wenn es keine betriebsbedingten oder verhaltensbedingten Gründe gibt, die schriftlich dargelegt werden, sollte man unbedingt rechtlichen Rat einholen. Oft lohnt sich eine Kündigungsschutzklage, um zumindest eine Abfindung zu erhalten."
+        },
+        {
+            "id": "b",
+            "author": "Lena",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Simon, das ist ärgerlich, aber leider während der Probezeit (die oft 6 Monate dauert) meistens rechtens. Der Arbeitgeber kann ohne Angabe von Gründen mit einer verkürzten Frist von zwei Wochen kündigen. Dagegen kann man in der Regel wenig machen, da der allgemeine Kündigungsschutz noch nicht greift. Konzentriere dich auf die Jobsuche!"
+        },
+        {
+            "id": "c",
+            "author": "Julia",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wichtige Schutzkleidung, wie Sicherheitsschuhe auf dem Bau oder spezielle Handschuhe im Labor, muss laut Arbeitsschutzgesetz immer vom Arbeitgeber gestellt werden. Es geht ja um die Sicherheit! Wenn das nicht passiert, sollte man das ansprechen, notfalls bei der Berufsgenossenschaft melden. Kosten dafür dürfen nicht auf den Arbeitnehmer abgewälzt werden."
+        },
+        {
+            "id": "d",
+            "author": "Markus",
+            "timestamp": "vor 1 Stunde",
+            "content": "Hallo Anja, bei vorgeschriebener Dienstkleidung, die eindeutig dem Unternehmen zuzuordnen ist (wie Kleidung mit Logo), ist es üblich, dass der Arbeitgeber die Kosten trägt. Anders kann es sein, wenn im Arbeitsvertrag explizit etwas anderes vereinbart wurde. Reine Vorschriften zum Erscheinungsbild (\"gepflegte Kleidung\") muss man selbst finanzieren, aber eine spezielle Uniform meist nicht. Prüfe deinen Vertrag!"
+        },
+        {
+            "id": "e",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Wenn man krank ist, ist das Wichtigste, den Arbeitgeber sofort zu informieren, am besten noch vor Arbeitsbeginn anrufen! Die Krankmeldung vom Arzt muss dann spätestens am dritten Tag vorliegen, manchmal verlangt der Arbeitgeber sie auch schon früher. Wer das versäumt, riskiert arbeitsrechtliche Konsequenzen bis hin zur Abmahnung."
+        },
+        {
+            "id": "f",
+            "author": "Miriam",
+            "timestamp": "vor 30 Minuten",
+            "content": "Hallo Cem, da liegt dein Arbeitgeber falsch. Wenn du während deines genehmigten Urlaubs krank wirst und dies durch ein ärztliches Attest nachweist, gelten diese Tage nicht als Urlaub. Du musst die Krankmeldung natürlich unverzüglich einreichen. Die Urlaubstage müssen dir wieder gutgeschrieben werden. Das steht so im Bundesurlaubsgesetz (§9)."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "d",
+        "3": "f",
+        "4": "x"
+    }
+}

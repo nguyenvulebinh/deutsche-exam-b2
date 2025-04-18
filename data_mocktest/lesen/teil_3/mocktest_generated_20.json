@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Ich arbeite als Grafiker. Mein Vertrag sieht eine 40-Stunden-Woche vor. In letzter Zeit verlangt mein Chef aber fast täglich, dass ich länger bleibe, oft 1-2 Stunden. Im Vertrag steht nichts zu Überstunden. Muss ich das machen? Und müsste ich dafür nicht extra bezahlt werden oder Freizeitausgleich bekommen?"
+        },
+        {
+            "id": 2,
+            "name": "Elena",
+            "situation": "Ich fange bald auf einer Baustelle als Praktikantin an. Mir wurde gesagt, ich brauche unbedingt Sicherheitsschuhe und einen Helm. Muss ich diese selbst kaufen oder muss der Arbeitgeber die Kosten für diese spezielle Schutzausrüstung übernehmen? Es geht ja um meine Sicherheit."
+        },
+        {
+            "id": 3,
+            "name": "Stefan",
+            "situation": "Bei meinem Vorstellungsgespräch wurde mir zugesagt, dass ich hauptsächlich im Innendienst arbeiten würde. Im schriftlichen Vertrag steht davon aber nichts, nur meine allgemeine Berufsbezeichnung. Jetzt soll ich ständig im Außendienst sein. Zählt die mündliche Zusage gar nicht?"
+        },
+        {
+            "id": 4,
+            "name": "Maria",
+            "situation": "Ich wurde gestern, am letzten Tag meiner Probezeit, gekündigt. Als Grund wurde 'mangelnde Eignung' genannt, obwohl ich nie eine Abmahnung oder Kritik erhalten habe. Ist das überhaupt rechtens, so kurzfristig und ohne Vorwarnung? Kann ich mich dagegen wehren, vielleicht weil ich alleinerziehend bin?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Anja",
+            "timestamp": "vor 25 Minuten",
+            "content": "Grundsätzlich gilt: Überstunden müssen nur geleistet werden, wenn es im Arbeits-/Tarifvertrag oder einer Betriebsvereinbarung steht. Ausnahmen gibt es nur in Notfällen. Wenn sie angeordnet und geleistet werden, müssen sie aber bezahlt oder durch Freizeit ausgeglichen werden. Sprich deinen Chef darauf an!"
+        },
+        {
+            "id": "b",
+            "author": "Markus",
+            "timestamp": "vor 48 Minuten",
+            "content": "Persönliche Schutzausrüstung (PSA), die gesetzlich vorgeschrieben oder aufgrund der Gefährdungsbeurteilung notwendig ist (wie Helme, Sicherheitsschuhe), muss der Arbeitgeber kostenlos zur Verfügung stellen und auch instand halten. Das sind keine Kosten für den Arbeitnehmer."
+        },
+        {
+            "id": "c",
+            "author": "Julia",
+            "timestamp": "vor 1 Stunde",
+            "content": "Mündliche Zusagen sind zwar theoretisch auch Verträge, aber im Streitfall extrem schwer zu beweisen. Was im unterschriebenen Arbeitsvertrag steht, ist rechtlich bindend. Wenn dort deine Aufgaben nur allgemein beschrieben sind, kann der Chef dir im Rahmen des Direktionsrechts auch andere zumutbare Tätigkeiten zuweisen."
+        },
+        {
+            "id": "d",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Überstunden sind ärgerlich, kenne ich auch. Bei uns wird das erwartet, aber keiner beschwert sich laut. Ich finde, man sollte da loyal sein, wenn die Firma einen braucht. Aber eine klare Regelung wäre natürlich besser für alle."
+        },
+        {
+            "id": "e",
+            "author": "Sabine",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ob der Chef die Kosten für Berufskleidung übernimmt, hängt oft vom Einzelfall ab. Bei uns im Hotel bekommen wir die Uniform gestellt, müssen sie aber selbst reinigen. Das finde ich fair. Frag doch mal beim Betriebsrat nach, falls ihr einen habt."
+        },
+        {
+            "id": "f",
+            "author": "Mehmet",
+            "timestamp": "vor 4 Stunden",
+            "content": "Vertragsverhandlungen sind wichtig! Man sollte immer versuchen, alle wichtigen Punkte schriftlich festzuhalten, bevor man unterschreibt. Im Nachhinein etwas zu ändern, ist oft schwierig. Für die Zukunft: Immer alles genau lesen und verhandeln!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

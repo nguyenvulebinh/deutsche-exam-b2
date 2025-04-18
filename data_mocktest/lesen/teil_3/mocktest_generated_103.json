@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Stefan",
+            "situation": "Ich bin im fünften Monat meiner Probezeit und habe gerade meine Kündigung erhalten – mit nur zwei Wochen Frist! Ich dachte eigentlich, es läuft gut bei der Arbeit und bin ziemlich überrascht. Ist eine so kurze Kündigungsfrist während der Probezeit überhaupt erlaubt?"
+        },
+        {
+            "id": 2,
+            "name": "Lena",
+            "situation": "Ich leiste regelmäßig Überstunden, aber in meinem Arbeitsvertrag steht dazu gar nichts. Bisher habe ich weder zusätzliches Geld noch Freizeitausgleich dafür bekommen. Ich bin unsicher, welche Rechte ich bezüglich der Vergütung dieser Mehrarbeit habe. Kann mir jemand sagen, was gilt?"
+        },
+        {
+            "id": 3,
+            "name": "Cem",
+            "situation": "Mein zweiwöchiger Urlaub war genehmigt, aber genau an den ersten drei Tagen war ich krankgeschrieben und habe auch ein ärztliches Attest eingereicht. Zählt diese Zeit jetzt trotzdem als genommener Urlaub oder bekomme ich die drei Tage gutgeschrieben?"
+        },
+        {
+            "id": 4,
+            "name": "Yasmin",
+            "situation": "Ich bin nun seit sieben Wochen durchgehend krankgeschrieben. Mein Arbeitgeber hat die Lohnfortzahlung nach sechs Wochen eingestellt. Ich habe gehört, dass jetzt die Krankenkasse mit Krankengeld einspringt. Muss ich das aktiv beantragen oder wie läuft das genau ab?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Cem, keine Sorge. Wenn du während deines genehmigten Urlaubs krank wirst und das mit einem ärztlichen Attest nachweist, gelten diese Krankheitstage nicht als Urlaubstage. Dein Urlaubsanspruch für diese Tage bleibt erhalten und du kannst sie zu einem späteren Zeitpunkt nehmen. Wichtig ist die fristgerechte Krankmeldung beim Arbeitgeber."
+        },
+        {
+            "id": "b",
+            "author": "Peter",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung ist immer hart. Wichtig ist aber: Nach den ersten sechs Monaten greift oft der allgemeine Kündigungsschutz. Dann muss der Arbeitgeber soziale Aspekte berücksichtigen und die Kündigungsfristen werden je nach Betriebszugehörigkeit länger. Prüf das mal in deinem Vertrag!"
+        },
+        {
+            "id": "c",
+            "author": "Anja",
+            "timestamp": "vor 3 Stunden",
+            "content": "Überstunden sind leider fast normal geworden, oder? Ich finde es total unfair, wenn erwartet wird, dass man ständig länger bleibt, ohne dass es anerkannt wird. In meiner Branche ist das leider gang und gäbe. Man fühlt sich da oft ausgenutzt."
+        },
+        {
+            "id": "d",
+            "author": "Miriam",
+            "timestamp": "vor 1 Stunde",
+            "content": "Hallo Stefan, ja, das ist leider rechtens. Während der gesetzlichen Probezeit, die maximal sechs Monate dauert, gilt eine verkürzte Kündigungsfrist von nur zwei Wochen für beide Seiten. Der Arbeitgeber muss in dieser Zeit auch keine Gründe für die Kündigung angeben. Das ist eine Standardregelung im deutschen Arbeitsrecht."
+        },
+        {
+            "id": "e",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Wenn man krank ist, ist es super wichtig, den Arbeitgeber sofort am ersten Tag zu informieren, am besten noch vor Arbeitsbeginn. Das ärztliche Attest muss dann meistens spätestens am dritten Tag vorliegen. Sonst kann es Probleme geben, auch mit der Lohnfortzahlung."
+        },
+        {
+            "id": "f",
+            "author": "Klaus",
+            "timestamp": "vor 30 Minuten",
+            "content": "Hallo Lena, grundsätzlich müssen angeordnete oder gebilligte Überstunden vergütet werden – entweder finanziell oder durch Freizeitausgleich. Wenn dein Vertrag nichts regelt, schau mal, ob es einen Tarifvertrag oder eine Betriebsvereinbarung gibt. Dokumentiere deine Stunden genau und sprich am besten die Personalabteilung oder den Betriebsrat darauf an."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

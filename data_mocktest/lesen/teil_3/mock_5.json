@@ -1,0 +1,69 @@
+{
+  "thema": "Tipps für Arbeitnehmerinnen und Arbeitnehmer",
+  "people_seeking_info": [
+    {
+      "id": 1,
+      "name": "Achim",
+      "situation": "Ich bin Aufzugsmonteur, mein Job ist körperlich sehr anstrengend und ich habe Probleme mit den Gelenken. Mein Hausarzt meinte neulich, ich könne nicht mehr Vollzeit arbeiten. Ich brauche aber mein volles Gehalt und habe Angst vor finanziellen Einschränkungen. Mein Arzt brachte dann eine Erwerbsminderungsrente ins Spiel. Wo kann ich mich darüber informieren, weiß das jemand?"
+    },
+    {
+      "id": 2,
+      "name": "Ute",
+      "situation": "Ich bin vorhin auf dem Weg von der Arbeit nach Hause mit dem Fahrrad gestürzt. Zum Glück ist außer ein paar Schrammen an den Händen nichts passiert, aber jetzt meinte mein Mann gerade, dass ich das dem Arbeitgeber melden muss, auch wegen möglicher Spätfolgen. Ist das nicht übertrieben? Ich bin in der Probezeit und will keinen Ärger."
+    },
+    {
+      "id": 3,
+      "name": "Liane",
+      "situation": "Ich habe gerade die Stelle gewechselt und in meinem neuen Betrieb findet demnächst ein Ausflug in einen Klettergarten statt. Ich will kein Spielverderber sein, aber klettern ist echt nicht mein Ding und ich mache mir Sorgen, was ist, wenn was passiert? Eine Kollegin meinte, wir wären da auch unfallversichert, weil die Firma das organisiert. Ist das richtig?"
+    },
+    {
+      "id": 4,
+      "name": "Wolfgang",
+      "situation": "Letzte Woche bin ich wie so oft aus der Werkstatt gegangen, um eine Zigarette anzuzünden, und dann bin ich draußen ganz blöd gestolpert und habe mir das Handgelenk gebrochen. Heute meinte mein Chef, dass die gesetzliche Unfallversicherung nichts zahlt, weil ich privat draußen war. Stimmt das?! Das würde mich echt schockieren. Ich brauche irgendwann auch eine Reha, das kostet doch alles Geld!"
+    }
+  ],
+  "posts": [
+    {
+      "id": "a",
+      "author": "Heinrich",
+      "timestamp": "vor drei Stunden",
+      "content": "Das ist tatsächlich nicht einfach, denn auch im Büro hat man mal private Minuten, zum Beispiel in WC-Räumen. Wenn da was passiert, ist das nicht automatisch ein Arbeitsunfall. Schau mal im Internet unter www.arbeitsrecht-aktuell24.eu, da findest du ein Urteil zu dem Fall, den ich gerade erwähnt habe."
+    },
+    {
+      "id": "b",
+      "author": "Niloofar",
+      "timestamp": "vor acht Stunden",
+      "content": "Berufskrankheiten können einen schwer treffen. In meiner Firma ist eine Kollegin lange Zeit ausgefallen. Alle dachten, sie hätte Probleme mit der Lunge, weil sie Raucherin ist, aber wegen der Arbeit am Computer hatte sie Rückenprobleme. Sie kann jetzt nur noch 2 Stunden am Tag am Schreibtisch sitzen und unser Chef hat für sie einen höhenverstellbaren Schreibtisch besorgt. Das hilft ihr. Vielleicht ist das auch was für dich?"
+    },
+    {
+      "id": "c",
+      "author": "Chris",
+      "timestamp": "vor einem Tag",
+      "content": "Ich fürchte, dein Arbeitgeber hat gute Karten. Wege zum Imbiss oder Restaurant in der Mittagspause sind genauso wenig versichert wie deine Raucherpause. Das gehört einfach nicht zur Arbeitszeit. Tut mir leid, dass ich keine bessere Nachricht habe."
+    },
+    {
+      "id": "d",
+      "author": "Petra",
+      "timestamp": "vor einer Stunde",
+      "content": "Das ist kein Problem. Du musst nicht von der Adresse losfahren, unter der du gemeldet bis, um versichert zu sein. Als Arbeitsweg gilt auch, wenn du zum Beispiel am Wochenende immer bei deinem Freund oder deinen Eltern bist und dann Freitag nach Feierabend direkt vom Arbeitsort dort hinfährst."
+    },
+    {
+      "id": "e",
+      "author": "Shakuntala",
+      "timestamp": "vor vierzig Minuten",
+      "content": "Das kann man so pauschal nicht sagen. Wenn zum Beispiel regelmäßig Sport in der Firma stattfindet, ist das versichert, genauso wie eine Weihnachtsfeier, die veranstaltet wird, um den Zusammenhalt der Belegschaft zu stärken. In deinem Fall ist es fraglich, ob das dem Zusammenhalt dient oder nicht einfach eine gemeinsame Freizeitunternehmung ist. Sprich mal die Vorgesetzten an."
+    },
+    {
+      "id": "f",
+      "author": "Arkardi",
+      "timestamp": "vor zwölf Stunden",
+      "content": "Ob dir das wirklich hilft, weiß ich nicht, denn natürlich bekommst du dann nicht so viel Geld wie jetzt durch eine volle Stelle. Aber wenn das, was du hast, eine anerkannte Berufskrankheit ist, dann hast du schon Anspruch auf Leistungen. Am besten kann dir da die Deutsche Rentenversicherung helfen."
+    }
+  ],
+  "solutions": {
+    "1": "f",
+    "2": "x",
+    "3": "e",
+    "4": "c"
+  }
+}

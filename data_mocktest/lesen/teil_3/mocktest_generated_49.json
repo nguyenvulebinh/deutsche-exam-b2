@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Ich arbeite in der IT und mein Vorgesetzter verlangt regelmäßig, dass ich Überstunden mache, oft bis zu 10 Stunden pro Woche. Diese werden weder bezahlt noch durch Freizeit ausgeglichen. In meinem Vertrag steht nur, dass Überstunden bei betrieblicher Notwendigkeit möglich sind, aber nichts zur Vergütung. Ist das rechtens und was kann ich tun?"
+        },
+        {
+            "id": 2,
+            "name": "Elena",
+            "situation": "Ich hatte zwei Wochen genehmigten Urlaub. In der zweiten Woche wurde ich krank (Grippe) und habe für vier Tage eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) eingereicht. Mein Arbeitgeber hat mir trotzdem die vollen zwei Wochen vom Urlaubsanspruch abgezogen. Er meint, ich war ja schon im Urlaub. Stimmt das so?"
+        },
+        {
+            "id": 3,
+            "name": "Markus",
+            "situation": "Mein befristeter Arbeitsvertrag läuft in zwei Monaten aus. Mein Chef hat mir im Mitarbeitergespräch mündlich fest zugesagt, dass ich danach einen unbefristeten Vertrag bekomme, weil er sehr zufrieden ist. Schriftlich habe ich aber noch nichts erhalten und werde langsam nervös. Ist diese mündliche Zusage rechtlich bindend?"
+        },
+        {
+            "id": 4,
+            "name": "Sofia",
+            "situation": "Ich wurde vor drei Monaten eingestellt und bin noch in der sechsmonatigen Probezeit. Gestern erhielt ich eine schriftliche Kündigung mit nur einer Woche Kündigungsfrist. Als Grund wurde pauschal 'fehlende Eignung' genannt. Ich finde das unfair, da ich vorher positives Feedback bekam. Sind diese kurze Frist und der vage Grund in der Probezeit erlaubt?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Rechtsanwalt_Meyer",
+            "timestamp": "vor 2 Stunden",
+            "content": "Mündliche Zusagen sind theoretisch bindend, aber im Streitfall schwer beweisbar. Entscheidend ist: Vertragsänderungen, wie die Entfristung eines Arbeitsverhältnisses, erfordern laut Gesetz (§ 14 Abs. 4 TzBfG) die Schriftform. Eine nur mündliche Zusage zur Verlängerung ist daher rechtlich nicht sicher. Bestehen Sie höflich auf einer baldigen schriftlichen Bestätigung."
+        },
+        {
+            "id": "b",
+            "author": "FlexWork_Fan",
+            "timestamp": "vor 5 Stunden",
+            "content": "Flexibilität wird heute oft erwartet. Gerade in der IT ist es manchmal nötig, länger zu bleiben, um Projekte abzuschließen. Ich sehe das als Teil des Engagements, auch wenn es nicht extra bezahlt wird. Es schafft Vertrauen. Dauerhaft jede Woche sollte es aber nicht sein. Vielleicht mal das Team-Workload-Management ansprechen?"
+        },
+        {
+            "id": "c",
+            "author": "Urlaubsplaner_Pro",
+            "timestamp": "vor 8 Stunden",
+            "content": "Urlaubsplanung ist wichtig. Wenn man *vor* dem Urlaub krank wird, meldet man sich sofort und der Urlaub tritt eventuell gar nicht an. Wird man *nach* dem Urlaub krank, ist es einfach eine normale Krankmeldung. Wichtig ist immer der rechtzeitige Arztbesuch und die AU-Bescheinigung für den Arbeitgeber!"
+        },
+        {
+            "id": "d",
+            "author": "Betriebsrat_Klaus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Angeordnete Überstunden, die über die vertragliche Arbeitszeit hinausgehen, müssen grundsätzlich vergütet werden – finanziell oder durch Freizeitausgleich. Die genaue Regelung sollte im Arbeits- oder Tarifvertrag stehen. Ist sie unklar, gilt meist dennoch der Vergütungsanspruch. Dokumentieren Sie die Stunden genau und suchen Sie Rat beim Betriebsrat oder einem Fachanwalt."
+        },
+        {
+            "id": "e",
+            "author": "Erfahrener_Kollege",
+            "timestamp": "vor 1 Tag",
+            "content": "Befristete Verträge sind immer unsicher, da war ich auch schon. Verlassen Sie sich nicht nur auf Versprechen, auch wenn der Chef nett wirkt. Schauen Sie sich am besten schon frühzeitig nach Alternativen um, um nicht unter Druck zu geraten, falls die Verlängerung doch nicht klappt. Sicher ist sicher auf dem heutigen Arbeitsmarkt."
+        },
+        {
+            "id": "f",
+            "author": "HR_Expertin_Schmidt",
+            "timestamp": "vor 3 Stunden",
+            "content": "Nein, das Vorgehen Ihres Arbeitgebers ist nicht korrekt. Nach dem Bundesurlaubsgesetz (§ 9 BUrlG) werden Krankheitstage während des Urlaubs, die durch eine ärztliche Bescheinigung (AU) nachgewiesen sind, nicht auf den Jahresurlaub angerechnet. Diese Urlaubstage müssen Ihnen wieder gutgeschrieben werden. Weisen Sie Ihren Arbeitgeber darauf hin."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

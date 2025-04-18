@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lukas",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Firma, also noch in der Probezeit, die sechs Monate dauert. Gestern erhielt ich überraschend die Kündigung, ohne dass ein Grund genannt wurde. Letzte Woche wurde meine Arbeit noch sehr gelobt. Ist eine Kündigung in der Probezeit so einfach ohne Angabe von Gründen möglich? Ich bin total verunsichert."
+        },
+        {
+            "id": 2,
+            "name": "Maria",
+            "situation": "Ich leiste in meiner Abteilung regelmäßig Überstunden, manchmal auch samstags. Mein Chef bedankt sich zwar immer, aber langsam möchte ich einen echten Ausgleich dafür. Besteht generell ein Anspruch auf Vergütung oder Freizeitausgleich für geleistete Überstunden? Und wer entscheidet, ob ich Geld oder Freizeit bekomme?"
+        },
+        {
+            "id": 3,
+            "name": "Stefan",
+            "situation": "Bei meinem Einstellungsgespräch vor sieben Monaten hat mir der Abteilungsleiter mündlich zugesagt, dass ich nach der Probezeit eine spezielle Weiterbildung besuchen darf. Jetzt ist die Probezeit längst vorbei, aber er will davon nichts mehr wissen. Leider habe ich nichts Schriftliches. Habe ich trotzdem eine Chance, die Zusage einzufordern?"
+        },
+        {
+            "id": 4,
+            "name": "Fatima",
+            "situation": "Ich war letzte Woche im genehmigten Erholungsurlaub in Italien. Am dritten Urlaubstag bin ich leider krank geworden und habe eine Grippe bekommen, was ich auch mit einem ärztlichen Attest aus Italien belegen kann. Sind diese Krankheitstage nun als Urlaubstage verloren oder muss mein Arbeitgeber sie mir wieder gutschreiben?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Anja",
+            "timestamp": "vor 2 Stunden",
+            "content": "Mündliche Zusagen sind zwar theoretisch bindend, aber praktisch schwer durchzusetzen, wenn es keine Zeugen gibt oder nichts schriftlich fixiert wurde. Dein Chef kann sich einfach \"nicht erinnern\". Du kannst nur versuchen, ihn in einem Gespräch nochmals darauf anzusprechen, rechtlich hast du aber leider schlechte Karten."
+        },
+        {
+            "id": "b",
+            "author": "Britta",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ja, das ist leider typisch für die Probezeit (maximal 6 Monate). Während dieser Zeit gilt ein stark verkürzter Kündigungsschutz. Sowohl Arbeitgeber als auch Arbeitnehmer können das Arbeitsverhältnis mit einer Frist von nur zwei Wochen kündigen, und der Arbeitgeber muss dafür in der Regel keine Gründe angeben."
+        },
+        {
+            "id": "c",
+            "author": "Markus",
+            "timestamp": "vor 8 Stunden",
+            "content": "Eine Kündigung nach langjähriger Betriebszugehörigkeit muss sozial gerechtfertigt sein und die gesetzlichen Kündigungsfristen einhalten. Dein Arbeitgeber kann dich nicht einfach so vor die Tür setzen, da greift das Kündigungsschutzgesetz. Wende dich an einen Anwalt oder den Betriebsrat!"
+        },
+        {
+            "id": "d",
+            "author": "David",
+            "timestamp": "vor 45 Minuten",
+            "content": "Grundsätzlich müssen angeordnete Überstunden ausgeglichen werden. Ob das durch zusätzliche Bezahlung oder durch Freizeitausgleich geschieht, hängt davon ab, was in deinem Arbeitsvertrag, einem Tarifvertrag oder einer Betriebsvereinbarung geregelt ist. Schau dort mal nach oder frag beim Betriebsrat oder der Personalabteilung nach."
+        },
+        {
+            "id": "e",
+            "author": "Sabine",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ständig Überstunden machen, das kenne ich auch! Das ist auf Dauer ungesund und verstößt oft gegen das Arbeitszeitgesetz. Mehr als 10 Stunden pro Tag sind nur in Ausnahmen erlaubt. Sprich deinen Chef darauf an, dass die Belastung zu hoch ist. Man muss auch mal Nein sagen können."
+        },
+        {
+            "id": "f",
+            "author": "Yvonne",
+            "timestamp": "vor 30 Minuten",
+            "content": "Es ist total wichtig, Arbeitsverträge immer ganz genau durchzulesen, bevor man unterschreibt! Oft verstecken sich da Klauseln zu Arbeitszeiten, Urlaub oder Sonderleistungen, die man später bereut. Also, Augen auf bei der Vertragsunterzeichnung, dann gibt es hinterher weniger Ärger."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "d",
+        "3": "a",
+        "4": "x"
+    }
+}

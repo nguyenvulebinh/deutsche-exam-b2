@@ -1,0 +1,69 @@
+{
+    "thema": "Rund um den Arbeitsvertrag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Ich bin seit drei Monaten in meiner neuen Firma und noch in der Probezeit. Gestern hat mir mein Chef mündlich mitgeteilt, dass er das Arbeitsverhältnis zum Ende des Monats beenden möchte, ohne einen Grund zu nennen. Ist das überhaupt erlaubt? Ich dachte, man braucht immer einen Kündigungsgrund. Was kann ich tun?"
+        },
+        {
+            "id": 2,
+            "name": "Cem",
+            "situation": "Ich arbeite als Koch in einem Restaurant. Wir müssen spezielle rutschfeste Sicherheitsschuhe und eine kochfeste Jacke tragen, das steht so im Arbeitsvertrag wegen der Hygiene- und Sicherheitsvorschriften. Mein Arbeitgeber sagt, ich muss diese spezielle Schutzkleidung selbst kaufen. Stimmt das? Das sind ja doch über 100 Euro!"
+        },
+        {
+            "id": 3,
+            "name": "Sara",
+            "situation": "In meinem Vertrag steht eine 40-Stunden-Woche. Letzten Monat musste ich aber fast 30 Überstunden leisten, weil viel zu tun war. Mein Chef meinte jetzt, ich könne die Stunden ja \"abfeiern\", also Freizeitausgleich nehmen. Ich hätte das Geld aber lieber ausgezahlt. Habe ich ein Recht darauf, die Überstunden bezahlt zu bekommen?"
+        },
+        {
+            "id": 4,
+            "name": "Stefan",
+            "situation": "Ich war letzte Woche drei Tage krankgeschrieben. Dummerweise fiel das genau in meinen genehmigten Urlaub. Mein Chef meint jetzt, die Urlaubstage seien trotzdem weg, Pech gehabt. Stimmt das? Und noch eine Frage: Ich hatte für diese Woche einen Arzttermin vereinbart, muss ich den jetzt verschieben, weil ich letzte Woche gefehlt habe?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Markus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ob Überstunden ausbezahlt werden oder durch Freizeit ausgeglichen werden, hängt davon ab, was in deinem Arbeitsvertrag, einem Tarifvertrag oder einer Betriebsvereinbarung steht. Gibt es keine Regelung, besteht grundsätzlich ein Anspruch auf Bezahlung. Schau also zuerst mal genau in deinen Vertrag! Pauschal kann man das nicht sagen."
+        },
+        {
+            "id": "b",
+            "author": "Petra",
+            "timestamp": "vor 5 Stunden",
+            "content": "Eine Kündigung ist immer schlimm, besonders wenn man schon lange dabei ist. Wenn es eine betriebsbedingte Kündigung ist, muss der Arbeitgeber eine Sozialauswahl treffen. Prüfe unbedingt, ob die Kündigungsfrist eingehalten wurde und ob du Anspruch auf eine Abfindung hast. Ein Anwalt für Arbeitsrecht kann da helfen."
+        },
+        {
+            "id": "c",
+            "author": "Anton",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ja, leider ist das in der Probezeit (maximal die ersten 6 Monate) so. Sowohl Arbeitgeber als auch Arbeitnehmer können das Arbeitsverhältnis mit einer Frist von nur zwei Wochen kündigen, und zwar ohne Angabe von Gründen. Dagegen kann man in der Regel nichts machen, außer es gäbe ganz besondere Umstände wie Diskriminierung."
+        },
+        {
+            "id": "d",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ich finde es gut, wenn Firmen Wert auf ein einheitliches Erscheinungsbild legen. Das wirkt professionell. Ob man die Kleidung selbst zahlen muss, finde ich zweitrangig, man kann ja oft einen Teil bei der Steuererklärung als Werbungskosten absetzen. Hauptsache, die Kleidung ist bequem und praktisch."
+        },
+        {
+            "id": "e",
+            "author": "Lena",
+            "timestamp": "vor 4 Stunden",
+            "content": "Da muss man genau unterscheiden: Geht es um vorgeschriebene *Schutz*kleidung (wie Sicherheitsschuhe, Helm etc.), dann muss der Arbeitgeber die Kosten dafür tragen oder sie kostenlos zur Verfügung stellen. Geht es aber um \"normale\" Dienstkleidung (z.B. einheitliche Hemden), kann es sein, dass man sich beteiligen muss. Frag mal nach der genauen Begründung!"
+        },
+        {
+            "id": "f",
+            "author": "Fatima",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wichtig ist auch, dass man seine Pausenzeiten einhält. Nach sechs Stunden Arbeit steht einem eine Pause von 30 Minuten zu, bei mehr als neun Stunden sind es 45 Minuten. Darauf sollte man achten, das ist wichtig für die Gesundheit und Konzentration. Der Chef darf die Pausen nicht verbieten."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

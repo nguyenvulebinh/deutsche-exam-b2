@@ -1,0 +1,69 @@
+{
+    "thema": "Rund um den Beruf: Rechte und Pflichten",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Hanna",
+            "situation": "Ich habe vor acht Monaten einen auf zwei Jahre befristeten Arbeitsvertrag unterschrieben. Nun habe ich überraschend ein viel besseres Jobangebot bekommen und würde gerne schon in drei Monaten dort anfangen. In meinem Vertrag steht nichts zur Kündigungsfrist während der Laufzeit. Kann ich den befristeten Vertrag trotzdem irgendwie vorzeitig kündigen oder muss ich bis zum Ende bleiben?"
+        },
+        {
+            "id": 2,
+            "name": "Jonas",
+            "situation": "Ich habe gestern eine schriftliche Abmahnung von meinem Chef erhalten, weil ich angeblich mehrmals Anweisungen nicht korrekt befolgt hätte. Ich sehe das aber ganz anders und finde die Vorwürfe unfair. Muss ich diese Abmahnung einfach so hinnehmen oder kann ich mich irgendwie dagegen wehren? Ich habe Sorge, dass das negative Folgen für mich hat."
+        },
+        {
+            "id": 3,
+            "name": "Leyla",
+            "situation": "Meine Mutter ist plötzlich schwer erkrankt und ich muss mich dringend heute und morgen um sie kümmern, da sonst niemand da ist. Ich habe aber für dieses Jahr leider keinen Urlaubstag mehr übrig. Habe ich trotzdem einen Anspruch darauf, für diese zwei Tage freigestellt zu werden, und bekomme ich dann weiterhin mein Gehalt?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich mache in meiner Abteilung ständig Überstunden, oft sind es 5-10 pro Woche. Mein Vorgesetzter erwartet das irgendwie, obwohl es nicht explizit angeordnet wird. Dadurch schaffe ich es oft nicht, meine gesetzlich vorgeschriebenen Pausenzeiten einzuhalten. Kann der Arbeitgeber verlangen, dass Pausen wegen hohem Arbeitsaufkommen ausfallen? Und wie ist das generell mit den Überstunden geregelt – müssen die bezahlt werden oder kann ich sie abfeiern?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "David",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ja, in so einem Fall greift oft die Regelung zur vorübergehenden Arbeitsverhinderung (§ 616 BGB). Wenn du unverschuldet für eine verhältnismäßig nicht erhebliche Zeit aus persönlichen Gründen (wie die notwendige Pflege naher Angehöriger) nicht arbeiten kannst, besteht in der Regel Anspruch auf bezahlte Freistellung für wenige Tage. Informiere deinen Arbeitgeber sofort!"
+        },
+        {
+            "id": "b",
+            "author": "Lena",
+            "timestamp": "vor 3 Stunden",
+            "content": "Kündigungsfristen sind echt ein Thema. Gerade in der Probezeit ist es ja super kurzfristig, da reichen oft zwei Wochen. Das finde ich einerseits gut, wenn man schnell wegwill, aber blöd, wenn man unerwartet gekündigt wird. Am besten immer genau im Vertrag nachlesen, was da vereinbart wurde."
+        },
+        {
+            "id": "c",
+            "author": "Markus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Bei befristeten Verträgen ist eine vorzeitige ordentliche Kündigung normalerweise ausgeschlossen, es sei denn, diese Möglichkeit wurde explizit im Arbeitsvertrag oder einem anwendbaren Tarifvertrag vereinbart. Prüfe deinen Vertrag genau daraufhin! Eine außerordentliche Kündigung aus wichtigem Grund wäre zwar theoretisch möglich, aber ein neues Jobangebot ist leider kein solcher Grund."
+        },
+        {
+            "id": "d",
+            "author": "Klaus",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ich kenne das Gefühl, ungerecht behandelt zu werden. Bei meinem alten Job musste ich ständig Überstunden machen, oft unbezahlt. Die Chefs haben einfach immer mehr Druck gemacht. Eine Abmahnung habe ich zwar nie bekommen, aber der Stress war enorm. Wirklich was dagegen tun konnte ich damals gefühlt nicht."
+        },
+        {
+            "id": "e",
+            "author": "Miriam",
+            "timestamp": "vor 6 Stunden",
+            "content": "Für die Pflege von Angehörigen gibt es ja zum Glück das Pflegezeitgesetz. Damit kann man sich für längere Zeit, bis zu sechs Monate, komplett oder teilweise unbezahlt von der Arbeit freistellen lassen, um die Pflege zu organisieren oder selbst zu übernehmen. Das muss man aber rechtzeitig beantragen."
+        },
+        {
+            "id": "f",
+            "author": "Sabine",
+            "timestamp": "vor 5 Stunden",
+            "content": "Gegen eine ungerechtfertigte Abmahnung solltest du auf jeden Fall etwas unternehmen! Du hast das Recht, eine schriftliche Gegendarstellung zu verfassen, in der du deine Sicht der Dinge schilderst. Dein Arbeitgeber ist verpflichtet, diese Gegendarstellung zu deiner Personalakte zu nehmen. Das ist wichtig, falls es später zu weiteren Problemen oder gar einer Kündigung kommt."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

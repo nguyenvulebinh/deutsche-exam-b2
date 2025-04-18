@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen und Konflikte",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Klaus",
+            "situation": "Ich bin seit vier Monaten in einer neuen Firma angestellt und befinde mich noch in der sechsmonatigen Probezeit. Gestern erhielt ich überraschend die Kündigung ohne Angabe von Gründen. Ich fühle mich unfair behandelt und frage mich, ob das überhaupt rechtens ist und welche Rechte ich speziell während der Probezeit habe."
+        },
+        {
+            "id": 2,
+            "name": "Sabine",
+            "situation": "Ich bin heute Morgen auf dem direkten Weg zur Arbeit mit dem Fahrrad gestürzt und habe mir das Handgelenk geprellt. Es scheint nicht schlimm zu sein, aber ich frage mich, ob das als Arbeitsunfall zählt (Wegeunfall) und ob ich es dem Arbeitgeber melden muss, auch wenn ich nicht krankgeschrieben bin, wegen möglicher Spätfolgen."
+        },
+        {
+            "id": 3,
+            "name": "Cem",
+            "situation": "Ich muss regelmäßig auf Anweisung meines Chefs Überstunden leisten. Im letzten Monat waren es über 20 Stunden. Ich bin unsicher, ob ich einen Anspruch darauf habe, dass diese Stunden bezahlt werden, oder ob mein Chef auch einfach Freizeitausgleich anordnen kann. Wie ist die übliche Regelung oder wo kann ich das nachlesen?"
+        },
+        {
+            "id": 4,
+            "name": "Maria",
+            "situation": "Ich war letzte Woche im offiziell genehmigten Urlaub. Leider wurde ich am zweiten Urlaubstag krank und musste für drei Tage das Bett hüten (ärztliches Attest liegt vor). Ich habe gehört, dass Urlaubstage, an denen man krank ist, nicht verfallen. Stimmt das? Und muss ich die Arbeitsunfähigkeitsbescheinigung (AU) trotz Urlaub auch beim Arbeitgeber einreichen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Monika",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Klaus, in der Probezeit (maximal 6 Monate) gelten leider verkürzte Kündigungsfristen von nur zwei Wochen (§ 622 Abs. 3 BGB). Ein Grund muss meist nicht genannt werden, es sei denn, die Kündigung ist sittenwidrig oder diskriminierend. Der allgemeine Kündigungsschutz greift erst nach sechs Monaten Betriebszugehörigkeit. Informiere dich ggf. bei einem Fachanwalt für Arbeitsrecht."
+        },
+        {
+            "id": "b",
+            "author": "Jürgen",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ja, Sabine, Unfälle auf dem direkten Weg zur oder von der Arbeit sind in der Regel als Wegeunfall über die gesetzliche Unfallversicherung abgedeckt. Du solltest den Unfall unbedingt deinem Arbeitgeber melden und sicherheitshalber einen Durchgangsarzt aufsuchen, auch bei kleineren Verletzungen. Nur so sind eventuelle Spätfolgen versichert."
+        },
+        {
+            "id": "c",
+            "author": "Lena",
+            "timestamp": "vor 5 Stunden",
+            "content": "Hallo Cem, die Regelung für Überstunden (Bezahlung oder Freizeitausgleich) steht normalerweise in deinem Arbeitsvertrag, einer Betriebsvereinbarung oder einem geltenden Tarifvertrag. Gibt es keine solche Regelung, müssen Überstunden in der Regel vergütet werden, wenn sie angeordnet wurden oder für die Arbeit notwendig waren. Schau zuerst in deinen Vertrag!"
+        },
+        {
+            "id": "d",
+            "author": "Stefan",
+            "timestamp": "vor 1 Stunde",
+            "content": "Eine Kündigung ist immer hart. Wichtig ist, ob der allgemeine Kündigungsschutz nach dem Kündigungsschutzgesetz (KSchG) greift. Das ist meist nach 6 Monaten der Fall. Dann braucht der Arbeitgeber einen triftigen Grund (betriebs-, personen- oder verhaltensbedingt) und muss die längeren gesetzlichen oder vertraglichen Kündigungsfristen einhalten. Gegen eine ungerechtfertigte Kündigung kann man klagen."
+        },
+        {
+            "id": "e",
+            "author": "Anja",
+            "timestamp": "vor 3 Stunden",
+            "content": "Arbeitssicherheit ist enorm wichtig! Arbeitgeber müssen durch Gefährdungsbeurteilungen Risiken minimieren und oft persönliche Schutzausrüstung (Helm, Sicherheitsschuhe etc.) bereitstellen. Jeder Unfall im Betrieb, auch kleine, sollte gemeldet werden, um die Sicherheitsmaßnahmen zu verbessern. Die Berufsgenossenschaft bietet hierzu viele Informationen."
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 30 Minuten",
+            "content": "Überstunden sind echt ein Ärgernis heutzutage. Ständig erwartet der Chef mehr Einsatz, aber ob man dafür fair entschädigt wird, steht auf einem anderen Blatt. Bei uns gibt's zwar Freizeitausgleich, aber wann man den nehmen kann, ist auch oft schwierig. Ich finde, die Work-Life-Balance leidet massiv darunter. Man sollte sich das nicht gefallen lassen!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Mein befristeter Arbeitsvertrag endet in zwei Monaten, mitten in meiner sechsmonatigen Probezeit. Meine Leistungen waren gut, und mein Chef erwähnte vage eine mögliche Verlängerung, aber nichts Offizielles. Ich bin unsicher über meinen Status. Endet der Vertrag einfach automatisch oder gelten hier die Kündigungsregeln der Probezeit? Ich brauche Klarheit, was passiert, wenn ein befristeter Vertrag während der Probezeit ausläuft."
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Ich hatte heute Morgen auf dem Weg zur Arbeit einen leichten Fahrradsturz (Wegeunfall). Nur ein paar Schrammen, ich glaube nichts Ernstes. Ein Kollege meinte aber, ich müsse das unbedingt der Firma melden, auch wegen möglicher Spätfolgen und der gesetzlichen Unfallversicherung. Ist das bei so einer Kleinigkeit wirklich nötig? Ich bin recht neu und möchte keinen Ärger machen."
+        },
+        {
+            "id": 3,
+            "name": "Lena",
+            "situation": "Ich arbeite in der Altenpflege mit langen Schichten. Wegen Personalmangel oder Notfällen schaffe ich es oft kaum, meine gesetzliche Pause zu nehmen, manchmal lasse ich sie ganz ausfallen. Hat mein Arbeitgeber die Pflicht sicherzustellen, dass ich meine Pause tatsächlich nehme, oder ist das nur meine Verantwortung? Was sind meine genauen Rechte bezüglich Pausen laut Arbeitszeitgesetz?"
+        },
+        {
+            "id": 4,
+            "name": "Omar",
+            "situation": "Nach einem erfolgreichen Projekt hat mir mein Teamleiter mündlich eine spezielle Bonuszahlung zugesagt. Das ist etwa einen Monat her. Als ich jetzt danach fragte, behauptet er, sich nicht an diese Zusage zu erinnern und verweist auf meinen Standardvertrag, der diesen Bonus nicht erwähnt. Habe ich irgendeine rechtliche Handhabe, den Bonus nur aufgrund einer mündlichen Zusage einzufordern, besonders wenn er es bestreitet?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "David",
+            "timestamp": "vor 45 Minuten",
+            "content": "Das Arbeitszeitgesetz ist da klar: Nach spätestens sechs Stunden Arbeit steht dir eine Pause von mindestens 30 Minuten zu, bei über neun Stunden sind es 45 Minuten. Dein Arbeitgeber hat eine Fürsorgepflicht und muss nicht nur die Möglichkeit zur Pause schaffen, sondern auch darauf achten, dass die Einhaltung der Pausenzeiten organisatorisch möglich ist."
+        },
+        {
+            "id": "b",
+            "author": "Anna",
+            "timestamp": "vor 2 Stunden",
+            "content": "In der Probezeit, die maximal sechs Monate dauert, ist eine Kündigung leider sehr einfach. Beide Seiten können das Arbeitsverhältnis mit einer Frist von nur zwei Wochen beenden, und der Arbeitgeber muss dafür keinen speziellen Grund angeben. Das ist die Standardregelung, wenn im Vertrag nichts anderes steht."
+        },
+        {
+            "id": "c",
+            "author": "Markus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei befristeten Arbeitsverträgen ist die Sache eindeutig: Sie enden automatisch zum vereinbarten Datum, ohne dass es einer Kündigung bedarf. Eine Fortsetzung des Arbeitsverhältnisses gibt es nur, wenn *vor* Ablauf eine schriftliche Verlängerung vereinbart oder ein neuer Vertrag geschlossen wird. Die Probezeit ändert daran nichts."
+        },
+        {
+            "id": "d",
+            "author": "Laura",
+            "timestamp": "vor 1 Stunde",
+            "content": "Oh ja, das kenne ich auch aus meinem alten Job im Krankenhaus. Lange Schichten, hoher Stress und die Pause fällt oft hinten runter. Das ist leider in vielen Branchen so. Hast du schon mal mit Kollegen oder dem Betriebsrat darüber gesprochen? Vielleicht kann man gemeinsam etwas erreichen."
+        },
+        {
+            "id": "e",
+            "author": "Sabine",
+            "timestamp": "vor 3 Stunden",
+            "content": "Unbedingt melden! Jeder Unfall auf dem direkten Weg zur oder von der Arbeit ist ein sogenannter Wegeunfall und sollte dokumentiert werden. Das ist wichtig für die gesetzliche Unfallversicherung, falls doch noch Spätfolgen auftreten, die jetzt nicht sichtbar sind. Das ist ein Standardvorgang und dient deinem Schutz."
+        },
+        {
+            "id": "f",
+            "author": "Michael",
+            "timestamp": "vor 30 Minuten",
+            "content": "Vorsicht bei Unfällen während Pausen! Wenn man z.B. während der Raucherpause vor dem Gebäude stolpert, kann es sein, dass die Unfallversicherung nicht zahlt, weil das als private Tätigkeit gilt. Anders sieht es aus, wenn der Unfall direkt im Zusammenhang mit der Arbeit passiert, z.B. in der Werkstatt."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

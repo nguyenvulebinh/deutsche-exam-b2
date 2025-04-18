@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrecht und Berufsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Ich bin im fünften Monat meiner Probezeit und wurde gerade unerwartet mit einer Frist von nur zwei Wochen gekündigt. Ich dachte immer, die Probezeit dauert maximal drei Monate und die Kündigungsfrist wäre länger. Ist diese kurze Frist während der Probezeit überhaupt rechtens? Ich bin total verunsichert."
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich mache regelmäßig Überstunden, meistens ein bis zwei Stunden pro Tag länger als vertraglich vereinbart. Mein Vorgesetzter weiß das, aber es wird nirgendwo offiziell erfasst. Ich mache mir Sorgen, dass ich dafür weder Freizeitausgleich noch Bezahlung sehe. Wie kann ich meine Überstunden am besten dokumentieren, um einen Nachweis zu haben?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Ich arbeite in einem Großraumbüro und der ständige Lärmpegel macht mir zu schaffen. Ich kann mich schlecht konzentrieren und habe oft Kopfschmerzen. Hat mein Arbeitgeber nicht die Pflicht, für eine ruhigere Arbeitsumgebung zu sorgen oder zumindest Maßnahmen zur Lärmreduzierung zu ergreifen?"
+        },
+        {
+            "id": 4,
+            "name": "Lena",
+            "situation": "Ich arbeite Teilzeit, 20 Stunden pro Woche, und bin seit vier Jahren im Betrieb. Jetzt gibt es eine Umstrukturierung und Gerüchte gehen um, dass Teilzeitkräfte eher auf Vollzeit umgestellt oder zuerst entlassen werden. Bin ich als Teilzeitbeschäftigte bei betriebsbedingten Kündigungen schlechter gestellt als Vollzeitkollegen? Gibt es einen besonderen Schutz im Rahmen der Sozialauswahl?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 45 Minuten",
+            "content": "Keine Sorge, das ist leider normal. Die Probezeit kann gesetzlich bis zu sechs Monate dauern. Während dieser Zeit gilt für beide Seiten oft eine verkürzte Kündigungsfrist von nur zwei Wochen, und es muss kein Kündigungsgrund angegeben werden. Das steht meistens so im Arbeitsvertrag."
+        },
+        {
+            "id": "b",
+            "author": "Thomas",
+            "timestamp": "vor 2 Stunden",
+            "content": "Unbedingt selbst aktiv werden! Führe täglich eine genaue Liste mit Arbeitsbeginn, Arbeitsende und Pausen. Lass diese Aufzeichnungen idealerweise regelmäßig von deinem Chef gegenzeichnen. Falls das nicht geht, schick ihm wöchentlich eine E-Mail mit der Auflistung deiner Stunden als Beleg."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ja, der Arbeitgeber hat eine Fürsorgepflicht und muss für gesunde Arbeitsbedingungen sorgen. Dazu gehört auch der Schutz vor Lärm. Sprich am besten den Betriebsrat oder direkt die Personalabteilung auf Lärmschutzmaßnahmen an. Die Arbeitsstättenverordnung regelt Grenzwerte für Lärm am Arbeitsplatz."
+        },
+        {
+            "id": "d",
+            "author": "Robert",
+            "timestamp": "vor 1 Stunde",
+            "content": "Wichtig ist: Nach der Probezeit greift meist der allgemeine Kündigungsschutz. Eine Kündigung muss dann sozial gerechtfertigt sein (betriebsbedingt, verhaltensbedingt etc.). Die gesetzlichen Kündigungsfristen verlängern sich zudem je nach Dauer der Betriebszugehörigkeit erheblich. Das sind ganz andere Voraussetzungen."
+        },
+        {
+            "id": "e",
+            "author": "Laura",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ständige Überstunden sind auf Dauer nicht gesund, das führt oft zu Burnout. Vielleicht solltest du mal mit deinem Chef über die Arbeitsmenge sprechen? Manchmal hilft auch ein besseres Zeitmanagement, um die Arbeit in der Regelzeit zu schaffen. Deine Gesundheit geht vor!"
+        },
+        {
+            "id": "f",
+            "author": "Steffi",
+            "timestamp": "vor 30 Minuten",
+            "content": "Oh ja, Großraumbüros können echt nerven! Ich kenne das, diese ständige Geräuschkulisse ist furchtbar. Mir persönlich helfen Noise-Cancelling-Kopfhörer ganz gut, um mich abzuschotten. Vielleicht wäre das ja auch eine Idee für dich? Ansonsten hilft nur Zähne zusammenbeißen..."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

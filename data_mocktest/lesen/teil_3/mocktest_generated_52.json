@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Ich bin seit zwei Monaten in meiner neuen Firma und noch in der Probezeit (6 Monate). Ich habe bereits anteilig Urlaubstage angesammelt. Nächsten Monat möchte ich gerne eine Woche Urlaub nehmen. Mein Chef meinte aber, das ginge erst nach der Probezeit. Außerdem habe ich gehört, dass mein Urlaubsanspruch verfällt, wenn ich während der Probezeit gekündigt werde. Stimmt das alles? Ich bin unsicher über meine Rechte."
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Mir ist gestern im Lager versehentlich ein teures Gerät heruntergefallen und kaputtgegangen (Schaden ca. 800€). Es war keine Absicht, nur Unachtsamkeit im Stress. Nun habe ich große Angst, dass mein Arbeitgeber mich dafür haftbar macht und mir die Kosten vom Lohn abzieht. Ist das rechtlich überhaupt möglich, wenn es ein Versehen war?"
+        },
+        {
+            "id": 3,
+            "name": "Yasmin",
+            "situation": "Ich möchte Bildungsurlaub für einen Englisch-Intensivkurs beantragen, um meine Sprachkenntnisse generell zu verbessern. Mein Arbeitgeber zögert aber und meint, der Kurs hätte keinen direkten Bezug zu meinen *aktuellen* Aufgaben im Marketing. Obwohl bessere Englischkenntnisse langfristig sicher nützlich wären. Darf er den Antrag allein aus diesem Grund ablehnen?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich arbeite im Vertriebsaußendienst. Mein Chef erwartet, dass ich quasi rund um die Uhr erreichbar bin, auch spätabends oder am Wochenende für dringende Kundenanfragen per Diensthandy. Das stresst mich total und frisst meine Freizeit auf. Zwar werden die *geleisteten Stunden* (Überstunden) erfasst, aber diese ständige *Erreichbarkeitspflicht* macht mich fertig. Gibt es hier klare Regeln, wann Schluss sein muss? Ich will meine Ruhe haben."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Hallo Julia, der Urlaubsanspruch entsteht zwar erst nach 6 Monaten Wartezeit voll, aber du erwirbst ihn anteilig ab dem ersten Monat (1/12 pro Monat). Ob du ihn schon in der Probezeit nehmen *darfst*, ist oft Kulanzsache oder im Vertrag geregelt. Aber der angesammelte Anspruch verfällt nicht einfach bei Kündigung in der Probezeit! Er muss dir dann ausgezahlt werden (Abgeltung)."
+        },
+        {
+            "id": "b",
+            "author": "Rechts_Ratgeber",
+            "timestamp": "vor 50 Minuten",
+            "content": "Hallo Markus, keine Panik. Bei der Arbeitnehmerhaftung kommt es auf den Grad des Verschuldens an. Bei leichter Fahrlässigkeit (kleine Unachtsamkeit) haftet der Arbeitnehmer in der Regel gar nicht. Nur bei mittlerer/grober Fahrlässigkeit oder Vorsatz kann der Arbeitgeber (teilweise) Schadenersatz fordern oder Lohn abziehen, aber 800€ für ein Versehen klingt erstmal nicht danach."
+        },
+        {
+            "id": "c",
+            "author": "Lena_Weiterbildung",
+            "timestamp": "vor 4 Stunden",
+            "content": "Hi Yasmin, die Regelungen zum Bildungsurlaub sind Ländersache, aber generell gilt: Der Kurs muss als Bildungsurlaub anerkannt sein (politische, berufliche oder allgemeine Weiterbildung). Ein direkter Bezug zur *aktuellen* Tätigkeit ist oft *keine* zwingende Voraussetzung für die Genehmigung. Nur wenn betriebliche Gründe (z.B. Personalmangel) entgegenstehen, darf der Chef eher ablehnen."
+        },
+        {
+            "id": "d",
+            "author": "MaxMuster",
+            "timestamp": "vor 8 Stunden",
+            "content": "Urlaub muss man immer gut planen, am besten schon am Jahresanfang mit den Kollegen absprechen. Wenn man lange im Betrieb ist, bekommt man ja meist mehr Tage. Und Überstunden kann man ja oft auch abfeiern, das ist wie extra Urlaub! Hauptsache, der Betrieb läuft weiter."
+        },
+        {
+            "id": "e",
+            "author": "Petra_Praxis",
+            "timestamp": "vor 1 Stunde",
+            "content": "Bei uns in der Firma ist zum Glück alles gut versichert. Wenn mal was zu Bruch geht, meldet man das einfach und die Betriebshaftpflichtversicherung kümmert sich darum. Da musste noch nie ein Kollege selbst etwas bezahlen, soweit ich weiß. Das nimmt viel Druck raus."
+        },
+        {
+            "id": "f",
+            "author": "Skeptiker78",
+            "timestamp": "vor 6 Stunden",
+            "content": "Also ich finde diesen Bildungsurlaub sowieso überbewertet. Viele nutzen das doch nur, um günstig Urlaub zu machen. Wenn der Kurs nicht mal was direkt für die Firma bringt, kann ich Arbeitgeber verstehen, die da skeptisch sind. Ich persönlich habe das noch nie beantragt."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Elena",
+            "situation": "Ich werde von meinem Vorgesetzten häufig gebeten, Überstunden zu leisten, manchmal auch kurzfristig. In meinem Arbeitsvertrag steht dazu nichts Konkretes. Ich bin unsicher, ob ich verpflichtet bin, diese Überstunden zu machen, und falls ja, wie diese normalerweise vergütet werden – mit Geld oder Freizeitausgleich? Ich suche nach klaren Informationen zu meinen Rechten und Pflichten bezüglich Mehrarbeit."
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich hatte meinen Jahresurlaub geplant und genehmigt bekommen. Unglücklicherweise wurde ich genau am ersten Urlaubstag krank und musste für fünf Tage das Bett hüten, was ich sofort mit einem ärztlichen Attest belegte. Mein Arbeitgeber meint nun, die Krankheitstage würden trotzdem als Urlaubstage zählen, da der Urlaub ja schon genehmigt war. Ich frage mich, ob das rechtens ist und ob ich die Urlaubstage nachholen kann."
+        },
+        {
+            "id": 3,
+            "name": "Sofia",
+            "situation": "Ich arbeite auf einer Baustelle und muss laut Vorschrift spezielle Sicherheitsschuhe der Klasse S3 tragen. Mein Arbeitgeber hat mir zwar einen Helm und Handschuhe zur Verfügung gestellt, behauptet aber, die Sicherheitsschuhe müsse ich selbst kaufen und bezahlen, da diese ja \"persönlich\" seien. Ich bin unsicher, ob das stimmt, da es sich um vorgeschriebene persönliche Schutzausrüstung (PSA) handelt. Wer muss die Kosten tragen?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich arbeite im Schichtdienst in einem Hotel, was regelmäßige Arbeit an Wochenenden einschließt. Das steht auch so in meinem Vertrag. Ich frage mich aber, ob es eine gesetzliche Obergrenze gibt, wie viele Wochenenden ich *hintereinander* maximal arbeiten darf, bevor ich ein freies Wochenende bekommen muss. Außerdem bin ich unsicher, ob für Sonntagsarbeit nicht spezielle Zuschläge zusätzlich zum normalen Stundenlohn gezahlt werden müssten."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Laura",
+            "timestamp": "vor 2 Stunden",
+            "content": "Keine Sorge! Wenn du während deines genehmigten Urlaubs krank wirst und dies durch ein ärztliches Attest nachweist, gelten diese Tage nicht als Urlaubstage. Dein Urlaubsanspruch bleibt für diese Tage bestehen und du kannst sie zu einem späteren Zeitpunkt nachholen. Dein Arbeitgeber darf sie dir nicht abziehen. Wichtig ist die sofortige Meldung und das Attest!"
+        },
+        {
+            "id": "b",
+            "author": "Anna",
+            "timestamp": "vor 45 Minuten",
+            "content": "Puh, Überstunden sind echt ein leidiges Thema. Bei uns in der Firma ist das leider auch oft so, dass man länger bleiben muss. Ich finde das auf Dauer sehr belastend, vor allem für das Familienleben. Man sollte wirklich versuchen, eine bessere Work-Life-Balance zu finden. Mehr kann ich dazu leider auch nicht sagen."
+        },
+        {
+            "id": "c",
+            "author": "Tom",
+            "timestamp": "vor 5 Stunden",
+            "content": "Beim Thema Urlaub muss man echt aufpassen. Ich wollte mal spontan Urlaub nehmen, aber mein Chef hat abgelehnt, weil gerade viel zu tun war. Grundsätzlich muss der Arbeitgeber ja die Urlaubswünsche berücksichtigen, aber dringende betriebliche Belange gehen leider vor. Das ist manchmal echt ärgerlich, aber rechtlich wohl okay."
+        },
+        {
+            "id": "d",
+            "author": "Michael",
+            "timestamp": "vor 1 Stunde",
+            "content": "Hallo, zur Leistung von Überstunden bist du grundsätzlich nur verpflichtet, wenn dies im Arbeitsvertrag, einer Betriebsvereinbarung oder einem Tarifvertrag geregelt ist. Ist dort nichts festgelegt, müssen Überstunden in der Regel nur in Notfällen geleistet werden. Wenn Überstunden angeordnet werden, müssen sie üblicherweise entweder durch Freizeit ausgeglichen oder zusätzlich vergütet werden. Prüfe am besten nochmals genau deine Vertragsunterlagen."
+        },
+        {
+            "id": "e",
+            "author": "Julia",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei uns gibt es auch Dienstkleidung, so einheitliche Poloshirts mit Firmenlogo. Die mussten wir zwar nicht komplett selbst zahlen, aber einen kleinen Anteil schon. Ich glaube, das ist bei Kleidung, die auch theoretisch privat getragen werden *könnte* (auch wenn es keiner macht), rechtlich etwas anders als bei reiner Schutzkleidung. Aber genau weiß ich es auch nicht."
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 30 Minuten",
+            "content": "Hallo, hier ist die Rechtslage eindeutig: Wenn für deine Tätigkeit bestimmte persönliche Schutzausrüstung (PSA), wie z.B. Sicherheitsschuhe, gesetzlich vorgeschrieben oder zur Unfallverhütung notwendig ist, muss der Arbeitgeber diese kostenlos zur Verfügung stellen. Das ist im Arbeitsschutzgesetz geregelt. Die Kosten darf er nicht auf dich abwälzen, auch nicht für Schuhe."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "a",
+        "3": "f",
+        "4": "x"
+    }
+}

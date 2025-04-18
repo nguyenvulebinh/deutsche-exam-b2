@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Silke",
+            "situation": "In unserer Firma müssen wir jetzt spezielle Polo-Shirts und Hosen mit Firmenlogo tragen. Das erste Set bekommen wir gestellt, aber für weitere oder Ersatz müssen wir selbst zahlen. Ist das rechtens? Es handelt sich nicht um Schutzkleidung, sondern um eine Art Uniform für das einheitliche Erscheinungsbild."
+        },
+        {
+            "id": 2,
+            "name": "Mehmet",
+            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und befinde mich noch in der Probezeit. Letzte Woche wurde ich noch für meine Arbeit gelobt, aber heute habe ich überraschend die Kündigung erhalten, ohne Angabe von Gründen. Ich bin schockiert und verstehe das nicht. Kann man da irgendetwas machen?"
+        },
+        {
+            "id": 3,
+            "name": "Liane",
+            "situation": "Ich hatte für zwei Wochen Urlaub geplant und genehmigt bekommen. Ausgerechnet am ersten Urlaubstag wurde ich krank und musste fünf Tage mit Attest zu Hause bleiben. Mein Chef meint nun, diese Tage zählen trotzdem als Urlaub, da er ja schon genehmigt war. Stimmt das? Ich fühle mich um meinen Urlaub betrogen."
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich arbeite im Büro und trage dort meine normale private Kleidung (Hemden, Stoffhosen). Da diese durch die tägliche Arbeit beansprucht wird und ich sie oft waschen/reinigen lassen muss, frage ich mich: Kann ich die Reinigungskosten eigentlich bei der Steuererklärung als Werbungskosten geltend machen? Hat da jemand Erfahrung?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Markus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Nach der Probezeit greift normalerweise das Kündigungsschutzgesetz. Eine Kündigung muss dann sozial gerechtfertigt sein (z.B. betriebsbedingt, verhaltensbedingt). Der Betriebsrat muss auch angehört werden. Das gibt deutlich mehr Sicherheit als in den ersten Monaten."
+        },
+        {
+            "id": "b",
+            "author": "Jonas",
+            "timestamp": "vor 45 Minuten",
+            "content": "Bei vorgeschriebener Dienstkleidung, die ein bestimmtes Firmenimage repräsentieren soll, ist es üblich, dass der Arbeitgeber die Kosten trägt oder zumindest bezuschusst. Anders als bei persönlicher Schutzkleidung (Helm, Sicherheitsschuhe etc.), die der AG immer zahlen muss. Prüfe mal deinen Arbeitsvertrag oder eine eventuelle Betriebsvereinbarung dazu."
+        },
+        {
+            "id": "c",
+            "author": "Katharina",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ganz klar: Wenn du während deines genehmigten Urlaubs krank wirst und das mit einem ärztlichen Attest nachweisen kannst, werden dir diese Krankheitstage nicht vom Urlaub abgezogen. Sie gelten als Krankheitstage. Wichtig ist, den Arbeitgeber sofort zu informieren und das Attest zeitnah einzureichen!"
+        },
+        {
+            "id": "d",
+            "author": "Fatima",
+            "timestamp": "vor 1 Stunde",
+            "content": "Wichtig bei Krankheit ist immer die unverzügliche Meldung beim Arbeitgeber, am besten schon am ersten Tag vor Arbeitsbeginn. Das ärztliche Attest muss dann spätestens am vierten Krankheitstag vorliegen, manchmal verlangt der Arbeitgeber es auch früher. Unbedingt die internen Regeln beachten!"
+        },
+        {
+            "id": "e",
+            "author": "David",
+            "timestamp": "vor 30 Minuten",
+            "content": "In der Probezeit (maximal 6 Monate) gelten leider andere Regeln. Hier kann das Arbeitsverhältnis von beiden Seiten mit einer Frist von nur zwei Wochen gekündigt werden, und der Arbeitgeber muss in der Regel keinen Kündigungsgrund nennen. Es ist hart, aber rechtlich oft zulässig. Bei Zweifeln eventuell Rechtsberatung suchen."
+        },
+        {
+            "id": "f",
+            "author": "Elena",
+            "timestamp": "vor 8 Stunden",
+            "content": "Bei Überstunden ist wichtig zu wissen, ob sie angeordnet wurden und wie sie vergütet werden – entweder durch Freizeitausgleich oder Bezahlung. Das sollte im Arbeitsvertrag geregelt sein. Nicht jede Mehrarbeit ist automatisch eine Überstunde, die bezahlt werden muss."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "e",
+        "3": "c",
+        "4": "x"
+    }
+}

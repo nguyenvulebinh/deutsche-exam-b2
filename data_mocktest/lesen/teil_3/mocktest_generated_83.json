@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Martha",
+            "situation": "Ich arbeite im Einzelhandel und muss besonders in Stoßzeiten oft Überstunden machen. Mein Chef meint, das sei normal und bietet mir keinen Ausgleich an – weder Geld noch Freizeit. Nun haben sich etliche Stunden angesammelt. Habe ich einen rechtlichen Anspruch darauf, dass diese Überstunden vergütet oder durch Freizeit ausgeglichen werden?"
+        },
+        {
+            "id": 2,
+            "name": "Tomas",
+            "situation": "Ich bin seit drei Monaten in meiner neuen Firma und habe eine sechsmonatige Probezeit. Gestern erhielt ich überraschend die Kündigung zum Ende der nächsten Woche, also mit nur zwei Wochen Frist. Ich bin schockiert über diese kurze Frist. Ist eine solch kurze Kündigungsfrist während der Probezeit überhaupt gesetzlich erlaubt?"
+        },
+        {
+            "id": 3,
+            "name": "Egle",
+            "situation": "Ich fühle mich an meinem Arbeitsplatz zunehmend isoliert. Einige Kollegen reden hinter meinem Rücken, schließen mich von Gesprächen aus und meiden mich in Pausen. Ich vermute, es liegt daran, dass ich neu bin oder aus einem anderen Land komme. Meine Leistung leidet darunter. Welche konkreten Schritte kann ich unternehmen? Sollte ich mit dem Chef, der Personalabteilung oder dem Betriebsrat sprechen?"
+        },
+        {
+            "id": 4,
+            "name": "Paul",
+            "situation": "Ich hatte Urlaub genehmigt bekommen, wurde aber genau am Tag davor krank und war die ersten drei Urlaubstage arbeitsunfähig. Die AU-Bescheinigung habe ich sofort eingereicht. Mein Chef meint nun, ich hätte laut Betriebsordnung zusätzlich am ersten Krankheitstag anrufen müssen, auch wenn die AU schon unterwegs war. Stimmt das? Und könnte ich wegen des fehlenden Anrufs Probleme bekommen, die Urlaubstage zurückzuerhalten?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Jonas",
+            "timestamp": "vor 25 Minuten",
+            "content": "Grundsätzlich gilt: Angeordnete Überstunden müssen ausgeglichen werden, entweder finanziell oder durch Freizeitausgleich. Schau mal in deinen Arbeitsvertrag oder einen eventuell gültigen Tarifvertrag, oft ist das dort geregelt. Fehlt eine Regelung, ist der Arbeitgeber in der Regel zur Zahlung verpflichtet, es sei denn, Freizeitausgleich wurde vereinbart."
+        },
+        {
+            "id": "b",
+            "author": "Hanna",
+            "timestamp": "vor 50 Minuten",
+            "content": "Ja, das ist leider korrekt. Während der vereinbarten Probezeit, die maximal sechs Monate dauern darf, können sowohl Arbeitgeber als auch Arbeitnehmer das Arbeitsverhältnis mit einer Frist von nur zwei Wochen kündigen. Diese Frist gilt oft zu jedem beliebigen Kalendertag, wenn vertraglich nichts anderes festgelegt ist. Gründe müssen nicht genannt werden."
+        },
+        {
+            "id": "c",
+            "author": "Veronica",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das klingt nach einer sehr belastenden Situation, eventuell sogar Mobbing. Wichtig ist: Dokumentiere konkrete Vorfälle (was, wann, wer war beteiligt?). Suche das Gespräch mit deinem Vorgesetzten. Wenn das nicht hilft oder nicht möglich ist, wende dich an die Personalabteilung oder den Betriebsrat (falls vorhanden). Sie sind verpflichtet, dem nachzugehen."
+        },
+        {
+            "id": "d",
+            "author": "Franziska",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wenn du als Azubi krank bist und deshalb nicht zur Berufsschule gehen kannst, musst du das dort natürlich auch melden. Reiche das ärztliche Attest am besten so schnell wie möglich ein, sowohl im Betrieb als auch in der Schule, damit deine Fehltage korrekt erfasst werden und es keine Unklarheiten gibt."
+        },
+        {
+            "id": "e",
+            "author": "Chiara",
+            "timestamp": "vor 4 Stunden",
+            "content": "Eine Kündigung ist immer hart. Aber außerhalb der Probezeit sieht es anders aus. Je länger man im Betrieb ist, desto länger sind die gesetzlichen Kündigungsfristen. Außerdem greift dann oft das Kündigungsschutzgesetz, d.h. der Arbeitgeber braucht einen triftigen Grund für die Entlassung (betriebsbedingt, verhaltensbedingt oder personenbedingt)."
+        },
+        {
+            "id": "f",
+            "author": "Louis",
+            "timestamp": "vor 5 Stunden",
+            "content": "Pass auf mit den Überstunden! Das Arbeitszeitgesetz setzt Grenzen. Die tägliche Arbeitszeit darf zwar kurzfristig auf 10 Stunden erhöht werden, aber im Durchschnitt über sechs Monate dürfen 8 Stunden pro Werktag nicht überschritten werden. Dein Arbeitgeber muss darauf achten, diese Regeln einzuhalten."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

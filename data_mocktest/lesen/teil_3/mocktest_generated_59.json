@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen und Probleme",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Leon",
+            "situation": "Hallo zusammen, ich bin ziemlich geschockt. Mein Chef hat mir gerade gekündigt, obwohl ich noch fast sechs Monate hier arbeite und somit in der Probezeit bin. Erst letzte Woche wurde ich noch für meine gute Leistung gelobt. Ist eine Kündigung so kurzfristig überhaupt erlaubt? Kann ich etwas dagegen tun, wenn ich sie für unfair halte?"
+        },
+        {
+            "id": 2,
+            "name": "Sarah",
+            "situation": "Hilfe! Ich bin heute auf dem direkten Heimweg vom Büro mit dem Fahrrad gestürzt. Zum Glück habe ich nur leichte Schürfwunden. Mein Mann meint aber, ich müsse das unbedingt dem Arbeitgeber melden, auch wegen möglicher Spätfolgen. Ich bin aber noch in der Probezeit und möchte keinen Ärger. Ist die Meldung wirklich notwendig?"
+        },
+        {
+            "id": 3,
+            "name": "Markus",
+            "situation": "Ich arbeite in einem kleinen Handwerksbetrieb und mache fast täglich Überstunden. Bisher habe ich dafür weder mehr Gehalt noch Freizeitausgleich bekommen. Mein Chef sagt nur, das sei in unserer Branche normal. Stimmt das so? Habe ich keinen rechtlichen Anspruch auf eine Vergütung oder einen Ausgleich für die Mehrarbeit?"
+        },
+        {
+            "id": 4,
+            "name": "Julia",
+            "situation": "In meiner Firma gilt Gleitzeit, was ich nutze, um oft später anzufangen. Nun will mein Teamleiter feste Kernzeiten einführen, damit die Abstimmung im Team besser klappt. Das würde meine Flexibilität aber stark einschränken. Darf der Arbeitgeber das einfach so anordnen, obwohl wir eine Gleitzeitvereinbarung haben? Gibt es da spezielle Regeln?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Stefan",
+            "timestamp": "vor 10 Stunden",
+            "content": "Eine Kündigung nach langjähriger Betriebszugehörigkeit ist komplex. Der Arbeitgeber braucht triftige Gründe (betriebsbedingt, verhaltensbedingt etc.) und muss die gesetzlichen Kündigungsfristen, die mit den Jahren ansteigen, beachten. Oft spielt auch die Sozialauswahl eine Rolle. Bei Zweifeln lohnt sich eine Rechtsberatung."
+        },
+        {
+            "id": "b",
+            "author": "Michael",
+            "timestamp": "vor 45 Minuten",
+            "content": "Unbedingt melden, Sarah! Unfälle auf dem direkten Weg zur oder von der Arbeit sind als Wegeunfälle über die gesetzliche Unfallversicherung abgedeckt. Die Meldung ist wichtig, gerade falls doch Spätfolgen auftreten. Dein Status als Mitarbeiterin in der Probezeit spielt dabei keine Rolle – das ist dein Recht und schützt dich."
+        },
+        {
+            "id": "c",
+            "author": "Bernd",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei einem Unfall direkt im Betrieb muss man sofort den Vorgesetzten informieren und alles im Verbandbuch dokumentieren. Wenn man länger als drei Tage arbeitsunfähig ist, muss der Unfall auch der Berufsgenossenschaft (BG) gemeldet werden. Sicherheit am Arbeitsplatz ist das A und O!"
+        },
+        {
+            "id": "d",
+            "author": "Sabine",
+            "timestamp": "vor 1 Stunde",
+            "content": "Überstunden kenne ich nur zu gut! Das kann auf Dauer echt an die Substanz gehen und das Privatleben leidet enorm. Ich versuche inzwischen konsequent, pünktlich Feierabend zu machen und meine Grenzen klar zu kommunizieren. Gesundheit ist schließlich wichtiger als ständige Erreichbarkeit."
+        },
+        {
+            "id": "e",
+            "author": "Petra",
+            "timestamp": "vor 2 Stunden",
+            "content": "Hallo Leon, das ist natürlich bitter, aber während der gesetzlichen Probezeit (in der Regel die ersten 6 Monate) gilt leider ein stark gelockerter Kündigungsschutz. Dein Arbeitgeber kann dir ohne Angabe von Gründen kündigen, und die Kündigungsfrist beträgt oft nur zwei Wochen. Dagegen kann man rechtlich meist wenig machen, auch wenn es unfair wirkt."
+        },
+        {
+            "id": "f",
+            "author": "Anja",
+            "timestamp": "vor 5 Stunden",
+            "content": "Hallo Markus, die Aussage deines Chefs ist so pauschal nicht richtig. Angeordnete Überstunden müssen grundsätzlich entweder bezahlt oder durch Freizeit ausgeglichen werden, es sei denn, dein Arbeitsvertrag enthält eine anderslautende, aber zulässige Regelung. Schau da genau nach! 'Branchenüblich' ist kein rechtliches Argument."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "b",
+        "3": "f",
+        "4": "x"
+    }
+}

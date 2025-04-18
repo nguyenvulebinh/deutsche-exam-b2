@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jan",
+            "situation": "Hallo zusammen, ich bin echt frustriert. Ich bin seit fast sechs Monaten in meiner neuen Firma und dachte, alles läuft super. Letzte Woche hatte ich noch ein Gespräch, in dem meine Chefin meine Fortschritte gelobt hat. Gestern habe ich aber überraschend die Kündigung bekommen – noch innerhalb der Probezeit! Ist das überhaupt rechtens, obwohl sie mich vorher gelobt hat? Ich dachte, nach Lob kann man nicht einfach gekündigt werden."
+        },
+        {
+            "id": 2,
+            "name": "Sofia",
+            "situation": "In meiner Abteilung fallen momentan viele Überstunden an. Grundsätzlich habe ich nichts dagegen, mal mehr zu arbeiten, aber ich frage mich, wie das mit der Vergütung aussieht. Muss der Arbeitgeber die Überstunden immer auszahlen oder kann er auch anordnen, dass man sie nur durch Freizeit ausgleichen („abfeiern“) darf? In meinem Arbeitsvertrag steht dazu leider nichts Genaues. Wer kennt sich da aus?"
+        },
+        {
+            "id": 3,
+            "name": "Marek",
+            "situation": "Mir ist gestern bei der Arbeit ein kleines Missgeschick passiert: Ich bin im Lager über einen Karton gestolpert und habe mir den Ellbogen leicht gestoßen. Es tat kurz weh, aber ich dachte, es ist nichts Schlimmes und habe weitergearbeitet, ohne es zu melden. Heute Morgen tut der Arm aber doch ziemlich weh. Sollte ich den Vorfall jetzt noch melden, auch wenn er schon gestern war? Es war ja eigentlich nur eine Kleinigkeit."
+        },
+        {
+            "id": 4,
+            "name": "Clara",
+            "situation": "Ich habe seit einiger Zeit zunehmend Rückenprobleme, wahrscheinlich durch das lange Sitzen im Büro. Mein Orthopäde hat mir nun schriftlich empfohlen, einen höhenverstellbaren Schreibtisch zu nutzen, um zwischen Sitzen und Stehen wechseln zu können. Muss mein Arbeitgeber mir so einen Tisch zur Verfügung stellen, nur weil mein Arzt das empfiehlt? Eine offizielle Schwerbehinderung habe ich nicht. Wie sind da die Regeln?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 15 Minuten",
+            "content": "Das ist natürlich ärgerlich, aber leider während der Probezeit rechtlich oft möglich. Die Probezeit dient ja gerade dazu, dass beide Seiten prüfen können, ob es passt. Eine Kündigung kann hier mit sehr kurzer Frist (meist 2 Wochen) und ohne Angabe von Gründen erfolgen, auch wenn es vorher positives Feedback gab. Das Lob allein schafft keinen Kündigungsschutz in der Probezeit."
+        },
+        {
+            "id": "b",
+            "author": "Lena",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ob Überstunden ausgezahlt werden oder durch Freizeit ausgeglichen werden, hängt von der Regelung im Arbeitsvertrag, einer Betriebsvereinbarung oder einem Tarifvertrag ab. Gibt es keine solche Regelung, besteht grundsätzlich ein Anspruch auf Vergütung der Überstunden. Der Arbeitgeber kann Freizeitausgleich nicht einfach einseitig anordnen, wenn nichts vereinbart ist. Prüf das nochmal genau!"
+        },
+        {
+            "id": "c",
+            "author": "Fatima",
+            "timestamp": "vor 1 Stunde",
+            "content": "Unbedingt melden! Jeden Arbeitsunfall, egal wie klein er erscheint, solltest du sofort deinem Arbeitgeber melden und bei einem Durchgangsarzt (spezieller Unfallarzt) untersuchen lassen. Das ist wichtig für die Absicherung durch die Berufsgenossenschaft, falls doch noch Spätfolgen auftreten. Eine Meldung ist auch nachträglich noch möglich und sinnvoll."
+        },
+        {
+            "id": "d",
+            "author": "Sven",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung nach vielen Jahren im Betrieb ist bitter. Wichtig ist, dass der Arbeitgeber soziale Aspekte berücksichtigen muss (Sozialauswahl), wenn er betriebsbedingt kündigt. Dazu zählen Betriebszugehörigkeit, Alter, Unterhaltspflichten und Schwerbehinderung. Gegen eine solche Kündigung kann man oft erfolgreich klagen, wenn die Auswahl unfair war."
+        },
+        {
+            "id": "e",
+            "author": "Hannah",
+            "timestamp": "vor 3 Stunden",
+            "content": "Stürze auf dem Weg zur Arbeit oder zurück nach Hause sind leider häufig. Man nennt das Wegeunfall, und die sind normalerweise über die gesetzliche Unfallversicherung abgedeckt. Wichtig ist aber, dass der direkte Weg genommen wurde. Kleine Umwege, z.B. zum Einkaufen, können den Versicherungsschutz gefährden. Melden sollte man das natürlich auch."
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Viele wissen gar nicht, dass das Arbeitszeitgesetz klare Grenzen für Überstunden setzt. Die tägliche Höchstarbeitszeit darf nur ausnahmsweise überschritten werden, und im Durchschnitt von 6 Monaten darf 8 Stunden werktäglich nicht überschritten werden. Achtet darauf, dass euer Arbeitgeber das einhält, sonst drohen ihm Bußgelder! Eure Gesundheit geht vor."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

@@ -245,6 +245,9 @@ class LesenTeil1 extends TestEngine {
         // Clear existing grid
         answerGrid.innerHTML = '';
         
+        // Ensure we're using the original grid layout, not the vertical one
+        answerGrid.className = 'answer-grid';
+        
         // Add headers
         answerGrid.appendChild(this.createGridCell('', 'grid-header'));
         for (let i = 0; i < 8; i++) {

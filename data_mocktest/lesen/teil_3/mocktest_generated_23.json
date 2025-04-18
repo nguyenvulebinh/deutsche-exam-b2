@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Marlene",
+            "situation": "Ich bin etwas verzweifelt. Bei meiner Einstellung wurde mir mündlich eine Gehaltserhöhung nach der Probezeit zugesagt. Nun ist die Probezeit vorbei, aber mein Chef behauptet, sich daran nicht erinnern zu können. Ich habe leider nichts Schriftliches. Gibt es eine Möglichkeit, diese Zusage trotzdem einzufordern oder nachzuweisen?"
+        },
+        {
+            "id": 2,
+            "name": "Stefan",
+            "situation": "Ich hatte eine Woche Urlaub genehmigt bekommen. Leider wurde ich am zweiten Urlaubstag krank, habe mich sofort beim Arbeitgeber gemeldet und auch eine ärztliche Bescheinigung eingereicht. Jetzt sagt mein Arbeitgeber, die Urlaubstage seien trotzdem weg. Ist das rechtens oder bleiben mir die Tage erhalten?"
+        },
+        {
+            "id": 3,
+            "name": "Anja",
+            "situation": "Ich arbeite in einem chemischen Labor und muss laut Vorschrift spezielle Sicherheitsschuhe und einen Laborkittel tragen. Beides ist als persönliche Schutzausrüstung (PSA) klassifiziert. Den Kittel bekommen wir gestellt, aber die Sicherheitsschuhe (Kosten ca. 150€) sollen wir selbst bezahlen. Muss der Arbeitgeber nicht für die notwendige PSA aufkommen?"
+        },
+        {
+            "id": 4,
+            "name": "Leon",
+            "situation": "Ich bin seit vier Monaten in meiner sechsmonatigen Probezeit. Gestern wurde mir ohne Angabe von Gründen mit der kurzen Frist von zwei Wochen gekündigt. Meine bisherige Arbeit wurde eigentlich immer gelobt. Ist eine Kündigung in der Probezeit wirklich so einfach möglich, auch ohne dass ein konkreter Grund genannt wird?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 45 Minuten",
+            "content": "Mündliche Zusagen sind rechtlich gültig, aber extrem schwer zu beweisen, wenn die andere Seite sich nicht erinnert. Ohne Zeugen oder schriftlichen Vermerk hast du leider schlechte Karten. Versuch es mit einem erneuten, sachlichen Gespräch, aber mach dir nicht zu viele Hoffnungen. Für die Zukunft: Wichtige Vereinbarungen immer schriftlich bestätigen lassen!"
+        },
+        {
+            "id": "b",
+            "author": "Dirk",
+            "timestamp": "vor 2 Stunden",
+            "content": "Gehaltsunterschiede im Team sind oft ärgerlich, besonders wenn die Aufgaben ähnlich sind. Wichtig ist, bei Gehaltsverhandlungen gut vorbereitet zu sein und seine Leistungen zu betonen. Manchmal basieren Unterschiede aber auch auf Erfahrung oder Betriebszugehörigkeit. Eine faire Bezahlung sollte eigentlich selbstverständlich sein."
+        },
+        {
+            "id": "c",
+            "author": "Yasmin",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei Krankheit musst du den Arbeitgeber sofort informieren, am besten noch vor Arbeitsbeginn. Die ärztliche Bescheinigung (AU) ist meist ab dem dritten Krankheitstag nötig, manchmal verlangt der Arbeitgeber sie aber auch schon früher. Diese Regeln sind wichtig, um keine arbeitsrechtlichen Probleme zu bekommen."
+        },
+        {
+            "id": "d",
+            "author": "Robert",
+            "timestamp": "vor 1 Stunde",
+            "content": "Wenn du während deines genehmigten Urlaubs krank wirst und dies unverzüglich meldest sowie durch eine Arbeitsunfähigkeitsbescheinigung nachweist, gehen dir diese Urlaubstage nicht verloren. Sie werden dir wieder gutgeschrieben und du kannst sie zu einem späteren Zeitpunkt nehmen. Dein Arbeitgeber liegt da falsch."
+        },
+        {
+            "id": "e",
+            "author": "Claudia",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ob man die Kosten für Dienstkleidung, wie Hemden mit Firmenlogo oder spezielle Anzüge für den Kundenkontakt, selbst tragen muss, hängt oft vom Arbeitsvertrag oder Tarifvertrag ab. Manchmal gibt es einen Zuschuss vom Arbeitgeber. Die Reinigungskosten sind auch oft ein Streitpunkt, den man klären sollte."
+        },
+        {
+            "id": "f",
+            "author": "Mehmet",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ganz klar: Wenn es sich um gesetzlich vorgeschriebene oder vom Arbeitgeber zur Gefahrenabwehr angeordnete Persönliche Schutzausrüstung (PSA) handelt – wie spezielle Sicherheitsschuhe im Labor – muss der Arbeitgeber diese kostenlos zur Verfügung stellen und auch die Kosten dafür tragen. Das regelt das Arbeitsschutzgesetz."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "d",
+        "3": "f",
+        "4": "x"
+    }
+}

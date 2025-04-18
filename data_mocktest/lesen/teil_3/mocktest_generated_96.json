@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Ich bin seit fast sechs Monaten in meiner neuen Firma, die Probezeit endet also bald. Bisher lief alles gut, ich bekam sogar Lob. Gestern erhielt ich aber völlig überraschend die Kündigung, ohne Angabe von Gründen. Ich bin schockiert und frage mich, ob das kurz vor Ende der Probezeit überhaupt erlaubt ist und was ich jetzt tun kann?"
+        },
+        {
+            "id": 2,
+            "name": "Lena",
+            "situation": "Mein Chef ordnet oft Überstunden an, die ich auch leiste. Laut Arbeitsvertrag ist das bei Bedarf möglich, aber es steht nichts Genaues zur Abgeltung drin. Ich würde die Stunden lieber abfeiern statt bezahlt zu bekommen. Habe ich darauf einen Anspruch oder muss ich die Bezahlung akzeptieren? Wie spreche ich das am besten an?"
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "situation": "Ich hatte letzte Woche Urlaub genehmigt bekommen. Leider wurde ich am zweiten Tag krank und habe meinem Arbeitgeber sofort ein ärztliches Attest geschickt. Nun sehe ich auf der Lohnabrechnung, dass die Krankheitstage trotzdem als Urlaubstage abgezogen wurden. Darf mein Chef das machen?"
+        },
+        {
+            "id": 4,
+            "name": "Simone",
+            "situation": "Ich habe mein Arbeitszeugnis erhalten. Es klingt auf den ersten Blick ganz gut, aber eine Freundin meinte, manche Formulierungen seien \"Geheimcodes\" für schlechte Leistungen, z.B. \"Sie war stets bemüht\". Ich bin jetzt total verunsichert. Wie kann ich prüfen, ob das Zeugnis wirklich positiv ist oder versteckte Kritik enthält?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Amina",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ganz klar: Wenn Sie im Urlaub krank werden und dies durch ein ärztliches Attest nachweisen, dürfen diese Tage nicht als Urlaub angerechnet werden. Ihr Urlaubsanspruch bleibt für diese Tage bestehen. Weisen Sie Ihren Arbeitgeber (am besten schriftlich) darauf hin und verlangen Sie die Korrektur."
+        },
+        {
+            "id": "b",
+            "author": "Ben",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei Überstunden ist oft die Bezahlung ein Thema. Manche Tarifverträge sehen Zuschläge vor, z.B. für Nacht- oder Sonntagsarbeit. Ohne tarifliche Regelung gibt es aber nicht automatisch einen Anspruch auf Zuschläge, nur auf die Vergütung der Grundstunden, es sei denn, es ist anders vereinbart."
+        },
+        {
+            "id": "c",
+            "author": "Claudia",
+            "timestamp": "vor 1 Tag",
+            "content": "Eine Kündigung nach der Probezeit unterliegt strengeren Regeln. Es gilt das Kündigungsschutzgesetz, wenn der Betrieb groß genug ist. Dann braucht der Arbeitgeber einen triftigen Grund (betriebsbedingt, personenbedingt, verhaltensbedingt) und die gesetzlichen Kündigungsfristen sind deutlich länger als zwei Wochen."
+        },
+        {
+            "id": "d",
+            "author": "David",
+            "timestamp": "vor 30 Minuten",
+            "content": "In der Probezeit, maximal sechs Monate, gilt leider ein verkürzter Kündigungsschutz. Eine Kündigung ist mit einer Frist von nur zwei Wochen möglich, und der Arbeitgeber muss keine Gründe nennen. Da Sie noch in der Probezeit sind, ist das Vorgehen Ihres Arbeitgebers rechtlich wahrscheinlich zulässig, auch wenn es unfair wirkt."
+        },
+        {
+            "id": "e",
+            "author": "Evelyn",
+            "timestamp": "vor 8 Stunden",
+            "content": "Der gesetzliche Mindesturlaub in Deutschland beträgt 24 Werktage bei einer 6-Tage-Woche, also 20 Arbeitstage bei einer 5-Tage-Woche. Viele Arbeits- oder Tarifverträge sehen aber mehr Urlaubstage vor. Für Jugendliche gelten oft noch andere spezielle Regelungen."
+        },
+        {
+            "id": "f",
+            "author": "Franka",
+            "timestamp": "vor 45 Minuten",
+            "content": "Die Frage, ob Überstunden bezahlt oder durch Freizeit ausgeglichen werden, hängt oft vom Arbeitsvertrag oder einer Betriebsvereinbarung ab. Gibt es keine klare Regelung, sprechen Sie Ihren Chef direkt an und äußern Sie Ihren Wunsch nach Freizeitausgleich. Oft findet sich eine gemeinsame Lösung."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

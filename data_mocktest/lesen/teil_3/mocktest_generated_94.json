@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Marlene",
+            "situation": "Ich bin im vierten Monat schwanger. Bisher weiß nur mein Mann davon. Ich habe ein bisschen Sorge vor Nachteilen im Job, wenn ich es meinem Arbeitgeber sage. Gibt es eine Frist, bis wann ich meine Schwangerschaft melden muss, oder kann ich noch warten? Ich möchte auf keinen Fall meinen Kündigungsschutz gefährden."
+        },
+        {
+            "id": 2,
+            "name": "Daniel",
+            "situation": "Letztes Jahr hat mir mein Abteilungsleiter mündlich eine Gehaltserhöhung ab Januar zugesichert. Im Personalgespräch vor zwei Wochen konnte er sich aber angeblich nicht mehr daran erinnern und meinte, das sei nie vereinbart worden. Schriftlich habe ich leider nichts. Habe ich trotzdem eine Chance, die Erhöhung zu bekommen?"
+        },
+        {
+            "id": 3,
+            "name": "Ute",
+            "situation": "Ich hatte heute Morgen auf dem direkten Weg zur Arbeit einen Fahrradunfall. Es ist zum Glück nichts Schlimmes passiert, nur ein paar Schürfwunden. Muss ich das trotzdem meinem Arbeitgeber melden? Ich bin erst seit zwei Monaten in der Firma und noch in der Probezeit, daher möchte ich keinen schlechten Eindruck machen."
+        },
+        {
+            "id": 4,
+            "name": "Kevin",
+            "situation": "Letzte Woche war mein fünfjähriger Sohn krank und hatte Fieber. Da ich alleinerziehend bin und kurzfristig keine Betreuung organisieren konnte, musste ich drei Tage zu Hause bleiben und ihn pflegen. Ich habe den Arbeitgeber natürlich sofort informiert und eine Krankmeldung für das Kind eingereicht. Nun mache ich mir Sorgen: Wird mir für diese Fehltage das Gehalt gekürzt?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Julia",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Marlene, eine gesetzliche Frist zur Mitteilung der Schwangerschaft gibt es nicht. Sobald du es mitteilst, greift aber der besondere Kündigungsschutz nach dem Mutterschutzgesetz. Viele warten die ersten 12 Wochen ab, aber zu lange solltest du es nicht hinauszögern, auch damit der Arbeitgeber planen kann. Nachteile darfst du dadurch keine haben!"
+        },
+        {
+            "id": "b",
+            "author": "Stefan",
+            "timestamp": "vor 2 Stunden",
+            "content": "Hallo Daniel, das ist ärgerlich. Bei mündlichen Zusagen steht oft Aussage gegen Aussage. Ohne schriftlichen Nachweis oder Zeugen ist es extrem schwierig, eine solche Vereinbarung durchzusetzen. Rechtlich gesehen hast du da leider schlechte Karten. Versuche vielleicht, das Thema in einem ruhigen Gespräch nochmals anzusprechen."
+        },
+        {
+            "id": "c",
+            "author": "Laura",
+            "timestamp": "vor 5 Stunden",
+            "content": "Eltern können nach der Geburt ihres Kindes eine berufliche Auszeit nehmen, die sogenannte Elternzeit. Man hat Anspruch darauf, egal ob Mutter oder Vater. Während dieser Zeit ruht das Arbeitsverhältnis, aber man erhält Elterngeld vom Staat als finanzielle Unterstützung."
+        },
+        {
+            "id": "d",
+            "author": "Markus",
+            "timestamp": "vor 8 Stunden",
+            "content": "Hallo Ute, unbedingt melden! Auch kleine Unfälle auf dem Arbeitsweg (Wegeunfälle) sollten dem Arbeitgeber und der Berufsgenossenschaft gemeldet werden. Das ist wichtig für die gesetzliche Unfallversicherung, falls doch noch Spätfolgen auftreten. Deine Probezeit spielt dabei keine Rolle, das ist dein gutes Recht."
+        },
+        {
+            "id": "e",
+            "author": "Sandra",
+            "timestamp": "vor 1 Tag",
+            "content": "Wenn man als Mitarbeiter fahrlässig einen Schaden im Betrieb verursacht, z.B. eine Maschine beschädigt, muss man nicht automatisch voll dafür haften. Es kommt auf den Grad der Fahrlässigkeit an. Bei leichter Fahrlässigkeit haftet der Arbeitnehmer oft gar nicht."
+        },
+        {
+            "id": "f",
+            "author": "Thomas",
+            "timestamp": "vor 30 Minuten",
+            "content": "Bei Gehaltsverhandlungen ist es wichtig, gut vorbereitet zu sein. Informiere dich über übliche Gehälter in deiner Branche und Position und sammle Argumente für deine Leistung. Ein fester Termin und eine klare Forderung helfen oft, erfolgreich zu sein."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "d",
+        "4": "x"
+    }
+}

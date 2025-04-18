@@ -1,0 +1,69 @@
+{
+    "thema": "Konflikte am Arbeitsplatz",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Ben",
+            "situation": "Ich arbeite seit einem halben Jahr in einem Großraumbüro und finde es oft schwierig, mich zu konzentrieren. Mehrere Kollegen führen sehr laute und lange Privatgespräche am Telefon direkt an ihren Schreibtischen. Ich möchte niemanden verärgern, aber es stört meine Arbeit erheblich. Gibt es übliche Regeln oder wie kann ich das ansprechen, ohne als Nörgler dazustehen?"
+        },
+        {
+            "id": 2,
+            "name": "Laura",
+            "situation": "In meinem Team gibt es einen Kollegen, der mich in Besprechungen ständig unterbricht. Noch schlimmer ist, dass er meine Ideen oder Arbeitsergebnisse manchmal später unserem Chef gegenüber als seine eigenen darstellt. Das frustriert mich sehr. Welche professionellen Strategien gibt es, um damit umzugehen und sicherzustellen, dass meine Leistung anerkannt wird?"
+        },
+        {
+            "id": 3,
+            "name": "Cem",
+            "situation": "Das ist mir extrem unangenehm, aber ich weiß nicht, wie ich damit umgehen soll: Mein direkter Büronachbar hat leider eine sehr mangelhafte Körperhygiene. Der Geruch im Büro ist oft wirklich belastend. Wie kann man so ein heikles Thema ansprechen, ohne die Person zutiefst zu verletzen? Sollte man vielleicht besser zum Vorgesetzten oder zur Personalabteilung gehen?"
+        },
+        {
+            "id": 4,
+            "name": "Sara",
+            "situation": "Ich habe zunehmend Probleme mit meiner Vorgesetzten. Sie kritisiert meine Arbeit oft vor dem ganzen Team, meiner Meinung nach unfair, und gibt mir häufig unklare Anweisungen, was dann natürlich zu Fehlern führt. Ich fühle mich dadurch sehr gestresst und demotiviert. Welche Rechte habe ich bei ungerechter Behandlung durch eine Führungskraft und wie gehe ich am besten vor?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Julia",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das ist ärgerlich! Versuche, ruhig zu bleiben. Wenn er dich unterbricht, sag bestimmt: 'Einen Moment, ich möchte das noch zu Ende führen.' Dokumentiere deine Ideen vorab per Mail, auch an den Chef. Wenn das Verhalten nicht aufhört, suche ein vertrauliches Gespräch mit deinem Vorgesetzten und schildere die Situation sachlich."
+        },
+        {
+            "id": "b",
+            "author": "Markus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Stress am Arbeitsplatz ist ein großes Thema. Hoher Druck, ständige Erreichbarkeit und ja, auch eine laute Umgebung können krank machen. Wichtig ist, auf sich zu achten: Pausen machen, Aufgaben priorisieren und lernen, auch mal 'Nein' zu sagen. Manchmal hilft schon ein kurzes Gespräch über die Arbeitsbelastung."
+        },
+        {
+            "id": "c",
+            "author": "Elena",
+            "timestamp": "vor 8 Stunden",
+            "content": "Ein gutes Teamklima ist Gold wert! Offene Kommunikation, gegenseitige Unterstützung und das Gefühl, dass jeder Beitrag zählt, sind entscheidend. Wenn alle an einem Strang ziehen und Ideen wertgeschätzt werden, arbeitet es sich doch gleich viel besser. Das sollte eigentlich selbstverständlich sein."
+        },
+        {
+            "id": "d",
+            "author": "Stefan",
+            "timestamp": "vor 45 Minuten",
+            "content": "Oh ja, Lärm im Großraumbüro kenne ich. Sprich die Kollegen doch mal freundlich in einer ruhigen Minute an, vielleicht merken sie es gar nicht. Manchmal hilft es, gemeinsame Regeln aufzustellen, z.B. Telefonate über 5 Minuten in Besprechungsräumen zu führen oder Headsets zu nutzen. Viele Firmen haben dazu auch Betriebsvereinbarungen."
+        },
+        {
+            "id": "e",
+            "author": "Gabriele",
+            "timestamp": "vor 1 Tag",
+            "content": "Wenn es um systematisches Anfeinden oder Schikanieren geht, spricht man von Mobbing. Das ist rechtlich relevant. Wichtig ist dann, alles genau zu dokumentieren (Datum, Uhrzeit, Vorfall, Zeugen) – ein sogenanntes Mobbing-Tagebuch. Damit sollte man sich an den Betriebsrat oder einen Anwalt für Arbeitsrecht wenden."
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 3 Stunden",
+            "content": "Das ist eine extrem schwierige Situation. Direkt ansprechen würde ich das auf keinen Fall, das ist zu persönlich und kann nach hinten losgehen. Der beste Weg ist, vertraulich mit deinem Vorgesetzten oder der Personalabteilung zu sprechen. Sie sind dafür zuständig, solche sensiblen Angelegenheiten diskret zu klären."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "a",
+        "3": "f",
+        "4": "x"
+    }
+}

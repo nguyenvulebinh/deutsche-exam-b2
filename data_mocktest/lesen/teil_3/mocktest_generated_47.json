@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Berufsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Elif",
+            "situation": "Ich wurde heute nach vier Monaten in meiner Probezeit gekündigt. Mein Chef hat mich letzte Woche noch für meine schnelle Einarbeitung gelobt. Ich verstehe das nicht und finde es unfair. Gibt es während der Probezeit gar keinen Schutz für Arbeitnehmer? Was kann ich jetzt tun?"
+        },
+        {
+            "id": 2,
+            "name": "Jonas",
+            "situation": "Mir ist gestern im Büro versehentlich mein Kaffee über den Firmenlaptop gelaufen. Er funktioniert nicht mehr richtig. Mein Teamleiter war sauer und meinte, das würde sicher von meinem nächsten Gehalt abgezogen. Ich habe es ja nicht absichtlich gemacht! Dürfen die das einfach?"
+        },
+        {
+            "id": 3,
+            "name": "Marta",
+            "situation": "In meinem neuen Job in einem Chemielabor muss ich spezielle Schutzkleidung tragen – Sicherheitsschuhe und einen Laborkittel. Handschuhe und Schutzbrille bekommen wir gestellt, aber die Schuhe und den Kittel sollen wir selbst kaufen und bezahlen. Ist das rechtens? Das ist doch für die Arbeitssicherheit!"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich fange bald eine neue Stelle als Softwareentwickler an. Das Angebot liegt vor, aber das Gehalt erscheint mir etwas niedrig für meine Erfahrung und die Region. Ich möchte gerne nachverhandeln, bevor ich unterschreibe. Hat jemand Tipps, wie man das am besten angeht, ohne unverschämt zu wirken? Gibt es gute Argumente oder Strategien für die Gehaltsverhandlung beim Einstieg?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Bei einer Kündigung nach der Probezeit muss der Arbeitgeber soziale Aspekte berücksichtigen und braucht einen triftigen Grund (z.B. betriebsbedingt). Außerdem muss oft der Betriebsrat zustimmen. Das ist rechtlich viel komplexer als in den ersten sechs Monaten."
+        },
+        {
+            "id": "b",
+            "author": "Leo",
+            "timestamp": "vor 45 Minuten",
+            "content": "Klarer Fall: Wenn Schutzausrüstung gesetzlich vorgeschrieben ist (PSA), muss der Arbeitgeber sie kostenlos zur Verfügung stellen und auch die Kosten tragen. Das steht im Arbeitsschutzgesetz. Das gilt für Sicherheitsschuhe im Labor genauso wie für Helme auf der Baustelle."
+        },
+        {
+            "id": "c",
+            "author": "Fatima",
+            "timestamp": "vor 5 Stunden",
+            "content": "Wenn Mitarbeiter wiederholt unentschuldigt fehlen oder zu spät kommen, kann der Arbeitgeber nach einer Abmahnung tatsächlich Teile des Gehalts einbehalten. Das ist aber an strenge Regeln gebunden und gilt nicht für jeden kleinen Fehler."
+        },
+        {
+            "id": "d",
+            "author": "Markus",
+            "timestamp": "vor 30 Minuten",
+            "content": "In der Probezeit (meist 6 Monate) ist der Kündigungsschutz stark eingeschränkt. Die Kündigungsfrist ist kurz (oft nur 2 Wochen) und der Arbeitgeber braucht keinen besonderen Grund. Auch wenn es sich unfair anfühlt, rechtlich ist das leider meistens zulässig, solange keine Diskriminierung vorliegt."
+        },
+        {
+            "id": "e",
+            "author": "Claudia",
+            "timestamp": "vor 1 Stunde",
+            "content": "Die Kosten für typische Berufskleidung, die man theoretisch auch privat tragen könnte (z.B. ein dunkler Anzug im Vertrieb), kann man leider nur selten von der Steuer absetzen. Anders sieht es bei spezifischer Schutzkleidung oder Uniformen aus. Die Reinigungskosten sind manchmal absetzbar."
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 3 Stunden",
+            "content": "Keine Sorge, bei leichter Fahrlässigkeit, wie einem versehentlich verschütteten Kaffee, haftet der Arbeitnehmer in der Regel nicht oder nur anteilig. Ein direkter Lohnabzug ist da meist nicht erlaubt. Anders wäre es bei grober Fahrlässigkeit oder Absicht."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "b",
+        "4": "x"
+    }
+}

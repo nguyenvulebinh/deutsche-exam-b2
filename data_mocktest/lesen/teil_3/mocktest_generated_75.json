@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Leon",
+            "situation": "Ich arbeite in einem kleinen Büro und mein Chef gibt mir oft kurz vor Feierabend noch dringende Aufgaben. Dadurch mache ich regelmäßig Überstunden, die nicht bezahlt werden. Ich fühle mich unter Druck gesetzt, möchte aber die gute Beziehung zu meinem Chef nicht gefährden. Wie kann ich ihm freundlich, aber bestimmt sagen, dass ich nicht ständig länger bleiben kann oder will?"
+        },
+        {
+            "id": 2,
+            "name": "Sofia",
+            "situation": "Ich bin total schockiert. Ich arbeite seit fast sechs Monaten in einer Firma und meine Probezeit endet in zwei Wochen. Letzten Monat gab es noch ein positives Feedbackgespräch. Heute habe ich aber die Kündigung zum Ende der Probezeit erhalten. Ist das überhaupt erlaubt, so kurzfristig und trotz Lob? Was sind meine Rechte in der Probezeit?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Ich hatte für letzte Woche Urlaub genehmigt bekommen. Leider bin ich direkt am ersten Urlaubstag krank geworden und habe meinem Arbeitgeber sofort eine ärztliche Arbeitsunfähigkeitsbescheinigung geschickt. Zählen diese Krankheitstage jetzt trotzdem als Urlaub oder bekomme ich die Urlaubstage zurückerstattet?"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Ich arbeite auf dem Bau. Laut Vertrag muss ich spezielle Sicherheitsschuhe der Klasse S3 und eine Schnittschutzhose tragen. Mein Arbeitgeber stellt zwar Helm und Handschuhe, sagt aber, Schuhe und Hose müsse ich selbst kaufen, da das persönliche Ausstattung sei. Stimmt das? Muss der Arbeitgeber nicht für vorgeschriebene persönliche Schutzausrüstung (PSA) aufkommen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Laura",
+            "timestamp": "vor 45 Minuten",
+            "content": "Unbezahlte Überstunden sind leider weit verbreitet, aber eigentlich nicht legal! Dein Arbeitgeber ist verpflichtet, angeordnete Überstunden zu vergüten oder durch Freizeit auszugleichen. Du solltest deine Stunden genau dokumentieren und dann die Bezahlung oder Freizeitausgleich einfordern. Das ist dein gutes Recht!"
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ganz klar: Wenn du während deines genehmigten Urlaubs krank wirst und dies durch ein ärztliches Attest nachweist, gehen dir diese Urlaubstage nicht verloren. Die durch das Attest abgedeckten Tage müssen dir wieder gutgeschrieben werden und du kannst den Urlaub später nachholen. Wichtig ist die rechtzeitige Krankmeldung!"
+        },
+        {
+            "id": "c",
+            "author": "Jens",
+            "timestamp": "vor 5 Stunden",
+            "content": "Nach Ablauf der sechsmonatigen Wartezeit greift das Kündigungsschutzgesetz. Dann braucht der Arbeitgeber einen triftigen Grund für eine Kündigung – betriebsbedingt, personenbedingt oder verhaltensbedingt. Eine Kündigung muss dann sozial gerechtfertigt sein und es gelten längere Kündigungsfristen. Einfach so kündigen geht dann nicht mehr."
+        },
+        {
+            "id": "d",
+            "author": "Michael",
+            "timestamp": "vor 1 Stunde",
+            "content": "Such das Gespräch mit deinem Chef. Erkläre ruhig deine Situation und Belastungsgrenze. Vielleicht könnt ihr gemeinsam überlegen, wie Aufgaben besser geplant werden können. Du darfst Überstunden auch ablehnen, besonders wenn sie unbezahlt sind. Eine klare, aber respektvolle Kommunikation ist hier entscheidend."
+        },
+        {
+            "id": "e",
+            "author": "Monika",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wenn man krank ist, muss man den Arbeitgeber unverzüglich informieren, am besten noch vor Arbeitsbeginn anrufen oder eine E-Mail schreiben. Die ärztliche Bescheinigung (AU) muss dann meist spätestens am dritten Krankheitstag vorliegen. Das ist wichtig, damit man weiterhin sein Gehalt bekommt (Lohnfortzahlung)."
+        },
+        {
+            "id": "f",
+            "author": "Anja",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ja, das ist leider erlaubt. Innerhalb der vereinbarten Probezeit (maximal 6 Monate) können sowohl Arbeitgeber als auch Arbeitnehmer das Arbeitsverhältnis mit einer verkürzten Frist von meist zwei Wochen kündigen, ohne einen Grund angeben zu müssen. Vorheriges Lob ändert daran rechtlich nichts. Prüfe die genaue Frist in deinem Vertrag."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "b",
+        "4": "x"
+    }
+}

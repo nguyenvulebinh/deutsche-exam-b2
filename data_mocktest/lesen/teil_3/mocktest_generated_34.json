@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsvertrag und Kündigung",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Stefan",
+            "situation": "Ich habe vor drei Monaten in einer Werkstatt angefangen zu arbeiten. Wir hatten nur ein mündliches Gespräch, in dem mir auch bezahlte Überstunden zugesagt wurden. Einen schriftlichen Vertrag habe ich nie bekommen. Nun weigert sich mein Chef, die Überstunden zu zahlen und meint, das sei nie vereinbart worden. Gilt unsere mündliche Abmachung denn gar nicht? Was kann ich tun?"
+        },
+        {
+            "id": 2,
+            "name": "Julia",
+            "situation": "Ich bin total geschockt. Ich arbeite seit fast sechs Monaten in einem Büro und meine Probezeit endet in zwei Wochen. Eben habe ich meine Kündigung erhalten, gültig in 14 Tagen. Letzte Woche gab es noch Lob vom Teamleiter! Muss der Arbeitgeber denn keinen Grund angeben, wenn er mich in der Probezeit kündigt? Ist diese kurze Frist überhaupt korrekt?"
+        },
+        {
+            "id": 3,
+            "name": "Markus",
+            "situation": "Mein befristeter Arbeitsvertrag läuft nächsten Monat aus. Ich arbeite gerne hier und würde die Stelle gern behalten, am liebsten natürlich unbefristet. Mein Vorgesetzter hat sich aber noch gar nicht dazu geäußert. Habe ich nach einer bestimmten Zeit vielleicht automatisch Anspruch auf eine Festanstellung oder kann der Vertrag einfach so enden?"
+        },
+        {
+            "id": 4,
+            "name": "Anna",
+            "situation": "Mir wurde leider auch während der Probezeit gekündigt, mit der normalen Frist von zwei Wochen. Ich verstehe, dass das rechtlich wohl in Ordnung ist, auch wenn es enttäuschend ist. Meine Frage ist aber: Habe ich das Recht, von meinem Arbeitgeber zu erfahren, was der konkrete Grund für die Kündigung war? Es würde mir für meine zukünftige Jobsuche helfen."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Rechtshelfer",
+            "timestamp": "vor 45 Minuten",
+            "content": "Grundsätzlich sind auch mündliche Arbeitsverträge gültig. Das Problem ist die Beweisbarkeit. Wenn Sie keine Zeugen für die Absprache über bezahlte Überstunden haben und nichts Schriftliches existiert, ist es sehr schwer, diesen Anspruch durchzusetzen. Versuchen Sie, nachträglich eine schriftliche Bestätigung zu erhalten, aber die Chancen stehen leider nicht gut."
+        },
+        {
+            "id": "b",
+            "author": "ExperteArbeitsrecht",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ja, das ist korrekt. Während der vereinbarten Probezeit (maximal 6 Monate) kann das Arbeitsverhältnis von beiden Seiten mit einer Frist von zwei Wochen gekündigt werden, sofern im Vertrag nichts anderes steht. Ein Grund muss für diese Kündigung nicht angegeben werden. Der allgemeine Kündigungsschutz greift in der Regel erst nach sechs Monaten."
+        },
+        {
+            "id": "c",
+            "author": "Beraterin_ जॉब",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ein befristeter Vertrag endet automatisch zum vereinbarten Zeitpunkt, eine Kündigung ist nicht nötig. Einen automatischen Anspruch auf einen unbefristeten Vertrag gibt es normalerweise nicht, außer bei bestimmten Fällen von Kettenbefristungen. Sprechen Sie unbedingt proaktiv und rechtzeitig Ihren Vorgesetzten auf eine mögliche Weiterbeschäftigung an."
+        },
+        {
+            "id": "d",
+            "author": "AdminProfi",
+            "timestamp": "vor 30 Minuten",
+            "content": "Wichtig ist, dass alle wesentlichen Änderungen eines bestehenden Arbeitsverhältnisses immer schriftlich festgehalten werden sollten. Das betrifft Gehaltserhöhungen, neue Aufgabenbereiche oder geänderte Arbeitszeiten. Ein Nachtrag zum Arbeitsvertrag schafft hier Klarheit für beide Seiten und vermeidet spätere Missverständnisse."
+        },
+        {
+            "id": "e",
+            "author": "Gewerkschaftler72",
+            "timestamp": "vor 8 Stunden",
+            "content": "Bei einer betriebsbedingten Kündigung von festangestellten Mitarbeitern muss der Arbeitgeber soziale Aspekte berücksichtigen (Sozialauswahl). Dazu zählen Betriebszugehörigkeit, Alter, Unterhaltspflichten. Die Kündigungsfristen richten sich dann nach der Dauer der Betriebszugehörigkeit und es kann Anspruch auf eine Abfindung bestehen."
+        },
+        {
+            "id": "f",
+            "author": "Mitfühlende_Seele",
+            "timestamp": "vor 1 Tag",
+            "content": "Ohje, das kenne ich von einem Freund. Der hatte auch ständig Ärger wegen mündlicher Zusagen, die dann nicht eingehalten wurden. Manche Arbeitgeber sind da echt schwierig. Es ist immer besser, alles schriftlich zu haben, aber hinterher ist man immer schlauer. Tut mir leid, dass du diesen Stress hast!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

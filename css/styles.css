@@ -21,6 +21,18 @@ body {
     white-space: pre-line;
 }
 
+.test-instructions {
+    background-color: #e6f2ff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-left: 4px solid #007bff;
+}
+
+.test-instructions p {
+    margin: 5px 0;
+}
+
 .test-container {
     display: flex;
     gap: 20px;
@@ -63,6 +75,12 @@ body {
     text-align: center;
 }
 
+.answer-section-title {
+    margin-bottom: 15px;
+    color: #007bff;
+}
+
+/* Answer grid (for both Teil 1 and Teil 3) */
 .answer-grid {
     display: grid;
     grid-template-columns: 30px repeat(8, 30px);
@@ -72,6 +90,15 @@ body {
     max-width: 500px;
     margin: 0 auto 20px;
     justify-content: center;
+}
+
+/* Adjust grid for Teil 3 (7 columns instead of 8) */
+.answer-grid.teil-3 {
+    grid-template-columns: 30px repeat(7, 30px);
+}
+
+.grid-row {
+    display: contents;
 }
 
 .grid-header {
@@ -161,6 +188,33 @@ footer {
     color: #777;
 }
 
+/* Specific styles for Lesen Teil 3 */
+.post {
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    position: relative;
+}
+
+.post h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.post .timestamp {
+    font-size: 12px;
+    color: #666;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.correct-answer {
+    border: 2px solid #28a745;
+    background-color: rgba(40, 167, 69, 0.2);
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .test-container {
@@ -171,10 +225,17 @@ footer {
         padding: 8px 16px;
     }
     .answer-grid {
-        grid-template-columns: 30px repeat(8, 30px);
         min-width: 280px;
     }
     .grid-cell, .grid-header {
         font-size: 12px;
     }
+}
+
+.section-title {
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #ddd;
+    color: #333;
 } 

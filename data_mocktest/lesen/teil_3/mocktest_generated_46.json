@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Ich habe vor sieben Monaten in meiner Firma angefangen. Bei der Einstellung wurde mir mündlich zugesichert, dass ich nach sechs Monaten eine Gehaltserhöhung und mehr Verantwortung bekommen würde. Das ist jetzt einen Monat her, aber nichts ist passiert. Mein Chef meint, er könne sich an so eine Zusage nicht erinnern. Habe ich ohne schriftlichen Nachweis überhaupt eine Chance, das durchzusetzen?"
+        },
+        {
+            "id": 2,
+            "name": "Lena",
+            "situation": "Ich hatte letzte Woche offiziell Urlaub genehmigt bekommen. Leider bin ich am zweiten Urlaubstag krank geworden und war für drei Tage krankgeschrieben, was ich auch sofort mit Attest gemeldet habe. Mein Arbeitgeber hat diese drei Tage trotzdem als Urlaubstage gewertet. Darf er das? Ich dachte, Krankheitstage im Urlaub zählen nicht als Urlaub."
+        },
+        {
+            "id": 3,
+            "name": "Markus",
+            "situation": "Ich arbeite seit 12 Jahren in meinem Betrieb. Nun wurde mir leider aus betriebsbedingten Gründen gekündigt. In meinem Kündigungsschreiben steht eine Frist von nur einem Monat zum Monatsende. Das kommt mir sehr kurz vor für meine lange Betriebszugehörigkeit. Gibt es da nicht gesetzliche Regelungen, die längere Fristen vorschreiben?"
+        },
+        {
+            "id": 4,
+            "name": "Sabine",
+            "situation": "Ich bin total geschockt. Ich war jetzt fast am Ende meiner sechsmonatigen Probezeit und dachte eigentlich, es läuft gut. Zwar gab es keine formellen Feedbackgespräche, aber mein direkter Vorgesetzter hat mich zwischendurch gelobt. Gestern habe ich nun ohne Angabe von konkreten Gründen die Kündigung erhalten, mit der kurzen Frist von zwei Wochen. Ist das rechtens, so kurzfristig und ohne Vorwarnung in der Probezeit? Ich verstehe die Welt nicht mehr."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Stefan",
+            "timestamp": "vor 45 Minuten",
+            "content": "Mündliche Zusagen sind rechtlich zwar theoretisch bindend, aber in der Praxis ohne Zeugen oder schriftliche Bestätigung kaum beweisbar. Dein Chef ist leider im Recht, wenn er sich \"nicht erinnert\". Für die Zukunft: Wichtige Absprachen immer schriftlich festhalten, z.B. in einer Gesprächsnotiz oder per E-Mail bestätigen lassen. Konzentriere dich jetzt auf gute Leistung."
+        },
+        {
+            "id": "b",
+            "author": "Anja",
+            "timestamp": "vor 2 Stunden",
+            "content": "Dein Arbeitgeber liegt da falsch. Wenn du während deines genehmigten Urlaubs krank wirst und das durch ein ärztliches Attest nachweisen kannst, gelten diese Tage nicht als Urlaubstage. Sie müssen dir wieder gutgeschrieben werden. Sprich ihn darauf an und verweise auf § 9 Bundesurlaubsgesetz."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Da hast du absolut recht, die Frist ist zu kurz! Die gesetzliche Kündigungsfrist für den Arbeitgeber verlängert sich mit der Dauer der Betriebszugehörigkeit. Nach 12 Jahren Betriebszugehörigkeit beträgt die Kündigungsfrist laut § 622 BGB fünf Monate zum Ende eines Kalendermonats, nicht nur einen Monat. Du solltest dagegen vorgehen!"
+        },
+        {
+            "id": "d",
+            "author": "Maria",
+            "timestamp": "vor 1 Stunde",
+            "content": "Eine Kündigung ist immer hart, besonders wenn man schon lange dabei ist. Ich wurde auch mal nach vielen Jahren entlassen. Wichtig ist, dass du dich sofort bei der Agentur für Arbeit meldest, sonst gibt es Probleme mit dem Arbeitslosengeld. Kopf hoch, oft ist es auch eine Chance für was Neues!"
+        },
+        {
+            "id": "e",
+            "author": "Thomas",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wer krank ist, ist krank. Wichtig ist, dass man sich immer sofort am ersten Tag beim Arbeitgeber krankmeldet, am besten noch vor Arbeitsbeginn. Das Attest muss dann meist spätestens am dritten Tag vorliegen, manchmal aber auch schon früher – schau in deinen Arbeitsvertrag!"
+        },
+        {
+            "id": "f",
+            "author": "Laura",
+            "timestamp": "vor 8 Stunden",
+            "content": "Viele Chefs versprechen gerne mal was, um die Leute bei Laune zu halten. Am Ende zählt aber meist nur, was im Vertrag steht. Ich finde das nicht fair, aber so ist die Realität oft. Man sollte sich nie auf mündliche Sachen verlassen, das führt nur zu Enttäuschungen im Berufsleben."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

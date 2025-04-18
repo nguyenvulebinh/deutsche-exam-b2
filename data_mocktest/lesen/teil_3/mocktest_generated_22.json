@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Markus",
+            "situation": "Ich arbeite als IT-Spezialist mit einem 40-Stunden-Vertrag. In letzter Zeit erwartet mein Chef oft, dass ich länger bleibe, um dringende Projekte abzuschließen, was wöchentlich 5-6 zusätzliche Stunden bedeutet. Das wird nie offiziell angeordnet, sondern eher vorausgesetzt. Mein Vertrag sagt nichts über Überstundenvergütung oder Freizeitausgleich. Muss ich das einfach so hinnehmen oder steht mir eine Vergütung oder ein Ausgleich zu?"
+        },
+        {
+            "id": 2,
+            "name": "Julia",
+            "situation": "Ich bin im fünften Monat meiner sechsmonatigen Probezeit. Letzte Woche wurde ich von meiner Vorgesetzten für meine gute Arbeit gelobt. Heute habe ich völlig unerwartet die Kündigung zum Ende der zweiwöchigen Frist erhalten, ohne Angabe von Gründen. Ich bin total verwirrt – ist das überhaupt rechtens, besonders nach dem Lob? Kann man in der Probezeit so einfach ohne Grund gekündigt werden?"
+        },
+        {
+            "id": 3,
+            "name": "Ahmed",
+            "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit auf Glatteis ausgerutscht und habe mir das Handgelenk leicht verletzt. Ich bin mir unsicher, ob das als Arbeitsunfall zählt und über die Versicherung abgedeckt ist. Muss ich das meinem Arbeitgeber melden, auch wenn es im Moment nicht so schlimm erscheint? Was ist, wenn doch Spätfolgen auftreten?"
+        },
+        {
+            "id": 4,
+            "name": "Tanja",
+            "situation": "Ich arbeite in einem Hotel mit einer sehr genauen Kleiderordnung (Uniform: bestimmte Bluse, Rock, Tuch). Besonders im Sommer finde ich das Material der vorgeschriebenen Bluse sehr unangenehm. Darf ich eine optisch sehr ähnliche Bluse aus einem angenehmeren Stoff tragen? Oder sind kleine Anpassungen für mehr Komfort, wie z.B. die Ärmel etwas hochkrempeln, erlaubt, ohne dass ich Ärger bekomme? Es geht mir nicht um die Kosten."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Leon",
+            "timestamp": "vor 8 Stunden",
+            "content": "Das kenne ich auch, der Druck im Job nimmt oft überhand. Wichtig ist, dass du auf deine Gesundheit achtest! Vielleicht kannst du mal mit Kollegen oder dem Betriebsrat sprechen, ob die Arbeitslast generell zu hoch ist. Manchmal hilft auch ein offenes Gespräch mit dem Chef über Prioritäten, aber rechtlich kann ich dir da leider nichts Genaues sagen."
+        },
+        {
+            "id": "b",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Überstunden müssen in der Regel vom Arbeitgeber angeordnet und entweder bezahlt oder durch Freizeit ausgeglichen werden. Eine pauschale Abgeltung im Vertrag ist nur begrenzt möglich. Eine reine Erwartungshaltung des Chefs reicht nicht aus. Prüfe deinen Arbeitsvertrag und eventuell eine Betriebsvereinbarung genau. Ansonsten solltest du das Gespräch suchen und eine klare Regelung fordern."
+        },
+        {
+            "id": "c",
+            "author": "Dieter",
+            "timestamp": "vor 1 Tag",
+            "content": "Eine Kündigung ist immer hart. Wichtig ist: Nach der Probezeit gilt meist das Kündigungsschutzgesetz (in Betrieben mit mehr als 10 Mitarbeitern). Dann braucht der Arbeitgeber einen triftigen Grund (betriebsbedingt, personenbedingt, verhaltensbedingt) und die Kündigungsfristen sind länger, je nach Dauer der Betriebszugehörigkeit. Gegen eine ungerechtfertigte Kündigung kann man klagen."
+        },
+        {
+            "id": "d",
+            "author": "Sandra",
+            "timestamp": "vor 30 Minuten",
+            "content": "Bei vorgeschriebener Schutzkleidung (Helm, Sicherheitsschuhe etc.) muss der Arbeitgeber die Kosten tragen, das ist im Arbeitsschutzgesetz geregelt. Bei \"normaler\" Berufskleidung oder Uniformen, die auch theoretisch privat getragen werden könnten, sieht es oft anders aus, da kann eine Kostenbeteiligung des Arbeitnehmers vereinbart werden. Kommt immer auf den Einzelfall und die Art der Kleidung an."
+        },
+        {
+            "id": "e",
+            "author": "Klaus",
+            "timestamp": "vor 50 Minuten",
+            "content": "Ja, das ist leider rechtens. Während der vereinbarten Probezeit (maximal 6 Monate) können sowohl Arbeitgeber als auch Arbeitnehmer das Arbeitsverhältnis mit einer Frist von zwei Wochen kündigen, ohne dass Gründe genannt werden müssen (§ 622 Abs. 3 BGB). Vorheriges Lob oder gute Leistungen ändern daran rechtlich nichts. Das ist natürlich trotzdem menschlich enttäuschend."
+        },
+        {
+            "id": "f",
+            "author": "Yasmin",
+            "timestamp": "vor 4 Stunden",
+            "content": "Unfälle auf dem direkten Weg zur oder von der Arbeit gelten als Arbeitsunfälle (sog. Wegeunfälle) und sind über die gesetzliche Unfallversicherung abgedeckt. Du solltest den Unfall unbedingt deinem Arbeitgeber melden und sicherheitshalber einen Arzt aufsuchen, am besten einen Durchgangsarzt der Berufsgenossenschaft. Das ist wichtig für eventuelle spätere Ansprüche."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "e",
+        "3": "f",
+        "4": "x"
+    }
+}

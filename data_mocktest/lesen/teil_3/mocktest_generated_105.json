@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrecht Kompakt",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich bin seit fünf Jahren fest angestellt. Seit letzter Woche bin ich wegen einer Grippe krankgeschrieben. Gestern habe ich per Post eine ordentliche, betriebsbedingte Kündigung erhalten, mit Einhaltung der Kündigungsfrist. Ich dachte immer, man kann während einer Krankheit nicht gekündigt werden? Stimmt das, oder ist die Kündigung trotzdem wirksam?"
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich habe vor drei Wochen eine neue Stelle angefangen. Im Vorstellungsgespräch wurde alles mündlich vereinbart, einen schriftlichen Vertrag habe ich bisher nicht. Nun soll ich ganz andere Aufgaben erledigen als besprochen. Mein Chef tut so, als hätten wir das nie anders vereinbart. Ist so ein mündlicher Arbeitsvertrag überhaupt gültig und was kann ich jetzt tun?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Auf dem Weg zur Arbeit hatte ich gestern einen Fahrradunfall und habe mir das Handgelenk verletzt. Ich bin einen kleinen Umweg gefahren, um meine Tochter vorher im Kindergarten abzugeben, der aber nah an meiner normalen Strecke liegt. Zählt das trotzdem als Wegeunfall, der von der gesetzlichen Unfallversicherung abgedeckt ist?"
+        },
+        {
+            "id": 4,
+            "name": "Julia",
+            "situation": "Ich bin seit fast sechs Monaten in meiner neuen Firma, die Probezeit endet bald. Bisher lief alles gut, ich habe positives Feedback bekommen. Allerdings war ich während der Probezeit eine Woche krankgeschrieben (ärztliches Attest liegt vor). Nun möchte mein Chef, dass ich einer Verlängerung der Probezeit um einen Monat zustimme, begründet mit meiner Fehlzeit. Ist das überhaupt erlaubt und muss ich das unterschreiben?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "StefanM",
+            "timestamp": "vor 2 Stunden",
+            "content": "Hallo Markus, ja, auch mündliche Arbeitsverträge sind grundsätzlich gültig. Das Problem ist oft der Nachweis dessen, was genau vereinbart wurde. Dein Arbeitgeber ist aber nach dem Nachweisgesetz verpflichtet, dir spätestens einen Monat nach Arbeitsbeginn die wesentlichen Vertragsbedingungen schriftlich auszuhändigen. Fordere das ein!"
+        },
+        {
+            "id": "b",
+            "author": "Anja82",
+            "timestamp": "vor 45 Minuten",
+            "content": "Achtung bei Krankheit in der Probezeit! Da gelten oft kürzere Kündigungsfristen und der Kündigungsschutz ist geringer. Man kann auch dann gekündigt werden. Ganz anders ist es natürlich, wenn man eine Krankheit nur vortäuscht – das kann sogar zur fristlosen Kündigung führen!"
+        },
+        {
+            "id": "c",
+            "author": "Berater_Klaus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei Arbeitsverträgen muss man genau aufpassen, besonders bei Befristungen. Ist die Befristung ohne Sachgrund erfolgt und länger als zwei Jahre? Oder gibt es unklare Klauseln im schriftlichen Vertrag? Da sollte man im Zweifel rechtlichen Rat einholen, bevor man unterschreibt oder wenn es Probleme gibt."
+        },
+        {
+            "id": "d",
+            "author": "Rechts-Info",
+            "timestamp": "vor 1 Stunde",
+            "content": "Hallo Lena, eine Krankheit schützt leider nicht generell vor einer ordentlichen Kündigung. Wenn die Kündigung aus anderen Gründen erfolgt (z.B. betriebsbedingt) und die Fristen eingehalten werden, ist sie oft wirksam, auch wenn du gerade krankgeschrieben bist. Die Krankheit selbst darf aber nicht der Kündigungsgrund sein. Prüfe die Begründung genau!"
+        },
+        {
+            "id": "e",
+            "author": "Sicherheitsfan",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ein Unfall direkt am Arbeitsplatz, also im Betriebsgelände während der Arbeitszeit, ist normalerweise über die Berufsgenossenschaft versichert. Wichtig ist, dass der Unfall in direktem Zusammenhang mit der beruflichen Tätigkeit steht. Also zum Beispiel nicht unbedingt in der Kantine während der Pause. Sofort melden ist wichtig!"
+        },
+        {
+            "id": "f",
+            "author": "Mobilitaetsexperte",
+            "timestamp": "vor 30 Minuten",
+            "content": "Hallo Fatima, das sollte normalerweise als Wegeunfall gelten. Der direkte Weg zur Arbeit ist versichert. Notwendige Umwege, wie das Abgeben von Kindern in einer Betreuungseinrichtung, um die Arbeit überhaupt antreten zu können, unterbrechen den Versicherungsschutz in der Regel nicht. Melde den Unfall unbedingt deinem Arbeitgeber und der Versicherung!"
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "a",
+        "3": "f",
+        "4": "x"
+    }
+}

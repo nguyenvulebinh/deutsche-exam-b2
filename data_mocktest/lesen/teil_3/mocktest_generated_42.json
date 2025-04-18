@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitssicherheit und Unfälle",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Ute",
+            "situation": "Ich bin heute auf dem Weg von der Arbeit nach Hause mit dem Fahrrad gestürzt. Zum Glück ist außer ein paar Schrammen nichts Schlimmeres passiert. Mein Mann meint aber, ich müsse das unbedingt dem Arbeitgeber melden, auch wegen möglicher Spätfolgen. Ist das nicht übertrieben? Ich bin noch in der Probezeit und möchte wirklich keinen Ärgent."
+        },
+        {
+            "id": 2,
+            "name": "Liane",
+            "situation": "Ich habe gerade die Stelle gewechselt und in meinem neuen Betrieb findet bald ein Ausflug in einen Klettergarten statt. Einerseits will ich keine Spielverderberin sein, andererseits ist Klettern gar nicht mein Ding und ich mache mir Sorgen: Was ist, wenn bei so einer Aktion etwas passiert? Eine Kollegin meinte, wir wären da auch unfallversichert, da die Firma das ja organisiert. Stimmt das?"
+        },
+        {
+            "id": 3,
+            "name": "Wolfgang",
+            "situation": "Letzte Woche bin ich kurz rausgegangen, um eine Zigarette zu rauchen. Dabei bin ich draußen unglücklich gestolpert und habe mir das Handgelenk gebrochen. Nun behauptet mein Chef, die gesetzliche Unfallversicherung zahle nicht, da die Raucherpause eine private Unterbrechung war. Stimmt das wirklich? Das wäre fatal, auch wegen der Folgekosten!"
+        },
+        {
+            "id": 4,
+            "name": "Achim",
+            "situation": "Ich bin Aufzugsmonteur, mein Job ist körperlich sehr anstrengend und ich habe zunehmend Probleme mit den Gelenken. Mein Arzt meinte, ich könne wohl nicht mehr Vollzeit arbeiten. Ich mache mir Sorgen wegen des Geldes. Er sprach eine 'Erwerbsminderungsrente' an. Weiß jemand, wo ich verlässliche Informationen dazu bekommen kann, wer dafür zuständig ist?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Petra",
+            "timestamp": "vor 2 Stunden",
+            "content": "Unbedingt melden! Jeder Unfall auf dem direkten Weg zur oder von der Arbeit ist ein sogenannter Wegeunfall und fällt unter die gesetzliche Unfallversicherung. Auch kleine Verletzungen melden, falls Spätfolgen auftreten. Dass du in der Probezeit bist, spielt für den Versicherungsschutz absolut keine Rolle. Meldung beim Arbeitgeber ist Pflicht!"
+        },
+        {
+            "id": "b",
+            "author": "Markus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Der Arbeitgeber hat eine Fürsorgepflicht. Dazu gehört, den Arbeitsplatz sicher zu gestalten, also z.B. für intakte Maschinen oder ergonomische Bürostühle zu sorgen. Bei Verstößen kann man sich an den Betriebsrat oder die Berufsgenossenschaft wenden. Sicherheit am Arbeitsplatz ist extrem wichtig!"
+        },
+        {
+            "id": "c",
+            "author": "Sabine",
+            "timestamp": "vor 45 Minuten",
+            "content": "Das ist leider korrekt. Die gesetzliche Unfallversicherung greift nur bei Tätigkeiten, die in direktem Zusammenhang mit der Arbeit stehen. Private Unterbrechungen wie Raucherpausen oder der Weg zur Kantine außerhalb des Betriebsgeländes sind in der Regel nicht versichert. Da hattest du leider Pech."
+        },
+        {
+            "id": "d",
+            "author": "Jens",
+            "timestamp": "vor 8 Stunden",
+            "content": "Es kommt darauf an. Wenn der Ausflug klar dem Betriebszweck dient, z.B. Teambuilding fördert, und vom Chef organisiert oder zumindest gebilligt wird, besteht meist Versicherungsschutz. Ist es aber eine rein freiwillige Freizeitveranstaltung ohne betrieblichen Bezug, dann eher nicht. Frag am besten direkt bei der Personalabteilung nach, wie es in eurem Fall geregelt ist."
+        },
+        {
+            "id": "e",
+            "author": "Nadine",
+            "timestamp": "vor 1 Stunde",
+            "content": "Solche Ausflüge finde ich persönlich auch immer schwierig. Gerade Klettern birgt ja schon ein gewisses Risiko. Ich würde da auch nicht mitmachen wollen, ehrlich gesagt. Man sollte sich nicht unter Druck gesetzt fühlen, nur weil es eine Firmenveranstaltung ist. Deine Gesundheit geht vor!"
+        },
+        {
+            "id": "f",
+            "author": "Harald",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wenn Gesundheitsprobleme durch die Arbeit entstehen, spricht man von einer Berufskrankheit. Ob deine Gelenkprobleme dazuzählen, muss geprüft werden. Bei anerkannten Berufskrankheiten gibt es Unterstützung, z.B. Anpassung des Arbeitsplatzes oder Umschulung. Sprich am besten nochmal mit deinem Arzt oder der Krankenkasse darüber."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "d",
+        "3": "c",
+        "4": "x"
+    }
+}

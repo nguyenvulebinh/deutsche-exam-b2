@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrecht und Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Leo",
+            "situation": "Ich habe vor einem Monat eine neue Stelle angefangen und bin noch in der Probezeit (6 Monate laut Vertrag). Letzte Woche war ich leider 5 Tage krankgeschrieben. Jetzt mache ich mir große Sorgen, dass mein Arbeitgeber mich deswegen kündigen könnte. Ist eine Kündigung während der Probezeit wegen einer kurzen Krankheit einfach so möglich?"
+        },
+        {
+            "id": 2,
+            "name": "Sara",
+            "situation": "Bei meinem alten Job habe ich oft Überstunden gemacht, die mein Chef immer nur mündlich angeordnet und nie schriftlich erfasst hat. Jetzt habe ich gekündigt und möchte mir die angesammelten Stunden (sicher über 50!) auszahlen lassen. Mein Ex-Chef meint aber, ohne Nachweis gäbe es nichts. Was kann ich tun?"
+        },
+        {
+            "id": 3,
+            "name": "Omar",
+            "situation": "Ich arbeite in einer Großküche. Laut Arbeitsvertrag muss ich spezielle Sicherheitsschuhe tragen, die die Firma stellt. Leider sind diese Schuhe extrem unbequem und verursachen mir starke Fußschmerzen. Mein Vorgesetzter sagt, ich muss genau diese tragen. Stimmt das? Kann ich nicht eigene, passende Sicherheitsschuhe besorgen?"
+        },
+        {
+            "id": 4,
+            "name": "Nadja",
+            "situation": "Ich hatte vor einigen Wochen ein sehr positives Gespräch mit meinem Chef über eine baldige Beförderung und Gehaltserhöhung. Er hat dies danach auch kurz in einer E-Mail erwähnt ('Bezüglich unseres Gesprächs über Ihre Weiterentwicklung...'), aber ohne die Zusage konkret zu bestätigen. Jetzt wirkt er zögerlich. Ist diese E-Mail ein ausreichender Beweis? Was kann ich tun, um die Zusage durchzusetzen, ohne das gute Verhältnis zu ihm zu gefährden?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Ben",
+            "timestamp": "vor 30 Minuten",
+            "content": "Mündliche Zusagen für Beförderungen oder Gehaltserhöhungen sind rechtlich schwierig durchzusetzen, wenn man keine eindeutigen Beweise oder Zeugen hat. Eine vage E-Mail, die das Thema nur erwähnt, aber nichts Konkretes zusagt, reicht meistens leider nicht aus. Man sollte immer auf einer schriftlichen Vertragsänderung bestehen."
+        },
+        {
+            "id": "b",
+            "author": "Aisha",
+            "timestamp": "vor 6 Stunden",
+            "content": "Normalerweise müssen Überstunden entweder bezahlt oder durch Freizeit ausgeglichen werden. Was bei dir gilt, steht im Arbeits- oder Tarifvertrag. Viele Firmen geben lieber Freizeitausgleich. Wichtig ist halt, dass die Überstunden korrekt angeordnet und erfasst wurden, sonst gibt's später Probleme."
+        },
+        {
+            "id": "c",
+            "author": "Klaus",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wenn die Probezeit vorbei ist, braucht der Arbeitgeber für eine Kündigung einen triftigen Grund – betrieblich, verhaltens- oder personenbedingt. Eine kurze Krankheit ist da meist kein ausreichender Grund, außer sie tritt sehr häufig auf. Die gesetzlichen Kündigungsfristen sind dann auch deutlich länger als die zwei Wochen in der Probezeit."
+        },
+        {
+            "id": "d",
+            "author": "Julia",
+            "timestamp": "vor 55 Minuten",
+            "content": "Dein Arbeitgeber muss dir die notwendige Persönliche Schutzausrüstung (PSA), also auch Sicherheitsschuhe, stellen. Diese muss aber geeignet sein und darf keine Gesundheitsbeschwerden verursachen. Sprich die Schmerzen unbedingt beim Vorgesetzten oder Betriebsarzt an. Eventuell gibt es passende Alternativen oder du darfst nachweislich gleichwertige, zertifizierte eigene Schuhe tragen."
+        },
+        {
+            "id": "e",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Krankheit allein ist in der Probezeit normalerweise kein Kündigungsgrund, es sei denn, sie lässt auf eine dauerhafte Arbeitsunfähigkeit schließen. Aber Achtung: Der Arbeitgeber kann während der Probezeit ohne Angabe von Gründen mit kurzer Frist (meist 2 Wochen) kündigen, solange der Grund nicht diskriminierend ist (z.B. *ausschließlich* wegen dieser 5 Krankheitstage). Dies zu beweisen ist aber oft schwer."
+        },
+        {
+            "id": "f",
+            "author": "Mehmet",
+            "timestamp": "vor 4 Stunden",
+            "content": "Ohne schriftliche Dokumentation oder Zeugen ist es extrem schwierig, Überstunden im Nachhinein bezahlt zu bekommen. Mündliche Absprachen sind schwer nachweisbar. Versuch mal, alte E-Mails oder Chatverläufe zu finden, die deine späte Anwesenheit belegen. Für die Zukunft gilt: Immer alles schriftlich festhalten lassen! Evtl. hilft eine Rechtsberatung."
+        }
+    ],
+    "solutions": {
+        "1": "e",
+        "2": "f",
+        "3": "d",
+        "4": "x"
+    }
+}

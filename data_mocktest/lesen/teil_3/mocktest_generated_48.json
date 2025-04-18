@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Stefan",
+            "situation": "Ich verlasse meine Firma zum 31. August dieses Jahres, nachdem ich seit Jahresbeginn dort beschäftigt war. Mein Vertrag sieht einen Jahresurlaub von 24 Tagen vor. Wie viele Urlaubstage stehen mir für dieses Jahr noch genau zu, wenn ich Ende August ausscheide? Ich möchte sichergehen, dass die Abrechnung korrekt ist."
+        },
+        {
+            "id": 2,
+            "name": "Maria",
+            "situation": "Ich arbeite fast täglich 1-2 Stunden länger als vertraglich vereinbart, weil mein Chef mir kurz vor Feierabend zusätzliche Aufgaben gibt. Diese Überstunden werden nirgendwo erfasst. Als ich Bezahlung oder Freizeitausgleich ansprach, meinte er nur, jeder müsse mal mit anpacken. Wie kann ich diese Mehrarbeit nachweisen und habe ich Anspruch auf Vergütung?"
+        },
+        {
+            "id": 3,
+            "name": "Jürgen",
+            "situation": "Ich arbeite auf einer Baustelle. Der Arbeitgeber stellt Helme und Warnwesten, aber er verlangt, dass wir die vorgeschriebenen S3-Sicherheitsschuhe selbst kaufen. Diese sind laut Vorschrift zwingend erforderlich für unsere Tätigkeit. Ist der Arbeitgeber nicht verpflichtet, die Kosten für diese notwendige Schutzausrüstung zu übernehmen?"
+        },
+        {
+            "id": 4,
+            "name": "Lena",
+            "situation": "Ich bin seit zwei Monaten in meiner neuen Firma, also noch in der Probezeit. Letzte Woche war ich drei Tage krankgeschrieben (Grippe, mit Attest). Jetzt mache ich mir Sorgen, dass mein Chef das negativ bewertet und mir deswegen vielleicht noch in der Probezeit kündigt. Kann eine kurze, attestierte Krankheit ein Kündigungsgrund während der Probezeit sein?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Anna",
+            "timestamp": "vor 45 Minuten",
+            "content": "Für Überstunden gilt: Der Arbeitnehmer muss beweisen, dass sie angeordnet oder zumindest vom Chef geduldet wurden und tatsächlich geleistet wurden. Führe am besten ein genaues Protokoll über deine Arbeitszeiten, notiere die Aufgaben und lass dir vielleicht Mails/Anweisungen, die die Mehrarbeit belegen, abspeichern. Grundsätzlich besteht dann Anspruch auf Bezahlung oder Freizeitausgleich."
+        },
+        {
+            "id": "b",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Überstunden sind leider oft normal. Wichtig ist aber, dass die gesetzlichen Höchstarbeitszeiten nicht überschritten werden! Nach 8 Stunden muss Schluss sein, nur in Ausnahmen sind 10 Stunden erlaubt, aber das muss dann ausgeglichen werden. Achtet auch auf eure Pausenzeiten, die sind gesetzlich vorgeschrieben."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei uns im Hotel müssen wir auch eine Uniform tragen, Hemden und Hosen mit Logo. Die Erstausstattung hat die Firma bezahlt, aber für Ersatz oder Reinigung müssen wir teilweise selbst aufkommen. Das ist wohl Verhandlungssache oder im Tarifvertrag geregelt, wie das mit den Kosten für Dienstkleidung aussieht."
+        },
+        {
+            "id": "d",
+            "author": "Mehmet",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ganz klar: Wenn spezielle Schutzausrüstung (PSA) gesetzlich oder durch Unfallverhütungsvorschriften für deine Tätigkeit vorgeschrieben ist – wie z.B. Sicherheitsschuhe auf dem Bau – muss der Arbeitgeber diese kostenlos zur Verfügung stellen. Das steht im Arbeitsschutzgesetz. Die Kosten darf er nicht auf dich abwälzen."
+        },
+        {
+            "id": "e",
+            "author": "Laura",
+            "timestamp": "vor 5 Stunden",
+            "content": "Krank im Urlaub ist ärgerlich, aber die Urlaubstage gehen dadurch nicht verloren, wenn man ein Attest hat! Die Tage werden dann wieder gutgeschrieben. Wichtig ist nur, den Arbeitgeber sofort zu informieren und die Krankschreibung einzureichen. Dann kann man den Urlaub später nachholen."
+        },
+        {
+            "id": "f",
+            "author": "Klaus",
+            "timestamp": "vor 30 Minuten",
+            "content": "Da du in der zweiten Jahreshälfte (nach dem 30.06.) ausscheidest und das Arbeitsverhältnis mehr als sechs Monate bestand, hast du grundsätzlich Anspruch auf den vollen Jahresurlaub, es sei denn, dein Arbeitsvertrag enthält eine wirksame Pro-Rata-Klausel für diesen Fall. Ohne so eine Klausel stehen dir die vollen 24 Tage zu. Prüf deinen Vertrag genau!"
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "a",
+        "3": "d",
+        "4": "x"
+    }
+}

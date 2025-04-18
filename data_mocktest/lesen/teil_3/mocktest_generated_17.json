@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lisa",
+            "situation": "Ich bin seit fast sechs Monaten in meiner neuen Firma, die Probezeit endet nächste Woche. Bisher gab es nur positives Feedback. Gestern erhielt ich überraschend die Kündigung, ohne Angabe von Gründen. Ich bin schockiert und frage mich, ob eine Kündigung so kurz vor Ablauf der Probezeit und trotz guter Leistung überhaupt rechtens ist und was ich tun kann."
+        },
+        {
+            "id": 2,
+            "name": "Sven",
+            "situation": "Ich bin gestern im Lager auf einer nassen Stelle ausgerutscht und habe mir den Ellbogen gestoßen. Es tut nur leicht weh und ist kaum geschwollen, daher habe ich es niemandem gemeldet. Ein Kollege meinte nun, ich müsse jeden Unfall, egal wie klein, sofort melden, schon allein wegen der Versicherung (Berufsgenossenschaft), falls doch Spätfolgen auftreten. Stimmt das?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Mir wurde im Vorstellungsgespräch mündlich zugesichert, dass ich nach der Einarbeitung überwiegend im Homeoffice arbeiten könne. Das war für mich wichtig. Nun steht im Arbeitsvertrag aber klar, dass der Arbeitsort das Büro ist und Homeoffice nur in Ausnahmefällen nach Absprache möglich ist. Gilt die mündliche Zusage trotzdem oder ist der Vertrag bindend?"
+        },
+        {
+            "id": 4,
+            "name": "Jonas",
+            "situation": "Ich plane, demnächst für sechs Monate in Elternzeit zu gehen. Ich weiß, dass mein Arbeitsplatz gesichert ist. Ich bin mir aber unsicher, wie es sich mit meinem Urlaubsanspruch verhält: Verfällt der Urlaubsanspruch für die Zeit, in der ich in Elternzeit bin, oder sammle ich währenddessen weiter Urlaubstage an? Kann mir jemand die Regelung zum Urlaubsanspruch während der Elternzeit erklären?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung während der Probezeit (meist 6 Monate) ist leider fast immer ohne Angabe von Gründen und mit kurzer Frist von 2 Wochen möglich. Das gilt auch ganz kurz vor dem Ende. Gutes Feedback ändert daran nichts, der volle Kündigungsschutz greift erst danach. Da kann man rechtlich meist wenig machen."
+        },
+        {
+            "id": "b",
+            "author": "Maria",
+            "timestamp": "vor 50 Minuten",
+            "content": "Unbedingt jeden Arbeitsunfall, auch wenn er noch so klein erscheint, sofort dem Vorgesetzten melden! Nur so greift der Schutz der Berufsgenossenschaft. Wenn später doch noch Beschwerden (Spätfolgen) auftreten und nichts gemeldet wurde, kann es große Probleme mit der Versicherung geben. Sicher ist sicher!"
+        },
+        {
+            "id": "c",
+            "author": "Stefan",
+            "timestamp": "vor 4 Stunden",
+            "content": "Vorsicht bei mündlichen Zusagen! Was zählt, ist in der Regel das, was schriftlich im Arbeitsvertrag steht. Mündliche Absprachen sind schwer nachweisbar und werden oft vom schriftlichen Vertrag überschrieben. Vertrag immer genau lesen, bevor man unterschreibt, und bei Unstimmigkeiten sofort ansprechen."
+        },
+        {
+            "id": "d",
+            "author": "Britta",
+            "timestamp": "vor 1 Stunde",
+            "content": "Bei einer Kündigung nach der Probezeit gelten die gesetzlichen Kündigungsfristen, die von der Betriebszugehörigkeit abhängen. Dann greift auch das Kündigungsschutzgesetz. Es ist immer gut, den Betriebsrat zu informieren, der kann prüfen, ob die Kündigung sozial gerechtfertigt ist."
+        },
+        {
+            "id": "e",
+            "author": "Ahmed",
+            "timestamp": "vor 3 Stunden",
+            "content": "Unfälle auf dem direkten Arbeitsweg, sogenannte Wegeunfälle, sind auch versichert. Wichtig ist dabei, dass man keinen privaten Umweg gemacht hat. Ein kurzer Stopp zum Tanken ist oft noch okay, aber Einkaufen nicht. Auch einen Wegeunfall sollte man dem Arbeitgeber melden."
+        },
+        {
+            "id": "f",
+            "author": "Lena",
+            "timestamp": "vor 30 Minuten",
+            "content": "Das kenne ich nur zu gut! Mir wurde auch schon viel versprochen, woran sich später keiner mehr erinnern wollte. Sehr ärgerlich sowas! Ich persönlich finde ja flexible Regelungen wie Homeoffice super, aber manche Vorgesetzte sind da einfach noch nicht angekommen. Da hilft oft nur Geduld oder weitersuchen."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Anja",
+            "situation": "Ich arbeite oft 7 Stunden am Stück ohne Pause, weil mein Chef meint, Pausen seien erst ab 8 Stunden vorgeschrieben. Ich fühle mich erschöpft und frage mich, ob ich nach 6 oder 7 Stunden Arbeit nicht doch einen gesetzlichen Anspruch auf eine Pause habe. Wer weiß hier Bescheid?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Ich arbeite auf dem Bau und benötige spezielle Sicherheitsschuhe und einen Helm, wie im Vertrag erwähnt. Mein Arbeitgeber sagt, ich müsse diese selbst kaufen und könne die Kosten ja von der Steuer absetzen. Stimmt das, oder ist der Arbeitgeber nicht verpflichtet, diese notwendige Schutzausrüstung zu bezahlen?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Ich habe im Vorstellungsgespräch mündlich eine 35-Stunden-Woche vereinbart. Im schriftlichen Arbeitsvertrag, den ich leider schon unterschrieben habe, stehen nun aber 40 Stunden. Mein Chef erwartet jetzt die 40 Stunden. Was gilt denn nun – die mündliche Zusage oder der Vertrag?"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Ich habe mir letztes Wochenende beim obligatorischen Betriebsausflug, einem Teambuilding im Kletterpark, den Knöchel verstaucht. Da die Teilnahme für alle Pflicht war, frage ich mich: Zählt dieser Unfall als Arbeitsunfall über die gesetzliche Unfallversicherung, obwohl er nicht am Arbeitsplatz passiert ist?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Stefan",
+            "timestamp": "vor 2 Stunden",
+            "content": "Bei Arbeitsverträgen gilt: Schriftliches hat meist Vorrang vor Mündlichem, besonders bei Kernpunkten wie der Arbeitszeit. Hast du den Vertrag mit 40 Stunden unterschrieben, ist das leider rechtlich bindend. Man sollte Verträge immer genau prüfen *bevor* man unterschreibt. Suche das Gespräch, aber rechtlich ist die Lage schwierig."
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei uns in der Firma sind die Pausen leider unbezahlt, was ich ärgerlich finde. Ob Pausen zur Arbeitszeit zählen oder nicht, hängt oft von der Betriebsvereinbarung oder dem Tarifvertrag ab. Manche Kollegen verzichten lieber auf die lange Mittagspause und gehen früher heim, wenn das flexibel gehandhabt wird."
+        },
+        {
+            "id": "c",
+            "author": "Matthias",
+            "timestamp": "vor 45 Minuten",
+            "content": "Nach mehr als sechs Stunden Arbeit steht dir gesetzlich eine Pause von mindestens 30 Minuten zu. Diese kann auch aufgeteilt werden, z.B. in zweimal 15 Minuten. Das gilt unabhängig davon, ob dein Arbeitstag 7, 8 oder mehr Stunden hat. Dein Chef muss dir diese Pause ermöglichen."
+        },
+        {
+            "id": "d",
+            "author": "Sarah",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wenn es um reine Dienstkleidung geht, z.B. Hemden mit Firmenlogo, die man theoretisch auch privat tragen könnte, sieht die Sache anders aus als bei Schutzkleidung. Hier kann der Arbeitgeber durchaus verlangen, dass man sich an den Kosten beteiligt oder sie selbst trägt. Steuerlich absetzen kann man das oft nur, wenn es typische Berufskleidung ist."
+        },
+        {
+            "id": "e",
+            "author": "Laura",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ganz klar: Wenn persönliche Schutzausrüstung (PSA) gesetzlich vorgeschrieben oder durch eine Gefährdungsbeurteilung für deine Tätigkeit notwendig ist, muss der Arbeitgeber diese kostenlos zur Verfügung stellen und instand halten. Die Kosten sind nicht vom Arbeitnehmer zu tragen. Die Pflicht liegt beim Arbeitgeber."
+        },
+        {
+            "id": "f",
+            "author": "Mehmet",
+            "timestamp": "vor 3 Stunden",
+            "content": "Mein Rat: Immer alles schriftlich festhalten! Mündliche Absprachen sind später schwer zu beweisen. Selbst bei kleinen Änderungen im Joballtag sollte man sich eine kurze schriftliche Bestätigung geben lassen, um Missverständnisse zu vermeiden. Das erspart wirklich viel Ärger im Nachhinein."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}
