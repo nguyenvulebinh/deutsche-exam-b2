@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jonas",
-            "situation": "Ich bin seit vier Monaten in meiner neuen Firma angestellt, die vertraglich vereinbarte Probezeit beträgt sechs Monate. Gestern habe ich überraschend meine Kündigung erhalten, ohne dass ein Grund genannt wurde. Ist das rechtlich überhaupt zulässig? Ich dachte, in Deutschland gäbe es einen allgemeinen Kündigungsschutz."
-        },
-        {
-            "id": 2,
             "name": "Laura",
             "situation": "Ich arbeite als Köchin in einer Großküche. Laut meinem Arbeitsvertrag und den Hygienevorschriften muss ich spezielle rutschfeste Sicherheitsschuhe und einen sauberen Kochkittel tragen. Mein Chef meint, ich müsse diese selbst kaufen und bezahlen. Stimmt das? Immerhin kostet das Set über 100 Euro."
         },
         {
+            "id": 2,
+            "name": "Sabine",
+            "situation": "Ich wurde leider auch während meiner Probezeit nach nur drei Monaten gekündigt. Dass die Kündigung an sich in der Probezeit einfacher ist, habe ich inzwischen verstanden. Aber wie sieht es mit einem Arbeitszeugnis aus? Habe ich Anspruch darauf, auch wenn ich nur so kurz beschäftigt war und es eine Probezeitkündigung ist?"
+        },
+        {
             "id": 3,
-            "name": "Mehmet",
-            "situation": "In meinem Job im Lager arbeite ich häufig Schichten, die 10 Stunden dauern. Mir ist bekannt, dass mir nach sechs Stunden Arbeit eine Pause von 30 Minuten zusteht. Gilt das auch bei längeren Arbeitszeiten oder habe ich bei über neun Stunden Anspruch auf eine zusätzliche Pause?"
+            "name": "Jonas",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Firma angestellt, die vertraglich vereinbarte Probezeit beträgt sechs Monate. Gestern habe ich überraschend meine Kündigung erhalten, ohne dass ein Grund genannt wurde. Ist das rechtlich überhaupt zulässig? Ich dachte, in Deutschland gäbe es einen allgemeinen Kündigungsschutz."
         },
         {
             "id": 4,
-            "name": "Sabine",
-            "situation": "Ich wurde leider auch während meiner Probezeit nach nur drei Monaten gekündigt. Dass die Kündigung an sich in der Probezeit einfacher ist, habe ich inzwischen verstanden. Aber wie sieht es mit einem Arbeitszeugnis aus? Habe ich Anspruch darauf, auch wenn ich nur so kurz beschäftigt war und es eine Probezeitkündigung ist?"
+            "name": "Mehmet",
+            "situation": "In meinem Job im Lager arbeite ich häufig Schichten, die 10 Stunden dauern. Mir ist bekannt, dass mir nach sechs Stunden Arbeit eine Pause von 30 Minuten zusteht. Gilt das auch bei längeren Arbeitszeiten oder habe ich bei über neun Stunden Anspruch auf eine zusätzliche Pause?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "c",
-        "3": "f",
-        "4": "x"
+        "3": "a",
+        "1": "c",
+        "4": "f",
+        "2": "x"
     }
 }

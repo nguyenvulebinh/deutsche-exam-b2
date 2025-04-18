@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Anna",
+            "situation": "Ich hatte Urlaub genehmigt bekommen. Kurz davor wurde ich krank, war beim Arzt und habe eine Krankmeldung für die ersten drei Tage meiner geplanten Urlaubszeit eingereicht. Ich blieb zu Hause, solange ich krankgeschrieben war, und habe dann die restlichen Urlaubstage genommen. Nun hat mein Arbeitgeber die drei Krankheitstage von meinem Jahresurlaub abgezogen. Ist das rechtens?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "In meiner Firma wird regelmäßig erwartet, dass wir Überstunden machen, die auch korrekt bezahlt werden. In letzter Zeit wird es aber immer mehr und es beeinträchtigt mein Privatleben stark. Ich möchte meinem Chef mitteilen, dass ich zukünftig nicht mehr so oft Überstunden leisten kann. Wie spreche ich das am besten an, ohne dass es negative Konsequenzen für mich hat?"
+        },
+        {
+            "id": 3,
+            "name": "Clara",
+            "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit mit dem Fahrrad gestürzt. Es ist zum Glück nicht viel passiert, nur Schürfwunden und Prellungen. Zählt das als Arbeitsunfall bzw. Wegeunfall? Muss ich das melden und vielleicht sogar zu einem speziellen Arzt gehen, auch wenn es nur Kleinigkeiten sind, falls später doch noch etwas sein sollte?"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Letzte Woche bin ich bei der Arbeit über ein Kabel gestolpert und habe mir das Knie geprellt. Ich habe es meinem Vorgesetzten gesagt und Erste Hilfe bekommen, war aber nicht sofort beim Arzt, weil es nicht so schlimm schien. Jetzt, eine Woche später, tut das Knie aber richtig weh. Kann ich das jetzt noch offiziell als Arbeitsunfall melden, um die Behandlung über die Unfallversicherung laufen zu lassen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ganz klar: Wenn du während deines genehmigten Urlaubs krank wirst und das durch ein ärztliches Attest nachweist, gehen diese Tage nicht von deinem Urlaubsanspruch ab. Dein Arbeitgeber muss dir diese Urlaubstage wieder gutschreiben. Sprich ihn darauf an und lege die Krankmeldung vor."
+        },
+        {
+            "id": "b",
+            "author": "Markus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Such das Gespräch mit deinem Chef. Erkläre ihm ruhig und sachlich, warum die häufigen Überstunden für dich problematisch sind (Stichwort Work-Life-Balance). Vielleicht könnt ihr gemeinsam eine Lösung finden, z.B. durch bessere Planung oder Verteilung der Aufgaben. Es geht ja nicht darum, Arbeit zu verweigern, sondern um eine nachhaltige Regelung."
+        },
+        {
+            "id": "c",
+            "author": "Julia",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ja, Unfälle auf dem direkten Weg zur oder von der Arbeit sind über die gesetzliche Unfallversicherung abgedeckt (Wegeunfall). Du solltest das unbedingt deinem Arbeitgeber melden und zur Sicherheit einen Durchgangsarzt (D-Arzt) aufsuchen. Das ist wichtig für die Dokumentation, falls Spätfolgen auftreten."
+        },
+        {
+            "id": "d",
+            "author": "Thomas",
+            "timestamp": "vor 1 Stunde",
+            "content": "Der gesetzliche Mindesturlaub in Deutschland beträgt 24 Werktage bei einer Sechs-Tage-Woche, also 20 Tage bei einer Fünf-Tage-Woche. Oft gewähren Tarifverträge oder Arbeitsverträge aber mehr Tage. Wichtig ist, den Urlaub rechtzeitig zu beantragen und genehmigen zu lassen."
+        },
+        {
+            "id": "e",
+            "author": "Renate",
+            "timestamp": "vor 3 Stunden",
+            "content": "Überstunden müssen entweder bezahlt oder durch Freizeit ausgeglichen werden. Oft gibt es dafür sogar einen Zuschlag. Schau mal in deinen Arbeitsvertrag oder den geltenden Tarifvertrag, wie das bei euch genau geregelt ist. Dein Arbeitgeber muss sich an diese Vereinbarungen halten."
+        },
+        {
+            "id": "f",
+            "author": "Michael",
+            "timestamp": "vor 8 Stunden",
+            "content": "Arbeitssicherheit ist sehr wichtig! Arbeitgeber müssen dafür sorgen, dass Gefahrenquellen minimiert werden. Dazu gehört, Stolperfallen wie lose Kabel zu beseitigen, für ausreichende Beleuchtung zu sorgen und ggf. persönliche Schutzausrüstung zur Verfügung zu stellen. Regelmäßige Unterweisungen sind auch Pflicht."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

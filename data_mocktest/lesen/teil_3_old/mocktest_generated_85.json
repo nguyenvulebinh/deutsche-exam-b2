@@ -1,0 +1,69 @@
+{
+    "thema": "Rund um den Arbeitsvertrag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Elena",
+            "situation": "Ich habe vor einem Monat meine neue Stelle angetreten. Der Arbeitsvertrag wurde mir aber erst nach zwei Wochen zur Unterschrift vorgelegt. Nun stelle ich fest, dass das Gehalt niedriger ist als das, was wir mündlich am Telefon vereinbart hatten. Mein Chef meint, das mündlich Besprochene zählt nicht. Stimmt das wirklich? Ich bin sehr enttäuscht."
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "In meinem Arbeitsvertrag stehe ich als Projektmanager. Seit einigen Wochen muss ich aber fast ausschließlich einfache administrative Tätigkeiten erledigen, die weit unter meiner Qualifikation liegen. Eine Vertragsänderung gab es nicht. Kann mein Arbeitgeber einfach so meine Aufgaben ändern? Ich fühle mich degradiert."
+        },
+        {
+            "id": 3,
+            "name": "Julia",
+            "situation": "Mein befristeter Arbeitsvertrag läuft in vier Wochen aus. Mein Vorgesetzter hat mir vor zwei Monaten mündlich zugesichert, dass ich danach fest übernommen werde. Seitdem habe ich aber nichts mehr gehört und auch nichts Schriftliches bekommen. Kann ich mich auf die mündliche Zusage verlassen oder stehe ich bald ohne Job da?"
+        },
+        {
+            "id": 4,
+            "name": "Stefan",
+            "situation": "Ich bin aktuell in der Probezeit, die laut Vertrag sechs Monate dauert. Leider war ich davon zwei Wochen krankgeschrieben. Mein Arbeitgeber will nun die Probezeit um diese zwei Wochen verlängern, sodass sie insgesamt länger als sechs Monate dauern würde. Ist eine solche Verlängerung der Probezeit wegen Krankheit überhaupt zulässig?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Markus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Grundsätzlich können Arbeitsverträge auch mündlich geschlossen werden und sind dann gültig. Das große Problem ist aber die Beweisbarkeit! Wenn Sie das vereinbarte Gehalt nicht schriftlich nachweisen können, wird es sehr schwer, Ihre Forderung durchzusetzen. Für die Zukunft: Wichtige Punkte immer schriftlich festhalten!"
+        },
+        {
+            "id": "b",
+            "author": "Sandra",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das Direktionsrecht des Arbeitgebers hat Grenzen. Eine wesentliche Änderung der Tätigkeit, die einer Degradierung gleichkommt und nicht mehr der im Vertrag festgelegten Stellenbeschreibung entspricht, ist meist unzulässig. Prüfen Sie Ihren Vertrag genau auf Klauseln zur Aufgabenübertragung. Im Zweifel Rechtsberatung suchen!"
+        },
+        {
+            "id": "c",
+            "author": "Anna",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei Gehaltsverhandlungen ist Vorsicht geboten. Was mündlich besprochen wird, klingt oft gut. Entscheidend ist aber, was am Ende im schriftlichen Vertrag steht. Wenn da eine andere Summe steht und man unterschreibt, gilt das Schriftliche. Man sollte den Vertrag immer genau prüfen, bevor man unterschreibt."
+        },
+        {
+            "id": "d",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Vorsicht bei Befristungen! Eine Verlängerung oder Umwandlung in einen unbefristeten Vertrag muss zwingend schriftlich erfolgen, und zwar *bevor* der alte Vertrag ausläuft. Eine mündliche Zusage reicht nicht aus und ist rechtlich nicht sicher. Bestehen Sie auf einer schriftlichen Bestätigung!"
+        },
+        {
+            "id": "e",
+            "author": "Thomas",
+            "timestamp": "vor 3 Stunden",
+            "content": "Naja, Arbeitsaufgaben können sich im Laufe der Zeit schon mal ändern. Solange die neuen Tätigkeiten zumutbar sind und im groben Rahmen der ursprünglichen Position liegen, ist das oft vom Weisungsrecht des Arbeitgebers gedeckt. Eine gewisse Flexibilität wird von Arbeitnehmern erwartet."
+        },
+        {
+            "id": "f",
+            "author": "Petra",
+            "timestamp": "vor 8 Stunden",
+            "content": "Man sollte jeden Arbeitsvertrag vor der Unterschrift genau durchlesen. Gerade die Klauseln zur Probezeit sind wichtig – hier gelten oft kürzere Kündigungsfristen. Auch die genauen Bedingungen für eine eventuelle Kündigung nach der Probezeit sollte man kennen. Nicht einfach blind unterschreiben!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "d",
+        "4": "x"
+    }
+}

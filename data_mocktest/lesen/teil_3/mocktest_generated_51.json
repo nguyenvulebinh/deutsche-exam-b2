@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Julia",
-            "situation": "Ich bin total verunsichert. Ich arbeite seit fünf Monaten in meiner neuen Firma, die Probezeit dauert sechs Monate. Letzten Monat gab es noch ein positives Feedbackgespräch. Heute wurde mir aber überraschend mitgeteilt, dass mein Arbeitsverhältnis zum Ende der zweiwöchigen Frist gekündigt wird. Einen Grund nannte man nicht. Ist das überhaupt rechtens, obwohl ich vorher gelobt wurde? Kann ich etwas dagegen tun?"
+            "name": "Benno",
+            "situation": "Mein Teamleiter hat mir mündlich zugesagt, dass ich einen Bonus von 500 Euro bekomme, wenn ich ein schwieriges Projekt termingerecht abschließe. Das habe ich geschafft. Jetzt kann sich der Teamleiter aber angeblich nicht mehr genau an diese Zusage erinnern und der Bonus wurde nicht ausgezahlt. Ist so eine mündliche Zusage für einen Bonus überhaupt bindend und was kann ich jetzt machen?"
         },
         {
             "id": 2,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Benno",
-            "situation": "Mein Teamleiter hat mir mündlich zugesagt, dass ich einen Bonus von 500 Euro bekomme, wenn ich ein schwieriges Projekt termingerecht abschließe. Das habe ich geschafft. Jetzt kann sich der Teamleiter aber angeblich nicht mehr genau an diese Zusage erinnern und der Bonus wurde nicht ausgezahlt. Ist so eine mündliche Zusage für einen Bonus überhaupt bindend und was kann ich jetzt machen?"
+            "name": "Julia",
+            "situation": "Ich bin total verunsichert. Ich arbeite seit fünf Monaten in meiner neuen Firma, die Probezeit dauert sechs Monate. Letzten Monat gab es noch ein positives Feedbackgespräch. Heute wurde mir aber überraschend mitgeteilt, dass mein Arbeitsverhältnis zum Ende der zweiwöchigen Frist gekündigt wird. Einen Grund nannte man nicht. Ist das überhaupt rechtens, obwohl ich vorher gelobt wurde? Kann ich etwas dagegen tun?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
+        "4": "d",
         "2": "f",
         "3": "a",
-        "4": "x"
+        "1": "x"
     }
 }

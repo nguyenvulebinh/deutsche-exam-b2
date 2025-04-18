@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lea",
+            "situation": "Ich bin total schockiert. Ich arbeite seit fünf Monaten in meiner neuen Firma und befinde mich noch in der Probezeit. Letzte Woche wurde ich noch für meine gute Arbeit gelobt, und heute habe ich die Kündigung erhalten. Ist das überhaupt erlaubt, so kurz vor Ende der Probezeit und ohne Angabe von Gründen? Was kann ich tun?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "In meinem Arbeitsvertrag steht, dass Überstunden bei Bedarf angeordnet werden können. Das passiert auch regelmäßig. Mein Chef bietet mir dafür immer Freizeitausgleich an, was ja nett ist. Aber ich bräuchte momentan eher das Geld. Kann ich darauf bestehen, dass meine Überstunden ausbezahlt werden, statt frei zu nehmen?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit auf dem vereisten Gehweg ausgerutscht. Zum Glück ist nicht viel passiert, nur mein Knie ist aufgeschürft. Muss ich so etwas Kleines trotzdem meinem Arbeitgeber melden? Mein Mann meint ja, wegen möglicher Spätfolgen, aber ich will keinen unnötigen Aufwand."
+        },
+        {
+            "id": 4,
+            "name": "Samira",
+            "situation": "Mein Teamleiter hat mir mündlich eine Sonderzahlung versprochen, wenn ich ein wichtiges Projekt erfolgreich abschließe. Das Projekt ist super gelaufen, aber jetzt will er von der Zusage nichts mehr wissen und sagt, er könne sich nicht erinnern. Die Personalabteilung weiß auch von nichts. Ist so eine mündliche Zusage überhaupt gültig und wie kann ich das beweisen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Niklas",
+            "timestamp": "vor 45 Minuten",
+            "content": "Die Frage, ob Überstunden bezahlt werden oder durch Freizeit ausgeglichen werden, hängt meist vom Arbeitsvertrag, Tarifvertrag oder einer Betriebsvereinbarung ab. Ist dort festgelegt, dass der Arbeitgeber 'Freizeitausgleich' gewähren kann, hast du in der Regel keinen automatischen Anspruch auf Auszahlung. Sprich am besten nochmal mit deinem Chef oder dem Betriebsrat."
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Generell gilt: Nach den ersten sechs Monaten im Betrieb greift oft das Kündigungsschutzgesetz. Dann braucht der Arbeitgeber für eine ordentliche Kündigung triftige Gründe (betriebsbedingt, personenbedingt oder verhaltensbedingt) und es gelten längere Kündigungsfristen, die sich mit der Dauer der Betriebszugehörigkeit erhöhen."
+        },
+        {
+            "id": "c",
+            "author": "Miriam",
+            "timestamp": "vor 5 Stunden",
+            "content": "Überstunden sind ein Thema, aber vergesst nicht das Arbeitszeitgesetz! Mehr als 10 Stunden pro Tag sind nur in Ausnahmefällen erlaubt und im Durchschnitt über 6 Monate dürfen es nicht mehr als 8 Stunden werktäglich sein. Auch die vorgeschriebenen Ruhezeiten zwischen den Arbeitstagen müssen eingehalten werden."
+        },
+        {
+            "id": "d",
+            "author": "Stefan",
+            "timestamp": "vor 1 Stunde",
+            "content": "Unbedingt melden! Jeder Unfall auf dem direkten Weg zur oder von der Arbeit ist ein sogenannter Wegeunfall und über die gesetzliche Unfallversicherung (Berufsgenossenschaft) abgedeckt. Das ist wichtig, falls doch noch spätere gesundheitliche Probleme (Spätfolgen) auftreten. Melde es sofort dem Arbeitgeber!"
+        },
+        {
+            "id": "e",
+            "author": "Yasmin",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wenn ein Unfall direkt bei der Arbeit im Betrieb passiert, z.B. du stolperst im Lager oder verletzt dich an einer Maschine, ist das ein klassischer Arbeitsunfall. Das musst du sofort deinem Vorgesetzten melden. Bei ernsteren Verletzungen muss man zu einem Durchgangsarzt (D-Arzt), damit die Behandlung über die Berufsgenossenschaft läuft."
+        },
+        {
+            "id": "f",
+            "author": "Maja",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ja, das ist leider erlaubt. Während der vereinbarten Probezeit (meistens bis zu 6 Monate) können sowohl Arbeitgeber als auch Arbeitnehmer das Arbeitsverhältnis mit einer kurzen Frist von zwei Wochen kündigen, ohne Gründe angeben zu müssen. Vorheriges Lob ändert daran rechtlich nichts. Das ist das Wesen der Probezeit."
+        }
+    ],
+    "solutions": {
+        "1": "f",
+        "2": "a",
+        "3": "d",
+        "4": "x"
+    }
+}

@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Stefan",
-            "situation": "Ich habe vor zwei Monaten eine neue Stelle angetreten und befinde mich noch in der sechsmonatigen Probezeit. Nun steht in gut zwei Monaten eine wichtige Familienfeier an, für die ich gerne eine Woche Urlaub nehmen würde. Ich bin mir aber unsicher, ob ich während der Probezeit überhaupt schon Urlaub nehmen darf oder ob ich die vollen sechs Monate abwarten muss. Wie ist hier die Regelung bezüglich des Urlaubsanspruchs?"
-        },
-        {
-            "id": 2,
-            "name": "Lena",
-            "situation": "Gestern bin ich im Büroflur über ein lose liegendes Kabel gestolpert und habe mir das Knie ziemlich stark geprellt. Es tut weh, aber ich musste nicht zum Arzt. Jetzt frage ich mich, ob ich diesen eher geringfügigen Vorfall meinem Arbeitgeber offiziell melden muss. Ist das notwendig oder nur unnötiger Aufwand, auch wenn vielleicht später doch noch etwas sein sollte?"
-        },
-        {
-            "id": 3,
             "name": "Cem",
             "situation": "Letzte Woche habe ich nach einem erfolgreichen Vorstellungsgespräch eine mündliche Zusage für eine tolle Stelle bekommen. Der Abteilungsleiter meinte, der schriftliche Vertrag käme bald per Post. Bisher ist aber nichts angekommen und ich werde langsam nervös. Ist so eine mündliche Zusage eigentlich rechtlich bindend, oder sollte ich unbedingt auf das unterschriebene Dokument warten, bevor ich meinen jetzigen Job kündige?"
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "Anja",
             "situation": "Ich habe heute meinen neuen Arbeitsvertrag erhalten. Darin steht eine Klausel, dass ich hohe Kosten für eine Weiterbildung zurückzahlen muss, falls ich das Unternehmen innerhalb der ersten zwei Jahre verlasse. Im Vorstellungsgespräch wurde das zwar kurz erwähnt, aber die Konditionen (Höhe, Dauer der Bindung) klangen anders als das, was jetzt im Vertrag steht. Sind solche Rückzahlungsklauseln generell zulässig und was kann ich wegen der Abweichung tun?"
+        },
+        {
+            "id": 3,
+            "name": "Stefan",
+            "situation": "Ich habe vor zwei Monaten eine neue Stelle angetreten und befinde mich noch in der sechsmonatigen Probezeit. Nun steht in gut zwei Monaten eine wichtige Familienfeier an, für die ich gerne eine Woche Urlaub nehmen würde. Ich bin mir aber unsicher, ob ich während der Probezeit überhaupt schon Urlaub nehmen darf oder ob ich die vollen sechs Monate abwarten muss. Wie ist hier die Regelung bezüglich des Urlaubsanspruchs?"
+        },
+        {
+            "id": 4,
+            "name": "Lena",
+            "situation": "Gestern bin ich im Büroflur über ein lose liegendes Kabel gestolpert und habe mir das Knie ziemlich stark geprellt. Es tut weh, aber ich musste nicht zum Arzt. Jetzt frage ich mich, ob ich diesen eher geringfügigen Vorfall meinem Arbeitgeber offiziell melden muss. Ist das notwendig oder nur unnötiger Aufwand, auch wenn vielleicht später doch noch etwas sein sollte?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "3": "a",
+        "4": "b",
+        "1": "c",
+        "2": "x"
     }
 }

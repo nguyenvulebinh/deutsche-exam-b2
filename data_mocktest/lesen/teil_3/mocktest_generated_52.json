@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Julia",
-            "situation": "Ich bin seit zwei Monaten in meiner neuen Firma und noch in der Probezeit (6 Monate). Ich habe bereits anteilig Urlaubstage angesammelt. Nächsten Monat möchte ich gerne eine Woche Urlaub nehmen. Mein Chef meinte aber, das ginge erst nach der Probezeit. Außerdem habe ich gehört, dass mein Urlaubsanspruch verfällt, wenn ich während der Probezeit gekündigt werde. Stimmt das alles? Ich bin unsicher über meine Rechte."
+            "name": "Markus",
+            "situation": "Mir ist gestern im Lager versehentlich ein teures Gerät heruntergefallen und kaputtgegangen (Schaden ca. 800€). Es war keine Absicht, nur Unachtsamkeit im Stress. Nun habe ich große Angst, dass mein Arbeitgeber mich dafür haftbar macht und mir die Kosten vom Lohn abzieht. Ist das rechtlich überhaupt möglich, wenn es ein Versehen war?"
         },
         {
             "id": 2,
-            "name": "Markus",
-            "situation": "Mir ist gestern im Lager versehentlich ein teures Gerät heruntergefallen und kaputtgegangen (Schaden ca. 800€). Es war keine Absicht, nur Unachtsamkeit im Stress. Nun habe ich große Angst, dass mein Arbeitgeber mich dafür haftbar macht und mir die Kosten vom Lohn abzieht. Ist das rechtlich überhaupt möglich, wenn es ein Versehen war?"
+            "name": "Ben",
+            "situation": "Ich arbeite im Vertriebsaußendienst. Mein Chef erwartet, dass ich quasi rund um die Uhr erreichbar bin, auch spätabends oder am Wochenende für dringende Kundenanfragen per Diensthandy. Das stresst mich total und frisst meine Freizeit auf. Zwar werden die *geleisteten Stunden* (Überstunden) erfasst, aber diese ständige *Erreichbarkeitspflicht* macht mich fertig. Gibt es hier klare Regeln, wann Schluss sein muss? Ich will meine Ruhe haben."
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Ben",
-            "situation": "Ich arbeite im Vertriebsaußendienst. Mein Chef erwartet, dass ich quasi rund um die Uhr erreichbar bin, auch spätabends oder am Wochenende für dringende Kundenanfragen per Diensthandy. Das stresst mich total und frisst meine Freizeit auf. Zwar werden die *geleisteten Stunden* (Überstunden) erfasst, aber diese ständige *Erreichbarkeitspflicht* macht mich fertig. Gibt es hier klare Regeln, wann Schluss sein muss? Ich will meine Ruhe haben."
+            "name": "Julia",
+            "situation": "Ich bin seit zwei Monaten in meiner neuen Firma und noch in der Probezeit (6 Monate). Ich habe bereits anteilig Urlaubstage angesammelt. Nächsten Monat möchte ich gerne eine Woche Urlaub nehmen. Mein Chef meinte aber, das ginge erst nach der Probezeit. Außerdem habe ich gehört, dass mein Urlaubsanspruch verfällt, wenn ich während der Probezeit gekündigt werde. Stimmt das alles? Ich bin unsicher über meine Rechte."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
+        "4": "a",
+        "1": "b",
         "3": "c",
-        "4": "x"
+        "2": "x"
     }
 }

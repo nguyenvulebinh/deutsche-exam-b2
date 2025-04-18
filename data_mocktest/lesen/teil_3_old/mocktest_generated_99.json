@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Ben",
+            "situation": "Ich bin echt schockiert. Nach vier Monaten in meiner neuen Firma wurde mir heute plötzlich gekündigt – mitten in der Probezeit! Dabei wurde ich letzte Woche noch für meine Arbeit gelobt. Ich verstehe die Welt nicht mehr. Gibt es irgendetwas, das ich jetzt tun kann, oder muss ich das einfach so hinnehmen?"
+        },
+        {
+            "id": 2,
+            "name": "Nadja",
+            "situation": "Ich arbeite in einem Labor und laut Arbeitsvertrag muss ich spezielle Schutzkleidung tragen. Schutzbrille und Einmalhandschuhe bekommen wir gestellt, aber den Laborkittel und die Sicherheitsschuhe musste ich selbst kaufen. Mein Chef meinte, das sei so üblich und ich könne es ja von der Steuer absetzen. Ist das wirklich rechtens?"
+        },
+        {
+            "id": 3,
+            "name": "Karim",
+            "situation": "Ich war letzte Woche während meines genehmigten Urlaubs krank und habe meinem Arbeitgeber auch sofort ein ärztliches Attest vorgelegt. Nun sehe ich auf meiner Urlaubsübersicht, dass diese Krankheitstage trotzdem von meinem Urlaubskonto abgezogen wurden. Darf der Arbeitgeber das einfach so machen? Ich dachte, Urlaubstage bleiben erhalten, wenn man krank wird."
+        },
+        {
+            "id": 4,
+            "name": "Maria",
+            "situation": "Mir ist heute Morgen auf dem Weg zur Arbeit ein kleines Missgeschick passiert. Ich bin mit dem Fahrrad ausgerutscht und habe mir leichte Schürfwunden am Arm zugezogen, nichts Schlimmes. Muss ich so etwas Kleines meinem Arbeitgeber melden? Ich bin noch in der Probezeit und möchte keinen unnötigen Ärger oder Aufwand verursachen."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sophia",
+            "timestamp": "vor 45 Minuten",
+            "content": "Nein, das darf er nicht! Wenn du während deines Urlaubs krank wirst und das durch ein ärztliches Attest nachweisen kannst, gelten diese Tage nicht als Urlaubstage. Sie müssen dir wieder gutgeschrieben werden. Sprich deinen Arbeitgeber unbedingt darauf an und verweise auf das Bundesurlaubsgesetz (§9)."
+        },
+        {
+            "id": "b",
+            "author": "Lukas",
+            "timestamp": "vor 2 Stunden",
+            "content": "Viele Firmen schreiben bestimmte Kleidung vor, um ein einheitliches Erscheinungsbild zu gewährleisten. Das ist Teil des Images. Ob der Arbeitgeber die Kosten dafür trägt, ist Verhandlungssache oder im Tarifvertrag geregelt. Oft müssen Mitarbeiter zumindest einen Teil der Kosten für solche Dienstkleidung selbst übernehmen. Das ist nicht unüblich."
+        },
+        {
+            "id": "c",
+            "author": "Antonia",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das ist leider die harte Realität der Probezeit. Innerhalb dieser Phase (meist 6 Monate) können beide Seiten das Arbeitsverhältnis mit einer sehr kurzen Frist von nur zwei Wochen kündigen, und zwar ohne Angabe von Gründen. Der übliche Kündigungsschutz greift hier noch nicht. Rechtlich hast du da kaum eine Handhabe."
+        },
+        {
+            "id": "d",
+            "author": "Yasmin",
+            "timestamp": "vor 5 Stunden",
+            "content": "Eine Kündigung ist immer ein Schock. Wichtig ist aber zu wissen, dass Arbeitnehmer nach sechs Monaten Betriebszugehörigkeit einen allgemeinen Kündigungsschutz genießen. Für bestimmte Gruppen wie Schwerbehinderte oder Schwangere gibt es sogar einen Sonderkündigungsschutz. Gegen eine ungerechtfertigte Kündigung kann man klagen."
+        },
+        {
+            "id": "e",
+            "author": "Markus",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ganz klar: Nein! Wenn es sich um vorgeschriebene *persönliche Schutzausrüstung* (PSA) handelt, wie Laborkittel oder Sicherheitsschuhe im Labor, muss der Arbeitgeber diese kostenlos zur Verfügung stellen und auch die Kosten für Reinigung oder Ersatz tragen. Das ist im Arbeitsschutzgesetz geregelt. Etwas anderes ist normale Dienstkleidung ohne Schutzfunktion."
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 30 Minuten",
+            "content": "Wichtig bei Krankheit ist immer die rechtzeitige Meldung beim Arbeitgeber, am besten schon am ersten Tag telefonisch oder per Mail. Das ärztliche Attest muss dann meist spätestens am dritten Tag vorliegen, manchmal auch früher – schau dazu in deinen Arbeitsvertrag. Wer das versäumt, riskiert arbeitsrechtliche Konsequenzen."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

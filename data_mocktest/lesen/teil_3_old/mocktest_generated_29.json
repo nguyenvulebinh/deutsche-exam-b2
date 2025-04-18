@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Markus",
+            "situation": "Ich bin total überrascht. Nächste Woche endet meine sechsmonatige Probezeit und heute habe ich die Kündigung erhalten! Dabei hat mein Vorgesetzter mich erst letzte Woche für meine gute Arbeit gelobt. Ist eine Kündigung so kurz vor Ende der Probezeit überhaupt rechtens, besonders nach positivem Feedback? Ich dachte, es gäbe da mehr Schutz."
+        },
+        {
+            "id": 2,
+            "name": "Julia",
+            "situation": "Ich brauche dringend Rat. Ich war letzte Woche im genehmigten Jahresurlaub und wurde leider für drei Tage krank. Ich habe meinem Arbeitgeber sofort Bescheid gegeben und auch eine ärztliche Krankschreibung eingereicht. Trotzdem hat er diese drei Tage von meinem Urlaubskonto abgezogen. Darf er das einfach so machen?"
+        },
+        {
+            "id": 3,
+            "name": "Ben",
+            "situation": "Ich muss fast jede Woche Überstunden machen, weil mein Chef das anordnet. Das summiert sich ganz schön. Bisher habe ich aber weder zusätzliches Geld dafür bekommen, noch konnte ich die Stunden 'abfeiern'. Ist das in Ordnung so? Habe ich keinen Anspruch auf irgendeine Form von Ausgleich für die Mehrarbeit?"
+        },
+        {
+            "id": 4,
+            "name": "Sarah",
+            "situation": "Ich arbeite in einem Chemielabor und laut Vorschrift müssen wir spezielle Schutzkleidung tragen. Schutzbrille und Handschuhe bekommen wir gestellt, aber den vorgeschriebenen Laborkittel und die Sicherheitsschuhe sollen wir selbst kaufen und auch für die Reinigung aufkommen. Ist das rechtens? Immerhin geht es hier um gesetzlich vorgeschriebene persönliche Schutzausrüstung (PSA), nicht nur um eine Uniform."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Finn",
+            "timestamp": "vor 2 Stunden",
+            "content": "Hallo Ben, grundsätzlich müssen angeordnete Überstunden entweder bezahlt oder durch Freizeit ausgeglichen werden. Die genaue Regelung (Bezahlung oder Freizeitausgleich, Höhe der Vergütung) steht aber oft im Arbeitsvertrag, einem geltenden Tarifvertrag oder einer Betriebsvereinbarung. Schau dort unbedingt mal nach!"
+        },
+        {
+            "id": "b",
+            "author": "Leonie",
+            "timestamp": "vor 5 Stunden",
+            "content": "Eine fristlose Kündigung ist wirklich nur das letzte Mittel bei schweren Pflichtverletzungen, wie zum Beispiel Diebstahl am Arbeitsplatz oder Arbeitsverweigerung. Da muss der Arbeitgeber schon sehr triftige Gründe und Beweise haben. Einfach so geht das zum Glück nicht."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Wichtig ist bei Krankheit immer die sofortige Meldung beim Arbeitgeber, am besten schon am ersten Tag anrufen oder mailen. Die ärztliche Bescheinigung, also das Attest, muss dann in der Regel spätestens am vierten Krankheitstag vorliegen. Sonst gibt's Ärger."
+        },
+        {
+            "id": "d",
+            "author": "Hannah",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Markus, das ist ärgerlich, aber leider rechtlich zulässig. Während der Probezeit gilt eine verkürzte Kündigungsfrist von meist zwei Wochen, und der Arbeitgeber muss keinen Kündigungsgrund angeben. Lob oder gute Leistung ändern daran nichts. Der volle Kündigungsschutz greift erst nach Ablauf der Probezeit."
+        },
+        {
+            "id": "e",
+            "author": "Noah",
+            "timestamp": "vor 8 Stunden",
+            "content": "Bei typischer Dienstkleidung, wie z.B. Hemden mit Firmenlogo oder einer bestimmten Hosenfarbe im Verkauf, kann im Arbeitsvertrag vereinbart werden, dass der Arbeitnehmer die Kosten (teilweise) trägt, besonders wenn die Kleidung theoretisch auch privat nutzbar wäre. Das ist Verhandlungssache."
+        },
+        {
+            "id": "f",
+            "author": "Sophia",
+            "timestamp": "vor 30 Minuten",
+            "content": "Hallo Julia, nein, das Vorgehen deines Arbeitgebers ist nicht korrekt. Wenn du während deines Urlaubs krank wirst und dies durch ein ärztliches Attest nachweisen kannst, dürfen dir diese Krankheitstage nicht als Urlaub angerechnet werden. Diese Urlaubstage müssen dir wieder gutgeschrieben werden."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

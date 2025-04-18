@@ -8,18 +8,18 @@
         },
         {
             "id": 2,
-            "name": "Markus",
-            "situation": "Ich war letzte Woche im genehmigten Urlaub und bin leider für drei Tage krank geworden. Ich habe meinem Arbeitgeber sofort Bescheid gegeben und auch ein ärztliches Attest eingereicht. Nun sehe ich auf meiner Urlaubsübersicht, dass diese drei Tage trotzdem als Urlaubstage abgezogen wurden. Darf mein Chef das machen oder müssen mir die Tage wieder gutgeschrieben werden?"
-        },
-        {
-            "id": 3,
             "name": "Julia",
             "situation": "Ich arbeite in einer Werkstatt und finde die Sicherheitsvorkehrungen mangelhaft. Oft fehlen Schutzbrillen oder die Handschuhe sind kaputt. Ich habe das Gefühl, dass der Arbeitgeber seiner Pflicht nicht nachkommt, für unsere Sicherheit zu sorgen. Was kann ich konkret tun oder welche Rechte habe ich, damit sich das ändert? Ich möchte sicher arbeiten können."
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Cem",
             "situation": "Ich fühle mich durch ständige Überstunden und hohen Druck bei der Arbeit extrem gestresst, schlafe schlecht und bin oft nervös. Ich glaube, das wirkt sich langsam auf meine Gesundheit aus. Muss mein Arbeitgeber etwas gegen diese hohe Belastung unternehmen, oder ist das allein mein Problem? Gibt es vielleicht spezielle Anlaufstellen oder Programme direkt über die Firma für solche Situationen?"
+        },
+        {
+            "id": 4,
+            "name": "Markus",
+            "situation": "Ich war letzte Woche im genehmigten Urlaub und bin leider für drei Tage krank geworden. Ich habe meinem Arbeitgeber sofort Bescheid gegeben und auch ein ärztliches Attest eingereicht. Nun sehe ich auf meiner Urlaubsübersicht, dass diese drei Tage trotzdem als Urlaubstage abgezogen wurden. Darf mein Chef das machen oder müssen mir die Tage wieder gutgeschrieben werden?"
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "4": "b",
+        "2": "c",
+        "3": "x"
     }
 }

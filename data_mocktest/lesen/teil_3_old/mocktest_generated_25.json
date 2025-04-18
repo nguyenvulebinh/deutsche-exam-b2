@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Marlene",
+            "situation": "Ich habe gerade eine neue Stelle angefangen und bin noch in der Probezeit. Ich bin etwas unsicher, was meine Rechte und Pflichten angeht. Zum Beispiel: Was passiert, wenn ich krank werde? Und wie sind die Kündigungsfristen während der Probezeit? Kann mir jemand kurz die wichtigsten Punkte zusammenfassen?"
+        },
+        {
+            "id": 2,
+            "name": "Jonas",
+            "situation": "Mein Chef hat mir mündlich zugesagt, dass ich nur vorübergehend ein bestimmtes Projekt übernehmen soll. Jetzt, nach zwei Monaten, tut er so, als sei das eine dauerhafte Aufgabe. Schriftlich haben wir dazu nichts festgehalten. Gilt die mündliche Absprache trotzdem oder habe ich Pech?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Ich arbeite in einer Werkstatt und muss spezielle Sicherheitsschuhe und eine Schutzbrille tragen. Mein Arbeitgeber meint, ich müsse diese selbst kaufen, da es ja 'meine' Ausrüstung sei. Ist das korrekt? Ich dachte, der Arbeitgeber muss für vorgeschriebene Schutzausrüstung aufkommen?"
+        },
+        {
+            "id": 4,
+            "name": "Leonie",
+            "situation": "Ich hatte heute Morgen auf dem direkten Weg zur Arbeit einen kleinen Fahrradunfall. Es ist zum Glück nicht viel passiert, nur ein paar Schürfwunden. Muss ich das trotzdem meinem Arbeitgeber melden, auch wenn es nicht *im* Betrieb war? Geht das über die Berufsgenossenschaft, falls doch noch etwas nachkommt?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ganz klar: Wenn es sich um vorgeschriebene persönliche Schutzausrüstung (PSA) handelt, wie z.B. Sicherheitsschuhe oder Schutzbrillen im Labor oder in der Werkstatt, dann muss der Arbeitgeber die Kosten tragen und die Ausrüstung zur Verfügung stellen. Das ist gesetzlich im Arbeitsschutzgesetz geregelt."
+        },
+        {
+            "id": "b",
+            "author": "Bernd",
+            "timestamp": "vor 5 Stunden",
+            "content": "Eine Kündigung ist nie schön. Wichtig ist aber: Nach der Probezeit braucht der Arbeitgeber triftige Gründe, z.B. schlechte Leistungen über längere Zeit oder betriebsbedingte Gründe. Man hat dann auch viel längere Kündigungsfristen. Dagegen kann man sich oft wehren."
+        },
+        {
+            "id": "c",
+            "author": "Stefan",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Marlene, in der Probezeit gelten verkürzte Kündigungsfristen, oft nur zwei Wochen, und es braucht keinen Kündigungsgrund. Wenn du krank wirst, musst du das natürlich sofort melden und ein Attest vorlegen. Dein Arbeitsverhältnis endet dadurch nicht automatisch, aber der Kündigungsschutz ist insgesamt geringer als nach der Probezeit."
+        },
+        {
+            "id": "d",
+            "author": "Sarah",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das finde ich unmöglich von deinem Chef! Zusagen sollte man einhalten, egal ob mündlich oder schriftlich. Das hat doch was mit Vertrauen und Respekt zu tun. Mir ist sowas Ähnliches auch schon mal passiert, das hat das Arbeitsklima total vergiftet."
+        },
+        {
+            "id": "e",
+            "author": "Laura",
+            "timestamp": "vor 8 Stunden",
+            "content": "Bei uns in der Firma gibt es auch eine Kleiderordnung. Die Hemden mit Logo bekommen wir gestellt, aber die dunkle Hose müssen wir selbst kaufen. Ich finde das okay, man kann die Kosten ja oft bei der Steuererklärung als Werbungskosten angeben."
+        },
+        {
+            "id": "f",
+            "author": "Anna",
+            "timestamp": "vor 30 Minuten",
+            "content": "Mündliche Zusagen sind rechtlich zwar oft bindend, aber das große Problem ist die Beweisbarkeit. Ohne Zeugen oder schriftliche Notizen ist es schwer, deine Version durchzusetzen. Sprich am besten nochmal ruhig mit deinem Chef und erinnere ihn an das Gespräch. Für die Zukunft: Wichtige Absprachen immer schriftlich fixieren!"
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Clara",
-            "situation": "Ich bin seit fast sechs Monaten in meiner Probezeit. Mein Vorgesetzter hat mir vor zwei Wochen mündlich zugesichert, dass ich danach eine Festanstellung bekomme. Jetzt tut er so, als wüsste er nichts mehr davon und meint, die Entscheidung sei noch offen. Kann ich mich auf seine mündliche Zusage berufen? Was sind meine Optionen?"
-        },
-        {
-            "id": 2,
-            "name": "Markus",
-            "situation": "Ich hatte für die letzten beiden Augustwochen Urlaub geplant und genehmigt bekommen. Leider bin ich direkt am Wochenende davor krank geworden und war die erste Urlaubswoche krankgeschrieben mit ärztlichem Attest. Mein Arbeitgeber hat mir trotzdem alle 10 Tage als Urlaub abgezogen. Ist das rechtens? Verfallen die Tage jetzt?"
-        },
-        {
-            "id": 3,
             "name": "Ben",
             "situation": "Ich arbeite auf dem Bau und laut Vorschrift muss ich spezielle Sicherheitsschuhe der Schutzklasse S3 tragen. Mein Arbeitgeber meint, da es sich um Schuhe handelt, müsse ich diese selbst kaufen und bezahlen. Normale Arbeitskleidung wie Hosen und Jacken stellt er. Muss er nicht auch für vorgeschriebene Sicherheitsschuhe aufkommen?"
         },
         {
-            "id": 4,
+            "id": 2,
+            "name": "Clara",
+            "situation": "Ich bin seit fast sechs Monaten in meiner Probezeit. Mein Vorgesetzter hat mir vor zwei Wochen mündlich zugesichert, dass ich danach eine Festanstellung bekomme. Jetzt tut er so, als wüsste er nichts mehr davon und meint, die Entscheidung sei noch offen. Kann ich mich auf seine mündliche Zusage berufen? Was sind meine Optionen?"
+        },
+        {
+            "id": 3,
             "name": "Stefan",
             "situation": "Mir ist gestern im Büro ein Missgeschick passiert: Ich habe versehentlich Kaffee über eine relativ neue Tastatur gekippt, sie funktioniert nicht mehr richtig. Der Schaden beträgt etwa 50 Euro. Mein Chef war verärgert und will mir die Kosten nun direkt vom nächsten Gehalt abziehen. Darf er das einfach so bei einem kleinen Versehen?"
+        },
+        {
+            "id": 4,
+            "name": "Markus",
+            "situation": "Ich hatte für die letzten beiden Augustwochen Urlaub geplant und genehmigt bekommen. Leider bin ich direkt am Wochenende davor krank geworden und war die erste Urlaubswoche krankgeschrieben mit ärztlichem Attest. Mein Arbeitgeber hat mir trotzdem alle 10 Tage als Urlaub abgezogen. Ist das rechtens? Verfallen die Tage jetzt?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "2": "a",
+        "4": "b",
+        "1": "c",
+        "3": "x"
     }
 }

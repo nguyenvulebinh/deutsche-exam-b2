@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Silke",
-            "situation": "In unserer Firma müssen wir jetzt spezielle Polo-Shirts und Hosen mit Firmenlogo tragen. Das erste Set bekommen wir gestellt, aber für weitere oder Ersatz müssen wir selbst zahlen. Ist das rechtens? Es handelt sich nicht um Schutzkleidung, sondern um eine Art Uniform für das einheitliche Erscheinungsbild."
-        },
-        {
-            "id": 2,
-            "name": "Mehmet",
-            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und befinde mich noch in der Probezeit. Letzte Woche wurde ich noch für meine Arbeit gelobt, aber heute habe ich überraschend die Kündigung erhalten, ohne Angabe von Gründen. Ich bin schockiert und verstehe das nicht. Kann man da irgendetwas machen?"
-        },
-        {
-            "id": 3,
             "name": "Liane",
             "situation": "Ich hatte für zwei Wochen Urlaub geplant und genehmigt bekommen. Ausgerechnet am ersten Urlaubstag wurde ich krank und musste fünf Tage mit Attest zu Hause bleiben. Mein Chef meint nun, diese Tage zählen trotzdem als Urlaub, da er ja schon genehmigt war. Stimmt das? Ich fühle mich um meinen Urlaub betrogen."
         },
         {
-            "id": 4,
+            "id": 2,
+            "name": "Silke",
+            "situation": "In unserer Firma müssen wir jetzt spezielle Polo-Shirts und Hosen mit Firmenlogo tragen. Das erste Set bekommen wir gestellt, aber für weitere oder Ersatz müssen wir selbst zahlen. Ist das rechtens? Es handelt sich nicht um Schutzkleidung, sondern um eine Art Uniform für das einheitliche Erscheinungsbild."
+        },
+        {
+            "id": 3,
             "name": "Ben",
             "situation": "Ich arbeite im Büro und trage dort meine normale private Kleidung (Hemden, Stoffhosen). Da diese durch die tägliche Arbeit beansprucht wird und ich sie oft waschen/reinigen lassen muss, frage ich mich: Kann ich die Reinigungskosten eigentlich bei der Steuererklärung als Werbungskosten geltend machen? Hat da jemand Erfahrung?"
+        },
+        {
+            "id": 4,
+            "name": "Mehmet",
+            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und befinde mich noch in der Probezeit. Letzte Woche wurde ich noch für meine Arbeit gelobt, aber heute habe ich überraschend die Kündigung erhalten, ohne Angabe von Gründen. Ich bin schockiert und verstehe das nicht. Kann man da irgendetwas machen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
-        "2": "e",
-        "3": "c",
-        "4": "x"
+        "2": "b",
+        "4": "e",
+        "1": "c",
+        "3": "x"
     }
 }

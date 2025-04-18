@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrecht und Arbeitsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jan",
+            "situation": "Mein ehemaliger Arbeitgeber hat mir mein Arbeitszeugnis geschickt. Auf den ersten Blick klingt alles gut, aber ein Freund meinte, Formulierungen wie \"Er erledigte alle Aufgaben zu unserer vollen Zufriedenheit\" seien eigentlich gar nicht positiv. Ich bin total verunsichert. Wie kann ich sicher sein, was mein Zeugnis wirklich über meine Leistung aussagt? Gibt es da versteckte Botschaften?"
+        },
+        {
+            "id": 2,
+            "name": "Fatima",
+            "situation": "Durch ein großes Projekt habe ich in den letzten Monaten fast 60 Überstunden angesammelt. Langsam brauche ich mal eine Pause. Mein Chef meint aber, die Auftragslage sei weiter angespannt und ein Freizeitausgleich sei momentan schwierig. Muss mein Arbeitgeber mir nicht ermöglichen, die Überstunden zeitnah abzubauen, oder kann er mich einfach vertrösten?"
+        },
+        {
+            "id": 3,
+            "name": "Stefan",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Firma, also noch in der Probezeit. Nun bin ich leider ernsthaft krank geworden und werde wohl zwei Wochen ausfallen. Ich habe mich natürlich sofort krankgemeldet und eine ärztliche Bescheinigung eingereicht. Muss ich mir jetzt Sorgen machen, dass mir trotz der Krankmeldung gekündigt wird, weil ich noch nicht fest angestellt bin?"
+        },
+        {
+            "id": 4,
+            "name": "Marta",
+            "situation": "Ich arbeite in einem Großraumbüro und eine Kollegin telefoniert unglaublich laut und lacht dabei oft sehr schallend. Das stört meine Konzentration massiv. Ich habe sie schon angesprochen, aber es ändert sich nichts. Hat mein Arbeitgeber die Pflicht, mir wegen dieser Lärmbelästigung durch die Kollegin einen ruhigeren Arbeitsplatz, vielleicht sogar ein Einzelbüro, zur Verfügung zu stellen? Was sind da meine Rechte?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Daniela",
+            "timestamp": "vor 2 Stunden",
+            "content": "Wenn man länger als sechs Monate im Betrieb ist und es mehr als 10 Mitarbeiter gibt, genießt man Kündigungsschutz nach dem Kündigungsschutzgesetz. Eine Kündigung muss dann sozial gerechtfertigt sein. Krankheit allein ist oft kein ausreichender Grund, außer bei sehr langen Ausfällen oder häufigen Kurzerkrankungen."
+        },
+        {
+            "id": "b",
+            "author": "Markus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Achte auf die genauen Formulierungen im Zeugnis! Es gibt tatsächlich sogenannte \"Geheimcodes\". \"Zur vollen Zufriedenheit\" entspricht eher der Schulnote 3 (befriedigend). \"Stets zur vollsten Zufriedenheit\" wäre die Note 1. Lass dein Zeugnis im Zweifel von Experten prüfen, um Klarheit zu bekommen."
+        },
+        {
+            "id": "c",
+            "author": "Simone",
+            "timestamp": "vor 5 Stunden",
+            "content": "Überstunden sind echt nervig. Ich finde, man sollte von Anfang an klar kommunizieren, dass man nicht ständig mehr arbeiten kann und will. Such das Gespräch mit deinem Chef und erkläre ihm deine Situation. Vielleicht findet ihr ja gemeinsam eine Lösung, wie die Arbeit besser verteilt werden kann."
+        },
+        {
+            "id": "d",
+            "author": "Robert",
+            "timestamp": "vor 1 Stunde",
+            "content": "Dein Arbeitgeber ist grundsätzlich verpflichtet, angeordnete oder geduldete Überstunden auszugleichen – entweder durch bezahlte Freistellung (Freizeitausgleich) oder durch Vergütung. Er kann das nicht ewig hinauszögern. Prüfe deinen Arbeitsvertrag oder Tarifvertrag, oft gibt es dort Fristen für den Abbau."
+        },
+        {
+            "id": "e",
+            "author": "Leonie",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wer sichergehen will, ein gutes Arbeitszeugnis zu bekommen, sollte rechtzeitig vor dem Austritt das Gespräch mit dem Vorgesetzten suchen und um eine faire Bewertung bitten. Manchmal hilft es auch, selbst einen Entwurf vorzulegen oder wichtige Erfolge nochmal aufzulisten, damit nichts vergessen wird."
+        },
+        {
+            "id": "f",
+            "author": "Mehmet",
+            "timestamp": "vor 30 Minuten",
+            "content": "Während der Probezeit (meist die ersten 6 Monate) ist der Kündigungsschutz leider stark eingeschränkt. Eine Kündigung ist mit kurzer Frist (oft 2 Wochen) und ohne Angabe von Gründen möglich. Auch eine Krankheit schützt in dieser Phase nicht automatisch vor einer Kündigung, selbst wenn sie ordnungsgemäß gemeldet wurde."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "d",
+        "3": "f",
+        "4": "x"
+    }
+}

@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Leon",
-            "situation": "Hallo zusammen, ich bin ziemlich geschockt. Mein Chef hat mir gerade gekündigt, obwohl ich noch fast sechs Monate hier arbeite und somit in der Probezeit bin. Erst letzte Woche wurde ich noch für meine gute Leistung gelobt. Ist eine Kündigung so kurzfristig überhaupt erlaubt? Kann ich etwas dagegen tun, wenn ich sie für unfair halte?"
+            "name": "Markus",
+            "situation": "Ich arbeite in einem kleinen Handwerksbetrieb und mache fast täglich Überstunden. Bisher habe ich dafür weder mehr Gehalt noch Freizeitausgleich bekommen. Mein Chef sagt nur, das sei in unserer Branche normal. Stimmt das so? Habe ich keinen rechtlichen Anspruch auf eine Vergütung oder einen Ausgleich für die Mehrarbeit?"
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Markus",
-            "situation": "Ich arbeite in einem kleinen Handwerksbetrieb und mache fast täglich Überstunden. Bisher habe ich dafür weder mehr Gehalt noch Freizeitausgleich bekommen. Mein Chef sagt nur, das sei in unserer Branche normal. Stimmt das so? Habe ich keinen rechtlichen Anspruch auf eine Vergütung oder einen Ausgleich für die Mehrarbeit?"
+            "name": "Julia",
+            "situation": "In meiner Firma gilt Gleitzeit, was ich nutze, um oft später anzufangen. Nun will mein Teamleiter feste Kernzeiten einführen, damit die Abstimmung im Team besser klappt. Das würde meine Flexibilität aber stark einschränken. Darf der Arbeitgeber das einfach so anordnen, obwohl wir eine Gleitzeitvereinbarung haben? Gibt es da spezielle Regeln?"
         },
         {
             "id": 4,
-            "name": "Julia",
-            "situation": "In meiner Firma gilt Gleitzeit, was ich nutze, um oft später anzufangen. Nun will mein Teamleiter feste Kernzeiten einführen, damit die Abstimmung im Team besser klappt. Das würde meine Flexibilität aber stark einschränken. Darf der Arbeitgeber das einfach so anordnen, obwohl wir eine Gleitzeitvereinbarung haben? Gibt es da spezielle Regeln?"
+            "name": "Leon",
+            "situation": "Hallo zusammen, ich bin ziemlich geschockt. Mein Chef hat mir gerade gekündigt, obwohl ich noch fast sechs Monate hier arbeite und somit in der Probezeit bin. Erst letzte Woche wurde ich noch für meine gute Leistung gelobt. Ist eine Kündigung so kurzfristig überhaupt erlaubt? Kann ich etwas dagegen tun, wenn ich sie für unfair halte?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "e",
+        "4": "e",
         "2": "b",
-        "3": "f",
-        "4": "x"
+        "1": "f",
+        "3": "x"
     }
 }

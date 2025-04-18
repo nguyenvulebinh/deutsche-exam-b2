@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Laura",
+            "situation": "Ich bin ziemlich verzweifelt. Nach fünf Monaten in meiner Probezeit wurde mir gestern gekündigt, mit nur zwei Wochen Frist. Noch letzte Woche gab es positives Feedback! Mein Chef meinte nur, es passt doch nicht so gut. Ist das wirklich so einfach möglich in der Probezeit, fast ohne Grund? Habe ich irgendeine Möglichkeit, dagegen vorzugehen?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Ich war von Montag bis Mittwoch krank. Am Montagmorgen habe ich direkt angerufen und Bescheid gesagt. Beim Arzt war ich aber erst am Mittwoch und habe die AU (Arbeitsunfähigkeitsbescheinigung) auch erst dann eingereicht. Mein Vorgesetzter meint nun, die AU hätte spätestens am Dienstag vorliegen müssen. Stimmt das? Wann muss die AU rechtlich gesehen beim Arbeitgeber sein?"
+        },
+        {
+            "id": 3,
+            "name": "Clara",
+            "situation": "Ich bin schwanger und möchte nach dem Mutterschutz direkt Elternzeit nehmen. Ich habe meinem Chef schon informell davon erzählt. Jetzt frage ich mich aber, wann ich die Elternzeit offiziell beantragen muss. Gibt es da eine feste Frist, die ich einhalten muss, damit der Antrag gültig ist, und muss das schriftlich erfolgen?"
+        },
+        {
+            "id": 4,
+            "name": "Michael",
+            "situation": "In meinem Arbeitsvertrag steht klar drin, dass Überstunden nur durch Freizeitausgleich abgegolten werden. Ich habe inzwischen über 30 Überstunden angesammelt. Mein Chef will mir diese nun aber auszahlen, weil wir angeblich zu viel Arbeit haben. Ich möchte aber lieber frei haben, wie im Vertrag vereinbart. Kann der Chef einfach so entscheiden, das Geld statt Freizeit zu geben?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Markus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Wichtig bei der Elternzeit ist die Frist für den Antrag: Du musst sie spätestens sieben Wochen vor dem geplanten Beginn schriftlich bei deinem Arbeitgeber einreichen. Also nicht nur mündlich ankündigen! Nur so ist dein Anspruch rechtlich gesichert. Viel Erfolg für die kommende Zeit!"
+        },
+        {
+            "id": "b",
+            "author": "Anna",
+            "timestamp": "vor 2 Stunden",
+            "content": "Nach sechs Monaten Betriebszugehörigkeit greift in der Regel das Kündigungsschutzgesetz. Dann braucht der Arbeitgeber einen triftigen Grund (betriebsbedingt, verhaltensbedingt oder personenbedingt) für eine Kündigung. Einfach so kündigen ist dann nicht mehr möglich und die Fristen sind auch länger. Dagegen kann man dann oft erfolgreich klagen."
+        },
+        {
+            "id": "c",
+            "author": "Stefan",
+            "timestamp": "vor 5 Stunden",
+            "content": "Wenn man krank ist, hat man Anspruch auf Lohnfortzahlung durch den Arbeitgeber für bis zu sechs Wochen. Voraussetzung ist aber meist, dass das Arbeitsverhältnis schon mindestens vier Wochen besteht. Danach springt dann die Krankenkasse mit dem Krankengeld ein. Gute Besserung!"
+        },
+        {
+            "id": "d",
+            "author": "Jürgen",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ja, leider ist das in der Probezeit (maximal 6 Monate) so. Der Arbeitgeber kann mit einer kurzen Frist von zwei Wochen kündigen, ohne einen bestimmten Grund nennen zu müssen. Einzige Ausnahme wäre Diskriminierung. Rechtlich ist da wenig zu machen, konzentriere dich lieber auf die Suche nach etwas Neuem."
+        },
+        {
+            "id": "e",
+            "author": "Maria",
+            "timestamp": "vor 3 Stunden",
+            "content": "Es gibt keine feste Frist, wann du die Schwangerschaft mitteilen musst, aber es ist fair, es dem Arbeitgeber rechtzeitig zu sagen, damit er planen kann. Ab der Mitteilung genießt du dann auch den besonderen Kündigungsschutz nach dem Mutterschutzgesetz. Das ist das Wichtigste!"
+        },
+        {
+            "id": "f",
+            "author": "Sabine",
+            "timestamp": "vor 30 Minuten",
+            "content": "Du musst dich sofort am ersten Tag der Krankheit beim Arbeitgeber krankmelden (Anruf genügt). Die ärztliche Bescheinigung (AU) muss laut Gesetz spätestens am vierten Kalendertag der Arbeitsunfähigkeit vorliegen. Aber Achtung: Im Arbeitsvertrag kann stehen, dass sie schon früher (z.B. am ersten Tag) verlangt wird! Unbedingt prüfen!"
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

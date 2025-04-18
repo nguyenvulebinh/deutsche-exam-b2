@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Klaus",
-            "situation": "Ich bin seit vier Monaten in einer neuen Firma angestellt und befinde mich noch in der sechsmonatigen Probezeit. Gestern erhielt ich überraschend die Kündigung ohne Angabe von Gründen. Ich fühle mich unfair behandelt und frage mich, ob das überhaupt rechtens ist und welche Rechte ich speziell während der Probezeit habe."
-        },
-        {
-            "id": 2,
             "name": "Sabine",
             "situation": "Ich bin heute Morgen auf dem direkten Weg zur Arbeit mit dem Fahrrad gestürzt und habe mir das Handgelenk geprellt. Es scheint nicht schlimm zu sein, aber ich frage mich, ob das als Arbeitsunfall zählt (Wegeunfall) und ob ich es dem Arbeitgeber melden muss, auch wenn ich nicht krankgeschrieben bin, wegen möglicher Spätfolgen."
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Cem",
             "situation": "Ich muss regelmäßig auf Anweisung meines Chefs Überstunden leisten. Im letzten Monat waren es über 20 Stunden. Ich bin unsicher, ob ich einen Anspruch darauf habe, dass diese Stunden bezahlt werden, oder ob mein Chef auch einfach Freizeitausgleich anordnen kann. Wie ist die übliche Regelung oder wo kann ich das nachlesen?"
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Maria",
             "situation": "Ich war letzte Woche im offiziell genehmigten Urlaub. Leider wurde ich am zweiten Urlaubstag krank und musste für drei Tage das Bett hüten (ärztliches Attest liegt vor). Ich habe gehört, dass Urlaubstage, an denen man krank ist, nicht verfallen. Stimmt das? Und muss ich die Arbeitsunfähigkeitsbescheinigung (AU) trotz Urlaub auch beim Arbeitgeber einreichen?"
+        },
+        {
+            "id": 4,
+            "name": "Klaus",
+            "situation": "Ich bin seit vier Monaten in einer neuen Firma angestellt und befinde mich noch in der sechsmonatigen Probezeit. Gestern erhielt ich überraschend die Kündigung ohne Angabe von Gründen. Ich fühle mich unfair behandelt und frage mich, ob das überhaupt rechtens ist und welche Rechte ich speziell während der Probezeit habe."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "4": "a",
+        "1": "b",
+        "2": "c",
+        "3": "x"
     }
 }

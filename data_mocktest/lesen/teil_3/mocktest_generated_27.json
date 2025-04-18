@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Daniel",
-            "situation": "Ich arbeite bei einer Spedition im Büro. Eine meiner Kolleginnen hat fast die gleichen Aufgaben wie ich. Nun habe ich erfahren, dass sie deutlich mehr verdient. Das ist doch unfair! Habe ich nicht Anspruch auf die gleiche Bezahlung, wenn die Arbeit quasi identisch ist? Mich interessieren die allgemeinen Gründe für solche Unterschiede."
+            "name": "Marlene",
+            "situation": "In dem letzten Personalgespräch hat mir mein Chef fest mündlich versprochen, dass ich im neuen Jahr eine Gehaltserhöhung bekommen würde. Nun haben wir Januar und er tut so, als wüsste er von nichts. Es gibt leider nichts Schriftliches darüber. Was kann ich in dieser Situation tun?"
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Marlene",
-            "situation": "In dem letzten Personalgespräch hat mir mein Chef fest mündlich versprochen, dass ich im neuen Jahr eine Gehaltserhöhung bekommen würde. Nun haben wir Januar und er tut so, als wüsste er von nichts. Es gibt leider nichts Schriftliches darüber. Was kann ich in dieser Situation tun?"
+            "name": "Ümit",
+            "situation": "Letzte Woche bin ich drei Tage nicht zur Arbeit gegangen, weil mein siebenjähriger Sohn Fieber hatte. Ich bin alleinerziehend und hatte kurzfristig niemanden, der sich um mein Kind kümmern konnte. Wird mir jetzt für diese Fehltage das Gehalt gekürzt? Wie ist da die Regelung?"
         },
         {
             "id": 4,
-            "name": "Ümit",
-            "situation": "Letzte Woche bin ich drei Tage nicht zur Arbeit gegangen, weil mein siebenjähriger Sohn Fieber hatte. Ich bin alleinerziehend und hatte kurzfristig niemanden, der sich um mein Kind kümmern konnte. Wird mir jetzt für diese Fehltage das Gehalt gekürzt? Wie ist da die Regelung?"
+            "name": "Daniel",
+            "situation": "Ich arbeite bei einer Spedition im Büro. Eine meiner Kolleginnen hat fast die gleichen Aufgaben wie ich. Nun habe ich erfahren, dass sie deutlich mehr verdient. Das ist doch unfair! Habe ich nicht Anspruch auf die gleiche Bezahlung, wenn die Arbeit quasi identisch ist? Mich interessieren die allgemeinen Gründe für solche Unterschiede."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
+        "4": "c",
         "2": "f",
-        "3": "a",
-        "4": "x"
+        "1": "a",
+        "3": "x"
     }
 }

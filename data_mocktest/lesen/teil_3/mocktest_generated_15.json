@@ -8,13 +8,13 @@
         },
         {
             "id": 2,
-            "name": "Elena",
-            "situation": "Ich arbeite seit Kurzem auf einer Baustelle. Im Vertrag steht, dass ich Sicherheitsschuhe tragen muss. Mein Arbeitgeber meint nun, ich müsse diese selbst kaufen und bezahlen. Das kann doch nicht sein, oder? Es geht ja um meine Sicherheit bei der Arbeit. Wer muss die Kosten für vorgeschriebene Sicherheitsschuhe übernehmen?"
+            "name": "Mehmet",
+            "situation": "Bei meinem Vorstellungsgespräch wurde mir mündlich zugesichert, dass ich hauptsächlich im Kundenservice arbeiten würde, was mir wichtig war. Im schriftlichen Arbeitsvertrag, den ich leider erst nach der Unterschrift genau gelesen habe, steht nun aber, dass mein Schwerpunkt auf administrativen Tätigkeiten liegt, die ich gar nicht machen möchte. Was gilt denn nun – die mündliche Absprache oder der Vertrag?"
         },
         {
             "id": 3,
-            "name": "Mehmet",
-            "situation": "Bei meinem Vorstellungsgespräch wurde mir mündlich zugesichert, dass ich hauptsächlich im Kundenservice arbeiten würde, was mir wichtig war. Im schriftlichen Arbeitsvertrag, den ich leider erst nach der Unterschrift genau gelesen habe, steht nun aber, dass mein Schwerpunkt auf administrativen Tätigkeiten liegt, die ich gar nicht machen möchte. Was gilt denn nun – die mündliche Absprache oder der Vertrag?"
+            "name": "Elena",
+            "situation": "Ich arbeite seit Kurzem auf einer Baustelle. Im Vertrag steht, dass ich Sicherheitsschuhe tragen muss. Mein Arbeitgeber meint nun, ich müsse diese selbst kaufen und bezahlen. Das kann doch nicht sein, oder? Es geht ja um meine Sicherheit bei der Arbeit. Wer muss die Kosten für vorgeschriebene Sicherheitsschuhe übernehmen?"
         },
         {
             "id": 4,
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
-        "3": "c",
+        "3": "b",
+        "2": "c",
         "4": "x"
     }
 }

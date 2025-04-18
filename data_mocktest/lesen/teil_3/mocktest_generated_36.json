@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Klaus",
-            "situation": "Ich habe neu angefangen und mein Vertrag nennt 40 Std./Woche. Im Gespräch war aber von Vertrauensarbeitszeit die Rede. Jetzt verlangt mein Chef detaillierte Zeitnachweise für alle Tätigkeiten. Gilt der schriftliche Vertrag oder die mündliche Absprache? Muss ich bei Vertrauensarbeitszeit wirklich alles minutengenau dokumentieren?"
+            "name": "Lena",
+            "situation": "Nach meiner Probezeit vor sechs Monaten hat mein Chef mir mündlich einen Bonus für mein erstes eigenes Projekt versprochen. Das Projekt ist nun fertig, aber er meint, wegen Budgetkürzungen ginge der Bonus nicht und es sei nur zur Motivation gesagt worden. Ist so eine mündliche Zusage nach der Probezeit bindend, auch ohne Zeugen?"
         },
         {
             "id": 2,
-            "name": "Fatima",
-            "situation": "Ich arbeite im Einzelhandel. Mir ist gestern aus Unachtsamkeit ein Fehler bei der Preisauszeichnung passiert, der zu einem Schaden von ca. 150 Euro führte. Mein Vorgesetzter war verärgert und sprach von Konsequenzen. Kann mein Arbeitgeber mir diesen Betrag einfach vom nächsten Gehalt abziehen? War ja keine Absicht."
+            "name": "Klaus",
+            "situation": "Ich habe neu angefangen und mein Vertrag nennt 40 Std./Woche. Im Gespräch war aber von Vertrauensarbeitszeit die Rede. Jetzt verlangt mein Chef detaillierte Zeitnachweise für alle Tätigkeiten. Gilt der schriftliche Vertrag oder die mündliche Absprache? Muss ich bei Vertrauensarbeitszeit wirklich alles minutengenau dokumentieren?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Lena",
-            "situation": "Nach meiner Probezeit vor sechs Monaten hat mein Chef mir mündlich einen Bonus für mein erstes eigenes Projekt versprochen. Das Projekt ist nun fertig, aber er meint, wegen Budgetkürzungen ginge der Bonus nicht und es sei nur zur Motivation gesagt worden. Ist so eine mündliche Zusage nach der Probezeit bindend, auch ohne Zeugen?"
+            "name": "Fatima",
+            "situation": "Ich arbeite im Einzelhandel. Mir ist gestern aus Unachtsamkeit ein Fehler bei der Preisauszeichnung passiert, der zu einem Schaden von ca. 150 Euro führte. Mein Vorgesetzter war verärgert und sprach von Konsequenzen. Kann mein Arbeitgeber mir diesen Betrag einfach vom nächsten Gehalt abziehen? War ja keine Absicht."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "b",
+        "2": "d",
+        "4": "b",
         "3": "f",
-        "4": "x"
+        "1": "x"
     }
 }

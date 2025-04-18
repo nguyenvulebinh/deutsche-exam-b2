@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Lena",
-            "situation": "Ich habe vor zwei Monaten meine neue Stelle angetreten und befinde mich noch in der Probezeit. Leider bin ich gestern krank geworden und musste mich telefonisch bei meiner Chefin krankmelden. Reicht das aus, oder muss ich zusätzlich noch etwas Schriftliches einreichen, damit ich keine Probleme bekomme? Ich möchte auf keinen Fall einen schlechten Eindruck machen."
+            "name": "Robert",
+            "situation": "Ich arbeite seit einem Jahr in einem IT-Unternehmen. Im Vertrag steht eine 40-Stunden-Woche. Wegen eines dringenden Projekts musste ich letzten Monat fast 30 Überstunden leisten. Mein Chef sagt nun, ich solle die Stunden durch Freizeit ausgleichen (\"abfeiern\"), aber ich hätte das Geld lieber ausgezahlt. Gibt es eine Regelung, die besagt, dass Überstunden immer ausgezahlt werden müssen, wenn der Mitarbeiter das wünscht?"
         },
         {
             "id": 2,
-            "name": "Markus",
-            "situation": "Mein Chef hat mir letzte Woche mündlich eine deutliche Gehaltserhöhung ab nächsten Monat zugesichert, weil ich ein wichtiges Projekt erfolgreich abgeschlossen habe. Nun steht davon aber nichts in meiner aktuellen Gehaltsabrechnung und auf Nachfrage meinte er, er hätte das nur als Möglichkeit erwähnt. Wie kann ich mein Recht auf die Zusage durchsetzen?"
-        },
-        {
-            "id": 3,
             "name": "Sabine",
             "situation": "In meinem Arbeitsvertrag steht, dass ich für meine Tätigkeit im Außendienst spezielle, repräsentative Kleidung tragen muss, die vom Unternehmen vorgegeben wird. Es ist aber nicht geregelt, wer die Kosten dafür trägt. Mein Arbeitgeber erwartet nun, dass ich mir diese Kleidungsstücke selbst kaufe. Ist das rechtens?"
         },
         {
+            "id": 3,
+            "name": "Lena",
+            "situation": "Ich habe vor zwei Monaten meine neue Stelle angetreten und befinde mich noch in der Probezeit. Leider bin ich gestern krank geworden und musste mich telefonisch bei meiner Chefin krankmelden. Reicht das aus, oder muss ich zusätzlich noch etwas Schriftliches einreichen, damit ich keine Probleme bekomme? Ich möchte auf keinen Fall einen schlechten Eindruck machen."
+        },
+        {
             "id": 4,
-            "name": "Robert",
-            "situation": "Ich arbeite seit einem Jahr in einem IT-Unternehmen. Im Vertrag steht eine 40-Stunden-Woche. Wegen eines dringenden Projekts musste ich letzten Monat fast 30 Überstunden leisten. Mein Chef sagt nun, ich solle die Stunden durch Freizeit ausgleichen (\"abfeiern\"), aber ich hätte das Geld lieber ausgezahlt. Gibt es eine Regelung, die besagt, dass Überstunden immer ausgezahlt werden müssen, wenn der Mitarbeiter das wünscht?"
+            "name": "Markus",
+            "situation": "Mein Chef hat mir letzte Woche mündlich eine deutliche Gehaltserhöhung ab nächsten Monat zugesichert, weil ich ein wichtiges Projekt erfolgreich abgeschlossen habe. Nun steht davon aber nichts in meiner aktuellen Gehaltsabrechnung und auf Nachfrage meinte er, er hätte das nur als Möglichkeit erwähnt. Wie kann ich mein Recht auf die Zusage durchsetzen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "f",
-        "3": "a",
-        "4": "x"
+        "3": "d",
+        "4": "f",
+        "2": "a",
+        "1": "x"
     }
 }

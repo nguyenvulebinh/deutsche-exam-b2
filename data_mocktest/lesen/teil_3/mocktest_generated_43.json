@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Martha",
-            "situation": "Ich arbeite im Vertrieb und mein Chef hat mir letzten Monat mündlich eine Leistungsprämie für ein erfolgreiches Projekt fest zugesagt. Jetzt steht die Gehaltsabrechnung an, aber von der Prämie ist nichts zu sehen. Als ich ihn darauf ansprach, meinte er, er könne sich an keine feste Zusage erinnern. Habe ich irgendeine Möglichkeit, das Geld doch noch zu bekommen? Schriftlich habe ich leider nichts."
-        },
-        {
-            "id": 2,
-            "name": "Javier",
-            "situation": "Ich arbeite in der Logistik oft Schichten, die über 9 Stunden dauern. Bisher mache ich nach 6 Stunden eine 30-minütige Pause, mehr nicht. Ein Kollege meinte, das sei bei so langen Arbeitszeiten zu wenig. Stimmt das? Gibt es eine gesetzliche Regelung, wie viel Pause mir bei einer Arbeitszeit von beispielsweise 10 Stunden zusteht? Ich will keinen Ärger, aber auch meine Rechte kennen."
-        },
-        {
-            "id": 3,
             "name": "Leonie",
             "situation": "Ich war im letzten Jahr leider öfter krank, immer nur für ein paar Tage wegen Erkältungen oder Grippe. Jetzt hatte ich ein Gespräch mit meinem Vorgesetzten, in dem er andeutete, dass meine häufigen Fehlzeiten den Betriebsablauf stören würden und man über eine Kündigung nachdenken müsse. Ich arbeite dort seit fünf Jahren. Ist eine Kündigung wegen kurzer, häufiger Krankheiten überhaupt rechtlich möglich?"
         },
         {
-            "id": 4,
+            "id": 2,
+            "name": "Martha",
+            "situation": "Ich arbeite im Vertrieb und mein Chef hat mir letzten Monat mündlich eine Leistungsprämie für ein erfolgreiches Projekt fest zugesagt. Jetzt steht die Gehaltsabrechnung an, aber von der Prämie ist nichts zu sehen. Als ich ihn darauf ansprach, meinte er, er könne sich an keine feste Zusage erinnern. Habe ich irgendeine Möglichkeit, das Geld doch noch zu bekommen? Schriftlich habe ich leider nichts."
+        },
+        {
+            "id": 3,
             "name": "Simone",
             "situation": "Ich arbeite in einer Großküche eines Krankenhauses. Wir müssen alle die vom Betrieb gestellte Bereichskleidung tragen (Kasack, Hose). Zusätzlich sind aber spezielle Sicherheitsschuhe mit Rutschhemmung und Zehenschutzkappe vorgeschrieben. Mein Arbeitgeber meint, diese Sicherheitsschuhe müssten wir selbst kaufen, da sie ja individuell angepasst sein müssen. Muss der Arbeitgeber nicht für zwingend vorgeschriebene Schutzausrüstung aufkommen?"
+        },
+        {
+            "id": 4,
+            "name": "Javier",
+            "situation": "Ich arbeite in der Logistik oft Schichten, die über 9 Stunden dauern. Bisher mache ich nach 6 Stunden eine 30-minütige Pause, mehr nicht. Ein Kollege meinte, das sei bei so langen Arbeitszeiten zu wenig. Stimmt das? Gibt es eine gesetzliche Regelung, wie viel Pause mir bei einer Arbeitszeit von beispielsweise 10 Stunden zusteht? Ich will keinen Ärger, aber auch meine Rechte kennen."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "e",
-        "3": "a",
-        "4": "x"
+        "2": "c",
+        "4": "e",
+        "1": "a",
+        "3": "x"
     }
 }

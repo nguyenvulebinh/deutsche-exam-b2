@@ -3,18 +3,18 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Stefan",
-            "situation": "Ich bin Auszubildender im zweiten Lehrjahr. In letzter Zeit musste ich oft länger bleiben, weil so viel zu tun war. Mein Ausbilder meinte, das gehört dazu, aber schreibt die Stunden nicht auf. Ich dachte, Überstunden müssen für Azubis irgendwie anders geregelt sein, gerade weil ich noch nicht volljährig bin. Bekomme ich dafür Freizeit oder Geld?"
-        },
-        {
-            "id": 2,
             "name": "Maria",
             "situation": "Ich habe vor vier Monaten eine neue Stelle angefangen und bin noch in der Probezeit. Nun bin ich leider krank geworden und muss voraussichtlich eine Woche zu Hause bleiben. Ich habe Angst, dass mir deswegen gekündigt wird, weil ich ja noch nicht fest angestellt bin. Ist das möglich, oder bin ich trotzdem geschützt?"
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Cem",
             "situation": "Mit meinem Vorgesetzten hatte ich mündlich vereinbart, dass ich ab nächstem Monat meine Arbeitszeit auf 30 Stunden pro Woche reduzieren kann. Wir haben uns per Handschlag geeinigt. Jetzt sagt er, er könne sich nicht erinnern und es gäbe nichts Schriftliches. Gilt unsere mündliche Absprache denn gar nicht? Was kann ich tun?"
+        },
+        {
+            "id": 3,
+            "name": "Stefan",
+            "situation": "Ich bin Auszubildender im zweiten Lehrjahr. In letzter Zeit musste ich oft länger bleiben, weil so viel zu tun war. Mein Ausbilder meinte, das gehört dazu, aber schreibt die Stunden nicht auf. Ich dachte, Überstunden müssen für Azubis irgendwie anders geregelt sein, gerade weil ich noch nicht volljährig bin. Bekomme ich dafür Freizeit oder Geld?"
         },
         {
             "id": 4,
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "f",
-        "3": "a",
+        "3": "d",
+        "1": "f",
+        "2": "a",
         "4": "x"
     }
 }

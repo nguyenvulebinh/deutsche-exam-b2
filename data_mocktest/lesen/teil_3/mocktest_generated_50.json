@@ -3,18 +3,18 @@
     "people_seeking_info": [
         {
             "id": 1,
+            "name": "Lena",
+            "situation": "Ich arbeite in der Altenpflege mit langen Schichten. Wegen Personalmangel oder Notfällen schaffe ich es oft kaum, meine gesetzliche Pause zu nehmen, manchmal lasse ich sie ganz ausfallen. Hat mein Arbeitgeber die Pflicht sicherzustellen, dass ich meine Pause tatsächlich nehme, oder ist das nur meine Verantwortung? Was sind meine genauen Rechte bezüglich Pausen laut Arbeitszeitgesetz?"
+        },
+        {
+            "id": 2,
             "name": "Julia",
             "situation": "Mein befristeter Arbeitsvertrag endet in zwei Monaten, mitten in meiner sechsmonatigen Probezeit. Meine Leistungen waren gut, und mein Chef erwähnte vage eine mögliche Verlängerung, aber nichts Offizielles. Ich bin unsicher über meinen Status. Endet der Vertrag einfach automatisch oder gelten hier die Kündigungsregeln der Probezeit? Ich brauche Klarheit, was passiert, wenn ein befristeter Vertrag während der Probezeit ausläuft."
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Ben",
             "situation": "Ich hatte heute Morgen auf dem Weg zur Arbeit einen leichten Fahrradsturz (Wegeunfall). Nur ein paar Schrammen, ich glaube nichts Ernstes. Ein Kollege meinte aber, ich müsse das unbedingt der Firma melden, auch wegen möglicher Spätfolgen und der gesetzlichen Unfallversicherung. Ist das bei so einer Kleinigkeit wirklich nötig? Ich bin recht neu und möchte keinen Ärger machen."
-        },
-        {
-            "id": 3,
-            "name": "Lena",
-            "situation": "Ich arbeite in der Altenpflege mit langen Schichten. Wegen Personalmangel oder Notfällen schaffe ich es oft kaum, meine gesetzliche Pause zu nehmen, manchmal lasse ich sie ganz ausfallen. Hat mein Arbeitgeber die Pflicht sicherzustellen, dass ich meine Pause tatsächlich nehme, oder ist das nur meine Verantwortung? Was sind meine genauen Rechte bezüglich Pausen laut Arbeitszeitgesetz?"
         },
         {
             "id": 4,
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "e",
-        "3": "a",
+        "2": "c",
+        "3": "e",
+        "1": "a",
         "4": "x"
     }
 }

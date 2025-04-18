@@ -1,0 +1,69 @@
+{
+    "thema": "Konflikte und Lösungen am Arbeitsplatz",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Eine Kollegin in meiner Abteilung verbreitet ständig Gerüchte über mich, die nicht wahr sind. Das Arbeitsklima leidet darunter sehr und ich fühle mich unwohl. Ich habe versucht, sie darauf anzusprechen, aber sie streitet alles ab. Ich möchte das professionell klären, ohne dass es weiter eskaliert. Wie gehe ich am besten vor? Gibt es offizielle Stellen in der Firma?"
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Mein Vorgesetzter gibt mir regelmäßig Aufgaben, die weit über das hinausgehen, was in meinem Arbeitsvertrag als Tätigkeitsbereich beschrieben ist. Es sind keine einfachen Zusatzaufgaben, sondern erfordern Einarbeitung. Ich schaffe meine eigentliche Arbeit kaum noch. Kann ich diese zusätzlichen Aufgaben ablehnen oder muss ich alles machen, was der Chef sagt?"
+        },
+        {
+            "id": 3,
+            "name": "Sofia",
+            "situation": "Ich beobachte seit Wochen, wie ein Teammitglied von anderen systematisch ausgegrenzt und schlechtgemacht wird. Es werden abfällige Bemerkungen gemacht und wichtige Informationen vorenthalten. Ich finde das schrecklich und möchte der betroffenen Person helfen, habe aber Angst, selbst zum Ziel zu werden oder Ärger zu bekommen. Was kann ich tun, um zu unterstützen?"
+        },
+        {
+            "id": 4,
+            "name": "Jonas",
+            "situation": "Ich habe gestern eine formelle Abmahnung erhalten, weil ich diese Woche zweimal ca. 15 Minuten zu spät zur Arbeit kam. Grund waren massive, unangekündigte Störungen im öffentlichen Nahverkehr. Mein Chef meinte nur, das sei mein Problem. Ist diese Abmahnung überhaupt gültig unter diesen Umständen? Kann ich sofort etwas dagegen tun und beeinflusst das meine Chancen auf die bald anstehende Beförderung?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Ben",
+            "timestamp": "vor 5 Stunden",
+            "content": "Zivilcourage ist wichtig! Sprich die betroffene Person diskret an und biete deine Unterstützung an. Du kannst vorschlagen, gemeinsam zum Betriebsrat oder Vertrauensperson zu gehen. Dokumentiere deine Beobachtungen sachlich (Datum, Uhrzeit, Vorfall). Allein das Wissen, nicht allein zu sein, hilft oft schon. Direkt eingreifen ist mutig, aber überlege dir gut, wann und wie."
+        },
+        {
+            "id": "b",
+            "author": "Petra",
+            "timestamp": "vor 30 Minuten",
+            "content": "Schlechtes Arbeitsklima ist Gift für jede Firma. Ich finde es unmöglich, wenn Kollegen hinter dem Rücken übereinander reden oder sich gegenseitig das Leben schwer machen. Da sollte die Führungsetage viel stärker eingreifen und für Fairness sorgen. Bei uns in der Firma gab es deswegen auch schon mal richtig Ärger."
+        },
+        {
+            "id": "c",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das ist eine schwierige Situation. Dokumentiere konkrete Vorfälle (was, wann, wer war dabei?). Sprich noch einmal ruhig mit der Kollegin, vielleicht mit einem Zeugen. Wenn das nichts nützt, wende dich an den Betriebsrat (falls vorhanden) oder die Personalabteilung. Wichtig ist, sachlich zu bleiben und Beweise zu sammeln, statt selbst Gerüchte zu streuen."
+        },
+        {
+            "id": "d",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Überstunden sind bei uns leider an der Tagesordnung. Der Chef erwartet, dass wir flexibel sind, auch wenn im Vertrag 40 Stunden stehen. Angeblich wird das alles irgendwann ausgeglichen, aber ich sehe davon wenig. Ich frage mich, ob man Überstunden generell ablehnen kann, wenn es zu viel wird."
+        },
+        {
+            "id": "e",
+            "author": "Anna",
+            "timestamp": "vor 45 Minuten",
+            "content": "Prüfe genau deinen Arbeitsvertrag und die dort definierte Stellenbeschreibung. Grundsätzlich gilt das Weisungsrecht des Arbeitgebers, aber nur im Rahmen des Vertrags. Wenn Aufgaben dauerhaft und wesentlich davon abweichen, solltest du das Gespräch mit dem Chef suchen, am besten mit Verweis auf den Vertrag. Dokumentiere die zugewiesenen Aufgaben. Eine Ablehnung ist riskant, aber ein klärendes Gespräch oft sinnvoll."
+        },
+        {
+            "id": "f",
+            "author": "Yasmin",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wichtig zu wissen ist ja der allgemeine Kündigungsschutz in Deutschland. Nach sechs Monaten Betriebszugehörigkeit kann einem nicht einfach so gekündigt werden, es braucht triftige Gründe. Das gibt einem schon eine gewisse Sicherheit, finde ich. Bei Befristungen sieht das natürlich anders aus."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

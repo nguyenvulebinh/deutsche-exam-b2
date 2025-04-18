@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsvertrag und Arbeitsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich habe vor zwei Monaten meine neue Stelle angetreten und befinde mich noch in der Probezeit. Leider bin ich gestern krank geworden und musste mich telefonisch bei meiner Chefin krankmelden. Reicht das aus, oder muss ich zusätzlich noch etwas Schriftliches einreichen, damit ich keine Probleme bekomme? Ich möchte auf keinen Fall einen schlechten Eindruck machen."
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Mein Chef hat mir letzte Woche mündlich eine deutliche Gehaltserhöhung ab nächsten Monat zugesichert, weil ich ein wichtiges Projekt erfolgreich abgeschlossen habe. Nun steht davon aber nichts in meiner aktuellen Gehaltsabrechnung und auf Nachfrage meinte er, er hätte das nur als Möglichkeit erwähnt. Wie kann ich mein Recht auf die Zusage durchsetzen?"
+        },
+        {
+            "id": 3,
+            "name": "Sabine",
+            "situation": "In meinem Arbeitsvertrag steht, dass ich für meine Tätigkeit im Außendienst spezielle, repräsentative Kleidung tragen muss, die vom Unternehmen vorgegeben wird. Es ist aber nicht geregelt, wer die Kosten dafür trägt. Mein Arbeitgeber erwartet nun, dass ich mir diese Kleidungsstücke selbst kaufe. Ist das rechtens?"
+        },
+        {
+            "id": 4,
+            "name": "Robert",
+            "situation": "Ich arbeite seit einem Jahr in einem IT-Unternehmen. Im Vertrag steht eine 40-Stunden-Woche. Wegen eines dringenden Projekts musste ich letzten Monat fast 30 Überstunden leisten. Mein Chef sagt nun, ich solle die Stunden durch Freizeit ausgleichen (\"abfeiern\"), aber ich hätte das Geld lieber ausgezahlt. Gibt es eine Regelung, die besagt, dass Überstunden immer ausgezahlt werden müssen, wenn der Mitarbeiter das wünscht?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Benno",
+            "timestamp": "vor 2 Stunden",
+            "content": "Wenn es sich um spezifische Dienstkleidung handelt, die eindeutig dem Unternehmensbild dient und kaum privat nutzbar ist (z.B. Uniform mit Logo), muss in der Regel der Arbeitgeber die Kosten tragen, wenn im Vertrag nichts anderes *wirksam* vereinbart wurde. Die Kosten einfach auf den Arbeitnehmer abzuwälzen, ist oft nicht zulässig. Prüfe deinen Vertrag genau auf eine Klausel dazu."
+        },
+        {
+            "id": "b",
+            "author": "Clara",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ärgerlich, wenn man krank ist! Denk daran, dass du auch während der Krankheit Anspruch auf Lohnfortzahlung hast, normalerweise für bis zu sechs Wochen. Danach gibt es Krankengeld von der Krankenkasse. Gute Besserung erstmal!"
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Gehaltsverhandlungen sind immer schwierig. Wichtig ist, gut vorbereitet zu sein und seine Leistungen klar darzustellen. Manchmal hilft es auch, sich über branchenübliche Gehälter zu informieren, um eine realistische Forderung zu stellen. Nicht aufgeben!"
+        },
+        {
+            "id": "d",
+            "author": "Tim",
+            "timestamp": "vor 45 Minuten",
+            "content": "Eine telefonische Krankmeldung ist der erste wichtige Schritt. Gesetzlich bist du aber verpflichtet, spätestens am vierten Kalendertag der Krankheit eine ärztliche Arbeitsunfähigkeitsbescheinigung beim Arbeitgeber vorzulegen. Manche Arbeitgeber verlangen das sogar schon früher, schau am besten in deinen Arbeitsvertrag! Sicher ist sicher, besonders in der Probezeit."
+        },
+        {
+            "id": "e",
+            "author": "Florian",
+            "timestamp": "vor 30 Minuten",
+            "content": "Bei uns im Handwerk ist das klar geregelt: Die notwendige Schutzkleidung, also Helm, Sicherheitsschuhe und Handschuhe, muss der Arbeitgeber stellen und bezahlen. Das ist gesetzlich vorgeschrieben wegen der Unfallverhütungsvorschriften. Private Kleidung können wir tragen, was wir wollen."
+        },
+        {
+            "id": "f",
+            "author": "Yasmin",
+            "timestamp": "vor 3 Stunden",
+            "content": "Mündliche Zusagen sind rechtlich zwar bindend, aber leider sehr schwer zu beweisen, wenn es keine Zeugen gab. Im Streitfall steht Aussage gegen Aussage. Für die Zukunft: Lass dir wichtige Vereinbarungen wie Gehaltserhöhungen immer schriftlich bestätigen, z.B. als Nachtrag zum Arbeitsvertrag. Jetzt kannst du nur erneut das Gespräch suchen."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

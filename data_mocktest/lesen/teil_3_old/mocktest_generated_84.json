@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Stefan",
+            "situation": "Ich arbeite im IT-Support und in letzter Zeit kommt es häufig vor, dass ich wegen Systemausfällen deutlich länger bleiben muss, manchmal über 10 Stunden am Tag. Mein Chef meint, das sei in unserer Branche normal. Ist es rechtlich überhaupt erlaubt, regelmäßig so lange zu arbeiten und kann mein Arbeitgeber mich dazu zwingen? Ich brauche dringend Klarheit über die gesetzlichen Arbeitszeitgrenzen."
+        },
+        {
+            "id": 2,
+            "name": "Anja",
+            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen. Leider bin ich am dritten Urlaubstag krank geworden und war laut ärztlichem Attest für fünf Tage arbeitsunfähig. Trotzdem hat mein Arbeitgeber die vollen zwei Wochen von meinem Urlaubskonto abgezogen. Ist das korrekt oder müssten mir die Krankheitstage nicht wieder gutgeschrieben werden?"
+        },
+        {
+            "id": 3,
+            "name": "Maria",
+            "situation": "Vor drei Monaten hat mir mein Abteilungsleiter in einem Gespräch mündlich eine baldige Gehaltserhöhung und mehr Verantwortung zugesagt. Bis heute ist nichts passiert und auf Nachfrage erinnert er sich angeblich nicht mehr genau an die Zusage. Hat so eine mündliche Absprache überhaupt Gewicht oder hätte ich mir das schriftlich geben lassen müssen?"
+        },
+        {
+            "id": 4,
+            "name": "Karim",
+            "situation": "Letzte Woche bin ich im Büroflur über ein Kabel gestolpert und habe mir das Handgelenk leicht verletzt. Da es erst nicht schlimm schien, habe ich es nicht sofort gemeldet. Jetzt tut es aber doch mehr weh. Ein Kollege meinte, man müsse jeden Arbeitsunfall sofort melden. Stimmt das und könnte die verspätete Meldung jetzt Probleme mit der Firma oder der Unfallversicherung geben?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "RalfM",
+            "timestamp": "vor 2 Stunden",
+            "content": "Bei einem Unfall auf dem direkten Weg zur oder von der Arbeit (Wegeunfall) ist es wichtig, diesen unverzüglich dem Arbeitgeber und der Berufsgenossenschaft zu melden. Nur dann besteht voller Versicherungsschutz. Bewahren Sie alle Belege und Arztberichte gut auf!"
+        },
+        {
+            "id": "b",
+            "author": "Sandra88",
+            "timestamp": "vor 50 Minuten",
+            "content": "Ganz klar: Wenn du im Urlaub krank wirst und das mit einem ärztlichen Attest nachweisen kannst, gelten diese Tage nicht als Urlaub. Dein Arbeitgeber muss dir diese Urlaubstage wieder gutschreiben. Das ist im Bundesurlaubsgesetz §9 geregelt. Sprich ihn nochmal darauf an!"
+        },
+        {
+            "id": "c",
+            "author": "ExpertinJur",
+            "timestamp": "vor 4 Stunden",
+            "content": "Mündliche Zusagen sind zwar theoretisch gültig, aber in der Praxis schwer zu beweisen, besonders bei Gehalt oder Beförderung. Ohne Zeugen oder schriftliche Bestätigung steht Aussage gegen Aussage. Für wichtige Vereinbarungen immer auf eine schriftliche Form bestehen, z.B. eine Ergänzung zum Arbeitsvertrag."
+        },
+        {
+            "id": "d",
+            "author": "Peter_H",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das Arbeitszeitgesetz (ArbZG) begrenzt die tägliche Arbeitszeit auf 8 Stunden. Sie kann auf bis zu 10 Stunden verlängert werden, wenn innerhalb von 6 Monaten ein Durchschnitt von 8 Stunden werktäglich nicht überschritten wird. Eine regelmäßige Überschreitung von 10 Stunden ist nicht zulässig, außer in seltenen Notfällen."
+        },
+        {
+            "id": "e",
+            "author": "AnnaK",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wenn man krank ist, muss man sich ja unverzüglich beim Arbeitgeber krankmelden, meist telefonisch oder per Mail. Das ärztliche Attest wird oft erst ab dem dritten Tag verlangt, das steht aber im Arbeitsvertrag oder einer Betriebsvereinbarung. Wichtig ist die rechtzeitige Information."
+        },
+        {
+            "id": "f",
+            "author": "Sicherheitsfan",
+            "timestamp": "vor 30 Minuten",
+            "content": "Arbeitgeber haben eine Fürsorgepflicht und müssen für einen sicheren Arbeitsplatz sorgen. Dazu gehört auch, Gefahrenquellen wie lose Kabel zu beseitigen. Regelmäßige Sicherheitsunterweisungen und Gefährdungsbeurteilungen sind wichtig, um Unfälle von vornherein zu vermeiden."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

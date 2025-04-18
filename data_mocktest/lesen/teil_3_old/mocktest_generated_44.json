@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsvertrag und Probezeit",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich bin total verunsichert. Ich habe vor drei Monaten in einer neuen Firma angefangen und bin noch in der Probezeit. Gestern wurde mir ohne Angabe von Gründen gekündigt, obwohl mein Vorgesetzter letzte Woche noch meine gute Arbeit gelobt hat. Ist das überhaupt erlaubt? Ich dachte, man braucht immer einen Grund für eine Kündigung."
+        },
+        {
+            "id": 2,
+            "name": "Marko",
+            "situation": "Hilfe! Ich bin seit zwei Monaten in meiner Probezeit und habe mich leider letzte Woche erkältet. Ich habe mich ordnungsgemäß krankgemeldet und eine Arbeitsunfähigkeitsbescheinigung eingereicht. Jetzt habe ich aber panische Angst, dass mein Arbeitgeber mich deswegen kündigt. Kann man während der Probezeit einfach wegen Krankheit entlassen werden?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Ich habe vor Kurzem eine Stelle als Kellnerin angefangen. Der Chef hat mir im Gespräch alles mündlich zugesagt, auch das Gehalt und die Arbeitszeiten. Einen schriftlichen Vertrag habe ich nie bekommen. Er meinte, die ersten sechs Monate seien Probezeit. Gilt das auch ohne schriftlichen Vertrag? Ich bin mir unsicher über meine Rechte."
+        },
+        {
+            "id": 4,
+            "name": "Jonas",
+            "situation": "Ich bin verwirrt. Meine Probezeit sollte eigentlich nach sechs Monaten enden. Kurz davor hat mein Chef sie aber mündlich um weitere drei Monate verlängert, weil ich wegen einer Operation länger krank war. Er meinte, die Krankheitszeit zählt nicht zur Probezeit dazu. Stimmt das mit der Verlängerung und der Krankheitszeit? Ich finde dazu nirgends eine klare Antwort."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Stefan",
+            "timestamp": "vor 45 Minuten",
+            "content": "Leider ja, das ist während der Probezeit (die maximal sechs Monate dauern darf) rechtlich in Ordnung. Beide Seiten können das Arbeitsverhältnis mit einer Frist von nur zwei Wochen kündigen, und dafür muss kein Grund genannt werden. Das vorherige Lob ändert daran leider nichts. Das ist hart, aber so sind die Regeln."
+        },
+        {
+            "id": "b",
+            "author": "Sabine",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ich finde die Probezeit eigentlich eine gute Sache. So können beide Seiten schauen, ob es wirklich passt. Man lernt die Kollegen und die Aufgaben kennen und der Chef sieht, ob man ins Team passt. Man sollte die Zeit nutzen, um viele Fragen zu stellen und sich gut einzuarbeiten."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wichtig ist: Nach der Probezeit greift der allgemeine Kündigungsschutz! Dann kann dir nur noch aus personen-, verhaltens- oder betriebsbedingten Gründen gekündigt werden. Dein Arbeitgeber muss die Kündigung dann gut begründen und die längeren gesetzlichen Kündigungsfristen einhalten. Das ist ein wichtiger Schutz für Arbeitnehmer."
+        },
+        {
+            "id": "d",
+            "author": "Julia",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung allein *wegen* einer kurzzeitigen Krankheit ist auch in der Probezeit nicht ohne Weiteres zulässig. Wichtig ist, dass du dich korrekt krankgemeldet hast. Allerdings braucht der Arbeitgeber in der Probezeit ja generell keinen Grund für eine Kündigung. Wenn er dich also (innerhalb der Kündigungsfrist) entlassen will, kann die Krankheit indirekt eine Rolle spielen, aber er muss es nicht darauf beziehen."
+        },
+        {
+            "id": "e",
+            "author": "Anja",
+            "timestamp": "vor 4 Stunden",
+            "content": "Wenn man krank ist, muss man das dem Arbeitgeber sofort mitteilen und spätestens am vierten Tag eine ärztliche Bescheinigung (AU) vorlegen. Der Arbeitgeber muss dann für bis zu sechs Wochen Lohnfortzahlung leisten. Das ist gesetzlich geregelt und gilt für alle Arbeitnehmer, egal ob in der Probezeit oder nicht."
+        },
+        {
+            "id": "f",
+            "author": "Mehmet",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ein mündlicher Arbeitsvertrag ist grundsätzlich gültig, auch wenn es immer besser ist, alles schriftlich zu haben! Wenn ihr nichts anderes vereinbart habt (auch mündlich nicht), gilt die gesetzliche Regelung, und die sieht eine Probezeit von bis zu sechs Monaten vor. Bestehe aber auf einen schriftlichen Nachweis der Vertragsbedingungen!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "d",
+        "3": "f",
+        "4": "x"
+    }
+}

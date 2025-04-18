@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Lena",
-            "situation": "Ich studiere und mache gerade mein Pflichtpraktikum für die Uni in einer Marketingagentur. Es dauert sechs Monate. Eine Kommilitonin meinte, dass mir der Mindestlohn zusteht, weil es so lang ist. Mein Chef sagt aber, da es ein Pflichtpraktikum laut Studienordnung ist, bekomme ich nichts. Wer hat Recht? Ich bin etwas verwirrt wegen der Dauer des Praktikums."
-        },
-        {
-            "id": 2,
-            "name": "Martin",
-            "situation": "Ich arbeite als IT-Spezialist. Gestern habe ich eine Abmahnung bekommen, weil ich während der Arbeitszeit kurz meine privaten E-Mails gecheckt habe. In unserer Firma gibt es zwar eine Regelung, die private Internetnutzung untersagt, aber es war wirklich nur für fünf Minuten und hat meine Arbeit nicht beeinträchtigt. Ist die Abmahnung wirklich gerechtfertigt für so eine Kleinigkeit?"
-        },
-        {
-            "id": 3,
             "name": "Fatima",
             "situation": "Ich arbeite als Kassiererin in Teilzeit, 20 Stunden pro Woche. Fast jeden Tag muss ich aber 10-15 Minuten länger bleiben, weil die Kassenübergabe so lange dauert oder noch Kunden da sind. Diese Zeit wird mir nicht bezahlt und steht auch nicht als Überstunden im System. Im Arbeitsvertrag steht nichts dazu. Ist das in Ordnung so, oder muss mein Arbeitgeber das irgendwie ausgleichen?"
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "Klaus",
             "situation": "Ich arbeite in einer Werkstatt und brauche spezielle Sicherheitsschuhe (Klasse S3), weil dort schwere Teile herunterfallen können. Mein Arbeitgeber stellt uns zwar Helme und Handschuhe, sagt aber, die Schuhe müssen wir selbst kaufen, da das „persönliche“ Ausstattung sei, die man ja auch woanders tragen könne. Das sehe ich anders, die brauche ich ja *für* die Arbeit. Muss der Arbeitgeber nicht für die gesamte notwendige Schutzausrüstung zahlen? Ich fühle mich da etwas unfair behandelt."
+        },
+        {
+            "id": 3,
+            "name": "Martin",
+            "situation": "Ich arbeite als IT-Spezialist. Gestern habe ich eine Abmahnung bekommen, weil ich während der Arbeitszeit kurz meine privaten E-Mails gecheckt habe. In unserer Firma gibt es zwar eine Regelung, die private Internetnutzung untersagt, aber es war wirklich nur für fünf Minuten und hat meine Arbeit nicht beeinträchtigt. Ist die Abmahnung wirklich gerechtfertigt für so eine Kleinigkeit?"
+        },
+        {
+            "id": 4,
+            "name": "Lena",
+            "situation": "Ich studiere und mache gerade mein Pflichtpraktikum für die Uni in einer Marketingagentur. Es dauert sechs Monate. Eine Kommilitonin meinte, dass mir der Mindestlohn zusteht, weil es so lang ist. Mein Chef sagt aber, da es ein Pflichtpraktikum laut Studienordnung ist, bekomme ich nichts. Wer hat Recht? Ich bin etwas verwirrt wegen der Dauer des Praktikums."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
-        "2": "c",
-        "3": "a",
-        "4": "x"
+        "4": "b",
+        "3": "c",
+        "1": "a",
+        "2": "x"
     }
 }

@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
+            "name": "Anja",
+            "situation": "Ich habe letzte Woche eine schriftliche Abmahnung bekommen, weil ich zweimal wegen unerwarteter S-Bahn-Ausfälle fünf bzw. zehn Minuten zu spät zur Arbeit kam. Mein Chef meinte, Pünktlichkeit sei oberstes Gebot. Ist so eine Abmahnung überhaupt gültig, wenn die Verspätung nicht meine Schuld war? Und heißt das, ich fliege beim nächsten Mal sofort raus?"
+        },
+        {
+            "id": 2,
             "name": "Stefan",
             "situation": "Ich habe vor drei Monaten eine neue Stelle angefangen und befinde mich noch in der Probezeit, die laut Vertrag sechs Monate dauert. Gestern hat mir mein Chef mündlich mitgeteilt, dass das Arbeitsverhältnis mit einer Frist von zwei Wochen beendet wird, ohne einen Grund zu nennen. Ich bin schockiert. Darf er das einfach so ohne Begründung und mit so kurzer Frist machen?"
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Laura",
             "situation": "Bei meinem Einstellungsgespräch vor einem Jahr versprach mir der Abteilungsleiter mündlich, dass ich nach erfolgreicher Einarbeitung eine deutliche Gehaltserhöhung bekommen würde. Ich habe meine Aufgaben gut erfüllt, aber von der Erhöhung ist keine Rede mehr. Der Abteilungsleiter sagt, er könne sich nicht erinnern. Kann ich mich auf diese mündliche Zusage berufen?"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Mehmet",
             "situation": "Ich arbeite in einer Werkstatt. Letzte Woche bin ich von einer Leiter gefallen, als ich ein Regal einräumen wollte. Dabei habe ich mir den Arm gebrochen. Mein Vorgesetzter meint, ich sei selbst schuld, weil ich die Leiter vielleicht nicht richtig aufgestellt habe. Muss ich die Behandlungskosten selbst tragen oder wer ist zuständig?"
-        },
-        {
-            "id": 4,
-            "name": "Anja",
-            "situation": "Ich habe letzte Woche eine schriftliche Abmahnung bekommen, weil ich zweimal wegen unerwarteter S-Bahn-Ausfälle fünf bzw. zehn Minuten zu spät zur Arbeit kam. Mein Chef meinte, Pünktlichkeit sei oberstes Gebot. Ist so eine Abmahnung überhaupt gültig, wenn die Verspätung nicht meine Schuld war? Und heißt das, ich fliege beim nächsten Mal sofort raus?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
-        "2": "a",
-        "3": "c",
-        "4": "x"
+        "2": "b",
+        "3": "a",
+        "4": "c",
+        "1": "x"
     }
 }

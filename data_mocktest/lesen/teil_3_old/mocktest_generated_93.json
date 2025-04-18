@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich arbeite seit einem Jahr im Marketing. In letzter Zeit verlangt mein Chef oft, dass ich länger bleibe, manchmal auch spontan. Ich bin unsicher, ob ich dazu verpflichtet bin und wie diese Überstunden eigentlich vergütet werden müssen – werden sie bezahlt oder gibt es Freizeitausgleich? Im Vertrag steht dazu nichts Genaues. Wer weiß, wie das generell geregelt ist?"
+        },
+        {
+            "id": 2,
+            "name": "Marek",
+            "situation": "Ich bin total geschockt. Ich habe vor drei Monaten in einer neuen Firma angefangen und bin noch in der Probezeit (6 Monate). Heute habe ich ohne Angabe von Gründen die Kündigung bekommen, mit einer Frist von nur zwei Wochen. Ist das überhaupt erlaubt, so kurzfristig und ohne Begründung? Was kann ich jetzt tun?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Ich hatte letzte Woche Urlaub, wurde aber leider am zweiten Tag krank und war drei Tage arbeitsunfähig. Ich war beim Arzt und habe auch eine Krankschreibung eingereicht. Zählen diese Krankheitstage jetzt trotzdem als Urlaubstage oder bekomme ich die Urlaubstage zurück? Ich möchte meinen Urlaub ungern verlieren."
+        },
+        {
+            "id": 4,
+            "name": "Stefan",
+            "situation": "Ich habe vor vier Monaten angefangen, als Softwareentwickler zu arbeiten. Wir haben damals alles nur mündlich besprochen – Gehalt, Aufgaben, 40 Stunden pro Woche. Es läuft auch gut, aber ich hätte gerne etwas Schriftliches, vor allem weil wir auch über einen jährlichen Bonus gesprochen hatten. Habe ich einen Anspruch darauf, dass mir mein Arbeitgeber die wichtigsten Bedingungen schriftlich bestätigt?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Überstunden müssen in der Regel im Arbeitsvertrag vereinbart oder durch eine Betriebsvereinbarung geregelt sein. Wenn dein Chef sie anordnet, besonders kurzfristig, sollte das die Ausnahme sein (z.B. Notfälle). Bezüglich der Vergütung gibt es zwei Möglichkeiten: Auszahlung oder Freizeitausgleich. Was gilt, sollte im Vertrag stehen oder betrieblich üblich sein. Sprich am besten nochmal mit dem Chef oder HR."
+        },
+        {
+            "id": "b",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ja, das ist leider während der vereinbarten Probezeit (maximal 6 Monate) zulässig. Innerhalb dieser Zeit können beide Seiten das Arbeitsverhältnis mit einer Frist von zwei Wochen kündigen. Eine Angabe von Gründen ist dabei nicht erforderlich. Der allgemeine Kündigungsschutz greift meist erst nach sechs Monaten."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Keine Sorge! Wenn du während deines genehmigten Urlaubs krank wirst und das unverzüglich mit einem ärztlichen Attest nachweist, werden dir diese Krankheitstage nicht als Urlaub angerechnet. Die Urlaubstage bleiben dir erhalten und du kannst sie später nehmen. Wichtig ist die rechtzeitige Vorlage der Krankschreibung."
+        },
+        {
+            "id": "d",
+            "author": "Petra",
+            "timestamp": "vor 1 Stunde",
+            "content": "Man darf ja nicht unbegrenzt Überstunden machen! Das Arbeitszeitgesetz regelt klar die Höchstarbeitszeit pro Tag und Woche. Im Durchschnitt dürfen es über sechs Monate nicht mehr als acht Stunden werktäglich sein. Vor allem bei Minderjährigen sind die Regeln noch strenger. Verstöße können teuer werden."
+        },
+        {
+            "id": "e",
+            "author": "Florian",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wenn man länger als sechs Monate im Betrieb ist, genießt man Kündigungsschutz. Eine Kündigung muss dann sozial gerechtfertigt sein, z.B. aus betrieblichen oder personenbedingten Gründen. Außerdem gelten dann längere Kündigungsfristen, die von der Betriebszugehörigkeit abhängen. Einfach so kündigen geht dann nicht mehr."
+        },
+        {
+            "id": "f",
+            "author": "Anja",
+            "timestamp": "vor 30 Minuten",
+            "content": "Urlaub ist so wichtig! Ich finde, jeder sollte seinen vollen Urlaubsanspruch auch wirklich zur Erholung nutzen. Manche Chefs machen es einem echt schwer, den Urlaub genehmigt zu bekommen, besonders im Sommer. Da muss man oft schon am Jahresanfang alles planen. Aber ohne Pause geht man kaputt."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Leon",
-            "situation": "Ich arbeite in einem kleinen Büro und mein Chef gibt mir oft kurz vor Feierabend noch dringende Aufgaben. Dadurch mache ich regelmäßig Überstunden, die nicht bezahlt werden. Ich fühle mich unter Druck gesetzt, möchte aber die gute Beziehung zu meinem Chef nicht gefährden. Wie kann ich ihm freundlich, aber bestimmt sagen, dass ich nicht ständig länger bleiben kann oder will?"
+            "name": "Fatima",
+            "situation": "Ich hatte für letzte Woche Urlaub genehmigt bekommen. Leider bin ich direkt am ersten Urlaubstag krank geworden und habe meinem Arbeitgeber sofort eine ärztliche Arbeitsunfähigkeitsbescheinigung geschickt. Zählen diese Krankheitstage jetzt trotzdem als Urlaub oder bekomme ich die Urlaubstage zurückerstattet?"
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Fatima",
-            "situation": "Ich hatte für letzte Woche Urlaub genehmigt bekommen. Leider bin ich direkt am ersten Urlaubstag krank geworden und habe meinem Arbeitgeber sofort eine ärztliche Arbeitsunfähigkeitsbescheinigung geschickt. Zählen diese Krankheitstage jetzt trotzdem als Urlaub oder bekomme ich die Urlaubstage zurückerstattet?"
+            "name": "David",
+            "situation": "Ich arbeite auf dem Bau. Laut Vertrag muss ich spezielle Sicherheitsschuhe der Klasse S3 und eine Schnittschutzhose tragen. Mein Arbeitgeber stellt zwar Helm und Handschuhe, sagt aber, Schuhe und Hose müsse ich selbst kaufen, da das persönliche Ausstattung sei. Stimmt das? Muss der Arbeitgeber nicht für vorgeschriebene persönliche Schutzausrüstung (PSA) aufkommen?"
         },
         {
             "id": 4,
-            "name": "David",
-            "situation": "Ich arbeite auf dem Bau. Laut Vertrag muss ich spezielle Sicherheitsschuhe der Klasse S3 und eine Schnittschutzhose tragen. Mein Arbeitgeber stellt zwar Helm und Handschuhe, sagt aber, Schuhe und Hose müsse ich selbst kaufen, da das persönliche Ausstattung sei. Stimmt das? Muss der Arbeitgeber nicht für vorgeschriebene persönliche Schutzausrüstung (PSA) aufkommen?"
+            "name": "Leon",
+            "situation": "Ich arbeite in einem kleinen Büro und mein Chef gibt mir oft kurz vor Feierabend noch dringende Aufgaben. Dadurch mache ich regelmäßig Überstunden, die nicht bezahlt werden. Ich fühle mich unter Druck gesetzt, möchte aber die gute Beziehung zu meinem Chef nicht gefährden. Wie kann ich ihm freundlich, aber bestimmt sagen, dass ich nicht ständig länger bleiben kann oder will?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
+        "4": "d",
         "2": "f",
-        "3": "b",
-        "4": "x"
+        "1": "b",
+        "3": "x"
     }
 }

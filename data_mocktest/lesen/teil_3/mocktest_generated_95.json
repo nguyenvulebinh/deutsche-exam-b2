@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jonas",
-            "situation": "Ich bin seit fünf Monaten in meinem neuen Job, die Probezeit beträgt sechs Monate. Letzte Woche wurde ich noch für meine gute Arbeit gelobt, aber heute habe ich völlig überraschend meine Kündigung erhalten. Ich bin total verwirrt. Ist das überhaupt erlaubt, so kurzfristig und ohne Grund, obwohl die Probezeit fast vorbei ist? Was kann ich jetzt tun?"
-        },
-        {
-            "id": 2,
-            "name": "Maria",
-            "situation": "Ich hatte meinen Jahresurlaub geplant und genehmigt bekommen. Dummerweise wurde ich genau zwei Tage vorher krank und musste eine Woche mit Attest zu Hause bleiben. Danach bin ich dann in den restlichen Urlaub gefahren. Jetzt hat mein Arbeitgeber die Woche Krankheit einfach von meinen Urlaubstagen abgezogen. Ist das rechtens oder muss er mir die Tage gutschreiben?"
-        },
-        {
-            "id": 3,
             "name": "Leonie",
             "situation": "Ich arbeite im Labor und muss laut Vertrag und Vorschrift spezielle Schutzkleidung tragen. Meine Firma stellt zwar Schutzbrillen und Handschuhe, aber den vorgeschriebenen Laborkittel und die Sicherheitsschuhe soll ich selbst kaufen und bezahlen. Ist der Arbeitgeber nicht verpflichtet, die Kosten für notwendige Schutzausrüstung komplett zu übernehmen?"
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "Stefan",
             "situation": "In meinem Mitarbeitergespräch vor zwei Monaten hat mein Chef mir fest eine Gehaltserhöhung ab dem nächsten Quartal mündlich zugesagt. Jetzt habe ich meine neue Abrechnung bekommen und es ist nichts passiert. Als ich nachgefragt habe, meinte mein Chef, er könne sich an keine feste Zusage erinnern. Ist so eine mündliche Zusage überhaupt gültig und wie kann ich das jetzt nachweisen?"
+        },
+        {
+            "id": 3,
+            "name": "Maria",
+            "situation": "Ich hatte meinen Jahresurlaub geplant und genehmigt bekommen. Dummerweise wurde ich genau zwei Tage vorher krank und musste eine Woche mit Attest zu Hause bleiben. Danach bin ich dann in den restlichen Urlaub gefahren. Jetzt hat mein Arbeitgeber die Woche Krankheit einfach von meinen Urlaubstagen abgezogen. Ist das rechtens oder muss er mir die Tage gutschreiben?"
+        },
+        {
+            "id": 4,
+            "name": "Jonas",
+            "situation": "Ich bin seit fünf Monaten in meinem neuen Job, die Probezeit beträgt sechs Monate. Letzte Woche wurde ich noch für meine gute Arbeit gelobt, aber heute habe ich völlig überraschend meine Kündigung erhalten. Ich bin total verwirrt. Ist das überhaupt erlaubt, so kurzfristig und ohne Grund, obwohl die Probezeit fast vorbei ist? Was kann ich jetzt tun?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "4": "a",
+        "3": "b",
+        "1": "c",
+        "2": "x"
     }
 }

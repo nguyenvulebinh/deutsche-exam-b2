@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
+            "name": "Lena",
+            "situation": "Ich bin seit zwei Monaten in meiner neuen Firma, also noch in der Probezeit. Letzte Woche war ich drei Tage krankgeschrieben (Grippe, mit Attest). Jetzt mache ich mir Sorgen, dass mein Chef das negativ bewertet und mir deswegen vielleicht noch in der Probezeit kündigt. Kann eine kurze, attestierte Krankheit ein Kündigungsgrund während der Probezeit sein?"
+        },
+        {
+            "id": 2,
             "name": "Stefan",
             "situation": "Ich verlasse meine Firma zum 31. August dieses Jahres, nachdem ich seit Jahresbeginn dort beschäftigt war. Mein Vertrag sieht einen Jahresurlaub von 24 Tagen vor. Wie viele Urlaubstage stehen mir für dieses Jahr noch genau zu, wenn ich Ende August ausscheide? Ich möchte sichergehen, dass die Abrechnung korrekt ist."
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Maria",
             "situation": "Ich arbeite fast täglich 1-2 Stunden länger als vertraglich vereinbart, weil mein Chef mir kurz vor Feierabend zusätzliche Aufgaben gibt. Diese Überstunden werden nirgendwo erfasst. Als ich Bezahlung oder Freizeitausgleich ansprach, meinte er nur, jeder müsse mal mit anpacken. Wie kann ich diese Mehrarbeit nachweisen und habe ich Anspruch auf Vergütung?"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Jürgen",
             "situation": "Ich arbeite auf einer Baustelle. Der Arbeitgeber stellt Helme und Warnwesten, aber er verlangt, dass wir die vorgeschriebenen S3-Sicherheitsschuhe selbst kaufen. Diese sind laut Vorschrift zwingend erforderlich für unsere Tätigkeit. Ist der Arbeitgeber nicht verpflichtet, die Kosten für diese notwendige Schutzausrüstung zu übernehmen?"
-        },
-        {
-            "id": 4,
-            "name": "Lena",
-            "situation": "Ich bin seit zwei Monaten in meiner neuen Firma, also noch in der Probezeit. Letzte Woche war ich drei Tage krankgeschrieben (Grippe, mit Attest). Jetzt mache ich mir Sorgen, dass mein Chef das negativ bewertet und mir deswegen vielleicht noch in der Probezeit kündigt. Kann eine kurze, attestierte Krankheit ein Kündigungsgrund während der Probezeit sein?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "f",
-        "2": "a",
-        "3": "d",
-        "4": "x"
+        "2": "f",
+        "3": "a",
+        "4": "d",
+        "1": "x"
     }
 }

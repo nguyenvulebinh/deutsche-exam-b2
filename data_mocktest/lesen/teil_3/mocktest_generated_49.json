@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jonas",
-            "situation": "Ich arbeite in der IT und mein Vorgesetzter verlangt regelmäßig, dass ich Überstunden mache, oft bis zu 10 Stunden pro Woche. Diese werden weder bezahlt noch durch Freizeit ausgeglichen. In meinem Vertrag steht nur, dass Überstunden bei betrieblicher Notwendigkeit möglich sind, aber nichts zur Vergütung. Ist das rechtens und was kann ich tun?"
-        },
-        {
-            "id": 2,
             "name": "Elena",
             "situation": "Ich hatte zwei Wochen genehmigten Urlaub. In der zweiten Woche wurde ich krank (Grippe) und habe für vier Tage eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) eingereicht. Mein Arbeitgeber hat mir trotzdem die vollen zwei Wochen vom Urlaubsanspruch abgezogen. Er meint, ich war ja schon im Urlaub. Stimmt das so?"
         },
         {
+            "id": 2,
+            "name": "Sofia",
+            "situation": "Ich wurde vor drei Monaten eingestellt und bin noch in der sechsmonatigen Probezeit. Gestern erhielt ich eine schriftliche Kündigung mit nur einer Woche Kündigungsfrist. Als Grund wurde pauschal 'fehlende Eignung' genannt. Ich finde das unfair, da ich vorher positives Feedback bekam. Sind diese kurze Frist und der vage Grund in der Probezeit erlaubt?"
+        },
+        {
             "id": 3,
-            "name": "Markus",
-            "situation": "Mein befristeter Arbeitsvertrag läuft in zwei Monaten aus. Mein Chef hat mir im Mitarbeitergespräch mündlich fest zugesagt, dass ich danach einen unbefristeten Vertrag bekomme, weil er sehr zufrieden ist. Schriftlich habe ich aber noch nichts erhalten und werde langsam nervös. Ist diese mündliche Zusage rechtlich bindend?"
+            "name": "Jonas",
+            "situation": "Ich arbeite in der IT und mein Vorgesetzter verlangt regelmäßig, dass ich Überstunden mache, oft bis zu 10 Stunden pro Woche. Diese werden weder bezahlt noch durch Freizeit ausgeglichen. In meinem Vertrag steht nur, dass Überstunden bei betrieblicher Notwendigkeit möglich sind, aber nichts zur Vergütung. Ist das rechtens und was kann ich tun?"
         },
         {
             "id": 4,
-            "name": "Sofia",
-            "situation": "Ich wurde vor drei Monaten eingestellt und bin noch in der sechsmonatigen Probezeit. Gestern erhielt ich eine schriftliche Kündigung mit nur einer Woche Kündigungsfrist. Als Grund wurde pauschal 'fehlende Eignung' genannt. Ich finde das unfair, da ich vorher positives Feedback bekam. Sind diese kurze Frist und der vage Grund in der Probezeit erlaubt?"
+            "name": "Markus",
+            "situation": "Mein befristeter Arbeitsvertrag läuft in zwei Monaten aus. Mein Chef hat mir im Mitarbeitergespräch mündlich fest zugesagt, dass ich danach einen unbefristeten Vertrag bekomme, weil er sehr zufrieden ist. Schriftlich habe ich aber noch nichts erhalten und werde langsam nervös. Ist diese mündliche Zusage rechtlich bindend?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "f",
-        "3": "a",
-        "4": "x"
+        "3": "d",
+        "1": "f",
+        "4": "a",
+        "2": "x"
     }
 }

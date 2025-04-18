@@ -8,13 +8,13 @@
         },
         {
             "id": 2,
-            "name": "Nadja",
-            "situation": "Ich arbeite in einem Labor und laut Arbeitsvertrag muss ich spezielle Schutzkleidung tragen. Schutzbrille und Einmalhandschuhe bekommen wir gestellt, aber den Laborkittel und die Sicherheitsschuhe musste ich selbst kaufen. Mein Chef meinte, das sei so üblich und ich könne es ja von der Steuer absetzen. Ist das wirklich rechtens?"
+            "name": "Karim",
+            "situation": "Ich war letzte Woche während meines genehmigten Urlaubs krank und habe meinem Arbeitgeber auch sofort ein ärztliches Attest vorgelegt. Nun sehe ich auf meiner Urlaubsübersicht, dass diese Krankheitstage trotzdem von meinem Urlaubskonto abgezogen wurden. Darf der Arbeitgeber das einfach so machen? Ich dachte, Urlaubstage bleiben erhalten, wenn man krank wird."
         },
         {
             "id": 3,
-            "name": "Karim",
-            "situation": "Ich war letzte Woche während meines genehmigten Urlaubs krank und habe meinem Arbeitgeber auch sofort ein ärztliches Attest vorgelegt. Nun sehe ich auf meiner Urlaubsübersicht, dass diese Krankheitstage trotzdem von meinem Urlaubskonto abgezogen wurden. Darf der Arbeitgeber das einfach so machen? Ich dachte, Urlaubstage bleiben erhalten, wenn man krank wird."
+            "name": "Nadja",
+            "situation": "Ich arbeite in einem Labor und laut Arbeitsvertrag muss ich spezielle Schutzkleidung tragen. Schutzbrille und Einmalhandschuhe bekommen wir gestellt, aber den Laborkittel und die Sicherheitsschuhe musste ich selbst kaufen. Mein Chef meinte, das sei so üblich und ich könne es ja von der Steuer absetzen. Ist das wirklich rechtens?"
         },
         {
             "id": 4,
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "c",
-        "2": "e",
-        "3": "a",
+        "3": "e",
+        "2": "a",
         "4": "x"
     }
 }

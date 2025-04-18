@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fallstricke im Berufsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Stefan",
+            "situation": "Ich habe vor drei Monaten eine neue Stelle angefangen und befinde mich noch in der Probezeit, die laut Vertrag sechs Monate dauert. Gestern hat mir mein Chef mündlich mitgeteilt, dass das Arbeitsverhältnis mit einer Frist von zwei Wochen beendet wird, ohne einen Grund zu nennen. Ich bin schockiert. Darf er das einfach so ohne Begründung und mit so kurzer Frist machen?"
+        },
+        {
+            "id": 2,
+            "name": "Laura",
+            "situation": "Bei meinem Einstellungsgespräch vor einem Jahr versprach mir der Abteilungsleiter mündlich, dass ich nach erfolgreicher Einarbeitung eine deutliche Gehaltserhöhung bekommen würde. Ich habe meine Aufgaben gut erfüllt, aber von der Erhöhung ist keine Rede mehr. Der Abteilungsleiter sagt, er könne sich nicht erinnern. Kann ich mich auf diese mündliche Zusage berufen?"
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "situation": "Ich arbeite in einer Werkstatt. Letzte Woche bin ich von einer Leiter gefallen, als ich ein Regal einräumen wollte. Dabei habe ich mir den Arm gebrochen. Mein Vorgesetzter meint, ich sei selbst schuld, weil ich die Leiter vielleicht nicht richtig aufgestellt habe. Muss ich die Behandlungskosten selbst tragen oder wer ist zuständig?"
+        },
+        {
+            "id": 4,
+            "name": "Anja",
+            "situation": "Ich habe letzte Woche eine schriftliche Abmahnung bekommen, weil ich zweimal wegen unerwarteter S-Bahn-Ausfälle fünf bzw. zehn Minuten zu spät zur Arbeit kam. Mein Chef meinte, Pünktlichkeit sei oberstes Gebot. Ist so eine Abmahnung überhaupt gültig, wenn die Verspätung nicht meine Schuld war? Und heißt das, ich fliege beim nächsten Mal sofort raus?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sophia",
+            "timestamp": "vor 45 Minuten",
+            "content": "Mündliche Absprachen sind zwar theoretisch gültig, aber in der Praxis leider extrem schwer zu beweisen, wenn sich die andere Seite nicht erinnert oder es bestreitet. Ohne Zeugen oder schriftliche Notiz hast du kaum eine Handhabe. Versuche, das Gespräch erneut zu suchen und vielleicht eine schriftliche Bestätigung für die Zukunft zu bekommen."
+        },
+        {
+            "id": "b",
+            "author": "Jonas",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ja, das ist leider in der Probezeit (bis zu sechs Monate) zulässig. Während dieser Zeit kann das Arbeitsverhältnis von beiden Seiten mit einer Frist von nur zwei Wochen gekündigt werden, und zwar ohne Angabe von Gründen. Das ist im § 622 Abs. 3 BGB geregelt. Dagegen kannst du wenig tun."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei einem Unfall direkt am Arbeitsplatz während der Arbeitszeit greift normalerweise die gesetzliche Unfallversicherung (Berufsgenossenschaft). Melde den Unfall unbedingt offiziell! Sie übernimmt die Kosten für Behandlung und Reha, auch wenn dir leichte Fahrlässigkeit vorgeworfen wird. Nur bei grober Fahrlässigkeit oder Vorsatz könnte es anders aussehen."
+        },
+        {
+            "id": "d",
+            "author": "Lena",
+            "timestamp": "vor 1 Stunde",
+            "content": "Eine Kündigung nach der Probezeit ist komplizierter. Der Arbeitgeber braucht einen triftigen Grund (betriebsbedingt, personenbedingt, verhaltensbedingt) und muss längere gesetzliche Kündigungsfristen einhalten, die von der Betriebszugehörigkeit abhängen. Zudem muss oft eine Sozialauswahl erfolgen. Informiere dich da genau über deine Rechte!"
+        },
+        {
+            "id": "e",
+            "author": "Finn",
+            "timestamp": "vor 3 Stunden",
+            "content": "Vorsicht bei Unfällen auf dem Weg zur oder von der Arbeit! Das ist ein sogenannter Wegeunfall. Hier gelten teils andere Regeln als bei Unfällen direkt im Betrieb. Die Versicherung prüft genau, ob der direkte Weg genommen wurde und keine privaten Umwege gemacht wurden. Es ist wichtig, das sofort zu melden."
+        },
+        {
+            "id": "f",
+            "author": "Marie",
+            "timestamp": "vor 6 Stunden",
+            "content": "Das ist ja ärgerlich mit der Gehaltserhöhung! Chefs versprechen manchmal viel, wenn der Tag lang ist. Ich finde, man sollte sich nie auf mündliche Sachen verlassen, gerade wenn es ums Geld geht. Immer alles schriftlich festhalten, das ist meine Devise. Vertrauen ist gut, Kontrolle ist besser!"
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "a",
+        "3": "c",
+        "4": "x"
+    }
+}

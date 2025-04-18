@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Leon",
-            "situation": "Ich habe vor vier Monaten eine neue Stelle angetreten und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche wurde ich sogar für meine Arbeit gelobt, aber heute habe ich unerwartet die Kündigung erhalten, mit der üblichen Frist von zwei Wochen. Ein Grund wurde nicht genannt. Ist das überhaupt erlaubt, so kurzfristig und ohne Begründung in der Probezeit zu kündigen, auch wenn man vorher positives Feedback bekommen hat?"
+            "name": "Finn",
+            "situation": "Gestern habe ich mich bei der Arbeit an einer Maschine leicht an der Hand geschnitten. Es war nichts Ernstes, ich habe nur ein Pflaster draufgemacht und weitergearbeitet, ohne es offiziell zu melden. Ein Kollege meinte aber heute, ich müsse jeden noch so kleinen Arbeitsunfall meinem Vorgesetzten melden und dokumentieren lassen. Stimmt das wirklich? Muss man das auch bei kleinen Verletzungen machen?"
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Finn",
-            "situation": "Gestern habe ich mich bei der Arbeit an einer Maschine leicht an der Hand geschnitten. Es war nichts Ernstes, ich habe nur ein Pflaster draufgemacht und weitergearbeitet, ohne es offiziell zu melden. Ein Kollege meinte aber heute, ich müsse jeden noch so kleinen Arbeitsunfall meinem Vorgesetzten melden und dokumentieren lassen. Stimmt das wirklich? Muss man das auch bei kleinen Verletzungen machen?"
+            "name": "Sofia",
+            "situation": "In meinem Job als Technikerin sind laut Betriebsordnung spezielle Sicherheitsschuhe vorgeschrieben. Mein Arbeitgeber stellt zwar andere Schutzausrüstung wie Handschuhe und Schutzbrillen zur Verfügung, meint aber, die Sicherheitsschuhe müssten wir Mitarbeiter selbst kaufen. Wir könnten die Kosten ja von der Steuer absetzen. Stimmt das, oder müsste die Firma für verpflichtende Schutzausrüstung aufkommen?"
         },
         {
             "id": 4,
-            "name": "Sofia",
-            "situation": "In meinem Job als Technikerin sind laut Betriebsordnung spezielle Sicherheitsschuhe vorgeschrieben. Mein Arbeitgeber stellt zwar andere Schutzausrüstung wie Handschuhe und Schutzbrillen zur Verfügung, meint aber, die Sicherheitsschuhe müssten wir Mitarbeiter selbst kaufen. Wir könnten die Kosten ja von der Steuer absetzen. Stimmt das, oder müsste die Firma für verpflichtende Schutzausrüstung aufkommen?"
+            "name": "Leon",
+            "situation": "Ich habe vor vier Monaten eine neue Stelle angetreten und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche wurde ich sogar für meine Arbeit gelobt, aber heute habe ich unerwartet die Kündigung erhalten, mit der üblichen Frist von zwei Wochen. Ein Grund wurde nicht genannt. Ist das überhaupt erlaubt, so kurzfristig und ohne Begründung in der Probezeit zu kündigen, auch wenn man vorher positives Feedback bekommen hat?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
+        "4": "b",
         "2": "e",
-        "3": "a",
-        "4": "x"
+        "1": "a",
+        "3": "x"
     }
 }

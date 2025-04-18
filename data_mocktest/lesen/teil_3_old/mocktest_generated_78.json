@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Sarah",
+            "situation": "Ich arbeite im Marketing. Mein Vertrag sieht 40 Stunden pro Woche vor, aber um alle Aufgaben zu schaffen, bleibe ich oft länger, ca. 5-6 Stunden pro Woche. Mein Chef weist die Überstunden nicht direkt an, aber er nimmt die Ergebnisse kommentarlos entgegen. Bisher wurde mir diese Mehrarbeit nicht bezahlt. Muss mein Arbeitgeber diese stillschweigend akzeptierten Überstunden vergüten oder habe ich Pech gehabt?"
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich war vom Montag bis Mittwoch krankgeschrieben, Attest liegt vor. Am Donnerstag hätte mein zweiwöchiger Jahresurlaub beginnen sollen. Nun meint meine Personalabteilung, die drei Krankheitstage würden als Urlaubstage zählen, da sie direkt vor dem Urlaub lagen. Stimmt das? Verliere ich dadurch drei Tage meines Urlaubsanspruchs oder muss der Urlaub verschoben werden?"
+        },
+        {
+            "id": 3,
+            "name": "Julia",
+            "situation": "Ich bin total verunsichert. Ich hatte eine sechsmonatige Probezeit, die nächste Woche geendet hätte. Gestern erhielt ich meine Kündigung, einfach so, ohne Angabe von Gründen, obwohl mein letztes Feedbackgespräch positiv war. Ist eine Kündigung so kurz vor Ende der Probezeit und ohne Begründung überhaupt rechtens?"
+        },
+        {
+            "id": 4,
+            "name": "Cem",
+            "situation": "Heute Morgen hatte ich auf dem direkten Weg zur Arbeit einen Fahrradunfall. Es ist zum Glück nichts Schlimmes passiert, aber ich konnte nicht zur Arbeit gehen und habe mich ordnungsgemäß krankgemeldet. Jetzt mache ich mir Sorgen: Könnte mein Arbeitgeber mir deswegen Probleme machen, vielleicht eine Abmahnung geben, weil ich gefehlt habe, obwohl der Unfall ja nicht im Betrieb war?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Lars",
+            "timestamp": "vor 2 Stunden",
+            "content": "Grundsätzlich gilt: Überstunden müssen nur bezahlt werden, wenn sie angeordnet oder zumindest gebilligt wurden. Wenn der Chef aber weiß, dass die Arbeit nur mit Überstunden zu schaffen ist und die Ergebnisse hinnimmt, gilt das oft als stillschweigende Duldung. Dann besteht meist Anspruch auf Vergütung oder Freizeitausgleich. Am besten dokumentieren!"
+        },
+        {
+            "id": "b",
+            "author": "Anna",
+            "timestamp": "vor 45 Minuten",
+            "content": "Krank ist krank, Urlaub ist Urlaub. Wenn du VOR Urlaubsantritt krank wirst und ein Attest vorlegst, werden diese Krankheitstage nicht auf deinen Urlaub angerechnet. Dein Urlaubsanspruch bleibt für diese Tage bestehen und du kannst sie nach deiner Genesung bzw. nach Absprache neu nehmen. Die Info deiner Personalabteilung ist falsch."
+        },
+        {
+            "id": "c",
+            "author": "Ben",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ja, das ist leider rechtens. Während der Probezeit (maximal 6 Monate) können beide Seiten – Arbeitgeber und Arbeitnehmer – das Arbeitsverhältnis mit einer verkürzten Frist von meist 2 Wochen kündigen, ohne dass dafür ein Grund genannt werden muss. Das gilt bis zum letzten Tag der Probezeit."
+        },
+        {
+            "id": "d",
+            "author": "Petra",
+            "timestamp": "vor 5 Stunden",
+            "content": "Das Arbeitszeitgesetz ist da eindeutig: Die werktägliche Arbeitszeit darf 8 Stunden nicht überschreiten, kann aber auf bis zu 10 Stunden verlängert werden, wenn im Durchschnitt 8 Stunden nicht überschritten werden. Wichtig sind auch die vorgeschriebenen Pausen- und Ruhezeiten zwischen den Arbeitstagen. Verstöße können teuer werden."
+        },
+        {
+            "id": "e",
+            "author": "Stefan",
+            "timestamp": "vor 1 Stunde",
+            "content": "Nach der Probezeit greift oft der Kündigungsschutz. Eine Kündigung durch den Arbeitgeber ist dann nur aus bestimmten Gründen möglich: betriebsbedingt (z.B. Auftragsmangel), verhaltensbedingt (z.B. nach Abmahnung) oder personenbedingt (z.B. lange Krankheit). Die gesetzlichen Kündigungsfristen sind dann auch deutlich länger."
+        },
+        {
+            "id": "f",
+            "author": "Monika",
+            "timestamp": "vor 10 Minuten",
+            "content": "Wichtig ist, dass du jede Arbeitsunfähigkeit, egal ob Krankheit oder Unfall, dem Arbeitgeber unverzüglich meldest. Bei Krankheit braucht man meist ab dem 3. Tag ein ärztliches Attest. Handelt es sich um einen Arbeits- oder Wegeunfall, sollte man das auch der Berufsgenossenschaft melden, das ist wichtig für Versicherungsleistungen."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

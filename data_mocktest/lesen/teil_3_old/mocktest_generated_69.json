@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Daniel",
+            "situation": "Ich arbeite bei einer Spedition im Büro. Eine meiner Kolleginnen hat fast die gleichen Aufgaben wie ich. Nun habe ich erfahren, dass sie deutlich mehr verdient. Das ist doch unfair! Habe ich nicht Anspruch auf die gleiche Bezahlung?"
+        },
+        {
+            "id": 2,
+            "name": "Kamila",
+            "situation": "Ich arbeite normalerweise sehr sorgfältig, aber vorgestern ist mir ein dummer Fehler passiert, durch den meinem Arbeitgeber zusätzliche Kosten entstanden sind (etwa 500 Euro). Jetzt habe ich Angst, dass ich das Geld vom Lohn abgezogen bekomme. Könnte das passieren?"
+        },
+        {
+            "id": 3,
+            "name": "Marlene",
+            "situation": "In dem letzten Gespräch mit meinem Chef hat er mir fest versprochen, dass ich im neuen Jahr eine Gehaltserhöhung bekommen würde. Nun haben wir Januar und er kann sich plötzlich nicht mehr daran erinnern. Was kann ich tun?"
+        },
+        {
+            "id": 4,
+            "name": "Ümit",
+            "situation": "Letzte Woche bin ich drei Tage nicht zur Arbeit gegangen, weil mein siebenjähriger Sohn Fieber hatte. Ich bin alleinerziehend und hatte in dieser Zeit niemanden, der sich um mein Kind kümmern konnte. Wird jetzt mein Gehalt gekürzt?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sekou",
+            "timestamp": "vor 11 Minuten",
+            "content": "Wenn das nur eine mündliche Zusage war und Sie nichts Schriftliches in der Hand haben (z. B. ein Protokoll von Ihrem Gespräch), können Sie leider gar nichts machen. Mein Tipp: Überzeugen Sie weiterhin mit guten Leistungen und sprechen Sie Ihren Chef zu einem späteren Zeitpunkt noch mal auf das Thema an."
+        },
+        {
+            "id": "b",
+            "author": "Natalia",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ich finde es auch ungerecht, dass Frauen in vielen Berufen immer noch weniger verdienen als Männer in den gleichen Berufen. Wir reden ja hier nicht von ein paar Euro, sondern von fast 20 Prozent! Dieser Unterschied ist für mich nicht nachvollziehbar. Gleicher Lohn für Frauen und Männer – das ist meine Meinung!"
+        },
+        {
+            "id": "c",
+            "author": "Eduardo",
+            "timestamp": "vor 58 Minuten",
+            "content": "Die Höhe des Gehalts ist in der Regel Verhandlungssache zwischen Arbeitgeber und Arbeitnehmer. Das heißt, wer geschickt verhandelt, verdient mehr. Oft gibt es auch ganz sachliche Erklärungen für Gehaltsunterschiede (Dauer der Betriebszugehörigkeit, Berufserfahrung, unterschiedliche Qualifikationen etc.)."
+        },
+        {
+            "id": "d",
+            "author": "André",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das verstehe ich! Lohnkürzungen sind immer ein Schock für die Angestellten, aber sie sind tatsächlich zulässig – vorausgesetzt, das Unternehmen befindet sich in einer wirtschaftlichen Notsituation. Wichtig zu wissen: Wenn der Arbeitgeber aus betrieblichen Gründen die Löhne kürzt, betrifft das alle Mitarbeiter*innen, nicht nur einzelne."
+        },
+        {
+            "id": "e",
+            "author": "Yeliz",
+            "timestamp": "vor 3 Stunden",
+            "content": "Eltern haben das Recht, sich nach der Geburt ihres Kindes eine Auszeit von der Arbeit zu nehmen, die sogenannte \"Elternzeit\". Der Arbeitgeber muss dir in dieser Zeit kein Gehalt zahlen, ein Einkommen hast du aber trotzdem – über das Elterngeld."
+        },
+        {
+            "id": "f",
+            "author": "Marie-Luise",
+            "timestamp": "vor 4 Stunden",
+            "content": "Mach dir keine Sorgen. Wo Menschen arbeiten, läuft nicht immer alles perfekt. Das ist ganz normal und keinesfalls ein Grund für eine Lohn- oder Gehaltskürzung. Diese erlaubt das Arbeitsrecht nur in Ausnahmesituationen, z. B. wenn ein Mitarbeiter absichtlich seinem Arbeitgeber Schaden zufügt."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Lena",
-            "situation": "Ich bin seit fünf Jahren fest angestellt. Seit letzter Woche bin ich wegen einer Grippe krankgeschrieben. Gestern habe ich per Post eine ordentliche, betriebsbedingte Kündigung erhalten, mit Einhaltung der Kündigungsfrist. Ich dachte immer, man kann während einer Krankheit nicht gekündigt werden? Stimmt das, oder ist die Kündigung trotzdem wirksam?"
+            "name": "Julia",
+            "situation": "Ich bin seit fast sechs Monaten in meiner neuen Firma, die Probezeit endet bald. Bisher lief alles gut, ich habe positives Feedback bekommen. Allerdings war ich während der Probezeit eine Woche krankgeschrieben (ärztliches Attest liegt vor). Nun möchte mein Chef, dass ich einer Verlängerung der Probezeit um einen Monat zustimme, begründet mit meiner Fehlzeit. Ist das überhaupt erlaubt und muss ich das unterschreiben?"
         },
         {
             "id": 2,
-            "name": "Markus",
-            "situation": "Ich habe vor drei Wochen eine neue Stelle angefangen. Im Vorstellungsgespräch wurde alles mündlich vereinbart, einen schriftlichen Vertrag habe ich bisher nicht. Nun soll ich ganz andere Aufgaben erledigen als besprochen. Mein Chef tut so, als hätten wir das nie anders vereinbart. Ist so ein mündlicher Arbeitsvertrag überhaupt gültig und was kann ich jetzt tun?"
+            "name": "Lena",
+            "situation": "Ich bin seit fünf Jahren fest angestellt. Seit letzter Woche bin ich wegen einer Grippe krankgeschrieben. Gestern habe ich per Post eine ordentliche, betriebsbedingte Kündigung erhalten, mit Einhaltung der Kündigungsfrist. Ich dachte immer, man kann während einer Krankheit nicht gekündigt werden? Stimmt das, oder ist die Kündigung trotzdem wirksam?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Julia",
-            "situation": "Ich bin seit fast sechs Monaten in meiner neuen Firma, die Probezeit endet bald. Bisher lief alles gut, ich habe positives Feedback bekommen. Allerdings war ich während der Probezeit eine Woche krankgeschrieben (ärztliches Attest liegt vor). Nun möchte mein Chef, dass ich einer Verlängerung der Probezeit um einen Monat zustimme, begründet mit meiner Fehlzeit. Ist das überhaupt erlaubt und muss ich das unterschreiben?"
+            "name": "Markus",
+            "situation": "Ich habe vor drei Wochen eine neue Stelle angefangen. Im Vorstellungsgespräch wurde alles mündlich vereinbart, einen schriftlichen Vertrag habe ich bisher nicht. Nun soll ich ganz andere Aufgaben erledigen als besprochen. Mein Chef tut so, als hätten wir das nie anders vereinbart. Ist so ein mündlicher Arbeitsvertrag überhaupt gültig und was kann ich jetzt tun?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "a",
+        "2": "d",
+        "4": "a",
         "3": "f",
-        "4": "x"
+        "1": "x"
     }
 }

@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Leon",
-            "situation": "Ich bin echt frustriert. Ich arbeite seit fünf Monaten in meiner neuen Firma, also noch in der Probezeit. Letzte Woche wurde ich noch für meine gute Arbeit gelobt und heute habe ich plötzlich die Kündigung bekommen, ohne Angabe von Gründen. Ist das überhaupt erlaubt? Ich dachte, nach dem Lob wäre alles in Ordnung. Was kann ich tun?"
+            "name": "Sofia",
+            "situation": "In meinem Job im Chemielabor ist Schutzkleidung Pflicht. Mein Arbeitgeber stellt zwar die Schutzbrille und Einweghandschuhe, aber den Laborkittel und spezielle Sicherheitsschuhe soll ich selbst kaufen. Man sagte mir, ich könne die Kosten ja von der Steuer absetzen. Stimmt das so, dass ich diese notwendige Schutzausrüstung selbst bezahlen muss?"
         },
         {
             "id": 2,
-            "name": "Sofia",
-            "situation": "In meinem Job im Chemielabor ist Schutzkleidung Pflicht. Mein Arbeitgeber stellt zwar die Schutzbrille und Einweghandschuhe, aber den Laborkittel und spezielle Sicherheitsschuhe soll ich selbst kaufen. Man sagte mir, ich könne die Kosten ja von der Steuer absetzen. Stimmt das so, dass ich diese notwendige Schutzausrüstung selbst bezahlen muss?"
+            "name": "Leon",
+            "situation": "Ich bin echt frustriert. Ich arbeite seit fünf Monaten in meiner neuen Firma, also noch in der Probezeit. Letzte Woche wurde ich noch für meine gute Arbeit gelobt und heute habe ich plötzlich die Kündigung bekommen, ohne Angabe von Gründen. Ist das überhaupt erlaubt? Ich dachte, nach dem Lob wäre alles in Ordnung. Was kann ich tun?"
         },
         {
             "id": 3,
@@ -61,8 +61,8 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
+        "2": "a",
+        "1": "b",
         "3": "c",
         "4": "x"
     }

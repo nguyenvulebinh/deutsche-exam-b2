@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jonas",
-            "situation": "Ich bin seit fast sechs Monaten in meiner neuen Firma, die Probezeit endet also bald. Bisher lief alles gut, ich bekam sogar Lob. Gestern erhielt ich aber völlig überraschend die Kündigung, ohne Angabe von Gründen. Ich bin schockiert und frage mich, ob das kurz vor Ende der Probezeit überhaupt erlaubt ist und was ich jetzt tun kann?"
+            "name": "Mehmet",
+            "situation": "Ich hatte letzte Woche Urlaub genehmigt bekommen. Leider wurde ich am zweiten Tag krank und habe meinem Arbeitgeber sofort ein ärztliches Attest geschickt. Nun sehe ich auf der Lohnabrechnung, dass die Krankheitstage trotzdem als Urlaubstage abgezogen wurden. Darf mein Chef das machen?"
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Mehmet",
-            "situation": "Ich hatte letzte Woche Urlaub genehmigt bekommen. Leider wurde ich am zweiten Tag krank und habe meinem Arbeitgeber sofort ein ärztliches Attest geschickt. Nun sehe ich auf der Lohnabrechnung, dass die Krankheitstage trotzdem als Urlaubstage abgezogen wurden. Darf mein Chef das machen?"
+            "name": "Simone",
+            "situation": "Ich habe mein Arbeitszeugnis erhalten. Es klingt auf den ersten Blick ganz gut, aber eine Freundin meinte, manche Formulierungen seien \"Geheimcodes\" für schlechte Leistungen, z.B. \"Sie war stets bemüht\". Ich bin jetzt total verunsichert. Wie kann ich prüfen, ob das Zeugnis wirklich positiv ist oder versteckte Kritik enthält?"
         },
         {
             "id": 4,
-            "name": "Simone",
-            "situation": "Ich habe mein Arbeitszeugnis erhalten. Es klingt auf den ersten Blick ganz gut, aber eine Freundin meinte, manche Formulierungen seien \"Geheimcodes\" für schlechte Leistungen, z.B. \"Sie war stets bemüht\". Ich bin jetzt total verunsichert. Wie kann ich prüfen, ob das Zeugnis wirklich positiv ist oder versteckte Kritik enthält?"
+            "name": "Jonas",
+            "situation": "Ich bin seit fast sechs Monaten in meiner neuen Firma, die Probezeit endet also bald. Bisher lief alles gut, ich bekam sogar Lob. Gestern erhielt ich aber völlig überraschend die Kündigung, ohne Angabe von Gründen. Ich bin schockiert und frage mich, ob das kurz vor Ende der Probezeit überhaupt erlaubt ist und was ich jetzt tun kann?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
+        "4": "d",
         "2": "f",
-        "3": "a",
-        "4": "x"
+        "1": "a",
+        "3": "x"
     }
 }

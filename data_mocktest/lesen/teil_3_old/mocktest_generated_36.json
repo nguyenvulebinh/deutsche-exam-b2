@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Klaus",
+            "situation": "Ich habe neu angefangen und mein Vertrag nennt 40 Std./Woche. Im Gespräch war aber von Vertrauensarbeitszeit die Rede. Jetzt verlangt mein Chef detaillierte Zeitnachweise für alle Tätigkeiten. Gilt der schriftliche Vertrag oder die mündliche Absprache? Muss ich bei Vertrauensarbeitszeit wirklich alles minutengenau dokumentieren?"
+        },
+        {
+            "id": 2,
+            "name": "Fatima",
+            "situation": "Ich arbeite im Einzelhandel. Mir ist gestern aus Unachtsamkeit ein Fehler bei der Preisauszeichnung passiert, der zu einem Schaden von ca. 150 Euro führte. Mein Vorgesetzter war verärgert und sprach von Konsequenzen. Kann mein Arbeitgeber mir diesen Betrag einfach vom nächsten Gehalt abziehen? War ja keine Absicht."
+        },
+        {
+            "id": 3,
+            "name": "Stefan",
+            "situation": "Mein Vertrag sieht 38 Stunden vor. In letzter Zeit erwartet mein Teamleiter fast täglich, dass wir eine Stunde länger bleiben, weil viel zu tun ist. Er nennt das 'Teamgeist'. Von Bezahlung oder Freizeitausgleich ist keine Rede. Bin ich verpflichtet, diese unbezahlten Überstunden zu leisten, wenn es nicht vereinbart wurde?"
+        },
+        {
+            "id": 4,
+            "name": "Lena",
+            "situation": "Nach meiner Probezeit vor sechs Monaten hat mein Chef mir mündlich einen Bonus für mein erstes eigenes Projekt versprochen. Das Projekt ist nun fertig, aber er meint, wegen Budgetkürzungen ginge der Bonus nicht und es sei nur zur Motivation gesagt worden. Ist so eine mündliche Zusage nach der Probezeit bindend, auch ohne Zeugen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sandra",
+            "timestamp": "vor 2 Stunden",
+            "content": "Vertrauensarbeitszeit finde ich super! Man hat viel mehr Freiheit und muss nicht ständig auf die Uhr schauen. Das basiert natürlich darauf, dass der Chef einem vertraut, dass man seine Arbeit erledigt. Dieses gegenseitige Vertrauen ist doch das Wichtigste für ein gutes Arbeitsklima."
+        },
+        {
+            "id": "b",
+            "author": "David",
+            "timestamp": "vor 45 Minuten",
+            "content": "Keine Sorge, bei sogenannter leichter Fahrlässigkeit haftet der Arbeitnehmer in der Regel nicht für Schäden. Ein Gehaltsabzug ist da normalerweise nicht zulässig. Anders sieht es nur aus, wenn man absichtlich oder grob fahrlässig handelt, aber das scheint bei dir ja nicht der Fall zu sein."
+        },
+        {
+            "id": "c",
+            "author": "Markus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Also, wenn ein Mitarbeiter einen richtig großen Schaden verursacht, zum Beispiel durch grobe Fahrlässigkeit den Firmenwagen zu Schrott fährt, kann er durchaus zur Kasse gebeten werden. Da geht es dann um Arbeitnehmerhaftung und eventuell Regressansprüche. Das ist aber zum Glück die Ausnahme."
+        },
+        {
+            "id": "d",
+            "author": "Julia",
+            "timestamp": "vor 1 Stunde",
+            "content": "Grundsätzlich gilt: Was schriftlich im Arbeitsvertrag steht, hat Vorrang vor mündlichen Nebenabreden, außer es ist anders geregelt. Eine 40-Stunden-Klausel bedeutet meist, dass die Arbeitszeit nachweisbar sein muss, auch bei Vertrauensarbeitszeit – schon wegen des Mindestlohngesetzes. Detailgrad ist eine andere Frage."
+        },
+        {
+            "id": "e",
+            "author": "Ahmed",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei uns im Team ist das ganz normal, dass alle mal länger bleiben, wenn Not am Mann ist. Das gehört für mich zum guten Miteinander dazu. Man hilft sich gegenseitig, das stärkt den Zusammenhalt ungemein. Ich sehe das nicht so eng mit den Überstunden."
+        },
+        {
+            "id": "f",
+            "author": "Renate",
+            "timestamp": "vor 30 Minuten",
+            "content": "Überstunden müssen in der Regel angeordnet und entweder im Arbeitsvertrag, Tarifvertrag oder einer Betriebsvereinbarung geregelt sein. Eine Pflicht zur unbezahlten Mehrarbeit besteht normalerweise nicht, nur weil viel zu tun ist. Normalerweise müssen Überstunden bezahlt oder durch Freizeit ausgeglichen werden."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "b",
+        "3": "f",
+        "4": "x"
+    }
+}

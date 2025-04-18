@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Martha",
-            "situation": "Ich arbeite im Einzelhandel und muss besonders in Stoßzeiten oft Überstunden machen. Mein Chef meint, das sei normal und bietet mir keinen Ausgleich an – weder Geld noch Freizeit. Nun haben sich etliche Stunden angesammelt. Habe ich einen rechtlichen Anspruch darauf, dass diese Überstunden vergütet oder durch Freizeit ausgeglichen werden?"
+            "name": "Paul",
+            "situation": "Ich hatte Urlaub genehmigt bekommen, wurde aber genau am Tag davor krank und war die ersten drei Urlaubstage arbeitsunfähig. Die AU-Bescheinigung habe ich sofort eingereicht. Mein Chef meint nun, ich hätte laut Betriebsordnung zusätzlich am ersten Krankheitstag anrufen müssen, auch wenn die AU schon unterwegs war. Stimmt das? Und könnte ich wegen des fehlenden Anrufs Probleme bekommen, die Urlaubstage zurückzuerhalten?"
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Egle",
-            "situation": "Ich fühle mich an meinem Arbeitsplatz zunehmend isoliert. Einige Kollegen reden hinter meinem Rücken, schließen mich von Gesprächen aus und meiden mich in Pausen. Ich vermute, es liegt daran, dass ich neu bin oder aus einem anderen Land komme. Meine Leistung leidet darunter. Welche konkreten Schritte kann ich unternehmen? Sollte ich mit dem Chef, der Personalabteilung oder dem Betriebsrat sprechen?"
+            "name": "Martha",
+            "situation": "Ich arbeite im Einzelhandel und muss besonders in Stoßzeiten oft Überstunden machen. Mein Chef meint, das sei normal und bietet mir keinen Ausgleich an – weder Geld noch Freizeit. Nun haben sich etliche Stunden angesammelt. Habe ich einen rechtlichen Anspruch darauf, dass diese Überstunden vergütet oder durch Freizeit ausgeglichen werden?"
         },
         {
             "id": 4,
-            "name": "Paul",
-            "situation": "Ich hatte Urlaub genehmigt bekommen, wurde aber genau am Tag davor krank und war die ersten drei Urlaubstage arbeitsunfähig. Die AU-Bescheinigung habe ich sofort eingereicht. Mein Chef meint nun, ich hätte laut Betriebsordnung zusätzlich am ersten Krankheitstag anrufen müssen, auch wenn die AU schon unterwegs war. Stimmt das? Und könnte ich wegen des fehlenden Anrufs Probleme bekommen, die Urlaubstage zurückzuerhalten?"
+            "name": "Egle",
+            "situation": "Ich fühle mich an meinem Arbeitsplatz zunehmend isoliert. Einige Kollegen reden hinter meinem Rücken, schließen mich von Gesprächen aus und meiden mich in Pausen. Ich vermute, es liegt daran, dass ich neu bin oder aus einem anderen Land komme. Meine Leistung leidet darunter. Welche konkreten Schritte kann ich unternehmen? Sollte ich mit dem Chef, der Personalabteilung oder dem Betriebsrat sprechen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
+        "3": "a",
         "2": "b",
-        "3": "c",
-        "4": "x"
+        "4": "c",
+        "1": "x"
     }
 }

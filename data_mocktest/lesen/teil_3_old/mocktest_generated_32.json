@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Kerstin",
+            "situation": "Hallo zusammen, ich bin total fertig. Mir wurde heute gekündigt, obwohl meine sechsmonatige Probezeit erst nächste Woche endet! Noch vor zwei Wochen wurde meine Arbeit sehr gelobt. Mein Chef meinte nur, es passe doch nicht so gut. Muss er das nicht genauer begründen? Gibt es da keine längere Kündigungsfrist kurz vor Ende der Probezeit? Was kann ich jetzt tun?"
+        },
+        {
+            "id": 2,
+            "name": "Leo",
+            "situation": "Ich brauche dringend Rat. Ich hatte zwei Wochen Urlaub genehmigt bekommen. Leider bin ich direkt am dritten Urlaubstag krank geworden und war für fünf Tage krankgeschrieben. Das Attest habe ich sofort eingereicht. Nun sehe ich auf meiner Abrechnung, dass mir diese fünf Tage trotzdem vom Urlaubskonto abgezogen wurden. Darf mein Arbeitgeber das?"
+        },
+        {
+            "id": 3,
+            "name": "Aisha",
+            "situation": "Ich arbeite in einem Café mit einem sehr spezifischen Look. Wir müssen alle Poloshirts mit Firmenlogo und eine bestimmte Schürze tragen. Mein Chef meinte nun, wir müssten diese 'Dienstkleidung' selbst kaufen und auch für die Reinigung aufkommen. Ist das wirklich zulässig? Es ist ja keine Schutzkleidung, aber eben vorgeschrieben."
+        },
+        {
+            "id": 4,
+            "name": "Milan",
+            "situation": "Ich fange bald auf einer Baustelle an. Im Vertrag steht, dass ich Sicherheitsschuhe (Klasse S3) und einen Helm tragen muss. Das sehe ich ja ein, Sicherheit geht vor. Aber muss ich diese spezielle Schutzausrüstung wirklich selbst bezahlen? Das sind ja doch einige Kosten auf einmal. Mein zukünftiger Chef meinte, das sei üblich."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Anna",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung ist immer hart. Wichtig ist, dass die gesetzlichen Kündigungsfristen eingehalten werden, die sich nach der Betriebszugehörigkeit richten. Bei langjährigen Mitarbeitern sind das mehrere Monate! Außerdem muss eine Kündigung sozial gerechtfertigt sein, wenn der Kündigungsschutz greift. Das sollte man prüfen lassen."
+        },
+        {
+            "id": "b",
+            "author": "Markus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Das ist ärgerlich, aber leider rechtens. Während der vereinbarten Probezeit, maximal sechs Monate, können beide Seiten das Arbeitsverhältnis mit einer Frist von zwei Wochen kündigen – ohne Angabe von Gründen. Daran ändert auch ein kurz bevorstehendes Ende der Probezeit nichts. Melde dich am besten sofort bei der Agentur für Arbeit."
+        },
+        {
+            "id": "c",
+            "author": "Ben",
+            "timestamp": "vor 5 Stunden",
+            "content": "Der gesetzliche Mindesturlaub in Deutschland beträgt 24 Werktage bei einer 6-Tage-Woche, also effektiv 20 Tage bei einer 5-Tage-Woche. Tarifverträge oder Arbeitsverträge sehen oft mehr vor. Der Urlaub sollte möglichst im laufenden Kalenderjahr genommen werden, sonst kann er verfallen."
+        },
+        {
+            "id": "d",
+            "author": "Jürgen",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das kommt darauf an. Bei typischer 'Dienstkleidung', die wegen ihrer Gestaltung (z.B. Firmenlogo, auffällige Farbe) kaum privat getragen werden kann, muss in der Regel der Arbeitgeber die Kosten für Anschaffung und oft auch Reinigung übernehmen. Das gilt besonders, wenn sie vorgeschrieben ist. Bei einem allgemeinen Dresscode (z.B. 'dunkle Hose, weißes Hemd') sieht es anders aus."
+        },
+        {
+            "id": "e",
+            "author": "Sabine",
+            "timestamp": "vor 3 Stunden",
+            "content": "Nein, das darf er nicht! Wenn du im Urlaub krank wirst und das durch ein ärztliches Attest nachweist, gelten diese Tage nicht als Urlaubstage. Sie müssen dir wieder gutgeschrieben werden. Sprich deinen Arbeitgeber darauf an und verweise auf §9 Bundesurlaubsgesetz. Notfalls hilft der Betriebsrat oder eine Rechtsberatung."
+        },
+        {
+            "id": "f",
+            "author": "Fatima",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ich persönlich finde einheitliche Arbeitskleidung gut, das stärkt das Teamgefühl. Ob man die Kosten von der Steuer absetzen kann, hängt davon ab, ob es sich um typische Berufskleidung handelt, die man privat gar nicht nutzen kann. Bei normalen Hemden oder Blusen wird es schwierig."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "e",
+        "3": "d",
+        "4": "x"
+    }
+}

@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Marlene",
-            "situation": "In dem letzten Gespräch mit meinem Chef hat er mir fest versprochen, dass ich im neuen Jahr eine Gehaltserhöhung bekommen würde. Nun haben wir Januar und er kann sich plötzlich nicht mehr daran erinnern. Schriftlich habe ich leider nichts. Was kann ich tun, um doch noch zu meinem Recht zu kommen?"
-        },
-        {
-            "id": 2,
             "name": "Kamila",
             "situation": "Ich stehe noch unter Schock. Soeben ist mir in der Probezeit gekündigt worden! Ich bin schon fünf Monate im Betrieb und noch letzte Woche hat man mich für meine gute Arbeit gelobt. Einen Grund für die Kündigung nannte man mir nicht. Ist das überhaupt erlaubt? Was mache ich jetzt?"
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Egle",
             "situation": "Ich hatte Urlaub beantragt und genehmigt bekommen. Dann wurde ich aber genau am ersten Urlaubstag krank und war eine Woche arbeitsunfähig geschrieben. Danach bin ich dann verreist. Nun sagt mein Chef, die Krankentage werden mir trotzdem als Urlaub angerechnet. Stimmt das? Ich habe doch ein Attest eingereicht."
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Serena",
             "situation": "Ich bin mit meiner Arbeit unzufrieden und habe etwas Besseres gefunden. Jetzt möchte ich kündigen. Meine Chefin war aber immer sehr korrekt, hat mich gefördert und mir gerade erst mehr Gehalt gegeben. Ich weiß nicht, wie ich das Kündigungsschreiben taktvoll formulieren soll, um keinen Streit zu provozieren. Hat jemand einen Tipp für eine gute Formulierung?"
+        },
+        {
+            "id": 4,
+            "name": "Marlene",
+            "situation": "In dem letzten Gespräch mit meinem Chef hat er mir fest versprochen, dass ich im neuen Jahr eine Gehaltserhöhung bekommen würde. Nun haben wir Januar und er kann sich plötzlich nicht mehr daran erinnern. Schriftlich habe ich leider nichts. Was kann ich tun, um doch noch zu meinem Recht zu kommen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "c",
-        "3": "b",
-        "4": "x"
+        "4": "a",
+        "1": "c",
+        "2": "b",
+        "3": "x"
     }
 }

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich habe vor einem Monat einen Minijob mündlich vereinbart: 10 Stunden pro Woche für 520 Euro. Jetzt verlangt mein Chef plötzlich, dass ich regelmäßig 12 Stunden arbeite, ohne mehr Lohn. Ich habe nichts Schriftliches. Ist der mündliche Vertrag gültig und muss ich die Mehrarbeit ohne zusätzliche Bezahlung leisten?"
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich arbeite im Lager. Beim Rangieren mit dem Hubwagen habe ich aus leichter Unachtsamkeit Waren im Wert von ca. 150 Euro beschädigt. Mein Arbeitgeber will mir den Schaden nun komplett vom nächsten Gehalt abziehen. Darf er das einfach so?"
+        },
+        {
+            "id": 3,
+            "name": "Julia",
+            "situation": "Ich arbeite in der Pflege oft 9- bis 10-Stunden-Schichten. Wegen Personalmangels fallen meine Pausen regelmäßig kürzer aus als vorgeschrieben oder ganz weg. Meine Stationsleitung meint, das sei nicht anders machbar. Welche Pausenzeiten stehen mir gesetzlich zu und darf der Arbeitgeber sie zum Ausfall zwingen?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich bin im fünften Monat meiner sechsmonatigen Probezeit. Bisher lief alles gut, es gab keine Kritik. Nun hat er überraschend die Kündigung zum Ende der Probezeit erhalten, ohne Angabe von Gründen. Darf der Arbeitgeber so kurz vor Ablauf grundlos kündigen? Ich dachte, der besondere Kündigungsschutz greift nach den ersten Wochen."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Florian",
+            "timestamp": "vor 25 Minuten",
+            "content": "Mündliche Arbeitsverträge sind grundsätzlich gültig, aber ohne schriftlichen Nachweis ist es schwer, die genauen Konditionen zu beweisen. Dein Arbeitgeber hätte dir laut Nachweisgesetz spätestens nach einem Monat die wesentlichen Vertragsbedingungen schriftlich geben müssen. Mehrarbeit muss in der Regel auch extra bezahlt werden, besonders wenn die vereinbarte Stundenzahl für den Lohn maßgeblich war."
+        },
+        {
+            "id": "b",
+            "author": "Sabine",
+            "timestamp": "vor 48 Minuten",
+            "content": "Gehaltsabzüge wegen Schadensersatz sind rechtlich kompliziert. Es kommt auf den Grad des Verschuldens an. Bei nur *leichter Fahrlässigkeit* haftet der Arbeitnehmer meist gar nicht oder nur anteilig. Ein voller Abzug vom Lohn ist oft nur bei grober Fahrlässigkeit oder Vorsatz zulässig und selbst dann gibt es Grenzen. Prüfe deinen Arbeitsvertrag, aber einfach so abziehen darf der Chef das meist nicht."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das Arbeitszeitgesetz ist da eindeutig: Bei mehr als 6 Stunden Arbeit stehen dir 30 Minuten Pause zu, bei mehr als 9 Stunden sind es 45 Minuten. Diese Pausen sind Pflicht und müssen auch tatsächlich genommen werden können – der Arbeitgeber muss das sicherstellen. Ein Verzicht oder Ausfall, besonders systematisch, ist normalerweise nicht erlaubt. Dokumentiere die fehlenden Pausen!"
+        },
+        {
+            "id": "d",
+            "author": "Anna",
+            "timestamp": "vor 2 Stunden",
+            "content": "Besteht immer auf einen schriftlichen Vertrag! Gerade bei *befristeten Verträgen* muss der Grund für die Befristung klar und zulässig sein. Sonst ist die Befristung vielleicht unwirksam. Lest euch das Teilzeit- und Befristungsgesetz genau durch, ob alle Voraussetzungen erfüllt sind. Ohne Schriftform ist eine Befristung sowieso meist ungültig."
+        },
+        {
+            "id": "e",
+            "author": "Klaus",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wenn das Gehalt nicht pünktlich kommt, ist das ein großes Problem. Man sollte dem Arbeitgeber schriftlich eine Frist zur Zahlung setzen. Wenn auch das nichts nützt, kann man unter Umständen sogar die Arbeit verweigern (Zurückbehaltungsrecht). Wichtig ist, alles genau zu dokumentieren und sich rechtlich beraten zu lassen."
+        },
+        {
+            "id": "f",
+            "author": "Miriam",
+            "timestamp": "vor 5 Stunden",
+            "content": "Pausen sind super wichtig für die Erholung und Konzentration. In meiner alten Firma hatten wir eine Betriebsvereinbarung, die sogar eine extra bezahlte Kaffeepause vorsah. Das hängt stark vom Betriebsklima und dem Betriebsrat ab. Sprecht doch mal mit dem Betriebsrat, falls ihr einen habt, vielleicht lässt sich da was regeln."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

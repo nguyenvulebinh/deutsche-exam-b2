@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Anja",
-            "situation": "Ich arbeite oft 7 Stunden am Stück ohne Pause, weil mein Chef meint, Pausen seien erst ab 8 Stunden vorgeschrieben. Ich fühle mich erschöpft und frage mich, ob ich nach 6 oder 7 Stunden Arbeit nicht doch einen gesetzlichen Anspruch auf eine Pause habe. Wer weiß hier Bescheid?"
-        },
-        {
-            "id": 2,
-            "name": "Ben",
-            "situation": "Ich arbeite auf dem Bau und benötige spezielle Sicherheitsschuhe und einen Helm, wie im Vertrag erwähnt. Mein Arbeitgeber sagt, ich müsse diese selbst kaufen und könne die Kosten ja von der Steuer absetzen. Stimmt das, oder ist der Arbeitgeber nicht verpflichtet, diese notwendige Schutzausrüstung zu bezahlen?"
-        },
-        {
-            "id": 3,
             "name": "Fatima",
             "situation": "Ich habe im Vorstellungsgespräch mündlich eine 35-Stunden-Woche vereinbart. Im schriftlichen Arbeitsvertrag, den ich leider schon unterschrieben habe, stehen nun aber 40 Stunden. Mein Chef erwartet jetzt die 40 Stunden. Was gilt denn nun – die mündliche Zusage oder der Vertrag?"
         },
         {
-            "id": 4,
+            "id": 2,
+            "name": "Anja",
+            "situation": "Ich arbeite oft 7 Stunden am Stück ohne Pause, weil mein Chef meint, Pausen seien erst ab 8 Stunden vorgeschrieben. Ich fühle mich erschöpft und frage mich, ob ich nach 6 oder 7 Stunden Arbeit nicht doch einen gesetzlichen Anspruch auf eine Pause habe. Wer weiß hier Bescheid?"
+        },
+        {
+            "id": 3,
             "name": "David",
             "situation": "Ich habe mir letztes Wochenende beim obligatorischen Betriebsausflug, einem Teambuilding im Kletterpark, den Knöchel verstaucht. Da die Teilnahme für alle Pflicht war, frage ich mich: Zählt dieser Unfall als Arbeitsunfall über die gesetzliche Unfallversicherung, obwohl er nicht am Arbeitsplatz passiert ist?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich arbeite auf dem Bau und benötige spezielle Sicherheitsschuhe und einen Helm, wie im Vertrag erwähnt. Mein Arbeitgeber sagt, ich müsse diese selbst kaufen und könne die Kosten ja von der Steuer absetzen. Stimmt das, oder ist der Arbeitgeber nicht verpflichtet, diese notwendige Schutzausrüstung zu bezahlen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "e",
-        "3": "a",
-        "4": "x"
+        "2": "c",
+        "4": "e",
+        "1": "a",
+        "3": "x"
     }
 }

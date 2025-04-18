@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Lukas",
-            "situation": "Ich arbeite seit einem Jahr in einem IT-Unternehmen. Ein Kollege macht mir systematisch das Leben schwer, verbreitet Gerüchte über mich und kritisiert meine Arbeit ständig vor anderen Teammitgliedern. Ich fühle mich zunehmend isoliert und meine Motivation sinkt. Ich weiß nicht, wie ich reagieren soll. Sollte ich direkt den Vorgesetzten informieren oder gibt es andere Schritte, die ich zuerst unternehmen kann, um mich zu wehren?"
-        },
-        {
-            "id": 2,
             "name": "Sandra",
             "situation": "In meinem Job fallen regelmäßig Überstunden an, oft auch kurzfristig am Wochenende. Mein Chef hat mir mündlich zugesagt, dass ich diese angesammelten Stunden definitiv durch Freizeitausgleich abbauen kann. Wenn ich ihn aber darauf anspreche, schiebt er es immer wieder auf und meint, es sei gerade zu viel zu tun. Habe ich einen rechtlichen Anspruch darauf, diesen Ausgleich zu bekommen, auch wenn wir nichts Schriftliches vereinbart haben?"
         },
         {
+            "id": 2,
+            "name": "Anja",
+            "situation": "Ich bin erst seit Kurzem im Lager beschäftigt. Mein Vorgesetzter erwartet nun von mir, dass ich ab nächster Woche auch den Gabelstapler bediene, um beim Be- und Entladen zu helfen. Ich habe aber bisher weder eine offizielle Einweisung bekommen noch besitze ich den erforderlichen Staplerschein. Er meint, das sei nicht so kompliziert. Ich fühle mich damit aber sehr unsicher und habe Angst, einen Unfall zu verursachen. Darf ich diese Aufgabe ablehnen, ohne deswegen Probleme zu bekommen?"
+        },
+        {
             "id": 3,
-            "name": "Mehmet",
-            "situation": "Mein neuer Abteilungsleiter hat kürzlich die private Handynutzung während der gesamten Arbeitszeit strikt verboten, auch keine kurzen Checks. Ich verstehe ja, dass man nicht ständig privat surfen soll, aber ich muss erreichbar sein, falls mit meinem kleinen Sohn in der Kita etwas Dringendes ist. Ist ein solch absolutes Verbot ohne jede Ausnahme für Notfälle überhaupt zulässig oder ist das übertrieben?"
+            "name": "Lukas",
+            "situation": "Ich arbeite seit einem Jahr in einem IT-Unternehmen. Ein Kollege macht mir systematisch das Leben schwer, verbreitet Gerüchte über mich und kritisiert meine Arbeit ständig vor anderen Teammitgliedern. Ich fühle mich zunehmend isoliert und meine Motivation sinkt. Ich weiß nicht, wie ich reagieren soll. Sollte ich direkt den Vorgesetzten informieren oder gibt es andere Schritte, die ich zuerst unternehmen kann, um mich zu wehren?"
         },
         {
             "id": 4,
-            "name": "Anja",
-            "situation": "Ich bin erst seit Kurzem im Lager beschäftigt. Mein Vorgesetzter erwartet nun von mir, dass ich ab nächster Woche auch den Gabelstapler bediene, um beim Be- und Entladen zu helfen. Ich habe aber bisher weder eine offizielle Einweisung bekommen noch besitze ich den erforderlichen Staplerschein. Er meint, das sei nicht so kompliziert. Ich fühle mich damit aber sehr unsicher und habe Angst, einen Unfall zu verursachen. Darf ich diese Aufgabe ablehnen, ohne deswegen Probleme zu bekommen?"
+            "name": "Mehmet",
+            "situation": "Mein neuer Abteilungsleiter hat kürzlich die private Handynutzung während der gesamten Arbeitszeit strikt verboten, auch keine kurzen Checks. Ich verstehe ja, dass man nicht ständig privat surfen soll, aber ich muss erreichbar sein, falls mit meinem kleinen Sohn in der Kita etwas Dringendes ist. Ist ein solch absolutes Verbot ohne jede Ausnahme für Notfälle überhaupt zulässig oder ist das übertrieben?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "f",
-        "3": "a",
-        "4": "x"
+        "3": "d",
+        "1": "f",
+        "4": "a",
+        "2": "x"
     }
 }

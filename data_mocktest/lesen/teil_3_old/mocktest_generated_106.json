@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrecht: Krankheit & Urlaub",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jana",
+            "situation": "Ich hatte letzte Woche für fünf Tage Urlaub genehmigt bekommen. Leider bin ich am zweiten Urlaubstag krank geworden und musste für den Rest der Woche das Bett hüten. Mein Arbeitgeber meint nun, die Urlaubstage seien trotzdem verfallen, da der Urlaub ja schon begonnen hatte. Stimmt das wirklich? Verliere ich diese Urlaubstage jetzt?"
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Mein kleiner Sohn (5 Jahre) ist seit gestern krank und hat hohes Fieber. Da meine Frau auf Dienstreise ist, muss ich mich um ihn kümmern und kann nicht zur Arbeit. Ich habe meinen Chef informiert, mache mir aber Sorgen wegen meines Gehalts. Wird mir das Geld für die Fehltage abgezogen oder gibt es da eine Regelung für Eltern?"
+        },
+        {
+            "id": 3,
+            "name": "Elena",
+            "situation": "Ich freue mich schon seit Wochen auf meinen Urlaub nächste Woche. Nun habe ich seit gestern eine starke Grippe und der Arzt hat mich prompt für die ganze nächste Woche krankgeschrieben, also genau für meine Urlaubszeit. Was passiert jetzt mit meinem Urlaub? Kann ich den später nachholen oder beginnt der Urlaub trotzdem?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich arbeite Teilzeit, nur 20 Stunden pro Woche, verteilt auf drei feste Tage (Mo, Di, Mi). Wie viele gesetzliche Urlaubstage stehen mir eigentlich pro Jahr mindestens zu? Ich habe im Vertrag 15 Tage stehen. Außerdem mache ich manchmal Überstunden. Kann ich verlangen, dass diese als zusätzliche Urlaubstage gutgeschrieben werden, statt sie ausbezahlt zu bekommen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Petra",
+            "timestamp": "vor 1 Stunde",
+            "content": "Hallo Elena, wenn du *vor* Urlaubsantritt krank wirst und eine Arbeitsunfähigkeitsbescheinigung vorlegst, giltst du als arbeitsunfähig, nicht als im Urlaub. Dein Urlaubsanspruch bleibt vollständig erhalten. Du musst den Urlaub dann aber neu beantragen und genehmigen lassen, wenn du wieder gesund bist. Der alte Urlaubsantrag ist damit hinfällig."
+        },
+        {
+            "id": "b",
+            "author": "Stefan",
+            "timestamp": "vor 2 Stunden",
+            "content": "Generell muss Urlaub ja rechtzeitig beantragt und vom Arbeitgeber genehmigt werden. Man kann nicht einfach so wegbleiben. Bei uns in der Firma müssen wir Urlaubsanträge mindestens vier Wochen vorher einreichen, sonst wird es meistens abgelehnt, außer in Notfällen natürlich. Die Planung ist eben wichtig."
+        },
+        {
+            "id": "c",
+            "author": "Anja",
+            "timestamp": "vor 3 Stunden",
+            "content": "Hallo Jana, dein Arbeitgeber liegt falsch. Wenn du während deines Urlaubs krank wirst und dies durch ein ärztliches Attest nachweisen kannst, gelten diese Krankheitstage nicht als Urlaubstage. Du hast Anspruch darauf, diese Tage später nachzuholen. Das ist im Bundesurlaubsgesetz (§9) klar geregelt."
+        },
+        {
+            "id": "d",
+            "author": "Ralf",
+            "timestamp": "vor 4 Stunden",
+            "content": "Wenn man krank ist, ist das Wichtigste, sich sofort beim Arbeitgeber zu melden, am besten noch vor Arbeitsbeginn anrufen. Die schriftliche Krankmeldung vom Arzt muss dann meist spätestens am dritten Tag vorliegen. Wer das versäumt, riskiert arbeitsrechtliche Konsequenzen, das sollte man ernst nehmen!"
+        },
+        {
+            "id": "e",
+            "author": "Simone",
+            "timestamp": "vor 6 Stunden",
+            "content": "Ich finde, man sollte Urlaub wirklich zur Erholung nutzen. Wenn man sich nur leicht unwohl fühlt, sollte man vielleicht trotzdem versuchen, den Urlaub anzutreten. Ständig wegen Kleinigkeiten krankfeiern ist auch nicht gut für das Betriebsklima. Echte Krankheit ist natürlich etwas anderes, klar."
+        },
+        {
+            "id": "f",
+            "author": "Klaus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Hallo Markus, keine Sorge. Wenn dein Kind unter 12 Jahre alt ist und krank ist und keine andere Betreuungsperson verfügbar ist, hast du Anspruch auf bezahlte Freistellung für eine bestimmte Anzahl von Tagen pro Jahr (pro Elternteil, pro Kind). Du musst dem Arbeitgeber unverzüglich Bescheid geben und eine ärztliche Bescheinigung für das Kind vorlegen. Dein Gehalt läuft dann weiter (Stichwort: Kinderkrankengeld)."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

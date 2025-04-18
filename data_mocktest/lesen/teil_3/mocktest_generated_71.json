@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Ben",
-            "situation": "Ich arbeite seit einem halben Jahr in einem Großraumbüro und finde es oft schwierig, mich zu konzentrieren. Mehrere Kollegen führen sehr laute und lange Privatgespräche am Telefon direkt an ihren Schreibtischen. Ich möchte niemanden verärgern, aber es stört meine Arbeit erheblich. Gibt es übliche Regeln oder wie kann ich das ansprechen, ohne als Nörgler dazustehen?"
+            "name": "Laura",
+            "situation": "In meinem Team gibt es einen Kollegen, der mich in Besprechungen ständig unterbricht. Noch schlimmer ist, dass er meine Ideen oder Arbeitsergebnisse manchmal später unserem Chef gegenüber als seine eigenen darstellt. Das frustriert mich sehr. Welche professionellen Strategien gibt es, um damit umzugehen und sicherzustellen, dass meine Leistung anerkannt wird?"
         },
         {
             "id": 2,
-            "name": "Laura",
-            "situation": "In meinem Team gibt es einen Kollegen, der mich in Besprechungen ständig unterbricht. Noch schlimmer ist, dass er meine Ideen oder Arbeitsergebnisse manchmal später unserem Chef gegenüber als seine eigenen darstellt. Das frustriert mich sehr. Welche professionellen Strategien gibt es, um damit umzugehen und sicherzustellen, dass meine Leistung anerkannt wird?"
+            "name": "Sara",
+            "situation": "Ich habe zunehmend Probleme mit meiner Vorgesetzten. Sie kritisiert meine Arbeit oft vor dem ganzen Team, meiner Meinung nach unfair, und gibt mir häufig unklare Anweisungen, was dann natürlich zu Fehlern führt. Ich fühle mich dadurch sehr gestresst und demotiviert. Welche Rechte habe ich bei ungerechter Behandlung durch eine Führungskraft und wie gehe ich am besten vor?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Sara",
-            "situation": "Ich habe zunehmend Probleme mit meiner Vorgesetzten. Sie kritisiert meine Arbeit oft vor dem ganzen Team, meiner Meinung nach unfair, und gibt mir häufig unklare Anweisungen, was dann natürlich zu Fehlern führt. Ich fühle mich dadurch sehr gestresst und demotiviert. Welche Rechte habe ich bei ungerechter Behandlung durch eine Führungskraft und wie gehe ich am besten vor?"
+            "name": "Ben",
+            "situation": "Ich arbeite seit einem halben Jahr in einem Großraumbüro und finde es oft schwierig, mich zu konzentrieren. Mehrere Kollegen führen sehr laute und lange Privatgespräche am Telefon direkt an ihren Schreibtischen. Ich möchte niemanden verärgern, aber es stört meine Arbeit erheblich. Gibt es übliche Regeln oder wie kann ich das ansprechen, ohne als Nörgler dazustehen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "a",
+        "4": "d",
+        "1": "a",
         "3": "f",
-        "4": "x"
+        "2": "x"
     }
 }

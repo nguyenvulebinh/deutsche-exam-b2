@@ -1,0 +1,69 @@
+{
+    "thema": "Rund um den Arbeitsplatz: Rechte und Pflichten",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Hallo zusammen, ich bin total verunsichert. Ich habe vor drei Monaten eine neue Stelle angefangen und bin noch in der Probezeit. Gestern wurde mir ohne Angabe von Gründen gekündigt, obwohl mein Chef mich letzte Woche noch für meine gute Arbeit gelobt hat. Ist das überhaupt erlaubt? Ich dachte, man braucht einen Grund für eine Kündigung. Was kann ich tun?"
+        },
+        {
+            "id": 2,
+            "name": "Elena",
+            "situation": "Ich arbeite seit Kurzem auf einer Baustelle. Im Vertrag steht, dass ich Sicherheitsschuhe tragen muss. Mein Arbeitgeber meint nun, ich müsse diese selbst kaufen und bezahlen. Das kann doch nicht sein, oder? Es geht ja um meine Sicherheit bei der Arbeit. Wer muss die Kosten für vorgeschriebene Sicherheitsschuhe übernehmen?"
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "situation": "Bei meinem Vorstellungsgespräch wurde mir mündlich zugesichert, dass ich hauptsächlich im Kundenservice arbeiten würde, was mir wichtig war. Im schriftlichen Arbeitsvertrag, den ich leider erst nach der Unterschrift genau gelesen habe, steht nun aber, dass mein Schwerpunkt auf administrativen Tätigkeiten liegt, die ich gar nicht machen möchte. Was gilt denn nun – die mündliche Absprache oder der Vertrag?"
+        },
+        {
+            "id": 4,
+            "name": "Sandra",
+            "situation": "In meiner Firma sollen wir jetzt alle einheitliche Poloshirts mit Firmenlogo tragen, die uns gestellt werden. Es handelt sich nicht um Schutzkleidung. Ich finde die Shirts aber sehr unbequem vom Material her. Muss ich dieses spezielle Shirt tragen oder kann ich auch ein eigenes, ähnliches, aber bequemeres Poloshirt in der Firmenfarbe anziehen? Gibt es da eine Regelung?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ja, das ist leider erlaubt. Während der Probezeit (die maximal 6 Monate dauert) gilt eine verkürzte Kündigungsfrist von meistens zwei Wochen, und der Arbeitgeber muss keinen Kündigungsgrund nennen. Das gilt auch, wenn du gute Arbeit geleistet hast. Da kann man rechtlich wenig machen, außer schnell eine neue Stelle suchen. Kopf hoch!"
+        },
+        {
+            "id": "b",
+            "author": "Ralf",
+            "timestamp": "vor 45 Minuten",
+            "content": "Dein Gefühl täuscht dich nicht. Wenn Arbeitsschutzkleidung wie Sicherheitsschuhe gesetzlich oder durch Unfallverhütungsvorschriften vorgeschrieben ist, muss der Arbeitgeber die Kosten dafür tragen oder die Kleidung kostenlos zur Verfügung stellen. Das ergibt sich aus dem Arbeitsschutzgesetz. Sprich deinen Chef nochmal darauf an und verweise auf die Vorschriften."
+        },
+        {
+            "id": "c",
+            "author": "Claudia",
+            "timestamp": "vor 5 Stunden",
+            "content": "Grundsätzlich gilt: Was im schriftlichen Arbeitsvertrag steht, hat Vorrang vor früheren mündlichen Absprachen, besonders bei den Hauptaufgaben. Mündliche Zusagen sind schwer nachweisbar. Für die Zukunft: Immer den Vertrag *vor* der Unterschrift gründlich prüfen! Im Nachhinein ist es schwierig, auf der mündlichen Zusage zu bestehen."
+        },
+        {
+            "id": "d",
+            "author": "Benno",
+            "timestamp": "vor 1 Stunde",
+            "content": "Eine Kündigung ist nur wirksam, wenn sie schriftlich erfolgt! Und bei einer fristlosen Kündigung muss es einen sehr ernsten Grund geben, wie z.B. Diebstahl oder Arbeitsverweigerung. Dagegen kann man sich oft wehren, am besten mit einem Anwalt für Arbeitsrecht."
+        },
+        {
+            "id": "e",
+            "author": "Lisa",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ich finde, bequeme Schuhe bei der Arbeit sind total wichtig, besonders wenn man viel stehen oder laufen muss. Ich habe mir selbst hochwertige Einlagen gekauft, auch wenn die Firma einfache Schuhe stellt. Das war mir meine Fußgesundheit wert. Gute Kleidung motiviert auch!"
+        },
+        {
+            "id": "f",
+            "author": "Tim",
+            "timestamp": "vor 8 Stunden",
+            "content": "Arbeitsverträge sind oft kompliziert. Wichtig ist, immer auf die Details zu achten, z.B. wie viele Urlaubstage man hat, wie Überstunden geregelt sind und ob es Sonderzahlungen wie Weihnachtsgeld gibt. Wenn etwas unklar ist, lieber vor der Unterschrift nachfragen."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

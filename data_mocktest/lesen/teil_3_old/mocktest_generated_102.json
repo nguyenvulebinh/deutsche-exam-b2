@@ -1,0 +1,69 @@
+{
+    "thema": "Konflikte und Fragen am Arbeitsplatz",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Mein Chef verlangt in letzter Zeit häufiger, dass ich Überstunden mache, auch spontan. Ich bin mir unsicher, ob ich das immer akzeptieren muss, vor allem, da im Arbeitsvertrag dazu nichts Genaues steht. Wie ist das generell geregelt? Müssen Überstunden angeordnet werden und wie werden sie normalerweise kompensiert? Ich möchte Klarheit darüber haben, was meine Pflichten und Rechte sind."
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich bin total schockiert. Mir wurde gestern gekündigt, fünf Monate nach Beginn meiner Tätigkeit, also noch innerhalb der sechsmonatigen Probezeit. Ich dachte eigentlich, dass alles gut läuft und hatte letzte Woche noch positives Feedback bekommen. Einen konkreten Grund nannte man mir nicht. Ist das rechtens, so kurzfristig und ohne Begründung in der Probezeit entlassen zu werden?"
+        },
+        {
+            "id": 3,
+            "name": "Anja",
+            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen. Dummerweise wurde ich am dritten Urlaubstag krank und war für fünf Tage krankgeschrieben, was ich auch mit einem Attest belegen kann. Mein Vorgesetzter meint nun, ich hätte Pech gehabt und die Urlaubstage seien weg. Stimmt das? Verfallen die Tage oder kann ich sie nachholen?"
+        },
+        {
+            "id": 4,
+            "name": "Mehmet",
+            "situation": "Ich arbeite in einer Werkstatt und muss dort spezielle Sicherheitsschuhe und eine vorgeschriebene Schutzjacke tragen. Jetzt sagt mein Chef, dass wir Mitarbeiter uns an den Kosten beteiligen müssen, weil wir die Kleidung ja auch nutzen. Ist das erlaubt? Ich dachte immer, der Arbeitgeber muss notwendige persönliche Schutzausrüstung komplett stellen und bezahlen. Wer weiß da Bescheid?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Stefan",
+            "timestamp": "vor 2 Stunden",
+            "content": "Überstunden müssen nur geleistet werden, wenn es eine klare Regelung im Arbeitsvertrag, einem Tarifvertrag oder einer Betriebsvereinbarung gibt. Dein Chef kann sie nicht einfach willkürlich anordnen. Wenn sie rechtmäßig angeordnet wurden, müssen sie entweder durch bezahlte Freizeit ausgeglichen oder zusätzlich vergütet werden. Schau nochmal genau in deine Unterlagen!"
+        },
+        {
+            "id": "b",
+            "author": "Julia",
+            "timestamp": "gestern",
+            "content": "Das ist leider typisch für die Probezeit. Innerhalb der ersten sechs Monate können sowohl Arbeitgeber als auch Arbeitnehmer das Arbeitsverhältnis mit einer kurzen Frist von nur zwei Wochen kündigen. Eine Begründung ist dafür nicht erforderlich. Der umfassende Kündigungsschutz greift erst nach Ablauf dieser Frist. Es tut mir leid, dass es dich getroffen hat."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 45 Minuten",
+            "content": "Dein Vorgesetzter liegt falsch. Urlaubstage, an denen du nachweislich (durch ärztliches Attest) krank warst, gelten nicht als verbraucht. Diese Tage werden deinem Urlaubskonto wieder gutgeschrieben. Du musst den Arbeitgeber aber unverzüglich über die Krankheit informieren und das Attest vorlegen. Dann kannst du den Urlaub später nachholen."
+        },
+        {
+            "id": "d",
+            "author": "Fatima",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ständige Überstunden sind echt ein Problem heutzutage. Ich kenne das auch, man fühlt sich unter Druck gesetzt. Man muss wirklich lernen, auch mal Nein zu sagen, sonst leidet die Gesundheit und das Privatleben. Für mich ist eine gute Work-Life-Balance entscheidend, auch wenn der Chef das anders sieht."
+        },
+        {
+            "id": "e",
+            "author": "Klaus",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wenn man schon länger im Betrieb ist, kann einem nicht einfach so gekündigt werden. Da gibt es das Kündigungsschutzgesetz. Der Arbeitgeber muss soziale Kriterien beachten und oft muss auch der Betriebsrat zustimmen. Gegen eine ungerechtfertigte Kündigung kann man sich juristisch wehren, das sollte man prüfen lassen."
+        },
+        {
+            "id": "f",
+            "author": "Sabine",
+            "timestamp": "vor 1 Stunde",
+            "content": "Urlaub sollte gut geplant sein. Wichtig ist, den Antrag rechtzeitig zu stellen. Wenn man dann direkt vor dem Urlaub krank wird und die Reise nicht antreten kann, ist das natürlich sehr ärgerlich. Man muss den Arbeitgeber sofort informieren, aber die bereits genehmigten Urlaubstage bleiben dann natürlich für später erhalten."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

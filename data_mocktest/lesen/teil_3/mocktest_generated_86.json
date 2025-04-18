@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jonas",
-            "situation": "Jonas ist seit vier Monaten in der Probezeit bei einer neuen Firma. Letzte Woche war er drei Tage krankgeschrieben wegen einer Grippe. Er hat die Krankmeldung fristgerecht eingereicht. Jetzt hat er aber gehört, dass man in der Probezeit sehr leicht gekündigt werden kann, auch wegen Krankheit. Er macht sich Sorgen, seinen Job zu verlieren. Kann mir wegen dieser kurzen Krankheit während der Probezeit gekündigt werden?"
+            "name": "Soraya",
+            "situation": "Soraya arbeitet seit sechs Jahren als Projektmanagerin. In ihrem Arbeitsvertrag gibt es eine Klausel, die besagt, dass sie bei Bedarf an einen anderen Firmenstandort in Deutschland versetzt werden kann. Nun soll sie tatsächlich dauerhaft in eine 400 km entfernte Stadt wechseln. Ihre private Situation hat sich aber seit Vertragsunterzeichnung geändert: Sie pflegt ihre kranke Mutter vor Ort und ihre Kinder gehen hier zur Schule. Muss ich diese Versetzung akzeptieren, obwohl die Klausel im Vertrag steht, aber meine familiäre Situation sich stark verändert hat und ein Umzug eine extreme Härte bedeuten würde?"
         },
         {
             "id": 2,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Soraya",
-            "situation": "Soraya arbeitet seit sechs Jahren als Projektmanagerin. In ihrem Arbeitsvertrag gibt es eine Klausel, die besagt, dass sie bei Bedarf an einen anderen Firmenstandort in Deutschland versetzt werden kann. Nun soll sie tatsächlich dauerhaft in eine 400 km entfernte Stadt wechseln. Ihre private Situation hat sich aber seit Vertragsunterzeichnung geändert: Sie pflegt ihre kranke Mutter vor Ort und ihre Kinder gehen hier zur Schule. Muss ich diese Versetzung akzeptieren, obwohl die Klausel im Vertrag steht, aber meine familiäre Situation sich stark verändert hat und ein Umzug eine extreme Härte bedeuten würde?"
+            "name": "Jonas",
+            "situation": "Jonas ist seit vier Monaten in der Probezeit bei einer neuen Firma. Letzte Woche war er drei Tage krankgeschrieben wegen einer Grippe. Er hat die Krankmeldung fristgerecht eingereicht. Jetzt hat er aber gehört, dass man in der Probezeit sehr leicht gekündigt werden kann, auch wegen Krankheit. Er macht sich Sorgen, seinen Job zu verlieren. Kann mir wegen dieser kurzen Krankheit während der Probezeit gekündigt werden?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
+        "4": "b",
         "2": "f",
         "3": "d",
-        "4": "x"
+        "1": "x"
     }
 }

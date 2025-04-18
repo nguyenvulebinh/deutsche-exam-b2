@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Sarah",
-            "situation": "Ich arbeite im Marketing. Mein Vertrag sieht 40 Stunden pro Woche vor, aber um alle Aufgaben zu schaffen, bleibe ich oft länger, ca. 5-6 Stunden pro Woche. Mein Chef weist die Überstunden nicht direkt an, aber er nimmt die Ergebnisse kommentarlos entgegen. Bisher wurde mir diese Mehrarbeit nicht bezahlt. Muss mein Arbeitgeber diese stillschweigend akzeptierten Überstunden vergüten oder habe ich Pech gehabt?"
-        },
-        {
-            "id": 2,
-            "name": "Markus",
-            "situation": "Ich war vom Montag bis Mittwoch krankgeschrieben, Attest liegt vor. Am Donnerstag hätte mein zweiwöchiger Jahresurlaub beginnen sollen. Nun meint meine Personalabteilung, die drei Krankheitstage würden als Urlaubstage zählen, da sie direkt vor dem Urlaub lagen. Stimmt das? Verliere ich dadurch drei Tage meines Urlaubsanspruchs oder muss der Urlaub verschoben werden?"
-        },
-        {
-            "id": 3,
             "name": "Julia",
             "situation": "Ich bin total verunsichert. Ich hatte eine sechsmonatige Probezeit, die nächste Woche geendet hätte. Gestern erhielt ich meine Kündigung, einfach so, ohne Angabe von Gründen, obwohl mein letztes Feedbackgespräch positiv war. Ist eine Kündigung so kurz vor Ende der Probezeit und ohne Begründung überhaupt rechtens?"
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "Cem",
             "situation": "Heute Morgen hatte ich auf dem direkten Weg zur Arbeit einen Fahrradunfall. Es ist zum Glück nichts Schlimmes passiert, aber ich konnte nicht zur Arbeit gehen und habe mich ordnungsgemäß krankgemeldet. Jetzt mache ich mir Sorgen: Könnte mein Arbeitgeber mir deswegen Probleme machen, vielleicht eine Abmahnung geben, weil ich gefehlt habe, obwohl der Unfall ja nicht im Betrieb war?"
+        },
+        {
+            "id": 3,
+            "name": "Sarah",
+            "situation": "Ich arbeite im Marketing. Mein Vertrag sieht 40 Stunden pro Woche vor, aber um alle Aufgaben zu schaffen, bleibe ich oft länger, ca. 5-6 Stunden pro Woche. Mein Chef weist die Überstunden nicht direkt an, aber er nimmt die Ergebnisse kommentarlos entgegen. Bisher wurde mir diese Mehrarbeit nicht bezahlt. Muss mein Arbeitgeber diese stillschweigend akzeptierten Überstunden vergüten oder habe ich Pech gehabt?"
+        },
+        {
+            "id": 4,
+            "name": "Markus",
+            "situation": "Ich war vom Montag bis Mittwoch krankgeschrieben, Attest liegt vor. Am Donnerstag hätte mein zweiwöchiger Jahresurlaub beginnen sollen. Nun meint meine Personalabteilung, die drei Krankheitstage würden als Urlaubstage zählen, da sie direkt vor dem Urlaub lagen. Stimmt das? Verliere ich dadurch drei Tage meines Urlaubsanspruchs oder muss der Urlaub verschoben werden?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "3": "a",
+        "4": "b",
+        "1": "c",
+        "2": "x"
     }
 }

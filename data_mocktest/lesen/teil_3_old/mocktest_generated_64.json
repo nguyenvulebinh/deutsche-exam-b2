@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Nadja",
+            "situation": "Ich bin total verunsichert. Ich arbeite seit drei Monaten in einer neuen Firma und befinde mich noch in der Probezeit, die sechs Monate dauert. Gestern wurde mir ohne Angabe von konkreten Gründen gekündigt, obwohl ich dachte, alles liefe gut. Die Kündigungsfrist beträgt nur zwei Wochen. Ist das rechtens? Ich dachte, man braucht immer einen wichtigen Grund für eine Kündigung."
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen und war verreist. Leider wurde ich in der zweiten Urlaubswoche krank und musste sogar zum Arzt. Ich habe mir natürlich sofort ein Attest ausstellen lassen und meinen Arbeitgeber informiert. Meine Frage: Verfallen diese Krankheitstage jetzt als Urlaubstage, oder bekomme ich sie gutgeschrieben?"
+        },
+        {
+            "id": 3,
+            "name": "Maria",
+            "situation": "Mein Abteilungsleiter hat mir vor zwei Monaten mündlich zugesagt, dass ich auf Firmenkosten an einem wichtigen Weiterbildungskurs teilnehmen darf. Das war für mich ein wichtiger Grund, in der Firma zu bleiben. Nun habe ich nachgefragt, wann der Kurs stattfindet, und er meint, er könne sich an keine Zusage erinnern und im Budget sei dafür nichts vorgesehen. Ist so eine mündliche Zusage nicht bindend?"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Mir ist heute etwas Blödes passiert: Ich bin in unserer Büroküche auf verschüttetem Kaffee ausgerutscht, als ich mir gerade einen neuen Kaffee holen wollte. Das war während meiner regulären Arbeitszeit. Dabei habe ich mir das Handgelenk verstaucht. Zählt das als Arbeitsunfall, der von der gesetzlichen Unfallversicherung abgedeckt ist, oder ist das Pech, weil Kaffeetrinken ja 'privat' ist?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Heike",
+            "timestamp": "vor 2 Stunden",
+            "content": "Grundsätzlich sind Unfälle auf dem direkten Weg zur oder von der Arbeit als „Wegeunfall“ über die gesetzliche Unfallversicherung abgedeckt. Private Umwege oder Unterbrechungen sind meist nicht versichert. Arbeitsunfälle direkt am Arbeitsplatz sind natürlich ebenfalls versichert, aber die genaue Definition hängt vom Einzelfall ab. Bei Unklarheiten sollte man sich beraten lassen."
+        },
+        {
+            "id": "b",
+            "author": "Stefan",
+            "timestamp": "vor 45 Minuten",
+            "content": "In der Probezeit gelten leider besondere Regeln. Der gesetzliche Kündigungsschutz greift in der Regel erst nach sechs Monaten Betriebszugehörigkeit. Während der Probezeit kann das Arbeitsverhältnis von beiden Seiten meist mit einer Frist von zwei Wochen und ohne Angabe von Gründen gekündigt werden, sofern vertraglich nichts anderes vereinbart wurde. Das ist also leider formal korrekt."
+        },
+        {
+            "id": "c",
+            "author": "Petra",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ach, das kenne ich! Bei uns in der Firma gibt es auch Kollegen, die auffällig oft montags oder freitags 'krank' sind, besonders wenn Brückentage anstehen. Natürlich muss man ein Attest vorlegen, aber ob wirklich jeder immer so krank ist... Naja, der Arbeitgeber muss es wohl akzeptieren, wenn der Arzt die Arbeitsunfähigkeit bescheinigt. Ärgerlich ist es trotzdem fürs Team."
+        },
+        {
+            "id": "d",
+            "author": "Lisa",
+            "timestamp": "vor 1 Stunde",
+            "content": "Keine Sorge, da gibt es eine klare Regelung im Bundesurlaubsgesetz: Wenn du während deines Urlaubs krank wirst und dies durch ein ärztliches Attest nachweisen kannst, werden diese Krankheitstage nicht auf deinen Jahresurlaub angerechnet. Du musst deinen Arbeitgeber aber unverzüglich informieren und das Attest vorlegen. Die Urlaubstage bekommst du dann gutgeschrieben."
+        },
+        {
+            "id": "e",
+            "author": "Markus",
+            "timestamp": "vor 3 Stunden",
+            "content": "Wenn du deinen Chef von einer Weiterbildung überzeugen willst, ist gute Vorbereitung alles. Zeige auf, welchen Nutzen die Firma davon hat, nicht nur du persönlich. Vielleicht kannst du vorschlagen, die Kosten zu teilen? Ein guter Zeitpunkt für solche Gespräche ist oft nach einem erfolgreichen Projekt oder im Jahresgespräch. Viel Erfolg bei der Verhandlung!"
+        },
+        {
+            "id": "f",
+            "author": "Klaus",
+            "timestamp": "vor 30 Minuten",
+            "content": "Mündliche Zusagen sind im Arbeitsrecht so eine Sache. Prinzipiell können sie gültig sein, aber das Problem ist die Beweisbarkeit. Wenn dein Chef sich nicht mehr erinnert oder es bestreitet und du keine Zeugen oder schriftliche Notizen hast, wird es sehr schwer, das durchzusetzen. Für wichtige Vereinbarungen gilt daher immer: Besser schriftlich fixieren lassen!"
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "d",
+        "3": "f",
+        "4": "x"
+    }
+}

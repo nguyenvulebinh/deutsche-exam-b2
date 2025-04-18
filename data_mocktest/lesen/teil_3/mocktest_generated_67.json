@@ -3,18 +3,18 @@
     "people_seeking_info": [
         {
             "id": 1,
+            "name": "Aisha",
+            "situation": "Ich arbeite in einem Großraumbüro. Der Lärmpegel durch Telefonate und Gespräche der Kollegen ist oft sehr hoch, was meine Konzentration stört und zu Kopfschmerzen führt. Ich möchte wissen, ob mein Arbeitgeber verpflichtet ist, etwas gegen den Lärm zu unternehmen oder ob ich das einfach hinnehmen muss."
+        },
+        {
+            "id": 2,
             "name": "Clara",
             "situation": "Ich habe einen auf ein Jahr befristeten Arbeitsvertrag, der bald ausläuft. Mein Chef hat mir vor einigen Wochen mündlich zugesichert, dass ich danach einen unbefristeten Vertrag bekomme. Jetzt redet er sich aber raus und es gibt nichts Schriftliches. Ich bin unsicher, ob diese mündliche Zusage überhaupt zählt und was ich tun kann."
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Stefan",
             "situation": "Ich war wegen einer komplizierten Operation mehrere Wochen krankgeschrieben. Kaum bin ich wieder arbeitsfähig, erhalte ich die Kündigung von meinem langjährigen Arbeitgeber. Ich frage mich, ob es überhaupt erlaubt ist, einem Mitarbeiter zu kündigen, während oder kurz nachdem er krank war, und ob die Krankheit der Grund sein darf."
-        },
-        {
-            "id": 3,
-            "name": "Aisha",
-            "situation": "Ich arbeite in einem Großraumbüro. Der Lärmpegel durch Telefonate und Gespräche der Kollegen ist oft sehr hoch, was meine Konzentration stört und zu Kopfschmerzen führt. Ich möchte wissen, ob mein Arbeitgeber verpflichtet ist, etwas gegen den Lärm zu unternehmen oder ob ich das einfach hinnehmen muss."
         },
         {
             "id": 4,
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
+        "2": "a",
+        "3": "b",
+        "1": "c",
         "4": "x"
     }
 }

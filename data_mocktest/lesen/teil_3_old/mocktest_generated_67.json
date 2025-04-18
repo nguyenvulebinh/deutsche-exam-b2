@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Berufsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Clara",
+            "situation": "Ich habe einen auf ein Jahr befristeten Arbeitsvertrag, der bald ausläuft. Mein Chef hat mir vor einigen Wochen mündlich zugesichert, dass ich danach einen unbefristeten Vertrag bekomme. Jetzt redet er sich aber raus und es gibt nichts Schriftliches. Ich bin unsicher, ob diese mündliche Zusage überhaupt zählt und was ich tun kann."
+        },
+        {
+            "id": 2,
+            "name": "Stefan",
+            "situation": "Ich war wegen einer komplizierten Operation mehrere Wochen krankgeschrieben. Kaum bin ich wieder arbeitsfähig, erhalte ich die Kündigung von meinem langjährigen Arbeitgeber. Ich frage mich, ob es überhaupt erlaubt ist, einem Mitarbeiter zu kündigen, während oder kurz nachdem er krank war, und ob die Krankheit der Grund sein darf."
+        },
+        {
+            "id": 3,
+            "name": "Aisha",
+            "situation": "Ich arbeite in einem Großraumbüro. Der Lärmpegel durch Telefonate und Gespräche der Kollegen ist oft sehr hoch, was meine Konzentration stört und zu Kopfschmerzen führt. Ich möchte wissen, ob mein Arbeitgeber verpflichtet ist, etwas gegen den Lärm zu unternehmen oder ob ich das einfach hinnehmen muss."
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich arbeite im Schichtdienst in der Logistik. Mein Vertrag erwähnt zwar die Möglichkeit von Wochenendarbeit, aber in letzter Zeit werde ich fast jedes Wochenende eingeteilt, ohne dass ich dafür einen finanziellen Ausgleich oder zusätzliche freie Tage erhalte. Außerdem habe ich das Gefühl, dass meine Pausenzeiten oft wegen hohem Arbeitsaufkommen verkürzt werden. Ich frage mich, ob diese Häufigkeit der Wochenendarbeit ohne Ausgleich und die verkürzten Pausen so rechtens sind."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Matthias",
+            "timestamp": "vor 2 Stunden",
+            "content": "Grundsätzlich können Arbeitsverträge auch mündlich geschlossen oder geändert werden, auch die Umwandlung in einen unbefristeten Vertrag. Das Problem ist aber die Beweisbarkeit! Ohne schriftliche Bestätigung oder Zeugen ist es schwer, die Zusage nachzuweisen. Versuche, das Gespräch nochmals zu suchen und um eine schriftliche Bestätigung zu bitten."
+        },
+        {
+            "id": "b",
+            "author": "Julia",
+            "timestamp": "vor 45 Minuten",
+            "content": "Krankheit allein ist kein Kündigungsgrund und schützt auch nicht generell vor einer Kündigung. Eine Kündigung *wegen* Krankheit ist aber nur unter strengen Voraussetzungen möglich, z.B. bei sehr langen oder häufigen Fehlzeiten mit negativer Zukunftsprognose und erheblicher Beeinträchtigung betrieblicher Interessen. Das muss der Arbeitgeber genau begründen."
+        },
+        {
+            "id": "c",
+            "author": "Bernd",
+            "timestamp": "vor 5 Stunden",
+            "content": "Der Arbeitgeber hat eine Fürsorgepflicht und muss die Gesundheit der Mitarbeiter schützen. Dazu gehört auch der Schutz vor übermäßigem Lärm am Arbeitsplatz (§ 618 BGB, Arbeitsstättenverordnung). Sprich das Problem offen an. Eventuell gibt es technische oder organisatorische Lösungen. Auch der Betriebsrat kann hier helfen."
+        },
+        {
+            "id": "d",
+            "author": "Lena",
+            "timestamp": "vor 1 Tag",
+            "content": "Befristete Verträge sind ja so eine Sache. Wichtig ist, dass die Befristung schriftlich vereinbart wurde, sonst gilt der Vertrag als unbefristet. Eine Verlängerung ist unter bestimmten Bedingungen möglich, aber oft nur einmal. Informiere dich genau über die Regeln des Teilzeit- und Befristungsgesetzes (TzBfG)."
+        },
+        {
+            "id": "e",
+            "author": "Omar",
+            "timestamp": "vor 8 Stunden",
+            "content": "In der Probezeit (maximal 6 Monate) ist eine Kündigung viel einfacher möglich, sowohl für den Arbeitgeber als auch für den Arbeitnehmer. Die Kündigungsfrist beträgt dann meist nur zwei Wochen und es braucht keinen besonderen Grund. Nach der Probezeit gelten dann die normalen, längeren Kündigungsfristen und der Kündigungsschutz."
+        },
+        {
+            "id": "f",
+            "author": "Sabine",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ja, Großraumbüros können echt nerven! Bei uns ist es auch oft laut. Ich habe mir gute Noise-Cancelling-Kopfhörer gekauft, das hilft zumindest zeitweise. Manchmal hilft auch, sich mit den direkten Kollegen abzusprechen, wann Ruhezeiten wichtig sind. Aber eine echte Lösung gibt's selten."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

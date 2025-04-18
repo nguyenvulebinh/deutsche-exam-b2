@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsunfälle und Krankheiten am Arbeitsplatz",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Anna",
+            "situation": "Ich hatte heute Morgen auf dem direkten Weg zur Arbeit einen Fahrradunfall. Zum Glück ist es nur eine leichte Prellung am Arm, aber mein Kollege meinte, ich müsse das trotzdem dem Arbeitgeber melden. Ist das wirklich nötig, auch wenn ich nicht krankgeschrieben bin? Ich mache mir Sorgen wegen der Versicherung, falls doch noch Spätfolgen auftreten."
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich war letzte Woche im genehmigten Urlaub und bin leider für drei Tage krank geworden. Ich habe meinem Arbeitgeber sofort Bescheid gegeben und auch ein ärztliches Attest eingereicht. Nun sehe ich auf meiner Urlaubsübersicht, dass diese drei Tage trotzdem als Urlaubstage abgezogen wurden. Darf mein Chef das machen oder müssen mir die Tage wieder gutgeschrieben werden?"
+        },
+        {
+            "id": 3,
+            "name": "Julia",
+            "situation": "Ich arbeite in einer Werkstatt und finde die Sicherheitsvorkehrungen mangelhaft. Oft fehlen Schutzbrillen oder die Handschuhe sind kaputt. Ich habe das Gefühl, dass der Arbeitgeber seiner Pflicht nicht nachkommt, für unsere Sicherheit zu sorgen. Was kann ich konkret tun oder welche Rechte habe ich, damit sich das ändert? Ich möchte sicher arbeiten können."
+        },
+        {
+            "id": 4,
+            "name": "Cem",
+            "situation": "Ich fühle mich durch ständige Überstunden und hohen Druck bei der Arbeit extrem gestresst, schlafe schlecht und bin oft nervös. Ich glaube, das wirkt sich langsam auf meine Gesundheit aus. Muss mein Arbeitgeber etwas gegen diese hohe Belastung unternehmen, oder ist das allein mein Problem? Gibt es vielleicht spezielle Anlaufstellen oder Programme direkt über die Firma für solche Situationen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Stefan",
+            "timestamp": "vor 25 Minuten",
+            "content": "Unfälle auf dem direkten Weg zur oder von der Arbeit gelten als Arbeitsunfälle (Wegeunfälle). Du solltest das unbedingt deinem Arbeitgeber melden, auch bei leichten Verletzungen. Das ist wichtig für die gesetzliche Unfallversicherung, falls unerwartet doch Spätfolgen auftreten oder eine ärztliche Behandlung nötig wird. Sicher ist sicher!"
+        },
+        {
+            "id": "b",
+            "author": "Lena",
+            "timestamp": "vor 1 Stunde",
+            "content": "Nein, das ist nicht korrekt. Wenn du während deines Urlaubs krank wirst und dies durch ein ärztliches Attest nachweisen kannst, gelten diese Tage nicht als Urlaubstage. Dein Arbeitgeber muss dir diese Urlaubstage gemäß §9 Bundesurlaubsgesetz wieder gutschreiben. Sprich ihn am besten direkt darauf an und verweise auf das Attest."
+        },
+        {
+            "id": "c",
+            "author": "Klaus",
+            "timestamp": "vor 3 Stunden",
+            "content": "Dein Arbeitgeber hat eine Fürsorgepflicht und ist nach dem Arbeitsschutzgesetz verpflichtet, für eine sichere Arbeitsumgebung zu sorgen und die notwendige Schutzausrüstung bereitzustellen und instand zu halten. Sprich das Problem bei deinem Vorgesetzten an, dokumentiere die Mängel vielleicht auch. Wenn das nichts nützt, wende dich an den Betriebsrat (falls vorhanden) oder den Sicherheitsbeauftragten im Betrieb."
+        },
+        {
+            "id": "d",
+            "author": "Maria",
+            "timestamp": "vor 5 Stunden",
+            "content": "Krankheit ist immer ärgerlich. Denk dran, dass du dich spätestens am dritten Tag der Arbeitsunfähigkeit durch eine ärztliche Bescheinigung (AU) krankmelden musst, manche Arbeitgeber verlangen das schon früher. Bei Krankheit zahlt der Arbeitgeber bis zu sechs Wochen deinen Lohn weiter (Lohnfortzahlung)."
+        },
+        {
+            "id": "e",
+            "author": "David",
+            "timestamp": "vor 45 Minuten",
+            "content": "Sicherheit am Arbeitsplatz ist wichtig. Ich finde es auch manchmal gefährlich bei uns. Aber man muss halt aufpassen und vielleicht selbst vorschlagen, was man verbessern könnte. Eigeninitiative wird oft geschätzt. Man kann ja nicht erwarten, dass der Chef an alles denkt."
+        },
+        {
+            "id": "f",
+            "author": "Sabine",
+            "timestamp": "vor 8 Stunden",
+            "content": "Die gesetzliche Unfallversicherung leistet ja nicht nur bei Unfällen, sondern auch bei anerkannten Berufskrankheiten. Wenn man also durch die Arbeit dauerhaft krank wird, kann man unter Umständen Leistungen wie Umschulungen oder sogar eine Rente bekommen. Das ist aber oft ein langer Prozess."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

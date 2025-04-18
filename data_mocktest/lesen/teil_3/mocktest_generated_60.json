@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Lena",
-            "situation": "Eine Kollegin in meiner Abteilung verbreitet ständig Gerüchte über mich, die nicht wahr sind. Das Arbeitsklima leidet darunter sehr und ich fühle mich unwohl. Ich habe versucht, sie darauf anzusprechen, aber sie streitet alles ab. Ich möchte das professionell klären, ohne dass es weiter eskaliert. Wie gehe ich am besten vor? Gibt es offizielle Stellen in der Firma?"
+            "name": "Sofia",
+            "situation": "Ich beobachte seit Wochen, wie ein Teammitglied von anderen systematisch ausgegrenzt und schlechtgemacht wird. Es werden abfällige Bemerkungen gemacht und wichtige Informationen vorenthalten. Ich finde das schrecklich und möchte der betroffenen Person helfen, habe aber Angst, selbst zum Ziel zu werden oder Ärger zu bekommen. Was kann ich tun, um zu unterstützen?"
         },
         {
             "id": 2,
@@ -13,8 +13,8 @@
         },
         {
             "id": 3,
-            "name": "Sofia",
-            "situation": "Ich beobachte seit Wochen, wie ein Teammitglied von anderen systematisch ausgegrenzt und schlechtgemacht wird. Es werden abfällige Bemerkungen gemacht und wichtige Informationen vorenthalten. Ich finde das schrecklich und möchte der betroffenen Person helfen, habe aber Angst, selbst zum Ziel zu werden oder Ärger zu bekommen. Was kann ich tun, um zu unterstützen?"
+            "name": "Lena",
+            "situation": "Eine Kollegin in meiner Abteilung verbreitet ständig Gerüchte über mich, die nicht wahr sind. Das Arbeitsklima leidet darunter sehr und ich fühle mich unwohl. Ich habe versucht, sie darauf anzusprechen, aber sie streitet alles ab. Ich möchte das professionell klären, ohne dass es weiter eskaliert. Wie gehe ich am besten vor? Gibt es offizielle Stellen in der Firma?"
         },
         {
             "id": 4,
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
+        "3": "c",
         "2": "e",
-        "3": "a",
+        "1": "a",
         "4": "x"
     }
 }

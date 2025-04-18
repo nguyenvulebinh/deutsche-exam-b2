@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Stefan",
-            "situation": "Ich bin im fünften Monat meiner Probezeit und habe gerade meine Kündigung erhalten – mit nur zwei Wochen Frist! Ich dachte eigentlich, es läuft gut bei der Arbeit und bin ziemlich überrascht. Ist eine so kurze Kündigungsfrist während der Probezeit überhaupt erlaubt?"
+            "name": "Yasmin",
+            "situation": "Ich bin nun seit sieben Wochen durchgehend krankgeschrieben. Mein Arbeitgeber hat die Lohnfortzahlung nach sechs Wochen eingestellt. Ich habe gehört, dass jetzt die Krankenkasse mit Krankengeld einspringt. Muss ich das aktiv beantragen oder wie läuft das genau ab?"
         },
         {
             "id": 2,
-            "name": "Lena",
-            "situation": "Ich leiste regelmäßig Überstunden, aber in meinem Arbeitsvertrag steht dazu gar nichts. Bisher habe ich weder zusätzliches Geld noch Freizeitausgleich dafür bekommen. Ich bin unsicher, welche Rechte ich bezüglich der Vergütung dieser Mehrarbeit habe. Kann mir jemand sagen, was gilt?"
-        },
-        {
-            "id": 3,
             "name": "Cem",
             "situation": "Mein zweiwöchiger Urlaub war genehmigt, aber genau an den ersten drei Tagen war ich krankgeschrieben und habe auch ein ärztliches Attest eingereicht. Zählt diese Zeit jetzt trotzdem als genommener Urlaub oder bekomme ich die drei Tage gutgeschrieben?"
         },
         {
+            "id": 3,
+            "name": "Stefan",
+            "situation": "Ich bin im fünften Monat meiner Probezeit und habe gerade meine Kündigung erhalten – mit nur zwei Wochen Frist! Ich dachte eigentlich, es läuft gut bei der Arbeit und bin ziemlich überrascht. Ist eine so kurze Kündigungsfrist während der Probezeit überhaupt erlaubt?"
+        },
+        {
             "id": 4,
-            "name": "Yasmin",
-            "situation": "Ich bin nun seit sieben Wochen durchgehend krankgeschrieben. Mein Arbeitgeber hat die Lohnfortzahlung nach sechs Wochen eingestellt. Ich habe gehört, dass jetzt die Krankenkasse mit Krankengeld einspringt. Muss ich das aktiv beantragen oder wie läuft das genau ab?"
+            "name": "Lena",
+            "situation": "Ich leiste regelmäßig Überstunden, aber in meinem Arbeitsvertrag steht dazu gar nichts. Bisher habe ich weder zusätzliches Geld noch Freizeitausgleich dafür bekommen. Ich bin unsicher, welche Rechte ich bezüglich der Vergütung dieser Mehrarbeit habe. Kann mir jemand sagen, was gilt?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "f",
-        "3": "a",
-        "4": "x"
+        "3": "d",
+        "4": "f",
+        "2": "a",
+        "1": "x"
     }
 }

@@ -8,8 +8,8 @@
         },
         {
             "id": 2,
-            "name": "Ben",
-            "situation": "Ich bin heute bei der Arbeit auf der Treppe ausgerutscht und habe mir das Knie leicht geprellt. Es tut kaum noch weh. Muss ich so einen kleinen Vorfall überhaupt melden? Ich habe Sorge, dass es als unvorsichtig angesehen wird oder spätere Probleme auftreten könnten, wenn ich es jetzt nicht melde."
+            "name": "David",
+            "situation": "Ich war zwei Wochen krankgeschrieben (ärztliches Attest liegt vor). Während meiner Krankheit habe ich nun die Kündigung zum Monatsende erhalten. Ist es überhaupt erlaubt, mir zu kündigen, während ich krankgeschrieben bin? Und gilt die Kündigungsfrist trotzdem?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "David",
-            "situation": "Ich war zwei Wochen krankgeschrieben (ärztliches Attest liegt vor). Während meiner Krankheit habe ich nun die Kündigung zum Monatsende erhalten. Ist es überhaupt erlaubt, mir zu kündigen, während ich krankgeschrieben bin? Und gilt die Kündigungsfrist trotzdem?"
+            "name": "Ben",
+            "situation": "Ich bin heute bei der Arbeit auf der Treppe ausgerutscht und habe mir das Knie leicht geprellt. Es tut kaum noch weh. Muss ich so einen kleinen Vorfall überhaupt melden? Ich habe Sorge, dass es als unvorsichtig angesehen wird oder spätere Probleme auftreten könnten, wenn ich es jetzt nicht melde."
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
+        "4": "b",
         "3": "c",
-        "4": "x"
+        "2": "x"
     }
 }

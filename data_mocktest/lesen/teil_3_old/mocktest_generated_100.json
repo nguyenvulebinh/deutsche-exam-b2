@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsvertrag und Arbeitsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Mein befristeter Arbeitsvertrag läuft in zwei Monaten aus. Meine Chefin hat mündlich angedeutet, dass sie mich gerne behalten würde und mein Vertrag wahrscheinlich verlängert wird. Ich habe aber bisher nichts Schriftliches bekommen und mache mir Sorgen. Kann ich mich auf die mündliche Zusage verlassen oder muss ich mich jetzt doch nach einer neuen Stelle umsehen?"
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich arbeite in einem Großraumbüro und ein Kollege telefoniert ständig lautstark privat während der Arbeitszeit. Das stört meine Konzentration extrem und ich mache dadurch Fehler. Ich möchte ihn darauf ansprechen, weiß aber nicht, wie ich das am besten tue, ohne dass es gleich zu einem großen Streit kommt. Hat jemand einen Tipp für eine professionelle Vorgehensweise?"
+        },
+        {
+            "id": 3,
+            "name": "Sofia",
+            "situation": "Mein Vorgesetzter hat mir heute eine Aufgabe übertragen, die meiner Meinung nach überhaupt nicht zu meinem eigentlichen Tätigkeitsbereich gehört, der im Arbeitsvertrag klar definiert ist. Ich fühle mich damit überfordert und bin unsicher, ob ich dafür überhaupt qualifiziert bin. Muss ich diese Aufgabe trotzdem erledigen oder kann ich sie ablehnen?"
+        },
+        {
+            "id": 4,
+            "name": "Cem",
+            "situation": "Ich bin Auszubildender im zweiten Lehrjahr als Mechatroniker. Mein Ausbilder meint, ich müsse nächsten Samstag arbeiten, weil ein dringender Auftrag fertig werden muss. Ist das für Azubis überhaupt erlaubt? Außerdem sollen wir uns spezielle Sicherheits-Messgeräte selbst kaufen, obwohl die für die Ausbildung wichtig sind. Muss die Firma die nicht stellen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Mündliche Zusagen bezüglich Vertragsverlängerungen sind rechtlich leider sehr unsicher und im Streitfall schwer nachweisbar. Solange du keinen neuen, schriftlichen Vertrag oder eine schriftliche Bestätigung der Verlängerung hast, gilt das im aktuellen Vertrag stehende Enddatum. Sicherheitshalber solltest du dich parallel nach Alternativen umschauen."
+        },
+        {
+            "id": "b",
+            "author": "Hannah",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das ist eine schwierige Situation im Großraumbüro. Ich würde empfehlen, den Kollegen erst einmal freundlich und direkt unter vier Augen anzusprechen. Schildere ihm sachlich, wie sich sein Verhalten auf deine Arbeit auswirkt (Ich-Botschaften, z.B. \"Ich kann mich schwer konzentrieren, wenn...\"). Oft hilft das schon. Wenn nicht, wäre der nächste Schritt das Gespräch mit dem Vorgesetzten."
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Grundsätzlich muss sich die Arbeit an deinem Arbeitsvertrag orientieren. Allerdings hat der Arbeitgeber ein Direktionsrecht und kann dir vorübergehend auch andere zumutbare Aufgaben zuweisen, solange sie nicht völlig außerhalb deines Qualifikationsprofils liegen. Prüfe deinen Vertrag genau. Wenn die Aufgabe dauerhaft sein soll oder unzumutbar ist, solltest du das Gespräch mit dem Chef suchen und deine Bedenken äußern."
+        },
+        {
+            "id": "d",
+            "author": "Julia",
+            "timestamp": "vor 1 Stunde",
+            "content": "Bei uns im Büro ist es auch oft laut, aber eher durch Gespräche über Arbeitsthemen. Private Telefonate finde ich aber auch unangebracht. Ich glaube, viele Leute haben einfach kein Gespür mehr dafür, was andere stört. Da kann man leider oft nichts machen, außer sich selbst Kopfhörer aufzusetzen."
+        },
+        {
+            "id": "e",
+            "author": "Ahmed",
+            "timestamp": "vor 3 Stunden",
+            "content": "Eine Kündigung während der Probezeit ist immer ärgerlich, aber leider rechtlich meistens einfach möglich, da der Kündigungsschutz noch nicht greift. Wichtig ist, dass die Kündigungsfrist eingehalten wird. Wenn dein Vertrag endet, ist das aber keine Kündigung, sondern einfach das planmäßige Auslaufen."
+        },
+        {
+            "id": "f",
+            "author": "Simone",
+            "timestamp": "vor 6 Stunden",
+            "content": "Überstunden sind bei uns auch ein großes Thema. Manchmal bekommen wir kurzfristig zusätzliche Aufgaben, die wir dann nach Feierabend erledigen müssen. Zum Glück werden die bei uns aber entweder bezahlt oder man kann sie abfeiern. Frag mal bei eurem Betriebsrat nach, wie das bei euch geregelt ist."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

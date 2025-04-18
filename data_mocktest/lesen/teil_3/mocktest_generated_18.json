@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jan",
-            "situation": "Mein ehemaliger Arbeitgeber hat mir mein Arbeitszeugnis geschickt. Auf den ersten Blick klingt alles gut, aber ein Freund meinte, Formulierungen wie \"Er erledigte alle Aufgaben zu unserer vollen Zufriedenheit\" seien eigentlich gar nicht positiv. Ich bin total verunsichert. Wie kann ich sicher sein, was mein Zeugnis wirklich über meine Leistung aussagt? Gibt es da versteckte Botschaften?"
-        },
-        {
-            "id": 2,
             "name": "Fatima",
             "situation": "Durch ein großes Projekt habe ich in den letzten Monaten fast 60 Überstunden angesammelt. Langsam brauche ich mal eine Pause. Mein Chef meint aber, die Auftragslage sei weiter angespannt und ein Freizeitausgleich sei momentan schwierig. Muss mein Arbeitgeber mir nicht ermöglichen, die Überstunden zeitnah abzubauen, oder kann er mich einfach vertrösten?"
         },
         {
+            "id": 2,
+            "name": "Jan",
+            "situation": "Mein ehemaliger Arbeitgeber hat mir mein Arbeitszeugnis geschickt. Auf den ersten Blick klingt alles gut, aber ein Freund meinte, Formulierungen wie \"Er erledigte alle Aufgaben zu unserer vollen Zufriedenheit\" seien eigentlich gar nicht positiv. Ich bin total verunsichert. Wie kann ich sicher sein, was mein Zeugnis wirklich über meine Leistung aussagt? Gibt es da versteckte Botschaften?"
+        },
+        {
             "id": 3,
-            "name": "Stefan",
-            "situation": "Ich bin seit vier Monaten in meiner neuen Firma, also noch in der Probezeit. Nun bin ich leider ernsthaft krank geworden und werde wohl zwei Wochen ausfallen. Ich habe mich natürlich sofort krankgemeldet und eine ärztliche Bescheinigung eingereicht. Muss ich mir jetzt Sorgen machen, dass mir trotz der Krankmeldung gekündigt wird, weil ich noch nicht fest angestellt bin?"
+            "name": "Marta",
+            "situation": "Ich arbeite in einem Großraumbüro und eine Kollegin telefoniert unglaublich laut und lacht dabei oft sehr schallend. Das stört meine Konzentration massiv. Ich habe sie schon angesprochen, aber es ändert sich nichts. Hat mein Arbeitgeber die Pflicht, mir wegen dieser Lärmbelästigung durch die Kollegin einen ruhigeren Arbeitsplatz, vielleicht sogar ein Einzelbüro, zur Verfügung zu stellen? Was sind da meine Rechte?"
         },
         {
             "id": 4,
-            "name": "Marta",
-            "situation": "Ich arbeite in einem Großraumbüro und eine Kollegin telefoniert unglaublich laut und lacht dabei oft sehr schallend. Das stört meine Konzentration massiv. Ich habe sie schon angesprochen, aber es ändert sich nichts. Hat mein Arbeitgeber die Pflicht, mir wegen dieser Lärmbelästigung durch die Kollegin einen ruhigeren Arbeitsplatz, vielleicht sogar ein Einzelbüro, zur Verfügung zu stellen? Was sind da meine Rechte?"
+            "name": "Stefan",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Firma, also noch in der Probezeit. Nun bin ich leider ernsthaft krank geworden und werde wohl zwei Wochen ausfallen. Ich habe mich natürlich sofort krankgemeldet und eine ärztliche Bescheinigung eingereicht. Muss ich mir jetzt Sorgen machen, dass mir trotz der Krankmeldung gekündigt wird, weil ich noch nicht fest angestellt bin?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
-        "2": "d",
-        "3": "f",
-        "4": "x"
+        "2": "b",
+        "1": "d",
+        "4": "f",
+        "3": "x"
     }
 }

@@ -1,0 +1,70 @@
+{
+    "thema": "Tipps zu Work-Life-Balance",
+    "people_seeking_info": [
+      {
+        "id": 1,
+        "name": "Lea",
+        "situation": "Ich weiß nicht, wie's euch geht, aber mir wachsen Familie und Vollzeitjob allmählich über den Kopf. Wir haben zwei Kinder und wir teilen uns den Haushalt, aber der Job von meinem Mann fordert ihn auch sehr. Zu viele Aufgaben bleiben an mir hängen, sodass ich mich immer häufiger frage, wie ich das alles schaffen soll."
+      },
+      {
+        "id": 2,
+        "name": "Luciano",
+        "situation": "Hallo! In meiner Firma ist flexible Arbeitszeit möglich und ich nutze sie auch gern. Oft fange ich erst um 10:30 Uhr an, weil es für mich so besser ist. Ich kann dann morgens noch Sport machen und mich um meine gehbehinderte Mutter kümmern. Aber meine Kollegen machen mir jetzt Stress deswegen. Sie wollen die Team-Besprechung (zweimal pro Woche) um 8:30 Uhr abhalten. Kann ich mich dagegen wehren?"
+      },
+      {
+        "id": 3,
+        "name": "Jorges",
+        "situation": "Eigentlich gefällt mir meine Arbeit. Sie ist interessant und abwechslungsreich und aufgrund meiner langen Erfahrung kann ich anderen helfen. Mein Chef hat das gemerkt und fragt mich immer öfter, ob ich Überstunden machen oder für jemand einspringen kann. Wie soll ich ihm sagen, dass ich das nicht will?"
+      },
+      {
+        "id": 4,
+        "name": "Kiara",
+        "situation": "Kennt ihr das auch? Ich habe total viel Arbeit im Büro, mache viele Überstunden und pendle auch noch eine Stunde zur Arbeit. Manchmal ruft dann am Abend auch noch ein Kunde oder die Chefin auf dem Firmenhandy an. Das geht die ganze Woche so. Ich bin total gestresst, habe oft Kopfschmerzen und kann gar nicht mehr abschalten! Habt ihr einen Tipp für mich?"
+      }
+    ],
+    "posts": [
+      {
+        "id": "a",
+        "author": "Jonas",
+        "timestamp": "vor 30 Minuten",
+        "content": "So ging es mir auch und irgendwann bin ich davon krank geworden. Lass es nicht dazu kommen. Ein Arbeitgeber hat eine Fürsorgepflicht seinen Mitarbeitern gegenüber. Dazu gehört auch, die Gesundheit zu schützen und für die Einhaltung der Ruhezeiten zu sorgen. Hier findest du noch gute Hinweise dazu: www.gewerkschaft.org/gesundheit und arbeit"
+      },
+      {
+        "id": "b",
+        "author": "Lukas",
+        "timestamp": "vor 5 Stunden",
+        "content": "Die Elternzeit kannst du pro Kind bis zu drei Jahren nehmen – und du kannst sie auch aufteilen! Das gilt übrigens für Mütter und Väter. Keine Angst, dein Arbeitgeber kann dir in dieser Zeit nicht kündigen."
+      },
+      {
+        "id": "c",
+        "author": "Miriam",
+        "timestamp": "vor 3 Stunden",
+        "content": "Es ist unfair: Von Frauen erwartet man, dass sie Arbeit und Familie perfekt bewältigen. Was dir helfen könnte, sind flexible Arbeitszeiten. Frag doch deine Chefin, ob du für eine Zeit lang deine Stunden reduzieren kannst. Man hat einen Anspruch auf Teilzeitarbeit. Das gilt natürlich auch für Männer. 😊"
+      },
+      {
+        "id": "d",
+        "author": "Johanna",
+        "timestamp": "vor 40 Minuten",
+        "content": "Man kann nicht emig Überstunden machen. Irgendwann muss dir dein Arbeitgeber die Möglichkeit geben, deine Überstunden abzubauen oder sie dir auszahlen zu lassen. Wie das bei euch geregelt ist, musst du mal in deinem Arbeitsvertrag nachlesen. Oder sprich auch mal mit dem Betriebsrat."
+      },
+      {
+        "id": "e",
+        "author": "Clara",
+        "timestamp": "vor 2 Stunden",
+        "content": "Ein Burnout erkennst du daran, dass sich der Betroffene immer schlechter konzentrieren kann und immer mehr Fehler bei der Arbeit macht. Manche Leute sagen, dass sie nicht einmal mehr in der Freizeit Energie haben. Dein Kollege sollte auf jeden Fall zu einem Arzt gehen."
+      },
+      {
+        "id": "f",
+        "author": "Tobias",
+        "timestamp": "vor 32 Minuten",
+        "content": "Mit flexiblen Arbeitszeiten kann man das Privatleben und die Arbeit besser vereinbaren, das ist richtig. Trotzdem muss man aber auch darauf achten, dass die Zusammenarbeit im Team noch funktioniert. Sich gut abzusprechen, ist dabei sehr wichtig, z. B. was die Zeiten für Meetings betrifft. Da musst du auch Kompromisse eingehen."
+      }
+    ],
+    "solutions": {
+      "1": "c",
+      "2": "f",
+      "3": "x",
+      "4": "a"
+    }
+}
+  

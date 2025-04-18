@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Stefan",
-            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und noch in der Probezeit. Letzte Woche wurde ich von meinem Vorgesetzten noch für meine gute Arbeit gelobt. Heute habe ich überraschend die Kündigung erhalten, mit der kurzen Frist von zwei Wochen. Ich bin total verwirrt. Ist das überhaupt rechtens und was kann ich jetzt tun?"
-        },
-        {
-            "id": 2,
-            "name": "Julia",
-            "situation": "Ich habe mir heute bei der Arbeit an einer Schneidemaschine in den Finger geschnitten. Es ist keine große Wunde, ich habe sie selbst versorgt. Mein Abteilungsleiter hat es kurz gesehen, aber nichts weiter gesagt. Sollte ich den Vorfall trotzdem offiziell melden, auch wenn es nur eine Kleinigkeit war? Es geht mir um die Absicherung, falls doch noch etwas nachkommt."
-        },
-        {
-            "id": 3,
             "name": "Mehmet",
             "situation": "Ich arbeite im Marketing und mein Chef erwartet irgendwie, dass ich regelmäßig länger bleibe, oft so zwei bis drei Stunden pro Woche. Diese Überstunden werden aber weder erfasst noch bezahlt oder durch Freizeit ausgeglichen. Das summiert sich langsam. Ist das so in Ordnung oder habe ich einen Anspruch auf Bezahlung oder Freizeitausgleich?"
         },
         {
-            "id": 4,
+            "id": 2,
+            "name": "Stefan",
+            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und noch in der Probezeit. Letzte Woche wurde ich von meinem Vorgesetzten noch für meine gute Arbeit gelobt. Heute habe ich überraschend die Kündigung erhalten, mit der kurzen Frist von zwei Wochen. Ich bin total verwirrt. Ist das überhaupt rechtens und was kann ich jetzt tun?"
+        },
+        {
+            "id": 3,
             "name": "Lisa",
             "situation": "Ich bin Projektleiterin. Mein Chef hat in einer Teambesprechung beiläufig erwähnt, dass es einen Bonus für das Team gibt, wenn wir das schwierige Projekt pünktlich abschließen. Es gibt nichts Schriftliches dazu. Das Projekt ist jetzt erfolgreich beendet, aber der Chef will von einem konkreten Bonus nichts mehr wissen. Können wir uns auf die mündliche Aussage berufen und den Bonus einfordern?"
+        },
+        {
+            "id": 4,
+            "name": "Julia",
+            "situation": "Ich habe mir heute bei der Arbeit an einer Schneidemaschine in den Finger geschnitten. Es ist keine große Wunde, ich habe sie selbst versorgt. Mein Abteilungsleiter hat es kurz gesehen, aber nichts weiter gesagt. Sollte ich den Vorfall trotzdem offiziell melden, auch wenn es nur eine Kleinigkeit war? Es geht mir um die Absicherung, falls doch noch etwas nachkommt."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "e",
-        "3": "a",
-        "4": "x"
+        "2": "c",
+        "4": "e",
+        "1": "a",
+        "3": "x"
     }
 }

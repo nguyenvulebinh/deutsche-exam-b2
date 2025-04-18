@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Max",
+            "situation": "Ich hatte im letzten Mitarbeitergespräch mit meinem Vorgesetzten vereinbart, dass ich ab diesem Monat eine Gehaltserhöhung von 5% bekomme. Es war ein sehr gutes Gespräch, aber leider wurde nichts schriftlich festgehalten. Nun ist die erste Gehaltsabrechnung gekommen und es hat sich nichts geändert. Mein Chef meint jetzt, er könne sich an keine feste Zusage erinnern. Was kann ich tun? Gibt es eine Möglichkeit, die Erhöhung doch noch durchzusetzen?"
+        },
+        {
+            "id": 2,
+            "name": "Julia",
+            "situation": "Auf dem direkten Weg zur Arbeit bin ich heute Morgen mit dem Fahrrad gestürzt. Es ist zum Glück nichts Schlimmes passiert, nur ein paar Schürfwunden und mein Lenker ist etwas verbogen. Ich bin trotzdem zur Arbeit gefahren. Eine Kollegin meinte nun, ich hätte das melden müssen, auch wenn ich nicht krankgeschrieben bin. Stimmt das wirklich? Ich möchte deswegen keinen unnötigen Aufwand betreiben."
+        },
+        {
+            "id": 3,
+            "name": "Ben",
+            "situation": "Ich arbeite in einem Chemielabor und muss laut Vertrag spezielle Sicherheitsschuhe und einen Schutzkittel tragen. Beides muss ich mir selbst kaufen, nur die Schutzbrille wird gestellt. Mein Arbeitgeber sagt, das sei so üblich und ich könne die Kosten ja von der Steuer absetzen. Ist es wirklich meine Pflicht, für diese notwendige Schutzausrüstung selbst aufzukommen, oder müsste die Firma das bezahlen?"
+        },
+        {
+            "id": 4,
+            "name": "Simon",
+            "situation": "Ich fange bald im Kundenservice eines großen Elektronikmarktes an. Laut Arbeitsvertrag müssen alle Mitarbeiter im Verkauf einheitliche Poloshirts mit Firmenlogo und schwarze Stoffhosen tragen, die von einer bestimmten Firma bezogen werden müssen. Das finde ich prinzipiell okay, aber muss ich die Kosten für diese Erstausstattung wirklich komplett selbst übernehmen? Es sind immerhin fast 150 Euro."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Stefan",
+            "timestamp": "vor 2 Stunden",
+            "content": "Mündliche Zusagen sind zwar theoretisch gültig, aber im Streitfall kaum zu beweisen, wenn keine Zeugen dabei waren oder es kein Protokoll gibt. Rechtlich hast du da leider schlechte Karten. Versuche vielleicht, in einem ruhigen Gespräch nochmals darauf hinzuweisen, oder konzentriere dich darauf, bei der nächsten Gelegenheit eine schriftliche Vereinbarung zu bekommen."
+        },
+        {
+            "id": "b",
+            "author": "Maria",
+            "timestamp": "vor 50 Minuten",
+            "content": "Unbedingt melden! Ein Unfall auf dem direkten Weg zur oder von der Arbeit ist ein sogenannter Wegeunfall und über die Berufsgenossenschaft versichert. Auch wenn jetzt alles harmlos erscheint, könnten Spätfolgen auftreten. Die Meldung beim Arbeitgeber und ggf. ein Eintrag ins Verbandbuch sind wichtig für den Versicherungsschutz, selbst wenn du nicht arbeitsunfähig bist."
+        },
+        {
+            "id": "c",
+            "author": "Klaus",
+            "timestamp": "vor 3 Stunden",
+            "content": "Klare Sache: Wenn der Arbeitgeber bestimmte persönliche Schutzausrüstung (PSA) vorschreibt, die zur Abwehr von Gesundheitsgefahren am Arbeitsplatz dient (wie Sicherheitsschuhe oder Schutzkittel im Labor), muss er diese gemäß Arbeitsschutzgesetz auch kostenlos zur Verfügung stellen oder die Kosten dafür tragen. Das Steuer-Argument zieht hier nicht."
+        },
+        {
+            "id": "d",
+            "author": "Lisa",
+            "timestamp": "vor 4 Stunden",
+            "content": "Bei uns in der Firma gab es neulich einen Unfall direkt an einer Maschine. Der Kollege war kurz unachtsam. Da musste natürlich sofort alles gemeldet werden, und die Sicherheitsbeauftragten haben den Vorfall genau untersucht. Sicherheit am Arbeitsplatz wird bei uns zum Glück sehr ernst genommen. Das ist auch wichtig für die Versicherung."
+        },
+        {
+            "id": "e",
+            "author": "Thomas",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das mit der Arbeitskleidung ist immer so eine Sache. Ich muss im Verkauf auch immer ordentlich aussehen, Hemd und dunkle Hose sind Pflicht. Das kostet natürlich auch Geld, besonders die Reinigung. Aber mein Chef sagt, das sei normale Berufskleidung, die jeder selbst zahlen muss. Das finde ich zwar nicht toll, aber was soll man machen?"
+        },
+        {
+            "id": "f",
+            "author": "Anna",
+            "timestamp": "vor 6 Stunden",
+            "content": "Gehaltsverhandlungen sind nie einfach. Ich finde es wichtig, gut vorbereitet ins Gespräch zu gehen und seine Leistungen klar darzustellen. Wenn man mehr Verantwortung übernimmt oder sich weitergebildet hat, sind das gute Argumente. Manchmal hilft es auch, sich über branchenübliche Gehälter zu informieren, um eine realistische Forderung zu stellen."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

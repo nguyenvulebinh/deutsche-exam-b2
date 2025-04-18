@@ -1,0 +1,69 @@
+{
+    "thema": "Konflikte und Rechte am Arbeitsplatz",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lukas",
+            "situation": "Ich bin seit einigen Monaten in meiner neuen Firma und fühle mich zunehmend unwohl. Einige Kollegen machen sich ständig über meinen Akzent lustig und schließen mich bei Gesprächen aus. Ich habe versucht, es zu ignorieren, aber es belastet mich sehr. Was kann ich tun, wenn ich das Gefühl habe, gemobbt zu werden? Gibt es da rechtliche Schritte?"
+        },
+        {
+            "id": 2,
+            "name": "Sofia",
+            "situation": "Ich habe heute eine schriftliche Abmahnung bekommen, weil ich letzte Woche zweimal ca. 15 Minuten zu spät zur Arbeit kam. Grund waren massive Störungen im Bahnverkehr. Mein Chef meinte, Pünktlichkeit sei Pflicht. Ist eine Abmahnung dafür gerechtfertigt und was bedeutet das jetzt für mein Arbeitsverhältnis?"
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "situation": "In meinem Job fallen regelmäßig Überstunden an, besonders vor Projektabschlüssen. Mein Chef erwartet das, aber im Vertrag steht dazu nichts Konkretes. Die Stunden werden bisher nur 'abgefeiert', also durch Freizeit ausgeglichen, aber nie bezahlt. Ist das rechtens, wenn es keine schriftliche Regelung gibt? Ich würde lieber bezahlt werden."
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Mein ehemaliger Chef hat mir bei der Einstellung mündlich eine Bonuszahlung von 500 Euro versprochen, wenn ich ein bestimmtes Projekt erfolgreich abschließe. Das Projekt ist jetzt super gelaufen, aber der Chef (der bald geht) will davon nichts mehr wissen. Im Arbeitsvertrag steht dazu nichts. Habe ich irgendeine Chance, das Geld noch zu bekommen, auch wenn es nur mündlich war?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Janina",
+            "timestamp": "vor 45 Minuten",
+            "content": "Überstunden müssen grundsätzlich angeordnet oder zumindest geduldet sein. Wenn im Vertrag nichts steht, ist die Vergütung die Regel, 'Abfeiern' braucht eine klare Vereinbarung. Nur bei leitenden Angestellten oder sehr hohem Gehalt kann das anders sein. Sprich das Thema klar an und fordere eine Regelung oder Bezahlung."
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 1 Stunde",
+            "content": "Stress bei der Arbeit kennt doch jeder. Wichtig ist, dass man lernt, abzuschalten. Ich mache nach der Arbeit immer Sport, das hilft mir, den Kopf freizubekommen. Pausen während der Arbeit sind auch wichtig. Rede doch mal mit Kollegen, wie die das machen."
+        },
+        {
+            "id": "c",
+            "author": "Britta",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das klingt nach Mobbing. Wichtig ist, dass du das dokumentierst (was, wann, wer). Sprich als Erstes mit deinem Vorgesetzten oder, falls vorhanden, dem Betriebsrat. Mobbing ist rechtswidrig und der Arbeitgeber hat eine Fürsorgepflicht. Lass dich nicht unterkriegen, suche dir Unterstützung!"
+        },
+        {
+            "id": "d",
+            "author": "Sabine",
+            "timestamp": "vor 3 Stunden",
+            "content": "Pünktlichkeit ist schon wichtig, finde ich. Bei uns gibt es Gleitzeit, das ist super. Da kann man morgens auch mal etwas später kommen, wenn der Verkehr schlimm ist, und muss keine Angst vor Ärger haben. Vielleicht könnt ihr das bei euch auch mal vorschlagen?"
+        },
+        {
+            "id": "e",
+            "author": "Mustafa",
+            "timestamp": "vor 6 Stunden",
+            "content": "Also bei uns werden Überstunden immer auf einem Zeitkonto gesammelt. Am Monatsende kann man dann wählen: Auszahlen lassen oder abfeiern. Das steht aber auch klar so im Tarifvertrag. Ich finde das fair geregelt, so weiß jeder Bescheid."
+        },
+        {
+            "id": "f",
+            "author": "Dennis",
+            "timestamp": "vor 5 Stunden",
+            "content": "Eine Abmahnung muss verhältnismäßig sein und den Pflichtverstoß konkret benennen. Wegen unverschuldeter Verspätungen (höhere Gewalt wie Bahnstörung) ist sie oft angreifbar. Sie dient als Warnung; bei Wiederholung *gleichen* Fehlverhaltens droht die Kündigung. Prüfe mal deine Betriebsvereinbarung zu Gleitzeit/Kernzeit."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

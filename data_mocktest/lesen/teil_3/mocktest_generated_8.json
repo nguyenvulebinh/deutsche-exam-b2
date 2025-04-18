@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Fatima",
-            "situation": "Letzte Woche war ich drei Tage krankgeschrieben und habe die Arbeitsunfähigkeitsbescheinigung (AU) pünktlich eingereicht. Jetzt hat mein Vorgesetzter in einem Gespräch nach der genauen Diagnose gefragt. Ich möchte das aber nicht sagen. Bin ich verpflichtet, meinem Chef mitzuteilen, welche Krankheit ich hatte?"
+            "name": "Maria",
+            "situation": "Ich arbeite in einer Bäckerei und muss spezielle Berufskleidung (Schürze, weiße Hosen, spezielle Schuhe) tragen, die ich selbst kaufen musste. Nun habe ich gehört, man kann solche Kosten von der Steuer absetzen. Gilt das für jede Art von Berufskleidung und welche Belege brauche ich dafür? Wer weiß, wie das mit der steuerlichen Absetzbarkeit genau funktioniert?"
         },
         {
             "id": 4,
-            "name": "Maria",
-            "situation": "Ich arbeite in einer Bäckerei und muss spezielle Berufskleidung (Schürze, weiße Hosen, spezielle Schuhe) tragen, die ich selbst kaufen musste. Nun habe ich gehört, man kann solche Kosten von der Steuer absetzen. Gilt das für jede Art von Berufskleidung und welche Belege brauche ich dafür? Wer weiß, wie das mit der steuerlichen Absetzbarkeit genau funktioniert?"
+            "name": "Fatima",
+            "situation": "Letzte Woche war ich drei Tage krankgeschrieben und habe die Arbeitsunfähigkeitsbescheinigung (AU) pünktlich eingereicht. Jetzt hat mein Vorgesetzter in einem Gespräch nach der genauen Diagnose gefragt. Ich möchte das aber nicht sagen. Bin ich verpflichtet, meinem Chef mitzuteilen, welche Krankheit ich hatte?"
         }
     ],
     "posts": [
@@ -63,7 +63,7 @@
     "solutions": {
         "1": "c",
         "2": "f",
-        "3": "a",
-        "4": "x"
+        "4": "a",
+        "3": "x"
     }
 }

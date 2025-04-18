@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Max",
-            "situation": "Ich hatte im letzten Mitarbeitergespräch mit meinem Vorgesetzten vereinbart, dass ich ab diesem Monat eine Gehaltserhöhung von 5% bekomme. Es war ein sehr gutes Gespräch, aber leider wurde nichts schriftlich festgehalten. Nun ist die erste Gehaltsabrechnung gekommen und es hat sich nichts geändert. Mein Chef meint jetzt, er könne sich an keine feste Zusage erinnern. Was kann ich tun? Gibt es eine Möglichkeit, die Erhöhung doch noch durchzusetzen?"
+            "name": "Simon",
+            "situation": "Ich fange bald im Kundenservice eines großen Elektronikmarktes an. Laut Arbeitsvertrag müssen alle Mitarbeiter im Verkauf einheitliche Poloshirts mit Firmenlogo und schwarze Stoffhosen tragen, die von einer bestimmten Firma bezogen werden müssen. Das finde ich prinzipiell okay, aber muss ich die Kosten für diese Erstausstattung wirklich komplett selbst übernehmen? Es sind immerhin fast 150 Euro."
         },
         {
             "id": 2,
-            "name": "Julia",
-            "situation": "Auf dem direkten Weg zur Arbeit bin ich heute Morgen mit dem Fahrrad gestürzt. Es ist zum Glück nichts Schlimmes passiert, nur ein paar Schürfwunden und mein Lenker ist etwas verbogen. Ich bin trotzdem zur Arbeit gefahren. Eine Kollegin meinte nun, ich hätte das melden müssen, auch wenn ich nicht krankgeschrieben bin. Stimmt das wirklich? Ich möchte deswegen keinen unnötigen Aufwand betreiben."
-        },
-        {
-            "id": 3,
             "name": "Ben",
             "situation": "Ich arbeite in einem Chemielabor und muss laut Vertrag spezielle Sicherheitsschuhe und einen Schutzkittel tragen. Beides muss ich mir selbst kaufen, nur die Schutzbrille wird gestellt. Mein Arbeitgeber sagt, das sei so üblich und ich könne die Kosten ja von der Steuer absetzen. Ist es wirklich meine Pflicht, für diese notwendige Schutzausrüstung selbst aufzukommen, oder müsste die Firma das bezahlen?"
         },
         {
+            "id": 3,
+            "name": "Max",
+            "situation": "Ich hatte im letzten Mitarbeitergespräch mit meinem Vorgesetzten vereinbart, dass ich ab diesem Monat eine Gehaltserhöhung von 5% bekomme. Es war ein sehr gutes Gespräch, aber leider wurde nichts schriftlich festgehalten. Nun ist die erste Gehaltsabrechnung gekommen und es hat sich nichts geändert. Mein Chef meint jetzt, er könne sich an keine feste Zusage erinnern. Was kann ich tun? Gibt es eine Möglichkeit, die Erhöhung doch noch durchzusetzen?"
+        },
+        {
             "id": 4,
-            "name": "Simon",
-            "situation": "Ich fange bald im Kundenservice eines großen Elektronikmarktes an. Laut Arbeitsvertrag müssen alle Mitarbeiter im Verkauf einheitliche Poloshirts mit Firmenlogo und schwarze Stoffhosen tragen, die von einer bestimmten Firma bezogen werden müssen. Das finde ich prinzipiell okay, aber muss ich die Kosten für diese Erstausstattung wirklich komplett selbst übernehmen? Es sind immerhin fast 150 Euro."
+            "name": "Julia",
+            "situation": "Auf dem direkten Weg zur Arbeit bin ich heute Morgen mit dem Fahrrad gestürzt. Es ist zum Glück nichts Schlimmes passiert, nur ein paar Schürfwunden und mein Lenker ist etwas verbogen. Ich bin trotzdem zur Arbeit gefahren. Eine Kollegin meinte nun, ich hätte das melden müssen, auch wenn ich nicht krankgeschrieben bin. Stimmt das wirklich? Ich möchte deswegen keinen unnötigen Aufwand betreiben."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "3": "a",
+        "4": "b",
+        "2": "c",
+        "1": "x"
     }
 }

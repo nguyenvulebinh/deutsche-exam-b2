@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrecht und Arbeitsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Firma angestellt, die vertraglich vereinbarte Probezeit beträgt sechs Monate. Gestern habe ich überraschend meine Kündigung erhalten, ohne dass ein Grund genannt wurde. Ist das rechtlich überhaupt zulässig? Ich dachte, in Deutschland gäbe es einen allgemeinen Kündigungsschutz."
+        },
+        {
+            "id": 2,
+            "name": "Laura",
+            "situation": "Ich arbeite als Köchin in einer Großküche. Laut meinem Arbeitsvertrag und den Hygienevorschriften muss ich spezielle rutschfeste Sicherheitsschuhe und einen sauberen Kochkittel tragen. Mein Chef meint, ich müsse diese selbst kaufen und bezahlen. Stimmt das? Immerhin kostet das Set über 100 Euro."
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "situation": "In meinem Job im Lager arbeite ich häufig Schichten, die 10 Stunden dauern. Mir ist bekannt, dass mir nach sechs Stunden Arbeit eine Pause von 30 Minuten zusteht. Gilt das auch bei längeren Arbeitszeiten oder habe ich bei über neun Stunden Anspruch auf eine zusätzliche Pause?"
+        },
+        {
+            "id": 4,
+            "name": "Sabine",
+            "situation": "Ich wurde leider auch während meiner Probezeit nach nur drei Monaten gekündigt. Dass die Kündigung an sich in der Probezeit einfacher ist, habe ich inzwischen verstanden. Aber wie sieht es mit einem Arbeitszeugnis aus? Habe ich Anspruch darauf, auch wenn ich nur so kurz beschäftigt war und es eine Probezeitkündigung ist?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Birgit",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ja, das ist leider in der Probezeit (die bis zu sechs Monate dauern kann) rechtlich in Ordnung. Der Arbeitgeber kann in dieser Zeit mit einer verkürzten Frist von zwei Wochen kündigen und muss dafür keine Gründe angeben. Der allgemeine Kündigungsschutz greift in den meisten Fällen erst nach Ablauf dieser Zeit."
+        },
+        {
+            "id": "b",
+            "author": "Kerstin",
+            "timestamp": "vor 45 Minuten",
+            "content": "Nach der Probezeit sieht es anders aus. Eine Kündigung muss dann sozial gerechtfertigt sein, zum Beispiel betriebsbedingt, personenbedingt oder verhaltensbedingt. Ohne triftigen Grund geht es dann nicht mehr. Bei sehr schwerem Fehlverhalten ist sogar eine fristlose Kündigung möglich."
+        },
+        {
+            "id": "c",
+            "author": "Stefan",
+            "timestamp": "vor 5 Stunden",
+            "content": "Hier muss man unterscheiden: Handelt es sich um vorgeschriebene persönliche Schutzausrüstung (PSA), wie z.B. Sicherheitsschuhe oder spezielle Schutzkittel, dann muss der Arbeitgeber diese gemäß Arbeitsschutzgesetz kostenlos zur Verfügung stellen. Bei reiner Dienstkleidung ohne Schutzfunktion kann es anders sein."
+        },
+        {
+            "id": "d",
+            "author": "Markus",
+            "timestamp": "vor 1 Stunde",
+            "content": "Die Frage, wer Dienstkleidung bezahlt, hängt oft vom Arbeits- oder Tarifvertrag ab. Wenn es sich um Kleidung handelt, die theoretisch auch privat getragen werden könnte (z.B. bestimmte Hemden oder Blusen), ist es nicht unüblich, dass sich Arbeitnehmer an den Kosten beteiligen müssen oder sie ganz tragen."
+        },
+        {
+            "id": "e",
+            "author": "Simone",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei Überstunden ist wichtig, ob sie vom Chef angeordnet oder zumindest gebilligt wurden. Außerdem muss geklärt sein, wie sie ausgeglichen werden: durch Freizeit oder Bezahlung. Ein Blick in den Arbeitsvertrag oder eine eventuell vorhandene Betriebsvereinbarung hilft da meistens weiter."
+        },
+        {
+            "id": "f",
+            "author": "Anja",
+            "timestamp": "vor 30 Minuten",
+            "content": "Das Arbeitszeitgesetz regelt das genau: Bei einer Arbeitszeit von mehr als sechs und bis zu neun Stunden stehen dir mindestens 30 Minuten Pause zu. Wenn deine Arbeitszeit neun Stunden überschreitet, erhöht sich dein Anspruch auf insgesamt mindestens 45 Minuten Ruhepause."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "c",
+        "3": "f",
+        "4": "x"
+    }
+}

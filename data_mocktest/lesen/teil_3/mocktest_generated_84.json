@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Stefan",
-            "situation": "Ich arbeite im IT-Support und in letzter Zeit kommt es häufig vor, dass ich wegen Systemausfällen deutlich länger bleiben muss, manchmal über 10 Stunden am Tag. Mein Chef meint, das sei in unserer Branche normal. Ist es rechtlich überhaupt erlaubt, regelmäßig so lange zu arbeiten und kann mein Arbeitgeber mich dazu zwingen? Ich brauche dringend Klarheit über die gesetzlichen Arbeitszeitgrenzen."
+            "name": "Maria",
+            "situation": "Vor drei Monaten hat mir mein Abteilungsleiter in einem Gespräch mündlich eine baldige Gehaltserhöhung und mehr Verantwortung zugesagt. Bis heute ist nichts passiert und auf Nachfrage erinnert er sich angeblich nicht mehr genau an die Zusage. Hat so eine mündliche Absprache überhaupt Gewicht oder hätte ich mir das schriftlich geben lassen müssen?"
         },
         {
             "id": 2,
@@ -13,8 +13,8 @@
         },
         {
             "id": 3,
-            "name": "Maria",
-            "situation": "Vor drei Monaten hat mir mein Abteilungsleiter in einem Gespräch mündlich eine baldige Gehaltserhöhung und mehr Verantwortung zugesagt. Bis heute ist nichts passiert und auf Nachfrage erinnert er sich angeblich nicht mehr genau an die Zusage. Hat so eine mündliche Absprache überhaupt Gewicht oder hätte ich mir das schriftlich geben lassen müssen?"
+            "name": "Stefan",
+            "situation": "Ich arbeite im IT-Support und in letzter Zeit kommt es häufig vor, dass ich wegen Systemausfällen deutlich länger bleiben muss, manchmal über 10 Stunden am Tag. Mein Chef meint, das sei in unserer Branche normal. Ist es rechtlich überhaupt erlaubt, regelmäßig so lange zu arbeiten und kann mein Arbeitgeber mich dazu zwingen? Ich brauche dringend Klarheit über die gesetzlichen Arbeitszeitgrenzen."
         },
         {
             "id": 4,
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
+        "3": "d",
         "2": "b",
-        "3": "c",
+        "1": "c",
         "4": "x"
     }
 }

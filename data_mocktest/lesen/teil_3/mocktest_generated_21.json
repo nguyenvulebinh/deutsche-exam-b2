@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Julia",
-            "situation": "Ich bin seit vier Monaten in meiner neuen Stelle und noch in der Probezeit, die sechs Monate dauert. Gestern wurde mir überraschend gekündigt, ohne Angabe von Gründen. Mein Chef meinte nur, es hätte nicht gepasst. Ich bin schockiert, denn ich dachte, es gäbe auch in der Probezeit einen gewissen Kündigungsschutz. Kann mein Arbeitgeber das wirklich so einfach machen?"
+            "name": "Tom",
+            "situation": "Vor zwei Monaten hat mir mein Abteilungsleiter in einem persönlichen Gespräch fest eine Beförderung zum Teamleiter inklusive einer deutlichen Gehaltserhöhung ab dem nächsten Quartal mündlich zugesagt. Ich habe mich riesig gefreut. Jetzt aber tut er so, als hätte es dieses Gespräch nie gegeben, und in meinem aktuellen Vertrag steht davon natürlich nichts. Gibt es eine Möglichkeit, diese mündliche Zusage einzufordern?"
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Aylin",
-            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen und war bereits verreist. Leider wurde ich am dritten Urlaubstag krank und musste dort einen Arzt aufsuchen. Ich habe meinen Arbeitgeber umgehend informiert und eine ärztliche Bescheinigung (Arbeitsunfähigkeitsbescheinigung) eingereicht. Werden mir diese Krankheitstage nun trotzdem als Urlaubstage angerechnet oder behalte ich den Urlaubsanspruch dafür?"
+            "name": "Julia",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Stelle und noch in der Probezeit, die sechs Monate dauert. Gestern wurde mir überraschend gekündigt, ohne Angabe von Gründen. Mein Chef meinte nur, es hätte nicht gepasst. Ich bin schockiert, denn ich dachte, es gäbe auch in der Probezeit einen gewissen Kündigungsschutz. Kann mein Arbeitgeber das wirklich so einfach machen?"
         },
         {
             "id": 4,
-            "name": "Tom",
-            "situation": "Vor zwei Monaten hat mir mein Abteilungsleiter in einem persönlichen Gespräch fest eine Beförderung zum Teamleiter inklusive einer deutlichen Gehaltserhöhung ab dem nächsten Quartal mündlich zugesagt. Ich habe mich riesig gefreut. Jetzt aber tut er so, als hätte es dieses Gespräch nie gegeben, und in meinem aktuellen Vertrag steht davon natürlich nichts. Gibt es eine Möglichkeit, diese mündliche Zusage einzufordern?"
+            "name": "Aylin",
+            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen und war bereits verreist. Leider wurde ich am dritten Urlaubstag krank und musste dort einen Arzt aufsuchen. Ich habe meinen Arbeitgeber umgehend informiert und eine ärztliche Bescheinigung (Arbeitsunfähigkeitsbescheinigung) eingereicht. Werden mir diese Krankheitstage nun trotzdem als Urlaubstage angerechnet oder behalte ich den Urlaubsanspruch dafür?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
+        "3": "a",
         "2": "b",
-        "3": "c",
-        "4": "x"
+        "4": "c",
+        "1": "x"
     }
 }

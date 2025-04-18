@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Berufsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Mein Chef hat mir mündlich eine deutliche Gehaltserhöhung ab nächstem Monat zugesagt, als Dank für ein erfolgreich abgeschlossenes Projekt. Nun ist der nächste Monat da, aber auf meiner Gehaltsabrechnung ist nichts davon zu sehen. Als ich ihn darauf ansprach, meinte er nur, er könne sich daran nicht erinnern. Was kann ich jetzt tun? Gibt es eine Chance, die Erhöhung doch noch zu bekommen?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Ich bin 17 und mache eine Ausbildung zum Mechatroniker. Diese Woche sollen alle Azubis Überstunden machen, weil ein großer Auftrag fertig werden muss. Ich dachte immer, als Minderjähriger darf man keine Überstunden machen? Mein Ausbilder sagt, das sei eine Ausnahme. Stimmt das so, oder gibt es da spezielle Regeln für Azubis unter 18?"
+        },
+        {
+            "id": 3,
+            "name": "Sofia",
+            "situation": "Ich bin seit über einem Jahr krankgeschrieben wegen einer komplizierten Operation und anschließender Reha. Ich bin schon länger als sechs Wochen krank. Jetzt habe ich gehört, dass mein Arbeitgeber überlegt, mir deswegen zu kündigen. Darf er das einfach, obwohl ich krank bin und nichts dafür kann? Ich bin seit 5 Jahren in der Firma."
+        },
+        {
+            "id": 4,
+            "name": "Omar",
+            "situation": "Ich hatte gestern einen kleinen Arbeitsunfall in der Werkstatt – bin ausgerutscht und habe mir den Knöchel verstaucht. Ich habe es sofort gemeldet. Heute Morgen hat mein Chef mir fristlos gekündigt! Er meinte, ich sei unachtsam gewesen. Ist so eine sofortige Kündigung nach einer Unfallmeldung überhaupt erlaubt? Und steht mir vielleicht eine Abfindung zu? Ich bin seit zwei Jahren im Betrieb."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Martin",
+            "timestamp": "vor 2 Stunden",
+            "content": "Mündliche Zusagen sind rechtlich zwar bindend, aber leider in der Praxis kaum durchsetzbar, wenn der Chef sich nicht erinnern will oder kann. Ohne Zeugen oder etwas Schriftliches (z.B. E-Mail, Notiz) wird es sehr schwierig. Für die Zukunft gilt: Wichtige Vereinbarungen immer schriftlich bestätigen lassen!"
+        },
+        {
+            "id": "b",
+            "author": "Claudia",
+            "timestamp": "vor 45 Minuten",
+            "content": "Für minderjährige Azubis gelten die strengen Regeln des Jugendarbeitsschutzgesetzes. Überstunden sind grundsätzlich nicht erlaubt. Nur in absoluten Notfällen und unter bestimmten Voraussetzungen (Freizeitausgleich!) ist eine Ausnahme möglich. Normaler Auftragsdruck zählt meist nicht als Notfall. Prüf das genau!"
+        },
+        {
+            "id": "c",
+            "author": "David",
+            "timestamp": "vor 5 Stunden",
+            "content": "Eine Kündigung wegen Krankheit ist leider nicht generell ausgeschlossen, auch wenn man schon lange dabei ist. Nach 6 Wochen endet die Lohnfortzahlung. Eine Kündigung ist aber nur unter strengen Bedingungen möglich, z.B. wenn eine negative Gesundheitsprognose besteht und es dem Betrieb unzumutbar ist, weiter zu warten. Die Hürden sind aber hoch."
+        },
+        {
+            "id": "d",
+            "author": "Johanna",
+            "timestamp": "vor 1 Stunde",
+            "content": "Gehalt ist immer Verhandlungssache. Ich finde, man sollte selbstbewusst auftreten und seine Leistungen klar benennen. Wenn man gut verhandelt, bekommt man auch mehr. Ich habe mir vor meinem letzten Gespräch genau überlegt, welche Argumente ich habe und was ich wert bin. Das hat gut funktioniert."
+        },
+        {
+            "id": "e",
+            "author": "Stefan",
+            "timestamp": "vor 3 Stunden",
+            "content": "Überstunden sind leider oft normal. Bei uns wird erwartet, dass man flexibel ist, auch als Azubi. Wer da nicht mitzieht, hat es später schwerer. Ich habe in meiner Ausbildung auch oft länger gearbeitet, das gehört dazu, wenn man Karriere machen will. Zeig Einsatzbereitschaft!"
+        },
+        {
+            "id": "f",
+            "author": "Julia",
+            "timestamp": "vor 8 Stunden",
+            "content": "Eine Kündigung in der Probezeit kann leider jeden treffen, oft sogar ohne Angabe von Gründen. Da ist man kaum geschützt. Wenn die Probezeit aber vorbei ist, braucht der Arbeitgeber schon einen triftigen Grund, z.B. betriebliche Gründe oder schweres Fehlverhalten des Mitarbeiters."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

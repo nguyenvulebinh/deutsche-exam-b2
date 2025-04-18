@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Hanna",
-            "situation": "Ich habe vor acht Monaten einen auf zwei Jahre befristeten Arbeitsvertrag unterschrieben. Nun habe ich überraschend ein viel besseres Jobangebot bekommen und würde gerne schon in drei Monaten dort anfangen. In meinem Vertrag steht nichts zur Kündigungsfrist während der Laufzeit. Kann ich den befristeten Vertrag trotzdem irgendwie vorzeitig kündigen oder muss ich bis zum Ende bleiben?"
-        },
-        {
-            "id": 2,
-            "name": "Jonas",
-            "situation": "Ich habe gestern eine schriftliche Abmahnung von meinem Chef erhalten, weil ich angeblich mehrmals Anweisungen nicht korrekt befolgt hätte. Ich sehe das aber ganz anders und finde die Vorwürfe unfair. Muss ich diese Abmahnung einfach so hinnehmen oder kann ich mich irgendwie dagegen wehren? Ich habe Sorge, dass das negative Folgen für mich hat."
-        },
-        {
-            "id": 3,
             "name": "Leyla",
             "situation": "Meine Mutter ist plötzlich schwer erkrankt und ich muss mich dringend heute und morgen um sie kümmern, da sonst niemand da ist. Ich habe aber für dieses Jahr leider keinen Urlaubstag mehr übrig. Habe ich trotzdem einen Anspruch darauf, für diese zwei Tage freigestellt zu werden, und bekomme ich dann weiterhin mein Gehalt?"
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "Ben",
             "situation": "Ich mache in meiner Abteilung ständig Überstunden, oft sind es 5-10 pro Woche. Mein Vorgesetzter erwartet das irgendwie, obwohl es nicht explizit angeordnet wird. Dadurch schaffe ich es oft nicht, meine gesetzlich vorgeschriebenen Pausenzeiten einzuhalten. Kann der Arbeitgeber verlangen, dass Pausen wegen hohem Arbeitsaufkommen ausfallen? Und wie ist das generell mit den Überstunden geregelt – müssen die bezahlt werden oder kann ich sie abfeiern?"
+        },
+        {
+            "id": 3,
+            "name": "Hanna",
+            "situation": "Ich habe vor acht Monaten einen auf zwei Jahre befristeten Arbeitsvertrag unterschrieben. Nun habe ich überraschend ein viel besseres Jobangebot bekommen und würde gerne schon in drei Monaten dort anfangen. In meinem Vertrag steht nichts zur Kündigungsfrist während der Laufzeit. Kann ich den befristeten Vertrag trotzdem irgendwie vorzeitig kündigen oder muss ich bis zum Ende bleiben?"
+        },
+        {
+            "id": 4,
+            "name": "Jonas",
+            "situation": "Ich habe gestern eine schriftliche Abmahnung von meinem Chef erhalten, weil ich angeblich mehrmals Anweisungen nicht korrekt befolgt hätte. Ich sehe das aber ganz anders und finde die Vorwürfe unfair. Muss ich diese Abmahnung einfach so hinnehmen oder kann ich mich irgendwie dagegen wehren? Ich habe Sorge, dass das negative Folgen für mich hat."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "f",
-        "3": "a",
-        "4": "x"
+        "3": "c",
+        "4": "f",
+        "1": "a",
+        "2": "x"
     }
 }

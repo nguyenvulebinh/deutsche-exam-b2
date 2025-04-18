@@ -3,18 +3,18 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Martha",
-            "situation": "Ich bin total verunsichert. Ich arbeite seit vier Monaten in einer neuen Firma und befinde mich noch in der Probezeit. Gestern habe ich überraschend die Kündigung erhalten, obwohl mein Chef mich letzte Woche noch für meine Arbeit gelobt hat. Ist eine Kündigung in der Probezeit so einfach möglich, auch ohne konkreten Grund?"
-        },
-        {
-            "id": 2,
             "name": "Lukas",
             "situation": "Unsere Firma hat letzten Freitag einen Betriebsausflug in einen Kletterpark organisiert, die Teilnahme war für alle verpflichtend. Leider bin ich dort beim Klettern abgerutscht und habe mir den Arm leicht verletzt. Fällt so ein Unfall bei einem Firmenevent unter die gesetzliche Unfallversicherung, obwohl es nicht direkt am Arbeitsplatz passiert ist?"
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Aisha",
             "situation": "In meinem neuen Job als Verkäuferin müssen wir einheitliche Polo-Shirts und Jacken mit Firmenlogo tragen. Das ist keine Schutzkleidung, sondern soll einfach professionell aussehen. Mein Arbeitgeber meint, wir müssten diese 'Dienstkleidung' selbst kaufen. Stimmt das, oder muss die Firma die Kosten übernehmen?"
+        },
+        {
+            "id": 3,
+            "name": "Martha",
+            "situation": "Ich bin total verunsichert. Ich arbeite seit vier Monaten in einer neuen Firma und befinde mich noch in der Probezeit. Gestern habe ich überraschend die Kündigung erhalten, obwohl mein Chef mich letzte Woche noch für meine Arbeit gelobt hat. Ist eine Kündigung in der Probezeit so einfach möglich, auch ohne konkreten Grund?"
         },
         {
             "id": 4,
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
-        "2": "d",
-        "3": "f",
+        "3": "b",
+        "1": "d",
+        "2": "f",
         "4": "x"
     }
 }

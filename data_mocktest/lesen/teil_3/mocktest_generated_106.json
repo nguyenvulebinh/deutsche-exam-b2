@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jana",
-            "situation": "Ich hatte letzte Woche für fünf Tage Urlaub genehmigt bekommen. Leider bin ich am zweiten Urlaubstag krank geworden und musste für den Rest der Woche das Bett hüten. Mein Arbeitgeber meint nun, die Urlaubstage seien trotzdem verfallen, da der Urlaub ja schon begonnen hatte. Stimmt das wirklich? Verliere ich diese Urlaubstage jetzt?"
-        },
-        {
-            "id": 2,
-            "name": "Markus",
-            "situation": "Mein kleiner Sohn (5 Jahre) ist seit gestern krank und hat hohes Fieber. Da meine Frau auf Dienstreise ist, muss ich mich um ihn kümmern und kann nicht zur Arbeit. Ich habe meinen Chef informiert, mache mir aber Sorgen wegen meines Gehalts. Wird mir das Geld für die Fehltage abgezogen oder gibt es da eine Regelung für Eltern?"
-        },
-        {
-            "id": 3,
             "name": "Elena",
             "situation": "Ich freue mich schon seit Wochen auf meinen Urlaub nächste Woche. Nun habe ich seit gestern eine starke Grippe und der Arzt hat mich prompt für die ganze nächste Woche krankgeschrieben, also genau für meine Urlaubszeit. Was passiert jetzt mit meinem Urlaub? Kann ich den später nachholen oder beginnt der Urlaub trotzdem?"
         },
         {
-            "id": 4,
+            "id": 2,
+            "name": "Jana",
+            "situation": "Ich hatte letzte Woche für fünf Tage Urlaub genehmigt bekommen. Leider bin ich am zweiten Urlaubstag krank geworden und musste für den Rest der Woche das Bett hüten. Mein Arbeitgeber meint nun, die Urlaubstage seien trotzdem verfallen, da der Urlaub ja schon begonnen hatte. Stimmt das wirklich? Verliere ich diese Urlaubstage jetzt?"
+        },
+        {
+            "id": 3,
             "name": "Ben",
             "situation": "Ich arbeite Teilzeit, nur 20 Stunden pro Woche, verteilt auf drei feste Tage (Mo, Di, Mi). Wie viele gesetzliche Urlaubstage stehen mir eigentlich pro Jahr mindestens zu? Ich habe im Vertrag 15 Tage stehen. Außerdem mache ich manchmal Überstunden. Kann ich verlangen, dass diese als zusätzliche Urlaubstage gutgeschrieben werden, statt sie ausbezahlt zu bekommen?"
+        },
+        {
+            "id": 4,
+            "name": "Markus",
+            "situation": "Mein kleiner Sohn (5 Jahre) ist seit gestern krank und hat hohes Fieber. Da meine Frau auf Dienstreise ist, muss ich mich um ihn kümmern und kann nicht zur Arbeit. Ich habe meinen Chef informiert, mache mir aber Sorgen wegen meines Gehalts. Wird mir das Geld für die Fehltage abgezogen oder gibt es da eine Regelung für Eltern?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "f",
-        "3": "a",
-        "4": "x"
+        "2": "c",
+        "4": "f",
+        "1": "a",
+        "3": "x"
     }
 }

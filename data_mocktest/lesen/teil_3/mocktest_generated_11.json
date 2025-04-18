@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
+            "name": "Ben",
+            "situation": "Ich bin im fünften Monat meiner sechsmonatigen Probezeit. Bisher lief alles gut, es gab keine Kritik. Nun hat er überraschend die Kündigung zum Ende der Probezeit erhalten, ohne Angabe von Gründen. Darf der Arbeitgeber so kurz vor Ablauf grundlos kündigen? Ich dachte, der besondere Kündigungsschutz greift nach den ersten Wochen."
+        },
+        {
+            "id": 2,
             "name": "Lena",
             "situation": "Ich habe vor einem Monat einen Minijob mündlich vereinbart: 10 Stunden pro Woche für 520 Euro. Jetzt verlangt mein Chef plötzlich, dass ich regelmäßig 12 Stunden arbeite, ohne mehr Lohn. Ich habe nichts Schriftliches. Ist der mündliche Vertrag gültig und muss ich die Mehrarbeit ohne zusätzliche Bezahlung leisten?"
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Markus",
             "situation": "Ich arbeite im Lager. Beim Rangieren mit dem Hubwagen habe ich aus leichter Unachtsamkeit Waren im Wert von ca. 150 Euro beschädigt. Mein Arbeitgeber will mir den Schaden nun komplett vom nächsten Gehalt abziehen. Darf er das einfach so?"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Julia",
             "situation": "Ich arbeite in der Pflege oft 9- bis 10-Stunden-Schichten. Wegen Personalmangels fallen meine Pausen regelmäßig kürzer aus als vorgeschrieben oder ganz weg. Meine Stationsleitung meint, das sei nicht anders machbar. Welche Pausenzeiten stehen mir gesetzlich zu und darf der Arbeitgeber sie zum Ausfall zwingen?"
-        },
-        {
-            "id": 4,
-            "name": "Ben",
-            "situation": "Ich bin im fünften Monat meiner sechsmonatigen Probezeit. Bisher lief alles gut, es gab keine Kritik. Nun hat er überraschend die Kündigung zum Ende der Probezeit erhalten, ohne Angabe von Gründen. Darf der Arbeitgeber so kurz vor Ablauf grundlos kündigen? Ich dachte, der besondere Kündigungsschutz greift nach den ersten Wochen."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "2": "a",
+        "3": "b",
+        "4": "c",
+        "1": "x"
     }
 }

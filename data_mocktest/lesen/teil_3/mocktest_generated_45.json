@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jan",
-            "situation": "Hallo zusammen, ich bin echt frustriert. Ich bin seit fast sechs Monaten in meiner neuen Firma und dachte, alles läuft super. Letzte Woche hatte ich noch ein Gespräch, in dem meine Chefin meine Fortschritte gelobt hat. Gestern habe ich aber überraschend die Kündigung bekommen – noch innerhalb der Probezeit! Ist das überhaupt rechtens, obwohl sie mich vorher gelobt hat? Ich dachte, nach Lob kann man nicht einfach gekündigt werden."
-        },
-        {
-            "id": 2,
-            "name": "Sofia",
-            "situation": "In meiner Abteilung fallen momentan viele Überstunden an. Grundsätzlich habe ich nichts dagegen, mal mehr zu arbeiten, aber ich frage mich, wie das mit der Vergütung aussieht. Muss der Arbeitgeber die Überstunden immer auszahlen oder kann er auch anordnen, dass man sie nur durch Freizeit ausgleichen („abfeiern“) darf? In meinem Arbeitsvertrag steht dazu leider nichts Genaues. Wer kennt sich da aus?"
-        },
-        {
-            "id": 3,
             "name": "Marek",
             "situation": "Mir ist gestern bei der Arbeit ein kleines Missgeschick passiert: Ich bin im Lager über einen Karton gestolpert und habe mir den Ellbogen leicht gestoßen. Es tat kurz weh, aber ich dachte, es ist nichts Schlimmes und habe weitergearbeitet, ohne es zu melden. Heute Morgen tut der Arm aber doch ziemlich weh. Sollte ich den Vorfall jetzt noch melden, auch wenn er schon gestern war? Es war ja eigentlich nur eine Kleinigkeit."
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "Clara",
             "situation": "Ich habe seit einiger Zeit zunehmend Rückenprobleme, wahrscheinlich durch das lange Sitzen im Büro. Mein Orthopäde hat mir nun schriftlich empfohlen, einen höhenverstellbaren Schreibtisch zu nutzen, um zwischen Sitzen und Stehen wechseln zu können. Muss mein Arbeitgeber mir so einen Tisch zur Verfügung stellen, nur weil mein Arzt das empfiehlt? Eine offizielle Schwerbehinderung habe ich nicht. Wie sind da die Regeln?"
+        },
+        {
+            "id": 3,
+            "name": "Jan",
+            "situation": "Hallo zusammen, ich bin echt frustriert. Ich bin seit fast sechs Monaten in meiner neuen Firma und dachte, alles läuft super. Letzte Woche hatte ich noch ein Gespräch, in dem meine Chefin meine Fortschritte gelobt hat. Gestern habe ich aber überraschend die Kündigung bekommen – noch innerhalb der Probezeit! Ist das überhaupt rechtens, obwohl sie mich vorher gelobt hat? Ich dachte, nach Lob kann man nicht einfach gekündigt werden."
+        },
+        {
+            "id": 4,
+            "name": "Sofia",
+            "situation": "In meiner Abteilung fallen momentan viele Überstunden an. Grundsätzlich habe ich nichts dagegen, mal mehr zu arbeiten, aber ich frage mich, wie das mit der Vergütung aussieht. Muss der Arbeitgeber die Überstunden immer auszahlen oder kann er auch anordnen, dass man sie nur durch Freizeit ausgleichen („abfeiern“) darf? In meinem Arbeitsvertrag steht dazu leider nichts Genaues. Wer kennt sich da aus?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "3": "a",
+        "4": "b",
+        "1": "c",
+        "2": "x"
     }
 }

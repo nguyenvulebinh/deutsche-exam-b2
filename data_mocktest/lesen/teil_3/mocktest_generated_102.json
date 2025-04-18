@@ -8,18 +8,18 @@
         },
         {
             "id": 2,
+            "name": "Mehmet",
+            "situation": "Ich arbeite in einer Werkstatt und muss dort spezielle Sicherheitsschuhe und eine vorgeschriebene Schutzjacke tragen. Jetzt sagt mein Chef, dass wir Mitarbeiter uns an den Kosten beteiligen müssen, weil wir die Kleidung ja auch nutzen. Ist das erlaubt? Ich dachte immer, der Arbeitgeber muss notwendige persönliche Schutzausrüstung komplett stellen und bezahlen. Wer weiß da Bescheid?"
+        },
+        {
+            "id": 3,
             "name": "Markus",
             "situation": "Ich bin total schockiert. Mir wurde gestern gekündigt, fünf Monate nach Beginn meiner Tätigkeit, also noch innerhalb der sechsmonatigen Probezeit. Ich dachte eigentlich, dass alles gut läuft und hatte letzte Woche noch positives Feedback bekommen. Einen konkreten Grund nannte man mir nicht. Ist das rechtens, so kurzfristig und ohne Begründung in der Probezeit entlassen zu werden?"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Anja",
             "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen. Dummerweise wurde ich am dritten Urlaubstag krank und war für fünf Tage krankgeschrieben, was ich auch mit einem Attest belegen kann. Mein Vorgesetzter meint nun, ich hätte Pech gehabt und die Urlaubstage seien weg. Stimmt das? Verfallen die Tage oder kann ich sie nachholen?"
-        },
-        {
-            "id": 4,
-            "name": "Mehmet",
-            "situation": "Ich arbeite in einer Werkstatt und muss dort spezielle Sicherheitsschuhe und eine vorgeschriebene Schutzjacke tragen. Jetzt sagt mein Chef, dass wir Mitarbeiter uns an den Kosten beteiligen müssen, weil wir die Kleidung ja auch nutzen. Ist das erlaubt? Ich dachte immer, der Arbeitgeber muss notwendige persönliche Schutzausrüstung komplett stellen und bezahlen. Wer weiß da Bescheid?"
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "3": "b",
+        "4": "c",
+        "2": "x"
     }
 }

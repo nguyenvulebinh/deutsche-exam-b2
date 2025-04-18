@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Mehmet",
-            "situation": "Ich arbeite auf einer Baustelle und muss laut Vorschrift spezielle Sicherheitsschuhe und einen Schutzhelm tragen. Mein Chef meint nun, ich müsse diese selbst kaufen und bezahlen. Das finde ich merkwürdig, da es ja um vorgeschriebene Schutzausrüstung geht, nicht um eine normale Uniform. Wer muss die Kosten für diese persönliche Schutzausrüstung (PSA) übernehmen?"
+            "name": "Lena",
+            "situation": "Auf dem Heimweg von der Arbeit bin ich heute mit dem Fahrrad gestürzt. Allerdings hatte ich einen Umweg gemacht, um noch schnell im Supermarkt private Einkäufe zu erledigen. Dabei ist der Unfall passiert. Mein Arzt fragt jetzt wegen der gesetzlichen Unfallversicherung, ob das ein Wegeunfall war. Zählt das überhaupt noch als versicherter Arbeitsweg, wenn ich für private Erledigungen vom direkten Weg abgewichen bin?"
         },
         {
             "id": 2,
-            "name": "Simon",
-            "situation": "Ich bin total geschockt. Ich bin seit fünf Monaten in meiner neuen Firma und somit noch in der Probezeit. Gestern habe ich mein Kündigungsschreiben erhalten! Dabei wurde ich letzte Woche noch für meine gute Arbeit gelobt. Ist es überhaupt erlaubt, mir in der Probezeit ohne Angabe von Gründen zu kündigen, obwohl meine Leistung gut war?"
+            "name": "Mehmet",
+            "situation": "Ich arbeite auf einer Baustelle und muss laut Vorschrift spezielle Sicherheitsschuhe und einen Schutzhelm tragen. Mein Chef meint nun, ich müsse diese selbst kaufen und bezahlen. Das finde ich merkwürdig, da es ja um vorgeschriebene Schutzausrüstung geht, nicht um eine normale Uniform. Wer muss die Kosten für diese persönliche Schutzausrüstung (PSA) übernehmen?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Lena",
-            "situation": "Auf dem Heimweg von der Arbeit bin ich heute mit dem Fahrrad gestürzt. Allerdings hatte ich einen Umweg gemacht, um noch schnell im Supermarkt private Einkäufe zu erledigen. Dabei ist der Unfall passiert. Mein Arzt fragt jetzt wegen der gesetzlichen Unfallversicherung, ob das ein Wegeunfall war. Zählt das überhaupt noch als versicherter Arbeitsweg, wenn ich für private Erledigungen vom direkten Weg abgewichen bin?"
+            "name": "Simon",
+            "situation": "Ich bin total geschockt. Ich bin seit fünf Monaten in meiner neuen Firma und somit noch in der Probezeit. Gestern habe ich mein Kündigungsschreiben erhalten! Dabei wurde ich letzte Woche noch für meine gute Arbeit gelobt. Ist es überhaupt erlaubt, mir in der Probezeit ohne Angabe von Gründen zu kündigen, obwohl meine Leistung gut war?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "b",
+        "2": "d",
+        "4": "b",
         "3": "f",
-        "4": "x"
+        "1": "x"
     }
 }

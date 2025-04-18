@@ -3,18 +3,18 @@
     "people_seeking_info": [
         {
             "id": 1,
+            "name": "Fatima",
+            "situation": "Mir wurde im Vorstellungsgespräch mündlich zugesichert, dass ich nach der Einarbeitung überwiegend im Homeoffice arbeiten könne. Das war für mich wichtig. Nun steht im Arbeitsvertrag aber klar, dass der Arbeitsort das Büro ist und Homeoffice nur in Ausnahmefällen nach Absprache möglich ist. Gilt die mündliche Zusage trotzdem oder ist der Vertrag bindend?"
+        },
+        {
+            "id": 2,
             "name": "Lisa",
             "situation": "Ich bin seit fast sechs Monaten in meiner neuen Firma, die Probezeit endet nächste Woche. Bisher gab es nur positives Feedback. Gestern erhielt ich überraschend die Kündigung, ohne Angabe von Gründen. Ich bin schockiert und frage mich, ob eine Kündigung so kurz vor Ablauf der Probezeit und trotz guter Leistung überhaupt rechtens ist und was ich tun kann."
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Sven",
             "situation": "Ich bin gestern im Lager auf einer nassen Stelle ausgerutscht und habe mir den Ellbogen gestoßen. Es tut nur leicht weh und ist kaum geschwollen, daher habe ich es niemandem gemeldet. Ein Kollege meinte nun, ich müsse jeden Unfall, egal wie klein, sofort melden, schon allein wegen der Versicherung (Berufsgenossenschaft), falls doch Spätfolgen auftreten. Stimmt das?"
-        },
-        {
-            "id": 3,
-            "name": "Fatima",
-            "situation": "Mir wurde im Vorstellungsgespräch mündlich zugesichert, dass ich nach der Einarbeitung überwiegend im Homeoffice arbeiten könne. Das war für mich wichtig. Nun steht im Arbeitsvertrag aber klar, dass der Arbeitsort das Büro ist und Homeoffice nur in Ausnahmefällen nach Absprache möglich ist. Gilt die mündliche Zusage trotzdem oder ist der Vertrag bindend?"
         },
         {
             "id": 4,
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
+        "2": "a",
+        "3": "b",
+        "1": "c",
         "4": "x"
     }
 }

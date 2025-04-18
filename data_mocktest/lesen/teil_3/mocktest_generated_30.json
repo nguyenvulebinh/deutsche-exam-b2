@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Klaus",
-            "situation": "Ich war während meines genehmigten Jahresurlaubs eine Woche krankgeschrieben. Mein Arbeitgeber hat mir diese Tage trotzdem vom Urlaubskonto abgezogen und meint, Pech gehabt. Ich bin unsicher, ob das rechtens ist und was ich tun kann, da ich die ärztliche Bescheinigung rechtzeitig eingereicht habe. Müssen mir die Urlaubstage wieder gutgeschrieben werden?"
-        },
-        {
-            "id": 2,
             "name": "Julia",
             "situation": "Ich arbeite Teilzeit und mein Chef verlangt oft, dass ich Überstunden mache. Ich habe nichts dagegen, möchte aber wissen, wie diese normalerweise vergütet werden – durch Freizeitausgleich oder Bezahlung? In meinem Arbeitsvertrag steht dazu nichts Genaues, nur dass Überstunden angeordnet werden können. Was ist die übliche Regelung oder wo finde ich diese?"
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Cem",
             "situation": "Ich soll auf Wunsch meines Arbeitgebers an einer mehrtägigen Fortbildung teilnehmen, um neue Software zu lernen. Die Fortbildung findet während der Arbeitszeit statt. Allerdings soll ich die Kosten für die Schulung (ca. 800 Euro) selbst tragen. Ist das zulässig, da die Firma von mir die Teilnahme erwartet?"
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Maria",
             "situation": "Ich bin seit vier Monaten in einem neuen Job und somit noch in der Probezeit (vertraglich 6 Monate vereinbart). Letzte Woche wurde mir mündlich mitgeteilt, dass das Arbeitsverhältnis zum nächstmöglichen Zeitpunkt beendet wird, weil die Auftragslage schlecht sei. Muss eine Kündigung in der Probezeit überhaupt begründet werden und reicht eine mündliche Kündigung aus? Was soll ich jetzt tun?"
+        },
+        {
+            "id": 4,
+            "name": "Klaus",
+            "situation": "Ich war während meines genehmigten Jahresurlaubs eine Woche krankgeschrieben. Mein Arbeitgeber hat mir diese Tage trotzdem vom Urlaubskonto abgezogen und meint, Pech gehabt. Ich bin unsicher, ob das rechtens ist und was ich tun kann, da ich die ärztliche Bescheinigung rechtzeitig eingereicht habe. Müssen mir die Urlaubstage wieder gutgeschrieben werden?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "4": "a",
+        "1": "b",
+        "2": "c",
+        "3": "x"
     }
 }

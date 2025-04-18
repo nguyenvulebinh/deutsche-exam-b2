@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Martha",
+            "situation": "Ich bin total verunsichert. Ich arbeite seit vier Monaten in einer neuen Firma und befinde mich noch in der Probezeit. Gestern habe ich überraschend die Kündigung erhalten, obwohl mein Chef mich letzte Woche noch für meine Arbeit gelobt hat. Ist eine Kündigung in der Probezeit so einfach möglich, auch ohne konkreten Grund?"
+        },
+        {
+            "id": 2,
+            "name": "Lukas",
+            "situation": "Unsere Firma hat letzten Freitag einen Betriebsausflug in einen Kletterpark organisiert, die Teilnahme war für alle verpflichtend. Leider bin ich dort beim Klettern abgerutscht und habe mir den Arm leicht verletzt. Fällt so ein Unfall bei einem Firmenevent unter die gesetzliche Unfallversicherung, obwohl es nicht direkt am Arbeitsplatz passiert ist?"
+        },
+        {
+            "id": 3,
+            "name": "Aisha",
+            "situation": "In meinem neuen Job als Verkäuferin müssen wir einheitliche Polo-Shirts und Jacken mit Firmenlogo tragen. Das ist keine Schutzkleidung, sondern soll einfach professionell aussehen. Mein Arbeitgeber meint, wir müssten diese 'Dienstkleidung' selbst kaufen. Stimmt das, oder muss die Firma die Kosten übernehmen?"
+        },
+        {
+            "id": 4,
+            "name": "Jens",
+            "situation": "Ich bin heute Morgen auf dem Weg zur Arbeit im Treppenhaus meines Mehrfamilienhauses gestürzt, noch bevor ich die Haustür erreicht habe. Ich glaube, mein Fuß ist gebrochen. Zählt das schon als Wegeunfall, der von der Berufsgenossenschaft abgedeckt ist, oder beginnt der Versicherungsschutz erst außerhalb des Wohngebäudes?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das tut mir leid für dich! Generell gilt in Deutschland nach sechs Monaten Betriebszugehörigkeit das Kündigungsschutzgesetz, wenn die Firma mehr als zehn Mitarbeiter hat. Dann braucht der Arbeitgeber einen triftigen Grund (betriebsbedingt, personenbedingt, verhaltensbedingt) für eine Kündigung. Vorher ist es leider komplizierter."
+        },
+        {
+            "id": "b",
+            "author": "Dirk",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ja, das ist leider typisch für die Probezeit (maximal 6 Monate). Hier gilt eine verkürzte Kündigungsfrist von nur zwei Wochen und der Arbeitgeber braucht keinen Grund anzugeben. Der übliche Kündigungsschutz greift in dieser Phase noch nicht. Das Lob von letzter Woche ändert daran rechtlich leider nichts."
+        },
+        {
+            "id": "c",
+            "author": "Elena",
+            "timestamp": "vor 5 Stunden",
+            "content": "Bei Unfällen direkt am Arbeitsplatz, also z.B. wenn man im Büro über ein Kabel stolpert oder sich in der Werkstatt verletzt, ist die Sache klar: Das ist normalerweise ein Fall für die gesetzliche Unfallversicherung, also die Berufsgenossenschaft. Man sollte es aber immer sofort melden."
+        },
+        {
+            "id": "d",
+            "author": "Mehmet",
+            "timestamp": "vor 1 Stunde",
+            "content": "Gute Besserung erstmal! Ja, bei offiziellen Betriebsveranstaltungen, die vom Arbeitgeber organisiert werden und den Teamgeist fördern sollen (wie Ausflüge, Weihnachtsfeiern), besteht in der Regel Versicherungsschutz durch die gesetzliche Unfallversicherung. Das gilt auch, wenn es außerhalb des Betriebs stattfindet."
+        },
+        {
+            "id": "e",
+            "author": "Clara",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei Arbeitskleidung kommt es drauf an: Echte Schutzkleidung, die gesetzlich vorgeschrieben ist (Helm, Sicherheitsschuhe, Schutzbrille etc.), muss immer der Arbeitgeber kostenlos zur Verfügung stellen und auch reinigen lassen. Da gibt es keine Diskussion."
+        },
+        {
+            "id": "f",
+            "author": "Tom",
+            "timestamp": "vor 30 Minuten",
+            "content": "Das ist eine typische Frage bei Dienstkleidung, die das Firmenimage stärken soll. Anders als bei reiner Schutzkleidung kann der Arbeitgeber hier tatsächlich verlangen, dass die Mitarbeiter die Kosten tragen oder sich beteiligen. Es lohnt sich aber, in den Arbeitsvertrag oder eventuelle Tarifverträge zu schauen, manchmal gibt es Zuschüsse."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "d",
+        "3": "f",
+        "4": "x"
+    }
+}

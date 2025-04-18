@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Sabine",
-            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche hat mich mein Chef noch für meine gute Arbeit gelobt. Heute habe ich aber überraschend die Kündigung zum Ende des Monats erhalten, also mit zwei Wochen Frist. Ich bin total verwirrt. Ist das rechtens, obwohl er mich gelobt hat und die Frist so kurz ist?"
+            "name": "Stefan",
+            "situation": "Mein Vorgesetzter hat mir vor einem halben Jahr mündlich eine Beförderung zum Teamleiter mit einer konkreten Gehaltserhöhung ab diesem Monat zugesagt. Schriftlich wurde nichts festgehalten, und nun kann er sich angeblich nicht mehr genau erinnern. Außerdem soll ich seit Kurzem dauerhaft Projektmanagement-Aufgaben übernehmen, die weit über meine IT-Support-Tätigkeit hinausgehen, ohne dass mein Vertrag angepasst wurde. Was kann ich wegen der Zusage und der neuen Aufgaben tun?"
         },
         {
             "id": 2,
-            "name": "Mehmet",
-            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen. In der zweiten Urlaubswoche bin ich leider für vier Tage krank geworden und habe auch eine ärztliche Bescheinigung dafür eingereicht. Mein Arbeitgeber meint nun, diese vier Tage seien trotzdem als Urlaubstage zu werten. Stimmt das? Verliere ich diese Urlaubstage jetzt einfach?"
-        },
-        {
-            "id": 3,
             "name": "Lena",
             "situation": "In meinem Arbeitsvertrag steht eine Wochenarbeitszeit von 40 Stunden. Eine Regelung zu Überstunden gibt es nicht. Wegen vieler Aufträge verlangt mein Vorgesetzter in letzter Zeit aber oft, dass wir länger bleiben. Ich möchte das nicht regelmäßig tun. Bin ich gesetzlich verpflichtet, Überstunden zu machen, wenn es nicht im Vertrag steht?"
         },
         {
+            "id": 3,
+            "name": "Sabine",
+            "situation": "Ich bin seit fünf Monaten in meiner neuen Firma und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche hat mich mein Chef noch für meine gute Arbeit gelobt. Heute habe ich aber überraschend die Kündigung zum Ende des Monats erhalten, also mit zwei Wochen Frist. Ich bin total verwirrt. Ist das rechtens, obwohl er mich gelobt hat und die Frist so kurz ist?"
+        },
+        {
             "id": 4,
-            "name": "Stefan",
-            "situation": "Mein Vorgesetzter hat mir vor einem halben Jahr mündlich eine Beförderung zum Teamleiter mit einer konkreten Gehaltserhöhung ab diesem Monat zugesagt. Schriftlich wurde nichts festgehalten, und nun kann er sich angeblich nicht mehr genau erinnern. Außerdem soll ich seit Kurzem dauerhaft Projektmanagement-Aufgaben übernehmen, die weit über meine IT-Support-Tätigkeit hinausgehen, ohne dass mein Vertrag angepasst wurde. Was kann ich wegen der Zusage und der neuen Aufgaben tun?"
+            "name": "Mehmet",
+            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen. In der zweiten Urlaubswoche bin ich leider für vier Tage krank geworden und habe auch eine ärztliche Bescheinigung dafür eingereicht. Mein Arbeitgeber meint nun, diese vier Tage seien trotzdem als Urlaubstage zu werten. Stimmt das? Verliere ich diese Urlaubstage jetzt einfach?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
-        "2": "a",
-        "3": "f",
-        "4": "x"
+        "3": "d",
+        "4": "a",
+        "2": "f",
+        "1": "x"
     }
 }

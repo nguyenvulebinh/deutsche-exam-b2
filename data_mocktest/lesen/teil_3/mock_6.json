@@ -1,69 +1,69 @@
 {
-  "thema": "Tipps für Arbeitnehmerinnen und Arbeitnehmer",
-  "people_seeking_info": [
-    {
-      "id": 1,
-      "name": "Franz",
-      "situation": "Meine Firma hat Dienstkleidung eingeführt: Für die Männer Anzüge, die Frauen können zwischen Hosenanzug oder Kostüm wählen. Das soll zum Unternehmensimage beitragen – nur leider sind Anzüge nicht mein Stil. Kann mir gekündigt werden, wenn ich es ablehne, diese Anzüge zu tragen?"
-    },
-    {
-      "id": 2,
-      "name": "Isabelle",
-      "situation": "Hallo, ich würde gerne wissen, wer die Arbeitsschutzkleidung bezahlen muss: Ich arbeite in einem Labor und muss laut Arbeitsvertrag welche tragen. Die Schutzbrille und die Einmalhandschuhe werden vor Ort gestellt, die Kittel und Schuhe muss ich aber aus eigener Tasche bezahlen. Auf meine Frage, ob das korrekt ist, wurde mir mit „ja“ geantwortet, ich solle die Kosten dafür bei der Steuer angeben."
-    },
-    {
-      "id": 3,
-      "name": "Andrés",
-      "situation": "Ich bin Leiter des Serviceteams in einem bayerischen Lokal und muss wie alle Angestellten als Dienstkleidung eine Lederhose und ein kariertes Hemd tragen, die Frauen ein Dirndl. Wir schwitzen bei der Arbeit und ich brauche jeden Tag sogar ein bis zwei frische Hemden. Unser Arbeitgeber will, dass wir die Kleidung selbst bezahlen. Ich finde das nicht ok. Meine Frage: Müssen mein Team und ich das akzeptieren?"
-    },
-    {
-      "id": 4,
-      "name": "Tobias",
-      "situation": "Wer kann mir helfen? Ich arbeite als Altenpfleger bei einem häuslichen Pflegedienst. Wir können bei der Arbeit unsere private Kleidung tragen. Meine Frage ist, ob ich den Kaufpreis und die Kosten für die Instandhaltung und das Waschen meiner Kleidung bei der Steuer angeben kann? Wäre super, wenn ich dafür Geld zurückbekommen könnte."
+    "thema": "Tipps für Arbeitnehmerinnen und Arbeitnehmer",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Tobias",
+            "situation": "Wer kann mir helfen? Ich arbeite als Altenpfleger bei einem häuslichen Pflegedienst. Wir können bei der Arbeit unsere private Kleidung tragen. Meine Frage ist, ob ich den Kaufpreis und die Kosten für die Instandhaltung und das Waschen meiner Kleidung bei der Steuer angeben kann? Wäre super, wenn ich dafür Geld zurückbekommen könnte."
+        },
+        {
+            "id": 2,
+            "name": "Andrés",
+            "situation": "Ich bin Leiter des Serviceteams in einem bayerischen Lokal und muss wie alle Angestellten als Dienstkleidung eine Lederhose und ein kariertes Hemd tragen, die Frauen ein Dirndl. Wir schwitzen bei der Arbeit und ich brauche jeden Tag sogar ein bis zwei frische Hemden. Unser Arbeitgeber will, dass wir die Kleidung selbst bezahlen. Ich finde das nicht ok. Meine Frage: Müssen mein Team und ich das akzeptieren?"
+        },
+        {
+            "id": 3,
+            "name": "Isabelle",
+            "situation": "Hallo, ich würde gerne wissen, wer die Arbeitsschutzkleidung bezahlen muss: Ich arbeite in einem Labor und muss laut Arbeitsvertrag welche tragen. Die Schutzbrille und die Einmalhandschuhe werden vor Ort gestellt, die Kittel und Schuhe muss ich aber aus eigener Tasche bezahlen. Auf meine Frage, ob das korrekt ist, wurde mir mit „ja“ geantwortet, ich solle die Kosten dafür bei der Steuer angeben."
+        },
+        {
+            "id": 4,
+            "name": "Franz",
+            "situation": "Meine Firma hat Dienstkleidung eingeführt: Für die Männer Anzüge, die Frauen können zwischen Hosenanzug oder Kostüm wählen. Das soll zum Unternehmensimage beitragen – nur leider sind Anzüge nicht mein Stil. Kann mir gekündigt werden, wenn ich es ablehne, diese Anzüge zu tragen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Wael",
+            "timestamp": "vor einer Stunde",
+            "content": "Dienstkleidung soll für ein einheitliches Aussehen des Teams sorgen und so das Image des Unternehmens repräsentieren. Die Arbeitsschutzkleidung, z.B. in einem Labor, schützt den Träger und die Umwelt. Was hast du gegen weiße Kittel in einer Praxis? Das gehört doch zum Beruf."
+        },
+        {
+            "id": "b",
+            "author": "Sabrina",
+            "timestamp": "vor neun Stunden",
+            "content": "Arbeitgeber dürfen ihren Angestellten die Arbeitskleidung vorschreiben. Man muss zwischen „Dienstkleidung“ und „Arbeitsschutzkleidung“ unterscheiden. Ihre Frage bezieht sich aber auf die „Dienstkleidung“, die Sie theoretisch auch privat tragen könnten, auch wenn viele das nicht machen. Der Arbeitgeber kann hier verlangen, dass Sie dafür selbst aufkommen."
+        },
+        {
+            "id": "c",
+            "author": "Gerhard",
+            "timestamp": "vor einem Tag",
+            "content": "Klare Antwort: Ja! Das Interesse des Arbeitgebers an der angemessenen Kleidung seiner Mitarbeiter wiegt schwerer als Ihr Interesse, sich individuell zu kleiden. Wenn Sie sich weigern, die Dienstkleidung zu tragen, kann es Ihnen passieren, dass Sie nach zwei Abmahnungen Ihren Job verlieren."
+        },
+        {
+            "id": "d",
+            "author": "Matteo",
+            "timestamp": "vor acht Stunden",
+            "content": "Arbeitsschutzkleidung ist eine persönliche Schutzkleidung zur Verhütung von Arbeitsunfällen und Berufskrankheiten. Dein Arbeitgeber ist verpflichtet, darauf zu achten, dass die Kleidung immer den neuesten Standards entspricht. Schau mal hier rein: www.arbeitsschutzgesetz.org/ arbeitsschutzkleidung"
+        },
+        {
+            "id": "e",
+            "author": "Chiara",
+            "timestamp": "vor zwei Stunden",
+            "content": "Arbeitsbekleidung muss typisch und als Arbeitsbekleidung erkennbar sein. Auch wenn der Arbeitgeber Kleidung wie Anzüge, Kostüme oder weiße Hemden, die man auch privat tragen könnte, vorschreibt – diese werden steuerlich weder beim Kauf, noch bei der Reparatur oder der Reinigung anerkannt. Das wird also wohl leider nichts mit der Rückzahlung."
+        },
+        {
+            "id": "f",
+            "author": "Tina",
+            "timestamp": "vor fünf Minuten",
+            "content": "Ich finde das Tragen von Berufskleidung sehr sinnvoll. In einem Baumarkt kann ich so erkennen, wer Angestellter und wer Kunde oder Kundin ist. Auch in einem Krankenhaus kann ich durch die einheitliche Berufskleidung erkennen, wer zum Personal gehört."
+        }
+    ],
+    "solutions": {
+        "4": "c",
+        "3": "x",
+        "2": "b",
+        "1": "e"
     }
-  ],
-  "posts": [
-    {
-      "id": "a",
-      "author": "Wael",
-      "timestamp": "vor einer Stunde",
-      "content": "Dienstkleidung soll für ein einheitliches Aussehen des Teams sorgen und so das Image des Unternehmens repräsentieren. Die Arbeitsschutzkleidung, z.B. in einem Labor, schützt den Träger und die Umwelt. Was hast du gegen weiße Kittel in einer Praxis? Das gehört doch zum Beruf."
-    },
-    {
-      "id": "b",
-      "author": "Sabrina",
-      "timestamp": "vor neun Stunden",
-      "content": "Arbeitgeber dürfen ihren Angestellten die Arbeitskleidung vorschreiben. Man muss zwischen „Dienstkleidung“ und „Arbeitsschutzkleidung“ unterscheiden. Ihre Frage bezieht sich aber auf die „Dienstkleidung“, die Sie theoretisch auch privat tragen könnten, auch wenn viele das nicht machen. Der Arbeitgeber kann hier verlangen, dass Sie dafür selbst aufkommen."
-    },
-    {
-      "id": "c",
-      "author": "Gerhard",
-      "timestamp": "vor einem Tag",
-      "content": "Klare Antwort: Ja! Das Interesse des Arbeitgebers an der angemessenen Kleidung seiner Mitarbeiter wiegt schwerer als Ihr Interesse, sich individuell zu kleiden. Wenn Sie sich weigern, die Dienstkleidung zu tragen, kann es Ihnen passieren, dass Sie nach zwei Abmahnungen Ihren Job verlieren."
-    },
-    {
-      "id": "d",
-      "author": "Matteo",
-      "timestamp": "vor acht Stunden",
-      "content": "Arbeitsschutzkleidung ist eine persönliche Schutzkleidung zur Verhütung von Arbeitsunfällen und Berufskrankheiten. Dein Arbeitgeber ist verpflichtet, darauf zu achten, dass die Kleidung immer den neuesten Standards entspricht. Schau mal hier rein: www.arbeitsschutzgesetz.org/ arbeitsschutzkleidung"
-    },
-    {
-      "id": "e",
-      "author": "Chiara",
-      "timestamp": "vor zwei Stunden",
-      "content": "Arbeitsbekleidung muss typisch und als Arbeitsbekleidung erkennbar sein. Auch wenn der Arbeitgeber Kleidung wie Anzüge, Kostüme oder weiße Hemden, die man auch privat tragen könnte, vorschreibt – diese werden steuerlich weder beim Kauf, noch bei der Reparatur oder der Reinigung anerkannt. Das wird also wohl leider nichts mit der Rückzahlung."
-    },
-    {
-      "id": "f",
-      "author": "Tina",
-      "timestamp": "vor fünf Minuten",
-      "content": "Ich finde das Tragen von Berufskleidung sehr sinnvoll. In einem Baumarkt kann ich so erkennen, wer Angestellter und wer Kunde oder Kundin ist. Auch in einem Krankenhaus kann ich durch die einheitliche Berufskleidung erkennen, wer zum Personal gehört."
-    }
-  ],
-  "solutions": {
-    "1": "c",
-    "2": "x",
-    "3": "b",
-    "4": "e"
-  }
 }

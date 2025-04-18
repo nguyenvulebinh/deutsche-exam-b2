@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Leon",
+            "situation": "Ich bin echt frustriert. Ich arbeite seit fünf Monaten in meiner neuen Firma, also noch in der Probezeit. Letzte Woche wurde ich noch für meine gute Arbeit gelobt und heute habe ich plötzlich die Kündigung bekommen, ohne Angabe von Gründen. Ist das überhaupt erlaubt? Ich dachte, nach dem Lob wäre alles in Ordnung. Was kann ich tun?"
+        },
+        {
+            "id": 2,
+            "name": "Sofia",
+            "situation": "In meinem Job im Chemielabor ist Schutzkleidung Pflicht. Mein Arbeitgeber stellt zwar die Schutzbrille und Einweghandschuhe, aber den Laborkittel und spezielle Sicherheitsschuhe soll ich selbst kaufen. Man sagte mir, ich könne die Kosten ja von der Steuer absetzen. Stimmt das so, dass ich diese notwendige Schutzausrüstung selbst bezahlen muss?"
+        },
+        {
+            "id": 3,
+            "name": "Jasmin",
+            "situation": "Mein Chef hat mir im letzten Mitarbeitergespräch fest mündlich versprochen, dass ich ab Januar eine Gehaltserhöhung bekomme. Jetzt ist Januar, und er kann sich angeblich nicht mehr daran erinnern. Ich habe leider nichts Schriftliches. Gibt es eine Möglichkeit, die Zusage trotzdem einzufordern?"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Mir ist heute in der Mittagspause etwas Blödes passiert. Ich bin kurz rausgegangen, um mir beim Bäcker nebenan etwas zu essen zu holen, und bin auf dem Gehweg gestolpert und habe mir den Knöchel verstaucht. Zählt das eigentlich als Arbeitsunfall oder Wegeunfall, sodass die Berufsgenossenschaft zahlt, oder ist das mein Privatrisiko?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Hanna",
+            "timestamp": "vor 15 Minuten",
+            "content": "Ja, das ist leider typisch für die Probezeit. Innerhalb dieser Frist, die meistens sechs Monate dauert, kann der Arbeitgeber das Arbeitsverhältnis mit einer verkürzten Frist von zwei Wochen kündigen, und er muss dafür keine Gründe nennen. Ein vorheriges Lob ändert daran rechtlich nichts."
+        },
+        {
+            "id": "b",
+            "author": "Markus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Nein, das stimmt nicht. Wenn spezielle Schutzausrüstung (PSA) für die Tätigkeit gesetzlich vorgeschrieben oder zur Unfallverhütung notwendig ist, muss der Arbeitgeber diese kostenlos zur Verfügung stellen und auch die Kosten dafür tragen. Das regelt das Arbeitsschutzgesetz. Auf die Steuer absetzen ist da keine Alternative."
+        },
+        {
+            "id": "c",
+            "author": "Ben",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das ist ärgerlich. Mündliche Zusagen sind rechtlich schwer durchzusetzen, wenn man keine Zeugen hat oder es keine schriftliche Bestätigung gibt. Man sagt 'Worte sind Schall und Rauch'. Du könntest versuchen, das Thema nochmal anzusprechen, aber große Chancen ohne Beweis hast du leider nicht."
+        },
+        {
+            "id": "d",
+            "author": "Laura",
+            "timestamp": "vor 2 Stunden",
+            "content": "Nach langjähriger Betriebszugehörigkeit genießt man Kündigungsschutz. Eine Kündigung muss dann sozial gerechtfertigt sein und es gelten längere Kündigungsfristen. Oft muss auch der Betriebsrat angehört werden. Bei betriebsbedingten Kündigungen spielt die Sozialauswahl eine große Rolle."
+        },
+        {
+            "id": "e",
+            "author": "Felix",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei Dienstkleidung, die vor allem dem einheitlichen Erscheinungsbild dient (z.B. Uniformen oder Anzüge), gibt es unterschiedliche Regelungen zur Kostenübernahme. Manchmal müssen sich Arbeitnehmer beteiligen. Solche Ausgaben für typische Berufsbekleidung kann man dann oft als Werbungskosten bei der Steuer geltend machen."
+        },
+        {
+            "id": "f",
+            "author": "Anna",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ich finde es generell wichtig, über Gehalt offen zu sprechen. Oft verdienen Kollegen für die gleiche Arbeit unterschiedlich viel, das ist nicht immer fair. Man sollte sich gut auf Gehaltsverhandlungen vorbereiten und seine Leistungen und seinen Wert für die Firma klar darlegen. Informiert euch über übliche Gehälter in eurer Branche!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

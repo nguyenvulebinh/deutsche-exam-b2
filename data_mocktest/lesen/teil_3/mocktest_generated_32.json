@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Kerstin",
-            "situation": "Hallo zusammen, ich bin total fertig. Mir wurde heute gekündigt, obwohl meine sechsmonatige Probezeit erst nächste Woche endet! Noch vor zwei Wochen wurde meine Arbeit sehr gelobt. Mein Chef meinte nur, es passe doch nicht so gut. Muss er das nicht genauer begründen? Gibt es da keine längere Kündigungsfrist kurz vor Ende der Probezeit? Was kann ich jetzt tun?"
-        },
-        {
-            "id": 2,
             "name": "Leo",
             "situation": "Ich brauche dringend Rat. Ich hatte zwei Wochen Urlaub genehmigt bekommen. Leider bin ich direkt am dritten Urlaubstag krank geworden und war für fünf Tage krankgeschrieben. Das Attest habe ich sofort eingereicht. Nun sehe ich auf meiner Abrechnung, dass mir diese fünf Tage trotzdem vom Urlaubskonto abgezogen wurden. Darf mein Arbeitgeber das?"
         },
         {
+            "id": 2,
+            "name": "Milan",
+            "situation": "Ich fange bald auf einer Baustelle an. Im Vertrag steht, dass ich Sicherheitsschuhe (Klasse S3) und einen Helm tragen muss. Das sehe ich ja ein, Sicherheit geht vor. Aber muss ich diese spezielle Schutzausrüstung wirklich selbst bezahlen? Das sind ja doch einige Kosten auf einmal. Mein zukünftiger Chef meinte, das sei üblich."
+        },
+        {
             "id": 3,
-            "name": "Aisha",
-            "situation": "Ich arbeite in einem Café mit einem sehr spezifischen Look. Wir müssen alle Poloshirts mit Firmenlogo und eine bestimmte Schürze tragen. Mein Chef meinte nun, wir müssten diese 'Dienstkleidung' selbst kaufen und auch für die Reinigung aufkommen. Ist das wirklich zulässig? Es ist ja keine Schutzkleidung, aber eben vorgeschrieben."
+            "name": "Kerstin",
+            "situation": "Hallo zusammen, ich bin total fertig. Mir wurde heute gekündigt, obwohl meine sechsmonatige Probezeit erst nächste Woche endet! Noch vor zwei Wochen wurde meine Arbeit sehr gelobt. Mein Chef meinte nur, es passe doch nicht so gut. Muss er das nicht genauer begründen? Gibt es da keine längere Kündigungsfrist kurz vor Ende der Probezeit? Was kann ich jetzt tun?"
         },
         {
             "id": 4,
-            "name": "Milan",
-            "situation": "Ich fange bald auf einer Baustelle an. Im Vertrag steht, dass ich Sicherheitsschuhe (Klasse S3) und einen Helm tragen muss. Das sehe ich ja ein, Sicherheit geht vor. Aber muss ich diese spezielle Schutzausrüstung wirklich selbst bezahlen? Das sind ja doch einige Kosten auf einmal. Mein zukünftiger Chef meinte, das sei üblich."
+            "name": "Aisha",
+            "situation": "Ich arbeite in einem Café mit einem sehr spezifischen Look. Wir müssen alle Poloshirts mit Firmenlogo und eine bestimmte Schürze tragen. Mein Chef meinte nun, wir müssten diese 'Dienstkleidung' selbst kaufen und auch für die Reinigung aufkommen. Ist das wirklich zulässig? Es ist ja keine Schutzkleidung, aber eben vorgeschrieben."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
-        "2": "e",
-        "3": "d",
-        "4": "x"
+        "3": "b",
+        "1": "e",
+        "4": "d",
+        "2": "x"
     }
 }

@@ -8,8 +8,8 @@
         },
         {
             "id": 2,
-            "name": "Sofia",
-            "situation": "Ich habe vor drei Monaten meinen Urlaub für August eingereicht, da wir eine größere Familienfeier im Ausland planen. Nun hat mein Vorgesetzter den Antrag abgelehnt mit der Begründung, dass im August 'zu viel zu tun sei'. Andere Kollegen haben aber Urlaub bekommen. Darf er das einfach so, obwohl ich so früh gefragt habe und wichtige Gründe habe?"
+            "name": "Fatima",
+            "situation": "Ich bin in der Probezeit und mir wurde überraschend gekündigt, obwohl meine Leistungen immer gut waren. Mein Chef nannte keine konkreten Gründe. Ich vermute aber, dass es daran liegt, dass ich neulich wegen meines kranken Kindes zwei Tage kurzfristig zu Hause bleiben musste. Ist eine Kündigung in der Probezeit aus diesem Grund überhaupt erlaubt und was kann ich jetzt konkret unternehmen? Brauche ich sofort einen Anwalt?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Fatima",
-            "situation": "Ich bin in der Probezeit und mir wurde überraschend gekündigt, obwohl meine Leistungen immer gut waren. Mein Chef nannte keine konkreten Gründe. Ich vermute aber, dass es daran liegt, dass ich neulich wegen meines kranken Kindes zwei Tage kurzfristig zu Hause bleiben musste. Ist eine Kündigung in der Probezeit aus diesem Grund überhaupt erlaubt und was kann ich jetzt konkret unternehmen? Brauche ich sofort einen Anwalt?"
+            "name": "Sofia",
+            "situation": "Ich habe vor drei Monaten meinen Urlaub für August eingereicht, da wir eine größere Familienfeier im Ausland planen. Nun hat mein Vorgesetzter den Antrag abgelehnt mit der Begründung, dass im August 'zu viel zu tun sei'. Andere Kollegen haben aber Urlaub bekommen. Darf er das einfach so, obwohl ich so früh gefragt habe und wichtige Gründe habe?"
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
+        "4": "b",
         "3": "c",
-        "4": "x"
+        "2": "x"
     }
 }

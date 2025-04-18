@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Martha",
+            "situation": "Ich arbeite im Vertrieb und mein Chef hat mir letzten Monat mündlich eine Leistungsprämie für ein erfolgreiches Projekt fest zugesagt. Jetzt steht die Gehaltsabrechnung an, aber von der Prämie ist nichts zu sehen. Als ich ihn darauf ansprach, meinte er, er könne sich an keine feste Zusage erinnern. Habe ich irgendeine Möglichkeit, das Geld doch noch zu bekommen? Schriftlich habe ich leider nichts."
+        },
+        {
+            "id": 2,
+            "name": "Javier",
+            "situation": "Ich arbeite in der Logistik oft Schichten, die über 9 Stunden dauern. Bisher mache ich nach 6 Stunden eine 30-minütige Pause, mehr nicht. Ein Kollege meinte, das sei bei so langen Arbeitszeiten zu wenig. Stimmt das? Gibt es eine gesetzliche Regelung, wie viel Pause mir bei einer Arbeitszeit von beispielsweise 10 Stunden zusteht? Ich will keinen Ärger, aber auch meine Rechte kennen."
+        },
+        {
+            "id": 3,
+            "name": "Leonie",
+            "situation": "Ich war im letzten Jahr leider öfter krank, immer nur für ein paar Tage wegen Erkältungen oder Grippe. Jetzt hatte ich ein Gespräch mit meinem Vorgesetzten, in dem er andeutete, dass meine häufigen Fehlzeiten den Betriebsablauf stören würden und man über eine Kündigung nachdenken müsse. Ich arbeite dort seit fünf Jahren. Ist eine Kündigung wegen kurzer, häufiger Krankheiten überhaupt rechtlich möglich?"
+        },
+        {
+            "id": 4,
+            "name": "Simone",
+            "situation": "Ich arbeite in einer Großküche eines Krankenhauses. Wir müssen alle die vom Betrieb gestellte Bereichskleidung tragen (Kasack, Hose). Zusätzlich sind aber spezielle Sicherheitsschuhe mit Rutschhemmung und Zehenschutzkappe vorgeschrieben. Mein Arbeitgeber meint, diese Sicherheitsschuhe müssten wir selbst kaufen, da sie ja individuell angepasst sein müssen. Muss der Arbeitgeber nicht für zwingend vorgeschriebene Schutzausrüstung aufkommen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Eine krankheitsbedingte Kündigung ist eine der schwierigsten Kündigungsarten für Arbeitgeber. Sie ist nur unter sehr strengen Voraussetzungen möglich: Es muss eine negative Gesundheitsprognose geben, die Fehlzeiten müssen zu erheblichen betrieblichen Störungen führen und eine Interessenabwägung muss ergeben, dass dem Arbeitgeber die Weiterbeschäftigung nicht zugemutet werden kann. Gerade bei häufigen Kurzerkrankungen sind die Hürden sehr hoch. Lass dich im Zweifel rechtlich beraten."
+        },
+        {
+            "id": "b",
+            "author": "Anja",
+            "timestamp": "vor 1 Stunde",
+            "content": "Gehalt ist immer ein heikles Thema. Ich finde, man sollte regelmäßig das Gespräch suchen und seine Leistung darlegen, um eine Erhöhung zu verhandeln. Bereite dich gut vor, schau, was in der Branche üblich ist. Manchmal hilft es auch, über zusätzliche Urlaubstage statt direkt mehr Geld zu sprechen. Hartnäckigkeit zahlt sich oft aus!"
+        },
+        {
+            "id": "c",
+            "author": "Stefan",
+            "timestamp": "vor 45 Minuten",
+            "content": "Mündliche Zusagen sind zwar prinzipiell gültig, aber ohne Zeugen oder schriftliche Bestätigung extrem schwer nachzuweisen, besonders bei Geldleistungen wie Prämien. Dein Chef kann sich einfach auf 'nicht erinnert' berufen. Für die Zukunft: Lass dir solche Zusagen immer kurz schriftlich bestätigen, und sei es nur per E-Mail. Aktuell sehe ich da leider wenig Chancen."
+        },
+        {
+            "id": "d",
+            "author": "David",
+            "timestamp": "vor 3 Stunden",
+            "content": "Überstunden müssen klar geregelt sein. Wenn dein Chef regelmäßig Überstunden anordnet, sollte im Arbeitsvertrag oder einer Betriebsvereinbarung stehen, wie diese abgegolten werden – entweder durch Freizeitausgleich oder Bezahlung. Wichtig ist, dass du deine Arbeitszeiten genau dokumentierst, am besten täglich."
+        },
+        {
+            "id": "e",
+            "author": "Miriam",
+            "timestamp": "vor 2 Stunden",
+            "content": "Dein Kollege hat Recht. Das Arbeitszeitgesetz ist da eindeutig: Bei einer Arbeitszeit von mehr als sechs bis zu neun Stunden steht dir eine Pause von mindestens 30 Minuten zu. Arbeitest du aber mehr als neun Stunden, erhöht sich dein Anspruch auf mindestens 45 Minuten Ruhepause. Diese kann auch in Zeitabschnitte aufgeteilt werden."
+        },
+        {
+            "id": "f",
+            "author": "Sabine",
+            "timestamp": "vor 30 Minuten",
+            "content": "In der Probezeit ist alles anders. Da kann der Arbeitgeber ohne Angabe von Gründen mit einer Frist von nur zwei Wochen kündigen. Der Kündigungsschutz, wie er sonst nach dem Kündigungsschutzgesetz gilt, greift in den ersten sechs Monaten meistens noch nicht. Das ist hart, aber leider legal."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

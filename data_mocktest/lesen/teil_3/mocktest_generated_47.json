@@ -8,13 +8,13 @@
         },
         {
             "id": 2,
-            "name": "Jonas",
-            "situation": "Mir ist gestern im Büro versehentlich mein Kaffee über den Firmenlaptop gelaufen. Er funktioniert nicht mehr richtig. Mein Teamleiter war sauer und meinte, das würde sicher von meinem nächsten Gehalt abgezogen. Ich habe es ja nicht absichtlich gemacht! Dürfen die das einfach?"
+            "name": "Marta",
+            "situation": "In meinem neuen Job in einem Chemielabor muss ich spezielle Schutzkleidung tragen – Sicherheitsschuhe und einen Laborkittel. Handschuhe und Schutzbrille bekommen wir gestellt, aber die Schuhe und den Kittel sollen wir selbst kaufen und bezahlen. Ist das rechtens? Das ist doch für die Arbeitssicherheit!"
         },
         {
             "id": 3,
-            "name": "Marta",
-            "situation": "In meinem neuen Job in einem Chemielabor muss ich spezielle Schutzkleidung tragen – Sicherheitsschuhe und einen Laborkittel. Handschuhe und Schutzbrille bekommen wir gestellt, aber die Schuhe und den Kittel sollen wir selbst kaufen und bezahlen. Ist das rechtens? Das ist doch für die Arbeitssicherheit!"
+            "name": "Jonas",
+            "situation": "Mir ist gestern im Büro versehentlich mein Kaffee über den Firmenlaptop gelaufen. Er funktioniert nicht mehr richtig. Mein Teamleiter war sauer und meinte, das würde sicher von meinem nächsten Gehalt abgezogen. Ich habe es ja nicht absichtlich gemacht! Dürfen die das einfach?"
         },
         {
             "id": 4,
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "d",
-        "2": "f",
-        "3": "b",
+        "3": "f",
+        "2": "b",
         "4": "x"
     }
 }

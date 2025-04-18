@@ -8,18 +8,18 @@
         },
         {
             "id": 2,
-            "name": "Ben",
-            "situation": "Ich bin 17 und mache eine Ausbildung zum Mechatroniker. Diese Woche sollen alle Azubis Überstunden machen, weil ein großer Auftrag fertig werden muss. Ich dachte immer, als Minderjähriger darf man keine Überstunden machen? Mein Ausbilder sagt, das sei eine Ausnahme. Stimmt das so, oder gibt es da spezielle Regeln für Azubis unter 18?"
-        },
-        {
-            "id": 3,
             "name": "Sofia",
             "situation": "Ich bin seit über einem Jahr krankgeschrieben wegen einer komplizierten Operation und anschließender Reha. Ich bin schon länger als sechs Wochen krank. Jetzt habe ich gehört, dass mein Arbeitgeber überlegt, mir deswegen zu kündigen. Darf er das einfach, obwohl ich krank bin und nichts dafür kann? Ich bin seit 5 Jahren in der Firma."
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Omar",
             "situation": "Ich hatte gestern einen kleinen Arbeitsunfall in der Werkstatt – bin ausgerutscht und habe mir den Knöchel verstaucht. Ich habe es sofort gemeldet. Heute Morgen hat mein Chef mir fristlos gekündigt! Er meinte, ich sei unachtsam gewesen. Ist so eine sofortige Kündigung nach einer Unfallmeldung überhaupt erlaubt? Und steht mir vielleicht eine Abfindung zu? Ich bin seit zwei Jahren im Betrieb."
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Ich bin 17 und mache eine Ausbildung zum Mechatroniker. Diese Woche sollen alle Azubis Überstunden machen, weil ein großer Auftrag fertig werden muss. Ich dachte immer, als Minderjähriger darf man keine Überstunden machen? Mein Ausbilder sagt, das sei eine Ausnahme. Stimmt das so, oder gibt es da spezielle Regeln für Azubis unter 18?"
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "4": "b",
+        "2": "c",
+        "3": "x"
     }
 }

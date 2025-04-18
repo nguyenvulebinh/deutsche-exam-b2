@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen und Alltag im Job",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Marlene",
+            "situation": "Mein Vorgesetzter hat mir vor sechs Monaten mündlich eine Beförderung mit konkreten neuen Aufgaben zugesagt. Nun behauptet er, sich nicht mehr genau zu erinnern, und es ist nichts passiert. Wir haben das leider nicht schriftlich festgehalten. Kann ich mich auf seine mündliche Zusage berufen und die Beförderung durchsetzen?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Ich arbeite seit zwei Jahren in meiner Firma. Nun bin ich seit fünf Wochen krankgeschrieben, mit offizieller Arbeitsunfähigkeitsbescheinigung vom Arzt. Heute habe ich überraschend die Kündigung erhalten. Ist es überhaupt erlaubt, einem Mitarbeiter zu kündigen, nur weil er längerfristig krank ist?"
+        },
+        {
+            "id": 3,
+            "name": "Laura",
+            "situation": "Ich arbeite in einer technischen Werkstatt und muss persönliche Schutzausrüstung (PSA) tragen. Mein Arbeitgeber stellt zwar die Schutzbrille, sagt aber, ich müsse die vorgeschriebenen Sicherheitsschuhe selbst kaufen und könne die Kosten ja von der Steuer absetzen. Ist der Arbeitgeber nicht verpflichtet, die gesamte notwendige PSA zu bezahlen?"
+        },
+        {
+            "id": 4,
+            "name": "Jonas",
+            "situation": "Letztes Wochenende habe ich am freiwilligen Sommerfest unserer Firma teilgenommen. Es fand außerhalb des Betriebsgeländes nach Feierabend statt. Beim Volleyballspielen habe ich mir leider den Knöchel verstaucht. Gilt das als Arbeitsunfall, der über die gesetzliche Unfallversicherung abgedeckt ist, obwohl die Teilnahme freiwillig war?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Anna",
+            "timestamp": "vor 45 Minuten",
+            "content": "Mündliche Zusagen sind zwar grundsätzlich bindend, aber das große Problem ist die Beweisbarkeit, wenn die andere Seite es bestreitet. Ohne Zeugen oder eine schriftliche Bestätigung (z.B. eine E-Mail nach dem Gespräch) ist es extrem schwer, den Anspruch gerichtlich durchzusetzen. Wichtige Vereinbarungen immer schriftlich fixieren lassen!"
+        },
+        {
+            "id": "b",
+            "author": "Petra",
+            "timestamp": "vor 2 Stunden",
+            "content": "Eine Kündigung in der Probezeit ist bitter, aber für den Arbeitgeber rechtlich einfacher. Die Kündigungsfristen sind meist sehr kurz, oft nur zwei Wochen, und er muss keinen spezifischen Grund nennen, wie bei langjährigen Mitarbeitern. Prüf mal in deinem Vertrag, wie lange die Probezeit genau vereinbart war."
+        },
+        {
+            "id": "c",
+            "author": "Stefan",
+            "timestamp": "vor 5 Stunden",
+            "content": "Krankheit allein ist generell kein Kündigungsgrund. Eine krankheitsbedingte Kündigung ist aber unter strengen Voraussetzungen möglich, z.B. bei negativer Gesundheitsprognose und erheblicher betrieblicher Beeinträchtigung. Für Arbeitnehmer nach 6 Monaten Betriebszugehörigkeit gilt das Kündigungsschutzgesetz. Prüfe, ob alle formalen Anforderungen erfüllt wurden."
+        },
+        {
+            "id": "d",
+            "author": "Klaus",
+            "timestamp": "vor 1 Stunde",
+            "content": "Bei Uniformen oder spezieller Dienstkleidung fürs Firmenimage (Hotel, Airline etc.) ist die Kostenfrage oft unterschiedlich geregelt. Manchmal stellt sie der Arbeitgeber, manchmal gibt es einen Zuschuss, manchmal muss man sich beteiligen, besonders wenn die Kleidung theoretisch auch privat getragen werden könnte. Schau in die Betriebsvereinbarung oder deinen Vertrag."
+        },
+        {
+            "id": "e",
+            "author": "Yasmin",
+            "timestamp": "vor 3 Stunden",
+            "content": "Verträge sind so eine Sache! Ich hatte mal einen schriftlichen Vertrag, da war eine Klausel zu Überstunden total unklar formuliert. Das gab später Streit. Mein Tipp: Alles genau lesen, bevor man unterschreibt, und bei Unklarheiten nachfragen. Sicher ist sicher!"
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ganz klar: Laut Arbeitsschutzgesetz muss der Arbeitgeber die notwendige persönliche Schutzausrüstung (PSA) kostenlos zur Verfügung stellen! Das schließt vorgeschriebene Sicherheitsschuhe definitiv mit ein, wenn sie für deine Arbeitssicherheit erforderlich sind. Die Kosten können nicht einfach auf den Arbeitnehmer abgewälzt werden."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "c",
+        "3": "f",
+        "4": "x"
+    }
+}

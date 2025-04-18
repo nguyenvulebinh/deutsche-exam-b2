@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrecht und Berufsalltag – Häufige Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Klaus",
+            "situation": "Ich war während meines genehmigten Jahresurlaubs eine Woche krankgeschrieben. Mein Arbeitgeber hat mir diese Tage trotzdem vom Urlaubskonto abgezogen und meint, Pech gehabt. Ich bin unsicher, ob das rechtens ist und was ich tun kann, da ich die ärztliche Bescheinigung rechtzeitig eingereicht habe. Müssen mir die Urlaubstage wieder gutgeschrieben werden?"
+        },
+        {
+            "id": 2,
+            "name": "Julia",
+            "situation": "Ich arbeite Teilzeit und mein Chef verlangt oft, dass ich Überstunden mache. Ich habe nichts dagegen, möchte aber wissen, wie diese normalerweise vergütet werden – durch Freizeitausgleich oder Bezahlung? In meinem Arbeitsvertrag steht dazu nichts Genaues, nur dass Überstunden angeordnet werden können. Was ist die übliche Regelung oder wo finde ich diese?"
+        },
+        {
+            "id": 3,
+            "name": "Cem",
+            "situation": "Ich soll auf Wunsch meines Arbeitgebers an einer mehrtägigen Fortbildung teilnehmen, um neue Software zu lernen. Die Fortbildung findet während der Arbeitszeit statt. Allerdings soll ich die Kosten für die Schulung (ca. 800 Euro) selbst tragen. Ist das zulässig, da die Firma von mir die Teilnahme erwartet?"
+        },
+        {
+            "id": 4,
+            "name": "Maria",
+            "situation": "Ich bin seit vier Monaten in einem neuen Job und somit noch in der Probezeit (vertraglich 6 Monate vereinbart). Letzte Woche wurde mir mündlich mitgeteilt, dass das Arbeitsverhältnis zum nächstmöglichen Zeitpunkt beendet wird, weil die Auftragslage schlecht sei. Muss eine Kündigung in der Probezeit überhaupt begründet werden und reicht eine mündliche Kündigung aus? Was soll ich jetzt tun?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 2 Stunden",
+            "content": "Wenn du während deines Urlaubs krank wirst und das mit einem Attest nachweist, gehen dir diese Urlaubstage nicht verloren! Dein Arbeitgeber muss sie dir wieder gutschreiben. Die Krankheitstage zählen eben als Krankheitstage, nicht als Urlaub. Wichtig ist, dass du das Attest unverzüglich vorlegst. Sprich deinen Chef nochmal darauf an, das ist gesetzlich klar geregelt im Bundesurlaubsgesetz."
+        },
+        {
+            "id": "b",
+            "author": "Markus",
+            "timestamp": "vor 50 Minuten",
+            "content": "Bei Überstunden ist es oft so: Wenn im Vertrag oder Tarifvertrag nichts Konkretes steht, muss der Arbeitgeber sie bezahlen, üblicherweise mit dem normalen Stundenlohn. Freizeitausgleich ist auch möglich, aber nur, wenn das vereinbart ist oder der Arbeitnehmer zustimmt. Schau mal nach, ob es bei euch eine Betriebsvereinbarung dazu gibt oder sprich den Betriebsrat an, falls vorhanden. Ansonsten gilt erstmal Bezahlung."
+        },
+        {
+            "id": "c",
+            "author": "Leon",
+            "timestamp": "vor 4 Stunden",
+            "content": "Wenn der Arbeitgeber eine Fortbildung anordnet, weil sie für deine Tätigkeit notwendig ist oder wird, dann muss er in der Regel auch die Kosten dafür übernehmen. Das umfasst die Kursgebühren und oft auch Reisekosten. Dass du das selbst zahlen sollst, klingt nicht richtig, da es ja im betrieblichen Interesse liegt. Das Arbeitsgericht würde dir da wahrscheinlich recht geben."
+        },
+        {
+            "id": "d",
+            "author": "Petra",
+            "timestamp": "vor 3 Stunden",
+            "content": "Urlaub ist echt wichtig zur Erholung. Wenn man da krank wird, ist das doppelt ärgerlich. Ich plane meinen Urlaub immer weit im Voraus und versuche, mich davor nicht anzustrecken, damit ich nicht krank werde. Dieses Jahr fahre ich ans Meer, da ist die Luft gut, das hilft sicher auch."
+        },
+        {
+            "id": "e",
+            "author": "David",
+            "timestamp": "vor 1 Stunde",
+            "content": "Überstunden sind leider oft normal. Ich finde, man sollte sie aber vermeiden. Work-Life-Balance ist wichtig! Wenn dein Chef zu viel verlangt, musst du auch mal Nein sagen lernen. Ständige Überlastung führt nur zu Burnout. Vielleicht hilft ein Gespräch über deine Arbeitsbelastung insgesamt?"
+        },
+        {
+            "id": "f",
+            "author": "Anna",
+            "timestamp": "vor 6 Stunden",
+            "content": "Fortbildungen sind eine tolle Sache, um beruflich weiterzukommen! Ich habe letztes Jahr einen Sprachkurs gemacht, das hat mir privat sehr geholfen. Die Kosten konnte ich sogar teilweise von der Steuer absetzen. Frag mal beim Finanzamt nach, was da bei dir möglich ist, das lohnt sich oft."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jonas",
-            "situation": "Ich arbeite als Grafiker. Mein Vertrag sieht eine 40-Stunden-Woche vor. In letzter Zeit verlangt mein Chef aber fast täglich, dass ich länger bleibe, oft 1-2 Stunden. Im Vertrag steht nichts zu Überstunden. Muss ich das machen? Und müsste ich dafür nicht extra bezahlt werden oder Freizeitausgleich bekommen?"
+            "name": "Stefan",
+            "situation": "Bei meinem Vorstellungsgespräch wurde mir zugesagt, dass ich hauptsächlich im Innendienst arbeiten würde. Im schriftlichen Vertrag steht davon aber nichts, nur meine allgemeine Berufsbezeichnung. Jetzt soll ich ständig im Außendienst sein. Zählt die mündliche Zusage gar nicht?"
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Stefan",
-            "situation": "Bei meinem Vorstellungsgespräch wurde mir zugesagt, dass ich hauptsächlich im Innendienst arbeiten würde. Im schriftlichen Vertrag steht davon aber nichts, nur meine allgemeine Berufsbezeichnung. Jetzt soll ich ständig im Außendienst sein. Zählt die mündliche Zusage gar nicht?"
+            "name": "Maria",
+            "situation": "Ich wurde gestern, am letzten Tag meiner Probezeit, gekündigt. Als Grund wurde 'mangelnde Eignung' genannt, obwohl ich nie eine Abmahnung oder Kritik erhalten habe. Ist das überhaupt rechtens, so kurzfristig und ohne Vorwarnung? Kann ich mich dagegen wehren, vielleicht weil ich alleinerziehend bin?"
         },
         {
             "id": 4,
-            "name": "Maria",
-            "situation": "Ich wurde gestern, am letzten Tag meiner Probezeit, gekündigt. Als Grund wurde 'mangelnde Eignung' genannt, obwohl ich nie eine Abmahnung oder Kritik erhalten habe. Ist das überhaupt rechtens, so kurzfristig und ohne Vorwarnung? Kann ich mich dagegen wehren, vielleicht weil ich alleinerziehend bin?"
+            "name": "Jonas",
+            "situation": "Ich arbeite als Grafiker. Mein Vertrag sieht eine 40-Stunden-Woche vor. In letzter Zeit verlangt mein Chef aber fast täglich, dass ich länger bleibe, oft 1-2 Stunden. Im Vertrag steht nichts zu Überstunden. Muss ich das machen? Und müsste ich dafür nicht extra bezahlt werden oder Freizeitausgleich bekommen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
+        "4": "a",
         "2": "b",
-        "3": "c",
-        "4": "x"
+        "1": "c",
+        "3": "x"
     }
 }

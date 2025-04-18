@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Julia",
-            "situation": "Ich hatte vor zwei Wochen meinen Jahresurlaub genehmigt bekommen, der nächste Woche beginnen sollte. Nun bin ich aber leider kurzfristig erkrankt und habe eine ärztliche Krankschreibung für die gesamte erste Urlaubswoche erhalten. Verfallen meine Urlaubstage jetzt einfach oder kann ich den Urlaub später nachholen? Ich bin mir unsicher, wie das rechtlich geregelt ist."
+            "name": "Ben",
+            "situation": "Ich hatte mit meinem Vorgesetzten mündlich vereinbart, dass ich für ein bestimmtes Projekt eingestellt werde, das voraussichtlich 8 Monate dauert. Im schriftlichen Arbeitsvertrag steht aber nur eine Standardformulierung zur Tätigkeit ohne Befristung auf das Projekt. Jetzt, nach 5 Monaten, soll das Projektteam verkleinert werden und man deutete an, mein Vertrag könnte bald enden. Zählt die mündliche Zusage zur Projektdauer gar nicht?"
         },
         {
             "id": 2,
-            "name": "Marco",
-            "situation": "Ich arbeite als Softwareentwickler. In letzter Zeit kommt es häufig vor, dass mein Chef kurz vor Feierabend noch dringende Aufgaben verteilt, wodurch ich regelmäßig länger bleiben muss. Im Arbeitsvertrag steht dazu nichts Konkretes. Wird das als selbstverständlich erwartet? Bekomme ich dafür einen Freizeitausgleich oder zusätzliche Bezahlung? Wie ist die Rechtslage bei spontanen Überstunden?"
+            "name": "Julia",
+            "situation": "Ich hatte vor zwei Wochen meinen Jahresurlaub genehmigt bekommen, der nächste Woche beginnen sollte. Nun bin ich aber leider kurzfristig erkrankt und habe eine ärztliche Krankschreibung für die gesamte erste Urlaubswoche erhalten. Verfallen meine Urlaubstage jetzt einfach oder kann ich den Urlaub später nachholen? Ich bin mir unsicher, wie das rechtlich geregelt ist."
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Ben",
-            "situation": "Ich hatte mit meinem Vorgesetzten mündlich vereinbart, dass ich für ein bestimmtes Projekt eingestellt werde, das voraussichtlich 8 Monate dauert. Im schriftlichen Arbeitsvertrag steht aber nur eine Standardformulierung zur Tätigkeit ohne Befristung auf das Projekt. Jetzt, nach 5 Monaten, soll das Projektteam verkleinert werden und man deutete an, mein Vertrag könnte bald enden. Zählt die mündliche Zusage zur Projektdauer gar nicht?"
+            "name": "Marco",
+            "situation": "Ich arbeite als Softwareentwickler. In letzter Zeit kommt es häufig vor, dass mein Chef kurz vor Feierabend noch dringende Aufgaben verteilt, wodurch ich regelmäßig länger bleiben muss. Im Arbeitsvertrag steht dazu nichts Konkretes. Wird das als selbstverständlich erwartet? Bekomme ich dafür einen Freizeitausgleich oder zusätzliche Bezahlung? Wie ist die Rechtslage bei spontanen Überstunden?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "f",
+        "2": "c",
+        "4": "f",
         "3": "a",
-        "4": "x"
+        "1": "x"
     }
 }

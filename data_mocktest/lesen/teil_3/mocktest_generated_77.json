@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Lena",
-            "situation": "Ich bin heute im Lager auf einer kleinen Ölpfütze ausgerutscht. Es ist zum Glück nichts Schlimmes passiert, nur ein blauer Fleck am Arm und der Schreck. Muss ich so einen kleinen Vorfall überhaupt melden? Mein Kollege meinte, das sei übertrieben, aber ich bin mir unsicher, falls doch noch Spätfolgen auftreten. Was ist richtig?"
+            "name": "Stefan",
+            "situation": "Ich plane, in sechs Monaten die Firma zu wechseln und benötige für meine Bewerbungen ein Zwischenzeugnis. Mein Chef hat zugestimmt, mir eines auszustellen. Ich habe aber gehört, dass er verpflichtet ist, es \"wohlwollend\" zu formulieren. Heißt das, er darf gar keine Kritikpunkte erwähnen, auch wenn sie vielleicht berechtigt wären? Wie detailliert muss so ein Zeugnis sein?"
         },
         {
             "id": 4,
-            "name": "Stefan",
-            "situation": "Ich plane, in sechs Monaten die Firma zu wechseln und benötige für meine Bewerbungen ein Zwischenzeugnis. Mein Chef hat zugestimmt, mir eines auszustellen. Ich habe aber gehört, dass er verpflichtet ist, es \"wohlwollend\" zu formulieren. Heißt das, er darf gar keine Kritikpunkte erwähnen, auch wenn sie vielleicht berechtigt wären? Wie detailliert muss so ein Zeugnis sein?"
+            "name": "Lena",
+            "situation": "Ich bin heute im Lager auf einer kleinen Ölpfütze ausgerutscht. Es ist zum Glück nichts Schlimmes passiert, nur ein blauer Fleck am Arm und der Schreck. Muss ich so einen kleinen Vorfall überhaupt melden? Mein Kollege meinte, das sei übertrieben, aber ich bin mir unsicher, falls doch noch Spätfolgen auftreten. Was ist richtig?"
         }
     ],
     "posts": [
@@ -63,7 +63,7 @@
     "solutions": {
         "1": "b",
         "2": "d",
-        "3": "f",
-        "4": "x"
+        "4": "f",
+        "3": "x"
     }
 }

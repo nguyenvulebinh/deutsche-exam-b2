@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Lena",
-            "situation": "Ich arbeite Vollzeit in einem Marketingbüro. Ich muss regelmäßig Überstunden machen, oft 5-6 Stunden pro Woche, um Deadlines einzuhalten. In meinem Arbeitsvertrag steht nichts Konkretes zur Vergütung von Überstunden. Ich bekomme sie bisher weder bezahlt noch kann ich diese durch Freizeit ausgleichen. Ich möchte wissen, ob ich einen Anspruch darauf habe und wie ich vorgehen sollte."
-        },
-        {
-            "id": 2,
             "name": "Jonas",
             "situation": "Ich arbeite seit einem Jahr im Vertrieb. Einer meiner Kollegen kritisiert mich ständig vor anderen, macht meine Arbeit schlecht und schließt mich von Team-Informationen aus. Ich fühle mich gemobbt und bin deswegen oft gestresst. Ich traue mich nicht, den Kollegen direkt anzusprechen oder zum Chef zu gehen. Was kann ich tun, um die Situation zu verbessern?"
         },
         {
+            "id": 2,
+            "name": "Lena",
+            "situation": "Ich arbeite Vollzeit in einem Marketingbüro. Ich muss regelmäßig Überstunden machen, oft 5-6 Stunden pro Woche, um Deadlines einzuhalten. In meinem Arbeitsvertrag steht nichts Konkretes zur Vergütung von Überstunden. Ich bekomme sie bisher weder bezahlt noch kann ich diese durch Freizeit ausgleichen. Ich möchte wissen, ob ich einen Anspruch darauf habe und wie ich vorgehen sollte."
+        },
+        {
             "id": 3,
-            "name": "Sarah",
-            "situation": "Mir wurde nach vier Monaten in meiner Probezeit überraschend gekündigt. Mein Chef nannte keinen Grund und sagte nur, dass es 'nicht passt'. Ich dachte, ich hätte gute Arbeit geleistet und verstehe nicht, warum die Kündigungsfrist nur zwei Wochen beträgt und keine Begründung nötig ist. Ist das rechtens?"
+            "name": "Omar",
+            "situation": "Ich arbeite seit zwei Jahren im Homeoffice. Die Firma hat mir einen Laptop gestellt, aber der ist sehr alt und langsam, was meine Arbeit behindert. Ich habe um einen neuen gebeten, aber die IT-Abteilung meinte, dafür sei kein Budget da. Ist der Arbeitgeber nicht verpflichtet, mir funktionsfähige Arbeitsmittel zur Verfügung zu stellen, auch im Homeoffice? Ich habe Sorge, dass die schlechte Technik meine Leistung negativ beeinflusst."
         },
         {
             "id": 4,
-            "name": "Omar",
-            "situation": "Ich arbeite seit zwei Jahren im Homeoffice. Die Firma hat mir einen Laptop gestellt, aber der ist sehr alt und langsam, was meine Arbeit behindert. Ich habe um einen neuen gebeten, aber die IT-Abteilung meinte, dafür sei kein Budget da. Ist der Arbeitgeber nicht verpflichtet, mir funktionsfähige Arbeitsmittel zur Verfügung zu stellen, auch im Homeoffice? Ich habe Sorge, dass die schlechte Technik meine Leistung negativ beeinflusst."
+            "name": "Sarah",
+            "situation": "Mir wurde nach vier Monaten in meiner Probezeit überraschend gekündigt. Mein Chef nannte keinen Grund und sagte nur, dass es 'nicht passt'. Ich dachte, ich hätte gute Arbeit geleistet und verstehe nicht, warum die Kündigungsfrist nur zwei Wochen beträgt und keine Begründung nötig ist. Ist das rechtens?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "c",
-        "3": "e",
-        "4": "x"
+        "2": "a",
+        "1": "c",
+        "4": "e",
+        "3": "x"
     }
 }

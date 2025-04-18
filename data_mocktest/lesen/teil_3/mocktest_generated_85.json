@@ -8,8 +8,8 @@
         },
         {
             "id": 2,
-            "name": "Ben",
-            "situation": "In meinem Arbeitsvertrag stehe ich als Projektmanager. Seit einigen Wochen muss ich aber fast ausschließlich einfache administrative Tätigkeiten erledigen, die weit unter meiner Qualifikation liegen. Eine Vertragsänderung gab es nicht. Kann mein Arbeitgeber einfach so meine Aufgaben ändern? Ich fühle mich degradiert."
+            "name": "Stefan",
+            "situation": "Ich bin aktuell in der Probezeit, die laut Vertrag sechs Monate dauert. Leider war ich davon zwei Wochen krankgeschrieben. Mein Arbeitgeber will nun die Probezeit um diese zwei Wochen verlängern, sodass sie insgesamt länger als sechs Monate dauern würde. Ist eine solche Verlängerung der Probezeit wegen Krankheit überhaupt zulässig?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Stefan",
-            "situation": "Ich bin aktuell in der Probezeit, die laut Vertrag sechs Monate dauert. Leider war ich davon zwei Wochen krankgeschrieben. Mein Arbeitgeber will nun die Probezeit um diese zwei Wochen verlängern, sodass sie insgesamt länger als sechs Monate dauern würde. Ist eine solche Verlängerung der Probezeit wegen Krankheit überhaupt zulässig?"
+            "name": "Ben",
+            "situation": "In meinem Arbeitsvertrag stehe ich als Projektmanager. Seit einigen Wochen muss ich aber fast ausschließlich einfache administrative Tätigkeiten erledigen, die weit unter meiner Qualifikation liegen. Eine Vertragsänderung gab es nicht. Kann mein Arbeitgeber einfach so meine Aufgaben ändern? Ich fühle mich degradiert."
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
+        "4": "b",
         "3": "d",
-        "4": "x"
+        "2": "x"
     }
 }

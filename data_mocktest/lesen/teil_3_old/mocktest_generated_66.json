@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Johanna",
+            "situation": "Mein Arbeitgeber hatte meinen dreiwöchigen Sommerurlaub bereits im Januar schriftlich genehmigt. Jetzt, kurz vorher, meint er, er müsse den Urlaub wegen eines unerwarteten Großauftrags streichen. Ich habe aber schon Flüge gebucht! Darf er das einfach so machen oder muss er mir zumindest die Kosten für die Flüge erstatten? Ich bin wirklich verzweifelt."
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Mir ist bei der Arbeit versehentlich der Dienstrechner heruntergefallen. Er funktioniert zwar noch, aber das Display hat jetzt einen Sprung. Mein Chef ist sauer und deutet an, dass ich für die Reparatur aufkommen muss. Muss ich das wirklich bezahlen? Ich bin doch versichert und es war keine Absicht, nur ein dummes Missgeschick bei mittlerer Unachtsamkeit."
+        },
+        {
+            "id": 3,
+            "name": "Sofia",
+            "situation": "Ich arbeite oft mehr als neun Stunden am Tag, manchmal sogar über zehn. Bisher mache ich nur eine kurze Mittagspause von 30 Minuten. Eine Kollegin meinte, das sei zu wenig und nicht gesetzeskonform bei meiner Arbeitszeit. Stimmt das? Wie viel Pause steht mir gesetzlich zu, wenn ich regelmäßig über 9 Stunden arbeite?"
+        },
+        {
+            "id": 4,
+            "name": "Cem",
+            "situation": "Ich bin seit vier Monaten in der Probezeit. Vor zwei Wochen hatte ich ein Gespräch mit meinem Chef, in dem er meine Arbeit sehr gelobt und mündlich zugesagt hat, mich nach der Probezeit auf jeden Fall fest zu übernehmen. Gestern ist mir aber ein kleinerer Fehler unterlaufen. Jetzt habe ich Angst, dass er mich doch noch vor Ende der Probezeit kündigt. Ist diese mündliche Zusage für die Zeit *nach* der Probezeit irgendwie bindend, falls er mich *jetzt* entlassen will?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Das Arbeitszeitgesetz ist da klar: Bei einer Arbeitszeit von mehr als sechs bis zu neun Stunden stehen dir mindestens 30 Minuten Pause zu. Wenn du, wie in deinem Fall, regelmäßig mehr als neun Stunden arbeitest, erhöht sich dein Anspruch auf mindestens 45 Minuten Pause pro Tag. Diese kannst du auch aufteilen (z.B. 30 + 15 Min.)."
+        },
+        {
+            "id": "b",
+            "author": "Anna",
+            "timestamp": "vor 5 Stunden",
+            "content": "Urlaub ist wichtig für die Erholung! Bei uns in der Firma müssen wir den Urlaub immer bis Ende März fürs ganze Jahr einplanen. Das finde ich manchmal schwierig, weil man ja nicht immer so weit vorausplanen kann. Aber so vermeidet man Streitigkeiten, wer wann freibekommt. Eine gute Planung ist eben alles."
+        },
+        {
+            "id": "c",
+            "author": "Michael",
+            "timestamp": "vor 45 Minuten",
+            "content": "Grundsätzlich gilt: Genehmigter Urlaub darf nur in absoluten Notfällen und aus dringenden betrieblichen Gründen widerrufen werden. Wenn das passiert, muss der Arbeitgeber in der Regel die Stornokosten (z.B. für Flüge) übernehmen. Ein „unerwarteter Großauftrag“ allein reicht oft nicht als zwingender Grund aus. Sprich ihn auf die Kostenübernahme an!"
+        },
+        {
+            "id": "d",
+            "author": "Stefan",
+            "timestamp": "vor 8 Stunden",
+            "content": "Betriebliche Versicherungen sind Gold wert. Wenn mal ein Kunde im Laden ausrutscht oder durch ein Produkt ein Schaden entsteht, springt die Betriebshaftpflichtversicherung ein. Ohne die könnte ein kleiner Fehler schnell das finanzielle Aus für die Firma bedeuten. Jeder Betrieb sollte so etwas haben, das ist meine Meinung."
+        },
+        {
+            "id": "e",
+            "author": "Laura",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das Thema Arbeitnehmerhaftung ist komplex. Bei leichter Fahrlässigkeit haftet der Arbeitnehmer in der Regel gar nicht. Bei mittlerer Fahrlässigkeit (was bei einem Missgeschick oft der Fall ist) wird der Schaden meist zwischen Arbeitgeber und Arbeitnehmer aufgeteilt. Nur bei grober Fahrlässigkeit oder Vorsatz musst du den Schaden voll tragen. Kläre den Grad des Verschuldens."
+        },
+        {
+            "id": "f",
+            "author": "Yasmin",
+            "timestamp": "vor 3 Stunden",
+            "content": "Pausen sollte man wirklich nutzen! Einfach mal kurz rausgehen, frische Luft schnappen oder mit Kollegen quatschen. Das hilft, den Kopf freizubekommen. Ich finde, wer keine Pausen macht, arbeitet auf Dauer schlechter und ist unkonzentriert. Das sehen zum Glück auch die meisten Chefs heute so und fördern kurze Auszeiten."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "e",
+        "3": "a",
+        "4": "x"
+    }
+}

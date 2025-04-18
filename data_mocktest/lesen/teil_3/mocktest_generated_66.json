@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Johanna",
-            "situation": "Mein Arbeitgeber hatte meinen dreiwöchigen Sommerurlaub bereits im Januar schriftlich genehmigt. Jetzt, kurz vorher, meint er, er müsse den Urlaub wegen eines unerwarteten Großauftrags streichen. Ich habe aber schon Flüge gebucht! Darf er das einfach so machen oder muss er mir zumindest die Kosten für die Flüge erstatten? Ich bin wirklich verzweifelt."
-        },
-        {
-            "id": 2,
-            "name": "Ben",
-            "situation": "Mir ist bei der Arbeit versehentlich der Dienstrechner heruntergefallen. Er funktioniert zwar noch, aber das Display hat jetzt einen Sprung. Mein Chef ist sauer und deutet an, dass ich für die Reparatur aufkommen muss. Muss ich das wirklich bezahlen? Ich bin doch versichert und es war keine Absicht, nur ein dummes Missgeschick bei mittlerer Unachtsamkeit."
-        },
-        {
-            "id": 3,
             "name": "Sofia",
             "situation": "Ich arbeite oft mehr als neun Stunden am Tag, manchmal sogar über zehn. Bisher mache ich nur eine kurze Mittagspause von 30 Minuten. Eine Kollegin meinte, das sei zu wenig und nicht gesetzeskonform bei meiner Arbeitszeit. Stimmt das? Wie viel Pause steht mir gesetzlich zu, wenn ich regelmäßig über 9 Stunden arbeite?"
         },
         {
-            "id": 4,
+            "id": 2,
+            "name": "Johanna",
+            "situation": "Mein Arbeitgeber hatte meinen dreiwöchigen Sommerurlaub bereits im Januar schriftlich genehmigt. Jetzt, kurz vorher, meint er, er müsse den Urlaub wegen eines unerwarteten Großauftrags streichen. Ich habe aber schon Flüge gebucht! Darf er das einfach so machen oder muss er mir zumindest die Kosten für die Flüge erstatten? Ich bin wirklich verzweifelt."
+        },
+        {
+            "id": 3,
             "name": "Cem",
             "situation": "Ich bin seit vier Monaten in der Probezeit. Vor zwei Wochen hatte ich ein Gespräch mit meinem Chef, in dem er meine Arbeit sehr gelobt und mündlich zugesagt hat, mich nach der Probezeit auf jeden Fall fest zu übernehmen. Gestern ist mir aber ein kleinerer Fehler unterlaufen. Jetzt habe ich Angst, dass er mich doch noch vor Ende der Probezeit kündigt. Ist diese mündliche Zusage für die Zeit *nach* der Probezeit irgendwie bindend, falls er mich *jetzt* entlassen will?"
+        },
+        {
+            "id": 4,
+            "name": "Ben",
+            "situation": "Mir ist bei der Arbeit versehentlich der Dienstrechner heruntergefallen. Er funktioniert zwar noch, aber das Display hat jetzt einen Sprung. Mein Chef ist sauer und deutet an, dass ich für die Reparatur aufkommen muss. Muss ich das wirklich bezahlen? Ich bin doch versichert und es war keine Absicht, nur ein dummes Missgeschick bei mittlerer Unachtsamkeit."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "e",
-        "3": "a",
-        "4": "x"
+        "2": "c",
+        "4": "e",
+        "1": "a",
+        "3": "x"
     }
 }

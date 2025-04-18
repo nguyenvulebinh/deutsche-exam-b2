@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
+            "name": "Jonas",
+            "situation": "Ich bin verwirrt. Meine Probezeit sollte eigentlich nach sechs Monaten enden. Kurz davor hat mein Chef sie aber mündlich um weitere drei Monate verlängert, weil ich wegen einer Operation länger krank war. Er meinte, die Krankheitszeit zählt nicht zur Probezeit dazu. Stimmt das mit der Verlängerung und der Krankheitszeit? Ich finde dazu nirgends eine klare Antwort."
+        },
+        {
+            "id": 2,
             "name": "Lena",
             "situation": "Ich bin total verunsichert. Ich habe vor drei Monaten in einer neuen Firma angefangen und bin noch in der Probezeit. Gestern wurde mir ohne Angabe von Gründen gekündigt, obwohl mein Vorgesetzter letzte Woche noch meine gute Arbeit gelobt hat. Ist das überhaupt erlaubt? Ich dachte, man braucht immer einen Grund für eine Kündigung."
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Marko",
             "situation": "Hilfe! Ich bin seit zwei Monaten in meiner Probezeit und habe mich leider letzte Woche erkältet. Ich habe mich ordnungsgemäß krankgemeldet und eine Arbeitsunfähigkeitsbescheinigung eingereicht. Jetzt habe ich aber panische Angst, dass mein Arbeitgeber mich deswegen kündigt. Kann man während der Probezeit einfach wegen Krankheit entlassen werden?"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Fatima",
             "situation": "Ich habe vor Kurzem eine Stelle als Kellnerin angefangen. Der Chef hat mir im Gespräch alles mündlich zugesagt, auch das Gehalt und die Arbeitszeiten. Einen schriftlichen Vertrag habe ich nie bekommen. Er meinte, die ersten sechs Monate seien Probezeit. Gilt das auch ohne schriftlichen Vertrag? Ich bin mir unsicher über meine Rechte."
-        },
-        {
-            "id": 4,
-            "name": "Jonas",
-            "situation": "Ich bin verwirrt. Meine Probezeit sollte eigentlich nach sechs Monaten enden. Kurz davor hat mein Chef sie aber mündlich um weitere drei Monate verlängert, weil ich wegen einer Operation länger krank war. Er meinte, die Krankheitszeit zählt nicht zur Probezeit dazu. Stimmt das mit der Verlängerung und der Krankheitszeit? Ich finde dazu nirgends eine klare Antwort."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "d",
-        "3": "f",
-        "4": "x"
+        "2": "a",
+        "3": "d",
+        "4": "f",
+        "1": "x"
     }
 }

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen und Probleme",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Ich bin total verunsichert. Ich arbeite seit fünf Monaten in meiner neuen Firma, die Probezeit dauert sechs Monate. Letzten Monat gab es noch ein positives Feedbackgespräch. Heute wurde mir aber überraschend mitgeteilt, dass mein Arbeitsverhältnis zum Ende der zweiwöchigen Frist gekündigt wird. Einen Grund nannte man nicht. Ist das überhaupt rechtens, obwohl ich vorher gelobt wurde? Kann ich etwas dagegen tun?"
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich hatte für Anfang August zwei Wochen Urlaub genehmigt bekommen. Leider bin ich in der zweiten Urlaubswoche für vier Tage krank geworden und habe meinem Arbeitgeber auch sofort eine ärztliche Krankschreibung vorgelegt. Nun behauptet meine Firma, diese vier Tage würden trotzdem als Urlaubstage zählen. Stimmt das? Verliere ich diese Urlaubstage jetzt?"
+        },
+        {
+            "id": 3,
+            "name": "Sandra",
+            "situation": "Ich arbeite auf dem Bau. Das Tragen von Helm, Warnweste und Sicherheitsschuhen der Klasse S3 ist bei uns gesetzlich vorgeschrieben und Pflicht. Helm und Weste stellt die Firma, aber die speziellen Sicherheitsschuhe soll ich selbst kaufen, die sind aber ziemlich teuer. Muss der Arbeitgeber nicht für vorgeschriebene Schutzausrüstung aufkommen?"
+        },
+        {
+            "id": 4,
+            "name": "Benno",
+            "situation": "Mein Teamleiter hat mir mündlich zugesagt, dass ich einen Bonus von 500 Euro bekomme, wenn ich ein schwieriges Projekt termingerecht abschließe. Das habe ich geschafft. Jetzt kann sich der Teamleiter aber angeblich nicht mehr genau an diese Zusage erinnern und der Bonus wurde nicht ausgezahlt. Ist so eine mündliche Zusage für einen Bonus überhaupt bindend und was kann ich jetzt machen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Petra",
+            "timestamp": "vor 45 Minuten",
+            "content": "Wenn es sich um notwendige Persönliche Schutzausrüstung (PSA) handelt, die aufgrund gesetzlicher Vorschriften oder einer Gefährdungsbeurteilung zum Schutz Ihrer Gesundheit erforderlich ist – wie z.B. spezielle Sicherheitsschuhe oder Helme – dann muss der Arbeitgeber diese gemäß Arbeitsschutzgesetz (§ 3 ArbSchG) grundsätzlich kostenlos zur Verfügung stellen."
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Nach Ablauf der Probezeit greift in der Regel das Kündigungsschutzgesetz (KSchG), sofern der Betrieb groß genug ist. Dann braucht der Arbeitgeber einen triftigen Grund für eine Kündigung (z.B. betriebsbedingt, verhaltensbedingt) und es gelten längere Kündigungsfristen, die sich nach der Dauer der Betriebszugehörigkeit richten."
+        },
+        {
+            "id": "c",
+            "author": "Sabine",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ohje, im Urlaub krank werden ist wirklich ärgerlich! Mir ist das letztes Jahr auch passiert, da musste ich meine ganze Reise umplanen. Das Wichtigste ist, dass du dich gut auskurierst. Melde dich auf jeden Fall immer sofort krank, das ist generell wichtig im Job."
+        },
+        {
+            "id": "d",
+            "author": "Leon",
+            "timestamp": "vor 1 Stunde",
+            "content": "Ja, das ist leider rechtens. Während der vereinbarten Probezeit (maximal 6 Monate) können sowohl Arbeitgeber als auch Arbeitnehmer das Arbeitsverhältnis grundlos mit einer Frist von zwei Wochen kündigen (§ 622 Abs. 3 BGB). Vorheriges Lob ändert daran nichts, der Kündigungsschutz greift meist erst danach."
+        },
+        {
+            "id": "e",
+            "author": "Nadja",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei vorgeschriebener Dienstkleidung, die ein einheitliches Erscheinungsbild gewährleisten soll (z.B. Hemden mit Firmenlogo, Anzüge), kann es vorkommen, dass die Kosten vom Arbeitnehmer getragen werden müssen, besonders wenn die Kleidung theoretisch auch privat nutzbar wäre. Die Rechtsprechung ist da aber nicht immer ganz einheitlich."
+        },
+        {
+            "id": "f",
+            "author": "Mehmet",
+            "timestamp": "vor 8 Stunden",
+            "content": "Nein, das stimmt nicht. Wenn du während deines Urlaubs krank wirst und dies durch ein ärztliches Attest nachweist, werden diese Krankheitstage nicht auf deinen Jahresurlaub angerechnet (§ 9 BUrlG). Du behältst den Anspruch auf diese Urlaubstage und kannst sie später nachholen, natürlich in Absprache mit dem Arbeitgeber."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

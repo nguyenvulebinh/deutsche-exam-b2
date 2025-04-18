@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Markus",
-            "situation": "Ich bin seit knapp vier Monaten als IT-Spezialist in einer neuen Firma angestellt und befinde mich noch in der sechsmonatigen Probezeit. Bisher lief alles gut, dachte ich zumindest. Gestern erhielt ich jedoch überraschend meine Kündigung zum Ende des Monats, ohne Angabe von Gründen. Ist das überhaupt erlaubt, so kurzfristig und ohne Begründung während der Probezeit zu kündigen? Welche Rechte habe ich?"
+            "name": "Fatima",
+            "situation": "Ich arbeite Teilzeit (25 Std./Woche) als Sachbearbeiterin in der Buchhaltung. Laut Vertrag bin ich für Rechnungsprüfung und vorbereitende Buchhaltung zuständig. In letzter Zeit soll ich aber immer öfter Aufgaben aus dem Controlling übernehmen, für die ich nicht eingestellt wurde und die mehr Zeit kosten, ohne dass meine Stunden oder mein Gehalt angepasst werden. Muss ich diese zusätzlichen Aufgaben einfach machen, obwohl sie nicht in meinem Vertrag stehen? Sie fallen zwar innerhalb meiner 25 Stunden an, aber es ist nicht meine eigentliche Arbeit."
         },
         {
             "id": 2,
@@ -13,13 +13,13 @@
         },
         {
             "id": 3,
-            "name": "Can",
-            "situation": "Bei meinem Einstellungsgespräch hat mir mein jetziger Abteilungsleiter mündlich fest zugesagt, dass ich nach der Probezeit für ein wichtiges internationales Projekt verantwortlich sein werde. Davon steht aber nichts im Arbeitsvertrag. Jetzt sagt er, er könne sich nicht mehr daran erinnern und hat das Projekt jemand anderem gegeben. Zählt eine solche mündliche Zusage denn gar nicht?"
+            "name": "Markus",
+            "situation": "Ich bin seit knapp vier Monaten als IT-Spezialist in einer neuen Firma angestellt und befinde mich noch in der sechsmonatigen Probezeit. Bisher lief alles gut, dachte ich zumindest. Gestern erhielt ich jedoch überraschend meine Kündigung zum Ende des Monats, ohne Angabe von Gründen. Ist das überhaupt erlaubt, so kurzfristig und ohne Begründung während der Probezeit zu kündigen? Welche Rechte habe ich?"
         },
         {
             "id": 4,
-            "name": "Fatima",
-            "situation": "Ich arbeite Teilzeit (25 Std./Woche) als Sachbearbeiterin in der Buchhaltung. Laut Vertrag bin ich für Rechnungsprüfung und vorbereitende Buchhaltung zuständig. In letzter Zeit soll ich aber immer öfter Aufgaben aus dem Controlling übernehmen, für die ich nicht eingestellt wurde und die mehr Zeit kosten, ohne dass meine Stunden oder mein Gehalt angepasst werden. Muss ich diese zusätzlichen Aufgaben einfach machen, obwohl sie nicht in meinem Vertrag stehen? Sie fallen zwar innerhalb meiner 25 Stunden an, aber es ist nicht meine eigentliche Arbeit."
+            "name": "Can",
+            "situation": "Bei meinem Einstellungsgespräch hat mir mein jetziger Abteilungsleiter mündlich fest zugesagt, dass ich nach der Probezeit für ein wichtiges internationales Projekt verantwortlich sein werde. Davon steht aber nichts im Arbeitsvertrag. Jetzt sagt er, er könne sich nicht mehr daran erinnern und hat das Projekt jemand anderem gegeben. Zählt eine solche mündliche Zusage denn gar nicht?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "d",
+        "3": "d",
         "2": "f",
-        "3": "a",
-        "4": "x"
+        "4": "a",
+        "1": "x"
     }
 }

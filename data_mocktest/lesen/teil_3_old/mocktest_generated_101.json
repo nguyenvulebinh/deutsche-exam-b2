@@ -1,0 +1,69 @@
+{
+    "thema": "Probleme am Arbeitsplatz",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich arbeite Vollzeit in einem Marketingbüro. Ich muss regelmäßig Überstunden machen, oft 5-6 Stunden pro Woche, um Deadlines einzuhalten. In meinem Arbeitsvertrag steht nichts Konkretes zur Vergütung von Überstunden. Ich bekomme sie bisher weder bezahlt noch kann ich diese durch Freizeit ausgleichen. Ich möchte wissen, ob ich einen Anspruch darauf habe und wie ich vorgehen sollte."
+        },
+        {
+            "id": 2,
+            "name": "Jonas",
+            "situation": "Ich arbeite seit einem Jahr im Vertrieb. Einer meiner Kollegen kritisiert mich ständig vor anderen, macht meine Arbeit schlecht und schließt mich von Team-Informationen aus. Ich fühle mich gemobbt und bin deswegen oft gestresst. Ich traue mich nicht, den Kollegen direkt anzusprechen oder zum Chef zu gehen. Was kann ich tun, um die Situation zu verbessern?"
+        },
+        {
+            "id": 3,
+            "name": "Sarah",
+            "situation": "Mir wurde nach vier Monaten in meiner Probezeit überraschend gekündigt. Mein Chef nannte keinen Grund und sagte nur, dass es 'nicht passt'. Ich dachte, ich hätte gute Arbeit geleistet und verstehe nicht, warum die Kündigungsfrist nur zwei Wochen beträgt und keine Begründung nötig ist. Ist das rechtens?"
+        },
+        {
+            "id": 4,
+            "name": "Omar",
+            "situation": "Ich arbeite seit zwei Jahren im Homeoffice. Die Firma hat mir einen Laptop gestellt, aber der ist sehr alt und langsam, was meine Arbeit behindert. Ich habe um einen neuen gebeten, aber die IT-Abteilung meinte, dafür sei kein Budget da. Ist der Arbeitgeber nicht verpflichtet, mir funktionsfähige Arbeitsmittel zur Verfügung zu stellen, auch im Homeoffice? Ich habe Sorge, dass die schlechte Technik meine Leistung negativ beeinflusst."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Markus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Grundsätzlich müssen Überstunden vom Arbeitgeber angeordnet oder zumindest geduldet sein. Wenn ja, besteht Anspruch auf Ausgleich – entweder als Freizeitausgleich oder Bezahlung, falls vertraglich oder tariflich so geregelt. Prüfe deinen Arbeitsvertrag genau! Wenn dort nichts steht, ist Freizeitausgleich die Regel. Sprich am besten HR oder den Betriebsrat an."
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Achtung bei der Arbeitszeit! Das Arbeitszeitgesetz schreibt vor, dass die tägliche Höchstarbeitszeit von 8 Stunden (maximal 10 bei Ausgleich) nicht überschritten werden darf. Auch Pausenzeiten sind klar geregelt. Wer dagegen verstößt, riskiert Bußgelder. Euer Chef muss das im Blick haben."
+        },
+        {
+            "id": "c",
+            "author": "Fatima",
+            "timestamp": "vor 5 Stunden",
+            "content": "Das klingt nach Mobbing. Wichtig ist, alles genau zu dokumentieren: Was ist wann passiert? Wer war dabei? Such dir Unterstützung, z.B. beim Betriebsrat, einer Vertrauensperson oder der Personalabteilung. Der Arbeitgeber hat eine Fürsorgepflicht und muss bei Mobbing einschreiten. Ignorieren verschlimmert es meistens."
+        },
+        {
+            "id": "d",
+            "author": "Anna",
+            "timestamp": "vor 1 Stunde",
+            "content": "Schwierige Kollegen gibt es leider überall. Ich hatte auch mal so einen Fall, das hat mich total fertiggemacht. Manchmal hilft nur, sich einen neuen Job zu suchen, wenn die Atmosphäre dauerhaft schlecht ist. Man muss ja auch an die eigene Gesundheit denken. Alles Gute dir!"
+        },
+        {
+            "id": "e",
+            "author": "David",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ja, das ist während der Probezeit (maximal 6 Monate) leider normal. Der Arbeitgeber kann ohne Angabe von Gründen mit einer Frist von nur zwei Wochen kündigen. Der allgemeine Kündigungsschutz greift in dieser Phase meist noch nicht. Nur wenn die Kündigung diskriminierend wäre (z.B. wegen Schwangerschaft), wäre sie unwirksam."
+        },
+        {
+            "id": "f",
+            "author": "Stefan",
+            "timestamp": "vor 8 Stunden",
+            "content": "Eine Kündigung nach langer Betriebszugehörigkeit ist nicht so einfach. Außerhalb der Probezeit braucht der Arbeitgeber einen triftigen Grund (betriebsbedingt, personenbedingt, verhaltensbedingt) und muss längere gesetzliche oder vertragliche Kündigungsfristen einhalten. Dagegen kann man sich oft erfolgreich wehren!"
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "c",
+        "3": "e",
+        "4": "x"
+    }
+}

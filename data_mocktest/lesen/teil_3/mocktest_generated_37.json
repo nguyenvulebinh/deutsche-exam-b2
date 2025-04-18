@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Elena",
-            "situation": "Ich hatte für nächste Woche Urlaub genehmigt bekommen. Nun bin ich leider krank geworden, noch bevor der Urlaub angefangen hat, und habe eine Krankschreibung vom Arzt für die ersten drei geplanten Urlaubstage. Verfallen diese Urlaubstage jetzt oder kann ich sie später nachholen? Ich bin unsicher, wie das rechtlich geregelt ist."
+            "name": "David",
+            "situation": "Mein Vorgesetzter hat mir vor ein paar Wochen mündlich zugesagt, dass ich ab nächsten Monat zwei Tage pro Woche im Homeoffice arbeiten darf. Im meinem schriftlichen Arbeitsvertrag steht dazu aber nichts. Jetzt wirkt er zögerlich. Ist so eine mündliche Zusage überhaupt rechtlich bindend oder gilt immer nur das, was schriftlich vereinbart wurde?"
         },
         {
             "id": 2,
-            "name": "Markus",
-            "situation": "In meiner Firma kommt es oft vor, dass ich ein bis zwei Stunden länger arbeiten muss als vertraglich vereinbart. Eine Regelung zur Bezahlung von Überstunden steht nicht explizit in meinem Arbeitsvertrag. Muss mein Arbeitgeber diese zusätzlichen Stunden bezahlen oder kann ich zumindest Freizeitausgleich verlangen?"
+            "name": "Elena",
+            "situation": "Ich hatte für nächste Woche Urlaub genehmigt bekommen. Nun bin ich leider krank geworden, noch bevor der Urlaub angefangen hat, und habe eine Krankschreibung vom Arzt für die ersten drei geplanten Urlaubstage. Verfallen diese Urlaubstage jetzt oder kann ich sie später nachholen? Ich bin unsicher, wie das rechtlich geregelt ist."
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "David",
-            "situation": "Mein Vorgesetzter hat mir vor ein paar Wochen mündlich zugesagt, dass ich ab nächsten Monat zwei Tage pro Woche im Homeoffice arbeiten darf. Im meinem schriftlichen Arbeitsvertrag steht dazu aber nichts. Jetzt wirkt er zögerlich. Ist so eine mündliche Zusage überhaupt rechtlich bindend oder gilt immer nur das, was schriftlich vereinbart wurde?"
+            "name": "Markus",
+            "situation": "In meiner Firma kommt es oft vor, dass ich ein bis zwei Stunden länger arbeiten muss als vertraglich vereinbart. Eine Regelung zur Bezahlung von Überstunden steht nicht explizit in meinem Arbeitsvertrag. Muss mein Arbeitgeber diese zusätzlichen Stunden bezahlen oder kann ich zumindest Freizeitausgleich verlangen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
+        "2": "a",
+        "4": "b",
         "3": "c",
-        "4": "x"
+        "1": "x"
     }
 }

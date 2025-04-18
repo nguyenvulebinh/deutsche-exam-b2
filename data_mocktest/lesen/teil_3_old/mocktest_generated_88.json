@@ -1,0 +1,69 @@
+{
+    "thema": "Konflikte am Arbeitsplatz",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lukas",
+            "situation": "Ich arbeite seit einem Jahr in einem IT-Unternehmen. Ein Kollege macht mir systematisch das Leben schwer, verbreitet Gerüchte über mich und kritisiert meine Arbeit ständig vor anderen Teammitgliedern. Ich fühle mich zunehmend isoliert und meine Motivation sinkt. Ich weiß nicht, wie ich reagieren soll. Sollte ich direkt den Vorgesetzten informieren oder gibt es andere Schritte, die ich zuerst unternehmen kann, um mich zu wehren?"
+        },
+        {
+            "id": 2,
+            "name": "Sandra",
+            "situation": "In meinem Job fallen regelmäßig Überstunden an, oft auch kurzfristig am Wochenende. Mein Chef hat mir mündlich zugesagt, dass ich diese angesammelten Stunden definitiv durch Freizeitausgleich abbauen kann. Wenn ich ihn aber darauf anspreche, schiebt er es immer wieder auf und meint, es sei gerade zu viel zu tun. Habe ich einen rechtlichen Anspruch darauf, diesen Ausgleich zu bekommen, auch wenn wir nichts Schriftliches vereinbart haben?"
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "situation": "Mein neuer Abteilungsleiter hat kürzlich die private Handynutzung während der gesamten Arbeitszeit strikt verboten, auch keine kurzen Checks. Ich verstehe ja, dass man nicht ständig privat surfen soll, aber ich muss erreichbar sein, falls mit meinem kleinen Sohn in der Kita etwas Dringendes ist. Ist ein solch absolutes Verbot ohne jede Ausnahme für Notfälle überhaupt zulässig oder ist das übertrieben?"
+        },
+        {
+            "id": 4,
+            "name": "Anja",
+            "situation": "Ich bin erst seit Kurzem im Lager beschäftigt. Mein Vorgesetzter erwartet nun von mir, dass ich ab nächster Woche auch den Gabelstapler bediene, um beim Be- und Entladen zu helfen. Ich habe aber bisher weder eine offizielle Einweisung bekommen noch besitze ich den erforderlichen Staplerschein. Er meint, das sei nicht so kompliziert. Ich fühle mich damit aber sehr unsicher und habe Angst, einen Unfall zu verursachen. Darf ich diese Aufgabe ablehnen, ohne deswegen Probleme zu bekommen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ein generelles Handyverbot am Arbeitsplatz ist oft unverhältnismäßig, besonders wenn es um die Erreichbarkeit in echten Notfällen geht. Der Arbeitgeber darf die Nutzung zwar einschränken, z.B. auf Pausen, aber ein absolutes Verbot greift stark in die Privatsphäre ein. Prüfe mal, ob es dazu eine Betriebsvereinbarung gibt oder sprich den Betriebsrat darauf an."
+        },
+        {
+            "id": "b",
+            "author": "Maria",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ein gutes Arbeitsklima ist extrem wichtig für die Zufriedenheit. Wenn es Konflikte mit Kollegen gibt, leidet oft die ganze Abteilung. Ich finde, man sollte immer versuchen, Probleme offen und respektvoll anzusprechen. Oft lassen sich Missverständnisse in einem direkten Gespräch klären, bevor die Situation eskaliert."
+        },
+        {
+            "id": "c",
+            "author": "Stefan",
+            "timestamp": "vor 5 Stunden",
+            "content": "Überstunden sind ein leidiges Thema. Grundsätzlich gilt aber das Arbeitszeitgesetz. Die tägliche Höchstarbeitszeit darf im Schnitt nicht überschritten werden, auch wenn mal mehr anfällt. Ich persönlich versuche, Überstunden möglichst zu vermeiden, denn die Work-Life-Balance ist mir wichtiger als ein paar Euro mehr."
+        },
+        {
+            "id": "d",
+            "author": "Fatima",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das klingt nach Mobbing, und das musst du nicht hinnehmen! Wichtig ist: Dokumentiere alles ganz genau (Was ist wann passiert? Wer war Zeuge?). Suche eventuell erst das sachliche Gespräch mit dem Kollegen. Wenn das nichts bringt, wende dich unbedingt an deinen Vorgesetzten oder den Betriebsrat. Hol dir Unterstützung!"
+        },
+        {
+            "id": "e",
+            "author": "Aisha",
+            "timestamp": "vor 3 Stunden",
+            "content": "Bei Diensthandys gelten oft strenge Regeln. Die private Nutzung ist häufig komplett untersagt oder stark eingeschränkt. Das hat auch mit IT-Sicherheit und Datenschutz zu tun. Wenn du unsicher bist, was erlaubt ist, kläre das am besten direkt mit deinem Vorgesetzten oder der IT-Abteilung, um Ärger zu vermeiden."
+        },
+        {
+            "id": "f",
+            "author": "Jonas",
+            "timestamp": "vor 30 Minuten",
+            "content": "Angeordnete Überstunden müssen in der Regel entweder bezahlt oder durch Freizeit ausgeglichen werden. Schau unbedingt in deinen Arbeitsvertrag oder eine eventuell vorhandene Betriebsvereinbarung. Mündliche Zusagen sind rechtlich schwierig durchzusetzen. Sprich den Chef nochmal konkret auf eine verbindliche Regelung an, notfalls mithilfe des Betriebsrats."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

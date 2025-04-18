@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Berufsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Daniel",
+            "situation": "Ich arbeite bei einer Spedition im Büro. Eine meiner Kolleginnen hat fast die gleichen Aufgaben wie ich. Nun habe ich erfahren, dass sie deutlich mehr verdient. Das ist doch unfair! Habe ich nicht Anspruch auf die gleiche Bezahlung, wenn die Arbeit quasi identisch ist? Mich interessieren die allgemeinen Gründe für solche Unterschiede."
+        },
+        {
+            "id": 2,
+            "name": "Kamila",
+            "situation": "Ich arbeite normalerweise sehr sorgfältig, aber vorgestern ist mir unter Zeitdruck ein dummer Fehler passiert, durch den meinem Arbeitgeber zusätzliche Kosten entstanden sind (etwa 500 Euro). Es war keine Absicht. Jetzt habe ich Angst, dass ich das Geld vom Lohn abgezogen bekomme. Dürfen die das einfach so machen?"
+        },
+        {
+            "id": 3,
+            "name": "Marlene",
+            "situation": "In dem letzten Personalgespräch hat mir mein Chef fest mündlich versprochen, dass ich im neuen Jahr eine Gehaltserhöhung bekommen würde. Nun haben wir Januar und er tut so, als wüsste er von nichts. Es gibt leider nichts Schriftliches darüber. Was kann ich in dieser Situation tun?"
+        },
+        {
+            "id": 4,
+            "name": "Ümit",
+            "situation": "Letzte Woche bin ich drei Tage nicht zur Arbeit gegangen, weil mein siebenjähriger Sohn Fieber hatte. Ich bin alleinerziehend und hatte kurzfristig niemanden, der sich um mein Kind kümmern konnte. Wird mir jetzt für diese Fehltage das Gehalt gekürzt? Wie ist da die Regelung?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sekou",
+            "timestamp": "vor 11 Minuten",
+            "content": "Wenn das nur eine mündliche Zusage war und Sie nichts Schriftliches in der Hand haben (z. B. ein Protokoll vom Gespräch), ist das rechtlich schwer durchzusetzen. Chefs 'vergessen' sowas leider manchmal. Mein Tipp: Überzeugen Sie weiterhin mit guten Leistungen und sprechen Sie Ihren Chef zu einem späteren Zeitpunkt noch mal darauf an."
+        },
+        {
+            "id": "b",
+            "author": "Natalia",
+            "timestamp": "vor 30 Minuten",
+            "content": "Ich finde es auch total ungerecht, dass Frauen in vielen Berufen immer noch weniger verdienen als Männer, obwohl sie das Gleiche leisten. Wir reden ja hier nicht von ein paar Euro, sondern oft von erheblichen Unterschieden! Dieser 'Gender Pay Gap' ist für mich nicht nachvollziehbar. Gleicher Lohn für gleiche Arbeit sollte selbstverständlich sein!"
+        },
+        {
+            "id": "c",
+            "author": "Eduardo",
+            "timestamp": "vor 58 Minuten",
+            "content": "Die Höhe des Gehalts ist primär Verhandlungssache. Nur weil Aufgaben ähnlich sind, heißt das nicht automatisch gleicher Lohn. Oft gibt es sachliche Gründe für Unterschiede: längere Betriebszugehörigkeit, mehr Berufserfahrung, höhere Qualifikationen, vielleicht auch bessere Verhandlungstaktik beim Einstellungsgespräch. Das muss nicht ungerecht sein."
+        },
+        {
+            "id": "d",
+            "author": "André",
+            "timestamp": "vor 2 Stunden",
+            "content": "Lohnkürzungen sind immer ein Schock, aber sie sind unter bestimmten Bedingungen tatsächlich zulässig – insbesondere, wenn das Unternehmen in einer ernsten wirtschaftlichen Krise steckt und Kosten senken muss. Wichtig ist: Solche Kürzungen müssen meist betriebsbedingt sein und betreffen dann in der Regel viele oder alle Mitarbeiter, nicht nur Einzelne willkürlich."
+        },
+        {
+            "id": "e",
+            "author": "Yeliz",
+            "timestamp": "vor 3 Stunden",
+            "content": "Eltern haben nach der Geburt ihres Kindes das Recht auf eine berufliche Auszeit, die sogenannte 'Elternzeit'. Der Arbeitgeber zahlt in dieser Zeit zwar kein Gehalt, aber man bekommt staatliche Unterstützung durch das Elterngeld. Das ist eine wichtige soziale Leistung für junge Familien."
+        },
+        {
+            "id": "f",
+            "author": "Marie-Luise",
+            "timestamp": "vor 4 Stunden",
+            "content": "Machen Sie sich keine Sorgen. Wo gearbeitet wird, passieren Fehler. Solange es sich um leichte oder mittlere Fahrlässigkeit handelt und nicht um Absicht oder grobe Pflichtverletzung, haften Arbeitnehmer in der Regel nicht oder nur anteilig für Schäden. Eine direkte Lohnkürzung dafür ist arbeitsrechtlich sehr problematisch und meist unzulässig."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

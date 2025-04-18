@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Simon",
-            "situation": "Ich bin seit fast sechs Monaten in meiner Probezeit bei einer Marketingagentur. Gestern wurde mir ohne Angabe von konkreten Gründen gekündigt, obwohl meine Leistung bisher immer gelobt wurde. Die Kündigungsfrist beträgt nur zwei Wochen. Ist das überhaupt rechtens, so kurz vor Ende der Probezeit und ohne Begründung? Was kann ich tun?"
+            "name": "Laura",
+            "situation": "Bei meinem Vorstellungsgespräch wurde mir mündlich eine baldige Beförderung zu einer Teamleiterposition mit mehr Verantwortung und Gehalt versprochen, sobald ich eingearbeitet bin. Im schriftlichen Arbeitsvertrag steht davon aber nichts, nur meine aktuelle Position als Sachbearbeiterin. Jetzt bin ich sechs Monate hier, aber mein Chef will von dem Versprechen nichts mehr wissen. Ist so eine mündliche Zusage bindend oder gilt nur der Vertrag?"
         },
         {
             "id": 2,
-            "name": "Anja",
-            "situation": "Ich arbeite Teilzeit in einem Café. Wir müssen alle spezielle T-Shirts und Schürzen mit dem Firmenlogo tragen. Mein Chef sagt, wir müssen diese selbst kaufen, da es ja keine spezielle Schutzkleidung sei. Aber das ist doch eine Uniform, die klar der Firma zugeordnet ist. Muss ich die Kosten wirklich selbst tragen?"
-        },
-        {
-            "id": 3,
             "name": "Cem",
             "situation": "Ich hatte zwei Wochen Urlaub geplant und genehmigt bekommen. Leider bin ich direkt am zweiten Urlaubstag krank geworden und war fünf Tage lang arbeitsunfähig, was ich auch mit einem ärztlichen Attest belegen kann. Mein Arbeitgeber meint, Pech gehabt, Urlaub sei Urlaub. Bekomme ich die fünf Krankheitstage nicht als Urlaubstage zurückerstattet?"
         },
         {
+            "id": 3,
+            "name": "Anja",
+            "situation": "Ich arbeite Teilzeit in einem Café. Wir müssen alle spezielle T-Shirts und Schürzen mit dem Firmenlogo tragen. Mein Chef sagt, wir müssen diese selbst kaufen, da es ja keine spezielle Schutzkleidung sei. Aber das ist doch eine Uniform, die klar der Firma zugeordnet ist. Muss ich die Kosten wirklich selbst tragen?"
+        },
+        {
             "id": 4,
-            "name": "Laura",
-            "situation": "Bei meinem Vorstellungsgespräch wurde mir mündlich eine baldige Beförderung zu einer Teamleiterposition mit mehr Verantwortung und Gehalt versprochen, sobald ich eingearbeitet bin. Im schriftlichen Arbeitsvertrag steht davon aber nichts, nur meine aktuelle Position als Sachbearbeiterin. Jetzt bin ich sechs Monate hier, aber mein Chef will von dem Versprechen nichts mehr wissen. Ist so eine mündliche Zusage bindend oder gilt nur der Vertrag?"
+            "name": "Simon",
+            "situation": "Ich bin seit fast sechs Monaten in meiner Probezeit bei einer Marketingagentur. Gestern wurde mir ohne Angabe von konkreten Gründen gekündigt, obwohl meine Leistung bisher immer gelobt wurde. Die Kündigungsfrist beträgt nur zwei Wochen. Ist das überhaupt rechtens, so kurz vor Ende der Probezeit und ohne Begründung? Was kann ich tun?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
-        "2": "d",
-        "3": "f",
-        "4": "x"
+        "4": "b",
+        "3": "d",
+        "2": "f",
+        "1": "x"
     }
 }

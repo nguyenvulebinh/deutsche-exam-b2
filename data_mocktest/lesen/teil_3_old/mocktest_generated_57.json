@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Martha",
+            "situation": "Ich bin seit drei Tagen stark erkältet, aber in der Firma ist gerade sehr viel los und wichtige Deadlines müssen eingehalten werden. Ich habe mich daher trotz Krankschreibung zur Arbeit geschleppt. Nun mache ich mir Sorgen, dass ich wegen meiner verminderten Konzentration Fehler mache, die dem Unternehmen schaden könnten. Muss ich überhaupt arbeiten, wenn ich krankgeschrieben bin, und was könnte passieren, wenn ich tatsächlich einen Fehler mache?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Hilfe! Mein Chef hat mir heute im Gespräch mitgeteilt, dass mein Arbeitsverhältnis nicht fortgesetzt wird. Ich bin noch in der Probezeit (5. Monat). Er meinte, das reicht so, ich bräuchte nichts Schriftliches. Ist eine mündliche Kündigung in der Probezeit wirklich gültig? Ich bin total verunsichert."
+        },
+        {
+            "id": 3,
+            "name": "Alina",
+            "situation": "Ich hatte zwei Wochen Urlaub geplant und genehmigt bekommen. Leider bin ich am dritten Urlaubstag krank geworden und war für 5 Tage krankgeschrieben (Attest liegt dem Arbeitgeber vor). Jetzt sehe ich auf meiner Lohnabrechnung, dass mir trotzdem die vollen zwei Wochen als Urlaub abgezogen wurden. Darf der Arbeitgeber die Krankheitstage einfach als Urlaub zählen?"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Ich habe einen Arbeitsvertrag mit festen 40 Stunden pro Woche. In letzter Zeit kommt es aber häufiger vor, dass mein Chef mich bittet, abends noch eine halbe oder ganze Stunde länger zu bleiben, um dringende Aufgaben fertigzustellen. Diese zusätzliche Zeit wird bei uns weder offiziell erfasst noch irgendwie vergütet oder durch Freizeit ausgeglichen. Kann ich es einfach ablehnen, länger zu arbeiten, oder habe ich trotzdem Anspruch auf irgendeine Form von Ausgleich, auch wenn es keine schriftliche Überstundenregelung gibt?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Sabine",
+            "timestamp": "vor 45 Minuten",
+            "content": "Grundsätzlich dürfen Sie trotz Krankschreibung arbeiten, wenn Sie sich dazu in der Lage fühlen – Ihr Chef kann Sie aber nicht dazu zwingen. Seien Sie vorsichtig: Wenn Sie wegen der Krankheit Fehler machen, kann das theoretisch arbeitsrechtliche Konsequenzen haben, auch wenn die Haftung oft begrenzt ist. Zudem riskieren Sie Ihre Gesundheit und die Ihrer Kollegen. Besser ist es, die Situation offen anzusprechen."
+        },
+        {
+            "id": "b",
+            "author": "Jonas K.",
+            "timestamp": "vor 2 Stunden",
+            "content": "Aufgepasst, eine Kündigung – egal ob in der Probezeit oder danach – muss zwingend schriftlich erfolgen und vom Arbeitgeber eigenhändig unterschrieben sein! Das ist gesetzlich in § 623 BGB festgelegt. Eine nur mündlich ausgesprochene Kündigung ist rechtlich unwirksam. Bestehen Sie unbedingt auf einer schriftlichen Kündigung, andernfalls läuft Ihr Arbeitsverhältnis weiter."
+        },
+        {
+            "id": "c",
+            "author": "Expertin Recht",
+            "timestamp": "vor 5 Stunden",
+            "content": "Nein, das ist nicht korrekt. Wenn Sie während Ihres Erholungsurlaubs arbeitsunfähig erkranken und dies durch ein ärztliches Attest nachweisen können, dürfen diese Krankheitstage nicht auf Ihren Jahresurlaub angerechnet werden. Das regelt § 9 Bundesurlaubsgesetz. Diese Tage müssen Ihnen wieder gutgeschrieben werden. Sprechen Sie die Personalabteilung oder Ihren Chef direkt darauf an."
+        },
+        {
+            "id": "d",
+            "author": "Peter M.",
+            "timestamp": "vor 1 Stunde",
+            "content": "Klar, in der Probezeit ist eine Kündigung für beide Seiten einfacher und die Fristen sind kurz. Oft reicht schon ein geringfügiger Anlass. Natürlich sollte es fair zugehen, aber der Arbeitgeber muss nicht ausführlich begründen, warum er sich gegen einen entscheidet. Wichtig ist, wie man sich präsentiert hat."
+        },
+        {
+            "id": "e",
+            "author": "GesundheitsCoach",
+            "timestamp": "vor 8 Stunden",
+            "content": "Wer länger krank war, für den ist der Wiedereinstieg oft schwer. Manchmal kann man über das 'Hamburger Modell' stufenweise wieder anfangen zu arbeiten. Das muss aber mit dem Arzt, der Krankenkasse und dem Arbeitgeber abgestimmt werden. Das schont und hilft, wieder in den Rhythmus zu kommen."
+        },
+        {
+            "id": "f",
+            "author": "Teamplayer",
+            "timestamp": "vor 30 Minuten",
+            "content": "Bei der Urlaubsplanung gibt es oft Diskussionen, wer wann darf. Wichtig ist, dass man sich frühzeitig abspricht und die Wünsche fair berücksichtigt werden. Ich versuche immer, rechtzeitig meinen Antrag einzureichen und mich mit den Kollegen abzustimmen, damit es keine Überschneidungen bei wichtigen Projekten gibt. Kommunikation ist da alles."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "thema": "Tipps für Arbeitnehmerinnen und Arbeitnehmer",
+    "people_seeking_info": [
+      {
+        "id": 1,
+        "name": "Ansgar",
+        "situation": "Ich arbeite seit Kurzem in leitender Position und muss jetzt das erste Mal einen Mitarbeiter entlassen. Der Angestellte ist älter als ich und arbeitet schon sehr lange in der Firma. Ich kenne natürlich die gesetzlichen Vorgaben und Fristen, weiß aber nicht, wie ich in dem Fall am besten vorgehen soll. Kann mir jemand einen Rat geben?"
+      },
+      {
+        "id": 2,
+        "name": "Will",
+        "situation": "Hallo liebe Forumsmitglieder! Ich stehe noch unter Schock. Soeben ist mir in der Probezeit gekündigt worden. Ich bin schon fünf Monate im Betrieb und noch letzte Woche hat man mich gelobt. Was mache ich jetzt?"
+      },
+      {
+        "id": 3,
+        "name": "Bahar",
+        "situation": "Weiß jemand Bescheid? Ich bin in der achten Woche schwanger und frage mich, wann ich das meinem Arbeitgeber mitteilen muss. Eigentlich wollte ich warten, bis ich im vierten Monat bin, aber jetzt habe ich gehört, dass das zu spät ist. Stimmt das? Ich möchte durch meine Schwangerschaft keine Nachteile in meinem Job!"
+      },
+      {
+        "id": 4,
+        "name": "Serena",
+        "situation": "Ich bin mit meiner Arbeit unzufrieden und langweile mich. Jetzt habe ich etwas Besseres in Aussicht und möchte kündigen. Meine Chefin war immer sehr bemüht, mich zu halten, und hat mir gerade den Lohn erhöht. Nun weiß ich nicht so richtig, wie ich das Kündigungsschreiben angemessen formulieren soll. Hat jemand einen Tipp für mich?"
+      }
+    ],
+    "posts": [
+      {
+        "id": "a",
+        "author": "Verena",
+        "timestamp": "vor einem Tag",
+        "content": "Ich habe auch gekündigt und war davor wie du in einem absoluten Gefühlschaos. Tue ich das Richtige? Was, wenn ich nach so langer Betriebszugehörigkeit keinen neuen Job finde? Ich war danach dann auch ziemlich lange arbeitslos, aber bereut habe ich es keine Sekunde."
+      },
+      {
+        "id": "b",
+        "author": "Alexej",
+        "timestamp": "vor vier Stunden",
+        "content": "Wer redet Ihnen denn so etwas ein? Wer ein Kind erwartet und zur Welt bringt, hat auch im Arbeitsleben Rechte! Selbstverständlich gilt für Sie das Mutterschutzgesetz und Sie können Ihren Job nicht verlieren. Hier können Sie nachfragen: info@bmfsfjservice.bund.de"
+      },
+      {
+        "id": "c",
+        "author": "Lale",
+        "timestamp": "vor neun Stunden",
+        "content": "Vorgesetzte sind auch nur Menschen und niemand kündigt gerne. Meine Empfehlung: Sie sind nicht verpflichtet, ein Trennungsgespräch zu führen, aber machen Sie es und erklären Sie die Gründe, bevor die schriftliche Kündigung rausgeht."
+      },
+      {
+        "id": "d",
+        "author": "Fritz",
+        "timestamp": "vor dreißig Minuten",
+        "content": "Wenn Sie Ihr Arbeitsverhältnis lösen möchten, dann müssen Sie das fristgerecht und schriftlich tun. Selbstverständlich brauchen Sie keine Gründe zu nennen. In Ihrem Fall können Sie ja zuerst mit Ihrer Vorgesetzen sprechen und erklären, dass Sie private Motive haben, dann ist niemand gekränkt."
+      },
+      {
+        "id": "e",
+        "author": "Bettina",
+        "timestamp": "vor 12 Stunden",
+        "content": "Nicht immer ist eine Kündigung rechtens! Besonders langjährige Arbeitnehmer genießen einen allgemeinen Kündigungsschutz. Und bestimmte Personengruppen, zum Beispiel Schwangere, haben erweiterten Schutz nach dem Sonderkündigungsgesetz."
+      },
+      {
+        "id": "f",
+        "author": "Tina",
+        "timestamp": "vor zwei Tagen",
+        "content": "Ich habe in meiner Firma schon früh Bescheid gesagt, dass wir Nachwuchs erwarten. Aber da ich Zwillinge bekomme, war es auch ziemlich schnell zu sehen. Der Gesetzgeber schreibt keine Fristen vor. Machen Sie es aber bald, damit man für Sie eine Vertretung suchen kann."
+      }
+    ],
+    "solutions": {
+      "1": "e",
+      "2": "x",
+      "3": "b",
+      "4": "d"
+    }
+}
+  

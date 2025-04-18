@@ -8,8 +8,8 @@
         },
         {
             "id": 2,
-            "name": "Daniel",
-            "situation": "Letztes Jahr hat mir mein Abteilungsleiter mündlich eine Gehaltserhöhung ab Januar zugesichert. Im Personalgespräch vor zwei Wochen konnte er sich aber angeblich nicht mehr daran erinnern und meinte, das sei nie vereinbart worden. Schriftlich habe ich leider nichts. Habe ich trotzdem eine Chance, die Erhöhung zu bekommen?"
+            "name": "Kevin",
+            "situation": "Letzte Woche war mein fünfjähriger Sohn krank und hatte Fieber. Da ich alleinerziehend bin und kurzfristig keine Betreuung organisieren konnte, musste ich drei Tage zu Hause bleiben und ihn pflegen. Ich habe den Arbeitgeber natürlich sofort informiert und eine Krankmeldung für das Kind eingereicht. Nun mache ich mir Sorgen: Wird mir für diese Fehltage das Gehalt gekürzt?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Kevin",
-            "situation": "Letzte Woche war mein fünfjähriger Sohn krank und hatte Fieber. Da ich alleinerziehend bin und kurzfristig keine Betreuung organisieren konnte, musste ich drei Tage zu Hause bleiben und ihn pflegen. Ich habe den Arbeitgeber natürlich sofort informiert und eine Krankmeldung für das Kind eingereicht. Nun mache ich mir Sorgen: Wird mir für diese Fehltage das Gehalt gekürzt?"
+            "name": "Daniel",
+            "situation": "Letztes Jahr hat mir mein Abteilungsleiter mündlich eine Gehaltserhöhung ab Januar zugesichert. Im Personalgespräch vor zwei Wochen konnte er sich aber angeblich nicht mehr daran erinnern und meinte, das sei nie vereinbart worden. Schriftlich habe ich leider nichts. Habe ich trotzdem eine Chance, die Erhöhung zu bekommen?"
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
+        "4": "b",
         "3": "d",
-        "4": "x"
+        "2": "x"
     }
 }

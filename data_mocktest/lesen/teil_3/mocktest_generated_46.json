@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jonas",
-            "situation": "Ich habe vor sieben Monaten in meiner Firma angefangen. Bei der Einstellung wurde mir mündlich zugesichert, dass ich nach sechs Monaten eine Gehaltserhöhung und mehr Verantwortung bekommen würde. Das ist jetzt einen Monat her, aber nichts ist passiert. Mein Chef meint, er könne sich an so eine Zusage nicht erinnern. Habe ich ohne schriftlichen Nachweis überhaupt eine Chance, das durchzusetzen?"
+            "name": "Lena",
+            "situation": "Ich hatte letzte Woche offiziell Urlaub genehmigt bekommen. Leider bin ich am zweiten Urlaubstag krank geworden und war für drei Tage krankgeschrieben, was ich auch sofort mit Attest gemeldet habe. Mein Arbeitgeber hat diese drei Tage trotzdem als Urlaubstage gewertet. Darf er das? Ich dachte, Krankheitstage im Urlaub zählen nicht als Urlaub."
         },
         {
             "id": 2,
-            "name": "Lena",
-            "situation": "Ich hatte letzte Woche offiziell Urlaub genehmigt bekommen. Leider bin ich am zweiten Urlaubstag krank geworden und war für drei Tage krankgeschrieben, was ich auch sofort mit Attest gemeldet habe. Mein Arbeitgeber hat diese drei Tage trotzdem als Urlaubstage gewertet. Darf er das? Ich dachte, Krankheitstage im Urlaub zählen nicht als Urlaub."
+            "name": "Jonas",
+            "situation": "Ich habe vor sieben Monaten in meiner Firma angefangen. Bei der Einstellung wurde mir mündlich zugesichert, dass ich nach sechs Monaten eine Gehaltserhöhung und mehr Verantwortung bekommen würde. Das ist jetzt einen Monat her, aber nichts ist passiert. Mein Chef meint, er könne sich an so eine Zusage nicht erinnern. Habe ich ohne schriftlichen Nachweis überhaupt eine Chance, das durchzusetzen?"
         },
         {
             "id": 3,
@@ -61,8 +61,8 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
+        "2": "a",
+        "1": "b",
         "3": "c",
         "4": "x"
     }

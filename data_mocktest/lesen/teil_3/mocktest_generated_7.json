@@ -3,8 +3,8 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Lena",
-            "situation": "Ich bin seit vier Monaten in meiner neuen Firma und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche wurde mir überraschend mitgeteilt, dass mein Arbeitsverhältnis in zwei Wochen endet. Ich dachte, ich mache meine Arbeit gut, es gab nie Kritik. Kann mir in der Probezeit einfach so gekündigt werden, ohne dass ein Grund genannt wird? Was sind meine Rechte?"
+            "name": "Fatima",
+            "situation": "Mein Chef hatte mir bei der Einstellung mündlich fest zugesagt, dass ich nach der bestandenen sechsmonatigen Probezeit auf jeden Fall einen unbefristeten Vertrag bekommen würde. Die Probezeit ist nun vorbei, ich habe gut gearbeitet, aber jetzt sagt er, er könne sich daran nicht erinnern und es gäbe doch keine Stelle. Ist so eine mündliche Zusage überhaupt etwas wert? Was kann ich tun?"
         },
         {
             "id": 2,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Fatima",
-            "situation": "Mein Chef hatte mir bei der Einstellung mündlich fest zugesagt, dass ich nach der bestandenen sechsmonatigen Probezeit auf jeden Fall einen unbefristeten Vertrag bekommen würde. Die Probezeit ist nun vorbei, ich habe gut gearbeitet, aber jetzt sagt er, er könne sich daran nicht erinnern und es gäbe doch keine Stelle. Ist so eine mündliche Zusage überhaupt etwas wert? Was kann ich tun?"
+            "name": "Lena",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Firma und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche wurde mir überraschend mitgeteilt, dass mein Arbeitsverhältnis in zwei Wochen endet. Ich dachte, ich mache meine Arbeit gut, es gab nie Kritik. Kann mir in der Probezeit einfach so gekündigt werden, ohne dass ein Grund genannt wird? Was sind meine Rechte?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
+        "4": "b",
         "2": "e",
         "3": "d",
-        "4": "x"
+        "1": "x"
     }
 }

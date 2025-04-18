@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Elena",
+            "situation": "Ich hatte für nächste Woche Urlaub genehmigt bekommen. Nun bin ich leider krank geworden, noch bevor der Urlaub angefangen hat, und habe eine Krankschreibung vom Arzt für die ersten drei geplanten Urlaubstage. Verfallen diese Urlaubstage jetzt oder kann ich sie später nachholen? Ich bin unsicher, wie das rechtlich geregelt ist."
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "In meiner Firma kommt es oft vor, dass ich ein bis zwei Stunden länger arbeiten muss als vertraglich vereinbart. Eine Regelung zur Bezahlung von Überstunden steht nicht explizit in meinem Arbeitsvertrag. Muss mein Arbeitgeber diese zusätzlichen Stunden bezahlen oder kann ich zumindest Freizeitausgleich verlangen?"
+        },
+        {
+            "id": 3,
+            "name": "Sofia",
+            "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit, kurz vor dem Bürogebäude, auf Glatteis ausgerutscht und habe mir das Handgelenk leicht verletzt. Zählt so ein Unfall auf dem Arbeitsweg eigentlich auch als Arbeitsunfall im Sinne der gesetzlichen Unfallversicherung? Ich bin mir da nicht sicher."
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Mein Vorgesetzter hat mir vor ein paar Wochen mündlich zugesagt, dass ich ab nächsten Monat zwei Tage pro Woche im Homeoffice arbeiten darf. Im meinem schriftlichen Arbeitsvertrag steht dazu aber nichts. Jetzt wirkt er zögerlich. Ist so eine mündliche Zusage überhaupt rechtlich bindend oder gilt immer nur das, was schriftlich vereinbart wurde?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Petra",
+            "timestamp": "vor 45 Minuten",
+            "content": "Keine Sorge, wenn die Arbeitsunfähigkeit schon *vor* Urlaubsantritt ärztlich attestiert wurde, werden diese Krankheitstage nicht auf den Jahresurlaub angerechnet. Dein Urlaubsanspruch für diese Tage bleibt bestehen. Du musst den Urlaub dann aber neu beantragen und mit dem Arbeitgeber abstimmen."
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Grundsätzlich gilt: Angeordnete Überstunden müssen vergütet werden, entweder finanziell oder durch Freizeit. Schau unbedingt in deinen Arbeitsvertrag oder einen eventuell geltenden Tarifvertrag – dort können Details geregelt sein. Wichtig ist auch, die geleisteten Überstunden genau zu dokumentieren!"
+        },
+        {
+            "id": "c",
+            "author": "Anja",
+            "timestamp": "vor 5 Stunden",
+            "content": "Ja, das ist ein klassischer Wegeunfall. Unfälle auf dem direkten Weg zur oder von der Arbeit sind durch die gesetzliche Unfallversicherung abgedeckt. Wichtig ist, dass du den Unfall deinem Arbeitgeber meldest und ggf. einen Durchgangsarzt aufsuchst, auch bei vermeintlich kleinen Verletzungen."
+        },
+        {
+            "id": "d",
+            "author": "Bernd",
+            "timestamp": "vor 1 Stunde",
+            "content": "Wenn man *während* des Urlaubs krank wird und ein Attest vorlegt, gehen die Urlaubstage zwar nicht verloren, aber der Urlaub verlängert sich nicht automatisch. Man muss die 'verlorenen' Tage dann später neu nehmen, nach Absprache natürlich. Das ist ärgerlich, aber so ist die Regelung."
+        },
+        {
+            "id": "e",
+            "author": "Sabine",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ach, Überstunden... In meiner Branche wird das oft erwartet, ohne dass es extra bezahlt wird. Viele Chefs sehen das als Teil des normalen Engagements. Rechtlich ist das sicher nicht immer korrekt, aber die Realität sieht oft anders aus. Ich mache sie halt, um keinen Ärger zu bekommen."
+        },
+        {
+            "id": "f",
+            "author": "Michael",
+            "timestamp": "vor 8 Stunden",
+            "content": "Bei Unfällen bei Betriebsausflügen oder auf Dienstreisen ist die Versicherungslage manchmal kompliziert. Es kommt darauf an, ob die Veranstaltung offiziellen Charakter hatte und im Interesse der Firma war. Reine Freizeitaktivitäten mit Kollegen sind meist nicht versichert."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

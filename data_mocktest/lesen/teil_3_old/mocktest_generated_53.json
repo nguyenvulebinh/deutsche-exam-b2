@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Markus",
+            "situation": "Ich bin seit knapp vier Monaten als IT-Spezialist in einer neuen Firma angestellt und befinde mich noch in der sechsmonatigen Probezeit. Bisher lief alles gut, dachte ich zumindest. Gestern erhielt ich jedoch überraschend meine Kündigung zum Ende des Monats, ohne Angabe von Gründen. Ist das überhaupt erlaubt, so kurzfristig und ohne Begründung während der Probezeit zu kündigen? Welche Rechte habe ich?"
+        },
+        {
+            "id": 2,
+            "name": "Elena",
+            "situation": "Ich arbeite Vollzeit im Einzelhandel, oft 8 bis manchmal sogar 9,5 Stunden am Tag. Mein Filialleiter erwartet aber, dass wir unsere Pausen sehr kurz halten oder manchmal sogar durcharbeiten, wenn viel los ist. Er meint, die bezahlte Arbeitszeit sei wichtiger. Gibt es nicht eine gesetzliche Regelung, wie lange Pausen sein müssen, wenn man über sechs bzw. neun Stunden arbeitet?"
+        },
+        {
+            "id": 3,
+            "name": "Can",
+            "situation": "Bei meinem Einstellungsgespräch hat mir mein jetziger Abteilungsleiter mündlich fest zugesagt, dass ich nach der Probezeit für ein wichtiges internationales Projekt verantwortlich sein werde. Davon steht aber nichts im Arbeitsvertrag. Jetzt sagt er, er könne sich nicht mehr daran erinnern und hat das Projekt jemand anderem gegeben. Zählt eine solche mündliche Zusage denn gar nicht?"
+        },
+        {
+            "id": 4,
+            "name": "Fatima",
+            "situation": "Ich arbeite Teilzeit (25 Std./Woche) als Sachbearbeiterin in der Buchhaltung. Laut Vertrag bin ich für Rechnungsprüfung und vorbereitende Buchhaltung zuständig. In letzter Zeit soll ich aber immer öfter Aufgaben aus dem Controlling übernehmen, für die ich nicht eingestellt wurde und die mehr Zeit kosten, ohne dass meine Stunden oder mein Gehalt angepasst werden. Muss ich diese zusätzlichen Aufgaben einfach machen, obwohl sie nicht in meinem Vertrag stehen? Sie fallen zwar innerhalb meiner 25 Stunden an, aber es ist nicht meine eigentliche Arbeit."
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Birgit",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Can, theoretisch sind auch mündliche Vereinbarungen bindend. Das große Problem ist aber die Beweisbarkeit. Wenn es keine Zeugen gibt oder nichts Schriftliches festgehalten wurde, ist es extrem schwer, diese Zusage im Nachhinein durchzusetzen. Für die Zukunft gilt: Wichtige Vereinbarungen immer schriftlich im Vertrag oder als Zusatzvereinbarung festhalten!"
+        },
+        {
+            "id": "b",
+            "author": "Max",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ja, das kenne ich auch! Versprechungen werden oft gemacht, um Leute zu locken oder zu beruhigen. Am Ende zählt dann aber oft nur das, was man schwarz auf weiß hat. Wirklich ärgerlich, wenn man sich auf das Wort von Vorgesetzten verlässt und dann enttäuscht wird. Vertrauen ist gut, Kontrolle (also ein schriftlicher Vertrag) ist besser!"
+        },
+        {
+            "id": "c",
+            "author": "Thomas",
+            "timestamp": "vor 8 Stunden",
+            "content": "Bei einer Kündigung nach langer Betriebszugehörigkeit sieht es ganz anders aus als in der Probezeit. Da gilt der volle Kündigungsschutz, es braucht triftige Gründe (betriebsbedingt, personenbedingt, verhaltensbedingt) und es gibt längere Kündigungsfristen. Außerdem muss oft eine Sozialauswahl getroffen werden. Da sollte man sich unbedingt rechtlich beraten lassen."
+        },
+        {
+            "id": "d",
+            "author": "Jens",
+            "timestamp": "vor 2 Stunden",
+            "content": "Hallo Markus, leider ist das in der Probezeit (maximal die ersten 6 Monate) relativ normal. Der Kündigungsschutz nach dem Kündigungsschutzgesetz greift in dieser Zeit noch nicht. Daher kann der Arbeitgeber mit einer verkürzten Frist von meist 2 Wochen und ohne Angabe von Gründen kündigen. Dagegen kann man wenig machen, es sei denn, die Kündigung wäre absolut willkürlich oder diskriminierend."
+        },
+        {
+            "id": "e",
+            "author": "Julia",
+            "timestamp": "vor 1 Stunde",
+            "content": "Wenn es um die Arbeitszeit geht, ist auch das Thema Überstunden wichtig. Die dürfen nicht einfach so angeordnet werden, es sei denn, es steht im Vertrag oder einer Betriebsvereinbarung. Und wenn Überstunden gemacht werden, müssen sie entweder bezahlt oder durch Freizeit ausgeglichen werden. Prüf mal deinen Arbeitsvertrag daraufhin!"
+        },
+        {
+            "id": "f",
+            "author": "Sabine",
+            "timestamp": "vor 5 Stunden",
+            "content": "Doch, Elena, das ist klar im Arbeitszeitgesetz geregelt. Bei einer Arbeitszeit von mehr als sechs bis zu neun Stunden stehen dir mindestens 30 Minuten Pause zu. Arbeitest du länger als neun Stunden, sind es 45 Minuten. Diese Pausen sind Pflicht und dürfen auch nicht einfach gestrichen werden, egal wie viel los ist! Dein Chef muss das einhalten."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

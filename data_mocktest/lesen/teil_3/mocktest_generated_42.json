@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Ute",
-            "situation": "Ich bin heute auf dem Weg von der Arbeit nach Hause mit dem Fahrrad gestürzt. Zum Glück ist außer ein paar Schrammen nichts Schlimmeres passiert. Mein Mann meint aber, ich müsse das unbedingt dem Arbeitgeber melden, auch wegen möglicher Spätfolgen. Ist das nicht übertrieben? Ich bin noch in der Probezeit und möchte wirklich keinen Ärgent."
-        },
-        {
-            "id": 2,
             "name": "Liane",
             "situation": "Ich habe gerade die Stelle gewechselt und in meinem neuen Betrieb findet bald ein Ausflug in einen Klettergarten statt. Einerseits will ich keine Spielverderberin sein, andererseits ist Klettern gar nicht mein Ding und ich mache mir Sorgen: Was ist, wenn bei so einer Aktion etwas passiert? Eine Kollegin meinte, wir wären da auch unfallversichert, da die Firma das ja organisiert. Stimmt das?"
         },
         {
+            "id": 2,
+            "name": "Achim",
+            "situation": "Ich bin Aufzugsmonteur, mein Job ist körperlich sehr anstrengend und ich habe zunehmend Probleme mit den Gelenken. Mein Arzt meinte, ich könne wohl nicht mehr Vollzeit arbeiten. Ich mache mir Sorgen wegen des Geldes. Er sprach eine 'Erwerbsminderungsrente' an. Weiß jemand, wo ich verlässliche Informationen dazu bekommen kann, wer dafür zuständig ist?"
+        },
+        {
             "id": 3,
-            "name": "Wolfgang",
-            "situation": "Letzte Woche bin ich kurz rausgegangen, um eine Zigarette zu rauchen. Dabei bin ich draußen unglücklich gestolpert und habe mir das Handgelenk gebrochen. Nun behauptet mein Chef, die gesetzliche Unfallversicherung zahle nicht, da die Raucherpause eine private Unterbrechung war. Stimmt das wirklich? Das wäre fatal, auch wegen der Folgekosten!"
+            "name": "Ute",
+            "situation": "Ich bin heute auf dem Weg von der Arbeit nach Hause mit dem Fahrrad gestürzt. Zum Glück ist außer ein paar Schrammen nichts Schlimmeres passiert. Mein Mann meint aber, ich müsse das unbedingt dem Arbeitgeber melden, auch wegen möglicher Spätfolgen. Ist das nicht übertrieben? Ich bin noch in der Probezeit und möchte wirklich keinen Ärgent."
         },
         {
             "id": 4,
-            "name": "Achim",
-            "situation": "Ich bin Aufzugsmonteur, mein Job ist körperlich sehr anstrengend und ich habe zunehmend Probleme mit den Gelenken. Mein Arzt meinte, ich könne wohl nicht mehr Vollzeit arbeiten. Ich mache mir Sorgen wegen des Geldes. Er sprach eine 'Erwerbsminderungsrente' an. Weiß jemand, wo ich verlässliche Informationen dazu bekommen kann, wer dafür zuständig ist?"
+            "name": "Wolfgang",
+            "situation": "Letzte Woche bin ich kurz rausgegangen, um eine Zigarette zu rauchen. Dabei bin ich draußen unglücklich gestolpert und habe mir das Handgelenk gebrochen. Nun behauptet mein Chef, die gesetzliche Unfallversicherung zahle nicht, da die Raucherpause eine private Unterbrechung war. Stimmt das wirklich? Das wäre fatal, auch wegen der Folgekosten!"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "d",
-        "3": "c",
-        "4": "x"
+        "3": "a",
+        "1": "d",
+        "4": "c",
+        "2": "x"
     }
 }

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Alltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Stefan",
+            "situation": "Ich bin Auszubildender im zweiten Lehrjahr. In letzter Zeit musste ich oft länger bleiben, weil so viel zu tun war. Mein Ausbilder meinte, das gehört dazu, aber schreibt die Stunden nicht auf. Ich dachte, Überstunden müssen für Azubis irgendwie anders geregelt sein, gerade weil ich noch nicht volljährig bin. Bekomme ich dafür Freizeit oder Geld?"
+        },
+        {
+            "id": 2,
+            "name": "Maria",
+            "situation": "Ich habe vor vier Monaten eine neue Stelle angefangen und bin noch in der Probezeit. Nun bin ich leider krank geworden und muss voraussichtlich eine Woche zu Hause bleiben. Ich habe Angst, dass mir deswegen gekündigt wird, weil ich ja noch nicht fest angestellt bin. Ist das möglich, oder bin ich trotzdem geschützt?"
+        },
+        {
+            "id": 3,
+            "name": "Cem",
+            "situation": "Mit meinem Vorgesetzten hatte ich mündlich vereinbart, dass ich ab nächstem Monat meine Arbeitszeit auf 30 Stunden pro Woche reduzieren kann. Wir haben uns per Handschlag geeinigt. Jetzt sagt er, er könne sich nicht erinnern und es gäbe nichts Schriftliches. Gilt unsere mündliche Absprache denn gar nicht? Was kann ich tun?"
+        },
+        {
+            "id": 4,
+            "name": "Lisa",
+            "situation": "Mein Arbeitgeber stellt mir einen Firmenwagen zur Verfügung, den ich laut Vertrag auch privat nutzen darf. Nun bin ich am Wochenende damit in den Urlaub gefahren (ca. 500 km einfache Strecke). Mein Chef meint jetzt, das sei nicht erlaubt gewesen und ich müsse die Kosten anteilig tragen. Im Vertrag steht nur \"private Nutzung erlaubt\". Wer hat Recht und wie ist das steuerlich?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Hannah",
+            "timestamp": "vor 45 Minuten",
+            "content": "Hallo Cem, grundsätzlich können Arbeitsverträge bzw. Vertragsänderungen auch mündlich geschlossen werden und sind gültig. Das große Problem ist aber die Beweisbarkeit. Ohne Zeugen oder schriftliche Notizen wird es sehr schwer, deine mündliche Vereinbarung durchzusetzen, wenn der Chef sich nicht erinnern will. Vielleicht gab es Zeugen für das Gespräch?"
+        },
+        {
+            "id": "b",
+            "author": "Jens",
+            "timestamp": "vor 1 Stunde",
+            "content": "Überstunden sind heutzutage ja fast normal. Wichtig ist, dass sie im Arbeitsvertrag geregelt sind. Bei uns gibt es eine Betriebsvereinbarung, dass bis zu 10 Überstunden pro Monat mit dem Gehalt abgegolten sind. Schau mal in deinen Vertrag, was da drinsteht."
+        },
+        {
+            "id": "c",
+            "author": "Monika",
+            "timestamp": "vor 3 Stunden",
+            "content": "Kündigungsschutz ist ein wichtiges Thema. Nach sechs Monaten im Betrieb greift normalerweise das Kündigungsschutzgesetz, dann braucht der Arbeitgeber einen triftigen Grund (betriebs-, personen- oder verhaltensbedingt). Vorher ist es leider einfacher, entlassen zu werden. Kopf hoch!"
+        },
+        {
+            "id": "d",
+            "author": "Lara",
+            "timestamp": "vor 2 Stunden",
+            "content": "Hallo Stefan, Überstunden sind für Azubis, besonders für Minderjährige, streng geregelt. Sie sind nur in Ausnahmefällen erlaubt und müssen entweder durch Freizeit ausgeglichen oder bezahlt werden. Dein Ausbilder muss die Mehrarbeit dokumentieren! Sprich ihn darauf an und verweise auf das Jugendarbeitsschutzgesetz."
+        },
+        {
+            "id": "e",
+            "author": "David",
+            "timestamp": "vor 6 Stunden",
+            "content": "Verträge sollte man immer schriftlich machen, das erspart Ärger. Mündliche Zusagen sind oft das Papier nicht wert, auf dem sie nicht stehen. Für die Zukunft: Lass dir wichtige Änderungen immer schriftlich bestätigen, am besten als Zusatz zum Arbeitsvertrag. Das ist sicherer."
+        },
+        {
+            "id": "f",
+            "author": "Klaus",
+            "timestamp": "vor 5 Stunden",
+            "content": "Hallo Maria, eine Krankheit während der Probezeit ist natürlich ärgerlich, aber sie ist kein automatischer Kündigungsgrund! Der Arbeitgeber kann zwar in der Probezeit leichter kündigen (ohne Angabe von Gründen), aber eine Kündigung *wegen* der Krankheit ist normalerweise nicht zulässig, solange sie nicht unverhältnismäßig lange dauert. Reiche deine Krankmeldung korrekt ein."
+        }
+    ],
+    "solutions": {
+        "1": "d",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

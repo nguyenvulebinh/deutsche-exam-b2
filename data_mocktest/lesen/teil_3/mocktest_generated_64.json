@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Nadja",
-            "situation": "Ich bin total verunsichert. Ich arbeite seit drei Monaten in einer neuen Firma und befinde mich noch in der Probezeit, die sechs Monate dauert. Gestern wurde mir ohne Angabe von konkreten Gründen gekündigt, obwohl ich dachte, alles liefe gut. Die Kündigungsfrist beträgt nur zwei Wochen. Ist das rechtens? Ich dachte, man braucht immer einen wichtigen Grund für eine Kündigung."
+            "name": "Ben",
+            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen und war verreist. Leider wurde ich in der zweiten Urlaubswoche krank und musste sogar zum Arzt. Ich habe mir natürlich sofort ein Attest ausstellen lassen und meinen Arbeitgeber informiert. Meine Frage: Verfallen diese Krankheitstage jetzt als Urlaubstage, oder bekomme ich sie gutgeschrieben?"
         },
         {
             "id": 2,
-            "name": "Ben",
-            "situation": "Ich hatte zwei Wochen Urlaub genehmigt bekommen und war verreist. Leider wurde ich in der zweiten Urlaubswoche krank und musste sogar zum Arzt. Ich habe mir natürlich sofort ein Attest ausstellen lassen und meinen Arbeitgeber informiert. Meine Frage: Verfallen diese Krankheitstage jetzt als Urlaubstage, oder bekomme ich sie gutgeschrieben?"
+            "name": "David",
+            "situation": "Mir ist heute etwas Blödes passiert: Ich bin in unserer Büroküche auf verschüttetem Kaffee ausgerutscht, als ich mir gerade einen neuen Kaffee holen wollte. Das war während meiner regulären Arbeitszeit. Dabei habe ich mir das Handgelenk verstaucht. Zählt das als Arbeitsunfall, der von der gesetzlichen Unfallversicherung abgedeckt ist, oder ist das Pech, weil Kaffeetrinken ja 'privat' ist?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "David",
-            "situation": "Mir ist heute etwas Blödes passiert: Ich bin in unserer Büroküche auf verschüttetem Kaffee ausgerutscht, als ich mir gerade einen neuen Kaffee holen wollte. Das war während meiner regulären Arbeitszeit. Dabei habe ich mir das Handgelenk verstaucht. Zählt das als Arbeitsunfall, der von der gesetzlichen Unfallversicherung abgedeckt ist, oder ist das Pech, weil Kaffeetrinken ja 'privat' ist?"
+            "name": "Nadja",
+            "situation": "Ich bin total verunsichert. Ich arbeite seit drei Monaten in einer neuen Firma und befinde mich noch in der Probezeit, die sechs Monate dauert. Gestern wurde mir ohne Angabe von konkreten Gründen gekündigt, obwohl ich dachte, alles liefe gut. Die Kündigungsfrist beträgt nur zwei Wochen. Ist das rechtens? Ich dachte, man braucht immer einen wichtigen Grund für eine Kündigung."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "b",
-        "2": "d",
+        "4": "b",
+        "1": "d",
         "3": "f",
-        "4": "x"
+        "2": "x"
     }
 }

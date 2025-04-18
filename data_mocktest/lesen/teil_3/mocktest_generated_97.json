@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Julia",
-            "situation": "Ich hatte für die ersten beiden Juliwochen Urlaub eingereicht und genehmigt bekommen. Leider bin ich direkt am zweiten Urlaubstag krank geworden und war fünf Tage krankgeschrieben, mit ärztlichem Attest. Mein Chef meint nun, das sei Pech für mich und die Krankheitstage zählen trotzdem als Urlaub. Stimmt das wirklich? Ich dachte, Krankheit unterbricht den Urlaub?"
-        },
-        {
-            "id": 2,
-            "name": "Marco",
-            "situation": "Ich bin total überrascht worden. Gestern hat mir mein Vorgesetzter gekündigt, obwohl ich erst seit knapp fünf Monaten in der Firma bin und dachte, alles läuft gut. Er hat keinen Grund genannt. Ich bin doch noch in der Probezeit, die sechs Monate dauert. Ist das rechtens, so kurzfristig und ohne Angabe von Gründen? Was kann ich tun?"
-        },
-        {
-            "id": 3,
             "name": "Fatima",
             "situation": "In meinem Team ist es üblich, dass wir regelmäßig länger bleiben, oft ein bis zwei Stunden pro Tag. Das wird irgendwie erwartet, steht aber nicht explizit im Vertrag und wird auch nicht extra bezahlt oder durch Freizeit ausgeglichen. Langsam nervt mich das. Habe ich nicht einen Anspruch darauf, dass Überstunden irgendwie vergütet werden?"
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "Benno",
             "situation": "Bei meiner Einstellung hat mir der Abteilungsleiter mündlich zugesagt, dass die Firma die Kosten für spezielle Arbeitsjacken mit Firmenlogo übernimmt, die wir im Kundendienst tragen sollen. Es ist keine gesetzlich vorgeschriebene Schutzkleidung. Jetzt habe ich die Rechnung eingereicht, aber die Personalabteilung sagt, davon wüssten sie nichts und mündliche Absprachen zählen nicht. Muss ich die Jacken jetzt selbst bezahlen?"
+        },
+        {
+            "id": 3,
+            "name": "Marco",
+            "situation": "Ich bin total überrascht worden. Gestern hat mir mein Vorgesetzter gekündigt, obwohl ich erst seit knapp fünf Monaten in der Firma bin und dachte, alles läuft gut. Er hat keinen Grund genannt. Ich bin doch noch in der Probezeit, die sechs Monate dauert. Ist das rechtens, so kurzfristig und ohne Angabe von Gründen? Was kann ich tun?"
+        },
+        {
+            "id": 4,
+            "name": "Julia",
+            "situation": "Ich hatte für die ersten beiden Juliwochen Urlaub eingereicht und genehmigt bekommen. Leider bin ich direkt am zweiten Urlaubstag krank geworden und war fünf Tage krankgeschrieben, mit ärztlichem Attest. Mein Chef meint nun, das sei Pech für mich und die Krankheitstage zählen trotzdem als Urlaub. Stimmt das wirklich? Ich dachte, Krankheit unterbricht den Urlaub?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "b",
-        "3": "f",
-        "4": "x"
+        "4": "c",
+        "3": "b",
+        "1": "f",
+        "2": "x"
     }
 }

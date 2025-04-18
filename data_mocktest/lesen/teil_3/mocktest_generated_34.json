@@ -3,18 +3,18 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Stefan",
-            "situation": "Ich habe vor drei Monaten in einer Werkstatt angefangen zu arbeiten. Wir hatten nur ein mündliches Gespräch, in dem mir auch bezahlte Überstunden zugesagt wurden. Einen schriftlichen Vertrag habe ich nie bekommen. Nun weigert sich mein Chef, die Überstunden zu zahlen und meint, das sei nie vereinbart worden. Gilt unsere mündliche Abmachung denn gar nicht? Was kann ich tun?"
-        },
-        {
-            "id": 2,
             "name": "Julia",
             "situation": "Ich bin total geschockt. Ich arbeite seit fast sechs Monaten in einem Büro und meine Probezeit endet in zwei Wochen. Eben habe ich meine Kündigung erhalten, gültig in 14 Tagen. Letzte Woche gab es noch Lob vom Teamleiter! Muss der Arbeitgeber denn keinen Grund angeben, wenn er mich in der Probezeit kündigt? Ist diese kurze Frist überhaupt korrekt?"
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Markus",
             "situation": "Mein befristeter Arbeitsvertrag läuft nächsten Monat aus. Ich arbeite gerne hier und würde die Stelle gern behalten, am liebsten natürlich unbefristet. Mein Vorgesetzter hat sich aber noch gar nicht dazu geäußert. Habe ich nach einer bestimmten Zeit vielleicht automatisch Anspruch auf eine Festanstellung oder kann der Vertrag einfach so enden?"
+        },
+        {
+            "id": 3,
+            "name": "Stefan",
+            "situation": "Ich habe vor drei Monaten in einer Werkstatt angefangen zu arbeiten. Wir hatten nur ein mündliches Gespräch, in dem mir auch bezahlte Überstunden zugesagt wurden. Einen schriftlichen Vertrag habe ich nie bekommen. Nun weigert sich mein Chef, die Überstunden zu zahlen und meint, das sei nie vereinbart worden. Gilt unsere mündliche Abmachung denn gar nicht? Was kann ich tun?"
         },
         {
             "id": 4,
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
+        "3": "a",
+        "1": "b",
+        "2": "c",
         "4": "x"
     }
 }

@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen im Berufsalltag",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Jonas",
+            "situation": "Ich bin seit fünf Monaten in meinem neuen Job, die Probezeit beträgt sechs Monate. Letzte Woche wurde ich noch für meine gute Arbeit gelobt, aber heute habe ich völlig überraschend meine Kündigung erhalten. Ich bin total verwirrt. Ist das überhaupt erlaubt, so kurzfristig und ohne Grund, obwohl die Probezeit fast vorbei ist? Was kann ich jetzt tun?"
+        },
+        {
+            "id": 2,
+            "name": "Maria",
+            "situation": "Ich hatte meinen Jahresurlaub geplant und genehmigt bekommen. Dummerweise wurde ich genau zwei Tage vorher krank und musste eine Woche mit Attest zu Hause bleiben. Danach bin ich dann in den restlichen Urlaub gefahren. Jetzt hat mein Arbeitgeber die Woche Krankheit einfach von meinen Urlaubstagen abgezogen. Ist das rechtens oder muss er mir die Tage gutschreiben?"
+        },
+        {
+            "id": 3,
+            "name": "Leonie",
+            "situation": "Ich arbeite im Labor und muss laut Vertrag und Vorschrift spezielle Schutzkleidung tragen. Meine Firma stellt zwar Schutzbrillen und Handschuhe, aber den vorgeschriebenen Laborkittel und die Sicherheitsschuhe soll ich selbst kaufen und bezahlen. Ist der Arbeitgeber nicht verpflichtet, die Kosten für notwendige Schutzausrüstung komplett zu übernehmen?"
+        },
+        {
+            "id": 4,
+            "name": "Stefan",
+            "situation": "In meinem Mitarbeitergespräch vor zwei Monaten hat mein Chef mir fest eine Gehaltserhöhung ab dem nächsten Quartal mündlich zugesagt. Jetzt habe ich meine neue Abrechnung bekommen und es ist nichts passiert. Als ich nachgefragt habe, meinte mein Chef, er könne sich an keine feste Zusage erinnern. Ist so eine mündliche Zusage überhaupt gültig und wie kann ich das jetzt nachweisen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Rechtsanwalt_Meyer",
+            "timestamp": "vor 2 Stunden",
+            "content": "Innerhalb der vereinbarten Probezeit, die maximal sechs Monate dauern darf, kann das Arbeitsverhältnis von beiden Seiten mit einer Frist von zwei Wochen gekündigt werden. Einer Begründung bedarf es dabei meist nicht. Das vorherige Lob ändert daran leider nichts. Diese verkürzte Frist ist gesetzlich so vorgesehen."
+        },
+        {
+            "id": "b",
+            "author": "Gewerkschaftsinfo",
+            "timestamp": "vor 5 Stunden",
+            "content": "Klares Nein! Erkrankt ein Arbeitnehmer während des Urlaubs, so werden die durch ärztliches Zeugnis nachgewiesenen Tage der Arbeitsunfähigkeit nicht auf den Jahresurlaub angerechnet (§9 BUrlG). Sie haben Anspruch darauf, diese Urlaubstage zu einem späteren Zeitpunkt zu nehmen. Sprechen Sie Ihren Arbeitgeber darauf an."
+        },
+        {
+            "id": "c",
+            "author": "Sicherheitsbeauftragter_Klaus",
+            "timestamp": "vor 1 Tag",
+            "content": "Handelt es sich um Persönliche Schutzausrüstung (PSA), die aufgrund von Arbeitsschutzvorschriften zwingend erforderlich ist (wie spezielle Schuhe, Kittel, Helme etc.), so muss der Arbeitgeber diese kostenlos zur Verfügung stellen und auch instand halten. Das ist seine Pflicht nach dem Arbeitsschutzgesetz."
+        },
+        {
+            "id": "d",
+            "author": "HR_Expertin_Schmidt",
+            "timestamp": "vor 30 Minuten",
+            "content": "Nach Ablauf der Probezeit greift in Betrieben mit mehr als zehn Mitarbeitern das Kündigungsschutzgesetz. Eine ordentliche Kündigung muss dann sozial gerechtfertigt sein (Gründe in der Person, im Verhalten oder betriebsbedingt). Die Kündigungsfristen verlängern sich zudem mit der Dauer der Betriebszugehörigkeit."
+        },
+        {
+            "id": "e",
+            "author": "Kollegin_Sabine",
+            "timestamp": "vor 8 Stunden",
+            "content": "Denk dran, dass du bei Krankheit immer unverzüglich Bescheid geben musst, am besten telefonisch vor Arbeitsbeginn. Die ärztliche Arbeitsunfähigkeitsbescheinigung muss dann in der Regel spätestens am dritten Tag vorliegen, es sei denn, im Arbeitsvertrag steht etwas anderes. Das ist wichtig, um keine Abmahnung zu riskieren."
+        },
+        {
+            "id": "f",
+            "author": "Steuerberater_Tipps",
+            "timestamp": "vor 4 Stunden",
+            "content": "Kosten für typische Berufskleidung (z.B. Arztkittel, Uniformen), die man selbst tragen muss, können unter Umständen als Werbungskosten von der Steuer abgesetzt werden. Das gilt aber nicht für normale Businesskleidung wie Anzüge oder Kostüme, die auch privat getragen werden könnten. Die Reinigungskosten können ebenfalls relevant sein."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Lena",
-            "situation": "Ich bin heute Morgen mit Fieber aufgewacht und kann definitiv nicht zur Arbeit. Es ist das erste Mal seit ich hier arbeite. Ich bin mir unsicher, wie genau ich mich jetzt krankmelden muss. Reicht eine E-Mail an meinen Chef oder muss ich anrufen? Und ab wann brauche ich eigentlich eine ärztliche Bescheinigung? Ich will alles richtig machen."
-        },
-        {
-            "id": 2,
             "name": "Markus",
             "situation": "Leider hat mich eine Grippe erwischt und ich bin jetzt schon die zweite Woche krankgeschrieben. Langsam mache ich mir Sorgen um mein Gehalt. Bekomme ich mein volles Gehalt weitergezahlt, auch wenn ich länger ausfalle? Gibt es da eine Grenze und was passiert danach? Ich bin seit über einem Jahr fest angestellt."
         },
         {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Ich bin alleinerziehend und mein Sohn (5 Jahre) ist seit gestern krank. Ich musste deshalb zu Hause bleiben, um ihn zu betreuen. Mein Chef war am Telefon nicht begeistert und fragte, ob das jetzt öfter vorkommt. Habe ich überhaupt Anspruch darauf, zur Betreuung meines kranken Kindes freigestellt zu werden, und bekomme ich für diese Tage Gehalt? Was, wenn er nächste Woche immer noch krank ist?"
+        },
+        {
             "id": 3,
-            "name": "Aisha",
-            "situation": "Ich hatte zwei Wochen Urlaub geplant und genehmigt bekommen. Ausgerechnet am dritten Urlaubstag wurde ich richtig krank und musste für fünf Tage zum Arzt, der mich auch krankgeschrieben hat. Mein Chef meint nun, Pech gehabt, Urlaub ist Urlaub. Stimmt das? Verfallen diese Krankheitstage jetzt einfach?"
+            "name": "Lena",
+            "situation": "Ich bin heute Morgen mit Fieber aufgewacht und kann definitiv nicht zur Arbeit. Es ist das erste Mal seit ich hier arbeite. Ich bin mir unsicher, wie genau ich mich jetzt krankmelden muss. Reicht eine E-Mail an meinen Chef oder muss ich anrufen? Und ab wann brauche ich eigentlich eine ärztliche Bescheinigung? Ich will alles richtig machen."
         },
         {
             "id": 4,
-            "name": "Ben",
-            "situation": "Ich bin alleinerziehend und mein Sohn (5 Jahre) ist seit gestern krank. Ich musste deshalb zu Hause bleiben, um ihn zu betreuen. Mein Chef war am Telefon nicht begeistert und fragte, ob das jetzt öfter vorkommt. Habe ich überhaupt Anspruch darauf, zur Betreuung meines kranken Kindes freigestellt zu werden, und bekomme ich für diese Tage Gehalt? Was, wenn er nächste Woche immer noch krank ist?"
+            "name": "Aisha",
+            "situation": "Ich hatte zwei Wochen Urlaub geplant und genehmigt bekommen. Ausgerechnet am dritten Urlaubstag wurde ich richtig krank und musste für fünf Tage zum Arzt, der mich auch krankgeschrieben hat. Mein Chef meint nun, Pech gehabt, Urlaub ist Urlaub. Stimmt das? Verfallen diese Krankheitstage jetzt einfach?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "3": "a",
+        "1": "b",
+        "4": "c",
+        "2": "x"
     }
 }

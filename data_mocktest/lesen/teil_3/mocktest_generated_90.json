@@ -8,18 +8,18 @@
         },
         {
             "id": 2,
-            "name": "Cem",
-            "situation": "Ich arbeite als Koch in einem Restaurant. Wir müssen spezielle rutschfeste Sicherheitsschuhe und eine kochfeste Jacke tragen, das steht so im Arbeitsvertrag wegen der Hygiene- und Sicherheitsvorschriften. Mein Arbeitgeber sagt, ich muss diese spezielle Schutzkleidung selbst kaufen. Stimmt das? Das sind ja doch über 100 Euro!"
-        },
-        {
-            "id": 3,
             "name": "Sara",
             "situation": "In meinem Vertrag steht eine 40-Stunden-Woche. Letzten Monat musste ich aber fast 30 Überstunden leisten, weil viel zu tun war. Mein Chef meinte jetzt, ich könne die Stunden ja \"abfeiern\", also Freizeitausgleich nehmen. Ich hätte das Geld aber lieber ausgezahlt. Habe ich ein Recht darauf, die Überstunden bezahlt zu bekommen?"
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Stefan",
             "situation": "Ich war letzte Woche drei Tage krankgeschrieben. Dummerweise fiel das genau in meinen genehmigten Urlaub. Mein Chef meint jetzt, die Urlaubstage seien trotzdem weg, Pech gehabt. Stimmt das? Und noch eine Frage: Ich hatte für diese Woche einen Arzttermin vereinbart, muss ich den jetzt verschieben, weil ich letzte Woche gefehlt habe?"
+        },
+        {
+            "id": 4,
+            "name": "Cem",
+            "situation": "Ich arbeite als Koch in einem Restaurant. Wir müssen spezielle rutschfeste Sicherheitsschuhe und eine kochfeste Jacke tragen, das steht so im Arbeitsvertrag wegen der Hygiene- und Sicherheitsvorschriften. Mein Arbeitgeber sagt, ich muss diese spezielle Schutzkleidung selbst kaufen. Stimmt das? Das sind ja doch über 100 Euro!"
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "c",
-        "2": "e",
-        "3": "a",
-        "4": "x"
+        "4": "e",
+        "2": "a",
+        "3": "x"
     }
 }

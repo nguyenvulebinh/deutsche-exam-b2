@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Jan",
-            "situation": "Ich arbeite seit vier Monaten in einer Firma, bin also noch in der sechsmonatigen Probezeit. Obwohl ich kürzlich für meine Arbeit gelobt wurde, habe ich heute überraschend die Kündigung erhalten, mit der kurzen Frist von zwei Wochen. Begründet wurde das nicht weiter. Ist eine Kündigung in der Probezeit so einfach ohne Angabe von Gründen möglich und was kann ich jetzt überhaupt tun?"
+            "name": "Simone",
+            "situation": "Ich bin seit fünf Wochen krankgeschrieben und erhalte Lohnfortzahlung. Jetzt hat mein Arbeitgeber mir mitgeteilt, dass während meiner Krankheit die Beitragszahlungen zur betrieblichen Altersvorsorge ausgesetzt werden und ich den Firmenwagen abgeben muss. Dass das Gehalt weiterläuft, ist klar, aber dürfen diese zusätzlichen Leistungen während der Krankschreibung einfach so gestrichen werden?"
         },
         {
             "id": 2,
-            "name": "Lena",
-            "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit mit dem Fahrrad leicht gestürzt. Nur ein paar Schürfwunden, nichts Ernstes. Mein Mann meint aber, ich müsse das unbedingt der Firma melden, Stichwort 'Wegeunfall', auch wegen möglicher Spätfolgen und der Versicherung. Ich bin unsicher, da es harmlos wirkt und ich noch in der Probezeit bin. Ist eine Meldung wirklich nötig?"
+            "name": "Jan",
+            "situation": "Ich arbeite seit vier Monaten in einer Firma, bin also noch in der sechsmonatigen Probezeit. Obwohl ich kürzlich für meine Arbeit gelobt wurde, habe ich heute überraschend die Kündigung erhalten, mit der kurzen Frist von zwei Wochen. Begründet wurde das nicht weiter. Ist eine Kündigung in der Probezeit so einfach ohne Angabe von Gründen möglich und was kann ich jetzt überhaupt tun?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Simone",
-            "situation": "Ich bin seit fünf Wochen krankgeschrieben und erhalte Lohnfortzahlung. Jetzt hat mein Arbeitgeber mir mitgeteilt, dass während meiner Krankheit die Beitragszahlungen zur betrieblichen Altersvorsorge ausgesetzt werden und ich den Firmenwagen abgeben muss. Dass das Gehalt weiterläuft, ist klar, aber dürfen diese zusätzlichen Leistungen während der Krankschreibung einfach so gestrichen werden?"
+            "name": "Lena",
+            "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit mit dem Fahrrad leicht gestürzt. Nur ein paar Schürfwunden, nichts Ernstes. Mein Mann meint aber, ich müsse das unbedingt der Firma melden, Stichwort 'Wegeunfall', auch wegen möglicher Spätfolgen und der Versicherung. Ich bin unsicher, da es harmlos wirkt und ich noch in der Probezeit bin. Ist eine Meldung wirklich nötig?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "f",
-        "2": "b",
+        "2": "f",
+        "4": "b",
         "3": "d",
-        "4": "x"
+        "1": "x"
     }
 }

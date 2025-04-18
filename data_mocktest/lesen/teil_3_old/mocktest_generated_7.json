@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Lena",
+            "situation": "Ich bin seit vier Monaten in meiner neuen Firma und befinde mich noch in der sechsmonatigen Probezeit. Letzte Woche wurde mir überraschend mitgeteilt, dass mein Arbeitsverhältnis in zwei Wochen endet. Ich dachte, ich mache meine Arbeit gut, es gab nie Kritik. Kann mir in der Probezeit einfach so gekündigt werden, ohne dass ein Grund genannt wird? Was sind meine Rechte?"
+        },
+        {
+            "id": 2,
+            "name": "Cem",
+            "situation": "Ich hatte letzte Woche offiziell Urlaub genehmigt bekommen. Leider bin ich direkt am zweiten Urlaubstag krank geworden und war vier Tage arbeitsunfähig, was ich auch mit einem Attest vom Arzt nachgewiesen habe. Mein Chef meint nun, Pech gehabt, die Krankheitstage werden trotzdem als Urlaubstage gezählt. Stimmt das, oder muss er mir die Tage wieder gutschreiben?"
+        },
+        {
+            "id": 3,
+            "name": "Samir",
+            "situation": "Ich arbeite in einer Metallwerkstatt. Laut Vorschrift müssen wir spezielle Sicherheitsschuhe mit Stahlkappen und schnittfeste Handschuhe tragen. Mein Arbeitgeber hat uns nun gesagt, wir sollen diese selbst kaufen, da sie ja unserer eigenen Sicherheit dienen. Muss der Arbeitgeber diese notwendige Schutzausrüstung nicht eigentlich kostenlos zur Verfügung stellen?"
+        },
+        {
+            "id": 4,
+            "name": "Fatima",
+            "situation": "Mein Chef hatte mir bei der Einstellung mündlich fest zugesagt, dass ich nach der bestandenen sechsmonatigen Probezeit auf jeden Fall einen unbefristeten Vertrag bekommen würde. Die Probezeit ist nun vorbei, ich habe gut gearbeitet, aber jetzt sagt er, er könne sich daran nicht erinnern und es gäbe doch keine Stelle. Ist so eine mündliche Zusage überhaupt etwas wert? Was kann ich tun?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Hanna",
+            "timestamp": "vor 2 Stunden",
+            "content": "Oh je, das tut mir leid für dich! Die Probezeit ist echt immer eine unsichere Phase. Ich finde es auch total unfair, wenn man dann kurzfristig rausgeworfen wird, obwohl man sich Mühe gibt. Ich habe schon von mehreren solchen Fällen gehört, das scheint leider öfter vorzukommen."
+        },
+        {
+            "id": "b",
+            "author": "Klaus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Ja, das ist leider rechtlich zulässig. Während der vereinbarten Probezeit, maximal jedoch sechs Monate, können sowohl Arbeitgeber als auch Arbeitnehmer das Arbeitsverhältnis mit einer verkürzten Frist von zwei Wochen kündigen, ohne einen Kündigungsgrund angeben zu müssen. Nur wenige Ausnahmen wie Schwangerschaft schützen davor."
+        },
+        {
+            "id": "c",
+            "author": "Dieter",
+            "timestamp": "vor 5 Stunden",
+            "content": "Wichtig ist bei Krankheit immer, dass man sich unverzüglich beim Arbeitgeber krankmeldet, am besten schon am ersten Tag vor Arbeitsbeginn. Das ärztliche Attest muss dann meist spätestens am dritten Tag vorliegen, manchmal verlangt der Arbeitgeber es aber auch schon früher. Das sollte im Arbeitsvertrag stehen."
+        },
+        {
+            "id": "d",
+            "author": "Birgit",
+            "timestamp": "vor 1 Stunde",
+            "content": "Nein, das muss der Arbeitgeber bezahlen. Wenn es sich um vorgeschriebene Persönliche Schutzausrüstung (PSA) handelt, die zum Schutz vor Gefahren am Arbeitsplatz notwendig ist (wie Sicherheitsschuhe oder Schutzhandschuhe), dann ist der Arbeitgeber laut Arbeitsschutzgesetz verpflichtet, diese kostenlos bereitzustellen und auch instand zu halten."
+        },
+        {
+            "id": "e",
+            "author": "Monika",
+            "timestamp": "vor 3 Stunden",
+            "content": "Das ist klar geregelt: Wenn du während deines Erholungsurlaubs krank wirst und dies durch eine ärztliche Bescheinigung nachweisen kannst, dürfen diese Krankheitstage nicht auf deinen Jahresurlaub angerechnet werden. Dein Arbeitgeber muss dir die entsprechenden Urlaubstage wieder gutschreiben."
+        },
+        {
+            "id": "f",
+            "author": "Ursula",
+            "timestamp": "vor 30 Minuten",
+            "content": "Die Kosten für typische Berufskleidung, also Kleidung, die man fast ausschließlich bei der Arbeit trägt, kann man oft als Werbungskosten bei der Steuererklärung geltend machen. Dazu gehören Anschaffung und auch Reinigungskosten. Hebe dafür am besten alle Belege gut auf und sprich ggf. mit einem Steuerberater."
+        }
+    ],
+    "solutions": {
+        "1": "b",
+        "2": "e",
+        "3": "d",
+        "4": "x"
+    }
+}

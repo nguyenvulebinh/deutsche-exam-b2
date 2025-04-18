@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Julia",
-            "situation": "Ich bin im fünften Monat meiner Probezeit und wurde gerade unerwartet mit einer Frist von nur zwei Wochen gekündigt. Ich dachte immer, die Probezeit dauert maximal drei Monate und die Kündigungsfrist wäre länger. Ist diese kurze Frist während der Probezeit überhaupt rechtens? Ich bin total verunsichert."
-        },
-        {
-            "id": 2,
-            "name": "Markus",
-            "situation": "Ich mache regelmäßig Überstunden, meistens ein bis zwei Stunden pro Tag länger als vertraglich vereinbart. Mein Vorgesetzter weiß das, aber es wird nirgendwo offiziell erfasst. Ich mache mir Sorgen, dass ich dafür weder Freizeitausgleich noch Bezahlung sehe. Wie kann ich meine Überstunden am besten dokumentieren, um einen Nachweis zu haben?"
-        },
-        {
-            "id": 3,
             "name": "Fatima",
             "situation": "Ich arbeite in einem Großraumbüro und der ständige Lärmpegel macht mir zu schaffen. Ich kann mich schlecht konzentrieren und habe oft Kopfschmerzen. Hat mein Arbeitgeber nicht die Pflicht, für eine ruhigere Arbeitsumgebung zu sorgen oder zumindest Maßnahmen zur Lärmreduzierung zu ergreifen?"
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "Lena",
             "situation": "Ich arbeite Teilzeit, 20 Stunden pro Woche, und bin seit vier Jahren im Betrieb. Jetzt gibt es eine Umstrukturierung und Gerüchte gehen um, dass Teilzeitkräfte eher auf Vollzeit umgestellt oder zuerst entlassen werden. Bin ich als Teilzeitbeschäftigte bei betriebsbedingten Kündigungen schlechter gestellt als Vollzeitkollegen? Gibt es einen besonderen Schutz im Rahmen der Sozialauswahl?"
+        },
+        {
+            "id": 3,
+            "name": "Markus",
+            "situation": "Ich mache regelmäßig Überstunden, meistens ein bis zwei Stunden pro Tag länger als vertraglich vereinbart. Mein Vorgesetzter weiß das, aber es wird nirgendwo offiziell erfasst. Ich mache mir Sorgen, dass ich dafür weder Freizeitausgleich noch Bezahlung sehe. Wie kann ich meine Überstunden am besten dokumentieren, um einen Nachweis zu haben?"
+        },
+        {
+            "id": 4,
+            "name": "Julia",
+            "situation": "Ich bin im fünften Monat meiner Probezeit und wurde gerade unerwartet mit einer Frist von nur zwei Wochen gekündigt. Ich dachte immer, die Probezeit dauert maximal drei Monate und die Kündigungsfrist wäre länger. Ist diese kurze Frist während der Probezeit überhaupt rechtens? Ich bin total verunsichert."
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "4": "a",
+        "3": "b",
+        "1": "c",
+        "2": "x"
     }
 }

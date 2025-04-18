@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen und Antworten",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Clara",
+            "situation": "Ich bin seit fast sechs Monaten in meiner Probezeit. Mein Vorgesetzter hat mir vor zwei Wochen mündlich zugesichert, dass ich danach eine Festanstellung bekomme. Jetzt tut er so, als wüsste er nichts mehr davon und meint, die Entscheidung sei noch offen. Kann ich mich auf seine mündliche Zusage berufen? Was sind meine Optionen?"
+        },
+        {
+            "id": 2,
+            "name": "Markus",
+            "situation": "Ich hatte für die letzten beiden Augustwochen Urlaub geplant und genehmigt bekommen. Leider bin ich direkt am Wochenende davor krank geworden und war die erste Urlaubswoche krankgeschrieben mit ärztlichem Attest. Mein Arbeitgeber hat mir trotzdem alle 10 Tage als Urlaub abgezogen. Ist das rechtens? Verfallen die Tage jetzt?"
+        },
+        {
+            "id": 3,
+            "name": "Ben",
+            "situation": "Ich arbeite auf dem Bau und laut Vorschrift muss ich spezielle Sicherheitsschuhe der Schutzklasse S3 tragen. Mein Arbeitgeber meint, da es sich um Schuhe handelt, müsse ich diese selbst kaufen und bezahlen. Normale Arbeitskleidung wie Hosen und Jacken stellt er. Muss er nicht auch für vorgeschriebene Sicherheitsschuhe aufkommen?"
+        },
+        {
+            "id": 4,
+            "name": "Stefan",
+            "situation": "Mir ist gestern im Büro ein Missgeschick passiert: Ich habe versehentlich Kaffee über eine relativ neue Tastatur gekippt, sie funktioniert nicht mehr richtig. Der Schaden beträgt etwa 50 Euro. Mein Chef war verärgert und will mir die Kosten nun direkt vom nächsten Gehalt abziehen. Darf er das einfach so bei einem kleinen Versehen?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Jan",
+            "timestamp": "vor 45 Minuten",
+            "content": "Mündliche Zusagen sind im Arbeitsrecht leider oft schwierig durchzusetzen, besonders wenn es um Vertragsdetails geht. Ohne schriftliche Bestätigung oder Zeugen hast du rechtlich kaum eine Handhabe. Dein Arbeitgeber kann sich in der Probezeit leider relativ leicht umentscheiden. Sprich ihn nochmal direkt an, aber verlass dich nicht auf die frühere Zusage."
+        },
+        {
+            "id": "b",
+            "author": "Sofia",
+            "timestamp": "vor 2 Stunden",
+            "content": "Nein, das ist nicht korrekt. Wenn du vor oder während deines Urlaubs krank wirst und dies durch ein ärztliches Attest nachweist, werden diese Krankheitstage nicht auf deinen Urlaub angerechnet. Die Urlaubstage müssen dir wieder gutgeschrieben werden. Sprich dringend mit der Personalabteilung oder dem Chef darüber und lege das Attest vor."
+        },
+        {
+            "id": "c",
+            "author": "Lena",
+            "timestamp": "vor 5 Stunden",
+            "content": "Dein Arbeitgeber liegt falsch. Wenn es sich um vorgeschriebene Persönliche Schutzausrüstung (PSA) handelt, wie Sicherheitsschuhe einer bestimmten Klasse, dann muss der Arbeitgeber diese gemäß Arbeitsschutzgesetz kostenlos zur Verfügung stellen und auch die Kosten dafür tragen. Das gilt nicht für normale Arbeitskleidung ohne Schutzfunktion."
+        },
+        {
+            "id": "d",
+            "author": "Ali",
+            "timestamp": "vor 1 Stunde",
+            "content": "In der Probezeit gelten verkürzte Kündigungsfristen, oft nur zwei Wochen. Das gibt dem Arbeitgeber, aber auch dir, die Möglichkeit, das Arbeitsverhältnis schnell zu beenden, wenn es nicht passt. Eine Übernahme nach der Probezeit ist üblich, aber eben nicht garantiert, solange nichts Schriftliches vorliegt."
+        },
+        {
+            "id": "e",
+            "author": "Nina",
+            "timestamp": "vor 3 Stunden",
+            "content": "Der gesetzliche Mindesturlaubsanspruch beträgt 24 Werktage bei einer 6-Tage-Woche. Oft gewähren Arbeitgeber aber mehr. Wichtig ist, den Urlaub rechtzeitig zu beantragen und genehmigen zu lassen. Resturlaub muss meist bis zum 31. März des Folgejahres genommen werden, sonst kann er verfallen."
+        },
+        {
+            "id": "f",
+            "author": "David",
+            "timestamp": "vor 6 Stunden",
+            "content": "Die Kosten für typische Berufsbekleidung, die man nicht privat tragen kann, lassen sich oft steuerlich absetzen. Dazu gehören zum Beispiel Kittel für Ärzte oder spezielle Uniformen. Heb die Belege gut auf und gib sie bei der nächsten Steuererklärung an. Das gilt auch für Reinigungskosten."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

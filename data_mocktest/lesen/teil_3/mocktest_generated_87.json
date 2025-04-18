@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Marlene",
-            "situation": "Mein Vorgesetzter hat mir vor sechs Monaten mündlich eine Beförderung mit konkreten neuen Aufgaben zugesagt. Nun behauptet er, sich nicht mehr genau zu erinnern, und es ist nichts passiert. Wir haben das leider nicht schriftlich festgehalten. Kann ich mich auf seine mündliche Zusage berufen und die Beförderung durchsetzen?"
+            "name": "Ben",
+            "situation": "Ich arbeite seit zwei Jahren in meiner Firma. Nun bin ich seit fünf Wochen krankgeschrieben, mit offizieller Arbeitsunfähigkeitsbescheinigung vom Arzt. Heute habe ich überraschend die Kündigung erhalten. Ist es überhaupt erlaubt, einem Mitarbeiter zu kündigen, nur weil er längerfristig krank ist?"
         },
         {
             "id": 2,
-            "name": "Ben",
-            "situation": "Ich arbeite seit zwei Jahren in meiner Firma. Nun bin ich seit fünf Wochen krankgeschrieben, mit offizieller Arbeitsunfähigkeitsbescheinigung vom Arzt. Heute habe ich überraschend die Kündigung erhalten. Ist es überhaupt erlaubt, einem Mitarbeiter zu kündigen, nur weil er längerfristig krank ist?"
+            "name": "Jonas",
+            "situation": "Letztes Wochenende habe ich am freiwilligen Sommerfest unserer Firma teilgenommen. Es fand außerhalb des Betriebsgeländes nach Feierabend statt. Beim Volleyballspielen habe ich mir leider den Knöchel verstaucht. Gilt das als Arbeitsunfall, der über die gesetzliche Unfallversicherung abgedeckt ist, obwohl die Teilnahme freiwillig war?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Jonas",
-            "situation": "Letztes Wochenende habe ich am freiwilligen Sommerfest unserer Firma teilgenommen. Es fand außerhalb des Betriebsgeländes nach Feierabend statt. Beim Volleyballspielen habe ich mir leider den Knöchel verstaucht. Gilt das als Arbeitsunfall, der über die gesetzliche Unfallversicherung abgedeckt ist, obwohl die Teilnahme freiwillig war?"
+            "name": "Marlene",
+            "situation": "Mein Vorgesetzter hat mir vor sechs Monaten mündlich eine Beförderung mit konkreten neuen Aufgaben zugesagt. Nun behauptet er, sich nicht mehr genau zu erinnern, und es ist nichts passiert. Wir haben das leider nicht schriftlich festgehalten. Kann ich mich auf seine mündliche Zusage berufen und die Beförderung durchsetzen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "a",
-        "2": "c",
+        "4": "a",
+        "1": "c",
         "3": "f",
-        "4": "x"
+        "2": "x"
     }
 }

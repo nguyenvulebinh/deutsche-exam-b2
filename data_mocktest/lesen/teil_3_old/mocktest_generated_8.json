@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Clara",
+            "situation": "Ich bin in der 5. Woche meiner Probezeit als Marketingassistentin. Ich dachte, alles liefe gut, aber heute wurde mir überraschend gekündigt, ohne Angabe von Gründen. Die Kündigungsfrist beträgt nur zwei Wochen und ich habe keine Abmahnung erhalten. Ist das überhaupt rechtens? Kann der Arbeitgeber einfach so ohne Grund in der Probezeit kündigen?"
+        },
+        {
+            "id": 2,
+            "name": "Stefan",
+            "situation": "Ich arbeite als IT-Techniker mit einer vertraglichen 40-Stunden-Woche. In letzter Zeit verlangt mein Chef regelmäßig, dass ich länger bleibe, oft bis zu 10 Stunden pro Woche extra und meist kurzfristig angeordnet. In meinem Vertrag steht nichts Spezifisches zur Anordnung von Überstunden. Muss ich diese leisten, auch wenn ich private Pläne habe?"
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Letzte Woche war ich drei Tage krankgeschrieben und habe die Arbeitsunfähigkeitsbescheinigung (AU) pünktlich eingereicht. Jetzt hat mein Vorgesetzter in einem Gespräch nach der genauen Diagnose gefragt. Ich möchte das aber nicht sagen. Bin ich verpflichtet, meinem Chef mitzuteilen, welche Krankheit ich hatte?"
+        },
+        {
+            "id": 4,
+            "name": "Maria",
+            "situation": "Ich arbeite in einer Bäckerei und muss spezielle Berufskleidung (Schürze, weiße Hosen, spezielle Schuhe) tragen, die ich selbst kaufen musste. Nun habe ich gehört, man kann solche Kosten von der Steuer absetzen. Gilt das für jede Art von Berufskleidung und welche Belege brauche ich dafür? Wer weiß, wie das mit der steuerlichen Absetzbarkeit genau funktioniert?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Julia",
+            "timestamp": "vor 5 Stunden",
+            "content": "Nein, auf keinen Fall! Der Arbeitgeber hat Anspruch auf die Information, *dass* du krank bist und wie lange voraussichtlich (steht auf der AU), aber nicht auf die Diagnose. Das unterliegt der ärztlichen Schweigepflicht und geht den Chef nichts an. Er darf danach nicht fragen."
+        },
+        {
+            "id": "b",
+            "author": "David",
+            "timestamp": "vor 30 Minuten",
+            "content": "Wenn *du* kündigen willst, musst du die gesetzliche oder vertragliche Kündigungsfrist einhalten. Nach der Probezeit beträgt die gesetzliche Frist meist vier Wochen zum 15. oder Ende des Monats. Eine Begründung ist von deiner Seite nicht nötig, es sei denn, du möchtest das im Kündigungsschreiben tun."
+        },
+        {
+            "id": "c",
+            "author": "Lena",
+            "timestamp": "vor 2 Stunden",
+            "content": "Ja, leider ist das während der Probezeit (maximal 6 Monate) rechtens. Sowohl Arbeitnehmer als auch Arbeitgeber können das Arbeitsverhältnis mit einer Frist von zwei Wochen kündigen, ohne Gründe nennen zu müssen. Eine vorherige Abmahnung ist dafür nicht erforderlich. Das ist zwar hart, aber gesetzlich zulässig."
+        },
+        {
+            "id": "d",
+            "author": "Sandra",
+            "timestamp": "vor 1 Stunde",
+            "content": "Wichtig bei Krankheit ist, dass du die Arbeitsunfähigkeitsbescheinigung (AU) spätestens am vierten Tag der Krankheit vorlegst, manche Arbeitgeber verlangen sie schon früher. Nur dann hast du auch Anspruch auf Lohnfortzahlung für bis zu sechs Wochen. Danach zahlt die Krankenkasse Krankengeld."
+        },
+        {
+            "id": "e",
+            "author": "Ahmed",
+            "timestamp": "vor 3 Stunden",
+            "content": "Ich finde, Überstunden sollten die Ausnahme sein. Eine gute Work-Life-Balance ist extrem wichtig für die Gesundheit. Flexible Arbeitszeiten können dabei sehr helfen. Ständig Überstunden zu machen, führt doch nur zu Stress und Fehlern. Arbeitgeber sollten das mehr berücksichtigen!"
+        },
+        {
+            "id": "f",
+            "author": "Markus",
+            "timestamp": "vor 45 Minuten",
+            "content": "Grundsätzlich müssen Überstunden nur geleistet werden, wenn dies im Arbeitsvertrag, einem Tarifvertrag oder einer Betriebsvereinbarung explizit geregelt ist. Eine pauschale Anordnung ohne solche Grundlage ist meist nicht rechtens, außer in echten betrieblichen Notfällen. Prüfe deinen Vertrag genau oder sprich den Betriebsrat an."
+        }
+    ],
+    "solutions": {
+        "1": "c",
+        "2": "f",
+        "3": "a",
+        "4": "x"
+    }
+}

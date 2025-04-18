@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Petra",
-            "situation": "Ich arbeite Teilzeit 20 Stunden pro Woche. Mein Chef bittet mich aber fast jede Woche, länger zu bleiben, manchmal 3-4 Stunden extra. Im Vertrag steht nichts dazu, und ich bekomme weder mehr Geld noch Freizeitausgleich. Ist das erlaubt oder habe ich als Teilzeitkraft Anspruch auf Vergütung oder Ausgleich für diese Überstunden?"
+            "name": "Stefan",
+            "situation": "Mein Arbeitsvertrag wurde letzten Monat gekündigt. Jetzt habe ich meine Endabrechnung erhalten und festgestellt, dass meine restlichen 8 Urlaubstage nicht ausbezahlt wurden. Mein Ex-Chef meinte, verfallener Urlaub wird nicht vergütet. Stimmt das? Ich dachte, nicht genommener Urlaub muss finanziell abgegolten werden."
         },
         {
             "id": 2,
-            "name": "Stefan",
-            "situation": "Mein Arbeitsvertrag wurde letzten Monat gekündigt. Jetzt habe ich meine Endabrechnung erhalten und festgestellt, dass meine restlichen 8 Urlaubstage nicht ausbezahlt wurden. Mein Ex-Chef meinte, verfallener Urlaub wird nicht vergütet. Stimmt das? Ich dachte, nicht genommener Urlaub muss finanziell abgegolten werden."
+            "name": "Petra",
+            "situation": "Ich arbeite Teilzeit 20 Stunden pro Woche. Mein Chef bittet mich aber fast jede Woche, länger zu bleiben, manchmal 3-4 Stunden extra. Im Vertrag steht nichts dazu, und ich bekomme weder mehr Geld noch Freizeitausgleich. Ist das erlaubt oder habe ich als Teilzeitkraft Anspruch auf Vergütung oder Ausgleich für diese Überstunden?"
         },
         {
             "id": 3,
@@ -61,8 +61,8 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "e",
+        "2": "c",
+        "1": "e",
         "3": "a",
         "4": "x"
     }

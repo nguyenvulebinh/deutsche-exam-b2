@@ -3,23 +3,23 @@
     "people_seeking_info": [
         {
             "id": 1,
+            "name": "Samira",
+            "situation": "Mein Teamleiter hat mir mündlich eine Sonderzahlung versprochen, wenn ich ein wichtiges Projekt erfolgreich abschließe. Das Projekt ist super gelaufen, aber jetzt will er von der Zusage nichts mehr wissen und sagt, er könne sich nicht erinnern. Die Personalabteilung weiß auch von nichts. Ist so eine mündliche Zusage überhaupt gültig und wie kann ich das beweisen?"
+        },
+        {
+            "id": 2,
             "name": "Lea",
             "situation": "Ich bin total schockiert. Ich arbeite seit fünf Monaten in meiner neuen Firma und befinde mich noch in der Probezeit. Letzte Woche wurde ich noch für meine gute Arbeit gelobt, und heute habe ich die Kündigung erhalten. Ist das überhaupt erlaubt, so kurz vor Ende der Probezeit und ohne Angabe von Gründen? Was kann ich tun?"
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Ben",
             "situation": "In meinem Arbeitsvertrag steht, dass Überstunden bei Bedarf angeordnet werden können. Das passiert auch regelmäßig. Mein Chef bietet mir dafür immer Freizeitausgleich an, was ja nett ist. Aber ich bräuchte momentan eher das Geld. Kann ich darauf bestehen, dass meine Überstunden ausbezahlt werden, statt frei zu nehmen?"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Fatima",
             "situation": "Heute Morgen bin ich auf dem direkten Weg zur Arbeit auf dem vereisten Gehweg ausgerutscht. Zum Glück ist nicht viel passiert, nur mein Knie ist aufgeschürft. Muss ich so etwas Kleines trotzdem meinem Arbeitgeber melden? Mein Mann meint ja, wegen möglicher Spätfolgen, aber ich will keinen unnötigen Aufwand."
-        },
-        {
-            "id": 4,
-            "name": "Samira",
-            "situation": "Mein Teamleiter hat mir mündlich eine Sonderzahlung versprochen, wenn ich ein wichtiges Projekt erfolgreich abschließe. Das Projekt ist super gelaufen, aber jetzt will er von der Zusage nichts mehr wissen und sagt, er könne sich nicht erinnern. Die Personalabteilung weiß auch von nichts. Ist so eine mündliche Zusage überhaupt gültig und wie kann ich das beweisen?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "f",
-        "2": "a",
-        "3": "d",
-        "4": "x"
+        "2": "f",
+        "3": "a",
+        "4": "d",
+        "1": "x"
     }
 }

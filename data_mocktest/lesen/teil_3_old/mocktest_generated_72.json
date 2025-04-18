@@ -1,0 +1,69 @@
+{
+    "thema": "Arbeitsrechtliche Fragen",
+    "people_seeking_info": [
+        {
+            "id": 1,
+            "name": "Julia",
+            "situation": "Ich habe meine Probezeit erfolgreich bestanden. In einem Gespräch kurz davor hat mein Chef mir mündlich zugesagt, dass ich die Leitung eines neuen Projekts und eine damit verbundene Gehaltserhöhung bekomme. Jetzt, nach der Probezeit, will er davon nichts mehr wissen. Kann ich auf dieser mündlichen Zusage bestehen?"
+        },
+        {
+            "id": 2,
+            "name": "Ben",
+            "situation": "Ich bin heute bei der Arbeit auf der Treppe ausgerutscht und habe mir das Knie leicht geprellt. Es tut kaum noch weh. Muss ich so einen kleinen Vorfall überhaupt melden? Ich habe Sorge, dass es als unvorsichtig angesehen wird oder spätere Probleme auftreten könnten, wenn ich es jetzt nicht melde."
+        },
+        {
+            "id": 3,
+            "name": "Fatima",
+            "situation": "Ich arbeite täglich über sechs Stunden im Büro. Aufgrund der hohen Arbeitsbelastung fühle ich mich oft unter Druck gesetzt, meine Mittagspause zu kürzen oder sogar ganz ausfallen zu lassen. Darf mein Arbeitgeber das erwarten? Was ist die gesetzlich vorgeschriebene Mindestpausenzeit?"
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "situation": "Ich war zwei Wochen krankgeschrieben (ärztliches Attest liegt vor). Während meiner Krankheit habe ich nun die Kündigung zum Monatsende erhalten. Ist es überhaupt erlaubt, mir zu kündigen, während ich krankgeschrieben bin? Und gilt die Kündigungsfrist trotzdem?"
+        }
+    ],
+    "posts": [
+        {
+            "id": "a",
+            "author": "Markus",
+            "timestamp": "vor 2 Stunden",
+            "content": "Mündliche Zusagen können zwar grundsätzlich bindend sein, aber das Problem ist fast immer die Beweisbarkeit, wenn es keine Zeugen oder schriftlichen Notizen gibt. Rechtlich durchsetzen lässt sich das meist schwer. Mein Rat: Sprich es nochmal an, aber versuche für die Zukunft, wichtige Dinge schriftlich festzuhalten."
+        },
+        {
+            "id": "b",
+            "author": "Sandra",
+            "timestamp": "vor 45 Minuten",
+            "content": "Melde jeden Arbeitsunfall, egal wie klein er erscheint, sofort deinem Arbeitgeber und ggf. dem Durchgangsarzt! Das ist wichtig für den Versicherungsschutz durch die Berufsgenossenschaft, falls doch Spätfolgen auftreten. Es dient deinem eigenen Schutz, nicht um dich schlecht dastehen zu lassen."
+        },
+        {
+            "id": "c",
+            "author": "Leo",
+            "timestamp": "vor 5 Stunden",
+            "content": "Das Arbeitszeitgesetz ist da eindeutig: Bei einer Arbeitszeit von mehr als sechs Stunden stehen dir mindestens 30 Minuten Pause zu, bei mehr als neun Stunden sind es 45 Minuten. Diese Pausen sind vorgeschrieben und dürfen nicht einfach übersprungen oder ausbezahlt werden. Dein Arbeitgeber darf das Nichtnehmen nicht verlangen."
+        },
+        {
+            "id": "d",
+            "author": "Anna",
+            "timestamp": "vor 1 Stunde",
+            "content": "Das ist total ärgerlich, wenn Versprechen nicht gehalten werden! Das zerstört das Vertrauen. Mir ist sowas Ähnliches auch schon passiert. Für die Zukunft habe ich gelernt: Immer alles Wichtige, besonders wenn es ums Geld oder Positionen geht, schriftlich festhalten, und sei es nur in einer E-Mail als Gesprächsnotiz."
+        },
+        {
+            "id": "e",
+            "author": "Stefan",
+            "timestamp": "vor 3 Stunden",
+            "content": "Klar bist du auf dem Weg zur Arbeit und zurück versichert! Das nennt man Wegeunfall und dafür ist die Berufsgenossenschaft zuständig. Wenn da was passiert, musst du es melden. Hauptsache, du warst auf dem direkten Weg und hast keinen privaten Umweg gemacht."
+        },
+        {
+            "id": "f",
+            "author": "Melanie",
+            "timestamp": "vor 30 Minuten",
+            "content": "Hohe Arbeitsbelastung ist stressig, kenne ich gut. Vielleicht hilft es dir, über flexible Arbeitszeiten (Gleitzeit) zu sprechen? Wenn du deine Arbeitszeit besser an deine Aufgaben anpassen kannst, wird der Druck vielleicht weniger und Pausen fühlen sich dann auch entspannter an."
+        }
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "x"
+    }
+}

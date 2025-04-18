@@ -8,18 +8,18 @@
         },
         {
             "id": 2,
+            "name": "David",
+            "situation": "Ich habe einen Arbeitsvertrag mit festen 40 Stunden pro Woche. In letzter Zeit kommt es aber häufiger vor, dass mein Chef mich bittet, abends noch eine halbe oder ganze Stunde länger zu bleiben, um dringende Aufgaben fertigzustellen. Diese zusätzliche Zeit wird bei uns weder offiziell erfasst noch irgendwie vergütet oder durch Freizeit ausgeglichen. Kann ich es einfach ablehnen, länger zu arbeiten, oder habe ich trotzdem Anspruch auf irgendeine Form von Ausgleich, auch wenn es keine schriftliche Überstundenregelung gibt?"
+        },
+        {
+            "id": 3,
             "name": "Ben",
             "situation": "Hilfe! Mein Chef hat mir heute im Gespräch mitgeteilt, dass mein Arbeitsverhältnis nicht fortgesetzt wird. Ich bin noch in der Probezeit (5. Monat). Er meinte, das reicht so, ich bräuchte nichts Schriftliches. Ist eine mündliche Kündigung in der Probezeit wirklich gültig? Ich bin total verunsichert."
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Alina",
             "situation": "Ich hatte zwei Wochen Urlaub geplant und genehmigt bekommen. Leider bin ich am dritten Urlaubstag krank geworden und war für 5 Tage krankgeschrieben (Attest liegt dem Arbeitgeber vor). Jetzt sehe ich auf meiner Lohnabrechnung, dass mir trotzdem die vollen zwei Wochen als Urlaub abgezogen wurden. Darf der Arbeitgeber die Krankheitstage einfach als Urlaub zählen?"
-        },
-        {
-            "id": 4,
-            "name": "David",
-            "situation": "Ich habe einen Arbeitsvertrag mit festen 40 Stunden pro Woche. In letzter Zeit kommt es aber häufiger vor, dass mein Chef mich bittet, abends noch eine halbe oder ganze Stunde länger zu bleiben, um dringende Aufgaben fertigzustellen. Diese zusätzliche Zeit wird bei uns weder offiziell erfasst noch irgendwie vergütet oder durch Freizeit ausgeglichen. Kann ich es einfach ablehnen, länger zu arbeiten, oder habe ich trotzdem Anspruch auf irgendeine Form von Ausgleich, auch wenn es keine schriftliche Überstundenregelung gibt?"
         }
     ],
     "posts": [
@@ -62,8 +62,8 @@
     ],
     "solutions": {
         "1": "a",
-        "2": "b",
-        "3": "c",
-        "4": "x"
+        "3": "b",
+        "4": "c",
+        "2": "x"
     }
 }

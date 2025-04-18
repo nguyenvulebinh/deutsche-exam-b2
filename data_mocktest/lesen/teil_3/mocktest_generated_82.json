@@ -3,13 +3,13 @@
     "people_seeking_info": [
         {
             "id": 1,
-            "name": "Ansgar",
-            "situation": "Ich arbeite seit Kurzem in leitender Position und muss jetzt das erste Mal einen Mitarbeiter entlassen. Der Angestellte ist älter als ich und arbeitet schon sehr lange in der Firma. Ich kenne natürlich die gesetzlichen Vorgaben und Fristen, weiß aber nicht, wie ich bei der Durchführung der Kündigung am besten vorgehen soll. Kann mir jemand einen Rat geben?"
+            "name": "Serena",
+            "situation": "Ich bin mit meiner Arbeit eigentlich unzufrieden und habe etwas Besseres in Aussicht. Nun möchte ich kündigen. Meine Chefin war aber immer sehr bemüht um mich und hat mir gerade erst eine Gehaltserhöhung gegeben. Nun weiß ich nicht so richtig, wie ich das Kündigungsschreiben angemessen und taktvoll formulieren soll. Hat jemand einen Tipp für mich?"
         },
         {
             "id": 2,
-            "name": "Will",
-            "situation": "Hallo liebe Forumsmitglieder! Ich stehe noch unter Schock. Soeben ist mir in der Probezeit gekündigt worden. Ich bin schon fünf Monate im Betrieb und noch letzte Woche hat man mich für meine Arbeit gelobt. Was mache ich jetzt? Habe ich irgendwelche Rechte?"
+            "name": "Ansgar",
+            "situation": "Ich arbeite seit Kurzem in leitender Position und muss jetzt das erste Mal einen Mitarbeiter entlassen. Der Angestellte ist älter als ich und arbeitet schon sehr lange in der Firma. Ich kenne natürlich die gesetzlichen Vorgaben und Fristen, weiß aber nicht, wie ich bei der Durchführung der Kündigung am besten vorgehen soll. Kann mir jemand einen Rat geben?"
         },
         {
             "id": 3,
@@ -18,8 +18,8 @@
         },
         {
             "id": 4,
-            "name": "Serena",
-            "situation": "Ich bin mit meiner Arbeit eigentlich unzufrieden und habe etwas Besseres in Aussicht. Nun möchte ich kündigen. Meine Chefin war aber immer sehr bemüht um mich und hat mir gerade erst eine Gehaltserhöhung gegeben. Nun weiß ich nicht so richtig, wie ich das Kündigungsschreiben angemessen und taktvoll formulieren soll. Hat jemand einen Tipp für mich?"
+            "name": "Will",
+            "situation": "Hallo liebe Forumsmitglieder! Ich stehe noch unter Schock. Soeben ist mir in der Probezeit gekündigt worden. Ich bin schon fünf Monate im Betrieb und noch letzte Woche hat man mich für meine Arbeit gelobt. Was mache ich jetzt? Habe ich irgendwelche Rechte?"
         }
     ],
     "posts": [
@@ -61,9 +61,9 @@
         }
     ],
     "solutions": {
-        "1": "c",
-        "2": "x",
+        "2": "c",
+        "4": "x",
         "3": "b",
-        "4": "d"
+        "1": "d"
     }
 }
