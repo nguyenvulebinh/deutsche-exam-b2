@@ -61,8 +61,171 @@ class Teil3Part extends BasePart {
      * Render the test content
      */
     render() {
-        // Display the test using the engine
-        this.engine.displayTest(this.testData);
+        // Create a deep copy of the test data to avoid modifying the original
+        const testCopy = JSON.parse(JSON.stringify(this.testData));
+                
+        // Display the test using our direct methods
+        this.engine.userAnswers = {};  // Reset user answers
+        this.updateEngineWithShuffledData(testCopy);
+    }
+    
+    /**
+     * Update the engine with our shuffled data instead of letting it shuffle again
+     * @param {Object} testData - The already shuffled test data
+     */
+    updateEngineWithShuffledData(testData) {
+        // Update instructions if available
+        if (this.elements.instructions && testData.instructions) {
+            this.elements.instructions.textContent = testData.instructions;
+        }
+        
+        // Update thema title if available
+        if (this.elements.themaTitle && testData.thema) {
+            this.elements.themaTitle.textContent = `Thema: ${testData.thema}`;
+        }
+        
+        // Create the answer grid
+        this.createAnswerGrid(testData);
+        
+        // Display people and posts
+        this.displayPeople(testData.people_seeking_info);
+        this.displayPosts(testData.posts);
+        
+        // Store the shuffled data in the engine
+        this.engine.currentTest = testData;
+    }
+    
+    /**
+     * Create the answer grid for the test
+     * @param {Object} test - Test data 
+     */
+    createAnswerGrid(test) {
+        const answerGrid = this.elements.answerGrid;
+        
+        // Clear existing grid
+        answerGrid.innerHTML = '';
+        
+        // Use the same grid layout as in LesenTeil3
+        answerGrid.className = 'answer-grid teil-3';
+        
+        // Column IDs (a, b, c, d, e, f, x)
+        const columnIds = ['a', 'b', 'c', 'd', 'e', 'f', 'x'];
+        
+        // Add top-left empty cell
+        answerGrid.appendChild(this.createGridCell('', 'grid-header'));
+        
+        // Add column headers (a-f, x)
+        columnIds.forEach(id => {
+            answerGrid.appendChild(this.createGridCell(id, 'grid-header'));
+        });
+        
+        // Add rows for each person
+        const people = test.people_seeking_info;
+        people.forEach(person => {
+            // Add row header with person ID
+            answerGrid.appendChild(this.createGridCell(person.id, 'grid-header'));
+            
+            // Add selectable cells for each column
+            columnIds.forEach(columnId => {
+                const cell = this.createGridCell('', 'grid-cell');
+                cell.dataset.person = person.id;
+                cell.dataset.column = columnId;
+                cell.addEventListener('click', (e) => this.handleCellClick(e));
+                answerGrid.appendChild(cell);
+            });
+        });
+    }
+    
+    /**
+     * Create a grid cell element
+     * @param {string} text - Text content of the cell
+     * @param {string} className - CSS class for the cell
+     * @returns {HTMLElement} - Grid cell element
+     */
+    createGridCell(text, className) {
+        const cell = document.createElement('div');
+        cell.className = className;
+        cell.textContent = text;
+        return cell;
+    }
+    
+    /**
+     * Display people seeking information
+     * @param {Array} people - People data
+     */
+    displayPeople(people) {
+        const container = this.elements.peopleContainer;
+        container.innerHTML = '';
+        
+        people.forEach(person => {
+            const personElement = document.createElement('div');
+            personElement.className = 'person';
+            
+            const header = document.createElement('h3');
+            header.textContent = `${person.id}. ${person.name}`;
+            
+            const content = document.createElement('p');
+            content.textContent = person.situation;
+            
+            personElement.appendChild(header);
+            personElement.appendChild(content);
+            container.appendChild(personElement);
+        });
+    }
+    
+    /**
+     * Display posts
+     * @param {Array} posts - Posts data
+     */
+    displayPosts(posts) {
+        const container = this.elements.postsContainer;
+        container.innerHTML = '';
+        
+        posts.forEach(post => {
+            const postElement = document.createElement('div');
+            postElement.className = 'post';
+            
+            const header = document.createElement('h3');
+            header.textContent = `${post.id}. ${post.author}`;
+            
+            const timestamp = document.createElement('div');
+            timestamp.className = 'timestamp';
+            timestamp.textContent = post.timestamp;
+            
+            const content = document.createElement('p');
+            content.textContent = post.content;
+            
+            postElement.appendChild(header);
+            postElement.appendChild(timestamp);
+            postElement.appendChild(content);
+            container.appendChild(postElement);
+        });
+    }
+    
+    /**
+     * Handle click on answer grid cell
+     * @param {Event} event - Click event
+     */
+    handleCellClick(event) {
+        // If in review mode, don't allow changes
+        if (this.isReviewMode) return;
+        
+        const cell = event.currentTarget;
+        const person = cell.dataset.person;
+        const column = cell.dataset.column;
+        
+        // Clear selection in this row
+        const rowCells = document.querySelectorAll(`.grid-cell[data-person="${person}"]`);
+        rowCells.forEach(cell => cell.classList.remove('selected'));
+        
+        // Select this cell
+        cell.classList.add('selected');
+        
+        // Record the answer in both our local userAnswers and the engine's
+        this.userAnswers[person] = column;
+        if (this.engine) {
+            this.engine.userAnswers = {...this.userAnswers};
+        }
     }
 
     /**

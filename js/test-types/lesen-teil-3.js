@@ -258,10 +258,7 @@ class LesenTeil3 extends TestEngine {
     displayTest(test) {
         // Create a deep copy of the test to avoid modifying the original
         const testCopy = JSON.parse(JSON.stringify(test));
-        
-        // Shuffle the people order while preserving the correct solutions
-        this.shufflePeople(testCopy);
-        
+                
         // Call the parent method to handle basic display
         super.displayTest(testCopy);
         
@@ -281,60 +278,6 @@ class LesenTeil3 extends TestEngine {
         
         // Display posts
         this.displayPosts(testCopy.posts);
-    }
-    
-    /**
-     * Shuffle the people_seeking_info array while preserving the correct solutions
-     * @param {Object} test - Test data to modify
-     */
-    shufflePeople(test) {
-        // Store original people and their solutions
-        const originalPeople = [...test.people_seeking_info];
-        const originalSolutions = {...test.solutions};
-        
-        // Create a shuffled order of indices
-        const indices = originalPeople.map((_, i) => i);
-        this.shuffleArray(indices);
-        
-        // Remap the people's IDs and update the solutions
-        const newSolutions = {};
-        const shuffledPeople = indices.map((originalIndex, newIndex) => {
-            const person = originalPeople[originalIndex];
-            const originalId = person.id;
-            const newId = newIndex + 1; // Visual IDs still start from 1
-            
-            // Store mapping between original and new IDs
-            this.shuffledPeopleMap[originalId] = newId;
-            
-            // Update solutions to match new IDs
-            if (originalSolutions[originalId]) {
-                newSolutions[newId] = originalSolutions[originalId];
-            }
-            
-            // Create a new person object with updated ID
-            return {
-                ...person,
-                id: newId
-            };
-        });
-        
-        // Save the original order for reference
-        this.originalPeopleOrder = originalPeople.map(p => p.id);
-        
-        // Update the test object with shuffled people and remapped solutions
-        test.people_seeking_info = shuffledPeople;
-        test.solutions = newSolutions;
-    }
-    
-    /**
-     * Helper method to shuffle an array in-place (Fisher-Yates algorithm)
-     * @param {Array} array - Array to shuffle
-     */
-    shuffleArray(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
-        }
     }
     
     /**
