@@ -291,8 +291,6 @@ class TestEngine {
         // Store a reference to the current test
         this.currentTest = test;
         
-        // Log which test is being displayed - more detailed
-        console.log(`▶️ DISPLAYING TEST: ${test.thema || test.title || 'Unknown test'}`);
         if (test._sourceFilename) {
             console.log(`📄 Task file: ${test._sourceFilename}`);
         }

@@ -14,10 +14,21 @@ telc_b2_test/
 │   ├── core/               # Core functionality
 │   │   ├── test-engine.js  # Base test engine
 │   │   └── utils.js        # Utility functions
+│   ├── components/         # Reusable UI components
+│   │   ├── parts/          # Components for different test parts
+│   │   │   ├── BasePart.js # Base class for test parts
+│   │   │   ├── Teil1Part.js # Teil 1 implementation
+│   │   │   ├── Teil2Part.js # Teil 2 implementation
+│   │   │   ├── Teil3Part.js # Teil 3 implementation
+│   │   │   └── Teil4Part.js # Teil 4 implementation
+│   │   ├── exam/           # Exam-specific components
+│   │   └── utils/          # Utility components
 │   ├── test-types/         # Specific test implementations
 │   │   ├── lesen-teil-1.js # Lesen Teil 1 implementation
 │   │   ├── lesen-teil-2.js # Lesen Teil 2 implementation
-│   │   └── ...             # Other test types
+│   │   ├── lesen-teil-3.js # Lesen Teil 3 implementation
+│   │   ├── lesen-teil-4.js # Lesen Teil 4 implementation
+│   │   └── lesen-exam.js   # Complete Lesen exam implementation
 │   └── app.js              # Main application script
 ├── data_mocktest/          # Test data files
 │   ├── lesen/
@@ -25,15 +36,46 @@ telc_b2_test/
 │   │   ├── teil_1_manifest.json  # Manifest for Teil 1
 │   │   ├── teil_2/         # Lesen Teil 2 test files
 │   │   ├── teil_2_manifest.json  # Manifest for Teil 2
-│   │   └── ...             # Other Lesen test parts
-│   ├── hoeren/             # Hörverstehen tests
-│   └── ...                 # Other test skills
+│   │   ├── teil_3/         # Lesen Teil 3 test files
+│   │   ├── teil_3_manifest.json  # Manifest for Teil 3
+│   │   ├── teil_4/         # Lesen Teil 4 test files
+│   │   └── teil_4_manifest.json  # Manifest for Teil 4
 ├── tests/                  # HTML test files
 │   ├── lesen_teil_1.html   # Lesen Teil 1 test page
 │   ├── lesen_teil_2.html   # Lesen Teil 2 test page
-│   └── ...                 # Other test pages
-└── index.html              # Main HTML file
+│   ├── lesen_teil_3.html   # Lesen Teil 3 test page
+│   ├── lesen_teil_4.html   # Lesen Teil 4 test page
+│   ├── lesen_exam.html     # Complete Lesen exam page
+│   ├── lesen_und_schreiben_teil_1.html # Lesen und Schreiben Teil 1 page
+│   └── lesen_und_schreiben_teil_2.html # Lesen und Schreiben Teil 2 page
+├── index.html              # Main HTML file
+├── .env                    # Environment variables
+├── requirements.txt        # Python dependencies for local development
+└── test.py                 # Test script for backend/data processing
 ```
+
+## Architecture Overview
+
+The application follows a modular architecture:
+
+1. **Core Engine**: The `TestEngine` class in `js/core/test-engine.js` provides the foundation for all test types, handling:
+   - Test data loading with multiple fallback mechanisms
+   - Test selection and display
+   - Answer checking and scoring
+   - UI state management
+
+2. **Test Types**: Each test type (e.g., `lesen-teil-1.js`) extends the base `TestEngine` class, implementing:
+   - Test-specific UI rendering
+   - Validation logic for test data
+   - Answer checking logic
+   - Custom event handling
+
+3. **Components**: The `js/components` directory contains reusable UI components:
+   - `parts/`: Components for different test parts that encapsulate the rendering and interaction logic
+   - `exam/`: Components for full exam simulations
+   - `utils/`: Utility components for the UI
+
+4. **Test Data**: JSON files in `data_mocktest/` directory organize test content by skill and part
 
 ## How to Run
 
@@ -46,13 +88,65 @@ telc_b2_test/
 
 ## Test Types
 
-The application supports multiple test types with different formats:
+The application currently supports the following test types:
 
-### Lesen Teil 1
+### Lesen (Reading)
+
+#### Lesen Teil 1
 This test involves matching people/situations (numbered 1-5) to articles/texts (lettered a-h). Users select the appropriate article for each person through an interactive grid.
 
-### Lesen Teil 2
+#### Lesen Teil 2
 This test presents a reading passage followed by multiple-choice questions. Users read the text and then select the correct answer for each question.
+
+#### Lesen Teil 3
+This test focuses on understanding workplace conditions with text passages and comprehension questions.
+
+#### Lesen Teil 4
+This test involves understanding tasks and task distribution with text-based exercises.
+
+#### Lesen Exam
+A complete exam simulation that combines all four Lesen parts into one test experience.
+
+### Lesen und Schreiben (Reading and Writing)
+
+#### Teil 1: Beschwerden und Anweisungen verstehen
+This test focuses on understanding complaints and instructions.
+
+#### Teil 2: Auf Beschwerden reagieren
+This test focuses on responding to complaints in written form.
+
+## Core Components
+
+### TestEngine
+
+The `TestEngine` class (`js/core/test-engine.js`) is the core of the application, providing:
+
+1. **Test data loading** with multiple fallback mechanisms:
+   - New format manifest: `data_mocktest/lesen/teil_1_manifest.json`
+   - Old format manifest: `data_mocktest/lesen/teil_1/file_manifest.json`
+   - Directory listing (for local development)
+   - Hardcoded fallback lists
+
+2. **Test lifecycle management**:
+   - Initialization
+   - Random test selection
+   - Test display
+   - Answer checking
+   - Score calculation
+   - Results display
+
+3. **DOM interaction**:
+   - Element references
+   - Event listeners
+   - UI state management
+
+### Utils
+
+The `Utils` class (`js/core/utils.js`) provides utility functions for:
+- DOM manipulation
+- File operations
+- Data processing
+- UI helpers
 
 ## GitHub Pages Deployment
 
@@ -82,8 +176,9 @@ To add a new test type:
 1. Create test data files in the appropriate directory (e.g., `data_mocktest/lesen/teil_3/`)
 2. Create a manifest file using the new format: `data_mocktest/lesen/teil_3_manifest.json`
 3. Create a new test type implementation in `js/test-types/` (e.g., `lesen-teil-3.js`)
-4. Create an HTML test page in the `tests/` directory
-5. Register the new test type in `app.js`
+4. Create a component in `js/components/parts/` if needed (e.g., `Teil3Part.js`)
+5. Create an HTML test page in the `tests/` directory
+6. Register the new test type in `app.js`
 
 ### Example: Creating a New Test Type
 
@@ -203,6 +298,9 @@ Each test type has its own specific JSON format:
     ]
 }
 ```
+
+### Lesen Teil 3 & 4 Format
+Similar to Teil 2 with specific adaptations for each test type.
 
 ## License
 

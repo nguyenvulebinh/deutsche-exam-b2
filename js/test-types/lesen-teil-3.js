@@ -258,7 +258,6 @@ class LesenTeil3 extends TestEngine {
     displayTest(test) {
         // Create a deep copy of the test to avoid modifying the original
         const testCopy = JSON.parse(JSON.stringify(test));
-                
         // Call the parent method to handle basic display
         super.displayTest(testCopy);
         

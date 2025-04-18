@@ -131,8 +131,6 @@ class LesenTeil4 extends TestEngine {
      * @param {Object} test - Test data to display
      */
     displayTest(test) {
-        // console.log('Displaying test:', test);
-
         // Call the parent method to handle basic display
         super.displayTest(test);
         
