@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Geschäftsreisen: Planung und Abrechnung\n\nGeschäftsreisen sind ein wichtiger Bestandteil unserer Tätigkeit, um Kunden zu besuchen, an Konferenzen teilzunehmen oder Projekte vor Ort zu betreuen. Grundsätzlich muss jede Dienstreise vor Antritt von Ihrer direkten Teamleitung genehmigt werden. Dabei ist stets das Prinzip der Wirtschaftlichkeit zu beachten; es sollte immer die kostengünstigste und zugleich zweckmäßigste Reiseoption gewählt werden.\n\nFür die Buchung von Reisen gelten klare Vorgaben. Standardisierte Bahnfahrten innerhalb Deutschlands sowie Übernachtungen in unseren Partnerhotels buchen Sie bitte selbstständig über unser internes Online-Buchungstool. Für Flugbuchungen, komplexere Reiserouten oder internationale Reisen steht Ihnen unser Partnerreisebüro zur Verfügung. Eine direkte Buchung anderer Hotels oder Verkehrsmittel ist nur in begründeten Ausnahmefällen und nach vorheriger Rücksprache und Genehmigung durch die Teamleitung möglich.\n\nDie Abrechnung Ihrer Reisekosten muss zeitnah nach Ihrer Rückkehr erfolgen. Bitte reichen Sie Ihre vollständige Reisekostenabrechnung inklusive aller Originalbelege (z.B. Fahrkarten, Hotelrechnungen, Tankquittungen) spätestens innerhalb von 10 Werktagen nach Reiseende bei der Buchhaltung ein. Verpflegungsmehraufwendungen werden gemäß den gesetzlichen Tagespauschalen erstattet. Falls Sie Ausgaben privat bezahlt haben (Vorkasse), werden diese erstattet; idealerweise nutzen Sie für dienstliche Ausgaben jedoch die Firmenkreditkarte, sofern Ihnen eine zur Verfügung gestellt wurde.\n\nDie Nutzung Ihres privaten PKW für Dienstreisen ist möglich, bedarf jedoch ebenfalls der vorherigen Genehmigung. Diese wird in der Regel nur erteilt, wenn umfangreiches Material transportiert werden muss oder der Zielort mit öffentlichen Verkehrsmitteln nur sehr schwer erreichbar ist. In diesem Fall wird Ihnen eine Kilometerpauschale erstattet. Für die Abrechnung ist die Vorlage eines detaillierten Fahrtenbuchs oder einer genauen Auflistung der gefahrenen Strecke erforderlich.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter dürfen für jede Geschäftsreise nach eigenem Ermessen ihr privates Fahrzeug nutzen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Für die Buchung von Standard-Bahnfahrten...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist das Online-Buchungstool der Firma zu verwenden."
+                },
+                {
+                    "key": "b",
+                    "text": "muss immer das Partnerreisebüro kontaktiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "können Tickets selbst gekauft und später eingereicht werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

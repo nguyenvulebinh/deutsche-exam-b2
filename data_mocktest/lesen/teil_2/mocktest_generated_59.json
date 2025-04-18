@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinien und Datensicherheit\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter,\n\ndie IT-Infrastruktur unseres Unternehmens ist ein wesentliches Arbeitsmittel. Um die Sicherheit unserer Systeme und Daten zu gewährleisten, bitten wir Sie dringend, die folgenden Richtlinien zu beachten. Diese gelten für die Nutzung aller firmeneigenen Geräte sowie des Firmennetzwerks.\n\nIhr Zugang zum System ist durch ein persönliches Passwort geschützt. Dieses muss komplex sein (mindestens 12 Zeichen, Groß-/Kleinbuchstaben, Zahlen, Sonderzeichen) und alle 90 Tage geändert werden. Geben Sie Ihr Passwort unter keinen Umständen an Dritte weiter. Auf den Firmencomputern darf ausschließlich vom Unternehmen freigegebene Software installiert und genutzt werden. Sollten Sie spezielle Software für Ihre Arbeit benötigen, stellen Sie bitte einen Antrag über das IT-Serviceportal.\n\nDie Nutzung des Firmen-E-Mail-Kontos ist rein dienstlichen Zwecken vorbehalten; private Korrespondenz ist nicht gestattet. Seien Sie besonders vorsichtig bei E-Mails von unbekannten Absendern oder mit unerwarteten Anhängen. Öffnen Sie keine verdächtigen Links oder Dateien und leiten Sie solche E-Mails umgehend unbearbeitet an die IT-Sicherheitsabteilung (it-sicherheit@firma.de) weiter.\n\nDie Internetnutzung soll primär arbeitsbezogen erfolgen. Eine kurze, angemessene private Nutzung (z.B. Nachrichten lesen, Online-Banking) ist ausschließlich während der offiziellen Pausenzeiten erlaubt. Das Herunterladen von nicht arbeitsrelevanten Dateien ist untersagt. Alle Unternehmensdaten sind vertraulich zu behandeln und gemäß den Datenschutzvorgaben (DSGVO) zu sichern. Bei Fragen zur IT-Nutzung oder im Falle technischer Probleme wenden Sie sich bitte an den IT-Support (Durchwahl -450). Verstöße gegen diese Richtlinien können arbeitsrechtliche Konsequenzen nach sich ziehen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Private Internetnutzung ist während der gesamten Arbeitszeit strikt verboten.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was sollen Mitarbeiter tun, wenn sie eine E-Mail erhalten, die ihnen verdächtig vorkommt?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie sollen die Mail unbearbeitet an die zuständige IT-Sicherheitsabteilung senden."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie müssen den Anhang sofort löschen und den Absender blockieren."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie können die Mail öffnen, falls ihr Virenscanner keine Warnung anzeigt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

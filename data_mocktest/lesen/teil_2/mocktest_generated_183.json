@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und ärztliche Bescheinigung\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie, dies unverzüglich, das heißt noch vor Ihrem regulären Arbeitsbeginn am ersten Krankheitstag, Ihrem direkten Vorgesetzten oder Ihrer direkten Vorgesetzten mitzuteilen. Ein Anruf ist hierfür der bevorzugte Weg; alternativ ist auch eine E-Mail möglich, sofern eine telefonische Erreichbarkeit nicht gegeben ist. Informieren Sie dabei bitte auch über die voraussichtliche Dauer Ihrer Abwesenheit.\n\nDie gesetzliche Regelung sieht vor, dass eine ärztliche Bescheinigung über die Arbeitsunfähigkeit, die sogenannte Arbeitsunfähigkeitsbescheinigung (AU), spätestens am vierten Kalendertag der Erkrankung dem Arbeitgeber vorliegen muss. Bitte beachten Sie, dass in unserer Firma intern davon abgewichen wird: Wir benötigen die AU bereits **ab dem dritten Kalendertag** Ihrer Krankheit. Diese Bescheinigung muss die voraussichtliche Dauer der Arbeitsunfähigkeit angeben.\n\nDauert die Krankheit länger als in der ursprünglichen AU angegeben, ist unverzüglich eine Folgebescheinigung einzureichen. Auch diese muss spätestens am Tag nach Ablauf der vorherigen Bescheinigung bei uns eingehen. Ohne gültige AU kann keine Lohnfortzahlung erfolgen.\n\nDie Übermittlung der AU kann auf zwei Wegen erfolgen: Sie können die Bescheinigung bequem digital über unser Mitarbeiterportal hochladen. Alternativ können Sie das Original per Post an die Personalabteilung (Adresse siehe Intranet) senden oder persönlich dort abgeben. Der digitale Weg wird jedoch zur schnelleren Bearbeitung bevorzugt.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen sich bereits am ersten Tag krankmelden, die ärztliche Bescheinigung jedoch erst am dritten Tag vorlegen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie krank sind, sollen Sie dies Ihrem Vorgesetzten...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erst am dritten Tag mitteilen."
+                },
+                {
+                    "key": "b",
+                    "text": "am besten telefonisch melden."
+                },
+                {
+                    "key": "c",
+                    "text": "immer per E-Mail bekannt geben."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

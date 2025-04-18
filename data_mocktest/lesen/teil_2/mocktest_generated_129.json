@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es von entscheidender Bedeutung, dass Sie das Unternehmen korrekt und zeitnah informieren. Bitte melden Sie sich am ersten Tag Ihrer Abwesenheit unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn (idealerweise bis 8:30 Uhr), telefonisch bei Ihrer direkten Führungskraft krank.\n\nZusätzlich zur Information Ihrer Führungskraft ist es zwingend erforderlich, auch die Personalabteilung (Durchwahl -150 oder per E-Mail an personal@firma.de) über Ihre Abwesenheit in Kenntnis zu setzen. Diese doppelte Meldung stellt sicher, dass sowohl Ihr Team als auch die zentrale Verwaltung informiert sind.\n\nDauert die Arbeitsunfähigkeit länger als drei Kalendertage an, sind Sie verpflichtet, spätestens am darauffolgenden Arbeitstag eine ärztliche Bescheinigung über das Bestehen der Arbeitsunfähigkeit sowie deren voraussichtliche Dauer (Arbeitsunfähigkeitsbescheinigung, „Attest“) in der Personalabteilung vorzulegen. Dies bedeutet, dass das Attest bei einer Erkrankung, die beispielsweise am Montag beginnt, spätestens am Donnerstag im Unternehmen sein muss.\n\nBei länger andauernder Krankheit ist jede Folgebescheinigung ebenfalls unverzüglich nach Erhalt bei der Personalabteilung einzureichen. Eine verspätete Vorlage der Bescheinigungen kann arbeitsrechtliche Konsequenzen nach sich ziehen. Denken Sie daran, dass eine lückenlose Dokumentation Ihrer krankheitsbedingten Abwesenheit wichtig ist.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl der direkte Vorgesetzte als auch die Personalabteilung müssen unverzüglich über eine Erkrankung unterrichtet werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Bescheinigung (Attest) ist notwendig,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sobald man sich telefonisch krankgemeldet hat."
+                },
+                {
+                    "key": "b",
+                    "text": "wenn die Arbeitsunfähigkeit länger als drei Kalendertage dauert."
+                },
+                {
+                    "key": "c",
+                    "text": "nur nach expliziter Aufforderung durch die Führungskraft."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen für Dienstreisen\n\nWir freuen uns, wenn Sie unser Unternehmen auf Dienstreisen vertreten. Damit alles reibungslos abläuft, bitten wir Sie, die folgenden Regelungen zu beachten. Grundsätzlich muss jede Dienstreise vor Antritt von Ihrem direkten Vorgesetzten schriftlich genehmigt werden. Bitte reichen Sie Ihren Reiseantrag über das interne System mindestens zehn Arbeitstage vor Reisebeginn ein, damit ausreichend Zeit für die Prüfung bleibt.\n\nFür die Buchung von Transportmitteln und Unterkünften nutzen Sie bitte ausschließlich unser zentrales Buchungsportal „TravelLink“. Wir bevorzugen aus ökologischen und wirtschaftlichen Gründen Reisen mit der Bahn (2. Klasse). Flugreisen oder die Nutzung des privaten PKW sind nur in begründeten Ausnahmefällen und nach expliziter zusätzlicher Genehmigung durch den Vorgesetzten gestattet, beispielsweise wenn dadurch eine erhebliche Zeit- oder Kostenersparnis erzielt wird. Bei genehmigter Nutzung des Privatwagens wird eine Kilometerpauschale gemäß der aktuellen Dienstanweisung gezahlt. Für Hotelübernachtungen gilt eine Obergrenze, die Sie ebenfalls im Portal finden.\n\nNach Beendigung der Reise sind Sie verpflichtet, innerhalb von vier Wochen eine Reisekostenabrechnung über „TravelLink“ einzureichen. Fügen Sie dem Antrag bitte alle Originalbelege (Fahrkarten, Hotelrechnungen etc.) bei. Digitale Belege sind im PDF-Format hochzuladen. Es wird eine gesetzliche Verpflegungspauschale pro Abwesenheitstag gewährt; die Kosten für Mahlzeiten müssen daher nicht einzeln belegt werden, es sei denn, es handelt sich um Bewirtungskosten für Geschäftspartner.\n\nPrivate Ausgaben, wie zum Beispiel für Minibar, Pay-TV oder private Telefonate, werden nicht erstattet. Auch Upgrades bei Flug- oder Bahnreisen, die nicht dienstlich notwendig sind, müssen privat getragen werden. Bei Fragen zur Abrechnung oder zum Buchungsportal wenden Sie sich bitte an Frau Berger in der Personalabteilung (Durchwahl -112).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle während einer Dienstreise anfallenden Kosten werden von der Firma vollständig übernommen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Nutzung des privaten PKW für eine Dienstreise...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist möglich, wenn es wirtschaftlicher ist und genehmigt wurde."
+                },
+                {
+                    "key": "b",
+                    "text": "wird generell bevorzugt, um Kosten zu sparen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird pauschal mit einem festen Betrag pro Reise vergütet."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

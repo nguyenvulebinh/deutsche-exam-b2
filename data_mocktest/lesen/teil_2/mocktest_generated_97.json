@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der firmeneigenen E-Bikes\n\nAls Beitrag zur Gesundheitsförderung unserer Mitarbeitenden und zum Umweltschutz stellen wir Ihnen moderne E-Bikes zur Verfügung. Diese können Sie kostenlos sowohl für kürzere Dienstfahrten als auch für private Erledigungen während Ihrer Mittagspause nutzen. Die Buchung erfolgt ausschließlich über unser Online-Buchungssystem, den Link finden Sie im Intranet auf der Startseite. Nach erfolgter Reservierung erhalten Sie den Schlüssel sowie ein hochwertiges Schloss für das jeweilige E-Bike am Empfang. Bitte beachten Sie, dass die maximale Ausleihdauer während der Kernarbeitszeit vier Stunden beträgt.\n\nZu Ihrer eigenen Sicherheit ist das Tragen eines Fahrradhelms bei jeder Fahrt verpflichtend. Einen Helm finden Sie in der am Rad befestigten Tasche. Wir bitten Sie, die E-Bikes verantwortungsbewusst zu nutzen und nur innerhalb des Stadtgebiets zu fahren. Achten Sie bitte stets darauf, das Rad beim Parken sorgfältig an einem festen Gegenstand (z.B. Fahrradständer, Laternenpfahl) anzuschließen. Eine Ausleihe über Nacht oder über das Wochenende ist grundsätzlich nicht gestattet, die Räder müssen bis zum Ende Ihrer täglichen Arbeitszeit zurückgebracht werden.\n\nSollten Sie während der Nutzung einen Schaden oder einen technischen Defekt am E-Bike feststellen, sind Sie verpflichtet, diesen umgehend vor der Weiternutzung oder Weitergabe an das Facility Management (Tel. -555 oder E-Mail: facility@firma.de) zu melden. Bei Schäden, die durch grobe Fahrlässigkeit entstehen, behalten wir uns vor, die verursachende Person haftbar zu machen. Die Rückgabe erfolgt, indem Sie das E-Bike am zugewiesenen Stellplatz im Fahrradkeller abstellen, den Schlüssel wieder am Empfang abgeben und die Ausleihe im Online-System beenden. Prüfen Sie bitte kurz den Akku-Ladestand und informieren Sie den Empfang, falls dieser ungewöhnlich niedrig ist.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Firmen-E-Bikes stehen den Mitarbeitenden rund um die Uhr für beliebige Fahrten zur Verfügung.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein Mitarbeiter ein E-Bike ausleihen möchte, muss er...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dies vorab online reservieren und den Schlüssel am Empfang abholen."
+                },
+                {
+                    "key": "b",
+                    "text": "direkt zum Facility Management gehen und dort ein Rad erhalten."
+                },
+                {
+                    "key": "c",
+                    "text": "nachweisen, dass die Fahrt ausschließlich dienstlich ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

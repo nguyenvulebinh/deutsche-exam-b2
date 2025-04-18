@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Internen Kommunikationswege\n\nEine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um dies zu gewährleisten, nutzen wir verschiedene interne Kanäle, deren korrekte Anwendung wir Ihnen hier vorstellen möchten. Bitte machen Sie sich mit diesen Werkzeugen vertraut.\n\nDie E-Mail ist unser vorrangiges Medium für die formelle Kommunikation, sowohl intern als auch extern. Offizielle Anfragen, verbindliche Absprachen und die Kommunikation mit Kunden oder Partnern erfolgen stets per E-Mail. Bitte achten Sie darauf, immer die standardisierte Firmensignatur zu verwenden, die in Ihrem E-Mail-Profil hinterlegt ist. Es wird erwartet, dass interne E-Mails innerhalb eines Arbeitstages beantwortet werden.\n\nDas Firmen-Intranet dient als zentrale Plattform für alle unternehmensweiten offiziellen Ankündigungen, wichtigen Dokumente, Richtlinien und Personalinformationen. Es ist die primäre Quelle für verbindliche Informationen der Geschäftsleitung und der Personalabteilung. Von allen Mitarbeitenden wird erwartet, dass sie das Intranet regelmäßig, idealerweise täglich zu Arbeitsbeginn, auf neue Inhalte überprüfen, um auf dem aktuellen Stand zu bleiben.\n\nFür schnelle Fragen innerhalb des Teams, kurze Abstimmungen und eher informellen Austausch nutzen wir unser internes Chat-Tool „ConnectUs“. Dieses Werkzeug soll die E-Mail-Flut reduzieren, eignet sich jedoch nicht für komplexe Diskussionen, offizielle Anweisungen oder die Übermittlung sensibler Daten. Bitte nutzen Sie die Verfügbarkeitsstatus-Funktion, um anzuzeigen, ob Sie erreichbar sind. Ungeachtet des informelleren Charakters gilt auch hier standardmäßig die Anrede „Sie“, es sei denn, innerhalb eines Teams wurde einvernehmlich das „Du“ vereinbart.\n\nSollten technische Probleme mit einem dieser Kommunikationsmittel auftreten, wenden Sie sich bitte direkt an unseren IT-Support (Durchwahl -456). Die Wahl des richtigen Kanals für die jeweilige Information trägt maßgeblich zu einem reibungslosen Arbeitsablauf bei.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für formelle Kommunikation und offizielle Informationen sind E-Mail und Intranet die Hauptkanäle, nicht der Firmen-Chat.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Von den Mitarbeitenden wird bezüglich des Intranets erwartet, dass sie...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "es regelmäßig auf aktuelle Unternehmensinformationen überprüfen."
+                },
+                {
+                    "key": "b",
+                    "text": "dort aktiv mit Kollegen über Projekte diskutieren."
+                },
+                {
+                    "key": "c",
+                    "text": "dort ihre persönliche E-Mail-Signatur hinterlegen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

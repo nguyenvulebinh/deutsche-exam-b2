@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur IT-Nutzung und Datensicherheit\n\nHerzlich willkommen in unserem Team! Damit die Nutzung unserer IT-Systeme sicher und effizient erfolgt, bitten wir Sie, die folgenden Richtlinien zu beachten.\n\nIhre Zugangsdaten, insbesondere Ihr Passwort, sind streng vertraulich zu behandeln und dürfen unter keinen Umständen an Dritte weitergegeben werden. Ihr initiales Passwort müssen Sie bei der ersten Anmeldung ändern. Aus Sicherheitsgründen ist eine Passwortänderung alle 90 Tage zwingend erforderlich. Achten Sie dabei auf eine ausreichende Komplexität (mindestens 10 Zeichen, Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen).\n\nDie Installation jeglicher Software auf Ihrem Dienstrechner ist grundsätzlich untersagt, es sei denn, sie wurde explizit von der IT-Abteilung genehmigt und wird durch diese durchgeführt. Dies schließt auch Freeware oder Tools aus dem Internet ein. Wir stellen Ihnen alle notwendige, lizenzierte Software zur Verfügung.\n\nDie private Nutzung des Internets ist ausschließlich während der offiziellen Pausenzeiten und nur in einem angemessenen, geringfügigen Umfang gestattet. Das Aufrufen von Seiten mit illegalen, anstößigen oder sicherheitsgefährdenden Inhalten sowie die Nutzung von Streamingdiensten oder Peer-to-Peer-Netzwerken ist strengstens verboten.\n\nAlle arbeitsbezogenen Dateien und Dokumente sind verpflichtend auf den Ihnen zugewiesenen Netzlaufwerken (Firmenservern) zu speichern. Eine lokale Speicherung auf der Festplatte Ihres Computers ist nur für temporäre Zwecke gedacht und erfolgt auf eigene Verantwortung, da lokale Daten nicht automatisch durch unsere Backup-Systeme gesichert werden.\n\nSeien Sie stets wachsam bei E-Mails, insbesondere von unbekannten Absendern oder mit unerwarteten Anhängen. Klicken Sie niemals auf verdächtige Links und öffnen Sie keine zweifelhaften Anhänge. Besteht der Verdacht auf eine Phishing-Mail oder schädliche Inhalte, leiten Sie diese E-Mail bitte nicht weiter, sondern melden Sie den Vorfall unverzüglich per separater E-Mail an unsere IT-Sicherheitsabteilung unter security@firma.de.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die private Nutzung des Internets am Arbeitsplatz ist grundsätzlich nicht gestattet.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie eine verdächtige E-Mail erhalten,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollen Sie diese sofort der IT-Sicherheit melden."
+                },
+                {
+                    "key": "b",
+                    "text": "dürfen Sie den Anhang zur Prüfung kurz öffnen."
+                },
+                {
+                    "key": "c",
+                    "text": "informieren Sie bitte direkt Ihre Teamleitung."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

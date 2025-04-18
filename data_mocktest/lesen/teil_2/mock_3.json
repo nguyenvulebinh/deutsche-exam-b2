@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiter*innen",
+    "text": "## Bürostrukturen\n\nWie Sie wissen, haben Sie Anspruch auf drei Tage Homeoffice pro Woche. Für die Zeit, in der Sie im Unternehmen arbeiten (Präsenztage), bieten wir Ihnen im Rahmen des „Desk-Sharings“ flexible Arbeitsplätze.\n\nIn unserem Großraumbüro stehen acht Schreibtische mit gleicher Ausstattung inklusive Steckdosen und USB-Anschlüssen, die von allen Teammitgliedern genutzt werden können. Die Schreibtische sind frei wählbar – nach dem Prinzip „Wer zuerst kommt, mahlt zuerst“.\n\nDamit das „Desk-Sharing“ funktioniert, bitten wir Sie, einige Richtlinien zu beachten: Belegen Sie einen Schreibtisch bitte nur, wenn Sie wirklich daran arbeiten. Das heißt, dass der Arbeitsplatz auch für längere Pausen wieder geräumt werden muss. Für Ihre Unterlagen und Ihre persönlichen Gegenstände erhalten Sie einen Rollcontainer zur alleinigen Nutzung.\n\nNeben dem Großraumbüro stehen Ihnen im ersten Stock mehrere Besprechungsräume und kleine Büros, in denen Sie Telefonate führen können, zur Verfügung. Auch der Pausenraum kann außerhalb der Mittagszeit für informelle Meetings genutzt werden.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Die Angestellten werden gebeten, die Schreibtische nicht unnötig zu blockieren.",
+        "loesung": "richtig"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Sie dürfen",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "Meetings auch außerhalb der Besprechungsräume abhalten."
+          },
+          {
+            "key": "b",
+            "text": "ihre Sachen während der Pausen auf dem Schreibtisch lassen."
+          },
+          {
+            "key": "c",
+            "text": "persönliche Dinge nicht mit ins Großraumbüro bringen."
+          }
+        ],
+        "loesung": "a"
+      }
+    ]
+}
+  

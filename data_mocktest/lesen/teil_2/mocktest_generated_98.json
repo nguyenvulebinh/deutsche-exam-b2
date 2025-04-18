@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikation und Ansprechpartner\n\nEine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Wir nutzen verschiedene Kanäle, deren korrekte Verwendung den Arbeitsalltag erleichtert. Für formelle Anfragen, Dokumentationen oder Kommunikation mit externen Partnern nutzen Sie bitte vorrangig die E-Mail. Der Company-Chat eignet sich hervorragend für schnelle, informelle Fragen im Team oder zu laufenden Projekten. Allgemeine Unternehmensnachrichten, Richtlinien und Formulare finden Sie jederzeit aktuell in unserem Intranet.\n\nBei Fragen zu Ihren täglichen Aufgaben, Zielen oder Ihrer Leistung ist Ihr direkter Vorgesetzter Ihr erster Ansprechpartner. Für vertragliche Angelegenheiten, Urlaubsregelungen oder Fragen zu Sozialleistungen ist die Personalabteilung zuständig. Spezifische Fragen zur Gehaltsabrechnung richten Sie bitte direkt an Frau Weber (Durchwahl -112). Bei technischen Problemen mit Ihrem Computer oder Software nutzen Sie bitte unser IT-Support-Ticketsystem über das Intranet. Nur bei schwerwiegenden, systemweiten Ausfällen, die Ihre Arbeit unmittelbar komplett verhindern, ist der IT-Support auch telefonisch unter -999 erreichbar.\n\nWir bitten Sie, die Kommunikationswege bewusst zu wählen. Eine Antwort auf E-Mails können Sie in der Regel innerhalb von 24 Stunden erwarten, im Chat oft schneller während der Kernarbeitszeiten. Beachten Sie bitte, dass sensible persönliche oder streng vertrauliche Unternehmensdaten nicht über den Chat ausgetauscht werden dürfen. Viele Standardinformationen sind im Intranet verfügbar; ein kurzer Blick dorthin kann oft schon Fragen klären, bevor Sie Kollegen oder Abteilungen kontaktieren.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Der IT-Support ist bei allen technischen Störungen immer zuerst telefonisch zu kontaktieren.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie Fragen zu Ihrer Gehaltsabrechnung haben,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kontaktieren Sie Frau Weber in der Personalabteilung."
+                },
+                {
+                    "key": "b",
+                    "text": "sprechen Sie Ihren direkten Vorgesetzten an."
+                },
+                {
+                    "key": "c",
+                    "text": "eröffnen Sie ein Ticket beim IT-Support."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

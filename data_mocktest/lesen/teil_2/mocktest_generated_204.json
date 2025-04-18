@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzung und Datensicherheit am Arbeitsplatz\n\nHerzlich willkommen in unserem Team! Die IT-Systeme unseres Unternehmens sind entscheidend für unsere tägliche Arbeit. Ein verantwortungsbewusster Umgang damit ist daher unerlässlich, um einen reibungslosen Betriebsablauf und die Sicherheit unserer Daten zu gewährleisten. Bitte beachten Sie, dass alle Ihnen zur Verfügung gestellten Geräte wie Laptops oder Diensthandys Firmeneigentum sind und primär für dienstliche Zwecke genutzt werden sollen.\n\nZur Sicherung Ihrer Zugänge sind komplexe Passwörter erforderlich, die mindestens 12 Zeichen lang sind und Groß-/Kleinbuchstaben, Zahlen sowie Sonderzeichen enthalten müssen. Aus Sicherheitsgründen ist ein Passwortwechsel alle 90 Tage obligatorisch. Geben Sie Ihr Passwort unter keinen Umständen an Dritte weiter. Die Installation von Software auf Firmengeräten ist nur nach ausdrücklicher Genehmigung durch den IT-Support gestattet; die Nutzung nicht autorisierter Programme ist strengstens untersagt. Ihre Firmen-E-Mail-Adresse ist ausschließlich für die geschäftliche Kommunikation vorgesehen.\n\nDie Nutzung des Internets soll hauptsächlich arbeitsbezogenen Zwecken dienen. Eine gelegentliche, kurze private Nutzung ist ausschließlich während Ihrer offiziellen Pausenzeiten (z.B. Mittagspause) toleriert, sofern sie die Netzwerkleistung nicht beeinträchtigt. Das Aufrufen illegaler, anstößiger oder unseriöser Webseiten sowie die Nutzung von Diensten mit hohem Bandbreitenbedarf (z.B. privates Streaming, Online-Spiele) sind generell verboten. Wir weisen darauf hin, dass die Internetnutzung im Rahmen der gesetzlichen Bestimmungen protokolliert werden kann.\n\nFür die Sicherheit unserer Unternehmensdaten ist es zwingend erforderlich, dass Sie Ihre Arbeitsdaten regelmäßig auf den dafür vorgesehenen Netzlaufwerken oder in der freigegebenen Cloud-Umgebung speichern. Das Abspeichern sensibler Firmendaten auf lokalen Festplatten, privaten Geräten oder unverschlüsselten externen Speichermedien wie USB-Sticks ist nicht erlaubt. Melden Sie Sicherheitsvorfälle oder verdächtige Aktivitäten (z.B. verdächtige E-Mails, ungewöhnliches Systemverhalten, Verlust eines Gerätes) bitte unverzüglich dem IT-Support über die bekannte Hotline oder Support-E-Mail-Adresse.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl die Installation von Programmen als auch die Wahl des Speicherorts für Firmendaten unterliegen klaren betrieblichen Vorgaben.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was sollen Mitarbeiter tun, wenn sie einen möglichen Sicherheitsvorfall bemerken?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie sollen unverzüglich den IT-Support kontaktieren."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie sollen versuchen, das Problem selbst zu beheben."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie sollen als Erstes ihr Passwort ändern."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

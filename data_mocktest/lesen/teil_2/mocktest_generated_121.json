@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Ordnung und Sauberkeit am Arbeitsplatz\n\nEin sauberer und gut organisierter Arbeitsplatz trägt maßgeblich zu Effizienz, Sicherheit und einer positiven Arbeitsatmosphäre bei. Wir bitten Sie daher, gemeinsam mit Ihren Kolleginnen und Kollegen auf Ordnung und Sauberkeit in allen genutzten Bereichen zu achten. Dies ist eine gemeinsame Verantwortung.\n\nFür Ihren persönlichen Schreibtisch gilt: Bitte halten Sie die Anzahl privater Gegenstände gering. Im Rahmen unserer \"Clean Desk Policy\" bitten wir Sie, Ihren Schreibtisch am Ende eines jeden Arbeitstages vollständig aufzuräumen, insbesondere wenn Sie einen der flexiblen Arbeitsplätze nutzen. Persönliche Arbeitsmaterialien und Unterlagen können Sie in Ihrem persönlichen Rollcontainer verstauen. Achten Sie bitte darauf, Abfälle korrekt zu entsorgen. Dafür stehen Ihnen in den Bürobereichen getrennte Behälter für Papier, Restmüll und Kunststoff/Verpackungen zur Verfügung.\n\nAuch in den Gemeinschaftsküchen ist Ihre Mithilfe gefragt. Bitte hinterlassen Sie die Küche so, wie Sie sie vorfinden möchten: Spülen Sie benutztes Geschirr und Besteck oder räumen Sie es direkt in die dafür vorgesehene Geschirrspülmaschine ein. Wischen Sie Oberflächen nach Benutzung ab. Wenn Sie private Lebensmittel im gemeinsam genutzten Kühlschrank lagern, müssen diese deutlich mit Ihrem Namen und dem Datum beschriftet sein. Überprüfen Sie Ihre Lebensmittel regelmäßig und entsorgen Sie bitte abgelaufene oder verdorbene Ware umgehend, spätestens jedoch bei der allgemeinen Kontrolle am Freitagnachmittag.\n\nFür die Besprechungsräume gilt ebenfalls: Verlassen Sie den Raum nach Ihrem Meeting bitte aufgeräumt. Dazu gehört das Ordnen der Stühle, das Säubern des Whiteboards und die Entsorgung von Abfällen. Sollten Sie technische Probleme mit der Ausstattung (Beamer, Telefonspinne etc.) feststellen, melden Sie dies bitte unverzüglich dem Facility Management, damit eine rasche Reparatur erfolgen kann. Buchungen der Räume erfolgen über das interne Buchungssystem.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeitende müssen ihren Arbeitsplatz am Abend leer räumen und dabei den Müll korrekt trennen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "In der Gemeinschaftsküche gilt,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass jeder sein eigenes Geschirr direkt nach Benutzung reinigen oder wegräumen muss."
+                },
+                {
+                    "key": "b",
+                    "text": "dass alle Lebensmittel wöchentlich vom Personal entsorgt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "dass das Facility Management für die Sauberkeit nach der Benutzung zuständig ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

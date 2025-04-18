@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung\n\nIm Falle einer Erkrankung sind Sie verpflichtet, das Unternehmen unverzüglich am ersten Tag Ihrer Abwesenheit über Ihr Fehlen zu informieren. Dies sollte grundsätzlich telefonisch bei Ihrer direkten Führungskraft erfolgen. Bitte melden Sie sich idealerweise vor dem offiziellen Arbeitsbeginn, spätestens jedoch bis 09:00 Uhr morgens.\n\nBei diesem ersten Anruf ist es wichtig, dass Sie nicht nur Ihre Abwesenheit mitteilen, sondern auch die voraussichtliche Dauer Ihrer Erkrankung angeben, sofern diese bereits absehbar ist. Eine Angabe des Krankheitsgrundes ist zu diesem Zeitpunkt nicht erforderlich.\n\nDauert die Arbeitsunfähigkeit länger als drei Kalendertage an, so sind Sie gesetzlich verpflichtet, spätestens am darauffolgenden Arbeitstag eine ärztliche Bescheinigung über die Arbeitsunfähigkeit sowie deren voraussichtliche Dauer (die sogenannte Arbeitsunfähigkeitsbescheinigung, kurz AU) vorzulegen. Diese Frist beginnt ab dem ersten Krankheitstag zu laufen.\n\nDie Originalbescheinigung ist stets in der Personalabteilung einzureichen. Eine Kopie oder ein Scan per E-Mail wird nicht als fristgerechte Einreichung der offiziellen AU akzeptiert, kann aber zur Beschleunigung der internen Information vorab an Ihre Führungskraft und/oder die Personalabteilung gesendet werden.\n\nBitte beachten Sie, dass eine rechtzeitige und korrekte Krankmeldung sowie die fristgerechte Vorlage der AU die Voraussetzung für die Entgeltfortzahlung im Krankheitsfall durch den Arbeitgeber darstellen. Eine verspätete Meldung oder Einreichung kann zu Nachteilen führen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine per E-Mail gesendete Kopie der Arbeitsunfähigkeitsbescheinigung gilt als rechtzeitiger Nachweis der Erkrankung.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei der telefonischen Krankmeldung sollen Sie auch...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die erwartete Länge Ihres Ausfalls mitteilen."
+                },
+                {
+                    "key": "b",
+                    "text": "Ihre Führungskraft über die Weiterleitung an die Personalabteilung informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "den genauen Grund für Ihre Abwesenheit nennen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

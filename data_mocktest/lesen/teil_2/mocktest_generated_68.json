@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege richtig nutzen\n\nEine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um sicherzustellen, dass Informationen schnell und an der richtigen Stelle ankommen, bitten wir Sie, die verschiedenen internen Kommunikationskanäle zielgerichtet zu nutzen.\n\nDas **Intranet** ist unsere zentrale Plattform für offizielle Unternehmensnachrichten, Richtlinien, wichtige Formulare und allgemeine Informationen, die für alle Mitarbeitenden relevant sind. Die Inhalte werden von der Kommunikationsabteilung gepflegt. Sehen Sie hier regelmäßig nach Updates.\n\nDie **E-Mail** bleibt der Standard für formelle Korrespondenz, insbesondere bei Anfragen an andere Abteilungen, der Kommunikation mit externen Partnern oder wenn eine schriftliche Dokumentation erforderlich ist. Achten Sie bitte auf aussagekräftige Betreffzeilen und einen professionellen Ton. Eine Antwort kann hier üblicherweise innerhalb von 24 bis 48 Stunden erwartet werden.\n\nFür schnelle, informelle Fragen innerhalb Ihres direkten Teams, kurze Abstimmungen oder Status-Updates nutzen Sie bitte unseren **Team-Chat**. Dieser Kanal dient dem zügigen Austausch im Arbeitsalltag. Beachten Sie jedoch, dass der Chat nicht für die Übermittlung sensibler Daten oder vertraulicher Informationen gedacht ist. Rechnen Sie mit Antworten vorrangig während der Kernarbeitszeiten.\n\nDas **Telefon** ist das Mittel der Wahl für dringende Angelegenheiten, die eine sofortige Klärung benötigen und nicht per Chat oder E-Mail zeitnah behandelt werden können. Bei Bedarf kann eine telefonische Absprache anschließend kurz per E-Mail zusammengefasst werden. Ein **persönliches Gespräch** eignet sich am besten für komplexe Themen, sensible Personalfragen, ausführliches Feedback oder gemeinsame Brainstorming-Sitzungen. Solche Gespräche sollten üblicherweise im Voraus vereinbart werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Der Team-Chat eignet sich für jegliche Art von interner Teamkommunikation, einschließlich vertraulicher Themen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Telefon sollte vor allem dann genutzt werden,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "um alle Absprachen genau zu dokumentieren."
+                },
+                {
+                    "key": "b",
+                    "text": "um kurze Fragen innerhalb des eigenen Teams zu stellen."
+                },
+                {
+                    "key": "c",
+                    "text": "wenn eine Angelegenheit sofortige Klärung erfordert."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

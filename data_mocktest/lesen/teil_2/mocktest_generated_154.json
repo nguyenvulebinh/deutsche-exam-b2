@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es unerlässlich, dass Sie dies unverzüglich, noch vor dem regulären Arbeitsbeginn, melden. Bitte informieren Sie hierzu sowohl Ihre direkte Führungskraft als auch die Personalabteilung. Die Meldung sollte vorzugsweise telefonisch erfolgen, damit die Information schnellstmöglich weitergegeben werden kann. Nur wenn eine telefonische Kontaktaufnahme nicht möglich ist, senden Sie bitte eine E-Mail.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), umgangssprachlich auch \"Krankschreibung\" genannt, ist für die Lohnfortzahlung notwendig und muss dem Unternehmen spätestens am dritten Kalendertag Ihrer Erkrankung vorliegen. Es ist ausreichend, wenn Sie die Bescheinigung fristgerecht über unser digitales HR-Portal hochladen. Stellen Sie sicher, dass der Scan oder das Foto gut lesbar ist. Die Einreichung des Originals per Post ist in der Regel nicht zusätzlich erforderlich.\n\nSollte Ihre Krankheit länger andauern als auf der eingereichten AU-Bescheinigung vermerkt, sind Sie verpflichtet, uns dies ebenfalls unverzüglich mitzuteilen und eine Folgebescheinigung rechtzeitig, vor Ablauf der vorherigen, digital einzureichen. Nur so kann ein lückenloser Nachweis Ihrer Arbeitsunfähigkeit gewährleistet werden.\n\nBei Wiederaufnahme Ihrer Tätigkeit nach überstandener Krankheit genügt eine kurze Information an Ihre Führungskraft am ersten Arbeitstag. Bitte beachten Sie diese Vorgaben genau, da sie für die korrekte Abwicklung Ihrer Krankmeldung und die Fortzahlung Ihres Entgelts von Bedeutung sind.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeiter müssen sich bei Krankheit noch vor Arbeitsbeginn sowohl bei Vorgesetzten als auch der Personalabteilung melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird erst ab der zweiten Krankheitswoche benötigt."
+                },
+                {
+                    "key": "b",
+                    "text": "muss man persönlich in der Personalabteilung abgeben."
+                },
+                {
+                    "key": "c",
+                    "text": "ist spätestens am dritten Krankheitstag digital einzureichen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der IT-Infrastruktur und Datenschutz\n\nWillkommen in unserem Unternehmen! Damit die Arbeit mit unseren IT-Systemen reibungslos und sicher verläuft, bitten wir Sie, die folgenden Richtlinien zur Kenntnis zu nehmen und einzuhalten. Ihre firmeneigenen Zugangsdaten (Benutzername und Passwort) sind streng vertraulich zu behandeln und dürfen unter keinen Umständen an Dritte, auch nicht an Kolleginnen oder Kollegen, weitergegeben werden. Sie sind verpflichtet, ein sicheres Passwort gemäß unseren internen Passwortrichtlinien (mindestens 12 Zeichen, Groß- und Kleinbuchstaben, Zahlen, Sonderzeichen) zu wählen und dieses regelmäßig zu ändern.\n\nDie Ihnen zur Verfügung gestellte IT-Ausstattung (Computer, Laptop, etc.) ist primär für dienstliche Zwecke vorgesehen. Eine private Nutzung des Internets und des Firmen-E-Mail-Kontos ist nur in sehr begrenztem Umfang während der offiziellen Pausenzeiten gestattet und darf die dienstlichen Belange nicht beeinträchtigen. Das Herunterladen oder Installieren von Software, die nicht durch unsere IT-Abteilung freigegeben und bereitgestellt wurde, ist grundsätzlich untersagt. Dies dient dem Schutz unserer Systeme vor Schadsoftware.\n\nBitte stellen Sie sicher, dass Ihr Computerbildschirm gesperrt ist, wenn Sie Ihren Arbeitsplatz verlassen, auch nur für kurze Zeit. Dies verhindert unbefugten Zugriff auf Ihre Daten und Systeme. Alle unsere Rechner sind mit einem aktuellen Virenschutzprogramm ausgestattet, das nicht deaktiviert werden darf.\n\nBei technischen Problemen oder Fragen zur IT-Nutzung wenden Sie sich bitte ausschließlich an unseren IT-Support (Durchwahl -456 oder it-support@firma.de). Sollten Sie einen Sicherheitsvorfall vermuten (z.B. eine verdächtige E-Mail erhalten), melden Sie dies bitte umgehend dem IT-Support, ohne selbst weitere Aktionen durchzuführen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Mitarbeitenden müssen sowohl ihre Passwörter sicher halten als auch ihren Computer sperren, wenn sie den Arbeitsplatz verlassen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Installation von zusätzlicher Software auf dem Dienstrechner...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...kann von den Mitarbeitenden selbst durchgeführt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "...darf ausschließlich durch die IT-Abteilung erfolgen."
+                },
+                {
+                    "key": "c",
+                    "text": "...ist nur nach Genehmigung durch die Teamleitung erlaubt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

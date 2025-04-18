@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Firmenwagennutzung\n\nMitarbeitende, deren Tätigkeit regelmäßige Außendiensttermine oder Dienstreisen erfordert, können nach Prüfung durch die Geschäftsführung und in Abhängigkeit von der Position einen Firmenwagen erhalten. Dieser dient primär der Erledigung dienstlicher Aufgaben. Die Zuteilung erfolgt nach Verfügbarkeit und betrieblicher Notwendigkeit.\n\nDie dienstliche Nutzung umfasst alle Fahrten, die im direkten Zusammenhang mit Ihrer beruflichen Tätigkeit stehen. Für jede Fahrt ist ein elektronisches Fahrtenbuch über unsere interne Plattform „DriveLog“ zu führen. Dieses muss lückenlos den Kilometerstand bei Start und Ziel, das Datum, das Reiseziel sowie den Zweck der Fahrt dokumentieren. Ihnen wird eine Tankkarte zur Verfügung gestellt, die ausschließlich für dienstlich veranlasste Betankungen zu verwenden ist.\n\nEine private Nutzung des Firmenwagens ist grundsätzlich gestattet, muss jedoch als geldwerter Vorteil versteuert werden. Details zur Berechnungsmethode (z.B. 1%-Regelung) entnehmen Sie bitte den separaten Informationen der Personalabteilung. Auch private Fahrten sind im „DriveLog“ als solche zu kennzeichnen, wobei hier Start- und Zielkilometerstand genügen. Die Kosten für privat genutzten Kraftstoff werden pauschal über die Versteuerung abgerechnet oder müssen, falls abweichend geregelt, selbst getragen werden – die dienstliche Tankkarte darf hierfür nicht genutzt werden.\n\nSie sind für die ordnungsgemäße Pflege und Sauberkeit des Fahrzeugs verantwortlich. Kleinere Wartungsarbeiten (z.B. Ölstand prüfen, Reifendruck kontrollieren) sollten regelmäßig durchgeführt werden. Notwendige Reparaturen oder Wartungstermine sind über die Fuhrparkverwaltung zu koordinieren. Jeder Unfall oder Schaden am Fahrzeug muss unverzüglich der Fuhrparkleitung sowie der Personalabteilung gemeldet werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Nutzer eines Firmenwagens müssen sowohl ein Fahrtenbuch führen als auch Schäden am Fahrzeug umgehend melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Führen eines Fahrtenbuchs ist notwendig,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "damit Privat- und Dienstfahrten korrekt abgerechnet werden können."
+                },
+                {
+                    "key": "b",
+                    "text": "nur wenn das Fahrzeug auch für private Zwecke genutzt wird."
+                },
+                {
+                    "key": "c",
+                    "text": "um die Nutzung der dienstlichen Tankkarte nachzuweisen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

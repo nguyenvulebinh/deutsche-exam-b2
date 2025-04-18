@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Firmenfahrräder: Nutzung und Regeln\n\nAls Beitrag zur umweltfreundlichen Mobilität und zur Unterstützung Ihrer Flexibilität stellt Ihnen das Unternehmen Firmenfahrräder zur Verfügung. Es handelt sich dabei sowohl um moderne E-Bikes als auch um klassische Fahrräder ohne Motorunterstützung. Diese Räder sind primär für dienstliche Fahrten während Ihrer Arbeitszeit gedacht, beispielsweise für kurze Wege zu Kunden oder zwischen unseren Standorten.\n\nDie Ausleihe erfolgt über unser digitales Buchungssystem, das Sie im Intranet finden. Bitte reservieren Sie Ihr gewünschtes Fahrrad möglichst im Voraus, um die Verfügbarkeit sicherzustellen. Den Schlüssel für das Fahrradschloss sowie bei Bedarf einen Helm erhalten Sie gegen Vorlage Ihres Mitarbeiterausweises am Empfang im Erdgeschoss.\n\nBitte beachten Sie die Nutzungsregeln: Für die Nutzung der E-Bikes besteht aus Sicherheitsgründen eine obligatorische Helmpflicht. Für die normalen Fahrräder wird das Tragen eines Helms dringend empfohlen. Vor jeder Fahrt sind Sie dazu verpflichtet, kurz die Fahrtüchtigkeit des Rades zu überprüfen, insbesondere die Funktion der Bremsen und der Beleuchtung. Wenn Sie das Fahrrad während Ihrer Fahrt abstellen, muss es stets ordnungsgemäß mit dem bereitgestellten Schloss gesichert werden.\n\nNach Beendigung Ihrer Fahrt stellen Sie das Fahrrad bitte ausschließlich am dafür vorgesehenen Fahrradständer neben dem Haupteingang ab. Der Schlüssel ist umgehend wieder am Empfang zurückzugeben. Sollten Sie während der Nutzung oder bei der Rückgabe Schäden oder Mängel am Fahrrad feststellen, sind diese unverzüglich dem Empfang zu melden, alternativ können Sie auch eine Meldung über unser internes Ticketsystem erstellen. Ihre Sorgfaltspflicht im Umgang mit dem Firmeneigentum wird vorausgesetzt.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen für die Ausleihe das digitale System nutzen und die Schlüssel später wieder am Empfang zurückgeben.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bezüglich der Helmnutzung gilt, dass",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "man bei E-Bikes immer einen Helm tragen muss."
+                },
+                {
+                    "key": "b",
+                    "text": "für alle Fahrradtypen eine Helmpflicht besteht."
+                },
+                {
+                    "key": "c",
+                    "text": "Helme am Empfang gekauft werden können."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

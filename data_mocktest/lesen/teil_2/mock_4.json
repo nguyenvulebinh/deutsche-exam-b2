@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiter*innen",
+    "text": "## Urlaubsvertretung\n\nUm sicherzustellen, dass der Arbeitsalltag auch während Ihrer Abwesenheit störungsfrei funktioniert, wird zusammen mit der Teamleitung eine Vertretung bestimmt. In einem gemeinsamen Gespräch wird geklärt, welche Aufgaben Priorität haben. Falls nötig, werden mehrere Personen mit der Vertretung beauftragt.\n\nEinige Tage vor Ihrem Urlaubsbeginn findet eine Übergabe statt, bei der Sie in einem persönlichen Gespräch mit Ihrer Vertretung die Aufgaben durchgehen und wichtige Informationen austauschen. Denken Sie bitte daran, Ihrer Vertretung alle relevanten Zugangsdaten mitzuteilen, damit sie auf wichtige Informationen und Dokumente zugreifen kann. Damit es keine Unklarheiten oder Missverständnisse gibt, empfehlen wir, zusätzlich ein Übergabeprotokoll zu erstellen, in dem Sie alle wichtigen Informationen schriftlich festhalten.\n\nDamit Kundenanfragen innerhalb der vorgesehenen 48 Stunden beantwortet werden können, werden E-Mails bei Abwesenheit grundsätzlich weitergeleitet. Ein entsprechender Hinweis dazu sowie die namentliche Nennung der zuständigen Vertreterin oder des Vertreters muss in der automatischen Antwort enthalten sein. Verwenden Sie dafür bitte ausschließlich unseren Standardtext (siehe S. 6) und denken Sie daran, die Abwesenheitsnotiz rechtzeitig zu aktivieren.\n\nDamit der Wiedereinstieg nach dem Urlaub gut gelingt, vereinbaren Sie für den ersten Arbeitstag bitte einen Termin mit Ihrer Vertretung. Dort bringt die Kollegin oder der Kollege Sie auf den aktuellen Stand und ermöglicht Ihnen so, schnell wieder in die eigenen Aufgaben hineinzufinden.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Die Firma erwartet, dass vor und nach dem Urlaub eine persönliche Übergabe gemacht wird.",
+        "loesung": "richtig"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Die Angestellten entscheiden selbst,",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "ob sie ein Übergabeprotokoll schreiben möchten."
+          },
+          {
+            "key": "b",
+            "text": "ob sie ihre E-Mails an die Vertretung weiterleiten."
+          },
+          {
+            "key": "c",
+            "text": "wie sie die Abwesenheitsnotiz formulieren."
+          }
+        ],
+        "loesung": "a"
+      }
+    ]
+}
+  

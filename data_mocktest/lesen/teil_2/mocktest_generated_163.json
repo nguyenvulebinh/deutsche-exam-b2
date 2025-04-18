@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, informieren Sie bitte **unverzüglich** – das heißt noch vor dem regulären Arbeitsbeginn am ersten Tag Ihrer Abwesenheit – Ihren direkten Vorgesetzten oder Ihre direkte Vorgesetzte telefonisch über Ihre Arbeitsunfähigkeit und deren voraussichtliche Dauer. Zusätzlich ist eine kurze Benachrichtigung per E-Mail an die Personalabteilung (personal@firma.xy) erforderlich, damit Ihre Abwesenheit korrekt im System erfasst werden kann.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), oft auch als „ärztliches Attest“ oder „Krankschreibung“ bezeichnet, ist notwendig, wenn die Arbeitsunfähigkeit länger als drei Kalendertage andauert. Diese Bescheinigung muss dem Unternehmen spätestens am darauf folgenden Arbeitstag, also in der Regel am vierten Kalendertag der Erkrankung, vorliegen. In den meisten Fällen übermittelt die Arztpraxis die AU elektronisch an Ihre Krankenkasse (dies ist die sogenannte eAU). Wir rufen diese Daten dann elektronisch bei der Krankenkasse ab. Klären Sie bitte mit Ihrer Arztpraxis, ob die eAU genutzt wird. Falls dies nicht möglich ist, müssen Sie uns die AU weiterhin in Papierform zukommen lassen.\n\nSollte sich herausstellen, dass Sie länger krankheitsbedingt ausfallen als ursprünglich auf der AU angegeben, sind Sie verpflichtet, uns dies ebenfalls unverzüglich mitzuteilen und eine entsprechende Folgebescheinigung einzureichen. Auch hier gilt die Frist, dass die neue Bescheinigung spätestens am Tag nach Ablauf der vorherigen AU vorliegen muss.\n\nSobald Sie wieder arbeitsfähig sind und Ihre Tätigkeit aufnehmen, melden Sie sich bitte kurz bei Ihrem Vorgesetzten bzw. Ihrer Vorgesetzten zurück. Dies dient der organisatorischen Planung im Team.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Bei einer Erkrankung ist es notwendig, sowohl die Teamleitung als auch die Personalabteilung vor Arbeitsantritt zu benachrichtigen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Arbeitsunfähigkeitsbescheinigung ist erforderlich,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sofort am ersten Tag der Krankmeldung."
+                },
+                {
+                    "key": "b",
+                    "text": "nur nach expliziter Aufforderung durch die Personalabteilung."
+                },
+                {
+                    "key": "c",
+                    "text": "ab dem dritten Kalendertag der Arbeitsunfähigkeit."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

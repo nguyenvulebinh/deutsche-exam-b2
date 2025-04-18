@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikation und Informationswege\n\nHerzlich willkommen in unserem Team! Damit Sie stets gut informiert sind, möchten wir Ihnen kurz unsere internen Kommunikationswege vorstellen. Die zentrale Plattform für allgemeine Unternehmensnachrichten, offizielle Mitteilungen der Geschäftsführung, Veranstaltungshinweise und den Zugriff auf wichtige Formulare (z. B. Urlaubsantrag) ist unser Intranet. Wir bitten Sie, dieses regelmäßig, idealerweise täglich zu Beginn Ihrer Arbeitszeit, zu besuchen.\n\nFür die direkte Kommunikation im Team oder mit einzelnen Kollegen sowie für projektspezifische Absprachen nutzen wir vorrangig E-Mail. Achten Sie hierbei bitte auf aussagekräftige Betreffzeilen und vermeiden Sie unnötige „Allen antworten“-Funktionen, um das Postfach Ihrer Kollegen nicht zu überlasten. Für dringende, kurzfristige Absprachen oder Änderungen im Tagesgeschäft sind jedoch unsere regelmäßigen Team-Meetings das wichtigste Forum. Hier werden aktuelle Anpassungen direkt besprochen, um sicherzustellen, dass alle auf dem gleichen Stand sind.\n\nSollten Sie spezifische Fragen zu bestimmten Themen haben, wie z.B. zur IT-Ausstattung, Personalangelegenheiten oder Ihrer Gehaltsabrechnung, wenden Sie sich bitte direkt an die zuständige Fachabteilung. Eine Übersicht über die wichtigsten Ansprechpartner und deren Kontaktdaten finden Sie ebenfalls im Intranet unter der Rubrik „Wer macht was?“. Offizielle Unternehmensrichtlinien und Arbeitsanweisungen sind in einem gesonderten digitalen Archiv hinterlegt, das über das Intranet zugänglich ist.\n\nEine offene und effiziente Kommunikation ist uns wichtig. Zögern Sie daher nicht, bei Unklarheiten nachzufragen – sei es bei Ihrer Teamleitung oder den genannten Ansprechpartnern.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für allgemeine Informationen wird das Intranet empfohlen, während für spezielle Anfragen die jeweiligen Fachabteilungen zuständig sind.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Kurzfristige Änderungen im Tagesgeschäft werden in der Regel...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "in den Team-Meetings besprochen."
+                },
+                {
+                    "key": "b",
+                    "text": "sofort per E-Mail an alle Mitarbeiter gesendet."
+                },
+                {
+                    "key": "c",
+                    "text": "auf der Startseite des Intranets veröffentlicht."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

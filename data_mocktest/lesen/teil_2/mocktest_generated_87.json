@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege nutzen\n\nHerzlich willkommen in unserem Team! Damit Sie stets gut informiert sind, nutzen wir verschiedene Kommunikationskanäle, um wichtige Nachrichten, Updates und Informationen auszutauschen. Es ist Teil Ihrer Aufgaben, sich regelmäßig über diese Kanäle auf dem Laufenden zu halten.\n\nUnser wichtigstes Instrument für offizielle Mitteilungen, Unternehmensrichtlinien und den Zugriff auf zentrale Dokumente ist das Intranet. Hier finden Sie alles von internen Stellenangeboten bis hin zu Protokollen von Betriebsversammlungen. Es wird erwartet, dass Sie sich mindestens zweimal wöchentlich im Intranet anmelden und die aktuellen Meldungen zur Kenntnis nehmen. Das Mitarbeiterverzeichnis mit Kontaktdaten aller Kolleginnen und Kollegen ist ebenfalls dort zu finden.\n\nZusätzlich versenden wir alle 14 Tage einen E-Mail-Newsletter. Dieser enthält eher informelle Nachrichten, Berichte aus den Abteilungen, Ankündigungen von bevorstehenden Firmenevents oder auch Geburtstagsgrüße. Die Anmeldung hierfür erfolgt automatisch bei Ihrer Einstellung. Das Lesen des Newsletters ist empfohlen, um über das soziale Geschehen im Unternehmen informiert zu sein.\n\nFür Aushänge nicht dringlicher Natur, wie zum Beispiel Informationen zu Betriebssportgruppen, Hinweise auf externe Veranstaltungen oder auch private Kleinanzeigen (Suche/Biete), nutzen wir das „Schwarze Brett“ neben der Kantine. Bitte beachten Sie die dort geltenden Regeln für Aushänge. Die Inhalte hier sind oft von allgemeinem Interesse, aber nicht arbeitsnotwendig.\n\nIhre Teamleitung ist Ihr erster Ansprechpartner bei Fragen zu Arbeitsabläufen. Bei technischen Problemen mit dem Intranet oder dem Newsletter-Zugang wenden Sie sich bitte an die IT-Abteilung (Durchwahl -456). Die Verantwortung für das Lesen und Beachten der bereitgestellten Informationen liegt jedoch bei jedem Einzelnen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Ausschliesslich im E-Mail-Newsletter finden Mitarbeitende Informationen zu Firmenevents und Team-Neuigkeiten.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wofür wird das Intranet hauptsächlich genutzt?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Für die Verbreitung offizieller Unternehmensmitteilungen und wichtiger Dokumente."
+                },
+                {
+                    "key": "b",
+                    "text": "Für private Kleinanzeigen und die Organisation von Freizeitaktivitäten."
+                },
+                {
+                    "key": "c",
+                    "text": "Für die wöchentliche Zusammenfassung aller internen E-Mails."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

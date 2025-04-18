@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie, die folgenden Schritte genau zu beachten, um einen reibungslosen Ablauf sicherzustellen und Ihre Ansprüche auf Lohnfortzahlung zu gewährleisten.\n\nInformieren Sie bitte **unverzüglich**, das heißt noch vor dem regulären Arbeitsbeginn, Ihren direkten Vorgesetzten oder Ihre direkte Vorgesetzte über Ihre Arbeitsunfähigkeit und deren voraussichtliche Dauer. Diese erste Meldung muss **telefonisch** erfolgen, damit Ihr Team entsprechend planen kann. Eine E-Mail ist in diesem ersten Schritt nicht ausreichend.\n\nDauert Ihre Arbeitsunfähigkeit länger als zwei Kalendertage, sind Sie verpflichtet, spätestens am darauffolgenden Arbeitstag – also in der Regel am dritten Krankheitstag – eine ärztliche Bescheinigung über die Arbeitsunfähigkeit sowie deren voraussichtliche Dauer vorzulegen. Die **Arbeitsunfähigkeitsbescheinigung (AU)** muss dem Unternehmen spätestens am vierten Krankheitstag tatsächlich vorliegen. Wir bitten Sie, die elektronische Arbeitsunfähigkeitsbescheinigung (eAU) zu nutzen, sofern Ihr Arzt diese anbietet. Alternativ können Sie eine eingescannte Kopie per E-Mail an die Personalabteilung (personal@firma-beispiel.de) senden oder diese über unser HR-Portal hochladen.\n\nSollte Ihre Krankheit über den auf der ursprünglichen AU bescheinigten Zeitraum hinaus andauern, informieren Sie bitte erneut umgehend Ihren Vorgesetzten und reichen Sie rechtzeitig eine Folgebescheinigung ein. Versäumnisse bei der fristgerechten Einreichung der AU können Auswirkungen auf Ihre Lohnfortzahlung haben.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeiter müssen ihren Vorgesetzten telefonisch benachrichtigen, falls sie krank sind, und die AU spätestens am vierten Krankheitstag vorlegen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Arbeitsunfähigkeitsbescheinigung (AU) wird benötigt,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sobald man sich beim Vorgesetzten krankgemeldet hat."
+                },
+                {
+                    "key": "b",
+                    "text": "wenn die Krankheit länger als zwei Tage andauert."
+                },
+                {
+                    "key": "c",
+                    "text": "erst nach der Genehmigung durch die Personalabteilung."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

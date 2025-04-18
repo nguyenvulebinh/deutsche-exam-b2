@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Ärztliche Bescheinigung\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es unerlässlich, das Unternehmen unverzüglich darüber zu informieren. Bitte melden Sie sich am ersten Tag Ihrer Abwesenheit krank, idealerweise noch vor dem regulären Arbeitsbeginn. Die Krankmeldung muss sowohl bei Ihrer direkten Führungskraft als auch in der Personalabteilung erfolgen. Der bevorzugte Weg hierfür ist das Telefonat. Nur falls Sie niemanden telefonisch erreichen können, ist eine Benachrichtigung per E-Mail als Alternative akzeptabel.\n\nEine ärztliche Bescheinigung über Ihre Arbeitsunfähigkeit (oft als „AU“ oder „gelber Schein“ bezeichnet) ist für die Fortsetzung der Gehaltszahlung notwendig. Diese Bescheinigung muss dem Unternehmen spätestens am vierten Kalendertag Ihrer krankheitsbedingten Abwesenheit vorliegen. Das bedeutet, wenn Ihre Krankheit länger als drei Kalendertage andauert, ist die Vorlage der AU zwingend erforderlich. Die Firma behält sich jedoch das Recht vor, in begründeten Einzelfällen und nach vorheriger Ankündigung, die Vorlage einer ärztlichen Bescheinigung auch schon früher zu verlangen.\n\nDas Original der ärztlichen Bescheinigung ist stets bei der Personalabteilung einzureichen. Bitte achten Sie auf die fristgerechte Einreichung, da eine verspätete Vorlage Auswirkungen auf Ihre Gehaltsfortzahlung haben und arbeitsrechtliche Schritte nach sich ziehen kann. Informieren Sie Ihre Führungskraft zusätzlich formlos über die voraussichtliche Dauer Ihrer Abwesenheit, sobald diese Ihnen bekannt ist.\n\nSobald Sie wieder arbeitsfähig sind und Ihre Tätigkeit aufnehmen, informieren Sie bitte ebenfalls kurz Ihre Führungskraft. Eine formale „Gesundmeldung“ ist in der Regel nicht erforderlich, es sei denn, dies wurde im Einzelfall anders kommuniziert.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine ärztliche Bescheinigung ist ab dem ersten Tag der Arbeitsunfähigkeit notwendig.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "immer sofort am ersten Tag eingereicht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "spätestens am vierten Krankheitstag der Personalabteilung vorliegen."
+                },
+                {
+                    "key": "c",
+                    "text": "nur vorgelegt werden, wenn die Firma sie ausdrücklich anfordert."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Essensgutscheine\n\nUm in der Mittagspause vergünstigt zu essen, können Sie Gutscheine im Wert von 6,50 € erwerben. Diese sind uneingeschränkt in unserer Cafeteria sowie im Restaurant Krönchen in der Sigmundstraße 12 einlösbar, dort allerdings nur für das Tagesmenü.\n\nSie können die Essensgutscheine über unser Internetportal anfordern. Geben Sie bis zum 25. jeden Monats die Anzahl der Gutscheine an, die Sie für den Folgemonat einlösen möchten. Die Abrechnung erfolgt über die Gehaltsabrechnung. Gutscheine, die Sie nicht einlösen, sind auch in den nächsten Monaten noch gültig.\n\nBis jeweils zum Donnerstag der Vorwoche müssen Sie außerdem angeben, welche Mittagsmenüs Sie in der folgenden Woche in der Cafeteria essen möchten. Eine kurzfristige Abmeldung ist bis 10:30 Uhr am Vortag möglich, dies sollte aber nicht zur Regel werden, da die Küche planen muss.\nBitte beachten Sie, dass die Gutscheine nur durch Mitarbeiter eingelöst werden dürfen. Für Geschäftsbesuch sind Gästekarten über die jeweilige Assistenz oder direkt in der Personalabteilung erhältlich.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Das Mittagessen muss in der Woche vorher gewählt werden.",
+        "loesung": "richtig"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Die Gutscheine für das vergünstigte Essen",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "kann man am Monatsende abholen."
+          },
+          {
+            "key": "b",
+            "text": "sind nur für Angestellte der Firma erhältlich."
+          },
+          {
+            "key": "c",
+            "text": "verfallen nach einem Monat."
+          }
+        ],
+        "loesung": "b"
+      }
+    ]
+}
+  

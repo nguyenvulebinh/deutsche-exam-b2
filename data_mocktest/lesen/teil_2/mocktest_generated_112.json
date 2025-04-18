@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Krankmeldung\n\nWenn Sie krankheitsbedingt nicht zur Arbeit erscheinen können, ist es notwendig, dass Sie dies unverzüglich am ersten Tag Ihrer Abwesenheit Ihrem direkten Vorgesetzten melden. Diese Meldung sollte grundsätzlich telefonisch erfolgen, spätestens bis 9:00 Uhr morgens, damit Ihre Abwesenheit rechtzeitig berücksichtigt und eventuelle Vertretungen organisiert werden können. Geben Sie bei Ihrer Meldung bitte auch die voraussichtliche Dauer Ihres Ausfalls an.\n\nFür Arbeitsunfähigkeiten, die eine Dauer von mehr als drei Kalendertagen haben, ist eine ärztliche Bescheinigung, die sogenannte Arbeitsunfähigkeitsbescheinigung (AU), zwingend erforderlich. Diese muss dem Unternehmen spätestens am darauffolgenden Arbeitstag – also in der Regel am vierten Tag der Krankheit – vorliegen. Es ist wichtig, dass Sie diese Frist einhalten. Die Übermittlung der AU kann entweder postalisch an die Personalabteilung erfolgen oder bequem digital über unser Mitarbeiterportal hochgeladen werden. Prüfen Sie jedoch bitte Ihren individuellen Arbeitsvertrag, da in Einzelfällen abweichende Regelungen, wie z. B. eine frühere Vorlagepflicht der AU, vereinbart sein könnten.\n\nSollte Ihre Krankheit länger andauern als auf der ursprünglichen Bescheinigung angegeben, so informieren Sie bitte erneut umgehend Ihren Vorgesetzten telefonisch und reichen Sie rechtzeitig vor Ablauf der alten AU eine Folgebescheinigung auf demselben Weg (Post oder Portal) ein. Bei Wiederaufnahme Ihrer Tätigkeit ist die Original-AU in Papierform in der Personalabteilung abzugeben, falls sie zuvor nur digital übermittelt wurde.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende müssen sich telefonisch krankmelden und das ärztliche Attest spätestens am vierten Krankheitstag einreichen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist bereits am ersten Krankheitstag erforderlich."
+                },
+                {
+                    "key": "b",
+                    "text": "kann per Post geschickt oder online eingereicht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "muss immer persönlich beim Vorgesetzten abgegeben werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

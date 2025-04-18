@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Dienstwagenregelung\n\nBestimmte Positionen in unserem Unternehmen, insbesondere im Außendienst oder mit hoher Reisetätigkeit, können Anspruch auf einen Dienstwagen haben. Dieser wird primär für dienstliche Fahrten zur Verfügung gestellt. Eine automatische Zuteilung eines Fahrzeugs bei Arbeitsantritt erfolgt jedoch nicht; die Notwendigkeit und Berechtigung werden individuell geprüft.\n\nSofern vertraglich vereinbart, ist auch eine private Nutzung des Dienstwagens gestattet. Bitte beachten Sie, dass dies einen sogenannten geldwerten Vorteil darstellt, der steuerlich entsprechend berücksichtigt werden muss. Voraussetzung für die Privatnutzung ist das Führen eines lückenlosen Fahrtenbuchs, um dienstliche und private Fahrten klar zu trennen. Die firmeneigene Tankkarte darf ausschließlich für dienstlich veranlasste Fahrten verwendet werden; die Kosten für privat verfahrenen Kraftstoff sind von Ihnen selbst zu tragen.\n\nAls Nutzerin oder Nutzer eines Dienstwagens sind Sie für dessen ordnungsgemäßen Zustand mitverantwortlich. Dazu gehören die regelmäßige Reinigung sowie die Einhaltung der vorgeschriebenen Inspektionstermine. Eventuelle Schäden am Fahrzeug sind unverzüglich dem Fuhrparkmanagement zu melden. Für Verkehrsverstöße und daraus resultierende Bußgelder haften Sie persönlich und tragen die Kosten selbst.\n\nIm Interesse aller Mitarbeitenden und zur Werterhaltung der Fahrzeuge bitten wir Sie dringend, das Rauchverbot in allen Dienstwagen einzuhalten. Ebenso ist es untersagt, den Dienstwagen an unbefugte Dritte, also Personen außerhalb des Kreises der berechtigten Mitarbeitenden, zur Nutzung zu überlassen. Bei Fragen zur Dienstwagenregelung steht Ihnen das Fuhrparkmanagement gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für die Privatnutzung des Dienstwagens müssen Mitarbeitende sowohl ein Fahrtenbuch führen als auch die Kraftstoffkosten selbst übernehmen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn am Dienstwagen ein Schaden entsteht,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kann dies bei der nächsten Inspektion angegeben werden."
+                },
+                {
+                    "key": "b",
+                    "text": "muss dies dem Fuhrparkmanagement sofort gemeldet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "übernimmt die Firma automatisch die Reparaturkosten ohne Meldung."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

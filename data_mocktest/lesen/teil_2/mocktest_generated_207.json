@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege und Richtlinien\n\nHerzlich willkommen in unserem Team! Um eine effiziente und klare Kommunikation sicherzustellen, nutzen wir verschiedene Kanäle. Dazu gehören E-Mail, unser interner Chat-Messenger, das Projektmanagement-Tool sowie das Intranet. Es ist wichtig, für jede Art von Information den passenden Kanal zu wählen, um Missverständnisse zu vermeiden und die Informationsflut zu bewältigen.\n\nFür die externe Kommunikation per E-Mail ist stets ein professioneller und formeller Ton angebracht; die Verwendung der standardisierten Firmensignatur ist dabei obligatorisch. Intern können E-Mails zwar etwas weniger formell sein, sollten aber dennoch professionell bleiben. Wir bitten Sie, interne Anfragen möglichst innerhalb von 24 Arbeitsstunden zu beantworten. Bei sehr dringenden Angelegenheiten, die eine sofortige Reaktion erfordern, sind der direkte Anruf oder der Chat-Messenger oft die bessere Wahl. Bitte beachten Sie unbedingt, dass die private Nutzung des Firmen-E-Mail-Kontos ausdrücklich untersagt ist. Richten Sie bei Abwesenheit bitte stets eine aussagekräftige Abwesenheitsnotiz ein.\n\nUnser interner Chat-Messenger eignet sich hervorragend für schnelle, informelle Fragen, die kurzfristige Koordination im Team oder einen kurzen Austausch. Er ist jedoch nicht für offizielle Ankündigungen, die Dokumentation von Arbeitsergebnissen oder die Diskussion komplexer Sachverhalte gedacht. Achten Sie bitte darauf, Ihre Statusanzeige (z.B. verfügbar, beschäftigt, abwesend) aktuell zu halten.\n\nDas Intranet dient als zentrale Plattform für alle offiziellen Unternehmensnachrichten, Richtlinienaktualisierungen, HR-Informationen und wichtige Mitteilungen der Geschäftsführung. Projektspezifische Absprachen, Aufgabenverteilungen und die dazugehörige Dokumentation finden hingegen in unserem Projektmanagement-Tool statt.\n\nUnabhängig vom gewählten Kanal erwarten wir stets einen respektvollen Umgangston. Denken Sie bitte auch immer an die Einhaltung der Datenschutzrichtlinien, insbesondere beim Austausch sensibler Informationen. Die Nutzung der vorgesehenen Kanäle trägt maßgeblich zu einer transparenten und nachvollziehbaren Kommunikation bei.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Falls eine interne E-Mail-Anfrage dringend ist und nach einem Tag unbeantwortet bleibt, empfiehlt sich die Nutzung des Telefons oder Chats.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bezüglich der Nutzung des Firmen-E-Mail-Kontos gilt, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dieses nicht für private Korrespondenz verwendet werden darf."
+                },
+                {
+                    "key": "b",
+                    "text": "gelegentliche private Nachrichten erlaubt sind."
+                },
+                {
+                    "key": "c",
+                    "text": "sowohl interne als auch externe Mails immer informell sein können."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

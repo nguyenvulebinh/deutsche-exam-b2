@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der IT-Infrastruktur\n\nHerzlich willkommen in unserem Team! Für Ihre Tätigkeit stellen wir Ihnen die notwendige IT-Ausstattung, in der Regel einen Laptop und gegebenenfalls ein Mobiltelefon, zur Verfügung. Bitte beachten Sie, dass diese Geräte primär für dienstliche Zwecke vorgesehen sind. Bei Ihrem Arbeitsantritt erhalten Sie Ihre persönlichen Zugangsdaten zusammen mit einem initialen Passwort.\n\nAus Sicherheitsgründen ist es zwingend erforderlich, dass Sie das initiale Passwort umgehend nach Erhalt ändern. Für Passwörter gelten bei uns strenge Richtlinien: Sie müssen eine Mindestlänge von 12 Zeichen aufweisen und eine Kombination aus Groß- und Kleinbuchstaben, Ziffern sowie Sonderzeichen enthalten. Zudem ist ein Passwortwechsel alle 90 Tage vorgeschrieben. Die Weitergabe Ihres Passworts an Dritte, einschließlich Kolleginnen und Kollegen, ist strengstens untersagt.\n\nAuf den von der Firma bereitgestellten Geräten darf ausschließlich Software installiert und genutzt werden, die vom Unternehmen offiziell freigegeben und bereitgestellt wurde. Sollten Sie für die Erfüllung Ihrer Aufgaben zusätzliche Software benötigen, so ist diese zwingend über ein IT-Support-Ticket bei unserer IT-Abteilung zu beantragen. Die eigenmächtige Installation von Programmen, insbesondere von privater Software oder Spielen, ist nicht gestattet. Ebenso ist der Anschluss und die Nutzung nicht autorisierter externer Speichermedien, wie zum Beispiel private USB-Sticks oder externe Festplatten, aus Sicherheitsgründen verboten.\n\nDie Nutzung des Internets sowie Ihres Firmen-E-Mail-Kontos hat grundsätzlich arbeitsbezogen zu erfolgen. Eine maßvolle private Nutzung des Internets ist während der offiziellen Pausenzeiten toleriert, unter der Bedingung, dass sie die Leistungsfähigkeit der Systeme nicht beeinträchtigt und nicht gegen gesetzliche Bestimmungen oder interne Unternehmensregeln verstößt. Dies schließt beispielsweise das Verbot von Streaming-Diensten oder illegalen Downloads während der Arbeitszeit ein. Wir erinnern daran, dass die geschäftliche E-Mail-Kommunikation stets professionell zu gestalten ist und besondere Vorsicht beim Öffnen von Anhängen oder Klicken auf Links von unbekannten Absendern geboten ist.\n\nBei technischen Problemen oder Fragen bezüglich der IT-Nutzung steht Ihnen unser IT-Support jederzeit zur Verfügung (erreichbar unter der Durchwahl -444). Es gehört zu Ihren Pflichten als Mitarbeiterin oder Mitarbeiter, sicherheitsrelevante Vorfälle – wie den Verdacht auf einen Virenbefall oder erhaltene Phishing-Versuche – unverzüglich dem IT-Support zu melden. Bitte beachten Sie, dass Verstöße gegen diese IT-Nutzungsrichtlinien zu arbeitsrechtlichen Konsequenzen führen können.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeitende müssen ihr initiales Passwort direkt ändern und dürfen danach nur vom Unternehmen genehmigte Software installieren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Mitarbeitende tun, wenn sie zusätzliche Software für ihre Arbeit benötigen?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie müssen einen Antrag mittels IT-Support-Ticket stellen."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie dürfen die Software selbst installieren, wenn sie arbeitsbezogen ist."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie sollen die IT-Abteilung anrufen und das Passwort durchgeben."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

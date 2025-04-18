@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Hinweise zur Nutzung der Drucker und Kopierer\n\nAuf jeder Etage unseres Unternehmens stehen Ihnen moderne Multifunktionsgeräte zur Verfügung, die als Drucker, Kopierer und Scanner genutzt werden können. Diese Geräte sind für dienstliche Zwecke vorgesehen. Um einen Ausdruck zu starten oder zu kopieren, müssen Sie sich mit Ihrer persönlichen Mitarbeiterkarte am Gerät authentifizieren. Dies dient der Sicherheit und einer internen Kostenübersicht, belastet jedoch nicht Ihr persönliches Budget.\n\nStandardmäßig sind alle Geräte auf Schwarzweißdruck (S/W) und beidseitigen Druck (Duplexdruck) eingestellt, um Ressourcen zu schonen. Farbdrucke sind möglich, erfordern jedoch eine nachvollziehbare Begründung, da sie erheblich höhere Kosten verursachen. Für geplante größere Farbdruckaufträge oder spezielle Projekte ist über das Intranet-Formular eine kurze Genehmigung durch Ihre Teamleitung einzuholen. Bitte verwenden Sie ausschließlich das in den Geräten vorhandene Standard- oder Recyclingpapier. Das Einlegen von eigenem oder speziellem Papier ist aus technischen Gründen untersagt.\n\nKleinere Störungen, wie z.B. ein Papierstau oder ein leerer Toner, können und sollen von Ihnen selbst behoben werden. Anleitungen dazu finden Sie direkt an den Geräten oder im Intranet unter „IT-Hilfe“. Bitte versuchen Sie nicht, komplexe Reparaturen selbst durchzuführen. Sollte eine Störung auftreten, die Sie nicht selbst beheben können, melden Sie diese bitte umgehend dem IT-Support über das Ticketsystem im Intranet. Geben Sie dabei bitte immer die Gerätenummer an, die auf einem Aufkleber am Drucker zu finden ist.\n\nWir bitten Sie um einen verantwortungsvollen Umgang mit den Druck- und Kopiermöglichkeiten. Prüfen Sie vor dem Drucken die Notwendigkeit und nutzen Sie die Druckvorschau. Oftmals sind digitale Dokumente und deren Weiterleitung per E-Mail eine umweltfreundlichere und effizientere Alternative. Ihr bewusster Umgang hilft, Kosten zu senken und unsere Umweltziele zu unterstützen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter sollen Ressourcen schonen, indem sie standardmäßig doppelseitig drucken und bei kleineren Geräteproblemen zunächst selbst aktiv werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Um Farbausdrucke zu erstellen, müssen Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "lediglich die richtige Druckereinstellung dafür wählen."
+                },
+                {
+                    "key": "b",
+                    "text": "eigenes Farbpapier in das Gerät einlegen."
+                },
+                {
+                    "key": "c",
+                    "text": "eine Begründung für die Notwendigkeit angeben."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

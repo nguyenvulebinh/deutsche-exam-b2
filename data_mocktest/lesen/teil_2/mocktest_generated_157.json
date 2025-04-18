@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es von entscheidender Bedeutung, dass Sie das Unternehmen korrekt und zeitnah informieren. Bitte benachrichtigen Sie Ihre direkte Führungskraft oder die zuständige Teamleitung unverzüglich am ersten Tag Ihrer Abwesenheit, idealerweise noch vor dem regulären Arbeitsbeginn. Diese erste Meldung muss zwingend telefonisch erfolgen, damit eine Vertretung organisiert und dringende Aufgaben gegebenenfalls umverteilt werden können.\n\n dauert Ihre Arbeitsunfähigkeit länger als zwei Kalendertage an, so sind Sie verpflichtet, spätestens am dritten Kalendertag eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Für die fristgerechte Einreichung genügt es zunächst, wenn Sie eine digitale Kopie (Scan oder Foto) per E-Mail an die Personalabteilung senden. Das Originaldokument muss jedoch im Anschluss zeitnah auf dem Postweg nachgereicht oder persönlich abgegeben werden.\n\nBei Ihrer telefonischen Krankmeldung sollten Sie, falls bereits abschätzbar, die voraussichtliche Dauer Ihrer Abwesenheit mitteilen. Sollten kurzfristig wichtige Übergabeinformationen für Kolleginnen oder Kollegen notwendig sein, erwähnen Sie dies bitte ebenfalls, damit Ihre Führungskraft entsprechende Schritte einleiten kann.\n\nSollte sich herausstellen, dass Sie über den auf der ursprünglichen AU bescheinigten Zeitraum hinaus arbeitsunfähig bleiben, ist umgehend eine Folgebescheinigung Ihres Arztes erforderlich. Auch diese muss wiederum spätestens am ersten Tag nach Ablauf der vorherigen Bescheinigung digital bei der Personalabteilung eingereicht und das Original nachgesendet werden. Bei längeren oder wiederholten Krankheitsphasen kann die Personalabteilung zudem auf Sie zukommen, um weitere Schritte zu besprechen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Wenn Mitarbeiter krank sind, müssen sie dies sofort telefonisch melden und ab dem dritten Tag ein Attest vorlegen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei einer Krankmeldung müssen Sie zuerst...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihre Führungskraft oder Teamleitung anrufen."
+                },
+                {
+                    "key": "b",
+                    "text": "der Personalabteilung eine E-Mail schreiben."
+                },
+                {
+                    "key": "c",
+                    "text": "ein ärztliches Attest besorgen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

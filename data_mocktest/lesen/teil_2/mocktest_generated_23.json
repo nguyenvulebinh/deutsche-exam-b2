@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es wichtig, dass Sie das Unternehmen unverzüglich informieren. Bitte benachrichtigen Sie sowohl Ihre/n direkte/n Vorgesetzte/n als auch die Personalabteilung noch vor Ihrem regulären Arbeitsbeginn am ersten Tag Ihrer Abwesenheit. Die Krankmeldung sollte idealerweise telefonisch erfolgen. Nur wenn Sie niemanden erreichen, ist eine E-Mail als erste Information akzeptabel, der Anruf sollte jedoch nachgeholt werden. Geben Sie bitte auch die voraussichtliche Dauer Ihrer Abwesenheit an.\n\nSpätestens am dritten Kalendertag Ihrer Krankheit sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Beachten Sie bitte, dass hier Kalendertage zählen, also auch Wochenenden und Feiertage mitgerechnet werden, falls diese in den Zeitraum fallen. Die Originalbescheinigung senden Sie bitte direkt und ausschließlich an die Personalabteilung, nicht an Ihre/n Vorgesetzte/n.\n\nSollte Ihre Erkrankung länger andauern als ursprünglich angenommen oder auf der ersten AU bescheinigt, informieren Sie bitte erneut umgehend Ihre/n Vorgesetzte/n sowie die Personalabteilung und reichen Sie rechtzeitig eine Folgebescheinigung bei der Personalabteilung ein. Sobald Sie wieder genesen sind und Ihre Arbeit aufnehmen, melden Sie sich bitte kurz bei Ihrer/Ihrem Vorgesetzten zurück.\n\nDie korrekte und zeitnahe Einhaltung dieses Verfahrens ist entscheidend für die Sicherstellung Ihrer Lohnfortzahlung im Krankheitsfall und hilft uns bei der Organisation der Arbeitsabläufe. Ihre Gesundheitsdaten werden selbstverständlich vertraulich und gemäß den Datenschutzbestimmungen behandelt.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Am ersten Tag einer Erkrankung sind sowohl die Teamleitung als auch die Personalabteilung umgehend zu kontaktieren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird direkt an den oder die Vorgesetzte/n geschickt."
+                },
+                {
+                    "key": "b",
+                    "text": "ist erst ab dem dritten Arbeitstag der Krankheit nötig."
+                },
+                {
+                    "key": "c",
+                    "text": "muss der Personalabteilung spätestens am dritten Krankheitstag zugehen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

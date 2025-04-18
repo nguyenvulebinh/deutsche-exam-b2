@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der IT-Systeme und Datenschutz\n\nHerzlich willkommen in unserem Team! Damit Sie sicher und effizient mit unseren IT-Systemen arbeiten können, bitten wir Sie, die folgenden Richtlinien zu beachten, die Teil unserer umfassenden IT-Nutzungsrichtlinie sind.\n\nIhre initialen Anmeldedaten für Ihren Firmenaccount erhalten Sie von der Personalabteilung. Aus Sicherheitsgründen sind Sie verpflichtet, das Ihnen zugewiesene initiale Passwort unmittelbar bei der ersten Anmeldung durch ein persönliches, komplexes Passwort zu ersetzen. Dieses sollte gemäß unseren Passwortrichtlinien regelmäßig geändert werden und darf keinesfalls an Dritte weitergegeben werden.\n\nDie Installation jeglicher Software auf den Firmengeräten ist grundsätzlich untersagt, es sei denn, Sie haben eine ausdrückliche schriftliche Genehmigung durch die IT-Abteilung erhalten. Dies dient dem Schutz unserer Systeme vor Schadsoftware. Die Nutzung des Internets und des Firmen-E-Mail-Accounts ist primär für dienstliche Zwecke vorgesehen. Eine gelegentliche, kurze private Nutzung ist zwar geduldet, jedoch behalten wir uns das Recht vor, die Internetnutzung im gesetzlich zulässigen Rahmen zu überprüfen. Achten Sie stets auf einen professionellen Kommunikationsstil.\n\nZum Schutz sensibler Unternehmens- und Kundendaten ist es unerlässlich, dass Sie Ihren Bildschirm sperren, sobald Sie Ihren Arbeitsplatz verlassen – auch bei kurzen Pausen. Seien Sie besonders vorsichtig im Umgang mit personenbezogenen Daten und halten Sie sich an die Vorgaben der Datenschutzgrundverordnung (DSGVO). Verdächtige E-Mails melden Sie bitte umgehend an den IT-Support.\n\nBei technischen Problemen oder Fragen zur IT-Nutzung steht Ihnen unser IT-Support (Durchwahl -456, Raum E.12) gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die private Nutzung des Internets ist den Mitarbeitern generell untersagt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Beim erstmaligen Anmelden am System müssen neue Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ihr initiales Passwort sofort ändern."
+                },
+                {
+                    "key": "b",
+                    "text": "den IT-Support über ihr gewähltes Passwort informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "ein Passwort wählen, das sie bereits privat nutzen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

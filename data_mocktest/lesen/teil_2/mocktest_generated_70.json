@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung von Firmenfahrzeugen\n\nEinige Positionen in unserem Unternehmen, insbesondere im Außendienst und Management, beinhalten den Anspruch auf ein Firmenfahrzeug. Die Zuteilung erfolgt gemäß Ihrer vertraglichen Vereinbarung. Bitte beachten Sie, dass die Nutzung des Fahrzeugs an bestimmte Regeln gebunden ist, um einen reibungslosen und konformen Betriebsablauf zu gewährleisten.\n\nEin zentraler Aspekt ist die Pflicht zur Führung eines elektronischen Fahrtenbuchs. Hier müssen alle Fahrten – sowohl dienstliche als auch private – lückenlos mit Datum, Kilometerstand bei Beginn und Ende der Fahrt sowie dem Zweck der Reise dokumentiert werden. Diese Aufzeichnungen sind essenziell für die korrekte steuerliche Abrechnung und interne Kostenkontrolle. Für die Betankung des Fahrzeugs erhalten Sie eine spezielle Firmentankkarte, die ausschließlich an autorisierten Tankstellen genutzt werden darf. Barzahlungen oder die Nutzung privater Karten für dienstliche Betankungen sind nicht gestattet und werden nicht erstattet.\n\nDie private Nutzung des Firmenfahrzeugs ist grundsätzlich erlaubt, unterliegt jedoch Bedingungen. Der geldwerte Vorteil für Privatfahrten muss gemäß den gesetzlichen Vorgaben versteuert werden. Beachten Sie bitte, dass Fahrten ins Ausland einer gesonderten Genehmigung durch die Geschäftsleitung bedürfen und nicht pauschal abgedeckt sind. Zudem wird erwartet, dass das Fahrzeug sauber gehalten und pünktlich zu den vorgegebenen Wartungsterminen gebracht wird. Informationen zu den Terminen erhalten Sie automatisch per E-Mail.\n\nIm Falle eines Schadens oder Unfalls ist es zwingend erforderlich, diesen unverzüglich – spätestens jedoch innerhalb von 24 Stunden – unserer Fuhrparkverwaltung (Kontaktdaten siehe Intranet) zu melden. Füllen Sie hierfür bitte das digitale Schadensformular vollständig aus. Bei Unfällen mit Dritten ist zudem immer die Polizei hinzuzuziehen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle Mitarbeitenden können das Firmenfahrzeug ohne zusätzliche Kosten für private Urlaubsreisen ins Ausland nutzen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein Schaden am Firmenfahrzeug entsteht, müssen Mitarbeitende...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zuerst selbst eine Werkstatt aufsuchen."
+                },
+                {
+                    "key": "b",
+                    "text": "die Polizei nur bei größeren Schäden informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "dies umgehend der Fuhrparkverwaltung mitteilen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

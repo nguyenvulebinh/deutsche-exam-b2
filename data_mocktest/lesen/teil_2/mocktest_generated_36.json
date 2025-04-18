@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur Nutzung der IT-Ressourcen\n\nHerzlich willkommen in unserem Unternehmen! Für Ihre Tätigkeit stellen wir Ihnen einen Firmenrechner (PC oder Laptop) sowie ein persönliches Benutzerkonto zur Verfügung. Ihre Zugangsdaten (Benutzername und Passwort) sind streng vertraulich zu behandeln und dürfen unter keinen Umständen an Dritte, auch nicht an Kolleginnen oder Kollegen, weitergegeben werden. Sie sind für alle Aktivitäten unter Ihrem Konto verantwortlich.\n\nDer Zugang zum Firmennetzwerk und zum Internet ist grundsätzlich für dienstliche Zwecke vorgesehen. Wir weisen darauf hin, dass die Netzwerknutzung protokolliert werden kann. Eine begrenzte private Nutzung des Internets in den Pausenzeiten wird toleriert, sofern sie die Arbeitsabläufe nicht stört. Das Aufrufen von Streaming-Diensten, illegalen Downloadseiten oder nicht jugendfreien Inhalten ist jedoch strikt untersagt.\n\nAuf den Firmenrechnern darf ausschließlich Software eingesetzt werden, die vom Unternehmen genehmigt und lizenziert wurde. Die Installation eigener Programme oder Tools ist nicht gestattet. Sollten Sie für Ihre Arbeit zusätzliche Software benötigen, ist diese über ein Ticket beim IT-Helpdesk zu beantragen. Unsere IT-Abteilung prüft die Anfrage und kümmert sich um die Beschaffung und Installation unter Einhaltung der Lizenzkonformität.\n\nDie dienstliche E-Mail-Adresse ist primär für die berufliche Kommunikation zu verwenden. Kurze, gelegentliche private E-Mails sind zwar gestattet, sollten aber auf ein Minimum beschränkt bleiben. Achten Sie darauf, keine großen Dateianhänge unnötig zu versenden und leiten Sie keine Kettenbriefe weiter. Seien Sie besonders vorsichtig bei E-Mails von unbekannten Absendern oder mit verdächtigen Links, um Phishing-Angriffe zu vermeiden. Aus Sicherheitsgründen müssen Sie Ihr Passwort alle 90 Tage ändern. Es muss dabei eine Mindestlänge von 12 Zeichen aufweisen und eine Kombination aus Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen enthalten.\n\nBei technischen Problemen mit Hard- oder Software sowie für Softwareanfragen wenden Sie sich bitte ausschließlich an unseren IT-Helpdesk (Kontaktdaten siehe Intranet). Beachten Sie, dass ein nachgewiesener Missbrauch der IT-Ressourcen arbeitsrechtliche Konsequenzen bis hin zur Kündigung nach sich ziehen kann.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Private Nutzung des Internets und das Installieren eigener Programme sind generell erlaubt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Laut den Richtlinien müssen Passwörter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "nur einmal bei der Accounterstellung festgelegt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "bestimmten Komplexitätsanforderungen genügen und periodisch geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "leicht merkbar sein und dürfen Kollegen mitgeteilt werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

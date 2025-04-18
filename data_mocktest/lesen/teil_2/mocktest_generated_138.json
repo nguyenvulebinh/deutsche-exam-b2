@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Sorgsamer Umgang mit Firmeneigentum und Ressourcen\n\nWir bitten Sie herzlich, alle Ihnen zur Verfügung gestellten Ressourcen und das Firmeneigentum verantwortungsbewusst und wirtschaftlich zu nutzen. Dies betrifft sowohl größere Arbeitsmittel als auch alltägliches Büromaterial wie Papier und Stifte. Ein sparsamer Umgang schont nicht nur unser Budget, sondern leistet auch einen Beitrag zur Nachhaltigkeit.\n\nBesondere Aufmerksamkeit erfordert die Ihnen anvertraute IT-Ausstattung. Ihr Dienstrechner bzw. Laptop ist ausschließlich für dienstliche Zwecke vorgesehen; die Installation von privater Software ist untersagt. Beim Diensthandy ist eine maßvolle private Nutzung für Telefonate gestattet, jedoch bitten wir Sie, die private Internetnutzung auf ein Minimum zu beschränken. Achten Sie stets darauf, die Geräte vor Beschädigung und unbefugtem Zugriff zu schützen.\n\nIhre persönliche Zugangskarte ermöglicht Ihnen den Eintritt in das Firmengebäude und bestimmte Bereiche. Behandeln Sie diese Karte wie einen Schlüssel. Ein Verlust muss aus Sicherheitsgründen unverzüglich dem Gebäudemanagement (Raum E.05) gemeldet werden, damit die Karte umgehend gesperrt werden kann.\n\nFür gemeinsam genutzte Geräte wie Drucker und Kopierer gelten ebenfalls Regeln des sorgsamen Gebrauchs. Wir ermutigen Sie beispielsweise, standardmäßig die Funktion für beidseitigen Druck zu verwenden, um Papier zu sparen. Sollten Sie einen Defekt an einem solchen Gerät feststellen, informieren Sie bitte umgehend den IT-Support (Durchwahl -112), damit eine Reparatur zeitnah veranlasst werden kann.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiterinnen und Mitarbeiter sind angehalten, sowohl Büromaterial sparsam zu verwenden als auch Defekte an Druckern umgehend zu melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei Verlust der Zugangskarte müssen Sie...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine neue Karte beim IT-Support beantragen."
+                },
+                {
+                    "key": "b",
+                    "text": "zunächst versuchen, die Karte selbst wiederzufinden."
+                },
+                {
+                    "key": "c",
+                    "text": "dies sofort dem Gebäudemanagement mitteilen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

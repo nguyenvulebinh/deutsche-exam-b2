@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es von entscheidender Bedeutung, dass Sie das Unternehmen unverzüglich darüber informieren. Bitte benachrichtigen Sie sowohl Ihre direkte Vorgesetzte bzw. Ihren direkten Vorgesetzten als auch die Personalabteilung spätestens vor Ihrem regulären Arbeitsbeginn am ersten Tag Ihrer Abwesenheit. Die Meldung sollte idealerweise telefonisch erfolgen. Sollte dies aus bestimmten Gründen nicht möglich sein, ist auch eine Benachrichtigung per E-Mail akzeptabel.\n\nBei einer Arbeitsunfähigkeit, die länger als drei Kalendertage andauert, sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Diese Bescheinigung muss der Personalabteilung spätestens am vierten Kalendertag Ihrer Krankheit vorliegen. Eine frühere Einreichung, beispielsweise auch in digitaler Form über das Mitarbeiterportal, wird begrüßt und erleichtert die Planung.\n\nDauert die Krankheit über den auf der ursprünglichen AU genannten Zeitraum hinaus an, ist unverzüglich eine Folgebescheinigung einzureichen. Informieren Sie bitte Ihre Vorgesetzte bzw. Ihren Vorgesetzten ebenfalls zeitnah über die voraussichtliche Dauer Ihrer weiteren Abwesenheit und auch über Ihre geplante Rückkehr, sobald diese absehbar ist. Sollten Sie früher als erwartet wieder arbeitsfähig sein, teilen Sie dies bitte ebenfalls umgehend mit.\n\nWährend Ihrer Abwesenheit ist es möglich, dass das Unternehmen Sie in dringenden betrieblichen Fällen kontaktiert, falls dies zur Aufrechterhaltung wichtiger Prozesse unbedingt notwendig ist. Dies sollte jedoch auf ein Minimum beschränkt bleiben. Sie sind grundsätzlich nicht dazu verpflichtet, während Ihrer Krankheit ständig erreichbar zu sein.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl bei Beginn der Krankheit als auch bei absehbarer Rückkehr ist der Vorgesetzte zu informieren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss dem direkten Vorgesetzten am dritten Krankheitstag gezeigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "ist erst ab dem vierten Tag der Krankheit bei der Personalabteilung einzureichen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird bei jeder Krankmeldung, auch bei nur einem Tag, benötigt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

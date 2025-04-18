@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Nutzung von Firmenfahrzeugen\n\nUnser Unternehmen stellt bestimmten Mitarbeitergruppen Firmenfahrzeuge zur Verfügung, primär solchen mit hoher Reisetätigkeit im Außendienst oder Kundenservice. Je nach Position und vertraglicher Vereinbarung kann Ihnen ein Fahrzeug fest zugewiesen werden. Für gelegentliche Dienstfahrten anderer berechtigter Mitarbeiter steht zudem ein Pool an Fahrzeugen bereit, die über unser internes System gebucht werden müssen.\n\nDie Hauptnutzung der Firmenfahrzeuge ist ausschließlich für dienstliche Zwecke vorgesehen. Um dies transparent zu dokumentieren, ist für jede Fahrt – dienstlich wie gegebenenfalls privat – ein elektronisches Fahrtenbuch exakt und lückenlos zu führen. Die Einträge werden regelmäßig durch das Fuhrparkmanagement überprüft.\n\nEine private Nutzung ist grundsätzlich nur bei fest zugewiesenen Firmenfahrzeugen und nur dann gestattet, wenn dies explizit in Ihrem Arbeitsvertrag festgehalten ist. Diese Privatnutzung stellt einen geldwerten Vorteil dar, der entsprechend den gesetzlichen Vorgaben versteuert werden muss. Poolfahrzeuge sind von jeglicher Privatnutzung ausgeschlossen.\n\nAls Nutzer eines Firmenfahrzeugs tragen Sie Verantwortung. Dazu gehört der Besitz einer gültigen Fahrerlaubnis, deren Vorlage regelmäßig von uns geprüft wird. Technische Mängel oder Schäden am Fahrzeug sind unverzüglich dem Fuhrparkmanagement zu melden. Sie sind zudem dafür verantwortlich, das Fahrzeug in einem sauberen Zustand zu halten. Die Betankung erfolgt mittels einer bereitgestellten Tankkarte gemäß den Tankrichtlinien; Poolfahrzeuge sind nach Nutzung wieder vollgetankt abzustellen. Rauchen im Fahrzeug sowie die Nutzung durch nicht autorisierte Dritte sind strengstens untersagt.\n\nBuchungen für Poolfahrzeuge erfolgen über das Online-Portal „FleetBooker“. Bei Fragen zur Fahrzeugnutzung, zur Meldung von Schäden oder bei Problemen mit der Buchung wenden Sie sich bitte direkt an das Fuhrparkmanagement (Durchwahl -450, E-Mail: fuhrpark@firma.de).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter, die Firmenfahrzeuge nutzen, müssen sowohl eine gültige Fahrerlaubnis besitzen als auch Schäden am Fahrzeug sofort melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die private Nutzung von Firmenfahrzeugen...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist an vertragliche Vereinbarungen geknüpft und steuerpflichtig."
+                },
+                {
+                    "key": "b",
+                    "text": "ist für alle Fahrzeugtypen nach Geschäftsschluss gestattet."
+                },
+                {
+                    "key": "c",
+                    "text": "erfordert lediglich die Eintragung in das Online-Buchungssystem."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

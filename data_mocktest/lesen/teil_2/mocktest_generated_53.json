@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Elektronisches Zeiterfassungssystem „ChronoTime“\n\nHerzlich willkommen in unserem Team! Um eine genaue Abrechnung Ihrer Arbeitszeit sowie die Einhaltung gesetzlicher Vorgaben sicherzustellen, nutzen wir das elektronische Zeiterfassungssystem „ChronoTime“. Die korrekte Erfassung Ihrer Anwesenheitszeiten ist verpflichtend und bildet die Grundlage für Ihre Gehaltsabrechnung und eventuelle Überstunden.\n\nBitte loggen Sie sich zu Beginn Ihres Arbeitstages über Ihren persönlichen Mitarbeiterzugang in „ChronoTime“ ein und am Ende des Arbeitstages wieder aus. Die Terminals hierfür finden Sie an den Hauptzugängen des Gebäudes. Es liegt in Ihrer Verantwortung, die korrekte und vollständige Erfassung Ihrer Arbeitszeiten sicherzustellen.\n\nGesetzlich vorgeschriebene Pausenzeiten müssen ebenfalls dokumentiert werden. Bitte beachten Sie, dass Sie verpflichtet sind, nur Pausen über einer Dauer von 15 Minuten über die Pausenfunktion im System zu erfassen. Kürzere Unterbrechungen müssen nicht explizit gebucht werden. Vergessen Sie das Ausloggen für eine längere Pause, zieht das System automatisch die gesetzliche Mindestpause ab.\n\nSollten Sie feststellen, dass eine Buchung fehlerhaft ist (z.B. vergessenes Ein- oder Ausloggen), wenden Sie sich bitte zeitnah an Ihre*n direkte*n Vorgesetzte*n. Eine Korrektur im System kann nur nach schriftlicher Meldung des Fehlers und anschließender Prüfung und Genehmigung durch Ihre Führungskraft erfolgen. Eigenständige Korrekturen durch Mitarbeiter sind im System nicht möglich.\n\nÜberprüfen Sie regelmäßig, mindestens jedoch am Monatsende, Ihre erfassten Zeiten im System auf Richtigkeit. Bei wiederholten Unstimmigkeiten oder fehlerhaften Buchungen wird Ihre Führungskraft das Gespräch mit Ihnen suchen, um mögliche Probleme zu klären und Unterstützung anzubieten.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sämtliche Pausen, auch kurze Kaffeepausen, müssen über das Zeiterfassungssystem gebucht werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Mitarbeiter einen Fehler in ihrer Zeiterfassung feststellen,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen sie dies unverzüglich ihrer Führungskraft melden."
+                },
+                {
+                    "key": "b",
+                    "text": "können sie die Korrektur direkt im System selbst vornehmen."
+                },
+                {
+                    "key": "c",
+                    "text": "wird dieser bei der monatlichen Prüfung durch die Personalabteilung berichtigt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

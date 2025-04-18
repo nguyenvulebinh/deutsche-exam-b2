@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Vorgehen bei Krankheit und Arztbesuchen\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es von größter Wichtigkeit, dass Sie dies dem Unternehmen umgehend mitteilen. Bitte informieren Sie Ihre/n direkte/n Vorgesetzte/n noch vor dem offiziellen Arbeitsbeginn am ersten Tag Ihrer Abwesenheit. Die Benachrichtigung sollte nach Möglichkeit telefonisch erfolgen, damit Ihre Aufgaben gegebenenfalls kurzfristig neu verteilt werden können. Eine verspätete Krankmeldung kann arbeitsrechtliche Konsequenzen haben.\n\nSpätestens am dritten Kalendertag Ihrer krankheitsbedingten Abwesenheit sind Sie verpflichtet, dem Unternehmen eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Bitte senden Sie zunächst einen Scan oder ein Foto der AU per E-Mail sowohl an Ihre/n Vorgesetzte/n als auch an die Personalabteilung (personal@firma.de). Das Original reichen Sie bitte anschließend zeitnah per Post nach.\n\nMüssen Sie während Ihrer Arbeitszeit einen Arzt aufsuchen, ist dies grundsätzlich möglich. Versuchen Sie jedoch bitte, solche Termine, wenn planbar, außerhalb Ihrer Kernarbeitszeiten zu legen. Sollte ein Termin während der Arbeitszeit unumgänglich sein, holen Sie bitte vorab die Zustimmung Ihres/Ihrer Vorgesetzten ein. Die dadurch ausfallende Arbeitszeit ist in der Regel nachzuarbeiten. Legen Sie bitte nach dem Arztbesuch unaufgefordert eine ärztliche Bescheinigung über die Dauer des Termins bei Ihrem/Ihrer Vorgesetzten vor, auch wenn es sich nur um eine kurze Abwesenheit handelte.\n\nBei länger andauernden Erkrankungen oder besonderen gesundheitlichen Situationen können abweichende Regelungen gelten. Hierzu berät Sie die Personalabteilung gerne individuell. Es ist wichtig, bei Fragen proaktiv das Gespräch zu suchen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Auch für kurze Arzttermine während der Arbeitszeit ist dem Arbeitgeber ein Nachweis vorzulegen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie krankheitsbedingt nicht zur Arbeit kommen können, müssen Sie...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihren Vorgesetzten unverzüglich vor Arbeitsbeginn telefonisch informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "der Personalabteilung spätestens am dritten Tag eine AU schicken."
+                },
+                {
+                    "key": "c",
+                    "text": "einen Kollegen bitten, Ihre Aufgaben an diesem Tag zu übernehmen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

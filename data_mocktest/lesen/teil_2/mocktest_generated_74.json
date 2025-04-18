@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien für die Nutzung von Firmenfahrzeugen\n\nHerzlich willkommen in unserem Team! Sofern Ihre Position die Nutzung eines Firmenfahrzeugs vorsieht und Sie über eine gültige Fahrerlaubnis verfügen, stellen wir Ihnen gerne ein Fahrzeug zur Verfügung. Diese Fahrzeuge sind primär für dienstliche Fahrten (*Dienstfahrten*) vorgesehen. Eine eingeschränkte Privatnutzung kann unter bestimmten Bedingungen, die in Ihrem individuellen Überlassungsvertrag geregelt sind, gestattet sein.\n\nFür jede Nutzung des Firmenfahrzeugs ist verpflichtend ein elektronisches Fahrtenbuch zu führen. Bitte achten Sie darauf, jede einzelne Fahrt lückenlos zu dokumentieren, einschließlich Datum, Kilometerstand bei Beginn und Ende der Fahrt sowie dem genauen Zweck (dienstlich oder privat). Die korrekte und zeitnahe Führung des Fahrtenbuchs ist essenziell für die steuerliche Abrechnung und wird regelmäßig überprüft.\n\nZum Betanken des Fahrzeugs erhalten Sie eine spezielle Tankkarte. Diese darf ausschließlich für das Ihnen zugewiesene Firmenfahrzeug und nur an den im System hinterlegten Partnertankstellen verwendet werden. Ein Verlust der Tankkarte ist unverzüglich dem Fuhrparkmanagement zu melden, damit diese gesperrt werden kann.\n\nFür selbstverschuldete Schäden am Fahrzeug haften Sie im Rahmen einer vereinbarten Selbstbeteiligung. Kosten für Verkehrsverstöße, wie beispielsweise Bußgelder wegen überhöhter Geschwindigkeit oder Falschparkens, sind grundsätzlich von Ihnen als Fahrer bzw. Fahrerin selbst zu tragen, unabhängig davon, ob die Fahrt dienstlich oder privat war. Jeder Unfall muss sofort gemeldet werden.\n\nSie sind ebenfalls dafür verantwortlich, die vorgegebenen Inspektionstermine einzuhalten und das Fahrzeug in einem sauberen und gepflegten Zustand zu halten. Das Fuhrparkmanagement wird Sie rechtzeitig an anstehende Wartungen erinnern, die Terminvereinbarung liegt jedoch in Ihrer Verantwortung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Kosten für Bußgelder aufgrund von Geschwindigkeitsüberschreitungen werden von der Firma übernommen, sofern die Fahrt dienstlich war.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Fahrtenbuch für den Firmenwagen...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss nur für Fahrten außerhalb der Stadtgrenzen geführt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird automatisch vom Fuhrparkmanagement ausgefüllt."
+                },
+                {
+                    "key": "c",
+                    "text": "dient der genauen Aufzeichnung aller dienstlichen und privaten Fahrten."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

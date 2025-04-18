@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzung und Datensicherheit am Arbeitsplatz\n\nSehr geehrte neue Mitarbeiterin, sehr geehrter neuer Mitarbeiter,\n\ndie IT-Ressourcen unseres Unternehmens (Computer, Netzwerk, Internetzugang, E-Mail) werden Ihnen zur Erfüllung Ihrer dienstlichen Aufgaben zur Verfügung gestellt. Eine private Nutzung ist nur in sehr begrenztem Rahmen gestattet. Zum Schutz unserer Systeme und Daten bitten wir Sie dringend, die folgenden Richtlinien zu beachten.\n\nIhre persönlichen Zugangsdaten, insbesondere Passwörter, sind streng vertraulich zu behandeln und dürfen unter keinen Umständen an Dritte weitergegeben werden. Wählen Sie komplexe Passwörter und ändern Sie diese regelmäßig gemäß den Aufforderungen des Systems. Ein unsicherer Umgang mit Passwörtern stellt ein erhebliches Sicherheitsrisiko dar.\n\nDie Nutzung des dienstlichen E-Mail-Kontos für private Zwecke ist generell untersagt. Achten Sie im dienstlichen E-Mail-Verkehr auf einen professionellen Umgangston. Seien Sie besonders vorsichtig bei E-Mails von unbekannten Absendern und öffnen Sie niemals Anhänge oder klicken Sie auf Links, wenn Sie Zweifel an der Seriosität haben. Eine begrenzte private Nutzung des Internets ist ausschließlich während Ihrer offiziellen Pausenzeiten erlaubt. Das Aufrufen von Websites mit illegalen, anstößigen oder sicherheitsgefährdenden Inhalten sowie die Nutzung von bandbreitenintensiven Diensten (z.B. Streaming) während der Arbeitszeit ist strengstens verboten.\n\nDie Installation jeglicher Software auf Firmenrechnern, die nicht durch unsere IT-Abteilung freigegeben und bereitgestellt wurde, ist ohne ausdrückliche vorherige Genehmigung durch den IT-Support (support@firma.de, Durchwahl -444) untersagt. Um den unbefugten Zugriff auf Daten zu verhindern, sind Sie verpflichtet, Ihren Computerbildschirm zu sperren, sobald Sie Ihren Arbeitsplatz verlassen – auch bei kurzer Abwesenheit. Behandeln Sie alle internen Firmendaten stets vertraulich.\n\nSollten Sie verdächtige Aktivitäten, E-Mails oder technische Probleme feststellen, melden Sie diese bitte unverzüglich dem IT-Support. Verstöße gegen diese Richtlinien können arbeitsrechtliche Konsequenzen nach sich ziehen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die private Nutzung des Firmen-Internetzugangs ist während der gesamten Arbeitszeit in Maßen gestattet.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was gilt bezüglich der Installation von Programmen auf Firmenrechnern?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie bedarf immer der Genehmigung durch die IT-Abteilung."
+                },
+                {
+                    "key": "b",
+                    "text": "Das Installieren von allgemein bekannter Software ist erlaubt."
+                },
+                {
+                    "key": "c",
+                    "text": "Für die Installation ist der jeweilige Mitarbeiter verantwortlich."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

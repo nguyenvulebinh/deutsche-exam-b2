@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikation und Informationsfluss\n\nHerzlich willkommen in unserem Team! Um Ihnen den Einstieg zu erleichtern und einen reibungslosen Informationsfluss zu gewährleisten, möchten wir Ihnen unsere internen Kommunikationswege vorstellen.\n\nDie zentrale Anlaufstelle für alle wichtigen Informationen, Unternehmensnachrichten, interne Richtlinien und notwendige Formulare ist unser Firmen-Intranet. Es wird regelmäßig aktualisiert und sollte Ihre erste Quelle für allgemeine Auskünfte sein. Wir erwarten, dass Sie sich hier selbstständig über relevante Neuigkeiten informieren.\n\nDarüber hinaus finden wöchentlich Teambesprechungen statt. Diese dienen primär der gegenseitigen Abstimmung, dem Austausch über laufende Projekte und der Klärung aktueller Fragen im Team. Eine aktive Teilnahme wird von allen Teammitgliedern erwartet, um die Zusammenarbeit effizient zu gestalten.\n\nErgänzend erhalten Sie monatlich einen digitalen Newsletter per E-Mail. Dieser fasst besondere Erfolge, personelle Veränderungen und anstehende Firmenveranstaltungen zusammen. Für dringende, alle Mitarbeitenden betreffende Mitteilungen, die eine sofortige Beachtung erfordern, nutzen wir einen offiziellen E-Mail-Verteiler. Bitte überprüfen Sie Ihr E-Mail-Postfach daher regelmäßig.\n\nFür schnelle, informelle Fragen oder kurze Abstimmungen mit direkten Kolleginnen und Kollegen empfehlen wir die Nutzung unseres internen Chat-Programms. Bitte beachten Sie jedoch, dass dieses Werkzeug nicht für offizielle Anfragen, komplexe Diskussionen oder die Übermittlung sensibler Daten gedacht ist. Wenden Sie sich bei projektspezifischen Fragen an Ihre Teamleitung, bei Personalthemen an die HR-Abteilung und bei technischen Problemen an den IT-Support.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sämtliche unternehmensweiten Informationen werden ausschließlich über den offiziellen E-Mail-Verteiler kommuniziert.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die wöchentlichen Teambesprechungen dienen vor allem dazu,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sich über aktuelle Projekte abzustimmen und auszutauschen."
+                },
+                {
+                    "key": "b",
+                    "text": "offizielle Personalentscheidungen bekannt zu geben."
+                },
+                {
+                    "key": "c",
+                    "text": "neue Mitarbeiter ausführlich einzuarbeiten."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

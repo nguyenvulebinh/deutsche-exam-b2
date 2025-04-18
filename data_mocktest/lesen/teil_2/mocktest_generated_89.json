@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es wichtig, dass Sie das Unternehmen korrekt und zeitnah informieren. Bitte melden Sie sich am ersten Tag Ihrer Abwesenheit **unverzüglich**, das heißt noch vor dem regulären Arbeitsbeginn, krank.\n\nDie Krankmeldung muss zwingend sowohl bei Ihrer direkten Führungskraft (Ihrem/Ihrer Vorgesetzten) als auch in der Personalabteilung erfolgen. Die bevorzugte und schnellste Methode hierfür ist der **telefonische Anruf**. Nur in Ausnahmefällen, wenn eine telefonische Kontaktaufnahme nachweislich nicht möglich ist, kann initial eine E-Mail gesendet werden, der jedoch schnellstmöglich ein Anruf folgen muss. Bei Ihrer Meldung geben Sie bitte an, dass Sie krankheitsbedingt fehlen und wie lange Ihre Abwesenheit **voraussichtlich** dauern wird.\n\nGemäß den gesetzlichen Bestimmungen ist eine ärztliche Arbeitsunfähigkeitsbescheinigung (AUB) spätestens ab dem dritten Kalendertag der Erkrankung vorzulegen. In unserem Unternehmen gilt jedoch die Regelung, dass die AUB **spätestens am dritten Tag** der Arbeitsunfähigkeit in der Personalabteilung vorliegen muss. Ihre Führungskraft kann im Einzelfall auch bereits ab dem ersten Tag einen Nachweis verlangen. Die Übermittlung der AUB kann digital über das Mitarbeiterportal oder als Scan per E-Mail direkt an die Personalabteilung erfolgen.\n\nBitte beachten Sie, dass die Einhaltung dieser Prozedur Voraussetzung für die Entgeltfortzahlung im Krankheitsfall ist. Bei Fragen zu diesem Prozess steht Ihnen die Personalabteilung gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Vorlage einer Arbeitsunfähigkeitsbescheinigung ist stets erst am dritten Krankheitstag erforderlich.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei einer Krankmeldung sollen Sie zuerst...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "den Vorgesetzten und die Personalabteilung anrufen."
+                },
+                {
+                    "key": "b",
+                    "text": "eine E-Mail mit der ärztlichen Bescheinigung senden."
+                },
+                {
+                    "key": "c",
+                    "text": "die Kollegen über die voraussichtliche Dauer informieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

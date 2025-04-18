@@ -14,7 +14,7 @@ class LesenTeil1 extends TestEngine {
     constructor(options = {}) {
         // Set default options specific to Lesen Teil 1
         const defaultOptions = {
-            testDataDir: 'data_mocktest/lesen/teil_1',
+            testDataDir: '/data_mocktest/lesen/teil_1',  // Use absolute path from root
             testType: 'Lesen Teil 1',
             defaultTestData: {
                 "exercise_type": "TELC B2",
@@ -55,6 +55,124 @@ class LesenTeil1 extends TestEngine {
         this.peopleContainer = null;
         this.articlesContainer = null;
         this.answerGrid = null;
+    }
+    
+    /**
+     * Initialize the test engine
+     * @returns {Promise<void>}
+     */
+    async initialize() {
+        try {
+            // Get reference to key DOM elements
+            this.setupDOMReferences();
+            
+            // Show loading screen
+            Utils.showElement(this.elements.loading);
+            Utils.hideElement(this.elements.testContent);
+            
+            // Load all test data
+            await this.loadAllTestData();
+            
+            // Select a random test and display it
+            if (this.allTestData.length > 0) {
+                this.loadRandomTest();
+            } else {
+                console.warn('LesenTeil1: No tests could be loaded, using default test');
+                this.loadDefaultTest();
+            }
+            
+            // Set up event listeners
+            this.setupEventListeners();
+            
+            // Hide loading screen
+            Utils.hideElement(this.elements.loading);
+            Utils.showElement(this.elements.testContent);
+        } catch (error) {
+            console.error('LesenTeil1: Error initializing test engine:', error);
+            this.loadDefaultTest();
+        }
+    }
+    
+    /**
+     * Load all test data - override the base method to handle the manifest file location
+     * @returns {Promise<void>}
+     */
+    async loadAllTestData() {
+        try {
+            let testFileList = [];
+            
+            // Try to load from manifest file directly
+            try {
+                const manifestUrl = '/data_mocktest/lesen/teil_1_manifest.json';  // Use absolute path from root
+                
+                const response = await fetch(manifestUrl);
+                
+                if (response.ok) {
+                    const manifest = await response.json();
+                    testFileList = manifest.files || [];
+                } else {
+                    // Fall back to the parent implementation
+                    return super.loadAllTestData();
+                }
+            } catch (error) {
+                console.warn('LesenTeil1: Error loading teil_1 manifest directly:', error);
+                // Fall back to the parent implementation
+                return super.loadAllTestData();
+            }
+            
+            if (!testFileList || testFileList.length === 0) {
+                console.warn('LesenTeil1: No test files found in manifest, falling back to default method');
+                return super.loadAllTestData();
+            }
+            
+            // Fetch each test file and add to the allTestData array
+            const fetchPromises = testFileList.map(file => this.fetchTestData(file));
+            const testsData = await Promise.all(fetchPromises);
+            
+            // Filter out any null results (failed fetches)
+            this.allTestData = testsData.filter(test => test !== null);
+            
+            // If no tests were loaded successfully, use the default test
+            if (this.allTestData.length === 0) {
+                console.warn('LesenTeil1: No tests could be loaded from external files');
+            }
+        } catch (error) {
+            console.error('LesenTeil1: Error loading test data:', error);
+            // Fall back to the parent implementation
+            return super.loadAllTestData();
+        }
+    }
+    
+    /**
+     * Fetch a single test file
+     * @param {string} filename - Name of the file to fetch
+     * @returns {Promise<Object|null>} - Test data or null if fetch failed
+     */
+    async fetchTestData(filename) {
+        try {
+            // Use absolute path from root
+            const filePath = `/data_mocktest/lesen/teil_1/${filename}`;
+            
+            const response = await fetch(filePath);
+            
+            if (!response.ok) {
+                throw new Error(`Failed to fetch ${filename}: ${response.statusText}`);
+            }
+            const data = await response.json();
+            
+            // Validate the test data
+            if (!this.validateTestData(data)) {
+                throw new Error(`Invalid test data in ${filename}`);
+            }
+            
+            // Store the source filename in the test data for later reference
+            data._sourceFilename = filename;
+            
+            return data;
+        } catch (error) {
+            console.error(`LesenTeil1: Error loading ${filename}:`, error);
+            return null; // Return null for failed fetches
+        }
     }
     
     /**
@@ -190,7 +308,10 @@ class LesenTeil1 extends TestEngine {
         const articlesContainer = this.elements.articlesContainer;
         articlesContainer.innerHTML = '';
         
-        articles.forEach(article => {
+        // Sort articles by ID (a to h)
+        const sortedArticles = [...articles].sort((a, b) => a.id.localeCompare(b.id));
+        
+        sortedArticles.forEach(article => {
             const articleElement = Utils.createElement('div', {
                 className: 'article'
             }, `

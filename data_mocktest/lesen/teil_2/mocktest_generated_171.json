@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Unsere internen Kommunikationswege\n\nFür eine effiziente Zusammenarbeit nutzen wir verschiedene Kommunikationsmittel. Bitte machen Sie sich mit deren jeweiliger Funktion vertraut, um Informationen zielgerichtet auszutauschen und zu finden.\n\nDas **Intranet** dient als zentrale Plattform für offizielle Unternehmensnachrichten, Richtlinien, Formulare und Abteilungsseiten. Hier finden Sie verbindliche Informationen und Ankündigungen der Geschäftsleitung. Es wird erwartet, dass Sie sich regelmäßig im Intranet über Neuigkeiten informieren.\n\nFür die schnelle, direkte Kommunikation im Team oder für kurze Rückfragen nutzen wir ein internes **Chat-Tool**. Es eignet sich hervorragend für informelle Absprachen und dringende, aber kurze Anliegen, die keine umfangreiche Dokumentation erfordern. Vermeiden Sie es jedoch, das Chat-Tool für komplexe Themen oder offizielle Anfragen zu verwenden, die eine Nachverfolgung benötigen.\n\nDie **E-Mail** bleibt das Standardmittel für formellere Kommunikation, externe Korrespondenz und Anfragen, die eine ausführlichere Antwort oder Dokumentation bedürfen. Achten Sie bitte auf aussagekräftige Betreffzeilen und nutzen Sie die vorgegebenen E-Mail-Signaturen. Bei E-Mails an große Verteilerlisten (z.B. „Alle Mitarbeiter“) ist besondere Sorgfalt geboten: Prüfen Sie genau, ob die Information wirklich für alle Empfänger relevant ist, um eine Informationsflut zu vermeiden.\n\nVideokonferenzen werden über unser System „ConnectMe“ organisiert. Informationen zur Buchung von virtuellen Meetingräumen und zur technischen Unterstützung finden Sie ebenfalls im Intranet unter der Rubrik „IT-Services“.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für schnelle Absprachen im Team ist das Chat-Tool besser geeignet als eine E-Mail.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "E-Mails an große Verteilerlisten...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollten nur für relevante Informationen genutzt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "sind für dringende Anfragen vorgesehen."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen immer von der Teamleitung genehmigt werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

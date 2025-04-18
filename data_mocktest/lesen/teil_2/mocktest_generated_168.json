@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenparkplätze\n\nWir freuen uns, Ihnen Parkmöglichkeiten auf unserem Firmengelände anbieten zu können. Grundsätzlich steht der Mitarbeiterparkplatz allen festangestellten Mitarbeiterinnen und Mitarbeitern zur Verfügung. Um eine Parkberechtigung zu erhalten, füllen Sie bitte das entsprechende Formular im Intranet unter „Services > Fuhrpark“ aus. Nach Prüfung erhalten Sie eine digitale Parkvignette, die Sie nicht ausdrucken müssen, da Ihr Kennzeichen im System hinterlegt wird. Für diesen Service wird keine Gebühr erhoben.\n\nBitte beachten Sie, dass es auf dem Gelände verschiedene Parkzonen gibt. Die Bereiche P1 bis P3 sind ausschließlich für Mitarbeiter vorgesehen. Die Zone P4 ist für Besucher reserviert und darf nur mit einem von der Rezeption ausgestellten, temporären Parkausweis genutzt werden. Fahrzeuge, die unberechtigt in der Besucherzone oder auf nicht markierten Flächen (z.B. vor Notausgängen) abgestellt werden, können kostenpflichtig abgeschleppt werden. Eine Übersicht der Zonen finden Sie auf dem Lageplan im Anhang.\n\nAuf dem gesamten Parkgelände gilt eine Höchstgeschwindigkeit von 10 km/h. Wir bitten Sie außerdem, aus Sicherheitsgründen stets rückwärts einzuparken. Das Abstellen von Fahrrädern ist nur in den dafür vorgesehenen Fahrradständern beim Haupteingang gestattet. Für Motorräder gibt es einen speziell ausgewiesenen Bereich neben der Zone P1.\n\nWir weisen darauf hin, dass das Abstellen von Fahrzeugen auf dem Firmengelände auf eigene Gefahr erfolgt. Das Unternehmen übernimmt keine Haftung für eventuelle Schäden durch Dritte, Diebstahl oder wetterbedingte Einwirkungen. Sorgen Sie bitte selbst für ausreichenden Versicherungsschutz Ihres Fahrzeugs.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Um auf dem Firmengelände parken zu dürfen, brauchen Mitarbeiter eine Erlaubnis und müssen die ausgewiesenen Zonen beachten.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Für Schäden an Fahrzeugen auf dem Firmenparkplatz",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "übernimmt das Unternehmen normalerweise keine Haftung."
+                },
+                {
+                    "key": "b",
+                    "text": "ist das Unternehmen in jedem Fall verantwortlich."
+                },
+                {
+                    "key": "c",
+                    "text": "haftet die Firma nur in bestimmten Parkzonen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Vorgehen bei Arbeitsunfähigkeit (Krankmeldung)\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es von entscheidender Bedeutung, das Unternehmen unverzüglich darüber in Kenntnis zu setzen. Ihre erste Ansprechperson ist immer Ihr direkter Vorgesetzter oder Ihre direkte Vorgesetzte. Die Information muss unbedingt vor dem regulären Arbeitsbeginn am ersten Tag der Abwesenheit erfolgen, idealerweise so früh wie möglich.\n\nDie Benachrichtigung sollte bevorzugt telefonisch geschehen. Nur falls Sie Ihre Führungskraft telefonisch nicht erreichen, senden Sie bitte zusätzlich eine E-Mail. Teilen Sie dabei bitte Ihren Namen, die voraussichtliche Dauer Ihrer Abwesenheit (falls abschätzbar) und eine Kontaktmöglichkeit für dringende Rückfragen mit. Die Angabe des Krankheitsgrundes ist freiwillig.\n\nGemäß den gesetzlichen Vorgaben und unseren internen Regelungen sind Sie verpflichtet, spätestens am dritten Kalendertag Ihrer Arbeitsunfähigkeit eine ärztliche Bescheinigung (Arbeitsunfähigkeitsbescheinigung, kurz AU) vorzulegen. Diese kann über unser Mitarbeiterportal digital hochgeladen werden. Bitte beachten Sie, dass das Original dennoch aufbewahrt und auf Nachfrage vorgelegt werden muss.\n\nEine verspätete Meldung der Arbeitsunfähigkeit oder die nicht fristgerechte Einreichung der AU können arbeitsrechtliche Konsequenzen nach sich ziehen, einschließlich möglicher Auswirkungen auf die Lohnfortzahlung. Bei länger andauernder Krankheit oder besonderen Umständen (z.B. Krankenhausaufenthalt, Arbeitsunfall) gelten möglicherweise abweichende Regelungen, über die Sie sich bitte gesondert bei der Personalabteilung informieren.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende müssen bei Krankheit sowohl ihren Vorgesetzten sofort informieren als auch fristgerecht ein ärztliches Attest einreichen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die erste Benachrichtigung über eine Arbeitsunfähigkeit muss...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "unverzüglich am ersten Tag der Krankheit erfolgen."
+                },
+                {
+                    "key": "b",
+                    "text": "innerhalb der ersten drei Krankheitstage erfolgen."
+                },
+                {
+                    "key": "c",
+                    "text": "erst nach Erhalt des ärztlichen Attests erfolgen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

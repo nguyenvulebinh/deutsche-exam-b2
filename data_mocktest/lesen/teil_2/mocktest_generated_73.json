@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Dienstfahrzeuge\n\nFür bestimmte dienstliche Fahrten stellt unser Unternehmen Poolfahrzeuge zur Verfügung. Berechtigt zur Nutzung sind primär unsere Außendienstmitarbeiterinnen und -mitarbeiter sowie Projektleitende für notwendige Geschäftsreisen. Voraussetzung ist eine gültige Fahrerlaubnis, von der bei erster Nutzung eine Kopie im Fuhrparkmanagement hinterlegt werden muss, sowie eine Mindestbetriebszugehörigkeit von einem vollen Jahr.\n\nDie Reservierung eines Fahrzeugs erfolgt ausschließlich über unser Intranet-Tool. Bitte beachten Sie, dass Buchungen mindestens 48 Stunden im Voraus getätigt werden müssen, um die Verfügbarkeit sicherzustellen. Kurzfristigere Anfragen können nur in begründeten Ausnahmefällen und nach direkter Absprache mit dem Fuhrparkmanagement berücksichtigt werden.\n\nEine private Nutzung der Poolfahrzeuge ist grundsätzlich nicht gestattet. Diese Fahrzeuge sind ausschließlich für dienstliche Zwecke vorgesehen. Ausnahmen von dieser Regelung gelten nur für die Fahrzeuge der Geschäftsleitung nach gesonderter Vereinbarung. Die Nutzung der Ihnen zur Verfügung gestellten Firmentankkarte ist ebenfalls nur für dienstlich veranlasste Betankungen erlaubt.\n\nBei Rückgabe muss das Fahrzeug innen und außen sauber und vollgetankt sein. Bitte verwenden Sie hierfür die im Fahrzeug befindliche Tankkarte. Jeder festgestellte Schaden, egal wie geringfügig, ist unverzüglich dem Fuhrparkmanagement (Herr Weber, Durchwahl -55) über das im Handschuhfach bereitliegende Schadensformular zu melden. Zudem ist für jede einzelne Fahrt das elektronische Fahrtenbuch im Bordsystem vollständig und korrekt auszufüllen (Datum, Start-/Zielort, Kilometerstand Beginn/Ende, Zweck der Fahrt).\n\nIm Fahrzeug gilt ein striktes Rauchverbot. Die Mitnahme von betriebsfremden Personen ist nur nach vorheriger Genehmigung durch Ihre Teamleitung zulässig. Vor Antritt längerer Fahrten erwarten wir, dass Sie die Betriebsflüssigkeiten (Öl, Wasser) kontrollieren.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für die Nutzung eines Poolfahrzeugs muss man keinerlei Vorlaufzeit bei der Reservierung beachten.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei der Rückgabe eines Dienstwagens müssen Sie...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "das Fahrzeug sauber und vollgetankt übergeben."
+                },
+                {
+                    "key": "b",
+                    "text": "das Fahrtenbuch bei Herrn Weber abgeben."
+                },
+                {
+                    "key": "c",
+                    "text": "die Tankquittung zur Kostenerstattung einreichen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

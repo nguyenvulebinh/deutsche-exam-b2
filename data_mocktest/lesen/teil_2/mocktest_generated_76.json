@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Dienstreisen: Planung, Buchung und Abrechnung\n\nHerzlich willkommen in unserem Team! Dienstreisen sind ein wichtiger Bestandteil unserer Arbeit. Damit alles reibungslos verläuft, bitten wir Sie, die folgenden Regelungen zu beachten. Grundsätzlich muss jede Dienstreise vor Antritt von Ihrer bzw. Ihrem direkten Vorgesetzten schriftlich genehmigt werden. Bitte reichen Sie den Dienstreiseantrag spätestens eine Woche vor dem geplanten Reisebeginn ein, um eine rechtzeitige Bearbeitung sicherzustellen.\n\nFür die Buchung von Flügen und Bahntickets nutzen Sie bitte primär unser Online-Buchungsportal „TravelPro“, zu dem Sie separate Zugangsdaten erhalten. Dort sind unsere Firmenkonditionen hinterlegt. Sollte eine Buchung über das Portal nicht möglich sein oder Sie eine günstigere Alternative finden, können Sie nach Rücksprache mit Ihrem Vorgesetzten auch selbst buchen. Die Kosten werden dann gegen Vorlage der Originalbelege erstattet, sofern sie angemessen sind. Bei Bahnfahrten wird die Nutzung einer vorhandenen BahnCard erwartet. Die Nutzung des privaten PKW ist möglich und wird mit der aktuell gültigen Kilometerpauschale vergütet; dies muss jedoch im Antrag vermerkt und genehmigt sein.\n\nFür Hotelübernachtungen gilt eine Obergrenze von 120 € pro Nacht inklusive Frühstück in deutschen Großstädten, in anderen Gebieten entsprechend weniger (siehe Anhang C). Auch hier ist die Buchung über „TravelPro“ der Regelfall. Abweichungen müssen begründet und vorab genehmigt werden.\n\nNach Beendigung der Dienstreise sind Sie verpflichtet, innerhalb von 14 Tagen Ihre Reisekostenabrechnung über unser digitales System „ExpenseFast“ einzureichen. Fügen Sie bitte alle Originalbelege (Fahrkarten, Hotelrechnungen, Bewirtungsbelege etc.) als Scan bei und bewahren Sie die Originale für eventuelle Nachfragen sechs Monate auf. Ein Vorschuss auf die zu erwartenden Reisekosten kann bei Bedarf im Dienstreiseantrag mitbegründet angefordert werden.\n\nBei Fragen zur Reiserichtlinie oder zum Abrechnungsprozess steht Ihnen Frau Klinger aus der Personalabteilung (Durchwahl -456) gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende dürfen Hotels oder Flüge niemals selbst über Online-Plattformen buchen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Nach Abschluss einer Dienstreise müssen Mitarbeitende...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "innerhalb von zwei Wochen ihre Reisekosten digital einreichen."
+                },
+                {
+                    "key": "b",
+                    "text": "zuerst ihren Vorgesetzten mündlich berichten."
+                },
+                {
+                    "key": "c",
+                    "text": "nur die wichtigsten Belege für die Abrechnung aufbewahren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regeln zur Nutzung der IT-Infrastruktur\n\nSehr geehrte neue Mitarbeiterin, sehr geehrter neuer Mitarbeiter,\n\ndie IT-Infrastruktur unseres Unternehmens, einschließlich PCs, Laptops, Netzwerkzugang, E-Mail-System und Internetzugang, wird Ihnen primär für dienstliche Zwecke zur Verfügung gestellt. Bitte beachten Sie, dass die auf den Firmengeräten installierte Software lizenziert ist und nur im Rahmen Ihrer Tätigkeit für das Unternehmen genutzt werden darf.\n\nEine begrenzte private Nutzung des Internets und des E-Mail-Kontos ist während der offiziellen Pausenzeiten gestattet, sofern sie die Arbeitsleistung nicht beeinträchtigt und im Einklang mit unseren Richtlinien steht. Dies ist ein freiwilliges Angebot unsererseits und kann jederzeit widerrufen werden. Strengstens untersagt sind illegale Aktivitäten, das Herunterladen urheberrechtlich geschützten Materials, exzessive Downloads oder Streaming sowie der Besuch von Websites mit unangemessenen oder anstößigen Inhalten.\n\nSie tragen die Verantwortung für die Sicherheit Ihrer persönlichen Zugangsdaten (Passwörter). Geben Sie diese unter keinen Umständen an Dritte weiter. Es ist zwingend erforderlich, dass Sie sich von Ihrem Computer abmelden, wenn Sie Ihren Arbeitsplatz verlassen, auch für kurze Zeit. Sollten Sie verdächtige E-Mails erhalten oder ungewöhnliche Aktivitäten auf Ihrem System bemerken, informieren Sie bitte unverzüglich die IT-Abteilung. Die Nutzung externer Speichermedien (z.B. USB-Sticks) an Firmenrechnern erfordert grundsätzlich eine vorherige Genehmigung durch die IT-Abteilung.\n\nBei technischen Problemen mit der bereitgestellten Hard- oder Software sowie bei Anfragen bezüglich Zugriffsberechtigungen ist unsere IT-Support-Abteilung zuständig. Sie erreichen den Support per E-Mail unter it-support@firma.de oder telefonisch unter der internen Durchwahl -555. Bitte beachten Sie, dass wir keinen Support für private Endgeräte leisten können.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter dürfen das Internet privat nutzen, müssen aber bei Sicherheitsbedenken sofort die IT informieren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie einen USB-Stick an Ihrem Arbeitsplatz nutzen möchten,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen Sie vorher eine Erlaubnis von der IT-Abteilung bekommen."
+                },
+                {
+                    "key": "b",
+                    "text": "müssen Sie dies der IT-Abteilung nur bei Problemen melden."
+                },
+                {
+                    "key": "c",
+                    "text": "dürfen Sie das nur während Ihrer Pausenzeiten tun."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Richtlinien für Mitarbeiterinnen und Mitarbeiter\n\nWillkommen in unserem Unternehmen! Um die Sicherheit unserer IT-Infrastruktur und sensibler Daten zu gewährleisten, ist die Einhaltung folgender Richtlinien für alle Mitarbeiterinnen und Mitarbeiter verpflichtend. Sie erhalten die notwendige Hard- und Software für Ihre Tätigkeiten von der IT-Abteilung.\n\nDie Sicherheit beginnt bei Ihrem Passwort. Wählen Sie ein komplexes Passwort mit mindestens 12 Zeichen, das Groß- und Kleinbuchstaben, Zahlen sowie Sonderzeichen enthält. Ändern Sie Ihr Passwort alle 90 Tage. Es ist strengstens untersagt, Ihr Passwort an Dritte weiterzugeben oder aufzuschreiben.\n\nAuf Firmenrechnern darf ausschließlich Software installiert werden, die von der IT-Abteilung freigegeben und bereitgestellt wurde. Die Installation jeglicher nicht genehmigter Programme, auch Freeware oder private Lizenzen, ist verboten. Benötigen Sie zusätzliche Software für Ihre Arbeit, stellen Sie bitte einen Antrag über das IT-Helpdesk-Portal.\n\nDie Nutzung des Internets und der Firmen-E-Mail-Adresse ist primär für dienstliche Zwecke vorgesehen. Eine geringfügige private Nutzung des Internets während der offiziellen Pausenzeiten ist geduldet, sofern sie die Netzwerkleistung nicht beeinträchtigt und keine rechtswidrigen oder unangemessenen Inhalte aufgerufen werden. Das Herunterladen von urheberrechtlich geschütztem Material ist untersagt.\n\nVerlassen Sie Ihren Arbeitsplatz, auch nur für kurze Zeit, sind Sie verpflichtet, Ihren Bildschirm zu sperren (Tastenkombination: Windows-Taste + L). Die Verwendung privater USB-Sticks oder anderer externer Speichermedien ist ohne ausdrückliche Genehmigung der IT-Abteilung nicht gestattet. Bei technischen Problemen oder vermuteten Sicherheitsvorfällen informieren Sie bitte unverzüglich den IT-Helpdesk.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen sicherstellen, dass nur genehmigte Programme auf ihren Firmenrechnern laufen und ihre Zugangsdaten geheim halten.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Mitarbeiter tun, wenn sie ihren Arbeitsplatz kurz verlassen?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihren Computerbildschirm sperren."
+                },
+                {
+                    "key": "b",
+                    "text": "Alle Programme und Fenster schließen."
+                },
+                {
+                    "key": "c",
+                    "text": "Den IT-Helpdesk darüber informieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

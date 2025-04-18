@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege bei TechSolutions GmbH\n\nSehr geehrte neue Mitarbeiterin, sehr geehrter neuer Mitarbeiter,\n\neine klare und effiziente interne Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um sicherzustellen, dass Informationen korrekt und zeitnah die richtigen Adressaten erreichen, nutzen wir bei TechSolutions verschiedene Kanäle. Bitte machen Sie sich mit deren spezifischer Verwendung vertraut.\n\nDie **E-Mail** bleibt das primäre Mittel für formelle Kommunikation, individuelle Anfragen und die Übermittlung wichtiger Dokumente oder detaillierter Projektinformationen. Achten Sie bitte stets auf eine aussagekräftige Betreffzeile und einen professionellen Tonfall. Vertrauliche Informationen sollten nur verschlüsselt versendet werden.\n\nUnser **Intranet** dient als zentrale Informationsplattform. Hier finden Sie aktuelle Unternehmensnachrichten, verbindliche Richtlinien, Formulare (z.B. für Urlaubsanträge) sowie den Veranstaltungskalender. Es wird erwartet, dass Sie das Intranet regelmäßig, mindestens jedoch zweimal wöchentlich, konsultieren, um auf dem Laufenden zu bleiben. Die Pflege der Inhalte obliegt hauptsächlich der HR- und Marketingabteilung.\n\nRegelmäßige **Team-Besprechungen**, meist wöchentlich, sind für den direkten Austausch innerhalb Ihrer Abteilung oder Ihres Projektteams vorgesehen. Hier werden der aktuelle Projektstatus besprochen, Aufgaben verteilt und Herausforderungen gemeinsam gelöst. Pünktlichkeit und eine gute Vorbereitung werden vorausgesetzt. Für wichtige Entscheidungen ist eine Protokollführung üblich.\n\nFür schnelle, informelle Fragen und kurze Abstimmungen im Team oder auch abteilungsübergreifend nutzen wir einen **Instant Messenger** (z.B. Slack). Dieser Kanal ist jedoch ausdrücklich nicht für offizielle Ankündigungen, komplexe Problemdiskussionen oder die Weitergabe sensibler Daten gedacht. Eine übermäßige Nutzung, die von der eigentlichen Arbeit ablenkt, sollte vermieden werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle dringenden Angelegenheiten sollen sofort über den Instant Messenger geklärt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Intranet des Unternehmens...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird hauptsächlich für die schnelle Kommunikation zwischen einzelnen Kollegen genutzt."
+                },
+                {
+                    "key": "b",
+                    "text": "enthält zentrale Informationen und sollte regelmäßig von den Mitarbeitern eingesehen werden."
+                },
+                {
+                    "key": "c",
+                    "text": "dient vorrangig dem Austausch über aktuelle Projektstände in den Teams."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

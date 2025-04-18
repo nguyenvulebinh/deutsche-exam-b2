@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Gemeinschaftsveranstaltungen\n\nNeben zahlreichen Sozialleistungen bietet unser Unternehmen alljährlich zwei Gemeinschaftsveranstaltungen an. Immer am dritten Mittwoch im Mai findet unser eintägiger Betriebsausflug statt, der sowohl einen kulturellen als auch einen sportlichen Teil enthält und mit einem Essen abschließt. Den Organisationsausschuss bilden stets zwei langjährige und zwei neue Mitarbeiterinnen oder Mitarbeiter. Die Geschäftsleitung stellt ein festgelegtes Budget zur Verfügung, die Kosten für alkoholische Getränke trägt jeder Mitarbeiter selbst.\n\nNach einer Umfrage unter unseren Mitarbeiterinnen und Mitarbeitern entschieden wir uns aufgrund der Arbeitsdichte zum Jahresabschluss, der religiösen Vielfalt in unseren Teams und der hohen Termindichte in der Vorweihnachtszeit dazu, ein Sommerfest statt einer Weihnachtsfeier zu veranstalten. Dieses findet immer eine Woche vor den Betriebsferien statt. Feste Programmpunkte sind dabei ein gutes Essen, das Überreichen eines Preises an den Mitarbeiter mit der „Idee des Jahres“ und Tanz zu Live-Musik. Anders als beim Betriebsausflug können wichtige Geschäftspartner als geladene Gäste daran teilnehmen.\n\n## Betriebssport\n\nSportliche Aktivitäten werden bei uns großgeschrieben. Die Laufgruppe hat sogar schon an einem",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Zu allen Gemeinschaftsveranstaltungen dürfen Gäste mitgebracht werden.",
+        "loesung": "falsch"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Der Arbeitgeber veranstaltet ein Sommerfest,",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "da man in den Betriebsferien gut feiern kann."
+          },
+          {
+            "key": "b",
+            "text": "das von ausgewählten Mitarbeitern organisiert wird."
+          },
+          {
+            "key": "c",
+            "text": "weil die meisten Mitarbeiter im Dezember viele Termine haben."
+          }
+        ],
+        "loesung": "c"
+      }
+    ]
+}
+  

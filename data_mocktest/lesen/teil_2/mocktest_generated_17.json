@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenfahrzeuge\n\nUnser Unternehmen stellt für dienstliche Fahrten einen Pool an Firmenfahrzeugen zur Verfügung. Anspruch auf Nutzung haben grundsätzlich alle Mitarbeiterinnen und Mitarbeiter, die regelmäßig externe Termine wahrnehmen müssen. Die Fahrzeuge sind primär für Geschäftsreisen vorgesehen und dienen dazu, Ihre Mobilität im Dienste der Firma sicherzustellen.\n\nDie Reservierung eines Fahrzeugs erfolgt ausschließlich über unser Online-Buchungssystem im Intranet. Dort können Sie die Verfügbarkeit prüfen und das gewünschte Fahrzeug für den benötigten Zeitraum buchen. Bitte denken Sie daran, die Buchung rechtzeitig vorzunehmen, insbesondere bei beliebten Modellen oder zu Stoßzeiten.\n\nFür jedes Fahrzeug existiert eine Tankkarte, die im Handschuhfach aufbewahrt wird. Diese Karte darf ausschließlich für die Betankung im Rahmen dienstlicher Fahrten verwendet werden. Bitte tanken Sie das Fahrzeug voll, bevor der Tankfüllstand unter ein Viertel sinkt. Die Kosten für die dienstliche Betankung werden direkt über die Karte abgerechnet.\n\nPrivate Fahrten mit Firmenfahrzeugen sind generell nicht gestattet. Ausnahmen können nur in dringenden Fällen und nach ausdrücklicher schriftlicher Genehmigung durch Ihre Abteilungsleitung erfolgen. In solchen genehmigten Fällen sind die Kosten für Treibstoff und eine Kilometerpauschale selbst zu tragen. Ein Fahrtenbuch ist für jede Fahrt – dienstlich oder genehmigte Ausnahme – lückenlos zu führen.\n\nWir bitten Sie, die Fahrzeuge pfleglich zu behandeln und nach jeder Nutzung sauber (innen und außen) zurückzugeben. Eventuelle Schäden, auch kleinere, sind unverzüglich dem Fuhrparkmanagement (Herr Becker, Durchwahl -55) zu melden. Nur so können wir die Sicherheit und Einsatzbereitschaft der Flotte gewährleisten.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende dürfen die Firmenwagen privat nutzen, wenn sie die Kosten dafür übernehmen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Mitarbeitende bezüglich der Firmenfahrzeuge beachten?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Dass sie Schäden unverzüglich melden müssen."
+                },
+                {
+                    "key": "b",
+                    "text": "Dass die Tankkarte auch für private Fahrten genehmigt ist."
+                },
+                {
+                    "key": "c",
+                    "text": "Dass eine Reinigung nur nach längeren Dienstreisen nötig ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

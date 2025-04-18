@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege – Effizient informiert bleiben\n\nEin reibungsloser Informationsfluss ist entscheidend für unsere Zusammenarbeit. Um dies zu gewährleisten, nutzen wir verschiedene interne Kommunikationskanäle, deren korrekte Anwendung wir Ihnen hier vorstellen möchten. Die Wahl des richtigen Kanals hilft, Informationsüberflutung zu vermeiden und effizient zu arbeiten.\n\nFür die formelle und direkte Kommunikation, insbesondere mit externen Partnern, aber auch für spezifische Anfragen intern, ist die E-Mail das Standardmittel. Achten Sie bitte stets auf einen professionellen Ton, eine klare Betreffzeile und die Verwendung der offiziellen Firmensignatur. Kurze Abstimmungen im Team sollten jedoch bevorzugt über andere Wege erfolgen. Die private Nutzung des Firmen-E-Mail-Accounts ist nur in dringenden Ausnahmefällen und in sehr begrenztem Umfang gestattet.\n\nUnser Intranet ist die zentrale Anlaufstelle für allgemeine Unternehmensinformationen, Richtlinien, Formulare und aktuelle Neuigkeiten. Es dient als umfassende Wissensdatenbank, in der Sie wichtige Dokumente und Anleitungen finden können. Zusätzlich gibt es Bereiche für Team-Updates und Projekt-Dokumentationen. Es wird erwartet, dass Sie sich regelmäßig im Intranet über Neuerungen informieren.\n\nZweimal monatlich erhalten Sie zudem unseren internen Newsletter per E-Mail. Dieser fasst die wichtigsten Ankündigungen der Geschäftsleitung, Personalien und strategische Entwicklungen zusammen. Für detaillierte Projektarbeit, Diskussionen und schnelle Absprachen sind regelmäßige Team-Besprechungen vorgesehen, die je nach Bedarf persönlich oder virtuell stattfinden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Private E-Mails dürfen über den Firmenaccount jederzeit ohne Einschränkungen versendet werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Intranet dient hauptsächlich dazu,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zentrale Dokumente und Unternehmensneuigkeiten bereitzustellen."
+                },
+                {
+                    "key": "b",
+                    "text": "private Gespräche zwischen Kollegen zu ermöglichen."
+                },
+                {
+                    "key": "c",
+                    "text": "externe Kunden über Produktänderungen zu informieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

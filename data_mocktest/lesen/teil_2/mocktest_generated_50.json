@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es wichtig, dass Sie das Unternehmen unverzüglich darüber informieren. Bitte benachrichtigen Sie Ihre direkte Teamleitung oder Ihre/n Vorgesetzte/n noch **vor** dem offiziellen Arbeitsbeginn. Diese erste Meldung muss grundsätzlich telefonisch erfolgen, damit schnell auf Ihren Ausfall reagiert werden kann. Teilen Sie dabei bitte auch die voraussichtliche Dauer Ihrer Abwesenheit mit, sofern diese bereits absehbar ist.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), oft auch „Krankschreibung“ genannt, ist zwingend erforderlich, wenn Ihre Erkrankung länger als drei Kalendertage andauert. Diese muss der Personalabteilung spätestens am vierten Tag Ihrer Abwesenheit vorliegen. Viele Arztpraxen übermitteln die AU inzwischen elektronisch (eAU) direkt an die Krankenkassen, von wo wir sie abrufen können. Dennoch sind Sie verpflichtet, die Personalabteilung aktiv darüber zu informieren, dass eine AU ausgestellt wurde und bis wann diese gültig ist, um sicherzustellen, dass die Information rechtzeitig bei uns eingeht.\n\nSollte sich Ihre Erkrankung über den auf der ursprünglichen AU genannten Zeitraum hinaus erstrecken, benötigen Sie eine Folgebescheinigung. Auch diese muss der Personalabteilung fristgerecht vorgelegt werden. Informieren Sie bitte zusätzlich erneut Ihre/n Vorgesetzte/n über die Verlängerung Ihrer Abwesenheit.\n\nBeachten Sie bitte, dass Ihre Gesundheitsdaten dem Datenschutz unterliegen. Ihre/n Vorgesetzte/n informieren Sie lediglich über die Tatsache Ihrer Arbeitsunfähigkeit und deren voraussichtliche Dauer. Die medizinische Diagnose geht nur die Personalabteilung im Rahmen der offiziellen AU etwas an und wird dort vertraulich behandelt.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Auch wenn eine elektronische Krankmeldung möglich ist, muss die Personalabteilung zusätzlich informiert werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was ist am ersten Tag einer Erkrankung unbedingt erforderlich?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Eine telefonische Benachrichtigung des Vorgesetzten vor Arbeitsbeginn."
+                },
+                {
+                    "key": "b",
+                    "text": "Die Vorlage einer Arbeitsunfähigkeitsbescheinigung bei der Personalabteilung."
+                },
+                {
+                    "key": "c",
+                    "text": "Die Angabe der genauen Diagnose gegenüber der Teamleitung."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

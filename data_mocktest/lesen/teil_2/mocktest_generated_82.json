@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung von IT-Systemen und Support\n\nWillkommen im Team! Für Ihre Arbeit erhalten Sie Zugang zu unseren IT-Systemen über ein persönliches Benutzerkonto. Ihre Zugangsdaten sind streng vertraulich zu behandeln. Bitte beachten Sie unsere Passwortrichtlinie: Ihr Passwort muss regelmäßig, mindestens alle 90 Tage, geändert werden, eine gewisse Komplexität aufweisen (Groß-/Kleinbuchstaben, Zahlen, Sonderzeichen) und darf unter keinen Umständen an Dritte weitergegeben werden.\n\nAuf Ihrem Arbeitsplatzrechner ist die Standardsoftware unseres Unternehmens vorinstalliert. Die Installation zusätzlicher Programme ist grundsätzlich nicht gestattet und bedarf einer ausdrücklichen Genehmigung durch die IT-Abteilung, auch um Lizenzbestimmungen einzuhalten. Die private Nutzung des Internets ist während der Pausenzeiten in angemessenem Umfang erlaubt, jedoch sind der Zugriff auf illegale oder sicherheitsgefährdende Inhalte sowie übermäßiges Streaming oder Herunterladen großer Dateien untersagt.\n\nIhre arbeitsbezogenen Daten speichern Sie bitte primär auf den Ihnen zugewiesenen Netzwerkfreigaben. Dies gewährleistet eine zentrale und regelmäßige Datensicherung (Backup). Die lokale Festplatte Ihres Rechners sollte nur für temporäre Dateien genutzt werden. Externe Speichermedien, wie USB-Sticks, dürfen nur nach einem automatischen Virenscan durch unsere Sicherheitssoftware verwendet werden; bei sensiblen Daten kann eine zusätzliche Freigabe erforderlich sein.\n\nBei technischen Problemen oder Serviceanfragen steht Ihnen unser IT-Support zur Verfügung. Der bevorzugte und schnellste Weg zur Meldung einer Störung ist die Erstellung eines Tickets über unser internes Helpdesk-Portal. Bitte beschreiben Sie das Problem möglichst genau und geben Sie die Dringlichkeit an. Für sehr dringende Fälle, die Ihre Arbeitsfähigkeit unmittelbar stark beeinträchtigen, erreichen Sie den Support auch telefonisch. Abhängig von der Priorität Ihres Anliegens garantieren wir festgelegte Reaktionszeiten.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für die Meldung von IT-Problemen ist primär das Online-Portal vorgesehen, und externe Datenträger müssen vor Gebrauch geprüft werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bezüglich Ihres Passworts gilt:",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie müssen es regelmäßig ändern und dürfen es niemandem mitteilen."
+                },
+                {
+                    "key": "b",
+                    "text": "Es wird Ihnen vom IT-Support zugewiesen und darf nicht geändert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie sollten ein leicht zu merkendes Passwort wie Ihren Namen wählen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

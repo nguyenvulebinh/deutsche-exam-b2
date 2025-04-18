@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinie\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter,\n\ndie Ihnen zur Verfügung gestellte IT-Infrastruktur, einschließlich PCs, Laptops, Software und Netzwerkzugang, ist Eigentum des Unternehmens. Diese Ressourcen sind grundsätzlich für dienstliche Zwecke vorgesehen, und wir erwarten von Ihnen einen verantwortungsvollen Umgang damit.\n\nZur Gewährleistung der Systemsicherheit gelten strenge Passwortrichtlinien. Ihre Passwörter müssen komplex sein (mindestens 10 Zeichen, Kombination aus Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen) und sind alle 90 Tage zwingend zu ändern. Behandeln Sie Ihre Zugangsdaten streng vertraulich und geben Sie sie unter keinen Umständen an Dritte weiter.\n\nDie Installation von Software auf dienstlichen Geräten ist ausschließlich der IT-Abteilung vorbehalten oder bedarf deren ausdrücklicher schriftlicher Genehmigung. Die Nutzung von nicht lizenzierter, privater oder nicht freigegebener Software ist strikt untersagt. Eine Liste der genehmigten Standardsoftware finden Sie im Intranet.\n\nDie Nutzung des Internets und der Firmen-E-Mail-Adresse soll primär zur Erfüllung Ihrer beruflichen Aufgaben erfolgen. Eine kurze, gelegentliche private Nutzung des Internets (z.B. für Nachrichtenportale oder Online-Banking) ist während der offiziellen Pausenzeiten gestattet, unter der Bedingung, dass hierdurch die Arbeitsleistung nicht beeinträchtigt wird und keine übermäßige Bandbreite beansprucht wird. Das Herunterladen, Speichern oder Verbreiten von illegalen, pornografischen, rassistischen oder anderweitig anstößigen Inhalten ist selbstverständlich verboten. Die Firmen-E-Mail ist kein Kanal für umfangreiche private Korrespondenz.\n\nWichtige Arbeitsdateien sind grundsätzlich auf den dafür vorgesehenen zentralen Netzwerkordnern zu speichern. Eine lokale Speicherung auf dem Desktop oder der C:-Festplatte sollte vermieden werden, da diese nicht zentral gesichert werden. Beim Verlassen Ihres Arbeitsplatzes – auch nur für kurze Zeit – ist der Computer durch Drücken der Tastenkombination Strg+Alt+Entf und Auswahl von „Sperren“ zu sichern. Bei technischen Problemen oder Fragen wenden Sie sich bitte an den IT-Support (Durchwahl -456).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Private Software darf auf dem Dienstrechner installiert werden, wenn sie für die Arbeit nützlich ist.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die private Nutzung des Internets am Arbeitsplatz...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist generell nicht gestattet."
+                },
+                {
+                    "key": "b",
+                    "text": "ist in den Pausen in geringem Umfang erlaubt."
+                },
+                {
+                    "key": "c",
+                    "text": "darf jederzeit erfolgen, solange die Arbeit nicht leidet."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

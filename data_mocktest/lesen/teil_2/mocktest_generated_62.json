@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie, dies unverzüglich am ersten Tag Ihrer Abwesenheit noch vor dem regulären Arbeitsbeginn Ihrer direkten Teamleitung mitzuteilen. Diese Erstmeldung kann telefonisch oder per E-Mail erfolgen und sollte die voraussichtliche Dauer Ihrer Abwesenheit beinhalten, sofern diese abschätzbar ist. Eine frühzeitige Information ist entscheidend, damit Ihre Vertretung organisiert und anfallende Aufgaben umverteilt werden können.\n\nUnabhängig von der Dauer der Erkrankung ist dem Unternehmen eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), umgangssprachlich auch als „Krankschreibung“ bekannt, vorzulegen. Diese Bescheinigung muss dem Unternehmen spätestens am dritten Kalendertag Ihrer krankheitsbedingten Abwesenheit zugegangen sein. Fällt der dritte Tag auf ein Wochenende oder einen Feiertag, gilt der nächste Werktag als Fristende.\n\nFür die Einreichung der Arbeitsunfähigkeitsbescheinigung gibt es zwei Möglichkeiten: Sie können diese bequem digital über unser Mitarbeiterportal im Bereich „Meine Abwesenheiten“ hochladen oder alternativ postalisch direkt an die Personalabteilung (Adresse siehe Intranet) senden. Bitte sehen Sie davon ab, die AU Ihrer Teamleitung direkt zu übergeben oder per E-Mail zu schicken, da die zentrale Erfassung durch die Personalabteilung erfolgen muss.\n\nBei längeren Erkrankungen wird die Personalabteilung gegebenenfalls Kontakt mit Ihnen aufnehmen, um Möglichkeiten der Unterstützung oder ein späteres Gespräch zur betrieblichen Wiedereingliederung zu besprechen. Die Nichteinhaltung der Melde- und Nachweispflichten kann arbeitsrechtliche Konsequenzen nach sich ziehen. Bei Fragen zum korrekten Vorgehen steht Ihnen die Personalabteilung gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Krankschreibung vom Arzt muss man immer persönlich bei der Teamleitung abgeben.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was ist bezüglich der Arbeitsunfähigkeitsbescheinigung (AU) korrekt?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie wird erst ab dem vierten Tag der Abwesenheit benötigt."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie kann entweder digital eingereicht oder per Post geschickt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie muss direkt dem Vorgesetzten per E-Mail zugesandt werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

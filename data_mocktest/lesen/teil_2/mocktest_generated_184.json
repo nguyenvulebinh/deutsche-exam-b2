@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenfahrzeuge\n\nUnsere Firmenfahrzeuge stehen Ihnen primär für dienstliche Fahrten wie Kundenbesuche, Botengänge oder Fahrten zwischen unseren Standorten zur Verfügung. Die Reservierung eines Fahrzeugs erfolgt ausschließlich über das Buchungsportal im Intranet. Für dienstliche Zwecke ist hierfür die vorherige Freigabe durch Ihre zuständige Teamleitung erforderlich. Die Fahrzeugschlüssel holen Sie bitte nach bestätigter Buchung im Sekretariat (Raum 201) ab.\n\nPrivate Fahrten mit Firmenwagen sind unter bestimmten Voraussetzungen möglich, hauptsächlich außerhalb der regulären Arbeitszeiten und an Wochenenden. Eine solche Nutzung muss jedoch separat und mindestens 48 Stunden im Voraus beim Fuhrparkmanagement (Herr Krause, Durchwahl -55) beantragt und von diesem genehmigt werden. Zudem ist jede private Fahrt *vor Antritt* im digitalen Fahrtenbuch genau zu dokumentieren (voraussichtliche Kilometer, Zweck). Die Kosten für privat gefahrene Kilometer werden Ihnen monatlich pauschal über Ihre Gehaltsabrechnung abgezogen.\n\nZum Betanken der Fahrzeuge nutzen Sie bitte ausschließlich die bereitgestellte Tankkarte, deren PIN Ihnen gesondert mitgeteilt wird. Dies gilt sowohl für dienstliche als auch für genehmigte private Fahrten. Bitte bewahren Sie alle Tankbelege sorgfältig auf und reichen Sie diese wöchentlich im Sekretariat ein. Achten Sie darauf, das Fahrzeug nach Ihrer Nutzung wieder mit mindestens einem Viertel vollem Tank zu übergeben.\n\nEventuelle Schäden am Fahrzeug sind unverzüglich dem Fuhrparkmanagement zu melden. Sie sind als Fahrerin oder Fahrer für die Sauberkeit des Fahrzeuginnenraums während Ihrer Nutzung verantwortlich. Bitte stellen Sie sicher, dass Sie stets Ihren gültigen Führerschein mit sich führen, wenn Sie ein Firmenfahrzeug nutzen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Private Fahrten mit Firmenwagen sind generell nicht gestattet.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bevor man eine private Fahrt mit einem Firmenwagen antritt, muss man...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "den Wagen volltanken und die Teamleitung informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "die Fahrt genehmigen lassen und im Fahrtenbuch eintragen."
+                },
+                {
+                    "key": "c",
+                    "text": "die voraussichtlichen Kosten für die Fahrt bezahlen."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

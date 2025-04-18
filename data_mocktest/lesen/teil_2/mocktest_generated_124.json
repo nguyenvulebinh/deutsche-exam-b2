@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie um eine unverzügliche Benachrichtigung, idealerweise noch vor dem offiziellen Arbeitsbeginn. Es ist zwingend erforderlich, dass Sie sowohl Ihre direkte Führungskraft als auch die Personalabteilung informieren. Die schnellste und bevorzugte Methode hierfür ist der telefonische Anruf, damit Ihre Abwesenheit direkt bei der Tagesplanung berücksichtigt werden kann. Bitte geben Sie dabei auch die voraussichtliche Dauer Ihrer Abwesenheit an.\n\nGemäß den gesetzlichen Bestimmungen sind Sie verpflichtet, dem Unternehmen spätestens am vierten Tag Ihrer Arbeitsunfähigkeit eine ärztliche Bescheinigung, die sogenannte Arbeitsunfähigkeitsbescheinigung (AU), vorzulegen. Diese Frist beginnt mit dem ersten Krankheitstag. Das bedeutet, wenn Sie beispielsweise am Montag erkranken, muss die AU spätestens am Donnerstag im Unternehmen eingereicht sein. Eine eingescannte Kopie per E-Mail an die Personalabteilung ist zunächst ausreichend, das Original reichen Sie bitte nach Ihrer Rückkehr nach.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen AU angegeben, informieren Sie bitte erneut unverzüglich Ihre Führungskraft und die Personalabteilung und reichen Sie rechtzeitig eine Folgebescheinigung ein. Auch wenn Ihr Arzt die Arbeitsunfähigkeitsbescheinigung digital an die Krankenkasse übermittelt (eAU), entbindet Sie dies nicht von Ihrer Pflicht zur persönlichen und rechtzeitigen Krankmeldung bei Ihrem Arbeitgeber wie oben beschrieben.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeitende müssen sowohl die direkte Führungskraft als auch die Personalabteilung über ihre Krankheit informieren, bevor die reguläre Arbeitszeit beginnt.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist sofort am ersten Krankheitstag erforderlich."
+                },
+                {
+                    "key": "b",
+                    "text": "muss spätestens am vierten Krankheitstag vorliegen."
+                },
+                {
+                    "key": "c",
+                    "text": "kann ausschließlich als Original per Post eingereicht werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

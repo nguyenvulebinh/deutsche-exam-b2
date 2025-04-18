@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege und -tools\n\nEine klare und effiziente interne Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um sicherzustellen, dass Informationen richtig fließen, nutzen wir verschiedene Kanäle und Tools, deren korrekte Anwendung wir Ihnen hier erläutern möchten.\n\nDas **Firmen-Intranet** ist unsere zentrale Plattform für alle offiziellen Unternehmensnachrichten, Richtlinien, wichtige Formulare und HR-Informationen. Hier finden Sie beispielsweise auch die Protokolle der Teambesprechungen. Es wird erwartet, dass Sie das Intranet regelmäßig, idealerweise täglich, auf neue Informationen überprüfen.\n\nFür die **formelle Korrespondenz**, Anfragen, die eine Dokumentation erfordern, sowie für die Kommunikation mit externen Partnern nutzen Sie bitte ausschließlich die **E-Mail**. Achten Sie auf einen eindeutigen Betreff und einen professionellen Ton. E-Mails sind nicht für schnelle Abstimmungen oder informelle Fragen gedacht; hierfür gibt es geeignetere Werkzeuge. Eine Antwort auf E-Mails kann in der Regel innerhalb von 48 Arbeitsstunden erwartet werden.\n\nFür den **schnellen, informellen Austausch innerhalb Ihres Teams**, kurze Abstimmungen zu laufenden Projekten oder dringende Fragen ist unser **Team-Chat-System** vorgesehen. Bitte beachten Sie, dass über den Chat keine verbindlichen Entscheidungen kommuniziert oder sensible Daten ausgetauscht werden sollten. Auch hier ist ein professioneller Umgangston selbstverständlich.\n\nZusätzlich finden **regelmäßige Teambesprechungen** statt, deren Teilnahme verpflichtend ist, sofern keine genehmigte Abwesenheit vorliegt. Diese dienen der direkten Abstimmung und Planung. Bei technischen Problemen mit den genannten Tools wenden Sie sich bitte direkt an unseren IT-Support (Durchwahl -555).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für dringende Anfragen innerhalb des Teams ist die Nutzung von E-Mails vorgesehen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Team-Chat-System ist dafür gedacht, ...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "den schnellen und informellen Austausch innerhalb von Projektteams zu erleichtern."
+                },
+                {
+                    "key": "b",
+                    "text": "offizielle Entscheidungen zu dokumentieren und zu kommunizieren."
+                },
+                {
+                    "key": "c",
+                    "text": "Anfragen an den IT-Support oder externe Partner zu senden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

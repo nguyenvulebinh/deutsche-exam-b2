@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie krankheitsbedingt nicht zur Arbeit erscheinen können, informieren Sie bitte unverzüglich vor Ihrem regulären Arbeitsbeginn sowohl Ihre direkte Vorgesetzte bzw. Ihren direkten Vorgesetzten als auch die Personalabteilung. Die Meldung muss telefonisch erfolgen, damit wir schnellstmöglich informiert sind und gegebenenfalls eine Vertretung organisieren können. Eine E-Mail oder Nachricht über interne Chat-Systeme ist hierfür nicht ausreichend.\n\nAb dem ersten Tag der Krankheit ist eine ärztliche Feststellung der Arbeitsunfähigkeit notwendig. Die Arbeitsunfähigkeitsbescheinigung (AU) muss dem Arbeitgeber spätestens am dritten Kalendertag Ihrer Abwesenheit vorliegen. Dank des elektronischen Verfahrens (eAU) übermittelt die Arztpraxis die Bescheinigung in der Regel direkt digital an die Krankenkasse, von wo wir als Arbeitgeber sie elektronisch abrufen können. Bitte informieren Sie uns dennoch kurz, sobald Ihnen die voraussichtliche Dauer Ihrer Arbeitsunfähigkeit bekannt ist.\n\nArztbesuche sollten grundsätzlich außerhalb der Arbeitszeit stattfinden. Sollte dies aus dringenden medizinischen Gründen nicht möglich sein, benötigen Sie für die Abwesenheit während der Arbeitszeit die vorherige Genehmigung Ihrer bzw. Ihres Vorgesetzten. Die versäumte Arbeitszeit muss in der Regel nachgearbeitet werden, es sei denn, es handelt sich um akute Beschwerden, die ein sofortiges Handeln erfordern, oder um einen Termin bei unserem Betriebsarzt, der im Rahmen der Arbeitsmedizin vereinbart wurde.\n\nBei weiteren Fragen zum Thema Krankmeldung, Arbeitsunfähigkeitsbescheinigung oder Arztbesuchen während der Arbeitszeit steht Ihnen Frau Herold aus der Personalabteilung (Durchwahl -45) gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss stets persönlich in der Personalabteilung abgegeben werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie während der Arbeitszeit zum Arzt müssen,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wird dies immer als Arbeitszeit gezählt."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigen Sie normalerweise eine Genehmigung."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen Sie dies sofort der Personalabteilung melden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

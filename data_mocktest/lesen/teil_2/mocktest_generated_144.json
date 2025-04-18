@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie, die folgenden Schritte zu beachten, um einen reibungslosen Ablauf sicherzustellen. Ihre Gesundheit hat Vorrang, aber eine korrekte und zeitnahe Information ist für die betrieblichen Abläufe unerlässlich.\n\nInformieren Sie bitte unverzüglich am ersten Tag Ihrer Abwesenheit, idealerweise vor dem regulären Arbeitsbeginn, sowohl Ihre*n direkte*n Vorgesetzte*n als auch die Personalabteilung. Dies kann telefonisch oder per E-Mail erfolgen. Eine kurze Angabe über die voraussichtliche Dauer der Abwesenheit ist hilfreich, aber nicht zwingend erforderlich.\n\nGemäß den gesetzlichen Bestimmungen und unseren betrieblichen Regelungen ist eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) notwendig, wenn die Krankheit länger als drei Kalendertage andauert. Das bedeutet, spätestens am vierten Kalendertag Ihrer Abwesenheit muss die ärztliche Bescheinigung über Beginn und voraussichtliche Dauer der Arbeitsunfähigkeit der Personalabteilung vorliegen. Senden Sie uns diese Bescheinigung bitte bevorzugt als Scan per E-Mail an personal@firma-beispiel.de zu. Das Original kann bei Bedarf nachgereicht werden.\n\nDauert Ihre Arbeitsunfähigkeit länger als auf der ursprünglichen AU angegeben, ist eine Folgebescheinigung erforderlich, die ebenfalls rechtzeitig vor Ablauf der vorherigen Bescheinigung einzureichen ist. Sollten Sie während Ihres Urlaubs erkranken, melden Sie sich bitte ebenfalls krank und reichen eine AU ein; nur so können Ihnen die Urlaubstage gutgeschrieben werden. Bei Fragen zum Prozedere steht Ihnen Frau Keller in der Personalabteilung (Durchwahl -112) gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl der direkte Vorgesetzte als auch die Personalabteilung müssen umgehend informiert werden, wenn man arbeitsunfähig ist.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss spätestens am vierten Krankheitstag in der Firma vorliegen."
+                },
+                {
+                    "key": "b",
+                    "text": "ist nur bei einer Krankheit von mehr als drei Tagen nötig."
+                },
+                {
+                    "key": "c",
+                    "text": "wird am besten als Original per Post geschickt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

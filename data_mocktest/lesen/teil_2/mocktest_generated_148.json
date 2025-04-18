@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Verfahren bei Arbeitsunfähigkeit\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es von entscheidender Bedeutung, dass Sie das Unternehmen korrekt und rechtzeitig informieren. Bitte melden Sie sich am ersten Tag Ihrer Abwesenheit unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn, bei Ihrem direkten Vorgesetzten krank. Die bevorzugte Methode für diese Erstmeldung ist ein kurzer Telefonanruf. Sollte Ihr Vorgesetzter nicht direkt erreichbar sein, ist alternativ auch eine Benachrichtigung per E-Mail zulässig.\n\nUnabhängig von der voraussichtlichen Dauer Ihrer Abwesenheit ist bereits ab dem ersten Tag der Erkrankung eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), umgangssprachlich auch \"Krankschreibung\" genannt, erforderlich. Diese reichen Sie bitte ausschließlich digital über unser HR-Portal ein. Der rechtzeitige Eingang der AU ist eine Voraussetzung für die Lohnfortzahlung im Krankheitsfall.\n\nBei Ihrer ersten Kontaktaufnahme mit dem Vorgesetzten teilen Sie bitte neben Ihrem Namen auch die voraussichtliche Dauer Ihrer Arbeitsunfähigkeit mit, sofern diese bereits absehbar ist. Bestätigen Sie bitte außerdem, dass Sie einen Arzt konsultieren und die AU über das HR-Portal einreichen werden.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen AU angegeben, informieren Sie bitte erneut umgehend Ihren Vorgesetzten und reichen Sie rechtzeitig eine ärztliche Folgebescheinigung ebenfalls digital über das HR-Portal ein. Nur so kann ein lückenloser Nachweis Ihrer Arbeitsunfähigkeit gewährleistet werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss dem Vorgesetzten erst am dritten Krankheitstag persönlich vorgelegt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung (AU) ist...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "digital über das HR-Portal des Unternehmens einzureichen."
+                },
+                {
+                    "key": "b",
+                    "text": "telefonisch oder per E-Mail an den Vorgesetzten zu übermitteln."
+                },
+                {
+                    "key": "c",
+                    "text": "erst dann notwendig, wenn man länger als drei Tage fehlt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Umgang mit Firmeneigentum und Betriebsmitteln\n\nHerzlich willkommen in unserem Team! Damit die Zusammenarbeit reibungslos funktioniert und unsere Arbeitsmittel lange einsatzbereit bleiben, bitten wir Sie um einen sorgfältigen Umgang mit dem Ihnen anvertrauten Firmeneigentum.\n\nFür Ihre Tätigkeit stellen wir Ihnen in der Regel einen Laptop sowie bei Bedarf ein Mobiltelefon zur Verfügung. Diese Geräte sind primär für dienstliche Zwecke vorgesehen. Eine gelegentliche, maßvolle private Nutzung des Mobiltelefons ist gestattet, solange dadurch keine signifikanten zusätzlichen Kosten für das Unternehmen entstehen. Die private Nutzung von Firmenlaptops, Druckern oder Kopierern ist hingegen grundsätzlich untersagt. Büromaterialien wie Stifte, Blöcke oder Ordner sind ebenfalls ausschließlich für berufliche Aufgaben zu verwenden.\n\nSollte ein Ihnen überlassenes Gerät beschädigt werden oder verloren gehen, sind Sie verpflichtet, dies unverzüglich dem IT-Support zu melden. Unsere IT-Abteilung wird den Schaden prüfen und die nächsten Schritte einleiten. Ob Sie für den entstandenen Schaden haften müssen, hängt von den genauen Umständen ab, insbesondere davon, ob grobe Fahrlässigkeit vorliegt.\n\nAuch bei der Nutzung gemeinschaftlicher Ressourcen wie Drucker, Kopierer oder der Ausstattung in den Gemeinschaftsküchen bitten wir um Achtsamkeit und Sauberkeit. Denken Sie bitte daran, die Küchengeräte nach Benutzung zu reinigen und gemeinschaftlich genutzte Geräte so zu hinterlassen, wie Sie sie selbst vorfinden möchten.\n\nBei Beendigung Ihres Arbeitsverhältnisses sind sämtliche Ihnen überlassenen Firmeneigentümer, einschließlich Laptop, Mobiltelefon, Zugangskarten und sonstiger Arbeitsmittel, unaufgefordert und in ordnungsgemäßem Zustand an die Personalabteilung zurückzugeben.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Obwohl die Privatnutzung von Laptops verboten ist, müssen Schäden an allen Geräten unverzüglich gemeldet werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein von der Firma bereitgestelltes Gerät beschädigt wird,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss man prüfen, ob man es selbst reparieren kann."
+                },
+                {
+                    "key": "b",
+                    "text": "ist umgehend der IT-Support darüber zu informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "haftet der Mitarbeiter automatisch für die Kosten."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

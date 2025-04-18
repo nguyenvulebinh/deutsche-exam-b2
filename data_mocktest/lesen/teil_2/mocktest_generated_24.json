@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung und Arbeitsunfähigkeit\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es für den reibungslosen Betriebsablauf unerlässlich, dass Sie das Unternehmen unverzüglich informieren. Bitte benachrichtigen Sie hierzu als Erstes Ihre direkte vorgesetzte Person. Die Mitteilung sollte idealerweise telefonisch und noch vor Ihrem regulären Arbeitsbeginn erfolgen. Nur falls Ihre vorgesetzte Person nicht erreichbar sein sollte, kontaktieren Sie bitte alternativ die Personalabteilung.\n\nFür die Dauer Ihrer Arbeitsunfähigkeit benötigen wir eine offizielle Bestätigung. Spätestens am dritten Kalendertag Ihrer Abwesenheit muss dem Unternehmen eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorliegen. Diese Bescheinigung können Sie entweder bequem über unser HR-Portal hochladen oder als gescanntes Dokument per E-Mail direkt an die Personalabteilung senden.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen AU angegeben, ist es zwingend erforderlich, dass Sie uns rechtzeitig eine Folgebescheinigung zukommen lassen. Diese sollte idealerweise bereits vor Ablauf der vorherigen Bescheinigung bei uns eingehen. Halten Sie bitte auch Ihre vorgesetzte Person über die voraussichtliche Dauer Ihrer Abwesenheit auf dem Laufenden.\n\nBevor Sie Ihre Tätigkeit nach einer Krankheit wieder aufnehmen, informieren Sie bitte kurz Ihre vorgesetzte Person über Ihre Rückkehr. Sollte Ihr Arzt oder Ihre Ärztin bestimmte Einschränkungen für Ihre Tätigkeit nach der Genesung empfohlen haben, besprechen Sie diese bitte ebenfalls bei Ihrer Rückkehr. Beachten Sie bitte im Sinne des Datenschutzes: Wir benötigen lediglich die AU als Nachweis der Arbeitsunfähigkeit, keine Details zu Ihrer Diagnose.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Vorlage einer Arbeitsunfähigkeitsbescheinigung ist erst ab dem vierten Krankheitstag zwingend erforderlich.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein Mitarbeiter krankheitsbedingt länger ausfällt als erwartet,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "genügt eine formlose E-Mail an die Personalabteilung."
+                },
+                {
+                    "key": "b",
+                    "text": "muss er rechtzeitig eine neue ärztliche Bescheinigung vorlegen."
+                },
+                {
+                    "key": "c",
+                    "text": "sollte er dies nach seiner Rückkehr dem Vorgesetzten mitteilen."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

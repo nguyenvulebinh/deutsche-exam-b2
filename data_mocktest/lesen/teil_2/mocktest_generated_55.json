@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regeln zur Nutzung von Firmenfahrzeugen\n\nUnser Unternehmen stellt für notwendige dienstliche Fahrten Poolfahrzeuge zur Verfügung. Diese Fahrzeuge sind ausschließlich für geschäftliche Zwecke bestimmt und die private Nutzung ist grundsätzlich nicht gestattet. Neben den Poolfahrzeugen gibt es für bestimmte Positionen auch fest zugewiesene Dienstwagen, für die separate Regelungen gelten können, insbesondere bezüglich der privaten Nutzung.\n\nDie Reservierung eines Poolfahrzeugs erfolgt ausschließlich über unser digitales Buchungssystem „FleetPlaner“, auf das Sie über das Intranet Zugriff haben. Bitte nehmen Sie Reservierungen mindestens 24 Stunden im Voraus vor. In dringenden Fällen kann das Fuhrparkmanagement (Durchwahl -112) direkt kontaktiert werden, eine Garantie für die Verfügbarkeit gibt es dann jedoch nicht. Die Schlüsselübergabe erfolgt ebenfalls über das Fuhrparkmanagement zu den üblichen Bürozeiten.\n\nVor jeder Fahrt ist der Zustand des Fahrzeugs kurz zu überprüfen und während der Nutzung ist ein elektronisches Fahrtenbuch über das im Fahrzeug installierte Tablet zu führen. Dieses erfasst automatisch die Strecke, Sie müssen lediglich den Zweck der Fahrt ergänzen. Für das Betanken der Fahrzeuge wird Ihnen eine Tankkarte ausgehändigt, die an allen Partnertankstellen akzeptiert wird. Es wird erwartet, dass die Fahrzeuge nach der Nutzung innen sauber hinterlassen werden. Eine Außenreinigung wird regelmäßig durch das Fuhrparkmanagement organisiert.\n\nNach Beendigung der Fahrt ist das Fahrzeug wieder auf dem dafür vorgesehenen Firmenparkplatz abzustellen und der Schlüssel zusammen mit eventuellen Tankbelegen unverzüglich beim Fuhrparkmanagement abzugeben bzw. außerhalb der Bürozeiten in den dafür vorgesehenen Briefkasten am Büro des Fuhrparkmanagements einzuwerfen. Eventuelle neue Schäden am Fahrzeug oder technische Probleme sind umgehend sowohl im Fahrtenbuch zu vermerken als auch dem Fuhrparkmanagement per E-Mail zu melden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die private Nutzung von Poolfahrzeugen ist generell erlaubt, solange das Fahrtenbuch korrekt geführt wird.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Ein Poolfahrzeug muss nach der Nutzung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "innen gereinigt und vollgetankt zurückgebracht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "persönlich beim Fuhrparkmanagement abgegeben werden."
+                },
+                {
+                    "key": "c",
+                    "text": "mit dem Schlüssel im Zündschloss auf dem Parkplatz bleiben."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

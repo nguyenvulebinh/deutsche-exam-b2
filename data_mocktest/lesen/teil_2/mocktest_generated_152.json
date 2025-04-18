@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenparkplätze\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter,\n\nwir freuen uns, Ihnen auf unserem Firmengelände Parkmöglichkeiten zur Verfügung stellen zu können. Bitte beachten Sie jedoch, dass die Anzahl der Plätze begrenzt ist und die Nutzung bestimmten Regeln unterliegt, um einen reibungslosen Ablauf zu gewährleisten.\n\nDie regulären PKW-Parkplätze in Zone A (blau markiert) sind ausschließlich für Mitarbeiterinnen und Mitarbeiter mit einem gültigen Firmen-Parkausweis vorgesehen. Diesen Ausweis beantragen Sie bitte bei Ihrem Eintritt in die Firma in der Personalabteilung. Für die Ausstellung benötigen wir eine Kopie Ihres Fahrzeugscheins. Der Ausweis muss gut sichtbar hinter der Windschutzscheibe platziert werden.\n\nFür Besucherinnen und Besucher unseres Hauses steht die gesondert ausgewiesene Zone B (gelb markiert) zur Verfügung. Wenn Sie Besuch erwarten, für den ein Parkplatz benötigt wird, reservieren Sie diesen bitte mindestens 24 Stunden im Voraus über unser Intranet-Buchungstool „Parkplatz-Reservierung“. Kurzfristigere Anfragen können nur bei Verfügbarkeit berücksichtigt werden. Ohne Reservierung darf Zone B nicht genutzt werden.\n\nFür Fahrräder und Motorräder gibt es separate, überdachte Abstellflächen nahe dem Haupteingang. Für deren Nutzung ist keine Genehmigung erforderlich. Bitte stellen Sie Zweiräder ausschließlich in diesen dafür vorgesehenen Bereichen ab. Das Abstellen an anderen Orten, insbesondere in Rettungswegen oder auf PKW-Parkplätzen, ist untersagt.\n\nFahrzeuge ohne gültigen Parkausweis in Zone A oder ohne Reservierung in Zone B werden kostenpflichtig abgeschleppt. Das Unternehmen übernimmt keine Haftung für Schäden, Diebstahl oder Einbruch an auf dem Gelände abgestellten Fahrzeugen. Der Parkausweis ist in der Regel ein Jahr gültig und muss danach neu beantragt werden, es sei denn, Sie besitzen einen unbefristeten Arbeitsvertrag – in diesem Fall verlängert sich die Gültigkeit automatisch, solange Ihr Arbeitsverhältnis besteht.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter benötigen für ihr Auto einen Parkausweis, der jährlich verlängert werden muss, es sei denn, sie haben einen unbefristeten Vertrag.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie einen Parkplatz für einen Besucher benötigen,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "informieren Sie direkt die Personalabteilung."
+                },
+                {
+                    "key": "b",
+                    "text": "kann der Besucher einfach in Zone A parken."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen Sie diesen mindestens einen Tag vorher online reservieren."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

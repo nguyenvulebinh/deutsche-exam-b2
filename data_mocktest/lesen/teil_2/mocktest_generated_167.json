@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Entgeltfortzahlung\n\nIm Falle einer Arbeitsunfähigkeit sind Sie verpflichtet, das Unternehmen unverzüglich am ersten Tag der Erkrankung, möglichst vor dem regulären Arbeitsbeginn, zu informieren. Diese Meldung muss primär telefonisch bei Ihrer direkten Führungskraft erfolgen. Eine zusätzliche kurze Information per E-Mail an die Personalabteilung ist hilfreich, ersetzt jedoch nicht den Anruf.\n\nSpätestens am dritten Kalendertag der Arbeitsunfähigkeit muss dem Unternehmen eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), oft auch Attest genannt, vorliegen. Achten Sie darauf, dass diese Frist eingehalten wird, da sie Auswirkungen auf Ihre Lohnfortzahlung haben kann.\n\nIn der Regel wird die AU heutzutage von Ihrem behandelnden Arzt elektronisch an Ihre gesetzliche Krankenkasse übermittelt (sogenanntes eAU-Verfahren). Die Krankenkasse stellt die relevanten Daten dann dem Arbeitgeber digital zur Verfügung. Es liegt jedoch in Ihrer Verantwortung sicherzustellen, dass diese elektronische Übermittlung durch Ihren Arzt auch tatsächlich veranlasst wurde. Sollte die elektronische Übermittlung aus technischen Gründen fehlschlagen oder Ihr Arzt nicht am eAU-Verfahren teilnehmen, sind Sie verpflichtet, uns unverzüglich eine Papierbescheinigung zukommen zu lassen.\n\nBei Vorliegen einer ordnungsgemäßen Krankmeldung und AU haben Sie Anspruch auf Entgeltfortzahlung im Krankheitsfall durch den Arbeitgeber für die Dauer von bis zu sechs Wochen. Eine wichtige Voraussetzung hierfür ist jedoch, dass Ihr Arbeitsverhältnis zum Zeitpunkt des Eintritts der Arbeitsunfähigkeit bereits ununterbrochen länger als vier Wochen bestanden hat. Nach Ablauf dieser sechs Wochen endet die Entgeltfortzahlung durch uns; Sie erhalten dann gegebenenfalls Krankengeld von Ihrer gesetzlichen Krankenkasse.\n\nBei weiteren Fragen zu diesem Prozess wenden Sie sich bitte vertrauensvoll an die Mitarbeiterinnen und Mitarbeiter der Personalabteilung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen sich am ersten Krankheitstag noch vor Arbeitsbeginn telefonisch bei ihrem Vorgesetzten krankmelden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bezüglich der elektronischen Arbeitsunfähigkeitsbescheinigung (eAU)...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sendet der Mitarbeiter diese selbst an die Firma."
+                },
+                {
+                    "key": "b",
+                    "text": "muss der Mitarbeiter die erfolgte Übermittlung kontrollieren."
+                },
+                {
+                    "key": "c",
+                    "text": "informiert der Mitarbeiter die Krankenkasse über Probleme."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

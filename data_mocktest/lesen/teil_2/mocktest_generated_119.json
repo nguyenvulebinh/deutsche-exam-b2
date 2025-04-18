@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenfahrzeuge\n\nFür notwendige Dienstfahrten stellt Ihnen das Unternehmen Fahrzeuge aus unserem Fuhrpark zur Verfügung. Die Buchung eines Fahrzeugs erfolgt ausschließlich über das interne Buchungsportal und muss mindestens 48 Stunden vor Fahrtantritt beantragt werden. Ihre zuständige Teamleitung prüft den Antrag und gibt die Buchung frei. Bitte geben Sie bei der Buchung den Zweck und das Ziel der Fahrt sowie die voraussichtliche Dauer an.\n\nAlle Firmenfahrzeuge sind mit einer Tankkarte ausgestattet. Es wird erwartet, dass Sie das Fahrzeug nach Abschluss Ihrer Fahrt und *vor* der Rückgabe auf Firmenkosten wieder vollständig betanken. Bewahren Sie den Tankbeleg bitte sorgfältig auf und reichen Sie ihn zusammen mit der Fahrzeugschlüsselrückgabe beim Fuhrparkmanagement (Büro 0.15) ein. Achten Sie bitte darauf, das Fahrzeug in einem sauberen Zustand zurückzugeben, insbesondere den Innenraum.\n\nSollte es während Ihrer Fahrt zu einem Unfall oder einer Beschädigung des Fahrzeugs kommen, sind Sie verpflichtet, dies umgehend dem Fuhrparkmanagement zu melden. Füllen Sie hierfür bitte das im Handschuhfach befindliche Schadensprotokoll aus. Bei Unfällen mit Dritten ist zudem immer die Polizei zu verständigen.\n\nDie private Nutzung der Firmenfahrzeuge ist grundsätzlich nicht gestattet. Eine Ausnahme bildet die vertraglich vereinbarte Nutzung für den Arbeitsweg. In diesem Fall ist verpflichtend ein detailliertes Fahrtenbuch zu führen, das regelmäßig geprüft wird. Bei Ihrer Einstellung und danach jährlich wird die Gültigkeit Ihres Führerscheins überprüft.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Firmenfahrzeuge müssen sowohl vor der Rückgabe betankt als auch innen sauber hinterlassen werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was muss vor Antritt einer Dienstfahrt unter anderem geschehen?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Die Fahrt muss genehmigt und der Führerschein vorgelegt worden sein."
+                },
+                {
+                    "key": "b",
+                    "text": "Der Tankfüllstand muss beim Fuhrparkmanagement erfragt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "Ein Fahrtenbuch muss für die geplante Strecke angelegt werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

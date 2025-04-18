@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege und Richtlinien\n\nHerzlich willkommen in unserem Team! Eine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um dies sicherzustellen, nutzen wir verschiedene interne Kommunikationskanäle, deren korrekte Verwendung wir Ihnen hier vorstellen möchten: E-Mail, unser Intranet „InfoNet“, das interne Chat-System „QuickChat“ sowie das klassische Schwarze Brett.\n\nDie E-Mail dient als primäres Mittel für formelle Anfragen, die Übermittlung detaillierter Projektinformationen sowie die gesamte externe Korrespondenz. Es wird erwartet, dass eingehende E-Mails von Kolleginnen und Kollegen innerhalb eines Arbeitstages beantwortet werden. Achten Sie bitte stets auf einen professionellen Tonfall, eine aussagekräftige Betreffzeile und verwenden Sie die standardisierte Firmensignatur, die Ihnen von der IT eingerichtet wurde.\n\nUnser Intranet „InfoNet“ ist die zentrale Plattform für alle offiziellen Unternehmensmitteilungen, verbindliche Richtlinien und dient als Dokumentenarchiv für Formulare, Handbücher und Arbeitsanweisungen. Wichtige Neuigkeiten und Änderungen werden hier von der Personalabteilung oder der Geschäftsleitung veröffentlicht. Es ist erforderlich, dass Sie das InfoNet mindestens einmal täglich auf neue Einträge überprüfen, da diese Informationen als gelesen vorausgesetzt werden.\n\nFür schnelle, informelle Fragen an Kolleginnen und Kollegen oder kurze Status-Updates im Team ist unser Chat-System „QuickChat“ vorgesehen. Bitte beachten Sie, dass QuickChat nicht für dringende Angelegenheiten, die eine sofortige Reaktion erfordern, oder für Sachverhalte genutzt werden sollte, die einer formellen Dokumentation bedürfen. Vermeiden Sie es bitte auch, komplexe Themen über den Chat zu diskutieren; hierfür sind Telefonate oder persönliche Besprechungen besser geeignet.\n\nZuletzt gibt es das Schwarze Brett im Pausenraum im Erdgeschoss. Dieses dient ausschließlich für private Aushänge der Mitarbeitenden, wie zum Beispiel Mitfahrgesuche, Ankündigungen von privaten Veranstaltungen oder Kleinanzeigen. Hier werden keine offiziellen betrieblichen Belange kommuniziert.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Formelle Anfragen und der Austausch von Projektunterlagen erfolgen über E-Mail, während schnelle Fragen intern per Chat geklärt werden können.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Vom Personal wird erwartet, dass sie das InfoNet...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "täglich auf relevante Neuigkeiten kontrollieren."
+                },
+                {
+                    "key": "b",
+                    "text": "zur Klärung informeller Fragen verwenden."
+                },
+                {
+                    "key": "c",
+                    "text": "nur bei Bedarf zur Dokumentensuche aufsuchen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

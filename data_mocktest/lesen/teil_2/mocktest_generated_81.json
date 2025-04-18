@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelung zur Krankmeldung und Arbeitsunfähigkeit\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie dringend, das folgende Verfahren einzuhalten. Am ersten Tag Ihrer Abwesenheit sind Sie verpflichtet, Ihre direkte vorgesetzte Person unverzüglich, das heißt noch vor Ihrem regulären Arbeitsbeginn, telefonisch über Ihre Arbeitsunfähigkeit und deren voraussichtliche Dauer zu informieren. Eine Benachrichtigung per E-Mail oder über Kollegen ist hierfür nicht ausreichend.\n\nSpätestens am dritten Kalendertag Ihrer Erkrankung muss dem Unternehmen eine ärztliche Bescheinigung über die Arbeitsunfähigkeit (Arbeitsunfähigkeitsbescheinigung – AU) vorliegen. Bitte senden Sie diese direkt an die Personalabteilung, entweder postalisch oder als Scan per E-Mail an personal@firma.de. Bewahren Sie das Original für Ihre Unterlagen auf. Die rechtzeitige Vorlage ist Voraussetzung für die Entgeltfortzahlung.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen AU angegeben, ist unverzüglich eine Folgebescheinigung erforderlich. Auch diese muss fristgerecht bei der Personalabteilung eingereicht werden, um eine lückenlose Dokumentation sicherzustellen.\n\nIhre vorgesetzte Person wird bei Bedarf Ihr Team oder relevante Projektpartner über Ihre Abwesenheit informieren, jedoch ohne Angabe von Krankheitsgründen, um Ihre Privatsphäre zu schützen. Die Einhaltung dieser Prozedur ist wichtig, damit betriebliche Abläufe angepasst und Ihre Ansprüche korrekt bearbeitet werden können.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine Krankmeldung per E-Mail an die Personalabteilung genügt am ersten Tag der Abwesenheit.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung (AU)...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist nur bei Krankheiten von mehr als einer Woche nötig."
+                },
+                {
+                    "key": "b",
+                    "text": "sollte dem direkten Vorgesetzten persönlich übergeben werden."
+                },
+                {
+                    "key": "c",
+                    "text": "muss bis zum dritten Tag der Krankheit bei der Personalabteilung sein."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

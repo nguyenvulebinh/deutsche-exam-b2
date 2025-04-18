@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege\n\nEine klare und effiziente interne Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um dies zu gewährleisten, nutzen wir verschiedene Kommunikationswege gezielt. Das Firmen-Intranet dient als zentrale Plattform für allgemeine Unternehmensnachrichten, offizielle Ankündigungen und den Zugriff auf wichtige Dokumente. Für formelle Anfragen, die Kommunikation mit externen Partnern sowie den Austausch vertraulicher Informationen ist die E-Mail das geeignete Medium. Der Team-Chat hingegen ist für schnelle, projektbezogene Abstimmungen und kurze, informelle Fragen gedacht.\n\nBitte beachten Sie bei der Nutzung von E-Mails einige Grundregeln: Formulieren Sie stets eine klare Betreffzeile und setzen Sie Kollegen nur dann in „Cc“, wenn es für deren Arbeit wirklich relevant ist. Wir streben an, E-Mails zeitnah, idealerweise innerhalb von 24 Werkstunden, zu beantworten. Bei Abwesenheit, beispielsweise im Urlaub, ist die Aktivierung einer automatischen Abwesenheitsnotiz erforderlich. Verwenden Sie dafür bitte ausschließlich unseren Standardtext (siehe Anlage C) und stellen Sie sicher, dass darin Ihre zuständige *Urlaubsvertretung* namentlich genannt wird.\n\nDas Intranet sollte regelmäßig auf neue Informationen geprüft werden. Der Team-Chat soll professionell genutzt werden; er ist nicht der Ort für privaten Tratsch oder ausschweifende Diskussionen. Wichtig ist zudem: Verbindliche Absprachen oder Entscheidungen, die im Chat getroffen werden, müssen zusätzlich nachvollziehbar dokumentiert werden, zum Beispiel durch eine Bestätigungs-E-Mail oder einen Eintrag im relevanten Projekt-Tool.\n\nDas Telefon eignet sich gut für dringende Rückfragen, bei denen eine sofortige Klärung nötig ist, oder wenn ein Sachverhalt im direkten Gespräch effizienter besprochen werden kann als per E-Mail. Für komplexere Themen oder Entscheidungsfindungen sind kurze, gut vorbereitete Meetings sinnvoll. Achten Sie hierbei auf eine klare Agenda und führen Sie bei wichtigen Beschlüssen ein kurzes *Protokoll*, das allen Beteiligten zugänglich gemacht wird.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Der Team-Chat ist das bevorzugte Mittel für alle Arten von Absprachen, auch für verbindliche Beschlüsse.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Mitarbeitende bei ihrer E-Mail-Abwesenheitsnotiz beachten?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie sollte möglichst zeitnah vor der Abreise aktiviert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie können wählen, ob sie den Standardtext verwenden möchten."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie müssen den Namen der zuständigen Vertretung angeben."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

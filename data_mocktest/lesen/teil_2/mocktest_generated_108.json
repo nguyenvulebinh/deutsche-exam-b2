@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur Nutzung von Firmenfahrzeugen\n\nDie Nutzung unserer Firmenfahrzeuge ist ein Privileg, das an bestimmte Bedingungen geknüpft ist. Grundsätzlich berechtigt sind Mitarbeitende im Außendienst, Mitglieder der Geschäftsleitung sowie speziell autorisierte Technikerinnen und Techniker. Voraussetzung ist der Besitz einer gültigen Fahrerlaubnis der Klasse B, ein Mindestalter von 23 Jahren sowie eine Betriebszugehörigkeit von mindestens einem Jahr. \n\nDie Reservierung eines Fahrzeugs erfolgt ausschließlich über unser internes Online-Buchungssystem und muss mindestens 48 Stunden vor dem gewünschten Nutzungsbeginn eingereicht werden. Bitte beachten Sie, dass Buchungsanfragen für Fahrten zu Kundenterminen stets Vorrang vor anderen dienstlichen Fahrten haben. Eine Bestätigung Ihrer Buchung erhalten Sie per E-Mail vom Fuhrparkmanagement.\n\nPrivate Fahrten mit Firmenfahrzeugen sind generell untersagt. Ausnahmegenehmigungen können nur in schriftlicher Form durch die Geschäftsleitung erteilt werden. Während der Nutzung sind Sie verpflichtet, das Fahrtenbuch korrekt und lückenlos zu führen. Eventuelle Schäden oder technische Mängel am Fahrzeug müssen unverzüglich dem Fuhrparkmanagement gemeldet werden. Die bereitgestellte Tankkarte darf ausschließlich zur Betankung des jeweiligen Firmenfahrzeugs verwendet werden.\n\nVor der Rückgabe des Fahrzeugs sind Sie dafür verantwortlich, dieses vollzutanken und sowohl innen als auch außen in einem sauberen Zustand zu übergeben. Persönliche Gegenstände sind vollständig zu entfernen. Schlüssel und das vollständig ausgefüllte Fahrtenbuch (inklusive finalem Kilometerstand) geben Sie bitte unaufgefordert an der Rezeption ab.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Firmenfahrzeuge müssen vor der Rückgabe betankt werden und eventuelle Schäden sind umgehend zu melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei der Vergabe von Firmenfahrzeugen...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "haben Fahrten zu Kunden höhere Priorität."
+                },
+                {
+                    "key": "b",
+                    "text": "entscheidet die Dauer der Betriebszugehörigkeit."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen diese spätestens am Vortag gebucht werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

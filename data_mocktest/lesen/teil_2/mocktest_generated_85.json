@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenparkplätze\n\nWir freuen uns, Ihnen auf unserem Firmengelände Parkmöglichkeiten anbieten zu können. Die Nutzung der ausgewiesenen Firmenparkplätze hinter dem Hauptgebäude ist Mitarbeitern mit einem gültigen Parkausweis gestattet. Der Zugang zum Parkbereich erfolgt ebenfalls über Ihre elektronische Mitarbeiterkarte, die Sie bitte am Schrankenlesegerät verwenden.\n\nEinen Parkausweis können Sie nach erfolgreichem Abschluss Ihrer Probezeit bei der Personalabteilung beantragen. Dieses Angebot gilt ausschließlich für festangestellte Mitarbeiterinnen und Mitarbeiter. Für den Parkausweis wird eine jährliche Gebühr von 50 Euro erhoben, welche direkt von Ihrem Gehalt abgezogen wird. Bitte füllen Sie das entsprechende Antragsformular (siehe Intranet) aus und reichen Sie es bei der Personalabteilung ein.\n\nBitte beachten Sie die geltenden Parkregelungen: Die speziell markierten Besucherparkplätze sind unbedingt freizuhalten. Ebenso dürfen reservierte Parkplätze, beispielsweise für die Geschäftsleitung oder Lieferdienste, nicht belegt werden. Zuwiderhandlungen können zunächst zu einer schriftlichen Verwarnung führen. Bei wiederholten Verstößen behalten wir uns das Recht vor, den Parkausweis zu entziehen. Das Parken ist grundsätzlich nur während Ihrer offiziellen Arbeitszeiten gestattet; ein Abstellen des Fahrzeugs über Nacht bedarf einer gesonderten Genehmigung durch die Verwaltung.\n\nFür Fahrräder und Motorräder steht Ihnen ein separater, überdachter Bereich direkt neben dem Haupteingang zur Verfügung. Eine spezielle Genehmigung ist hierfür nicht erforderlich. Wir empfehlen jedoch dringend, Ihr Zweirad stets gut abzuschließen, da das Unternehmen keine Haftung für Diebstahl oder Beschädigungen übernehmen kann.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Jeder Mitarbeiter erhält automatisch bei Firmeneintritt einen kostenlosen Parkausweis.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Fahrräder und Motorräder...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dürfen in einem speziell dafür vorgesehenen Bereich abgestellt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "benötigen ebenfalls einen speziellen Parkausweis von der Personalabteilung."
+                },
+                {
+                    "key": "c",
+                    "text": "dürfen nicht auf dem Firmengelände geparkt werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

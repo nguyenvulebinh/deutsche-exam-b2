@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinien und Datensicherheit\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter,\n\ndie IT-Infrastruktur unseres Unternehmens ist ein wesentlicher Bestandteil unserer täglichen Arbeit. Um die Sicherheit unserer Daten und Systeme zu gewährleisten, bitten wir Sie dringend, die folgenden Richtlinien sorgfältig zu lesen und zu befolgen. Diese gelten für die Nutzung aller firmeneigenen Geräte, des Netzwerkzugangs sowie den Umgang mit Unternehmensdaten.\n\nBei Ihrem Eintritt erhalten Sie Ihre persönlichen Zugangsdaten. Sie sind verpflichtet, Ihr Passwort gemäß unseren Sicherheitsstandards zu wählen (mindestens 12 Zeichen, Groß-/Kleinschreibung, Zahlen, Sonderzeichen) und es regelmäßig, spätestens alle 90 Tage, zu ändern. Geben Sie Ihr Passwort unter keinen Umständen an Dritte weiter.\n\nDie Installation von Software auf Firmenrechnern ist ausschließlich nach vorheriger expliziter Genehmigung durch unsere IT-Abteilung gestattet. Eine Liste der standardmäßig freigegebenen Software finden Sie im Intranet. Jegliche unautorisierte Softwareinstallation stellt ein erhebliches Sicherheitsrisiko dar und ist daher streng untersagt.\n\nDie Nutzung des Internets und der E-Mail-Systeme hat primär für dienstliche Zwecke zu erfolgen. Eine begrenzte private Nutzung in angemessenem Umfang während der offiziellen Pausenzeiten wird toleriert, solange dadurch weder Ihre Arbeitsleistung noch die Netzwerksicherheit oder -stabilität beeinträchtigt wird. Das Abrufen oder Verbreiten illegaler, anstößiger oder urheberrechtlich geschützter Inhalte sowie übermäßiges Streaming sind verboten. Beachten Sie, dass die Nutzung gemäß den geltenden Datenschutzbestimmungen protokolliert werden kann.\n\nVerlassen Sie Ihren Arbeitsplatz auch nur kurzzeitig, sind Sie dazu verpflichtet, Ihren Computer durch eine Bildschirmsperre (Tastenkombination: Win+L / Ctrl+Cmd+Q) zu sichern. Das Anschließen privater externer Datenträger (z.B. USB-Sticks, externe Festplatten) an Firmengeräte ist aus Gründen der Datensicherheit grundsätzlich nur mit ausdrücklicher Erlaubnis der IT-Abteilung zulässig. Melden Sie den Verlust oder Diebstahl von Firmengeräten unverzüglich dem IT-Helpdesk.\n\nBei technischen Problemen, Fragen zur IT-Nutzung oder dem Verdacht auf Sicherheitsvorfälle (z.B. verdächtige E-Mails) wenden Sie sich bitte umgehend an unseren IT-Support über das interne Ticketsystem oder die Durchwahl -444.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Jegliche private Nutzung des Internets über das Firmennetzwerk ist strengstens untersagt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Anschließen privater Geräte wie USB-Sticks an Firmencomputer...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "bedarf grundsätzlich der Zustimmung der IT-Abteilung."
+                },
+                {
+                    "key": "b",
+                    "text": "ist erlaubt, wenn darauf nur dienstliche Daten gespeichert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist nur für Geräte mit aktueller Virensoftware gestattet."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

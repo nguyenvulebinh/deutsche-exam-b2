@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Arbeiten im Großraumbüro\n\nIn unserem Unternehmen gibt es in der dritten Etage einen großen Raum, in dem mehrere Schreibtische stehen. Jeder Schreibtisch hat ein Telefon und Anschlüsse für mobile digitale Arbeitsgeräte. Eigene Kopfhörer mit Mikrophon für Videokonferenzen mit Kundinnen und Kunden bzw. Kolleginnen und Kollegen können mitgebracht werden, zwei Headsets befinden sich aber auch im Raum.\n\nDer Raum steht Teilzeitkräften ohne eigenes Büro sowie Gästen zur Verfügung. Bitte tragen Sie einen Bedarf möglichst frühzeitig in die digitale Raumliste ein.\n\nDie Schreibtische sind nach drei Seiten durch Stellwände abgetrennt, sodass man auch in einem Großraumbüro konzentriert arbeiten kann. Außerdem gibt es einen extra Tisch, auf dem Unterlagen oder größere Pläne abgelegt werden können. Büromaterialien und Kopierer befinden sich in einem Nebenraum am Eingang des Großraumbüros, dort hängt auch die jeweils aktuelle Raumliste aus.\n\nBitte räumen Sie am Ende des Arbeitstages alle Unterlagen auf und hinterlassen Sie den Schreibtisch sauber. Getränke sind am Arbeitsplatz erlaubt. Essen dagegen dürfen Sie nur in den Pausenräumen und in der Kantine. Achten Sie bitte darauf, beim Telefonieren oder Kommunizieren per Videokonferenz nicht zu laut zu sprechen.\n\n## Pausenräume und Kantine\n\nEine erholsame Atmosphäre in den Pausen wird bei uns großgeschrieben. Die Kantine verfügt über",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Im Unternehmen arbeiten die Mitarbeitenden in Großraumbüros.",
+        "loesung": "richtig"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Die Unternehmensleitung bittet darum,",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "Essensreste von den Schreibtischen zu räumen."
+          },
+          {
+            "key": "b",
+            "text": "keine privaten Arbeitsmittel zu nutzen."
+          },
+          {
+            "key": "c",
+            "text": "sich beim Telefonieren leise zu verhalten."
+          }
+        ],
+        "loesung": "c"
+      }
+    ]
+}
+  

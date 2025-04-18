@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie einmal aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es von großer Bedeutung, dass Sie das Unternehmen korrekt und zeitnah informieren. Bitte melden Sie sich unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn, krank.\n\nDie Krankmeldung muss sowohl bei Ihrer direkten Führungskraft als auch in der Personalabteilung erfolgen. Der bevorzugte Weg hierfür ist eine kurze E-Mail. Nur falls dies technisch nicht sofort möglich sein sollte, ist ein Anruf die Alternative. Teilen Sie bitte bei Ihrer Meldung neben der Tatsache Ihrer Arbeitsunfähigkeit auch die voraussichtliche Dauer Ihrer Abwesenheit mit. Detaillierte Angaben zur Art der Erkrankung sind für diese Erstmeldung nicht notwendig.\n\nSpätestens ab dem dritten Kalendertag Ihrer Krankheit sind Sie verpflichtet, eine ärztliche Bescheinigung über Ihre Arbeitsunfähigkeit (AU) vorzulegen. Diese sogenannte „Arbeitsunfähigkeitsbescheinigung“ muss der Personalabteilung unverzüglich, also in der Regel spätestens am vierten Krankheitstag, zugehen. Wir bitten Sie, die Bescheinigung möglichst digital über unser HR-Portal hochzuladen. Alternativ ist die Zusendung per Post an die Personalabteilung möglich.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen Bescheinigung angegeben, ist das Verfahren zu wiederholen: Informieren Sie bitte erneut Ihre Führungskraft und die Personalabteilung und reichen Sie rechtzeitig eine Folgebescheinigung ein.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl die zuständige Führungskraft als auch die Personalabteilung müssen unverzüglich über eine Erkrankung informiert werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Bescheinigung über die Arbeitsunfähigkeit...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist ab dem dritten Krankheitstag erforderlich und der Personalabteilung vorzulegen."
+                },
+                {
+                    "key": "b",
+                    "text": "muss nur dem direkten Vorgesetzten gezeigt werden, wenn man länger als drei Tage krank ist."
+                },
+                {
+                    "key": "c",
+                    "text": "muss immer telefonisch angekündigt werden, bevor sie per Post kommt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

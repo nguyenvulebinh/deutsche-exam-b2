@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinien\n\nHerzlich willkommen in unserem Unternehmen! Damit die Arbeit reibungslos und sicher verläuft, bitten wir Sie, die folgenden Richtlinien zur Nutzung unserer IT-Infrastruktur (Computer, Netzwerk, Software, Internetzugang) zu beachten. Grundsätzlich sind die von der Firma zur Verfügung gestellten IT-Ressourcen ausschließlich für dienstliche Zwecke vorgesehen.\n\nIhre persönlichen Zugangsdaten (Benutzername und Passwort) sind streng vertraulich zu behandeln und dürfen unter keinen Umständen an Dritte weitergegeben werden. Wählen Sie ein sicheres Passwort und ändern Sie es regelmäßig – eine regelmäßige Änderung wird empfohlen, um die Sicherheit zu gewährleisten. Melden Sie sich stets von Ihrem Computer ab, wenn Sie Ihren Arbeitsplatz verlassen.\n\nAuf den Firmencomputern darf ausschließlich die vom Unternehmen bereitgestellte oder genehmigte Software verwendet werden. Die Installation von firmenfremder Software, einschließlich privater Programme, Spiele oder Tools, ist strikt untersagt. Dies dient sowohl der Einhaltung von Lizenzbestimmungen als auch dem Schutz vor Schadsoftware.\n\nDie Nutzung des Internets soll primär arbeitsbezogenen Zwecken dienen. Eine maßvolle private Internetnutzung ist jedoch während der offiziellen Pausenzeiten gestattet, solange sie die Arbeitsleistung nicht beeinträchtigt und keine illegalen, anstößigen oder sicherheitsgefährdenden Webseiten besucht werden. Seien Sie bei E-Mails von unbekannten Absendern vorsichtig und öffnen Sie keine verdächtigen Anhänge oder Links, um die Gefahr durch Viren oder Phishing zu minimieren.\n\nJeder Mitarbeiter trägt eine Mitverantwortung für die Datensicherheit und die Einhaltung der Datenschutzrichtlinien. Verstöße gegen diese Nutzungsrichtlinien können arbeitsrechtliche Konsequenzen nach sich ziehen. Bei technischen Problemen oder Fragen zur IT-Nutzung wenden Sie sich bitte direkt an unseren IT-Support (Durchwahl -112 oder E-Mail an it-support@firma.de).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Obwohl Mitarbeiter keine eigene Software installieren dürfen, ist ihnen die private Internetnutzung in Pausen gestattet.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn technische Probleme mit der IT-Ausstattung auftreten, sollen Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ihren direkten Vorgesetzten informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "versuchen, das Problem selbst mit eigener Software zu lösen."
+                },
+                {
+                    "key": "c",
+                    "text": "sich an den IT-Support wenden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

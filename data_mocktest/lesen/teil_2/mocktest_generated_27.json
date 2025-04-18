@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Meldung von Krankheiten und Arbeitsunfällen\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie, dies unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn am ersten Tag Ihrer Abwesenheit, Ihrem direkten Vorgesetzten mitzuteilen. Die Krankmeldung sollte idealerweise telefonisch erfolgen, damit eventuelle dringende Fragen zur Arbeitsorganisation direkt geklärt werden können. Ist Ihr Vorgesetzter nicht direkt erreichbar, informieren Sie bitte ersatzweise das Sekretariat Ihrer Abteilung oder senden Sie eine E-Mail.\n\nSpätestens am dritten Kalendertag Ihrer Arbeitsunfähigkeit muss der Personalabteilung eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorliegen. In der Regel übermittelt Ihre Arztpraxis die AU elektronisch (eAU) an die Krankenkasse, von wo wir sie digital abrufen. Klären Sie bitte mit Ihrer Praxis, ob dies geschieht. Nur in Ausnahmefällen, falls die eAU nicht möglich ist, reichen Sie bitte die Papierbescheinigung selbstständig bei der Personalabteilung ein.\n\nEine besondere Situation stellt ein Arbeitsunfall dar, auch Wegeunfälle auf dem direkten Weg zur oder von der Arbeit zählen dazu. Jeder Arbeitsunfall, auch wenn er zunächst geringfügig erscheint, muss umgehend nicht nur dem Vorgesetzten, sondern zusätzlich auch dem zuständigen Sicherheitsbeauftragten gemeldet werden. Für die interne Dokumentation und die Meldung an die Berufsgenossenschaft muss zudem eine Unfallanzeige ausgefüllt werden. Dies ist wichtig für Ihren Versicherungsschutz.\n\nDie rechtzeitige Krankmeldung und die fristgerechte Vorlage der AU sind Voraussetzungen für die Lohnfortzahlung im Krankheitsfall durch den Arbeitgeber, die für bis zu sechs Wochen gewährt wird. Versäumnisse bei der Meldung oder Einreichung der AU können zu finanziellen Nachteilen führen. Nach Ablauf der sechs Wochen greift in der Regel das Krankengeld der Krankenkasse.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für die Lohnfortzahlung ist es entscheidend, sowohl die Krankmeldung sofort abzugeben als auch die Arbeitsunfähigkeitsbescheinigung rechtzeitig einzureichen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei einem Arbeitsunfall müssen Sie neben Ihrem Vorgesetzten auch...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "den Sicherheitsbeauftragten informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "die Personalabteilung sofort verständigen."
+                },
+                {
+                    "key": "c",
+                    "text": "die Berufsgenossenschaft direkt kontaktieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

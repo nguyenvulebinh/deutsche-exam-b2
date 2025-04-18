@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenfahrzeuge\n\nUnser Unternehmen stellt für notwendige dienstliche Fahrten einen Fuhrpark mit mehreren Fahrzeugen zur Verfügung. Die Nutzung dieser Fahrzeuge unterliegt bestimmten Regeln, um einen reibungslosen und fairen Ablauf für alle Mitarbeitenden zu gewährleisten.\n\nDie Berechtigung zur Nutzung eines Firmenfahrzeugs setzt einen gültigen Führerschein voraus, der regelmäßig (halbjährlich) im Sekretariat zur Kontrolle vorgelegt werden muss. Die Buchung eines Fahrzeugs erfolgt ausschließlich über unser Online-Buchungssystem und sollte mindestens 24 Stunden im Voraus geschehen, um die Verfügbarkeit sicherzustellen. Kurzfristigere Anfragen sind nur in dringenden Ausnahmefällen nach telefonischer Rücksprache mit der Fuhrparkverwaltung (Durchwahl -112) möglich.\n\nFür jede Fahrt mit einem Firmenfahrzeug ist zwingend ein Fahrtenbuch zu führen. Dieses befindet sich im Handschuhfach des jeweiligen Fahrzeugs. Bitte tragen Sie vor Antritt der Fahrt den Kilometerstand, Datum, Ihr Namenskürzel sowie den Zweck der Reise ein. Nach Beendigung der Fahrt sind der Endkilometerstand und die gefahrenen Kilometer einzutragen. Das Fahrtenbuch verbleibt stets im Fahrzeug.\n\nAlle Fahrzeuge werden nach der sogenannten Voll-Voll-Regelung betankt. Das bedeutet, Sie übernehmen das Fahrzeug mit vollem Tank und geben es ebenso vollgetankt wieder zurück. Eine Firmentankkarte liegt dem Fahrtenbuch bei. Bitte nutzen Sie diese ausschließlich für das Betanken des Firmenfahrzeugs. Private Fahrten sind grundsätzlich nicht gestattet. Ausnahmen für sehr kurze, unerlässliche Privatfahrten während einer Dienstreise bedürfen der vorherigen schriftlichen Genehmigung durch Ihre Teamleitung und sind im Fahrtenbuch gesondert zu kennzeichnen.\n\nSollten Sie während der Nutzung einen Schaden am Fahrzeug feststellen oder verursachen, ist dieser unverzüglich der Fuhrparkverwaltung zu melden. Bitte unternehmen Sie keine eigenen Reparaturversuche. Nach Rückgabe stellen Sie das Fahrzeug bitte auf den dafür vorgesehenen Parkplätzen ab und geben den Schlüssel direkt in der Fuhrparkverwaltung ab.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für dienstliche Fahrten kann jederzeit spontan ein verfügbares Fahrzeug genutzt werden, ohne es vorher zu reservieren.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Mitarbeitende bezüglich des Fahrtenbuchs beachten?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Es wird automatisch durch das Buchungssystem erstellt."
+                },
+                {
+                    "key": "b",
+                    "text": "Es ist bei jeder Fahrt auszufüllen und verbleibt im Auto."
+                },
+                {
+                    "key": "c",
+                    "text": "Es muss nur bei Fahrten außerhalb der Stadt geführt werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

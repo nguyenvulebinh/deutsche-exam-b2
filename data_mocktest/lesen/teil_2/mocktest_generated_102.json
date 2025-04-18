@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenfahrräder\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter,\n\nals Beitrag zur Gesundheitsförderung und zum Umweltschutz stellen wir Ihnen Firmenfahrräder zur Verfügung. Diese sollen Ihnen Flexibilität für kurze Dienstwege oder Fahrten in der Mittagspause ermöglichen und eine umweltfreundliche Alternative darstellen.\n\nDie Ausleihe der Fahrräder erfolgt über unser digitales Buchungssystem, das Sie im Intranet finden. Dort sehen Sie die Verfügbarkeit und können ein Rad für den gewünschten Zeitraum reservieren. Es stehen sowohl Standardfahrräder als auch einige E-Bikes zur Verfügung. Die Fahrräder befinden sich im Fahrradkeller von Gebäude B und können während der regulären Arbeitszeiten genutzt werden. Eine private Nutzung nach Feierabend oder am Wochenende ist derzeit nicht vorgesehen.\n\nWir bitten Sie um einen verantwortungsbewussten Umgang mit den Rädern. Bitte prüfen Sie vor jeder Fahrt kurz den Zustand (Reifendruck, Bremsen). Für die Nutzung der E-Bikes ist das Tragen eines Helms aus Sicherheitsgründen vorgeschrieben; Helme finden Sie neben den E-Bikes. Sollten Sie einen Schaden feststellen, ist es wichtig, diesen unverzüglich dem Facility Management (Durchwahl -55) zu melden. Bitte geben Sie dabei auch die am Rahmen angebrachte Fahrradnummer an, damit eine schnelle Reparatur erfolgen kann.\n\nDie Fahrräder sind mit Schlössern ausgestattet. Bitte stellen Sie sicher, dass Sie das Fahrrad bei jedem Abstellen – auch nur kurz – sicher abschließen. Nach der Nutzung bringen Sie das Rad bitte wieder an seinen ursprünglichen Stellplatz im Fahrradkeller zurück und stellen sicher, dass es für den nächsten Nutzer bereitsteht. Eine Mitnahme der Räder über Nacht nach Hause ist nicht gestattet.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Mitarbeitenden tragen die alleinige Verantwortung für die Sicherheit und Wartung der Firmenfahrräder.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein Firmenfahrrad beschädigt wird, muss man...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dies umgehend dem Facility Management unter Angabe der Fahrradnummer mitteilen."
+                },
+                {
+                    "key": "b",
+                    "text": "selbst versuchen, den Schaden zu reparieren."
+                },
+                {
+                    "key": "c",
+                    "text": "am Ende des Arbeitstages eine Notiz im Buchungssystem hinterlassen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

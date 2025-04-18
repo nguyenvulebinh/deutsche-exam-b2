@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Arztbesuche während der Arbeitszeit\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es unerlässlich, dass Sie dies unverzüglich melden. Bitte informieren Sie sowohl Ihre direkte Führungskraft als auch die Personalabteilung noch vor dem regulären Arbeitsbeginn. Für die Erstmeldung wird ein Telefonanruf bevorzugt, damit sichergestellt ist, dass die Information rechtzeitig ankommt.\n\nSpätestens am dritten Kalendertag Ihrer Abwesenheit muss der Personalabteilung eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorliegen. Diese Bescheinigung dokumentiert die voraussichtliche Dauer Ihrer Arbeitsunfähigkeit. Wir bitten Sie, die AU bevorzugt digital über das Mitarbeiterportal hochzuladen. Sollte dies nicht möglich sein, kann sie auch postalisch an die Personalabteilung gesendet werden.\n\nArztbesuche sollten grundsätzlich außerhalb Ihrer Arbeitszeiten stattfinden. Ist ein Arzttermin während der Arbeitszeit unumgänglich, informieren Sie bitte Ihre Führungskraft so früh wie möglich darüber. Die durch den Arztbesuch versäumte Arbeitszeit muss in der Regel nachgearbeitet werden; die genauen Modalitäten hierzu besprechen Sie bitte mit Ihrer Führungskraft. Es kann vorkommen, dass Sie gebeten werden, eine Bescheinigung über den Arztbesuch vorzulegen.\n\nSobald Sie wissen, wann Sie Ihre Arbeit wieder aufnehmen können, informieren Sie bitte ebenfalls Ihre Führungskraft, damit Ihre Rückkehr entsprechend eingeplant werden kann. Dies erleichtert die Organisation im Team.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl der direkte Vorgesetzte als auch die Personalabteilung müssen umgehend über eine krankheitsbedingte Abwesenheit informiert werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung (AU)...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist nur bei Krankheiten von mehr als drei Tagen notwendig."
+                },
+                {
+                    "key": "b",
+                    "text": "muss spätestens am dritten Tag der Krankheit der Personalabteilung vorliegen."
+                },
+                {
+                    "key": "c",
+                    "text": "sollte man dem Vorgesetzten bei der Rückkehr persönlich geben."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

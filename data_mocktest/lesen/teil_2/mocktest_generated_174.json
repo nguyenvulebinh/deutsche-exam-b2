@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Arbeitsunfähigkeitsbescheinigung\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es von entscheidender Bedeutung, dass Sie dies dem Unternehmen unverzüglich mitteilen. Die Krankmeldung muss noch vor dem regulären Arbeitsbeginn erfolgen. Der bevorzugte Weg hierfür ist ein direkter telefonischer Anruf bei Ihrem bzw. Ihrer Vorgesetzten. Bitte geben Sie bei dieser Gelegenheit auch die voraussichtliche Dauer Ihrer Abwesenheit an, auch wenn diese zunächst nur geschätzt werden kann.\n\nSpätestens am dritten Kalendertag Ihrer krankheitsbedingten Abwesenheit sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Seit Einführung der elektronischen Arbeitsunfähigkeitsbescheinigung (eAU) wird diese in der Regel digital von uns bei Ihrer Krankenkasse abgerufen. Wichtig ist jedoch: Sie müssen uns trotzdem aktiv über Ihre Arbeitsunfähigkeit und deren voraussichtliche Dauer informieren, damit wir die eAU überhaupt abrufen können. Den Papierausdruck, den Sie weiterhin vom Arzt erhalten, bewahren Sie bitte für Ihre persönlichen Unterlagen auf.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen AU vermerkt, ist eine erneute unverzügliche Meldung bei Ihrem bzw. Ihrer Vorgesetzten erforderlich. Zudem benötigen Sie eine Folgebescheinigung Ihres Arztes, deren Daten wir ebenfalls elektronisch abrufen, nachdem Sie uns informiert haben. Die Pflicht zur Information über jede Verlängerung der Arbeitsunfähigkeit besteht fortlaufend.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeiter müssen ihren Vorgesetzten sofort telefonisch über ihre Krankheit informieren und auch die erwartete Dauer nennen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was gilt für die Arbeitsunfähigkeitsbescheinigung (AU)?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Der Mitarbeiter muss den Arbeitgeber über deren Ausstellung und Dauer informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "Diese wird vom Mitarbeiter persönlich in der Personalabteilung abgegeben."
+                },
+                {
+                    "key": "c",
+                    "text": "Eine telefonische Mitteilung über die Krankheit ist ausreichend."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

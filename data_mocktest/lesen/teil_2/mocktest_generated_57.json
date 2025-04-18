@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung\n\nSollten Sie arbeitsunfähig erkranken, ist es wichtig, dass Sie das Unternehmen umgehend informieren, damit Arbeitsabläufe angepasst und Ihre Abwesenheit korrekt dokumentiert werden kann. Bitte melden Sie sich am ersten Tag Ihrer Erkrankung unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn, krank. Geben Sie dabei bitte auch die voraussichtliche Dauer Ihrer Abwesenheit an.\n\nDie Krankmeldung muss auf zwei Wegen erfolgen, um sicherzustellen, dass alle relevanten Stellen informiert sind. Informieren Sie bitte zuerst Ihre direkte Führungskraft telefonisch über Ihr Fehlen. Zusätzlich dazu ist es zwingend erforderlich, dass Sie Ihre Krankmeldung auch über das Online-Formular im HR-System an die Personalabteilung übermitteln. Nur wenn beide Meldungen vorliegen, gilt die Krankmeldung als ordnungsgemäß.\n\nEine ärztliche Bescheinigung, die sogenannte Arbeitsunfähigkeitsbescheinigung (AU), ist gesetzlich vorgeschrieben, wenn Ihre Arbeitsunfähigkeit länger als drei Kalendertage andauert. Das bedeutet, die AU muss spätestens am vierten Kalendertag Ihrer Erkrankung im Unternehmen vorliegen. Bitte reichen Sie die AU digital ein, indem Sie diese im dafür vorgesehenen Bereich unseres HR-Systems hochladen. Eine Zusendung per Post ist nicht mehr notwendig.\n\nBei länger andauernder Krankheit halten Sie bitte regelmäßigen Kontakt zu Ihrer Führungskraft bezüglich der voraussichtlichen Rückkehr. Gegebenenfalls wird Ihnen auch ein Gespräch im Rahmen des betrieblichen Eingliederungsmanagements (BEM) angeboten. Grundsätzlich müssen Sie während Ihrer Krankheit nicht für Arbeitsanfragen erreichbar sein, es sei denn, es wurde vorab eine Absprache für eine dringende Übergabe getroffen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine ärztliche Bescheinigung über die Arbeitsunfähigkeit muss immer sofort am ersten Krankheitstag vorgelegt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Am ersten Tag einer Krankheit sollen Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ihre Führungskraft noch vor Arbeitsbeginn informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "die genaue Krankheitsdauer der Personalabteilung mitteilen."
+                },
+                {
+                    "key": "c",
+                    "text": "warten, bis sie eine ärztliche Bescheinigung haben."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

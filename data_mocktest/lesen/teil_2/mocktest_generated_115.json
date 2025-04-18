@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie, dies dem Unternehmen unverzüglich am ersten Tag der Abwesenheit noch vor dem üblichen Arbeitsbeginn mitzuteilen. Informieren Sie bitte primär Ihre direkte Vorgesetzte oder Ihren direkten Vorgesetzten telefonisch über Ihre Arbeitsunfähigkeit und die voraussichtliche Dauer.\n\nSollten Sie Ihre Führungskraft nicht direkt erreichen, melden Sie sich bitte umgehend im zuständigen Sekretariat oder alternativ bei der Personalabteilung. Eine zusätzliche kurze Benachrichtigung per E-Mail ist möglich, ersetzt jedoch nicht den notwendigen Anruf, da wir sicherstellen müssen, dass die Information rechtzeitig ankommt und ggf. Vertretungen organisiert werden können.\n\nDauert die Arbeitsunfähigkeit länger als drei Kalendertage, sind Sie verpflichtet, dem Arbeitgeber spätestens am darauffolgenden Arbeitstag – also in der Regel am vierten Kalendertag der Krankheit – eine ärztliche Bescheinigung über die Arbeitsunfähigkeit (Arbeitsunfähigkeitsbescheinigung, AUB) und deren voraussichtliche Dauer vorzulegen. Die Vorlagepflicht gilt ab dem ersten Tag, wenn die Krankheit unmittelbar vor oder nach einem Urlaub oder Feiertagen auftritt.\n\nSollte die Krankheit länger andauern als auf der ursprünglichen Bescheinigung angegeben, ist eine Folgebescheinigung ebenfalls unverzüglich einzureichen. Teilen Sie uns bitte auch das voraussichtliche Ende Ihrer Abwesenheit mit, sobald dieses absehbar ist, um Ihre Rückkehr besser planen zu können. Diese Regelungen gelten entsprechend, wenn Sie während Ihres Erholungsurlaubs erkranken.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen ihre Krankmeldung vor Arbeitsbeginn telefonisch beim Vorgesetzten machen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss ab dem vierten Krankheitstag dem Arbeitgeber vorliegen."
+                },
+                {
+                    "key": "b",
+                    "text": "ist per E-Mail an die Personalabteilung zu senden."
+                },
+                {
+                    "key": "c",
+                    "text": "wird nur bei Krankheiten direkt vor dem Urlaub benötigt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

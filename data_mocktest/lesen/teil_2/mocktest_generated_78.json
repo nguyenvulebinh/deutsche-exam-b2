@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege verstehen\n\nUm eine effiziente und klare Kommunikation innerhalb unseres Unternehmens zu gewährleisten, nutzen wir verschiedene Kanäle. Es ist wichtig, dass Sie wissen, welcher Kanal für welche Art von Information vorgesehen ist.\n\nDer primäre Kanal für alle offiziellen Ankündigungen, verbindlichen Richtlinien, Unternehmensnachrichten und den Zugang zu wichtigen Formularen ist unser **Intranet**. Die Kommunikationsabteilung ist dafür zuständig, die Inhalte stets aktuell zu halten. Bitte machen Sie es sich zur Gewohnheit, das Intranet regelmäßig zu besuchen, um auf dem Laufenden zu bleiben.\n\nFür die direkte berufliche Kommunikation, wie spezifische Anfragen an Kolleginnen und Kollegen, Absprachen in Projektteams oder dringende Mitteilungen, die eine bestimmte Person oder Gruppe betreffen, nutzen Sie bitte die **E-Mail**. Achten Sie hierbei auf einen professionellen Tonfall und eine klare Betreffzeile. In der Regel kann bei internen E-Mails innerhalb von 24 Geschäftsstunden mit einer Antwort gerechnet werden.\n\nEinmal im Monat erhalten Sie unseren elektronischen **Newsletter**. Dieser fasst allgemeine Firmenneuigkeiten, Berichte über Erfolge, Hinweise auf kommende Veranstaltungen oder auch Mitarbeitervorstellungen zusammen. Er dient der breiteren Information und dem Gemeinschaftsgefühl, enthält jedoch keine dringenden oder verbindlichen Handlungsanweisungen.\n\n**Teambesprechungen**, ob virtuell oder präsent, dienen der detaillierten Diskussion von Projekten, der gemeinsamen Entscheidungsfindung und dem direkten Austausch im Team. Sie sind nicht dafür gedacht, Informationen zu wiederholen, die bereits über das Intranet oder per E-Mail kommuniziert wurden. Bitte nutzen Sie die Firmenkommunikationssysteme ausschließlich für berufliche Zwecke; private Unterhaltungen sollten über private Kanäle geführt werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Offizielle Unternehmensrichtlinien sind im Intranet zu finden, während der Newsletter monatlich über allgemeine Firmenereignisse informiert.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie eine berufliche E-Mail senden,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollten Sie normalerweise binnen eines Werktages eine Reaktion erhalten."
+                },
+                {
+                    "key": "b",
+                    "text": "müssen Kollegen Ihnen immer sofort antworten."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen Sie die Information zusätzlich im Intranet veröffentlichen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

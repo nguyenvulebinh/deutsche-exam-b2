@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nIm Falle einer Erkrankung, die Sie am Arbeiten hindert, ist es unerlässlich, dass Sie dies unverzüglich, **vor dem regulären Arbeitsbeginn**, Ihrem **direkten Vorgesetzten** melden. Die Krankmeldung sollte **idealerweise telefonisch** erfolgen, damit Ihr Vorgesetzter direkt informiert ist und notwendige Schritte, wie die Organisation einer Vertretung, einleiten kann. Falls Sie Ihren Vorgesetzten telefonisch nicht erreichen, ist **ersatzweise eine E-Mail an ihn sowie an die Personalabteilung** zu senden.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) ist **spätestens am dritten Kalendertag** der Krankheit vorzulegen. Dies bedeutet, wenn Sie beispielsweise an einem Freitag erkranken, muss die AU **spätestens am Sonntag** bei uns eingehen. Die **digitale Übermittlung** durch die Arztpraxis an die Krankenkasse und uns als Arbeitgeber (eAU) ist der **Regelfall**. Sollte dies aus technischen Gründen nicht möglich sein, reichen Sie bitte den **Originalbeleg** bei der Personalabteilung ein.\n\nInformieren Sie bei Ihrer initialen Krankmeldung bitte auch über die **voraussichtliche Dauer** Ihrer Abwesenheit. Sollte sich diese verlängern, ist eine **erneute Meldung** erforderlich.\n\nBei Fragen zum Prozess der Krankmeldung oder zur AU wenden Sie sich bitte an Frau Müller in der Personalabteilung (Durchwahl -45).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Normalerweise wird die Krankmeldung digital übermittelt, doch in Ausnahmefällen muss das Originaldokument abgegeben werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie krank werden, sollen Sie zuerst",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihrem direkten Vorgesetzten Bescheid geben."
+                },
+                {
+                    "key": "b",
+                    "text": "der Personalabteilung eine E-Mail schreiben."
+                },
+                {
+                    "key": "c",
+                    "text": "die Arbeitsunfähigkeitsbescheinigung einreichen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

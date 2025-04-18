@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regeln der internen Kommunikation\n\nEine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um sicherzustellen, dass Informationen korrekt und zeitnah bei den richtigen Personen ankommen, bitten wir Sie, die folgenden Richtlinien für unsere internen Kommunikationskanäle zu beachten.\n\nDas **Intranet** ist unsere zentrale Plattform für offizielle Unternehmensnachrichten, wichtige Ankündigungen der Geschäftsleitung und Personalabteilung sowie allgemeingültige Dokumente und Richtlinien. Alle Mitarbeitenden sind verpflichtet, sich hier regelmäßig, mindestens jedoch einmal täglich, über Neuigkeiten zu informieren. Das Einstellen von Inhalten ist ausschließlich autorisierten Personen vorbehalten.\n\nDie **E-Mail** dient als primärer Kanal für die formelle, projektbezogene Kommunikation, Anfragen an andere Abteilungen sowie den Austausch mit externen Partnern. Achten Sie bitte auf eine professionelle Formulierung und verwenden Sie die standardisierte E-Mail-Signatur. Antworten auf interne E-Mails sollten in der Regel innerhalb von 24 Stunden (werktags) erfolgen. Das CC-Feld sollte sparsam genutzt werden, um unnötige Informationsfluten zu vermeiden.\n\nFür schnelle, informelle Austausche und kurze Abstimmungen im Team steht Ihnen unser internes **Chat-Tool** zur Verfügung. Es ist ideal für dringende, aber nicht geschäftskritische Fragen, die keine ausführliche Dokumentation erfordern. Bitte beachten Sie, dass das Chat-Tool nicht für verbindliche Absprachen, offizielle Entscheidungen oder die Weitergabe sensibler Daten genutzt werden darf. Halten Sie sich auch hier an die geltenden Datenschutzbestimmungen.\n\nDie Kenntnis und Einhaltung dieser Kommunikationswege ist für einen reibungslosen Arbeitsablauf unerlässlich. Bei Fragen zu den einzelnen Kanälen oder deren Nutzung wenden Sie sich bitte an Ihre Teamleitung oder die IT-Abteilung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Offizielle Mitteilungen der Firma findet man im Intranet, während projektbezogene Informationen per E-Mail ausgetauscht werden sollen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das interne Chat-Tool soll",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "verbindliche Absprachen und Projektentscheidungen dokumentieren."
+                },
+                {
+                    "key": "b",
+                    "text": "anstelle von E-Mails für jegliche Kommunikation verwendet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "für schnelle, informelle Rückfragen unter Kollegen dienen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

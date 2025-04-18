@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es unerlässlich, das Unternehmen unverzüglich darüber zu informieren. Bitte melden Sie sich dazu noch **vor** Ihrem regulären Arbeitsbeginn am ersten Tag Ihrer Abwesenheit telefonisch bei Ihrer direkten Führungskraft. Sollten Sie diese nicht erreichen, informieren Sie bitte ersatzweise das Sekretariat Ihrer Abteilung. Zusätzlich ist eine kurze schriftliche Benachrichtigung per E-Mail an die Personalabteilung (personal@firma-muster.de) erforderlich, in der Sie Ihre Abwesenheit bestätigen und die voraussichtliche Dauer angeben, sofern abschätzbar.\n\nDauert die Arbeitsunfähigkeit voraussichtlich länger als drei Kalendertage, sind Sie verpflichtet, dem Arbeitgeber spätestens am darauffolgenden Arbeitstag – also in der Regel am **vierten Kalendertag** der Erkrankung – eine ärztliche Bescheinigung über das Bestehen der Arbeitsunfähigkeit sowie deren voraussichtliche Dauer vorzulegen. Dies geschieht heutzutage meistens über die elektronische Arbeitsunfähigkeitsbescheinigung (eAU), die Ihr Arzt direkt an Ihre Krankenkasse übermittelt, von wo wir sie dann digital abrufen können. Bitte erkundigen Sie sich bei Ihrem Arzt, ob die Übermittlung als eAU erfolgt.\n\nAuch wenn eine eAU übermittelt wird, bleibt die Pflicht zur unverzüglichen Krankmeldung am ersten Tag, wie im ersten Absatz beschrieben, bestehen. Sollte Ihre Erkrankung über den auf der ursprünglichen AU-Bescheinigung angegebenen Zeitraum hinaus andauern, ist umgehend eine neue ärztliche Bescheinigung (Folgebescheinigung) einzureichen bzw. deren elektronische Übermittlung durch den Arzt sicherzustellen und das Unternehmen erneut zu informieren.\n\nBei Fragen zum korrekten Ablauf oder zur eAU können Sie sich jederzeit an die Mitarbeiterinnen und Mitarbeiter der Personalabteilung wenden. Sie helfen Ihnen gerne weiter.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende müssen sich bei Krankheit vor Arbeitsbeginn sowohl telefonisch als auch per E-Mail melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Arbeitsunfähigkeitsbescheinigung muss dem Arbeitgeber spätestens...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sofort am ersten Tag der Krankmeldung vorliegen."
+                },
+                {
+                    "key": "b",
+                    "text": "nur dann vorgelegt werden, wenn keine eAU übermittelt wird."
+                },
+                {
+                    "key": "c",
+                    "text": "am vierten Kalendertag der Erkrankung vorliegen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

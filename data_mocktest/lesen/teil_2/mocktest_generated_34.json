@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinie zur Nutzung der IT-Ressourcen\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter,\n\ndie vom Unternehmen bereitgestellten IT-Ressourcen wie Computer, Netzwerkzugang, Software und E-Mail-Systeme sind primär für dienstliche Zwecke bestimmt und Eigentum der Firma. Ein verantwortungsbewusster und sicherer Umgang damit ist unerlässlich.\n\nFür den Zugriff auf das Firmennetzwerk darf ausschließlich die vom Unternehmen zur Verfügung gestellte Hardware genutzt werden. Das Anschließen privater Geräte, wie USB-Sticks oder Smartphones zur Datenübertragung, an das Firmennetzwerk ist ohne ausdrückliche Genehmigung durch den IT-Support untersagt. Software darf nur durch den IT-Support oder von einer zentral bereitgestellten, genehmigten Liste installiert werden. Eigenmächtige Installationen sind nicht gestattet.\n\nDie Nutzung des Internets soll hauptsächlich arbeitsbezogenen Aufgaben dienen. Eine begrenzte private Nutzung während der offiziellen Pausenzeiten ist toleriert, sofern sie nicht gegen geltendes Recht oder interne Richtlinien verstößt (z.B. Aufruf illegaler oder anstößiger Inhalte, übermäßiges Streaming oder Herunterladen großer Dateien) und die Leistungsfähigkeit des Netzwerks nicht beeinträchtigt. Das firmeneigene E-Mail-Konto ist ausschließlich für die geschäftliche Korrespondenz vorgesehen.\n\nDer Schutz von Unternehmensdaten hat höchste Priorität. Wählen Sie starke Passwörter und ändern Sie diese regelmäßig gemäß den Vorgaben. Vertrauliche Informationen sind entsprechend den Datenschutzrichtlinien zu behandeln. Jeder Verdacht auf einen Sicherheitsvorfall – beispielsweise ein verlorenes Diensthandy, eine verdächtige E-Mail oder ein möglicher Virenbefall – muss ohne Verzögerung dem IT-Support gemeldet werden.\n\nBei technischen Problemen, Fragen zur Softwareinstallation oder zur Meldung von Sicherheitsbedenken wenden Sie sich bitte an unseren IT-Support (Raum E.12, Durchwahl -45, E-Mail: it-support@firma.de).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende dürfen für die Arbeit notwendige Software selbstständig auf ihrem Firmenrechner installieren.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was ist bei einem Verdacht auf ein Sicherheitsproblem zu tun?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Man sollte versuchen, das Problem zuerst selbst zu lösen."
+                },
+                {
+                    "key": "b",
+                    "text": "Der Vorfall muss unverzüglich dem IT-Support gemeldet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "Eine kurze E-Mail an die Teamleitung ist ausreichend."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

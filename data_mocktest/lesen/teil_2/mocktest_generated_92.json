@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung und Arbeitsunfähigkeit\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie, Ihre direkte Führungskraft unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn, darüber zu informieren. Diese Erstmeldung kann telefonisch oder per E-Mail erfolgen und sollte kurz den Grund Ihrer Abwesenheit nennen.\n\nSpätestens am dritten Kalendertag Ihrer Abwesenheit sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (Attest) vorzulegen. Diese Bescheinigung ist digital über das Mitarbeiterportal hochzuladen oder alternativ als Scan per E-Mail direkt an die Personalabteilung (personal@firma.xy) zu senden. Bitte bewahren Sie das Original für eventuelle Rückfragen auf.\n\nSollte Ihre Arbeitsunfähigkeit länger andauern als auf dem ursprünglichen Attest angegeben, ist eine Folgebescheinigung notwendig. Diese muss ebenfalls spätestens am ersten Tag nach Ablauf des vorherigen Attests bei der Personalabteilung eingereicht werden. Nur bei lückenlosem Nachweis der Arbeitsunfähigkeit besteht Anspruch auf Lohnfortzahlung im Krankheitsfall gemäß den gesetzlichen und tariflichen Bestimmungen.\n\nBei weiteren Fragen zum Verfahren der Krankmeldung oder zur Lohnfortzahlung steht Ihnen die Personalabteilung gerne zur Verfügung. Beachten Sie bitte auch die detaillierteren Informationen in unserer Betriebsvereinbarung „Gesundheitsmanagement“.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die telefonische Krankmeldung bei der Führungskraft reicht für die gesamte Dauer der Abwesenheit aus.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Am ersten Tag der Arbeitsunfähigkeit muss man...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "seine/n Vorgesetzte/n unverzüglich informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "persönlich in der Personalabteilung erscheinen."
+                },
+                {
+                    "key": "c",
+                    "text": "das ärztliche Attest bis Mittag einreichen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

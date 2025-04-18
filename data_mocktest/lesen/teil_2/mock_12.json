@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Umgang mit Diversität\n\nBei uns arbeiten rund 250 Personen aus über 20 verschiedenen Ländern – und darauf sind wir stolz! Unser Motto ist: „Je vielfältiger desto besser!“ Wir sind bemüht, jede einzelne Person mit ihren besonderen Bedürfnissen wahrzunehmen und zu unterstützen.\n\nHierzu ein paar Beispiele: Sie können an religiösen Feiertagen, die in Deutschland keine gesetzlichen Feiertage sind, freibekommen, wenn Sie die Arbeitszeit nachholen. Stellen Sie dafür bitte mindestens 2 Wochen vorher schriftlich einen Antrag bei Ihrem oder Ihrer direkten Vorgesetzten.\n\nIm zweiten Stock unserer Firma steht Ihnen ein interreligiöser Andachtsraum zur Verfügung, den Sie in Arbeitspausen nutzen können.\n\nFür Personen, die Deutsch nicht als Muttersprache sprechen, finanzieren wir Deutschkurse sowie Kommunikations- und Schreibtrainings.\n\nMit Personen, die sich um kleine Kinder oder pflegebedürftige Angehörige kümmern, suchen wir gemeinsam nach flexiblen Arbeitszeitmodellen.\n\nFalls Sie besondere körperliche Herausforderungen haben, unterstützen wir Sie individuell. Besprechen Sie bitte alles zunächst mit Ihrem oder Ihrer direkten Vorgesetzten.\n\nUnd wenn Sie der Meinung sind, dass Sie – aus welchen Gründen auch immer – benachteiligt werden, kontaktieren Sie bitte unsere Gleichbehandlungsbeauftragte Sophia Gebert.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Die Firma berücksichtigt die verschiedenen Bedürfnisse der Mitarbeiter.",
+        "loesung": "richtig"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Wenn man sich diskriminiert fühlt, soll man",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "an einem Kommunikationstraining teilnehmen."
+          },
+          {
+            "key": "b",
+            "text": "sich an Frau Gebert wenden."
+          },
+          {
+            "key": "c",
+            "text": "sich schriftlich bei der Teamleitung beschweren."
+          }
+        ],
+        "loesung": "b"
+      }
+    ]
+}
+  

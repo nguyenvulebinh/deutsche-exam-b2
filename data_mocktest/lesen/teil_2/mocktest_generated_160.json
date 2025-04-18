@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur internen Kommunikation\n\nFür eine effiziente und klare Kommunikation innerhalb unseres Unternehmens sowie mit externen Partnern stehen Ihnen verschiedene Werkzeuge zur Verfügung. Es ist wichtig, das jeweils passende Mittel für den Zweck zu wählen. Die Hauptwerkzeuge sind das Intranet, die offizielle Firmen-E-Mail und der interne Instant Messenger.\n\nDas Intranet dient als zentrale Informationsquelle. Es ist unbedingt erforderlich, dass Sie sich täglich über aktuelle Unternehmensnachrichten, wichtige Ankündigungen und Termine informieren. Hier finden Sie außerdem alle relevanten Unternehmensrichtlinien, notwendige Formulare sowie den internen Veranstaltungskalender. Die Kenntnisnahme der dort veröffentlichten Informationen liegt in Ihrer Eigenverantwortung.\n\nDie Firmen-E-Mail ist für die formelle und offizielle Kommunikation vorgesehen, insbesondere im Kontakt mit Kunden, Lieferanten und anderen externen Partnern. Achten Sie bitte darauf, stets die standardisierte Firmensignatur zu verwenden. Für das Versenden von E-Mail-Anhängen, die eine Größe von 10 MB überschreiten, ist vorab eine Genehmigung durch Ihre Teamleitung einzuholen. Auf interne E-Mails wird eine Antwort innerhalb von 24 Stunden erwartet.\n\nDer Instant Messenger ist für schnelle, informelle Absprachen und kurze Fragen innerhalb Ihres Teams oder Projekts gedacht. Bitte beachten Sie, dass über diesen Kanal keine sensiblen Unternehmensdaten oder offiziellen Dokumente ausgetauscht werden dürfen. In Gruppenchats bitten wir um themenbezogene Beiträge und darum, unnötige Nachrichten zu vermeiden, um die Übersichtlichkeit zu wahren.\n\nBei technischen Schwierigkeiten mit einem der genannten Systeme wenden Sie sich bitte an unseren IT-Helpdesk, den Sie über die Durchwahl -555 oder per E-Mail an it-support@firma.de erreichen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Es wird erwartet, dass Mitarbeiter täglich das Intranet prüfen und für den offiziellen Kontakt nach außen die Firmen-E-Mail nutzen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Für das Versenden sehr großer Dateien per E-Mail...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist vorab eine Erlaubnis einzuholen."
+                },
+                {
+                    "key": "b",
+                    "text": "sollte man den Instant Messenger verwenden."
+                },
+                {
+                    "key": "c",
+                    "text": "gibt es keine besonderen Beschränkungen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Verhalten bei Krankheit\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, sind Sie verpflichtet, das Unternehmen unverzüglich darüber zu informieren. Diese Information muss noch vor dem regulären Arbeitsbeginn erfolgen. Bitte kontaktieren Sie hierfür sowohl Ihre direkte Vorgesetzte bzw. Ihren direkten Vorgesetzten – vorzugsweise telefonisch – als auch die Personalabteilung, welche Sie per E-Mail erreichen können. Teilen Sie bei dieser ersten Meldung bitte auch die voraussichtliche Dauer Ihrer Abwesenheit mit.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), oft auch als „ärztliches Attest“ oder „Krankschreibung“ bezeichnet, ist dem Unternehmen in der Regel ab dem dritten Kalendertag Ihrer krankheitsbedingten Abwesenheit vorzulegen. Beachten Sie jedoch, dass Ihre Vorgesetzte oder Ihr Vorgesetzter berechtigt ist, die Vorlage der AU auch schon früher zu verlangen. Es ist wichtig, dass die AU spätestens am darauffolgenden Arbeitstag nach der Ausstellung bei der Personalabteilung einzureichen ist. Die Übermittlung kann im Original oder als Scan per E-Mail erfolgen; das Original bewahren Sie bitte für eventuelle Rückfragen auf.\n\nWährend Ihrer Krankschreibung steht Ihre Genesung im Vordergrund. Bitte unterlassen Sie jegliche Tätigkeiten, die Ihre Genesung beeinträchtigen oder die mit dem Grund Ihrer Arbeitsunfähigkeit unvereinbar sind. Obwohl Sie grundsätzlich nicht zur Arbeit verpflichtet sind, bitten wir Sie um gelegentliche Erreichbarkeit für dringende Rückfragen, die Ihre Vertretung nicht klären kann. Eine aktive Mitarbeit wird jedoch nicht erwartet. Verstöße gegen diese Grundsätze können arbeitsrechtliche Konsequenzen nach sich ziehen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Wenn Mitarbeiter krank sind, müssen sie dies sowohl der Leitung als auch der Personalabteilung vor Arbeitsbeginn mitteilen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die ärztliche Arbeitsunfähigkeitsbescheinigung (AU)...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "soll spätestens am Folgetag ihrer Ausstellung bei der Personalabteilung sein."
+                },
+                {
+                    "key": "b",
+                    "text": "darf ausschließlich im Original per Post eingereicht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist bereits bei der ersten telefonischen Krankmeldung vorzulegen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

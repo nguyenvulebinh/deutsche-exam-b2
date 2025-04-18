@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Ärztliches Attest\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es essenziell, dass Sie das Unternehmen korrekt und rechtzeitig informieren. Bitte melden Sie sich im Krankheitsfall unverzüglich, spätestens jedoch bis 09:00 Uhr am ersten Tag Ihrer Abwesenheit, **telefonisch bei Ihrer/Ihrem direkten Vorgesetzten**. Zusätzlich ist eine **formlose E-Mail an die Personalabteilung** (personal@firma.de) erforderlich, in der Sie kurz Ihre Abwesenheit mitteilen.\n\nDauert Ihre Arbeitsunfähigkeit länger als **zwei** Kalendertage an, so sind Sie verpflichtet, spätestens am **darauffolgenden Arbeitstag** (also in der Regel am dritten Krankheitstag) eine ärztliche Bescheinigung über die Arbeitsunfähigkeit sowie deren voraussichtliche Dauer (Arbeitsunfähigkeitsbescheinigung, kurz AU) vorzulegen. Diese Frist muss unbedingt eingehalten werden.\n\nDie Übermittlung der AU an die Personalabteilung sollte primär **digital per E-Mail** an personal@firma.de erfolgen. Senden Sie hierzu bitte einen Scan oder ein gut lesbares Foto der Bescheinigung. Das Original der AU ist nach Ihrer Genesung sorgfältig aufzubewahren und nur auf explizite Aufforderung durch die Personalabteilung nachträglich einzureichen.\n\nSollte Ihre Erkrankung über den auf der AU angegebenen Zeitraum hinaus andauern, ist eine Folgebescheinigung erforderlich. Diese muss ebenfalls unverzüglich, spätestens am ersten Arbeitstag nach Ablauf der vorherigen AU, bei der Personalabteilung eingereicht werden. Die rechtzeitige und vollständige Einreichung der Nachweise ist eine Voraussetzung für die Lohnfortzahlung im Krankheitsfall.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Das ärztliche Attest ist erst ab dem vierten Krankheitstag zwingend erforderlich.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung (AU)...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss spätestens am dritten Tag der Erkrankung bei der Firma vorliegen."
+                },
+                {
+                    "key": "b",
+                    "text": "wird erst benötigt, wenn man länger als eine Woche krank ist."
+                },
+                {
+                    "key": "c",
+                    "text": "darf ausschließlich im Original per Post eingereicht werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

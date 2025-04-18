@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie, dies unverzüglich am ersten Tag der Abwesenheit noch vor dem regulären Arbeitsbeginn zu melden. Es ist wichtig, dass Sie sowohl Ihre direkte Teamleitung als auch die Personalabteilung informieren. Die Meldung kann telefonisch oder per E-Mail erfolgen und sollte die voraussichtliche Dauer Ihrer Abwesenheit beinhalten, sofern diese bereits absehbar ist.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) ist erforderlich, wenn Ihre Krankheit länger als drei Kalendertage andauert. Diese Bescheinigung muss der Personalabteilung spätestens am darauffolgenden Arbeitstag, also in der Regel am vierten Tag Ihrer Arbeitsunfähigkeit, vorliegen. Auch wenn Ihr Arzt die AU heutzutage elektronisch an Ihre Krankenkasse übermittelt (eAU-Verfahren), bitten wir Sie dringend, uns zusätzlich eine Kopie (Scan oder Foto der Bescheinigung) per E-Mail an personal@firma.de zukommen zu lassen. Dies beschleunigt die interne Bearbeitung.\n\nErkranken Sie während Ihres genehmigten Erholungsurlaubs, so werden Ihnen die Krankheitstage nicht auf Ihren Urlaubsanspruch angerechnet, vorausgesetzt, Sie melden sich ebenfalls unverzüglich krank und legen eine ärztliche Bescheinigung ab dem ersten Tag der Erkrankung vor. Die Lohnfortzahlung im Krankheitsfall erfolgt gemäß den gesetzlichen Bestimmungen.\n\nEine gesonderte Gesundmeldung bei Wiederaufnahme Ihrer Tätigkeit ist nicht erforderlich, es sei denn, Sie kehren früher zur Arbeit zurück, als auf Ihrer AU angegeben. In diesem Fall informieren Sie bitte kurz Ihre Teamleitung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Bei einer Krankmeldung müssen sowohl die eigene Teamleitung als auch die Personalabteilung informiert werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist vorzulegen, wenn man länger als drei Tage krank ist."
+                },
+                {
+                    "key": "b",
+                    "text": "muss immer direkt am ersten Krankheitstag eingereicht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "braucht man nur bei Krankheit während des Urlaubs."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

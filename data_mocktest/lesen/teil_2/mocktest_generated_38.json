@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Ordnung und Sauberkeit am Arbeitsplatz\n\nEin sauberes und ordentliches Arbeitsumfeld trägt zum Wohlbefinden und zur Produktivität aller bei. Daher bitten wir Sie, die folgenden Regeln zu beachten. Grundsätzlich gilt, dass jede Mitarbeiterin und jeder Mitarbeiter für die Sauberkeit des eigenen Arbeitsplatzes sowie der gemeinsam genutzten Bereiche mitverantwortlich ist. An Ihrem persönlichen Schreibtisch gilt die „Clean Desk Policy“: Bitte räumen Sie am Ende Ihres Arbeitstages alle Unterlagen und persönlichen Gegenstände weg, insbesondere wenn Sie einen Arbeitsplatz im Desk-Sharing-Bereich nutzen. Verschlossene Rollcontainer stehen dafür zur Verfügung.\n\nFür die Gemeinschaftsküche gelten besondere Regeln. Persönliche Lebensmittel, die im Kühlschrank aufbewahrt werden, müssen klar mit Ihrem Namen und dem Datum versehen sein, um Verwechslungen und die Lagerung abgelaufener Produkte zu vermeiden. Benutztes Geschirr ist unverzüglich in den bereitstehenden Geschirrspüler einzuräumen oder – falls dieser gerade läuft – von Hand zu spülen und wegzuräumen. Bitte hinterlassen Sie Arbeitsflächen und die Mikrowelle nach Gebrauch stets sauber. Sollten Geräte wie der Kaffeevollautomat nicht funktionieren, melden Sie dies bitte umgehend dem Facility Management.\n\nDie korrekte Mülltrennung ist ein wichtiger Beitrag zum Umweltschutz und hilft, Entsorgungskosten zu sparen. In den Büros und Küchen finden Sie separate Behälter für Papier, Verpackungen (Gelber Sack), Restmüll und teilweise auch für Biomüll. Achten Sie bitte darauf, Abfälle korrekt zuzuordnen. Informationen zur richtigen Trennung finden Sie auf den Aushängen über den Behältern.\n\nObwohl eine externe Reinigungsfirma regelmäßig für die Grundreinigung der Räumlichkeiten sorgt, ist die tägliche Ordnung und Sauberkeit eine gemeinsame Aufgabe. Denken Sie bitte auch daran, dass sensible oder vertrauliche Dokumente niemals offen auf dem Schreibtisch liegen bleiben dürfen. Nutzen Sie dafür bitte die abschließbaren Schränke oder den Aktenvernichter.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende müssen sowohl ihren eigenen Schreibtisch abends aufräumen als auch benutztes Geschirr in der Küche selbst spülen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Persönliche Lebensmittel im Kühlschrank...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dürfen maximal einen Tag gelagert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "müssen nach Gebrauch sofort entsorgt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "sind mit Namen und Datum zu kennzeichnen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

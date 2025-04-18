@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege\n\nEine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um den Informationsfluss optimal zu gestalten, nutzen wir verschiedene Kanäle, deren jeweilige Funktion Sie kennen sollten.\n\nFür schnelle Fragen, kurze Abstimmungen im Team oder informelle Nachrichten steht Ihnen unser Firmen-Chat zur Verfügung. Es wird erwartet, dass Nachrichten hier während der üblichen Arbeitszeiten zeitnah gelesen und beantwortet werden. Bitte nutzen Sie den Chat jedoch nicht für komplexe Themen, die einer ausführlichen Diskussion bedürfen, oder für offizielle Anweisungen und Genehmigungsprozesse. Halten Sie Ihre Nachrichten bitte kurz und präzise.\n\nDie E-Mail bleibt das bevorzugte Medium für die formelle Kommunikation, insbesondere mit externen Partnern, aber auch intern für Anfragen, die eine Dokumentation erfordern oder umfangreichere Anhänge beinhalten. Antworten auf E-Mails sollten in der Regel innerhalb von 24 Stunden an Arbeitstagen erfolgen. Gehen Sie mit der CC-Funktion („in Kopie setzen“) überlegt um und nutzen Sie diese nur, wenn die Information für die Empfänger wirklich relevant ist.\n\nAlle offiziellen Unternehmensnachrichten, verbindliche Richtlinien, Prozessbeschreibungen sowie wichtige Vorlagen und Formulare werden zentral im Intranet veröffentlicht. Es ist wichtig, dass Sie sich regelmäßig auf der Startseite des Intranets über Neuigkeiten informieren. Das Intranet dient als unsere primäre Wissensdatenbank.\n\nRegelmäßige Teambesprechungen dienen dem direkten Austausch, der Diskussion komplexerer Sachverhalte und der gemeinsamen Planung. Informationen zu anstehenden Terminen und gegebenenfalls erforderliche Vorbereitungen werden üblicherweise per E-Mail oder über einen Kalendereintrag kommuniziert.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Während der Chat für schnelle Absprachen gedacht ist, sollten formellere Angelegenheiten und Dokumentationen per E-Mail erfolgen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Offizielle Unternehmensrichtlinien und wichtige Vorlagen finden Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zentral gebündelt auf der Intranetseite."
+                },
+                {
+                    "key": "b",
+                    "text": "als Anhang in E-Mails der Teamleitung."
+                },
+                {
+                    "key": "c",
+                    "text": "in den entsprechenden Kanälen des Firmen-Chats."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

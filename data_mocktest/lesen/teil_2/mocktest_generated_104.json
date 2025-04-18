@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Sicherheit und Datenschutz am Arbeitsplatz\n\nWillkommen in unserem Unternehmen! Um die Sicherheit unserer Daten und Systeme sowie Ihrer persönlichen Informationen zu gewährleisten, bitten wir Sie, die folgenden grundlegenden IT-Sicherheitsrichtlinien zu beachten. Ihre Zugangsdaten, insbesondere Ihr Passwort, sind streng vertraulich zu behandeln und dürfen unter keinen Umständen an Dritte weitergegeben werden. Wählen Sie ein komplexes Passwort gemäß den bei der Einrichtung genannten Kriterien.\n\nDie Ihnen zur Verfügung gestellte Hard- und Software ist Eigentum des Unternehmens und primär für dienstliche Zwecke vorgesehen. Die Installation von privater Software auf Firmengeräten ist generell untersagt. Ebenso ist die Nutzung von nicht genehmigten externen Speichermedien (z.B. private USB-Sticks) nur nach ausdrücklicher Freigabe durch die IT-Abteilung erlaubt.\n\nSeien Sie bei der Nutzung von E-Mails besonders vorsichtig. Öffnen Sie keine Anhänge oder Links von unbekannten Absendern oder bei unerwarteten Nachrichten. Melden Sie verdächtige E-Mails (Phishing-Versuche etc.) umgehend der IT-Abteilung und löschen Sie diese anschließend. Ihre Firmen-E-Mail-Adresse soll ausschließlich für geschäftliche Korrespondenz verwendet werden. Eine begrenzte private Nutzung des Internets während der Pausen ist zwar geduldet, jedoch sind illegale Downloads oder der Zugriff auf unangemessene Webseiten strikt verboten.\n\nDer Umgang mit sensiblen Unternehmens- und Kundendaten erfordert höchste Sorgfalt. Achten Sie darauf, vertrauliche Informationen nicht unbefugt weiterzugeben oder unsicher zu speichern. Verlassen Sie Ihren Arbeitsplatz auch nur für kurze Zeit, muss der Bildschirm unbedingt gesperrt werden (Tastenkombination: Windows + L). Sollten Sie Sicherheitsbedenken haben oder einen Vorfall bemerken, informieren Sie bitte unverzüglich die IT-Abteilung (Durchwahl -450).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Installation privater Software auf Firmengeräten ist unter bestimmten Bedingungen erlaubt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was ist die korrekte Vorgehensweise bei Erhalt einer verdächtigen E-Mail?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "den Anhang öffnen, um den Inhalt zu prüfen."
+                },
+                {
+                    "key": "b",
+                    "text": "sie an Kollegen zur Überprüfung weiterleiten."
+                },
+                {
+                    "key": "c",
+                    "text": "sie sofort der IT-Abteilung melden und danach löschen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

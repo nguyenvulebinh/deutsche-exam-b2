@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Gesundheitsvorsorge\n\nIhre Gesundheit liegt uns am Herzen! Deshalb bieten wir verschiedene Kurse an. Vormittags können Sie einmal pro Woche an der Rückengymnastik teilnehmen. Es gibt eine Anfänger- und eine Fortgeschrittenengruppe. Kontaktieren Sie unseren Trainer, Herrn Mattus, und vereinbaren Sie eine Probestunde. Danach wird er Sie in die passende Gruppe einteilen.\n\nDes Weiteren haben Sie die Möglichkeit, an einem Achtsamkeitstraining teilzunehmen. Da die Kursinhalte hier aufeinander aufbauen, gibt es feste Gruppen, und es ist eine Anmeldung erforderlich. Die aktuelle Ansprechpartnerin ist Frau Gadoni. Beide Angebote können Sie in Ihrer Arbeitszeit wahrnehmen!\n\nAußerhalb der Arbeitszeit bieten wir mehrere offene Gruppen an.\n\nEinmal im Monat bekommen Sie in der Kantine Ernährungstipps mit aktuellen Rezepten. Außerdem existieren eine Laufgruppe und eine Radwandergruppe. Details zu Terminen und Treffpunkten finden Sie im Intranet. Aus versicherungstechnischen Gründen sind diese Angebote Angehörigen unserer Firma vorbehalten.\n\nSie können gerne auch eine neue Gruppe gründen. Kontaktieren Sie dazu Herrn Siebert.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Die Rückenkurse finden in festen Gruppen statt.",
+        "loesung": "falsch"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Zu den offenen Angeboten",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "bekommt man aktuelle Informationen bei Frau Gadoni."
+          },
+          {
+            "key": "b",
+            "text": "kann man auch Freunde oder Familienmitglieder mitbringen."
+          },
+          {
+            "key": "c",
+            "text": "kann man auch selbst etwas beitragen."
+          }
+        ],
+        "loesung": "c"
+      }
+    ]
+}
+  

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung\n\nSollten Sie aus gesundheitlichen Gründen nicht zur Arbeit erscheinen können, ist es von größter Wichtigkeit, das Unternehmen umgehend und korrekt darüber zu informieren. Eine verspätete oder fehlende Krankmeldung kann arbeitsrechtliche Konsequenzen haben. Grundsätzlich müssen immer zwei Stellen informiert werden: Ihre direkte Führungskraft und die Personalabteilung.\n\nIhre direkte Führungskraft müssen Sie unverzüglich, das heißt vor dem regulären Arbeitsbeginn, spätestens jedoch bis 9:00 Uhr morgens, über Ihre Abwesenheit in Kenntnis setzen. Dies sollte vorzugsweise telefonisch erfolgen, damit eventuelle dringende Fragen zur Arbeitsorganisation direkt geklärt werden können. Teilen Sie dabei bitte auch die voraussichtliche Dauer Ihrer Abwesenheit mit, sofern diese bereits absehbar ist.\n\nZusätzlich zur Information an Ihre Führungskraft ist es zwingend erforderlich, die Personalabteilung ebenfalls bis spätestens 9:00 Uhr per E-Mail an krankmeldung@firma.de über Ihr Fehlen zu informieren. Eine reine Information an nur eine der beiden Stellen ist nicht ausreichend.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) ist dem Unternehmen spätestens ab dem dritten Kalendertag Ihrer krankheitsbedingten Abwesenheit vorzulegen. Bitte beachten Sie jedoch, dass sich das Unternehmen das Recht vorbehält, die Vorlage der AU in Einzelfällen auch schon ab dem ersten Tag der Erkrankung zu verlangen. Die Übermittlung der AU erfolgt idealerweise digital über unser Mitarbeiterportal.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen Arbeitsunfähigkeitsbescheinigung angegeben, informieren Sie bitte erneut Ihre Führungskraft und die Personalabteilung. Eine Folgebescheinigung muss dem Unternehmen ebenfalls rechtzeitig, das heißt vor Ablauf der vorherigen Bescheinigung, vorgelegt werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für die Krankmeldung sind sowohl der Vorgesetzte als auch die Personalabteilung zu informieren, wobei unterschiedliche Kommunikationswege genutzt werden müssen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss spätestens am dritten Tag vorliegen, kann aber auch früher verlangt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird ausschließlich digital über das Mitarbeiterportal eingereicht."
+                },
+                {
+                    "key": "c",
+                    "text": "ist nur bei Krankheiten von mehr als drei Kalendertagen nötig."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

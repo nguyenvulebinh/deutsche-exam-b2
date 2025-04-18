@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Betriebsarzt\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, informieren Sie bitte unverzüglich, möglichst vor Arbeitsbeginn, Ihre direkte Teamleitung. Die Krankmeldung sollte idealerweise telefonisch erfolgen, damit Ihre Aufgaben kurzfristig umverteilt werden können. Sollten Sie Ihre Teamleitung telefonisch nicht erreichen, ist eine Information per E-Mail ebenfalls möglich. Bitte geben Sie bei der Meldung auch die voraussichtliche Dauer Ihrer Abwesenheit an, sofern diese bereits absehbar ist.\n\nBei einer Arbeitsunfähigkeit, die länger als zwei Kalendertage andauert, sind Sie verpflichtet, spätestens am darauffolgenden Arbeitstag – also in der Regel am dritten Kalendertag der Krankheit – eine ärztliche Bescheinigung über die Arbeitsunfähigkeit (ärztliches Attest) bei der Personalabteilung vorzulegen. Achten Sie bitte darauf, dass das Originaldokument eingereicht wird; eine digitale Kopie ist zunächst nicht ausreichend.\n\nUnser Unternehmen verfügt über einen Betriebsarzt, Dr. Meier, dessen Praxis sich extern befindet. Seine Hauptaufgabe liegt im Bereich der Prävention und der arbeitsmedizinischen Vorsorge. Er berät das Unternehmen sowie die Mitarbeitenden in Fragen des Gesundheitsschutzes am Arbeitsplatz und führt entsprechende Vorsorgeuntersuchungen durch. Wichtig ist zu verstehen, dass der Betriebsarzt nicht Ihren Hausarzt ersetzt. Für die allgemeine medizinische Behandlung und die Ausstellung von Arbeitsunfähigkeitsbescheinigungen bei akuter Krankheit ist weiterhin Ihr persönlicher Hausarzt zuständig.\n\nAlle Gespräche und Untersuchungen beim Betriebsarzt unterliegen selbstverständlich der ärztlichen Schweigepflicht. Informationen zu spezifischen Gesundheitsangeboten unseres Unternehmens, wie z.B. Grippeschutzimpfungen oder Ergonomieberatungen, die in Koordination mit Dr. Meier angeboten werden, finden Sie regelmäßig aktualisiert im Intranet oder erhalten Sie auf Nachfrage in der Personalabteilung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Bei einer Krankmeldung muss man sowohl die Teamleitung sofort kontaktieren als auch spätestens am dritten Tag ein Attest an die Personalabteilung senden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Der Betriebsarzt ist zuständig für...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Beratungen zur Gesundheit am Arbeitsplatz."
+                },
+                {
+                    "key": "b",
+                    "text": "die Behandlung akuter Krankheiten der Mitarbeiter."
+                },
+                {
+                    "key": "c",
+                    "text": "die Entgegennahme der Krankmeldungen per Telefon."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

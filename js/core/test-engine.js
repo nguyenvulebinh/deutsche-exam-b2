@@ -175,7 +175,8 @@ class TestEngine {
             // Filter out any null results (failed fetches)
             this.allTestData = testsData.filter(test => test !== null);
             
-            console.log(`Loaded ${this.allTestData.length} tests successfully`);
+            // Log a summary of loaded tests
+            console.log(`📚 Loaded ${this.allTestData.length}/${testFileList.length} tests for ${this.config.testType}`);
             
             // If no tests were loaded successfully, use the default test
             if (this.allTestData.length === 0) {
@@ -204,6 +205,9 @@ class TestEngine {
             if (!this.validateTestData(data)) {
                 throw new Error(`Invalid test data in ${filename}`);
             }
+            
+            // Store the source filename in the test data for later reference
+            data._sourceFilename = filename;
             
             return data;
         } catch (error) {
@@ -254,6 +258,10 @@ class TestEngine {
     loadDefaultTest() {
         if (this.config.defaultTestData) {
             this.currentTest = this.config.defaultTestData;
+            
+            // Set a filename identifier for the default test
+            this.currentTest._sourceFilename = 'default_test_data';
+            
             this.displayTest(this.currentTest);
             
             Utils.hideElement(this.elements.loading);
@@ -265,26 +273,28 @@ class TestEngine {
     }
     
     /**
-     * Display the test
-     * To be overridden by subclasses
+     * Display a test
+     * This method should be overridden by subclasses to handle test-specific display
      * @param {Object} test - Test data to display
      */
     displayTest(test) {
-        // To be implemented by subclasses
-        if (this.elements.instructions) {
-            this.elements.instructions.textContent = test.instructions || '';
+        // Reset the results display
+        Utils.hideElement(this.elements.results);
+        Utils.showElement(this.elements.finishButton);
+        Utils.hideElement(this.elements.newTestButton);
+        
+        // Clear the score display
+        if (this.elements.score) {
+            this.elements.score.innerHTML = '';
         }
         
-        // Reset UI
-        if (this.elements.results) {
-            Utils.hideElement(this.elements.results);
-        }
-        if (this.elements.finishButton) {
-            Utils.showElement(this.elements.finishButton);
-            this.elements.finishButton.disabled = false;
-        }
-        if (this.elements.newTestButton) {
-            Utils.hideElement(this.elements.newTestButton);
+        // Store a reference to the current test
+        this.currentTest = test;
+        
+        // Log which test is being displayed - more detailed
+        console.log(`▶️ DISPLAYING TEST: ${test.thema || test.title || 'Unknown test'}`);
+        if (test._sourceFilename) {
+            console.log(`📄 Task file: ${test._sourceFilename}`);
         }
         
         // Reset user answers

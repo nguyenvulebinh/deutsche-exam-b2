@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Sicherheit am Arbeitsplatz\n\nDie Sicherheit unserer IT-Systeme und der Schutz sensibler Unternehmens- und Kundendaten sind für den Erfolg unserer Firma unerlässlich. Jeder Mitarbeiter und jede Mitarbeiterin trägt hierzu eine wichtige Verantwortung. Bitte machen Sie sich mit den folgenden grundlegenden Richtlinien vertraut.\n\nIhr Passwort ist der Schlüssel zu wichtigen Systemen. Es muss komplex sein (mindestens 12 Zeichen, Groß- und Kleinbuchstaben, Zahlen, Sonderzeichen) und alle 90 Tage geändert werden. Geben Sie Ihr Passwort unter keinen Umständen an Dritte – auch nicht an Kolleginnen oder Kollegen – weiter und notieren Sie es niemals. Bei Verdacht auf Kompromittierung ist das Passwort sofort zu ändern und die IT-Abteilung zu informieren.\n\nBesondere Vorsicht ist bei E-Mails geboten. Öffnen Sie keine Anhänge oder Links von unbekannten Absendern oder bei unerwarteten Nachrichten. Sogenannte Phishing-Mails versuchen oft, Zugangsdaten zu stehlen. Verdächtige E-Mails sollten unverzüglich der IT-Abteilung gemeldet werden. Die private Nutzung des Firmen-E-Mail-Accounts sowie des Internets ist nur in begründeten Ausnahmefällen und nach Rücksprache mit Ihrem Vorgesetzten gestattet.\n\nDie Installation von Software auf Firmenrechnern ist grundsätzlich nur durch die IT-Abteilung erlaubt; die eigenmächtige Installation von Programmen ist strengstens untersagt. Externe Datenträger wie USB-Sticks dürfen nur verwendet werden, wenn sie von der IT-Abteilung geprüft und freigegeben wurden. Verlassen Sie Ihren Arbeitsplatz auch nur kurz, ist der Bildschirm unbedingt zu sperren. Der Verlust oder Diebstahl von Firmengeräten (Laptop, Smartphone etc.) muss unverzüglich der IT-Abteilung gemeldet werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "In Ausnahmefällen, z. B. bei Urlaubsvertretung, ist die Weitergabe des eigenen Passworts an Kollegen erlaubt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Mitarbeiter eine E-Mail für verdächtig halten,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollen sie diese umgehend an die IT-Abteilung weiterleiten oder melden."
+                },
+                {
+                    "key": "b",
+                    "text": "müssen sie diese sofort löschen und den Absender blockieren."
+                },
+                {
+                    "key": "c",
+                    "text": "dürfen sie auf keinen Fall auf Links klicken, aber Anhänge prüfen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

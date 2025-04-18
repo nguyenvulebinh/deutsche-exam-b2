@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikation und Informationsfluss\n\nEin effizienter Informationsfluss ist entscheidend für unsere Zusammenarbeit. Wir nutzen hauptsächlich drei Kanäle für die interne Kommunikation: das Intranet, E-Mails und unseren monatlichen Unternehmens-Newsletter. Es ist wichtig, dass Sie diese Instrumente gemäß den Unternehmensrichtlinien verwenden.\n\nDas Intranet ist unsere zentrale Plattform für alle offiziellen Ankündigungen, Unternehmensrichtlinien, Formulare und den aktuellen Unternehmenskalender mit wichtigen Terminen. Es wird erwartet, dass Sie sich mindestens einmal täglich im Intranet anmelden und die Neuigkeiten prüfen. Ihr persönlicher Zugang wird Ihnen am ersten Arbeitstag eingerichtet. Für dringende, aber nicht firmenweite Informationen oder schnelle teaminterne Absprachen ist das Intranet jedoch weniger geeignet.\n\nE-Mails dienen der direkten Kommunikation, insbesondere für projektbezogene Absprachen oder Anfragen, die eine dokumentierte Antwort erfordern. Achten Sie stets auf einen professionellen Ton und eine klare Betreffzeile. Wir bitten um eine Beantwortung von internen E-Mails innerhalb von 24 Stunden während der Arbeitstage. Vermeiden Sie es jedoch, E-Mails für allgemeine Fragen zu nutzen, deren Antworten leicht im Intranet zu finden sind, oder für kurze, informelle Mitteilungen, für die unser internes Chat-System vorgesehen ist. Die CC-Funktion sollte sparsam und nur bei wirklicher Notwendigkeit eingesetzt werden.\n\nDer monatliche Newsletter \"Intern aktuell\" fasst wichtige Projekt-Updates, Personalnachrichten (z.B. neue Kollegen, Jubiläen) und Hinweise auf bevorstehende Firmenevents zusammen. Sie werden automatisch in den Verteiler aufgenommen. Wenn Sie einen Beitrag für den Newsletter vorschlagen möchten, wenden Sie sich bitte bis zum 20. des Vormonats an Frau Meyer aus der Marketingabteilung.\n\nBei technischen Problemen mit dem Intranetzugang oder Ihrem E-Mail-Konto ist ausschließlich der IT-Support (Durchwahl -555 oder it-support@firma.de) zuständig. Fragen zur Newsletter-Redaktion richten Sie bitte direkt an Frau Meyer.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeiter werden automatisch über Neuigkeiten wie Firmenevents oder Personaländerungen per Newsletter informiert.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wann sollten Mitarbeiter laut Text keine E-Mail verwenden?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Wenn sie dringende, firmenweite Informationen weitergeben möchten."
+                },
+                {
+                    "key": "b",
+                    "text": "Wenn sie mit Kollegen aus anderen Abteilungen kommunizieren."
+                },
+                {
+                    "key": "c",
+                    "text": "Wenn es um kurze informelle Absprachen oder leicht findbare Infos geht."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Nutzung der Firmenparkplätze\n\nHerzlich willkommen in unserem Team! Da die Anzahl der Parkplätze auf unserem Firmengelände begrenzt ist, bitten wir Sie, die nachfolgenden Regelungen zur Nutzung der Parkflächen zu beachten, um einen reibungslosen Ablauf für alle zu gewährleisten. Grundsätzlich ist das Parken nur mit einer gültigen Berechtigung gestattet. Eine Garantie auf einen freien Stellplatz besteht auch mit Berechtigung nicht.\n\nFür Mitarbeiterinnen und Mitarbeiter ist der Bereich P1 vorgesehen. Besucher melden sich bitte am Empfang an und erhalten dort eine temporäre Parkerlaubnis für den ausgewiesenen Besucherparkplatz P3. Die Parkplätze direkt am Haupteingang (P2) sind ausschließlich für die Geschäftsleitung reserviert. Um den Bereich P1 nutzen zu dürfen, benötigen Sie einen offiziellen Parkausweis unserer Firma, der gut sichtbar hinter der Windschutzscheibe Ihres Fahrzeugs angebracht werden muss.\n\nDiesen Parkausweis erhalten Sie nach erfolgreichem Abschluss Ihrer Probezeit kostenlos bei der Personalabteilung. Bitte legen Sie bei der Beantragung eine Kopie Ihres Fahrzeugscheins vor. Der Ausweis ist fahrzeuggebunden und nicht übertragbar.\n\nBitte parken Sie Ihr Fahrzeug ausschließlich innerhalb der markierten Parkbuchten und achten Sie darauf, keine Rettungswege, Zufahrten oder andere Fahrzeuge zu blockieren. Für das Laden von Elektrofahrzeugen stehen separate Plätze mit E-Ladestationen zur Verfügung. Diese dürfen nur während des aktiven Ladevorgangs und für maximal vier Stunden genutzt werden. Eine vorherige Registrierung für die Nutzung der Ladesäulen über das Formular im Intranet ist erforderlich.\n\nFür eventuelle Schäden am Fahrzeug während der Parkdauer auf dem Firmengelände übernimmt das Unternehmen keine Haftung; diese liegt beim Fahrzeughalter bzw. dessen Versicherung. Wiederholte oder grobe Verstöße gegen diese Parkordnung können nach einer Verwarnung zum Entzug des Parkausweises führen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter können nach der Probezeit kostenfrei parken, müssen dafür aber ihren Parkausweis im Auto sichtbar machen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Mitarbeiter tun, um einen Parkausweis zu bekommen?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie müssen die Probezeit bestanden und den Fahrzeugschein vorgelegt haben."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie müssen sich am Empfang anmelden und eine Gebühr bezahlen."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie müssen am ersten Arbeitstag eine Kopie ihres Führerscheins abgeben."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

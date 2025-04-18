@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Poolfahrzeuge\n\nFür dienstliche Fahrten, wie beispielsweise Kundenbesuche oder Fahrten zu anderen Unternehmensstandorten, stellt Ihnen unser Unternehmen Poolfahrzeuge zur Verfügung, sofern Sie nicht über einen eigenen Dienstwagen verfügen. Die Buchung dieser Fahrzeuge erfolgt ausschließlich über unser digitales Buchungssystem im Intranet. Dort finden Sie auch eine Übersicht der verfügbaren Modelle und deren Standorte. Aufgrund der hohen Nachfrage empfehlen wir eine frühzeitige Reservierung unter Angabe des genauen Nutzungszeitraums und des Fahrtzwecks.\n\nBitte beachten Sie, dass die Poolfahrzeuge ausschließlich für dienstliche Zwecke bestimmt sind. Eine private Nutzung, auch für kurze Fahrten oder am Wochenende, ist ausdrücklich nicht gestattet. Jedes Fahrzeug ist mit einer Tankkarte ausgestattet, die für die Betankung zu verwenden ist. Achten Sie bitte darauf, den Tankbeleg aufzubewahren und das Fahrzeug mit mindestens einem Viertel vollem Tank zurückzugeben.\n\nWir erwarten von Ihnen, dass Sie das Fahrzeug pfleglich behandeln und nach der Nutzung sauber hinterlassen. Entfernen Sie bitte alle persönlichen Gegenstände und Abfälle vor der Rückgabe. Sollten während Ihrer Nutzung Schäden am Fahrzeug entstehen oder Sie in einen Unfall verwickelt sein, sind Sie verpflichtet, dies unverzüglich dem Fuhrparkmanagement (Durchwahl -55) zu melden. Ein entsprechendes Formular zur Schadenmeldung finden Sie ebenfalls im Intranet.\n\nFür etwaige Bußgelder, die während Ihrer Nutzung des Poolfahrzeugs aufgrund von Verkehrsverstößen (z.B. Geschwindigkeitsüberschreitungen, Falschparken) anfallen, sind Sie als Fahrerin oder Fahrer persönlich verantwortlich und müssen die Kosten selbst tragen. Das Unternehmen leitet entsprechende Bescheide direkt an Sie weiter.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für private Wochenendausflüge können die Poolfahrzeuge nach Absprache gebucht werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was gilt für Mitarbeitende bei der Nutzung eines Poolfahrzeugs?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie müssen die Kosten für selbst verursachte Strafzettel tragen."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie erhalten die Tankkosten gegen Belegvorlage zurückerstattet."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie können Fahrzeuge spontan ohne vorherige Reservierung nutzen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Nutzung von Firmenwagen\n\nBestimmten Mitarbeiterinnen und Mitarbeitern wird je nach Position und Aufgabengebiet ein Firmenwagen zur Verfügung gestellt. Die genauen Kriterien für die Nutzungsberechtigung sind in Ihrer individuellen Vertragsvereinbarung festgelegt. Sollten Sie anspruchsberechtigt sein, erhalten Sie neben dem Fahrzeug auch eine firmeneigene Tankkarte.\n\nDie private Nutzung des Dienstwagens ist grundsätzlich gestattet, unterliegt jedoch steuerlichen Regelungen (geldwerter Vorteil) und muss genau dokumentiert werden. Hierfür ist das Führen eines elektronischen Fahrtenbuchs zwingend vorgeschrieben. In diesem müssen alle Fahrten – sowohl dienstliche als auch private – lückenlos mit Kilometerstand, Datum, Ziel und Zweck erfasst werden. Verstöße gegen diese Dokumentationspflicht können arbeitsrechtliche Konsequenzen haben.\n\nDie beiliegende Tankkarte kann ausschließlich an Tankstellen unserer Vertragspartner (siehe separate Liste) verwendet werden. Die Kosten für den Kraftstoff werden direkt vom Unternehmen übernommen. Für die regelmäßige Wartung und die Einhaltung der Inspektionstermine sind Sie als Nutzerin bzw. Nutzer selbst verantwortlich. Bitte vereinbaren Sie Termine rechtzeitig bei einer unserer Vertragswerkstätten. Kleinere Reparaturen bis zu einem Betrag von 150 € können nach Rücksprache mit der Fuhrparkleitung selbst beauftragt werden; die Originalrechnung ist zur Kostenerstattung einzureichen.\n\nBei einem Unfall oder einer Beschädigung des Fahrzeugs ist unverzüglich die Fuhrparkleitung (Herr Meyer, Durchwahl -45) sowie die Polizei (bei Beteiligung Dritter oder größerem Schaden) zu informieren. Füllen Sie bitte stets das im Handschuhfach befindliche Unfallprotokoll aus. Fahrten ins Ausland sind nur nach vorheriger schriftlicher Genehmigung durch die Fuhrparkleitung erlaubt.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Regelungen betreffen sowohl die Dokumentation der Fahrten als auch die Vorgehensweise bei Schäden am Fahrzeug.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wer ist für die Organisation von Wartungsterminen zuständig?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der/die nutzungsberechtigte Mitarbeiter/-in selbst."
+                },
+                {
+                    "key": "b",
+                    "text": "die zentrale Fuhrparkverwaltung des Unternehmens."
+                },
+                {
+                    "key": "c",
+                    "text": "Herr Meyer von der Fuhrparkleitung."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

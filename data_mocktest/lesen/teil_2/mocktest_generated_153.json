@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Ärztliche Atteste\n\nIm Falle einer Erkrankung ist es von größter Wichtigkeit, das Unternehmen umgehend zu informieren. Bitte benachrichtigen Sie sowohl Ihre(n) direkte(n) Vorgesetzte(n) als auch die Personalabteilung *vor* Ihrem regulären Arbeitsbeginn am *ersten* Tag Ihrer Abwesenheit. Der bevorzugte Weg hierfür ist ein Telefonanruf bei Ihrem Vorgesetzten und zusätzlich eine E-Mail an die Personalabteilung (personal@firma-beispiel.de). Teilen Sie bitte, falls abschätzbar, auch die voraussichtliche Dauer Ihrer Abwesenheit mit.\n\nEine ärztliche Bescheinigung Ihrer Arbeitsunfähigkeit, oft als „Krankschreibung“ oder „Arbeitsunfähigkeitsbescheinigung“ (AU) bezeichnet, ist grundsätzlich ab dem *dritten Kalendertag* Ihrer Erkrankung erforderlich. Das bedeutet, wenn Sie beispielsweise an einem Montag erkranken, muss das Attest spätestens am darauffolgenden Mittwoch in der Firma vorliegen bzw. der Nachweis darüber erbracht sein. Bitte beachten Sie, dass sich das Unternehmen vorbehält, in Einzelfällen die Vorlage einer AU auch schon früher zu verlangen.\n\nDas Original der Arbeitsunfähigkeitsbescheinigung muss innerhalb einer Woche nach Ausstellung an die *Personalabteilung* gesendet werden. Für die kurzfristige Information Ihres Vorgesetzten genügt zunächst eine digitale Kopie (Scan oder Foto per E-Mail). Die Einreichung des Originals bei der Personalabteilung bleibt davon jedoch unberührt und ist für die Aktenführung zwingend notwendig.\n\nSollten Sie während Ihres genehmigten Erholungsurlaubs oder im Ausland erkranken, gelten besondere Regeln. Informieren Sie bitte auch hier unverzüglich Ihren Vorgesetzten und die Personalabteilung. In diesen Fällen ist ein ärztliches Attest bereits *ab dem ersten Tag* der Erkrankung vorzulegen, damit die Urlaubstage gegebenenfalls gutgeschrieben werden können. Bei Erkrankung im Ausland achten Sie bitte darauf, dass das Attest formal korrekt und verständlich ist; gegebenenfalls ist eine beglaubigte Übersetzung erforderlich.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen am ersten Krankheitstag sowohl ihren Vorgesetzten als auch die Personalabteilung informieren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Firma verlangt eine Arbeitsunfähigkeitsbescheinigung normalerweise...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "... sofort am ersten Tag der Krankheit."
+                },
+                {
+                    "key": "b",
+                    "text": "... nach drei Arbeitstagen ohne Unterbrechung."
+                },
+                {
+                    "key": "c",
+                    "text": "... erst am dritten Kalendertag der Abwesenheit."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

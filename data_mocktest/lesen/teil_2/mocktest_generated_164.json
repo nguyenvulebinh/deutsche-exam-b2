@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Melden einer Krankheit\n\nSollten Sie aufgrund einer Krankheit nicht zur Arbeit erscheinen können, informieren Sie bitte unverzüglich Ihren direkten Vorgesetzten oder Ihre direkte Vorgesetzte. Diese Information muss am ersten Tag Ihrer Abwesenheit bis spätestens 9:00 Uhr morgens erfolgen. Die Meldung sollte vorzugsweise telefonisch geschehen. Nur falls Ihr Vorgesetzter bzw. Ihre Vorgesetzte telefonisch nicht erreichbar ist, können Sie alternativ eine E-Mail senden. Geben Sie dabei bitte an, dass Sie krankheitsbedingt fehlen und, falls möglich, wie lange Ihre Abwesenheit voraussichtlich dauern wird.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) ist erforderlich, wenn Ihre Krankheit länger als drei Kalendertage andauert. Das bedeutet, die AU muss dem Unternehmen spätestens am vierten Kalendertag der Krankheit vorliegen. Bitte reichen Sie das Dokument im Original bei der Personalabteilung ein. Digitale Kopien oder Scans per E-Mail können für die offizielle Einreichung leider nicht akzeptiert werden.\n\nSollte Ihre Krankheit über das auf der ursprünglichen AU attestierte Datum hinaus andauern, ist es notwendig, zeitnah eine Folgebescheinigung bei Ihrem Arzt einzuholen. Diese Folgebescheinigung muss ebenfalls umgehend im Original an die Personalabteilung weitergeleitet werden.\n\nBeachten Sie bitte, dass die fristgerechte Krankmeldung und die Vorlage der Arbeitsunfähigkeitsbescheinigung wichtige vertragliche Pflichten sind. Bei Fragen zum korrekten Vorgehen steht Ihnen die Personalabteilung gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine Krankmeldung muss sofort am ersten Tag erfolgen, und eine ärztliche Bescheinigung ist ab dem vierten Krankheitstag nötig.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss sofort am ersten Tag eingereicht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "ist der Personalabteilung am vierten Tag der Erkrankung vorzulegen."
+                },
+                {
+                    "key": "c",
+                    "text": "kann als Scan per E-Mail übermittelt werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

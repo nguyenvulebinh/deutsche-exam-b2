@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es essenziell, das Unternehmen umgehend darüber in Kenntnis zu setzen. Bitte informieren Sie sowohl Ihren direkten Vorgesetzten als auch die Personalabteilung unverzüglich, spätestens jedoch bis zu Ihrem regulären Arbeitsbeginn. Die Benachrichtigung sollte idealerweise telefonisch erfolgen, damit eventuelle dringende Übergaben direkt besprochen werden können.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), umgangssprachlich auch „Krankschreibung“ genannt, muss dem Unternehmen spätestens am vierten Kalendertag der Erkrankung vorliegen. In der Regel wird die AU heutzutage elektronisch durch die Arztpraxis an Ihre Krankenkasse übermittelt (das sogenannte eAU-Verfahren), welche uns dann die relevanten Daten zur Verfügung stellt. Sie sind in diesem Fall lediglich verpflichtet, uns über das Bestehen und die voraussichtliche Dauer der Arbeitsunfähigkeit zu informieren und den Arztbesuch nachzuweisen.\n\nSollte die elektronische Übermittlung durch Ihre Arztpraxis aus technischen oder sonstigen Gründen nicht möglich sein, sind Sie dazu verpflichtet, uns die Originalbescheinigung auf dem Postweg zukommen zu lassen oder persönlich abzugeben. Dauert Ihre Erkrankung länger als auf der ursprünglichen AU angegeben, ist unverzüglich eine Folgebescheinigung unter Beachtung derselben Fristen einzureichen.\n\nSollten Sie während Ihres genehmigten Erholungsurlaubs erkranken, gelten die durch eine AU nachgewiesenen Krankheitstage nicht als Urlaubstage. Hierfür ist es jedoch zwingend erforderlich, dass Sie uns auch aus dem Urlaub heraus sofort über die Erkrankung informieren und die ärztliche Bescheinigung fristgerecht, gegebenenfalls auch aus dem Ausland, vorlegen. Die nicht genommenen Urlaubstage können nach Absprache zu einem späteren Zeitpunkt nachgeholt werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Bei einer Erkrankung müssen neue Mitarbeitende vor Arbeitsbeginn sowohl die Leitung als auch die Personalabteilung benachrichtigen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die ärztliche Bescheinigung über die Arbeitsunfähigkeit...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss spätestens am vierten Krankheitstag vorgelegt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird vom Mitarbeiter elektronisch eingereicht."
+                },
+                {
+                    "key": "c",
+                    "text": "ist ab dem ersten Tag der Abwesenheit notwendig."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

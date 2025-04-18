@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege und Richtlinien\n\nHerzlich willkommen in unserem Team! Eine klare und effiziente Kommunikation ist uns wichtig. Für den Austausch innerhalb des Unternehmens nutzen wir verschiedene Kanäle. Die offizielle Firmen-E-Mail-Adresse ist für jegliche externe Korrespondenz sowie für alle wichtigen internen Mitteilungen, insbesondere formelle Anfragen oder Dokumentenversand, verpflichtend zu verwenden. Das Intranet dient als zentrale Informationsquelle, während unser interner Messenger „TeamChat“ für schnelle Absprachen gedacht ist.\n\nDer „TeamChat“ ist ideal für kurze, informelle Fragen innerhalb Ihres Teams oder direkter Kollegen. Lange Diskussionen oder komplexe Themen sollten jedoch per E-Mail geklärt oder in einem Meeting besprochen werden. Während der Kernarbeitszeit erwarten wir eine Antwort im Chat üblicherweise innerhalb weniger Stunden. Es besteht jedoch keine Verpflichtung, Nachrichten außerhalb Ihrer regulären Arbeitszeiten zu lesen oder zu beantworten. Beachten Sie, dass alle Chat-Nachrichten Firmeneigentum sind und entsprechend behandelt werden.\n\nDas Intranet ist Ihre primäre Anlaufstelle für offizielle Unternehmensnachrichten, Richtlinien, Formulare und das Mitarbeiterverzeichnis. Es wird von Ihnen erwartet, dass Sie das Intranet mindestens einmal täglich, idealerweise zu Beginn Ihres Arbeitstages, auf wichtige Ankündigungen und Aktualisierungen überprüfen. Jede Abteilung hat zudem einen eigenen Bereich für spezifische Neuigkeiten und Dokumente.\n\nBei der E-Mail-Kommunikation bitten wir um Professionalität. Verwenden Sie bei offiziellen internen Angelegenheiten, vor allem bei Kommunikation über Abteilungsgrenzen oder Hierarchieebenen hinweg, stets die formelle Anrede („Sehr geehrte Frau Müller, Sehr geehrter Herr Schmidt“). Achten Sie auf präzise Betreffzeilen und fassen Sie sich kurz. Streng vertrauliche Informationen dürfen keinesfalls über unverschlüsselte E-Mails ausgetauscht werden; nutzen Sie hierfür bitte verschlüsselte Kanäle oder persönliche Gespräche. Die standardisierte Firmensignatur muss automatisch an jede E-Mail angehängt werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle internen Fragen, egal wie komplex, sollen schnell über den „TeamChat“ geklärt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Für die Nutzung des internen Messengers „TeamChat“ gilt:",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass er für ausführliche Diskussionen genutzt werden soll."
+                },
+                {
+                    "key": "b",
+                    "text": "dass Antworten nur während der Arbeitszeit erwartet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "dass die Nachrichten privat sind und nicht eingesehen werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

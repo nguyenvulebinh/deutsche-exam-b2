@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Freizeitangebote\n\nWir wollen, dass Sie sich auch in einem großen Betrieb wohlfühlen und fördern gemeinsame Unternehmungen.\n\nJeden letzten Freitag im Monat treffen sich interessierte Mitarbeitende um 18 Uhr, um ungezwungen zusammen zu sein und miteinander ins Gespräch zu kommen. Treffpunkt ist im Foyer, der Veranstaltungsort wechselt, achten Sie bitte auf den Aushang am Schwarzen Brett. Besonders beliebt ist im Sommer auch der Besuch im Biergarten im Stadtpark.\n\nDort trifft sich jeden Donnerstag um 17 Uhr eine betriebsinterne Laufgruppe, der Sie sich anschließen können. Die verschiedenen Laufstrecken sind auch für Anfänger geeignet – besonders neu zugezogene Mitarbeitende finden hier schnell Anschluss und lernen die Umgebung kennen.\n\nWer das attraktive Umland kennenlernen will, kann sich unserer seit fünf Jahren aktiven Wandergruppe anschließen.\n\nDie Unternehmensleitung hat außerdem einen Vertrag mit dem Fitness-Center „Gehrlich“ geschlossen. Alle Mitarbeitenden können dort trainieren. Das Unternehmen beteiligt sich an den Kosten.\n\nKulturell Interessierte sollten auf die Informationen unserer PR-Abteilung achten, über die regelmäßig Eintrittskarten für Oper, Theater, Lesungen, aber auch für Fußballspiele verlost werden.\n\n## Sprachen lernen\n\nGeplant sind für das nächste Jahr mehrere Inhouse-Sprachkurse. Neben Englisch soll auch der Besuch",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Im Unternehmen gibt es regelmäßig Aktivitäten nach der Arbeit.",
+        "loesung": "richtig"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Die Mitarbeiterinnen und Mitarbeiter",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "bekommen eine Ermäßigung im Fitnesscenter."
+          },
+          {
+            "key": "b",
+            "text": "besuchen donnerstags gerne den Biergarten."
+          },
+          {
+            "key": "c",
+            "text": "haben Anspruch auf Veranstaltungstickets."
+          }
+        ],
+        "loesung": "a"
+      }
+    ]
+}
+  

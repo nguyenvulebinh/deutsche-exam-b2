@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Verfahren bei Arbeitsunfähigkeit\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es unerlässlich, das Unternehmen unverzüglich darüber zu informieren. Bitte benachrichtigen Sie sowohl Ihre/n direkte/n Vorgesetzte/n als auch die Personalabteilung direkt am ersten Tag Ihrer Abwesenheit, idealerweise noch vor dem regulären Arbeitsbeginn. Die Krankmeldung sollte bevorzugt telefonisch erfolgen, damit eventuelle Rückfragen sofort geklärt werden können. Nur falls telefonisch niemand erreichbar ist, senden Sie bitte eine E-Mail.\n\nEine ärztliche Bescheinigung über Ihre Arbeitsunfähigkeit (AU), umgangssprachlich auch Krankschreibung genannt, ist gesetzlich vorgeschrieben und muss dem Arbeitgeber spätestens ab dem dritten Kalendertag der Erkrankung vorgelegt werden. Das bedeutet, wenn Sie beispielsweise an einem Freitag erkranken, muss die AU spätestens am darauffolgenden Sonntag bei uns eingehen, auch wenn dies kein Arbeitstag ist. Achten Sie bitte auf die fristgerechte Einreichung.\n\nDie originale Arbeitsunfähigkeitsbescheinigung ist stets bei der Personalabteilung einzureichen. Sie sind dafür verantwortlich sicherzustellen, dass das Dokument dort auch ankommt. Eine verspätete oder ausbleibende Vorlage der AU kann arbeitsrechtliche Konsequenzen haben und insbesondere Ihren Anspruch auf Lohnfortzahlung im Krankheitsfall gefährden. Bewahren Sie für sich selbst stets eine Kopie auf.\n\nSollte sich während Ihrer Krankheit herausstellen, dass Sie länger arbeitsunfähig sein werden als ursprünglich auf der AU vermerkt, informieren Sie bitte umgehend erneut Ihre/n Vorgesetzte/n und die Personalabteilung und reichen Sie die Folgebescheinigung fristgerecht ein. Bei Fragen zum Verfahren steht Ihnen die Personalabteilung gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl die Teamleitung als auch die Personalabteilung sind umgehend am ersten Krankheitstag zu benachrichtigen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung (AU)...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss im Original spätestens am dritten Kalendertag der Krankheit in der Personalabteilung sein."
+                },
+                {
+                    "key": "b",
+                    "text": "geben Sie bitte direkt am ersten Krankheitstag bei Ihrem Vorgesetzten ab."
+                },
+                {
+                    "key": "c",
+                    "text": "ist nur notwendig, wenn Sie länger als eine Woche krank sind."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

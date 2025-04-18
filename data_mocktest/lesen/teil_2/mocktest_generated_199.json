@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur IT-Nutzung und -Sicherheit\n\nDie firmeninterne IT-Infrastruktur, einschließlich Computer, Netzwerkzugang, E-Mail-System und Internetzugang, wird Ihnen zur Erfüllung Ihrer arbeitsvertraglichen Aufgaben zur Verfügung gestellt. Eine begrenzte private Nutzung des Internets und des E-Mail-Systems ist während der offiziellen Pausenzeiten gestattet, vorausgesetzt, sie beeinträchtigt nicht Ihre Arbeitsleistung, verstößt nicht gegen geltendes Recht (z.B. durch Herunterladen von urheberrechtlich geschütztem Material oder illegales Streaming) und beinhaltet keinen Zugriff auf anstößige oder illegale Webseiten. Beachten Sie, dass die Firmen-E-Mail-Adresse primär für die geschäftliche Korrespondenz vorgesehen ist.\n\nDer Schutz unserer Systeme und Daten hat höchste Priorität. Sie sind verpflichtet, sichere Passwörter zu verwenden (mindestens 10 Zeichen, Kombination aus Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen) und diese regelmäßig, mindestens jedoch alle 90 Tage, zu ändern. Die Weitergabe Ihres Passworts an Dritte, auch an Kolleginnen oder Kollegen, ist strengstens untersagt. Bitte stellen Sie sicher, dass Ihr Computer gesperrt ist (z.B. durch Drücken von Windows-Taste + L), wenn Sie Ihren Arbeitsplatz auch nur kurzzeitig verlassen.\n\nDie Installation von Software auf Firmenrechnern ist ausschließlich der IT-Abteilung vorbehalten. Es ist Mitarbeitenden untersagt, selbstständig Programme oder Anwendungen zu installieren, zu deinstallieren oder zu modifizieren. Sollten Sie spezielle Software für Ihre Arbeit benötigen, stellen Sie bitte eine begründete Anfrage an den IT-Support. Die Nutzung nicht autorisierter Software stellt ein erhebliches Sicherheitsrisiko dar und kann arbeitsrechtliche Konsequenzen haben.\n\nSollten Sie technische Störungen feststellen, Fehlermeldungen erhalten oder verdächtige Aktivitäten bemerken (z.B. ungewöhnliche E-Mails, Pop-ups oder langsames Systemverhalten), sind Sie angehalten, dies unverzüglich dem IT-Support Helpdesk zu melden. Sie erreichen den Helpdesk per E-Mail unter it-support@firma.de oder telefonisch unter der internen Durchwahl -456. Eine schnelle Meldung hilft uns, potenzielle Sicherheitsprobleme frühzeitig zu erkennen und zu beheben.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende dürfen in Pausen das Internet privat nutzen, jedoch keinerlei Software auf Firmenrechnern selbst installieren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei technischen Problemen mit dem Computer sollen Mitarbeitende...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "umgehend den IT-Support Helpdesk informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "zuerst versuchen, das Problem selbst zu beheben."
+                },
+                {
+                    "key": "c",
+                    "text": "sofort ihr Passwort ändern und den Vorgesetzten benachrichtigen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

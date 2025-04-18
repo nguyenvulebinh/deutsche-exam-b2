@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur Nutzung von Internet und E-Mail\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter, die IT-Infrastruktur unseres Unternehmens stellt ein wichtiges Arbeitsmittel dar. Die Nutzung des Internets und der firmeneigenen E-Mail-Adresse ist grundsätzlich für dienstliche Zwecke vorgesehen. Eine private Nutzung des Internets ist Ihnen ausschließlich während der offiziellen Pausenzeiten und in angemessenem Umfang gestattet. Das Herunterladen großer Dateien (z.B. Filme, Musik) oder die Nutzung von Streaming-Diensten für private Zwecke ist dabei generell untersagt.\n\nDie Nutzung Ihres Firmen-E-Mail-Kontos für private Korrespondenz ist grundsätzlich nicht erwünscht. In begründeten Ausnahmefällen und nach Rücksprache mit Ihrer Führungskraft kann dies genehmigt werden, sofern es sich um dringende, kurze Nachrichten handelt. Das Versenden oder Empfangen großer privater Anhänge über das Firmenkonto ist jedoch strikt verboten. Die Installation jeglicher Software auf den Firmengeräten ist ohne ausdrückliche Genehmigung und Durchführung durch den IT-Support nicht erlaubt, um die Systemsicherheit zu gewährleisten.\n\nBitte beachten Sie, dass das Unternehmen sich vorbehält, die Einhaltung dieser Richtlinien stichprobenartig zu überprüfen, selbstverständlich unter Beachtung der Datenschutzbestimmungen. Verstöße gegen diese Nutzungsordnung können je nach Schwere arbeitsrechtliche Konsequenzen nach sich ziehen, die von einer Abmahnung bis hin zur Kündigung reichen können.\n\nBei technischen Problemen oder Fragen zur IT-Nutzung wenden Sie sich bitte an unseren IT-Support (Raum E.12, Durchwahl -88). Gehen Sie sorgsam mit Ihren Zugangsdaten um und melden Sie verdächtige E-Mails umgehend.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die private Nutzung von Firmen-E-Mails ist unter allen Umständen strengstens verboten.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wie wird die Einhaltung der IT-Richtlinien im Unternehmen überprüft?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Jede besuchte Webseite wird automatisch und dauerhaft gespeichert."
+                },
+                {
+                    "key": "b",
+                    "text": "Mitarbeiter müssen am Monatsende einen Bericht über ihre Internetnutzung abgeben."
+                },
+                {
+                    "key": "c",
+                    "text": "Es finden gelegentliche Kontrollen der Internetnutzung statt."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

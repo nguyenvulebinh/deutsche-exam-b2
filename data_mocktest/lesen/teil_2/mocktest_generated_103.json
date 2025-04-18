@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur Nutzung der Firmenfahrzeuge\n\nHerzlich willkommen im Team! Damit Sie für dienstliche Fahrten mobil sind, stellt Ihnen unser Unternehmen nach Verfügbarkeit Firmenfahrzeuge zur Verfügung. Grundsätzlich sind diese Fahrzeuge ausschließlich für betriebliche Zwecke wie Kundenbesuche, Dienstreisen oder Materialtransporte vorgesehen. Eine private Nutzung ist nur in Ausnahmefällen und nach ausdrücklicher schriftlicher Genehmigung durch die Geschäftsleitung gestattet und wird gesondert geregelt.\n\nDie Reservierung eines Fahrzeugs erfolgt ausschließlich über unser Online-Buchungsportal \"FleetMaster\", das Sie im Intranet finden. Bitte buchen Sie benötigte Fahrzeuge mindestens 48 Stunden im Voraus und geben Sie dabei den Zweck der Fahrt, das geplante Ziel sowie die voraussichtliche Dauer an. Kurzfristigere Buchungen sind nur in dringenden Notfällen nach Rücksprache mit der Fuhrparkverwaltung (Frau Hansen, Durchwahl -55) möglich.\n\nAlle Fahrzeuge sind stets sauber und in ordentlichem Zustand zu hinterlassen. Das Rauchen ist in den Firmenwagen strikt untersagt. Die Betankung erfolgt mittels der im Fahrzeug befindlichen Tankkarte an den dafür vorgesehenen Tankstellenketten. Bitte bewahren Sie den Tankbeleg sorgfältig auf und reichen Sie ihn nach der Fahrt bei der Fuhrparkverwaltung ein. Im Falle eines Unfalls oder einer Panne ist unverzüglich die Fuhrparkverwaltung zu informieren, die das weitere Vorgehen koordiniert.\n\nBitte beachten Sie, dass nur Sie als Mitarbeiter/-in berechtigt sind, das Fahrzeug zu führen. Die Mitnahme von betriebsfremden Personen ist nicht gestattet, es sei denn, es handelt sich um Kunden oder Geschäftspartner im Rahmen der dienstlichen Tätigkeit. Für Verkehrsverstöße (z.B. Geschwindigkeitsüberschreitungen) und daraus resultierende Bußgelder haften Sie als Fahrer/-in persönlich.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Firmenwagen können jederzeit kurzfristig über Frau Hansen gebucht werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Betriebsfremde Personen dürfen im Firmenwagen mitfahren,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wenn es sich um eine dienstliche Fahrt mit Kunden handelt."
+                },
+                {
+                    "key": "b",
+                    "text": "sobald die Fuhrparkverwaltung informiert wurde."
+                },
+                {
+                    "key": "c",
+                    "text": "falls das Fahrzeug privat genutzt wird."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

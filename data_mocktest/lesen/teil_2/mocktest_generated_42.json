@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Arbeitsunfähigkeit\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es unerlässlich, das Unternehmen unverzüglich darüber zu informieren. Die Krankmeldung muss am ersten Tag Ihrer Abwesenheit erfolgen, und zwar unbedingt noch *vor* Ihrem regulären Arbeitsbeginn. Es ist wichtig, dass Sie sowohl Ihre direkte Teamleitung als auch die Personalabteilung in Kenntnis setzen.\n\nFür die Erstmeldung bei Ihrer Teamleitung ist der Griff zum Telefon der bevorzugte Weg. Nur falls Ihre Führungskraft telefonisch nicht erreichbar sein sollte, können Sie alternativ eine E-Mail schreiben. Bitte informieren Sie parallel oder direkt im Anschluss auch die Personalabteilung über Ihre Abwesenheit und teilen Sie bei beiden Kontaktaufnahmen die voraussichtliche Dauer Ihrer Arbeitsunfähigkeit mit, sofern Ihnen diese bereits bekannt ist.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), oft auch „Krankschreibung“ genannt, ist gesetzlich vorgeschrieben und in unserem Unternehmen ab dem dritten Kalendertag der Krankheit erforderlich. Das bedeutet, wenn Sie beispielsweise an einem Montag erkranken, muss die Bescheinigung spätestens am Mittwoch vorliegen. Sie sind verpflichtet, diese Bescheinigung bis zum Ende dieses dritten Tages entweder physisch in der Personalabteilung einzureichen oder digital über unser Mitarbeiterportal hochzuladen.\n\nDie rechtzeitige und korrekte Krankmeldung sowie die fristgerechte Vorlage der AU sind Voraussetzungen für die Fortzahlung Ihres Entgelts im Krankheitsfall gemäß den gesetzlichen Bestimmungen. Bei Versäumnissen kann es zu Verzögerungen oder Kürzungen bei der Lohnfortzahlung kommen. Genauere Informationen zur Entgeltfortzahlung finden Sie in Ihrem Arbeitsvertrag und den beiliegenden tariflichen Regelungen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die ärztliche Arbeitsunfähigkeitsbescheinigung muss spätestens am vierten Tag der Abwesenheit eingereicht werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Krankmeldung am ersten Tag soll idealerweise...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "telefonisch bei der Teamleitung erfolgen."
+                },
+                {
+                    "key": "b",
+                    "text": "per E-Mail an die Personalabteilung gesendet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "durch Vorlage der Arbeitsunfähigkeitsbescheinigung geschehen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Betriebsfahrzeuge\n\nUnseren Mitarbeiterinnen und Mitarbeitern steht für dienstliche Fahrten ein Pool an Betriebsfahrzeugen zur Verfügung. Voraussetzung für die Nutzung ist ein gültiger Führerschein sowie die Teilnahme an einer kurzen Einweisung durch das Fuhrparkmanagement, die Sie bitte eigenständig vereinbaren.\n\nDie Fahrzeuge müssen vor jeder Nutzung rechtzeitig über unser Online-Reservierungssystem gebucht werden. Dort sehen Sie die Verfügbarkeit und können das passende Fahrzeug für Ihren Bedarf auswählen. Kurzfristige Anfragen können nur in Ausnahmefällen und nach direkter Absprache mit dem Fuhrparkmanagement (Durchwahl -112) berücksichtigt werden.\n\nWährend der Nutzung sind Sie verpflichtet, das Fahrzeug sorgfältig zu behandeln und sauber zu halten. Für jedes Fahrzeug liegt ein Fahrtenbuch bereit, in das alle Fahrten lückenlos einzutragen sind. Die Betankung erfolgt ausschließlich über die bereitgestellte Tankkarte. Bitte achten Sie darauf, das Fahrzeug nach Beendigung Ihrer Fahrt wieder vollgetankt auf dem dafür vorgesehenen Parkplatz abzustellen. Rauchen und der Transport von Haustieren sind in allen Fahrzeugen strengstens untersagt.\n\nPrivate Fahrten mit den Betriebsfahrzeugen sind grundsätzlich nicht gestattet. Ausnahmen können nur in besonderen Fällen und ausschließlich nach schriftlicher Genehmigung durch die Geschäftsführung erfolgen.\n\nEventuelle Schäden am Fahrzeug, auch kleine Kratzer, müssen unverzüglich nach Entdeckung dem Fuhrparkmanagement gemeldet werden. Bei selbstverschuldeten Unfällen oder Bußgeldern (z.B. wegen überhöhter Geschwindigkeit) haften die Fahrerinnen und Fahrer selbst. Die Rückgabe des Schlüssels erfolgt ebenfalls beim Fuhrparkmanagement.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen Bußgelder, die sie während der Fahrt mit einem Firmenwagen selbst verschulden, auch selbst bezahlen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein Schaden am Fahrzeug entdeckt wird,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss man diesen nur melden, wenn man ihn selbst verursacht hat."
+                },
+                {
+                    "key": "b",
+                    "text": "ist umgehend die zuständige Abteilung zu informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "soll man versuchen, ihn selbst zu reparieren."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie, dies Ihrem bzw. Ihrer direkten Vorgesetzten unverzüglich mitzuteilen. Dies sollte idealerweise noch vor dem regulären Arbeitsbeginn geschehen, vorzugsweise durch einen Telefonanruf. Eine verspätete oder unterlassene Krankmeldung kann arbeitsrechtliche Konsequenzen nach sich ziehen.\n\nGemäß den gesetzlichen Bestimmungen und unseren betrieblichen Regelungen ist eine ärztliche Bescheinigung über die Arbeitsunfähigkeit, die sogenannte Arbeitsunfähigkeitsbescheinigung (AU), erforderlich, wenn die Erkrankung länger als drei Kalendertage andauert. Das bedeutet, dass die AU spätestens am darauffolgenden Arbeitstag nach Ablauf dieser drei Tage im Unternehmen vorliegen muss. Beispiel: Werden Sie an einem Freitag krank, zählt das Wochenende mit, und die AU muss spätestens am Dienstag eingereicht werden.\n\nDie Übermittlung der Arbeitsunfähigkeitsbescheinigung erfolgt idealerweise digital. Nutzen Sie hierfür bitte das vorgesehene Upload-Portal der Personalabteilung, auf das Sie über das Intranet zugreifen können. Stellen Sie sicher, dass das Dokument gut lesbar ist. Sollte Ihnen eine digitale Übermittlung nicht möglich sein, kann die AU alternativ postalisch an die Personalabteilung gesendet werden. Bitte sehen Sie davon ab, die AU direkt an Ihre Führungskraft zu senden.\n\nSollte Ihre Arbeitsunfähigkeit länger andauern als auf der ursprünglichen AU bescheinigt, ist unverzüglich eine Folgebescheinigung einzureichen. Informieren Sie in diesem Fall bitte erneut Ihre/-n Vorgesetzte/-n über die voraussichtliche weitere Dauer Ihrer Abwesenheit.\n\nSobald absehbar ist, wann Sie Ihre Arbeit wieder aufnehmen können, informieren Sie bitte ebenfalls Ihre/-n Vorgesetzte/-n, spätestens jedoch am Morgen Ihres ersten Arbeitstages nach der Genesung. Wir wünschen Ihnen eine baldige und vollständige Genesung!",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss immer direkt bei der Personalabteilung eingereicht werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Arbeitsunfähigkeitsbescheinigung (AU) wird benötigt,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "direkt ab dem ersten Tag der Abwesenheit."
+                },
+                {
+                    "key": "b",
+                    "text": "sobald die Erkrankung länger als drei Kalendertage andauert."
+                },
+                {
+                    "key": "c",
+                    "text": "erst nachdem der Vorgesetzte sie ausdrücklich anfordert."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

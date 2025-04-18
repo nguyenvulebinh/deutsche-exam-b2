@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Besprechungsräume\n\nFür Teambesprechungen, Kundentermine oder konzentrierte Projektarbeit stehen Ihnen mehrere Besprechungsräume unterschiedlicher Größe zur Verfügung. Die Reservierung erfolgt ausschließlich über unser Online-Buchungssystem \"RaumPlaner\", auf das Sie über das Intranet Zugriff haben. Bitte nehmen Sie Buchungen mindestens 24 Stunden im Voraus vor, um sicherzustellen, dass der gewünschte Raum verfügbar ist.\n\nSelbstverständlich können Sie einen Raum auch spontan nutzen, sofern er im System als frei gekennzeichnet ist. Beachten Sie jedoch, dass offiziell gebuchte Termine immer Vorrang haben. Sollte also eine Kollegin oder ein Kollege mit einer bestätigten Buchung eintreffen, muss der Raum umgehend freigegeben werden.\n\nAlle Besprechungsräume sind standardmäßig mit einem Beamer, einem Whiteboard inklusive Stiften und einem Flipchart ausgestattet. Bitte überprüfen Sie vor Beginn Ihrer Besprechung kurz die Funktionsfähigkeit der Technik. Sollten Sie technische Probleme feststellen (z.B. Beamer funktioniert nicht), informieren Sie bitte unverzüglich den IT-Support unter der Durchwahl -112. Für Fragen zur Raumbuchung selbst ist Frau Keller (-234) zuständig.\n\nWenn Sie für Ihre Besprechung Getränke oder Snacks benötigen, bestellen Sie diese bitte spätestens 48 Stunden vorher über das separate Catering-Formular im Intranet. Eine Bestellung über das \"RaumPlaner\"-System ist nicht möglich. Nach jeder Nutzung bitten wir Sie dringend, den Raum ordentlich zu hinterlassen: Stühle an den Tisch rücken, benutztes Geschirr in die Teeküche bringen, Müll entsorgen und das Whiteboard säubern. Damit gewährleisten wir eine angenehme Atmosphäre für alle.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Auch wenn ein Besprechungsraum gerade frei ist, muss man ihn für eine spätere, geplante Besprechung verlassen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was sollen Mitarbeiter tun, wenn die Technik in einem Besprechungsraum nicht funktioniert?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie sollen umgehend den IT-Support informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie müssen dies Frau Keller melden, die auch für Buchungen zuständig ist."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie können versuchen, das Problem selbst zu beheben und einen Hinweis hinterlassen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

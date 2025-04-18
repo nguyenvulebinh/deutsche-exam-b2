@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Richtlinien und Support\n\nWillkommen im Unternehmen! Damit Sie unsere IT-Infrastruktur sicher und effizient nutzen können, bitten wir Sie, die folgenden Richtlinien zu beachten.\n\nDie Ihnen zur Verfügung gestellten Arbeitsgeräte (Laptop, Monitor etc.) sind Eigentum der Firma und primär für dienstliche Zwecke vorgesehen. Die Installation von Software, die nicht von unserer IT-Abteilung freigegeben wurde, ist grundsätzlich untersagt. Dies dient dem Schutz unseres Netzwerks vor Schadsoftware. Eine begrenzte private Nutzung des Internets (z.B. für private E-Mails oder Nachrichten) ist während der offiziellen Pausenzeiten gestattet, solange dies die Systemleistung nicht beeinträchtigt und keine illegalen oder unangemessenen Inhalte aufgerufen werden.\n\nFür den Zugang zu unseren Systemen erhalten Sie individuelle Benutzerkonten. Ihre Passwörter müssen mindestens 12 Zeichen lang sein, Groß- und Kleinbuchstaben, Zahlen sowie Sonderzeichen enthalten und alle 90 Tage geändert werden. Geben Sie Ihre Zugangsdaten niemals an Dritte weiter.\n\nBei technischen Problemen oder Fragen zur IT wenden Sie sich bitte zuerst an unseren internen IT-Helpdesk. Sie erreichen diesen während der Kernarbeitszeiten (Mo-Fr, 8:00-17:00 Uhr) telefonisch unter der Durchwahl -555 oder per E-Mail an it-support@firma.de. Für eine effiziente Bearbeitung bitten wir Sie, wenn möglich, unser Online-Ticket-System im Intranet zu nutzen, um Ihr Anliegen detailliert zu beschreiben.\n\nAußerhalb der Supportzeiten steht für Notfälle (z.B. Systemausfall, der die Arbeit komplett verhindert) eine Notfall-Hotline unter 0800-123456 bereit. Diese Nummer ist jedoch ausschließlich für kritische Störungen vorgesehen, die ein sofortiges Eingreifen erfordern.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Bei allen IT-Problemen außerhalb der Bürozeiten soll die Notfall-Hotline angerufen werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Um technische Probleme zu melden, sollen Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "möglichst das Online-Ticket-System verwenden."
+                },
+                {
+                    "key": "b",
+                    "text": "immer zuerst eine E-Mail an die IT schreiben."
+                },
+                {
+                    "key": "c",
+                    "text": "sofort die Notfall-Hotline kontaktieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

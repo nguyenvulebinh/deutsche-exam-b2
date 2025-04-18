@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinien für Firmengeräte\n\nWillkommen im Team! Damit unsere IT-Systeme sicher und effizient funktionieren, bitten wir Sie, die folgenden Richtlinien zur Nutzung von Firmeneigentum wie Laptops, Firmenhandys und Software zu beachten.\n\nDie Ihnen zur Verfügung gestellten Geräte sind primär für dienstliche Zwecke vorgesehen. Eine maßvolle private Nutzung des Internets und der E-Mail-Funktion ist zwar gestattet, sofern sie die Arbeitsleistung nicht beeinträchtigt und nicht gegen geltendes Recht oder die Unternehmensinteressen verstößt. Das Herunterladen oder Verbreiten illegaler oder anstößiger Inhalte ist strikt untersagt. Beachten Sie bitte, dass das Unternehmen sich stichprobenartige Kontrollen der Internetnutzung vorbehält.\n\nAus Sicherheitsgründen ist die Installation von Software auf Firmengeräten grundsätzlich nur durch die IT-Abteilung erlaubt oder muss explizit von dieser genehmigt werden. Unautorisierte Software, insbesondere Peer-to-Peer-Filesharing-Programme oder nicht lizenzierte Anwendungen, dürfen keinesfalls installiert werden. Halten Sie Ihr Passwort stets geheim, wählen Sie ein komplexes Passwort gemäß unseren Vorgaben und ändern Sie es regelmäßig. Das Speichern von sensiblen Firmendaten auf privaten USB-Sticks ist aus Datenschutzgründen nicht erlaubt.\n\nBei technischen Problemen oder Störungen mit Ihrer Hard- oder Software wenden Sie sich bitte umgehend an unseren IT-Support. Nutzen Sie hierfür primär unser internes Ticketsystem, auf das Sie über das Intranet zugreifen können. Dies gewährleistet eine schnelle und nachvollziehbare Bearbeitung Ihrer Anfrage. Nur in sehr dringenden Fällen, wenn das Ticketsystem nicht erreichbar ist, kontaktieren Sie den Support bitte telefonisch unter der bekannten Durchwahl.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Software darf nur nach Genehmigung durch die IT-Abteilung auf Firmengeräten genutzt werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein technisches Problem auftritt, sollen Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zuerst versuchen, das Problem selbst zu lösen."
+                },
+                {
+                    "key": "b",
+                    "text": "sich über das Ticketsystem an den IT-Support wenden."
+                },
+                {
+                    "key": "c",
+                    "text": "das Gerät zur Reparatur einschicken."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

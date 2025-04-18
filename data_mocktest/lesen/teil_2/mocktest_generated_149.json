@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein und nicht zur Arbeit erscheinen können, ist es essenziell, dass Sie das Unternehmen unverzüglich darüber informieren. Bitte benachrichtigen Sie sowohl Ihre direkte Führungskraft (Vorgesetzte/r) als auch die Personalabteilung noch vor dem offiziellen Arbeitsbeginn, spätestens jedoch bis 9:00 Uhr morgens. Die Benachrichtigung muss am ersten Tag der Abwesenheit telefonisch erfolgen. Dies ist wichtig, damit Arbeitsabläufe angepasst und gegebenenfalls Vertretungsregelungen organisiert werden können.\n\nEs ist ebenfalls hilfreich, wenn Sie – sofern es Ihr Gesundheitszustand erlaubt – kurz Ihre direkten Teamkollegen über dringende, laufende Aufgaben informieren oder Hinweise geben, wo relevante Informationen zu finden sind. Diese Information ersetzt jedoch nicht die offizielle Krankmeldung bei Vorgesetzten und Personalabteilung.\n\nBei einer Arbeitsunfähigkeit, die länger als drei Kalendertage andauert, sind Sie verpflichtet, dem Unternehmen eine ärztliche Bescheinigung über die Arbeitsunfähigkeit (AU-Bescheinigung) sowie deren voraussichtliche Dauer vorzulegen. Diese Bescheinigung muss der Personalabteilung spätestens am darauf folgenden Arbeitstag, also in der Regel am vierten Kalendertag Ihrer Erkrankung, vorliegen. Die Übermittlung kann zunächst digital erfolgen, das Original ist jedoch bei Wiederaufnahme der Arbeit nachzureichen.\n\nBitte beachten Sie, dass eine verspätete Krankmeldung oder die nicht fristgerechte Einreichung der AU-Bescheinigung arbeitsrechtliche Konsequenzen haben kann, einschließlich Auswirkungen auf die Entgeltfortzahlung. Informieren Sie uns bitte auch umgehend, falls Sie wider Erwarten früher genesen oder die Krankheit länger andauert als ursprünglich attestiert.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine ärztliche Bescheinigung wird erst ab dem fünften Krankheitstag benötigt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was ist der erste Schritt, wenn Sie morgens feststellen, dass Sie krank sind?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihren Vorgesetzten und die Personalabteilung vor 9:00 Uhr telefonisch zu informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "Sofort einen Arzt aufzusuchen, um eine Arbeitsunfähigkeitsbescheinigung zu erhalten."
+                },
+                {
+                    "key": "c",
+                    "text": "Das Team per E-Mail über anstehende Aufgaben zu unterrichten."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

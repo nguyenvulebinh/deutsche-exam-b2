@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege\n\nEine klare und effiziente interne Kommunikation ist uns sehr wichtig. Um sicherzustellen, dass alle Mitarbeiterinnen und Mitarbeiter stets gut informiert sind, nutzen wir verschiedene Kanäle. Bitte machen Sie sich mit diesen vertraut.\n\nUnser zentrales Informationsmedium ist das Intranet-Portal \"InfoNet\". Hier finden Sie allgemeine Unternehmensnachrichten, offizielle Bekanntmachungen der Geschäftsleitung, wichtige Formulare (z.B. für Urlaubsanträge) sowie das Mitarbeiterverzeichnis. Es wird erwartet, dass Sie das InfoNet täglich auf neue Einträge überprüfen, da dies der primäre Kanal für unternehmensweite Informationen ist.\n\nFür teambezogene Absprachen, Projektupdates oder spezifische Arbeitsanweisungen nutzen die Abteilungen eigene E-Mail-Verteiler. Auch Ihre dienstlichen E-Mails sollten Sie mindestens einmal täglich prüfen, um keine wichtigen Informationen für Ihre direkte Arbeit zu verpassen.\n\nZusätzlich gibt es in der Nähe der Kantine ein physisches \"Schwarzes Brett\". Dieses dient vor allem für kurzfristige, operative Hinweise (z.B. spontane Raumänderungen), für Aushänge zu sozialen Aktivitäten (Betriebssport, Stammtisch) oder auch für private Kleinanzeigen von Kollegen. Es ersetzt jedoch nicht die Informationspflicht über InfoNet und E-Mail.\n\nRegelmäßige Team-Besprechungen ergänzen diese Kanäle und dienen dem direkten Austausch, der Diskussion von Projekten und der Klärung offener Fragen im Team. Die Teilnahme ist in der Regel verpflichtend.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Das Schwarze Brett dient hauptsächlich zur Verbreitung langfristiger Unternehmensstrategien und offizieller Richtlinien.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wo finden neue Mitarbeiter hauptsächlich offizielle Unternehmensdokumente und allgemeine Neuigkeiten?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "In den regelmäßigen Team-Besprechungen."
+                },
+                {
+                    "key": "b",
+                    "text": "Auf dem Intranet-Portal 'InfoNet'."
+                },
+                {
+                    "key": "c",
+                    "text": "Ausschließlich über die spezifischen E-Mail-Verteiler des Teams."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

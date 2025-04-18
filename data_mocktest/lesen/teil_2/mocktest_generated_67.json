@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmen-E-Mail und IT-Support\n\nHerzlich willkommen im Team! Für Ihre dienstliche Kommunikation stellen wir Ihnen ein persönliches Firmen-E-Mail-Konto zur Verfügung. Bitte beachten Sie, dass dieses Konto primär für berufliche Zwecke vorgesehen ist. Eine sehr begrenzte private Nutzung ist ausschließlich während Ihrer offiziellen Pausenzeiten gestattet. Zu Ihrer Sicherheit muss Ihr Passwort mindestens 12 Zeichen lang sein, Groß- und Kleinbuchstaben, Zahlen sowie Sonderzeichen enthalten und alle 90 Tage verpflichtend geändert werden.\n\nDer Versand von E-Mails mit großen Dateianhängen belastet unsere Serverkapazitäten unnötig. Daher ist es untersagt, Dateien mit einer Größe von mehr als 10 MB per E-Mail zu versenden. Für den Austausch größerer Datenmengen nutzen Sie bitte ausschließlich unseren firmeninternen Cloud-Speicher. Eine detaillierte Anleitung zur Verwendung des Cloud-Speichers finden Sie im Intranet unter der Rubrik „IT-Hilfen“.\n\nDatensicherheit hat höchste Priorität. Senden Sie niemals streng vertrauliche Informationen unverschlüsselt per E-Mail. Hierfür sind spezielle, gesicherte Kommunikationswege vorgesehen, über die Sie gesondert informiert werden. Sollten Sie eine verdächtige E-Mail erhalten (z. B. eine Phishing-Mail, die nach Passwörtern fragt oder unseriöse Links enthält), klicken Sie keinesfalls auf Links oder Anhänge. Melden Sie solche E-Mails bitte umgehend über den „Phishing melden“-Button direkt in Ihrem E-Mail-Programm an unsere IT-Sicherheitsabteilung.\n\nSollten Sie technische Probleme mit Ihrem Computer oder Fragen zur IT-Nutzung haben, ist der erste Schritt immer die Erstellung eines Tickets über unser Helpdesk-System, erreichbar unter helpdesk.firmaxy.de. Bitte beschreiben Sie Ihr Anliegen dort so präzise wie möglich. Nur in absolut dringenden Notfällen, beispielsweise wenn das Helpdesk-System selbst nicht erreichbar ist, kontaktieren Sie bitte die IT-Hotline unter der Durchwahl -555.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende dürfen ihr Firmen-E-Mail-Konto unter keinen Umständen für private Zwecke nutzen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei technischen Schwierigkeiten mit der IT sollen Mitarbeiterinnen und Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...zuerst versuchen, über ein Online-System Hilfe anzufordern."
+                },
+                {
+                    "key": "b",
+                    "text": "...immer direkt die IT-Hotline unter der Durchwahl -555 anrufen."
+                },
+                {
+                    "key": "c",
+                    "text": "...eine E-Mail mit detaillierter Beschreibung an die IT-Sicherheitsabteilung senden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

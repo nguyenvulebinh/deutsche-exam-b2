@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege nutzen\n\nEine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um dies sicherzustellen, bitten wir Sie, die folgenden Richtlinien für unsere internen Kommunikationswege zu beachten.\n\n**E-Mail:** Die E-Mail ist unser primäres Werkzeug für formelle Anfragen, die Weitergabe von Dokumenten und Informationen, die einer Dokumentation bedürfen. Bitte verwenden Sie stets aussagekräftige Betreffzeilen, damit Ihre Nachricht korrekt zugeordnet werden kann. Eine Antwort auf E-Mails wird in der Regel innerhalb von 24 Stunden während der Arbeitswoche erwartet. Überprüfen Sie Ihr Postfach daher bitte mindestens einmal täglich. Wichtige, allgemeine Unternehmensnachrichten und Ankündigungen finden Sie zudem regelmäßig auf unserer Intranet-Seite.\n\n**Internes Chat-Tool:** Für schnelle Fragen, kurze Abstimmungen im Team oder informelle Nachrichten nutzen Sie bitte unser internes Chat-Tool. Es dient der zügigen Klärung kleinerer Anliegen, ersetzt jedoch keine formelle Kommunikation oder Aufgabenstellung per E-Mail. Rechnen Sie hier mit einer zeitnahen Reaktion, aber respektieren Sie, dass Kollegen konzentriert arbeiten und nicht immer sofort antworten können.\n\n**Telefon:** Bei sehr dringenden Angelegenheiten, die eine sofortige Klärung erfordern und per E-Mail oder Chat zu lange dauern würden, ist ein direkter Anruf oft der beste Weg. Prüfen Sie jedoch kurz im Kalender des Kollegen, ob dieser verfügbar ist, um unnötige Störungen zu vermeiden. Nutzen Sie Anrufe sparsam und für wirklich zeitkritische Themen.\n\n**Besprechungen:** Für die Planung von Besprechungen nutzen Sie bitte ausschließlich unser Online-Kalendertool. Achten Sie darauf, eine klare Agenda beizufügen und nur die wirklich notwendigen Teilnehmer einzuladen. Bestätigen oder lehnen Sie erhaltene Einladungen bitte zeitnah ab.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Nutzung des internen Chats ist für rasche Absprachen gedacht, während E-Mails für offizielle Zwecke zu verwenden sind.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei der Planung von Besprechungen...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "genügt eine kurze Nachricht im Chat an die Teilnehmer."
+                },
+                {
+                    "key": "b",
+                    "text": "sollte immer das Online-Kalendertool genutzt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "muss die Agenda vorab von der Teamleitung genehmigt werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

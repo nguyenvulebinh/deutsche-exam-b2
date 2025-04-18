@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Besprechungsräume: Buchung und Nutzung\n\nFür Besprechungen und Teammeetings stehen Ihnen im 4. Obergeschoss mehrere Räume unterschiedlicher Größe zur Verfügung. Die Buchung erfolgt ausschließlich über unser internes Online-Kalendersystem, auf das alle Mitarbeiterinnen und Mitarbeiter Zugriff haben. Bitte beachten Sie, dass Reservierungen maximal vier Wochen im Voraus getätigt werden können.\n\nJeder Raum kann für eine Dauer von mindestens 30 Minuten und höchstens drei Stunden am Stück gebucht werden. Sollten Sie einen gebuchten Termin doch nicht wahrnehmen können, bitten wir Sie dringend, die Buchung mindestens zwei Stunden vor Beginn über das System zu stornieren, damit der Raum wieder für andere Kolleginnen und Kollegen verfügbar ist.\n\nAlle Besprechungsräume sind standardmäßig mit einem Beamer, einem Whiteboard und einer Videokonferenzanlage ausgestattet. Sie sind dafür verantwortlich, dass der Raum nach Ihrer Nutzung sauber und ordentlich hinterlassen wird. Technische Probleme mit der Ausrüstung oder Einrichtung sind unverzüglich an das Facility Management (Durchwahl -55) zu melden, damit diese schnellstmöglich behoben werden können.\n\nDas Mitbringen und Konsumieren von Getränken (Wasser, Kaffee, Tee) ist gestattet. Der Verzehr von mitgebrachten Speisen ist jedoch grundsätzlich nicht erlaubt, um die Sauberkeit zu gewährleisten. Eine Ausnahme bildet vorab bestelltes und genehmigtes Catering für offizielle Anlässe, welches über die jeweilige Assistenz organisiert werden muss.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Man muss einen Raum für mindestens eine halbe Stunde reservieren und kann die Buchung bis zwei Stunden vorher rückgängig machen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Nach der Nutzung eines Besprechungsraums sind die Mitarbeiter dafür zuständig,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "den Raum sauber zu hinterlassen und technische Defekte zu melden."
+                },
+                {
+                    "key": "b",
+                    "text": "die Ausrüstung für die nächste Besprechung vorzubereiten."
+                },
+                {
+                    "key": "c",
+                    "text": "beim Facility Management einen neuen Termin zu buchen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -4,12 +4,14 @@
  */
 
 import LesenTeil1 from './test-types/lesen-teil-1.js';
+import LesenTeil2 from './test-types/lesen-teil-2.js';
 
 // Collection of available test types
 const testTypes = {
-    'lesen-teil-1': LesenTeil1
+    'lesen-teil-1': LesenTeil1,
+    'lesen-teil-2': LesenTeil2
     // Add more test types here as they are implemented:
-    // 'lesen-teil-2': LesenTeil2,
+    // 'lesen-teil-3': LesenTeil3,
     // 'hoeren-teil-1': HoerenTeil1,
     // etc.
 };
@@ -18,8 +20,11 @@ const testTypes = {
  * Initialize the application when the DOM is loaded
  */
 function initApp() {
-    // Get the test type from URL or use default
-    const testType = getTestTypeFromURL() || 'lesen-teil-1';
+    // Get the test type from: 
+    // 1. window.testType (set directly in the HTML page)
+    // 2. URL parameters
+    // 3. Fall back to default
+    const testType = window.testType || getTestTypeFromURL() || 'lesen-teil-1';
     
     // Get the TestEngine class for this test type
     const TestClass = testTypes[testType];

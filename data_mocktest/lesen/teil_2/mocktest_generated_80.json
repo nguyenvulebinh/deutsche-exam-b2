@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur Nutzung von Firmenfahrzeugen\n\nHerzlich willkommen! Unsere Firma stellt für bestimmte dienstliche Zwecke Fahrzeuge aus dem firmeneigenen Fuhrpark zur Verfügung. Berechtigt zur Nutzung sind primär Außendienstmitarbeiterinnen und -mitarbeiter für ihre Kundentermine sowie Mitglieder der Geschäftsleitung. Andere Angestellte können nach Absprache mit der Teamleitung und bei Verfügbarkeit ein Fahrzeug für spezifische Dienstfahrten beantragen, sofern die Probezeit erfolgreich abgeschlossen wurde.\n\nDie Reservierung eines Fahrzeugs erfolgt ausschließlich über das Online-Buchungssystem im Intranet. Bitte stellen Sie Ihre Anfrage mindestens 48 Stunden im Voraus, um die Verfügbarkeit sicherzustellen. Kurzfristigere Anfragen können nur in dringenden Ausnahmefällen über die Fuhrparkverwaltung (Herr Müller, Durchwahl -55) genehmigt werden.\n\nDie Firmenfahrzeuge sind grundsätzlich nur für dienstliche Fahrten vorgesehen. Eine private Nutzung ist nicht gestattet, es sei denn, es liegt eine ausdrückliche schriftliche Genehmigung der Geschäftsleitung vor. Jedes Fahrzeug ist mit einer Tankkarte ausgestattet, die an allen Markentankstellen unseres Vertragspartners (Aral & Shell) genutzt werden kann. Bitte tanken Sie ausschließlich den für das jeweilige Fahrzeug vorgeschriebenen Kraftstoff und bewahren Sie die Tankbelege sorgfältig auf.\n\nFür jede Fahrt ist ein elektronisches Fahrtenbuch lückenlos zu führen. Im Falle eines Unfalls oder einer Beschädigung des Fahrzeugs ist unverzüglich die Fuhrparkverwaltung sowie die Personalabteilung zu informieren. Ein entsprechender Schadensbericht muss innerhalb von 24 Stunden eingereicht werden. Bei Rückgabe ist das Fahrzeug sauber (innen und außen) und mit mindestens halbvollem Tank abzustellen. Der Schlüssel und das Fahrtenbuch sind persönlich bei Herrn Müller abzugeben.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Angestellte außerhalb des Außendienstes können nur nach Zustimmung der Teamleitung und Abschluss der Probezeit ein Firmenfahrzeug beantragen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei der Nutzung der Tankkarte...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kann man an jeder beliebigen Tankstelle tanken."
+                },
+                {
+                    "key": "b",
+                    "text": "ist die private Nutzung des Fahrzeugs erlaubt."
+                },
+                {
+                    "key": "c",
+                    "text": "muss man die Tankbelege aufbewahren."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenparkplätze\n\nWir freuen uns, Ihnen auf unserem Firmengelände Parkmöglichkeiten zur Verfügung stellen zu können. Bitte beachten Sie jedoch, dass die Anzahl der Stellplätze begrenzt ist und bestimmte Regeln eingehalten werden müssen, um einen reibungslosen Ablauf für alle zu gewährleisten.\n\nFür die Nutzung der Mitarbeiterparkplätze ist ein gültiger Parkausweis erforderlich. Diesen erhalten Sie auf Antrag bei der Personalabteilung (Raum E.12). Der Ausweis ist für ein Jahr gültig und muss während der Parkdauer stets gut sichtbar hinter der Windschutzscheibe Ihres Fahrzeugs angebracht werden. Fahrzeuge ohne gültigen oder sichtbaren Parkausweis können kostenpflichtig verwarnt oder im Wiederholungsfall sogar abgeschleppt werden.\n\nDie meisten Stellplätze stehen allen Mitarbeitern nach dem Prinzip „Wer zuerst kommt, parkt zuerst“ zur Verfügung. Eine Reservierung von allgemeinen Mitarbeiterparkplätzen ist nicht gestattet. Beachten Sie jedoch, dass einige wenige Parkplätze speziell für die Geschäftsleitung sowie für Mitarbeiterinnen und Mitarbeiter mit einer amtlichen Schwerbehinderung reserviert und entsprechend gekennzeichnet sind. Das Parken in Rettungswegen, Anlieferzonen oder auf nicht markierten Flächen ist strengstens untersagt.\n\nFür Besucherinnen und Besucher gibt es einen gesonderten, ausgeschilderten Parkbereich nahe dem Haupteingang. Besucher müssen sich bei ihrer Ankunft am Empfang anmelden. Für Fahrräder und Motorräder steht ein überdachter Abstellbereich neben dem Westeingang zur Verfügung. Bitte nutzen Sie ausschließlich diesen Bereich und sichern Sie Ihr Zweirad mit einem eigenen Schloss.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle Parkplätze auf dem Firmengelände können von allen Mitarbeitern jederzeit frei genutzt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Um einen Parkausweis zu bekommen, müssen Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sich an die Personalabteilung wenden."
+                },
+                {
+                    "key": "b",
+                    "text": "nachweisen, dass sie kein Fahrrad besitzen."
+                },
+                {
+                    "key": "c",
+                    "text": "sich täglich am Empfang neu anmelden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

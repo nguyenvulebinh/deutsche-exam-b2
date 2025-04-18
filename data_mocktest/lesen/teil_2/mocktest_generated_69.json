@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie, dies unverzüglich vor dem regulären Arbeitsbeginn sowohl Ihrer direkten Führungskraft als auch der Personalabteilung telefonisch oder per E-Mail mitzuteilen. Diese sofortige Benachrichtigung ist entscheidend, damit Arbeitsabläufe entsprechend angepasst werden können.\n\nGemäß den gesetzlichen Bestimmungen und unseren internen Regelungen sind Sie verpflichtet, spätestens am dritten Kalendertag Ihrer Arbeitsunfähigkeit eine ärztliche Bescheinigung (Arbeitsunfähigkeitsbescheinigung, Attest) bei der Personalabteilung einzureichen. Dauert die Krankheit länger als auf dem Attest angegeben, ist unverzüglich eine Folgebescheinigung vorzulegen. Das Original des Attests senden Sie bitte an die Personalabteilung.\n\nWährend der ersten sechs Wochen der Arbeitsunfähigkeit besteht in der Regel Anspruch auf Lohnfortzahlung durch den Arbeitgeber, sofern alle Meldepflichten erfüllt wurden. Bei längerer Krankheit greifen anschließend Regelungen der gesetzlichen Krankenversicherung.\n\nSobald Sie wieder arbeitsfähig sind, informieren Sie bitte Ihre Führungskraft über Ihre Rückkehr. Für allgemeine oder arbeitsplatzbezogene Gesundheitsfragen steht Ihnen unser Betriebsarzt, Dr. Weber, zur Verfügung. Bitte beachten Sie jedoch, dass der Betriebsarzt keine akuten Krankmeldungen entgegennimmt oder Arbeitsunfähigkeitsbescheinigungen für die aktuelle Erkrankung ausstellt.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss erst vorgelegt werden, wenn man länger als drei Arbeitstage fehlt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Der Betriebsarzt...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "nimmt die Krankmeldungen der Mitarbeiter entgegen."
+                },
+                {
+                    "key": "b",
+                    "text": "stellt die Arbeitsunfähigkeitsbescheinigungen aus."
+                },
+                {
+                    "key": "c",
+                    "text": "berät bei gesundheitlichen Fragen, die mit der Arbeit zusammenhängen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

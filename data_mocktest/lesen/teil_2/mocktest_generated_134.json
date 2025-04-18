@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Firmenfahrzeuge und Dienstreisen\n\nUnser Unternehmen verfügt über einen Pool an Firmenfahrzeugen, die Ihnen für dienstliche Fahrten zur Verfügung stehen. Wenn Sie ein Fahrzeug benötigen, reservieren Sie dieses bitte mindestens 48 Stunden im Voraus über das interne Buchungssystem. Dort sehen Sie die Verfügbarkeit der verschiedenen Modelle.\n\nDie Nutzung der Poolfahrzeuge ist ausschließlich für geschäftliche Zwecke gestattet. Private Nutzung ist grundsätzlich untersagt. Für die Betankung nutzen Sie bitte die im Fahrzeug befindliche Tankkarte. Bitte dokumentieren Sie den Kilometerstand vor und nach jeder Fahrt im Fahrtenbuch und hinterlassen Sie das Fahrzeug sauber. Eventuelle Schäden am Fahrzeug müssen unverzüglich dem Fuhrparkmanagement gemeldet werden.\n\nFür Dienstreisen ist im Vorfeld die Zustimmung Ihres bzw. Ihrer Vorgesetzten einzuholen. Nach Genehmigung durch Ihre/-n Vorgesetzte/-n erfolgt die Buchung von Transportmitteln (Bahn, Flug) und Unterkünften vorzugsweise über unsere zentrale Reiseabteilung oder das dafür vorgesehene Online-Buchungsportal. Bitte beachten Sie dabei stets die geltende Reisekostenrichtlinie des Unternehmens.\n\nDie Abrechnung Ihrer Reisekosten (Spesenabrechnung) erfolgt nach Beendigung der Reise über das Online-Tool zur Reisekostenabrechnung. Erstattungsfähig sind Kosten für Fahrt, Unterkunft und Verpflegung im Rahmen der Richtlinie. Reichen Sie alle Originalbelege digital über das Tool ein, spätestens 14 Tage nach Ihrer Rückkehr. Bei Fragen zur Abrechnung steht Ihnen Frau Meyer in der Buchhaltung (Durchwahl -112) zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl die Buchung von Poolfahrzeugen als auch die Reisekostenabrechnung erfolgen über digitale Systeme des Unternehmens.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bevor eine Dienstreise gebucht wird,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss die Genehmigung des/der Vorgesetzten vorliegen."
+                },
+                {
+                    "key": "b",
+                    "text": "sind die voraussichtlichen Kosten im Online-Tool einzutragen."
+                },
+                {
+                    "key": "c",
+                    "text": "sollte das entsprechende Poolfahrzeug reserviert werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

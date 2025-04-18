@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Arbeitsunfähigkeit\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie, die folgenden Schritte genau einzuhalten. Dies ist wichtig, um einen reibungslosen Ablauf sicherzustellen und Ihren Anspruch auf Lohnfortzahlung im Krankheitsfall zu gewährleisten.\n\nInformieren Sie bitte **unverzüglich** am ersten Tag Ihrer Abwesenheit Ihren direkten Vorgesetzten telefonisch über Ihre Arbeitsunfähigkeit und deren voraussichtliche Dauer. Dieser Anruf muss **vor** dem regulären Arbeitsbeginn erfolgen. Eine E-Mail ist hierfür nicht ausreichend, da sichergestellt werden muss, dass die Information sofort wahrgenommen wird.\n\nSpätestens am **dritten Kalendertag** der Abwesenheit muss eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) in der Personalabteilung vorliegen. Achten Sie darauf, dass Kalendertage auch Wochenenden und Feiertage umfassen. Die Bescheinigung kann digital über das Mitarbeiterportal hochgeladen oder per Post eingereicht werden. Die Verantwortung für den rechtzeitigen Eingang liegt bei Ihnen.\n\nSollte Ihre Arbeitsunfähigkeit länger andauern als auf der ursprünglichen Bescheinigung angegeben, ist eine Folgebescheinigung notwendig. Diese muss ebenfalls spätestens am ersten Tag nach Ablauf der vorherigen AU in der Personalabteilung eintreffen. Informieren Sie zudem bitte Ihren Vorgesetzten proaktiv über die Verlängerung Ihrer Abwesenheit, idealerweise bevor die aktuelle AU ausläuft.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss immer direkt am ersten Krankheitstag der Personalabteilung vorgelegt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss bis zum dritten Krankheitstag bei der Personalabteilung sein."
+                },
+                {
+                    "key": "b",
+                    "text": "ist direkt dem Vorgesetzten am ersten Tag zu geben."
+                },
+                {
+                    "key": "c",
+                    "text": "wird nur benötigt, wenn man länger als eine Woche krank ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

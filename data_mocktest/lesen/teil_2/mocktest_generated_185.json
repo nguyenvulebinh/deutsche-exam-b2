@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege\n\nEine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Bitte machen Sie sich mit den bei uns üblichen Kommunikationswegen vertraut.\n\nDas wichtigste Instrument für die direkte Kommunikation mit Kolleginnen, Kollegen und Vorgesetzten ist die dienstliche E-Mail. Achten Sie hierbei stets auf einen professionellen Tonfall und eine klare, aussagekräftige Betreffzeile, damit Ihre Nachricht korrekt zugeordnet werden kann. Grundsätzlich erwarten wir, dass interne E-Mail-Anfragen innerhalb von 24 Stunden während der Arbeitstage beantwortet werden. Die Nutzung privater E-Mail-Konten für dienstliche Zwecke ist untersagt.\n\nFür allgemeine Unternehmensinformationen, offizielle Ankündigungen, Richtlinienänderungen sowie den Zugriff auf wichtige Formulare und Vorlagen nutzen Sie bitte unser Firmen-Intranet \"Connect\". Es ist Ihre primäre Informationsquelle und sollte regelmäßig, idealerweise täglich, aufgerufen werden. Hier finden Sie auch den aktuellen Speiseplan der Kantine und Informationen zu internen Veranstaltungen.\n\nWir bitten Sie dringend, auf die Nutzung von privaten Messenger-Diensten (wie WhatsApp, Signal etc.) für arbeitsbezogene Absprachen zu verzichten. Diese Kanäle entsprechen nicht unseren Datenschutzstandards und erschweren die Nachvollziehbarkeit von Vereinbarungen. Für kurze, schnelle Abstimmungen innerhalb von Teams kann der unternehmensinterne Chat \"TeamTalk\" genutzt werden, dessen Nutzung jedoch auf rein dienstliche Inhalte beschränkt ist.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Es wird erwartet, dass Mitarbeiter bei E-Mails sowohl auf den Inhalt als auch auf formale Aspekte wie den Betreff achten.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Offizielle Unternehmensmitteilungen finden Mitarbeiter hauptsächlich...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "in ihrem dienstlichen E-Mail-Postfach."
+                },
+                {
+                    "key": "b",
+                    "text": "im Firmen-Intranet \"Connect\"."
+                },
+                {
+                    "key": "c",
+                    "text": "über den internen Chat \"TeamTalk\"."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

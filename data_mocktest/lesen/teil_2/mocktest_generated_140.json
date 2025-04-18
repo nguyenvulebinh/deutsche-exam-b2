@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Mülltrennung und umweltgerechte Entsorgung\n\nWir legen großen Wert auf Nachhaltigkeit und bitten Sie daher um Ihre aktive Mithilfe bei der korrekten Mülltrennung. Dies schont nicht nur die Umwelt, sondern hilft uns auch, gesetzliche Vorschriften einzuhalten und Entsorgungskosten zu senken.\n\nAn oder in unmittelbarer Nähe Ihres Arbeitsplatzes finden Sie drei verschiedene Behälter: einen blauen für Papier und Pappe, einen gelben für Verpackungsmaterialien (Kunststoff, Metall, Verbundstoffe – bitte achten Sie auf das Symbol „Grüner Punkt“) und einen schwarzen für Restmüll (z.B. Taschentücher, Stifte, stark verschmutztes Papier). Für die korrekte Erstsortierung in diese Behälter ist jede Mitarbeiterin und jeder Mitarbeiter selbst verantwortlich.\n\nAuf jeder Etage gibt es zudem zentrale Sammelstellen mit größeren Containern für diese drei Abfallarten. Die Behälter an den Arbeitsplätzen sollten regelmäßig dorthin entleert werden. Die Entleerung der großen Container an den Sammelstellen erfolgt täglich durch unser Reinigungspersonal. Biomüll (z.B. Essensreste) darf ausschließlich in den dafür vorgesehenen Behältern in der Teeküche und Kantine entsorgt werden.\n\nBesondere Aufmerksamkeit erfordert Sondermüll. Dazu zählen Batterien, Akkus, defekte Elektrokleingeräte (wie Tastaturen, Mäuse) oder Leuchtmittel. Diese Abfälle dürfen keinesfalls in den normalen Müll gelangen! Bitte geben Sie solchen Sondermüll ausschließlich am Empfang im Erdgeschoss ab. Dort befindet sich eine spezielle Sammelbox, deren Inhalt fachgerecht entsorgt wird.\n\nWir danken Ihnen für Ihre Kooperation und Ihr umweltbewusstes Handeln im Betriebsalltag.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für die korrekte Sortierung des Abfalls am eigenen Arbeitsplatz sind die Mitarbeiterinnen und Mitarbeiter selbst zuständig.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Sondermüll wie Batterien oder defekte Kleingeräte...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "können in den schwarzen Restmüllbehältern entsorgt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "müssen am Empfang im Erdgeschoss abgegeben werden."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen vom Reinigungspersonal abgeholt werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

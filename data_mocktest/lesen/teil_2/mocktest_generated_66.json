@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Vorgehen bei Krankheit\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es von entscheidender Bedeutung, das Unternehmen unverzüglich darüber zu informieren. Der erste und wichtigste Schritt ist die telefonische Benachrichtigung Ihres direkten Vorgesetzten. Dieser Anruf muss unbedingt vor Ihrem regulären Arbeitsbeginn erfolgen, damit Ihre Aufgaben kurzfristig umdisponiert werden können. Eine Information per E-Mail oder SMS ist für diese Erstmeldung an den Vorgesetzten nicht ausreichend.\n\nNachdem Sie Ihren Vorgesetzten informiert haben, benachrichtigen Sie bitte zusätzlich die Personalabteilung. Hierfür genügt eine E-Mail, in der Sie Ihren vollständigen Namen und die voraussichtliche Dauer Ihrer Abwesenheit angeben. Diese zweistufige Information stellt sicher, dass sowohl Ihr Team als auch die Verwaltung korrekt informiert sind.\n\nGemäß den gesetzlichen und betrieblichen Regelungen sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (Krankschreibung) vorzulegen, wenn die Krankheit länger als drei Kalendertage andauert. Das bedeutet, die Bescheinigung muss der Personalabteilung spätestens am vierten Kalendertag Ihrer Abwesenheit vorliegen. Eine Kopie (Scan), die Sie vorab per E-Mail an die Personalabteilung senden, ist zunächst ausreichend, jedoch muss das Originaldokument unverzüglich nachgereicht werden, entweder per Post oder persönlich nach Ihrer Rückkehr.\n\nSollte Ihre Arbeitsunfähigkeit über den auf der Bescheinigung angegebenen Zeitraum hinaus andauern, ist eine Folgebescheinigung erforderlich. Bitte informieren Sie auch hierüber sowohl Ihren Vorgesetzten als auch die Personalabteilung rechtzeitig und reichen Sie die neue Bescheinigung fristgerecht ein. Sobald Sie wissen, wann Sie Ihre Arbeit wieder aufnehmen können, teilen Sie dies bitte ebenfalls Ihrem Vorgesetzten mit.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die erste Benachrichtigung über eine Krankheit kann wahlweise telefonisch oder per E-Mail an den Vorgesetzten erfolgen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die ärztliche Arbeitsunfähigkeitsbescheinigung muss...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sofort am ersten Tag der Abwesenheit eingereicht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "dem Vorgesetzten bei Rückkehr an den Arbeitsplatz übergeben werden."
+                },
+                {
+                    "key": "c",
+                    "text": "spätestens am vierten Krankheitstag der Personalabteilung vorliegen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

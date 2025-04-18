@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege\n\nEine klare und effiziente interne Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um sicherzustellen, dass Informationen richtig ankommen und Prozesse reibungslos ablaufen, nutzen wir verschiedene Kommunikationskanäle mit spezifischen Zwecken.\n\nFür offizielle Ankündigungen, die Weitergabe wichtiger Dokumente oder die formelle Korrespondenz, insbesondere mit externen Partnern, ist die E-Mail das primäre Kommunikationsmittel. Bitte achten Sie stets auf eine klare Betreffzeile und verwenden Sie die formelle Anrede \"Sie\", sofern keine andere Absprache besteht. Für kurze Rückfragen oder informellen Austausch ist die E-Mail hingegen weniger geeignet.\n\nUnser internes Chat-Tool \"TeamConnect\" dient dem schnellen Austausch innerhalb von Teams oder für kurze, projektbezogene Fragen. Hier können Nachrichten konzise formuliert und rasch beantwortet werden. Es gibt spezielle Kanäle für verschiedene Abteilungen und Projekte. Vermeiden Sie jedoch längere Diskussionen im Chat, die besser in einem persönlichen Gespräch oder einer Telefonkonferenz aufgehoben wären.\n\nDas Firmenintranet ist Ihre zentrale Anlaufstelle für allgemeine Unternehmensnachrichten, HR-Formulare, Richtlinien und das Mitarbeiterhandbuch. Wichtige Updates, beispielsweise zu neuen Regelungen oder internen Veranstaltungen, werden hier veröffentlicht. Es wird erwartet, dass Sie das Intranet regelmäßig auf aktuelle Informationen prüfen. Die Personalabteilung ist beispielsweise für die Aktualität der HR-Dokumente zuständig, während die Marketingabteilung Unternehmensnachrichten pflegt.\n\nBei sehr dringenden Angelegenheiten, die eine sofortige Reaktion erfordern, ist ein direkter Telefonanruf bei der zuständigen Person oder Abteilung der schnellste Weg. Chat-Nachrichten oder E-Mails können unter Umständen nicht zeitnah gelesen werden und sind daher für Notfälle oder extrem zeitkritische Informationen nicht die erste Wahl.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Der interne Chat ist das bevorzugte Mittel für alle Arten von dringenden Mitteilungen im Unternehmen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Intranet dient im Unternehmen hauptsächlich dazu,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "zentrale Unternehmensinformationen und wichtige Dokumente zugänglich zu machen."
+                },
+                {
+                    "key": "b",
+                    "text": "den schnellen Austausch von Fragen innerhalb der Projektteams zu ermöglichen."
+                },
+                {
+                    "key": "c",
+                    "text": "die formelle Kommunikation mit externen Partnern zu führen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

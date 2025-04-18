@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall und bei Arbeitsunfähigkeit\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es unerlässlich, das Unternehmen unverzüglich darüber zu informieren. Bitte melden Sie sich noch vor dem regulären Arbeitsbeginn telefonisch bei Ihrer oder Ihrem direkten Vorgesetzten krank. Eine E-Mail ist für die Erstmeldung nicht ausreichend, da sichergestellt sein muss, dass die Information rechtzeitig ankommt. Teilen Sie bei diesem Anruf bitte auch die voraussichtliche Dauer Ihrer Abwesenheit mit, sofern diese bereits absehbar ist.\n\nEine reine Krankmeldung genügt jedoch nicht, wenn die Arbeitsunfähigkeit länger andauert. Gemäß den gesetzlichen Bestimmungen und unseren internen Regelungen sind Sie verpflichtet, spätestens am vierten Kalendertag Ihrer Abwesenheit eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Zögern Sie nicht, bereits früher einen Arzt aufzusuchen, falls Ihr Gesundheitszustand dies erfordert.\n\nDie Vorlage der AU erfolgt in zwei Schritten: Bitte laden Sie die Bescheinigung zunächst digital über unser Mitarbeiterportal hoch. Das Originaldokument senden Sie anschließend bitte zusätzlich per Post an die Personalabteilung. Nur so kann die korrekte Bearbeitung und Dokumentation gewährleistet werden.\n\nDie Einhaltung dieser Meldepflichten ist von großer Bedeutung. Eine verspätete oder fehlende Krankmeldung bzw. die nicht fristgerechte Einreichung der Arbeitsunfähigkeitsbescheinigung kann nicht nur Ihre Ansprüche auf Entgeltfortzahlung im Krankheitsfall gefährden, sondern stellt auch einen Verstoß gegen Ihre arbeitsvertraglichen Pflichten dar. Im Wiederholungsfall oder bei schwerwiegenden Versäumnissen müssen Sie mit arbeitsrechtlichen Konsequenzen, wie beispielsweise einer Abmahnung, rechnen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl die sofortige telefonische Meldung als auch die fristgerechte Einreichung der AU sind erforderlich.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wird die Arbeitsunfähigkeitsbescheinigung zu spät eingereicht,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss die mündliche Krankmeldung schriftlich wiederholt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "informiert die Personalabteilung automatisch die Krankenkasse darüber."
+                },
+                {
+                    "key": "c",
+                    "text": "kann dies zu einer offiziellen Abmahnung durch den Arbeitgeber führen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

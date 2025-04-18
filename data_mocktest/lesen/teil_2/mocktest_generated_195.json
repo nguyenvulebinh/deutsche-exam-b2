@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung des Firmen-Intranets und digitaler Werkzeuge\n\nHerzlich willkommen in unserem Team! Um Ihnen den Einstieg zu erleichtern und die Zusammenarbeit effizient zu gestalten, nutzen wir verschiedene digitale Werkzeuge. Das zentrale Portal ist unser Firmen-Intranet, das Ihnen als Hauptinformationsquelle dient.\n\nIm Intranet finden Sie aktuelle Unternehmensnachrichten, wichtige Ankündigungen der Geschäftsleitung sowie das Formularcenter, in dem Sie Dokumente wie Urlaubsanträge oder Reisekostenabrechnungen herunterladen können. Des Weiteren ist hier der zentrale Kalender für die Buchung von Besprechungsräumen integriert. Bitte stellen Sie sicher, dass Ihr persönliches Profil im Intranet stets aktuell ist, insbesondere Ihre Kontaktdaten und Ihre Abteilung.\n\nFür die Organisation und Kommunikation innerhalb spezifischer Projekte verwenden wir ein separates Projektmanagement-Tool (Zugang via Intranet-Link). Hier werden Aufgaben zugewiesen, Fristen gesetzt und projektbezogene Diskussionen geführt. Es ist essenziell, dieses Tool regelmäßig zu prüfen, um über den Fortschritt Ihrer Projekte informiert zu bleiben.\n\nZusätzlich existiert eine unternehmensweite Wissensdatenbank (Wiki), ebenfalls über das Intranet erreichbar. Dort werden bewährte Arbeitsabläufe, technische Anleitungen und allgemeines Firmenwissen dokumentiert und gepflegt. Bei Beiträgen oder Kommentaren in allen Systemen bitten wir um einen professionellen und respektvollen Umgangston. Bei technischen Problemen mit dem Intranet oder den Tools wenden Sie sich bitte an den IT-Support (Durchwahl -456).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für die Buchung von Besprechungsräumen und den Zugriff auf HR-Formulare sollten Mitarbeiter das Intranet nutzen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das Projektmanagement-Tool dient hauptsächlich dazu,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "allgemeine Unternehmensnachrichten zu verbreiten."
+                },
+                {
+                    "key": "b",
+                    "text": "detaillierte Anleitungen für Arbeitsprozesse nachzuschlagen."
+                },
+                {
+                    "key": "c",
+                    "text": "Aufgaben innerhalb von Projekten zu verwalten und zu kommunizieren."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

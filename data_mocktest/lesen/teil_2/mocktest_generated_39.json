@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinie und Datensicherheit\n\nHerzlich willkommen in unserem Unternehmen! Damit die Nutzung unserer IT-Ressourcen sicher und effizient erfolgt, bitten wir Sie, die folgende IT-Nutzungsrichtlinie sorgfältig zu lesen und zu befolgen. Diese Richtlinie gilt für die gesamte vom Unternehmen zur Verfügung gestellte Hardware (PCs, Laptops, Tablets, Diensthandys), jegliche Software sowie den Zugang zu unseren Netzwerken (LAN, WLAN, VPN). Jeder Mitarbeiter trägt eine Mitverantwortung für die IT-Sicherheit.\n\nSie erhalten einen persönlichen Benutzeraccount und ein initiales Passwort. Es ist Ihnen strengstens untersagt, Ihre Zugangsdaten (Benutzername und Passwort) an Dritte weiterzugeben oder aufzuschreiben. Zu Ihrer eigenen Sicherheit müssen Passwörter regelmäßig, mindestens alle 90 Tage, geändert werden. Ein sicheres Passwort besteht aus mindestens 12 Zeichen und enthält eine Kombination aus Groß- und Kleinbuchstaben, Zahlen sowie Sonderzeichen. Sollten Sie den Verdacht haben, dass Ihr Passwort kompromittiert wurde, ändern Sie es bitte sofort und informieren Sie den IT-Support.\n\nDie Ihnen überlassene Hard- und Software ist primär für dienstliche Zwecke bestimmt. Die Installation jeglicher Software – das schließt auch kostenlose Programme (Freeware) oder Open-Source-Software ein – bedarf der vorherigen schriftlichen Genehmigung durch unsere IT-Abteilung. Das Herunterladen oder Installieren nicht autorisierter Software ist wegen Sicherheitsrisiken (Viren, Malware) und potenzieller Lizenzverstöße strikt verboten. Die Nutzung privater USB-Sticks oder externer Festplatten sollte vermieden werden; falls unumgänglich, müssen diese vor der Verbindung von der IT gescannt werden.\n\nDie Nutzung des Internets und der Firmen-E-Mail-Adresse soll hauptsächlich arbeitsbezogenen Aufgaben dienen. Eine begrenzte, gelegentliche private Nutzung ist tolerierbar, solange sie Ihre Arbeitsleistung nicht beeinträchtigt, keine übermäßige Netzwerkbandbreite beansprucht, die Sicherheit nicht gefährdet und nicht gegen Unternehmensrichtlinien oder geltendes Recht verstößt (z.B. kein Download illegaler Inhalte, kein übermäßiges Streaming, keine Online-Spiele). Das Unternehmen behält sich das Recht vor, die Nutzung im gesetzlich zulässigen Rahmen zu überprüfen. Private E-Mails sind entsprechend zu kennzeichnen.\n\nAlle Unternehmensdaten sind vertraulich zu behandeln. Sensible Informationen dürfen ausschließlich auf den dafür vorgesehenen Netzlaufwerken gespeichert werden, nicht lokal auf dem Desktop Ihres Rechners oder auf unverschlüsselten mobilen Geräten. Die regelmäßige Datensicherung der Netzlaufwerke wird zentral von der IT-Abteilung durchgeführt. Bei Verdacht auf Sicherheitsvorfälle, wie beispielsweise eine Vireninfektion oder bei Verlust von IT-Geräten, sind Sie verpflichtet, unverzüglich den IT-Helpdesk zu kontaktieren.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Jegliche private Nutzung von Firmen-E-Mail und Internet ist den Mitarbeitern untersagt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei Verdacht auf einen Computervirus...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen Mitarbeiter versuchen, das Problem selbst zu beheben."
+                },
+                {
+                    "key": "b",
+                    "text": "ist die direkte Vorgesetzte oder der Vorgesetzte zu benachrichtigen."
+                },
+                {
+                    "key": "c",
+                    "text": "sollten Mitarbeiter umgehend den IT-Helpdesk informieren."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

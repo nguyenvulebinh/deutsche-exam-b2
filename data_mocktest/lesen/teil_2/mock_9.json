@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Gemeinschaftsküchen\n\nIn unserem Betrieb haben wir zwei kleine Gemeinschaftsküchen, die alle Mitarbeitenden nutzen können. Für die Benutzung der Küchen gelten folgende Regeln:\n\nDie Küchen sind mit Geschirrspülautomaten, Kaffeevollautomaten und Wasserkochern ausgestattet, die Küche im 2. OG verfügt auch über eine Mikrowelle. Die Geräte werden von einer externen Firma gewartet, für das Be- und Entladen (Geschirrspüler) bzw. das Nachfüllen von Kaffee, Wasser und Milch (Kaffeevollautomat) sowie das Entkalken der Wasserkocher sind jeweils zwei Mitarbeitende verantwortlich. Wer Küchendienst hat, wird auf Plänen in den Küchen ausgehängt. Die Einteilung erfolgt automatisch in alphabetischer Reihenfolge nach den Nachnamen der Mitarbeitenden und berücksichtigt Urlaubszeiten, soweit sie frühzeitig eingereicht wurden. Wenn Änderungen notwendig sind (Urlaub, Krankheit usw.), bitten wir diese schnellstmöglich an Frau Schubert zu melden, die Änderungen vornehmen kann.\n\nIn beiden Küchen stehen Wasserspender für gekühltes Wasser. Das Wasser ist für alle Mitarbeitenden kostenlos. Die Tanks werden täglich einmal am Abend von Herrn Nguyen vom externen Facilitymanagement ausgetauscht. Sollte ein weiterer Austausch nötig sein, wenden sich die Mitarbeitenden des Küchendienstes bitte an Herrn Nguyen.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "In beiden Küchen ist eine Kochmöglichkeit vorhanden.",
+        "loesung": "falsch"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Der Küchendienst",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "erfolgt nach einem festen System."
+          },
+          {
+            "key": "b",
+            "text": "ist für die Mitarbeitenden freiwillig."
+          },
+          {
+            "key": "c",
+            "text": "wird von einer Mitarbeiterin eingeteilt."
+          }
+        ],
+        "loesung": "a"
+      }
+    ]
+}
+  

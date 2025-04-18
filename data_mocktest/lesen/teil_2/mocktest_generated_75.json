@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der IT-Infrastruktur und Support\n\nHerzlich willkommen in unserem Unternehmen! Damit Sie von Beginn an effizient arbeiten können, finden Sie hier wichtige Hinweise zur Nutzung unserer IT-Systeme. Für den Zugang zum Firmennetzwerk und zu Ihrem persönlichen Arbeitsplatz erhalten Sie individuelle Zugangsdaten. Bitte ändern Sie das initiale Passwort umgehend und beachten Sie unsere Passwortrichtlinien (mind. 12 Zeichen, Groß-/Kleinschreibung, Zahlen, Sonderzeichen). Firmengeräte wie Laptops und Smartphones sind primär für dienstliche Zwecke vorgesehen. Eine maßvolle private Nutzung ist gestattet, sofern sie die Arbeitsleistung nicht beeinträchtigt und keine Sicherheitsrisiken birgt.\n\nDie Installation von Software auf Ihrem Arbeitsrechner ist ausschließlich der IT-Abteilung vorbehalten. Dies dient der Sicherheit und Stabilität unseres Netzwerks. Benötigen Sie eine spezielle Anwendung, stellen Sie bitte einen Antrag über das Intranet. Das Herunterladen und Installieren von nicht genehmigter Fremdsoftware ist strengstens untersagt. Sorgen Sie bitte außerdem eigenverantwortlich für eine regelmäßige Datensicherung Ihrer lokalen Arbeitsdateien auf dem dafür vorgesehenen Netzlaufwerk.\n\nSollten technische Probleme auftreten oder Sie Unterstützung benötigen, steht Ihnen unsere IT-Supportabteilung zur Verfügung. Für Supportanfragen nutzen Sie bitte vorrangig unser Online-Ticketsystem im Intranet. Dies ermöglicht eine strukturierte Bearbeitung und Nachverfolgung. Geben Sie dabei eine genaue Fehlerbeschreibung und Dringlichkeitsstufe an. Nur in sehr dringenden Fällen, die Ihre Arbeitsfähigkeit unmittelbar blockieren, können Sie den Support während der Geschäftszeiten (Mo-Fr, 8-17 Uhr) auch telefonisch unter der Durchwahl -45 erreichen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die private Nutzung von Firmengeräten ist den Mitarbeitenden generell untersagt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei technischen Problemen mit der IT-Ausstattung sollen Mitarbeitende...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ihre Anfrage normalerweise über das Online-System einreichen."
+                },
+                {
+                    "key": "b",
+                    "text": "immer zuerst versuchen, das Problem telefonisch zu melden."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigte Software-Updates selbstständig installieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

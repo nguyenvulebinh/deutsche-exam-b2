@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der IT-Ressourcen\n\nDie IT-Infrastruktur unseres Unternehmens, einschließlich Computer, Netzwerkzugang, Internet und E-Mail-Systeme, wird Ihnen zur Erfüllung Ihrer dienstlichen Aufgaben zur Verfügung gestellt. Diese Ressourcen sind grundsätzlich für geschäftliche Zwecke vorgesehen.\n\nEine private Nutzung des Internets und des Firmen-E-Mail-Kontos ist in geringem Umfang während der Pausenzeiten gestattet, sofern dadurch die Arbeitsleistung nicht beeinträchtigt wird und keine zusätzlichen Kosten für das Unternehmen entstehen. Das Aufrufen oder Verbreiten von rechtswidrigen, anstößigen oder urheberrechtlich geschützten Inhalten ist strengstens untersagt. Der E-Mail-Verkehr muss stets professionell und respektvoll sein.\n\nDie Installation von Software auf Firmencomputern ist ausschließlich der IT-Abteilung vorbehalten. Sollten Sie für Ihre Arbeit zusätzliche Programme benötigen, stellen Sie bitte einen begründeten Antrag über das IT-Helpdesk-Portal. Eigenmächtige Installationen sind aus Sicherheits- und Lizenzgründen nicht zulässig.\n\nZur Gewährleistung der Datensicherheit sind Sie verpflichtet, Ihr Passwort für den Netzwerkzugang geheim zu halten und regelmäßig, mindestens alle 90 Tage, zu ändern. Verwenden Sie ein sicheres Passwort, das aus einer Kombination von Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen besteht und mindestens 12 Zeichen lang ist. Geben Sie Ihr Passwort unter keinen Umständen an Dritte weiter, auch nicht an Kollegen oder Vorgesetzte. Bei Problemen mit dem Zugang wenden Sie sich bitte umgehend an den IT-Support.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter dürfen benötigte Software selbstständig auf ihrem Dienstrechner installieren, wenn sie für die Arbeit notwendig ist.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Mitarbeiter bezüglich ihrer Firmenpasswörter beachten?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie sollten ein Passwort wählen, das leicht zu merken ist."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie müssen vergessene Passwörter der IT-Abteilung melden, damit diese sie zurücksetzen kann."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie sind für die Geheimhaltung und die regelmäßige Erneuerung ihrer Passwörter verantwortlich."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

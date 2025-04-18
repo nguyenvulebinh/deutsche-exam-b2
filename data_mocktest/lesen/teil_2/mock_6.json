@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Arbeitszeit und Arbeitszeitgestaltung\n\nDie wöchentliche Arbeitszeit in der Produktion beträgt 36,5 Stunden. Für den Verwaltungsbereich gelten 39 Stunden. Sollte mit Ihnen arbeitsvertraglich eine andere Wochenarbeitszeit vereinbart worden sein oder Sie in Teilzeit arbeiten, gelten dennoch die in Ihrem Arbeitsbereich üblichen Arbeitszeitregelungen wie Arbeitsantritt und Pausenzeiten.\n\nVon Ihnen geleistete Mehrarbeit wird auf Ihrem Arbeitszeitkonto gutgeschrieben. Nach Absprache mit Ihrer Teamleitung können Sie einen Freizeitausgleich vornehmen. Urlaubsanträge reichen Sie bitte ebenfalls für das gesamte Jahr dort ein.\n\nAls einer der ersten Arbeitgeber in der Region haben wir als Instrument der flexiblen Arbeitszeitgestaltung das Sabbatical eingeführt. Das Sabbatical ist eine befristete Unterbrechung des Arbeitslebens, die von drei Monaten bis zu einem Jahr reichen kann. Das Arbeitsentgelt in dieser Zeit kann durch unterschiedliche Möglichkeiten finanziert werden, z.B. durch freiwilligen Lohnverzicht, die Umwandlung in eine Teilzeitbeschäftigung oder das Ansparen von Arbeitszeitguthaben. Stimmt die Geschäftsleitung zu, kann das Sabbatical beliebig oft wiederholt werden. Nach Ihrer Rückkehr tritt Ihr ursprünglicher Arbeitsvertrag wieder in Kraft und Sie werden in der gleichen Position weiterbeschäftigt.\n\nWeitere Informationen zu diesem Angebot erhalten Sie im Personalbüro. Falls Sie sich zu diesem Schritt entscheiden, sprechen Sie bitte unsere Juniorchefin Renate Schrader an.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "In diesem Betrieb gibt es unterschiedliche Arbeitszeitmodelle.",
+        "loesung": "richtig"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Wer ein Sabbatical macht,",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "arbeitet zwei Monate weniger im Jahr."
+          },
+          {
+            "key": "b",
+            "text": "kehrt danach an den alten Arbeitsplatz zurück."
+          },
+          {
+            "key": "c",
+            "text": "verdient in dieser Zeit kein Geld."
+          }
+        ],
+        "loesung": "b"
+      }
+    ]
+}
+  

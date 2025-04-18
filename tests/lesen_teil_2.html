@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TELC B2 - Lesen Teil 2</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .back-button {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 8px 15px;
+            background-color: #6c757d;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        .back-button:hover {
+            background-color: #5a6268;
+        }
+
+        /* Styles specific to Lesen Teil 2 */
+        .reading-content {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        /* Additional styles for markdown content */
+        .reading-content h2 {
+            color: #2c3e50;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        .reading-content h3 {
+            color: #34495e;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }
+
+        .reading-content h4 {
+            color: #3c6382;
+            margin-top: 0.8em;
+            margin-bottom: 0.4em;
+        }
+
+        .reading-content p {
+            margin-bottom: 1em;
+        }
+
+        .reading-content strong, .reading-content b {
+            font-weight: 600;
+            color: #222;
+        }
+
+        .reading-content em, .reading-content i {
+            font-style: italic;
+        }
+
+        .reading-content ul, .reading-content ol {
+            margin-left: 1.5em;
+            margin-bottom: 1em;
+        }
+
+        .reading-content li {
+            margin-bottom: 0.3em;
+        }
+
+        .reading-content a {
+            color: #3498db;
+            text-decoration: underline;
+        }
+
+        .reading-content a:hover {
+            color: #2980b9;
+        }
+
+        /* Additional styles for marked.js rendered content */
+        .reading-content blockquote {
+            border-left: 3px solid #ddd;
+            padding-left: 10px;
+            margin-left: 10px;
+            color: #555;
+        }
+        
+        .reading-content table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 1em;
+        }
+        
+        .reading-content th,
+        .reading-content td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        
+        .reading-content th {
+            background-color: #f2f2f2;
+        }
+        
+        .reading-content code {
+            background-color: #f5f5f5;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+        
+        .reading-content pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        
+        /* Fix line height in lists for better readability */
+        .reading-content li p {
+            margin: 0;
+        }
+
+        .thema {
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .text {
+            white-space: pre-line;
+            margin-bottom: 20px;
+        }
+
+        .question {
+            background-color: #fff;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        .question-text {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .options {
+            margin-left: 20px;
+        }
+
+        .option {
+            margin: 5px 0;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+
+        .option input[type="radio"],
+        .option input[type="checkbox"] {
+            margin-right: 10px;
+        }
+
+        .option-text {
+            flex-grow: 1;
+        }
+
+        .option.selected {
+            font-weight: bold;
+        }
+
+        .option.correct {
+            color: #28a745;
+        }
+
+        .option.incorrect {
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>TELC B2 - Lesen Teil 2</h1>
+        <a href="../index.html" class="back-button">← Zurück zur Testauswahl</a>
+    </div>
+    
+    <div id="loading" class="loading">
+        Test wird geladen...
+    </div>
+    
+    <div id="test-content" class="hidden">
+        <div class="instructions" id="instructions">Lesen Sie die Texte und die Aufgaben. Ist die Aussage dazu richtig oder falsch und welche Antwort (a, b oder c) passt am besten? 
+            Markieren Sie Ihre Lösungen auf dem Antwortbogen.</div>
+        
+        <div class="reading-content">
+            <div class="thema" id="thema"></div>
+            <div class="text" id="text-content"></div>
+        </div>
+        
+        <div id="questions-container">
+            <!-- Questions will be dynamically generated here -->
+        </div>
+        
+        <div class="buttons">
+            <button id="finish-btn">Fertig</button>
+            <button id="new-test-btn" class="hidden">Neuer Test</button>
+        </div>
+        
+        <div id="results" class="results hidden">
+            <h2>Ergebnisse</h2>
+            <div class="score" id="score"></div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>TELC B2 Test Übungsplattform</p>
+    </footer>
+    
+    <!-- Include Marked.js for markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Import JavaScript modules -->
+    <script type="module">
+        // Set the test type parameter for the app.js module
+        window.testType = 'lesen-teil-2';
+        import "../js/app.js";
+    </script>
+</body>
+</html> 

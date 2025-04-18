@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie arbeitsunfähig erkranken, bitten wir Sie, dies unverzüglich Ihrem direkten Vorgesetzten mitzuteilen. Die Information muss unbedingt *vor* Ihrem regulären Arbeitsbeginn erfolgen und grundsätzlich telefonisch geschehen. Nur so kann sichergestellt werden, dass Ihre Abwesenheit rechtzeitig bekannt ist und ggf. notwendige Vertretungsregelungen getroffen werden können. Eine zusätzliche Benachrichtigung per E-Mail ist möglich, ersetzt jedoch den obligatorischen Anruf nicht.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (Attest) ist für die Dokumentation Ihrer Abwesenheit zwingend erforderlich. Diese Bescheinigung muss dem Unternehmen spätestens am dritten Kalendertag Ihrer Erkrankung vorliegen. Das bedeutet, wenn Sie beispielsweise an einem Montag erkranken, muss das Attest spätestens am Mittwoch eingereicht werden. Bitte geben Sie das Original oder einen hochwertigen Scan des Attests bei Ihrem Vorgesetzten ab. Dieser leitet die Information an die Personalabteilung weiter.\n\nSollte Ihre Arbeitsunfähigkeit über den auf dem Attest genannten Zeitraum hinaus andauern, ist es notwendig, unverzüglich eine Folgebescheinigung einzureichen. Auch diese geben Sie bitte wieder bei Ihrem Vorgesetzten ab. Die Einhaltung dieser Regelungen ist eine Voraussetzung für die Fortzahlung Ihres Entgelts im Krankheitsfall.\n\nBei Fragen zum Verfahren oder zur Lohnfortzahlung können Sie sich jederzeit an die Mitarbeiterinnen und Mitarbeiter der Personalabteilung wenden. Dort erhalten Sie kompetente Auskunft und Unterstützung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Krankmeldung kann ausschließlich per E-Mail erfolgen, wenn dies vor Arbeitsbeginn geschieht.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist direkt am ersten Tag der Krankheit erforderlich."
+                },
+                {
+                    "key": "b",
+                    "text": "muss spätestens am dritten Kalendertag der Abwesenheit vorgelegt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt man erst, wenn man länger als drei Tage krank ist."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

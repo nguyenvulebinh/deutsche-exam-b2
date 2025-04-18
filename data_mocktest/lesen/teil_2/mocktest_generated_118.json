@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Nutzung von Dienstfahrzeugen\n\nDie Nutzung unserer Dienstfahrzeuge ist Mitarbeitenden vorbehalten, deren Tätigkeit regelmäßige oder notwendige Geschäftsreisen erfordert. Grundvoraussetzung ist selbstverständlich der Besitz einer gültigen Fahrerlaubnis. Beachten Sie bitte, dass eine private Nutzung der Fahrzeuge grundsätzlich nicht gestattet ist und nur in absoluten Ausnahmefällen nach vorheriger schriftlicher Genehmigung durch die Geschäftsleitung erfolgen kann.\n\nDie Reservierung eines Dienstfahrzeugs erfolgt ausschließlich über unser internes Online-Buchungssystem. Bitte geben Sie dort mindestens 48 Stunden im Voraus den gewünschten Zeitraum, das Fahrtziel sowie den Zweck der Reise an. Vor Fahrtantritt holen Sie den Schlüssel im Sekretariat (Raum 211) ab. Es ist zwingend erforderlich, dass Sie das Fahrzeug vor der Übernahme anhand der im Fahrzeug befindlichen Checkliste auf eventuell vorhandene Schäden (innen und außen) überprüfen und diese dokumentieren.\n\nWährend der Nutzung ist für jede Fahrt lückenlos ein Fahrtenbuch zu führen, in dem Datum, Kilometerstände (Beginn/Ende), Reiseziel und Reisezweck festgehalten werden. Die Betankung der Fahrzeuge hat ausschließlich mittels der Ihnen übergebenen Firmentankkarte zu erfolgen. Wir weisen darauf hin, dass Sie persönlich für die Einhaltung aller geltenden Verkehrsvorschriften verantwortlich sind. Eventuell anfallende Bußgelder oder Strafzettel müssen vom Fahrer selbst getragen werden. In sämtlichen Dienstfahrzeugen gilt ein striktes Rauchverbot.\n\nNach Beendigung Ihrer Fahrt ist das Fahrzeug wieder auf dem Firmenparkplatz abzustellen und der Schlüssel unverzüglich im Sekretariat zurückzugeben. Führen Sie bitte eine abschließende Kontrolle des Fahrzeugs durch. Sollten während Ihrer Nutzung neue Schäden entstanden oder andere Mängel aufgetreten sein, sind diese umgehend bei der Schlüsselrückgabe zu melden. Stellen Sie sicher, dass das Fahrtenbuch vollständig ausgefüllt ist und legen Sie es ebenfalls im Sekretariat vor.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende sind verpflichtet, den Fahrzeugzustand sowohl vor Fahrtbeginn zu kontrollieren als auch eventuelle neue Mängel nach der Fahrt zu melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wie sollen Dienstfahrzeuge betankt werden?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "indem die Kosten zunächst privat bezahlt und dann abgerechnet werden."
+                },
+                {
+                    "key": "b",
+                    "text": "mit der dafür vorgesehenen Firmentankkarte."
+                },
+                {
+                    "key": "c",
+                    "text": "wobei darauf zu achten ist, dass der Tank immer vollständig gefüllt wird."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

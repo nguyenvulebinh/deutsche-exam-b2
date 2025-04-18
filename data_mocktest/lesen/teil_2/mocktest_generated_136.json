@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der IT-Infrastruktur und Datenschutz\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter, die IT-Infrastruktur ist ein zentrales Werkzeug für unsere tägliche Arbeit. Sie erhalten einen Laptop und bei Bedarf weitere Hardware. Standardsoftware ist vorinstalliert. Bei technischen Problemen unterstützt Sie unsere IT-Abteilung.\n\nIhre Zugangsdaten sind streng vertraulich. Bitte wählen Sie komplexe Passwörter (mindestens 12 Zeichen, Groß-/Kleinbuchstaben, Zahlen, Sonderzeichen) und ändern Sie diese regelmäßig, spätestens alle 90 Tage. Geben Sie Passwörter niemals weiter. Für den Zugang zu sensiblen Bereichen wird zusätzlich eine Zwei-Faktor-Authentifizierung verlangt, über deren Einrichtung Sie gesondert informiert werden.\n\nDie Nutzung des Firmennetzwerks und des Internets ist ausschließlich für dienstliche Zwecke gestattet. Das Herunterladen nicht explizit durch die IT freigegebener Software sowie der Besuch von Websites mit illegalen, unsicheren oder arbeitsfremden Inhalten sind untersagt. Externe Datenträger wie USB-Sticks dürfen nur nach vorheriger Überprüfung durch die IT-Abteilung an Firmengeräten verwendet werden, um die Sicherheit unserer Systeme zu gewährleisten.\n\nAuch die Nutzung des betrieblichen E-Mail-Kontos ist auf dienstliche Kommunikation beschränkt; eine private Nutzung ist grundsätzlich nicht erlaubt. Achten Sie auf die Vertraulichkeit der Inhalte und verwenden Sie bitte stets die standardisierte Firmensignatur, die Sie im Intranet finden.\n\nEin besonders wichtiger Aspekt ist der Schutz von Kundendaten. Diese Daten sind äußerst sensibel zu behandeln. Der Zugriff darauf ist nur gestattet, wenn dies zur Erfüllung Ihrer spezifischen Arbeitsaufgaben unbedingt erforderlich ist (Need-to-know-Prinzip). Es ist strikt verboten, Kundendaten auf lokalen Festplatten, privaten Geräten oder ungesicherten Cloud-Diensten zu speichern. Jeder Verdacht auf einen Datenschutzverstoß muss unverzüglich Ihrem Vorgesetzten und dem Datenschutzbeauftragten gemeldet werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Beim Umgang mit Kundendaten und der Passwortsicherheit gelten strenge betriebliche Vorschriften.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Der Zugriff auf Kundendaten ist Mitarbeitern erlaubt,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sobald sie ihre Zugangsdaten für die Systeme besitzen."
+                },
+                {
+                    "key": "b",
+                    "text": "um sich jederzeit über die Kundenbasis zu informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "falls sie diese Informationen für ihre konkrete Tätigkeit benötigen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

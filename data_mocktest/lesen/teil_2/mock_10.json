@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Elektronisches Zugangs- und Zeiterfassungssystem\n\nFür den Zugang zu unserem Firmengebäude und die Erfassung der Arbeitszeit wurde Ihnen eine elektronische Karte ausgehändigt, auf der auch Ihre Mitarbeiternummer und Ihr vollständiger Name hinterlegt sind.\n\nBeim Betreten und Verlassen des Firmengebäudes halten Sie Ihre Karte an das elektronische Lesegerät, das neben dem Haupteingang an der Wand befestigt ist. Warten Sie unbedingt das grüne Signal ab, das anzeigt, dass Ihre Karte gelesen und Ihre Zeit automatisch erfasst wurde.\n\nDie Pausenzeiten (siehe Anlage F) sind einzuhalten. Die gesetzlichen Ruhepausen werden vom Erfassungssystem automatisch abgezogen, wenn Sie es versäumen, sich zur Pause ab- und wieder anzumelden. Die Länge der Ruhepausen variiert je nach Arbeitszeit zwischen 30 bis 45 Minuten, Details hierzu finden Sie in Anlage G.\n\nSind Anpassungen der erfassten Zeit erforderlich (z. B. bei Fehlfunktion des Lesegeräts), wenden Sie sich an Herrn Sangkam (Raum 169, Durchwahl -29).\n\nSollten Sie Probleme bei der Verwendung haben, wenden Sie sich an das Büro des Officemanagements (Raum 132). Sollte das Büro nicht besetzt sein, erreichen Sie in dringenden Fällen die Assistenz der Geschäftsführung, Frau Schneider, unter der Durchwahl -22.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Die elektronische Karte wird auch als Schlüssel verwendet.",
+        "loesung": "falsch"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Die von dem System erfassten Zeiten",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "beinhalten die Ruhepausen."
+          },
+          {
+            "key": "b",
+            "text": "kann man nachträglich ändern lassen."
+          },
+          {
+            "key": "c",
+            "text": "werden am Ladegerät korrigiert."
+          }
+        ],
+        "loesung": "b"
+      }
+    ]
+}
+  

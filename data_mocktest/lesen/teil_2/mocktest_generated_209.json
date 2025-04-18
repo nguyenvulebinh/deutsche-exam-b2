@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regeln zur Krankmeldung und Attestpflicht\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter,\n\nim Falle einer Arbeitsunfähigkeit ist es von entscheidender Bedeutung, dass Sie uns umgehend informieren. Bitte melden Sie sich am ersten Tag Ihrer Erkrankung **unverzüglich**, das heißt noch **vor** dem regulären Arbeitsbeginn, telefonisch bei Ihrem/Ihrer direkten Vorgesetzten **sowie** in der Personalabteilung. Teilen Sie dabei bitte auch die **voraussichtliche Dauer** Ihrer Abwesenheit mit.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (Attest) ist **grundsätzlich** erforderlich, wenn die Krankheit länger als zwei Kalendertage andauert. Das bedeutet, das Attest muss dem Unternehmen **spätestens am dritten Kalendertag** der Arbeitsunfähigkeit vorliegen. Die Vorlagepflicht beginnt also am dritten Tag, nicht erst danach.\n\nDie Übermittlung des Attests kann zunächst digital erfolgen. Senden Sie bitte einen Scan oder ein Foto Ihrer Bescheinigung per E-Mail an die Personalabteilung. Das **Originaldokument** muss jedoch **zeitnah**, spätestens innerhalb einer Woche nach der digitalen Übermittlung, per Post oder interner Hauspost nachgereicht werden.\n\nBitte beachten Sie, dass die Einhaltung dieser Vorgehensweise wichtig ist, nicht nur aus organisatorischen Gründen, sondern auch für die Sicherstellung Ihrer **Entgeltfortzahlung** im Krankheitsfall. Eine verspätete oder fehlende Krankmeldung bzw. Attestvorlage kann zu **arbeitsrechtlichen Konsequenzen** führen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeitende müssen sich am ersten Tag telefonisch krankmelden und ab dem dritten Tag ein Attest vorlegen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was kann passieren, wenn man sich nicht korrekt krankmeldet?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Es könnte Probleme mit der Gehaltsfortzahlung geben."
+                },
+                {
+                    "key": "b",
+                    "text": "Man muss die verpasste Arbeitszeit nacharbeiten."
+                },
+                {
+                    "key": "c",
+                    "text": "Die direkte Vorgesetzte entscheidet über die Entgeltfortzahlung."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

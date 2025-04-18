@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen zur Krankmeldung und Arbeitsunfähigkeit\n\nSollten Sie aus gesundheitlichen Gründen nicht zur Arbeit erscheinen können, ist es von höchster Wichtigkeit, das Unternehmen unverzüglich darüber in Kenntnis zu setzen. Eine rechtzeitige Information ist entscheidend, damit Arbeitsabläufe angepasst und eventuelle Vertretungen organisiert werden können. Ihre Krankmeldung muss daher unbedingt **vor** Ihrem regulären Arbeitsbeginn erfolgen, spätestens jedoch bis 8:30 Uhr am ersten Tag Ihrer Abwesenheit.\n\nDie Meldung Ihrer Arbeitsunfähigkeit muss auf zwei Wegen geschehen: Zuerst ist Ihre **direkte Führungskraft** unverzüglich **telefonisch** über Ihre Abwesenheit und deren voraussichtliche Dauer zu informieren. Zusätzlich dazu ist die **Personalabteilung** ebenfalls am ersten Tag zu benachrichtigen. Dies kann über das interne Mitarbeiterportal oder per E-Mail an personal@firma-beispiel.de erfolgen.\n\nEine **ärztliche Arbeitsunfähigkeitsbescheinigung (AU)** ist gesetzlich vorgeschrieben und muss dem Unternehmen spätestens am **dritten Kalendertag** Ihrer Erkrankung vorliegen. Achten Sie bitte darauf, dass das Attest die gesamte Dauer Ihrer Abwesenheit abdeckt. Reichen Sie die AU bitte zunächst digital (als Scan oder Foto per E-Mail an die Personalabteilung) ein. Das Originaldokument senden Sie uns bitte anschließend zeitnah per Post zu.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen AU bescheinigt, benötigen wir rechtzeitig vor Ablauf der ersten Bescheinigung eine **Folgebescheinigung**. Auch über die Verlängerung Ihrer Abwesenheit müssen sowohl Ihre Führungskraft als auch die Personalabteilung umgehend informiert werden, analog zur Erstmeldung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Das ärztliche Attest muss immer sofort am ersten Tag der Krankheit vorgelegt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Am ersten Krankheitstag müssen Sie...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ausschließlich die Personalabteilung per E-Mail informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "Ihre Führungskraft umgehend per Telefon kontaktieren."
+                },
+                {
+                    "key": "c",
+                    "text": "sofort die Arbeitsunfähigkeitsbescheinigung digital einreichen."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

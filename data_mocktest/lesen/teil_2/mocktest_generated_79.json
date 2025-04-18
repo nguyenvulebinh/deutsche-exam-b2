@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Gemeinschaftsküchen\n\nHerzlich willkommen! Damit sich alle wohlfühlen, bitten wir Sie um die Einhaltung einiger Regeln bei der Nutzung unserer beiden Gemeinschaftsküchen im Erdgeschoss und im 1. Obergeschoss. Die grundlegende Sauberkeit und Ordnung liegt in der Verantwortung aller Nutzerinnen und Nutzer.\n\nFür mitgebrachte Lebensmittel steht in beiden Küchen ein Kühlschrank zur Verfügung. Bitte beschriften Sie alles, was Sie darin lagern, deutlich mit Ihrem Namen und dem aktuellen Datum. Um die Übersicht zu behalten und Verderbliches zu vermeiden, werden die Kühlschränke jeden Freitagnachmittag überprüft und nicht beschriftete oder eindeutig abgelaufene Lebensmittel entsorgt. Die Küche im 1. OG verfügt zusätzlich über eine Mikrowelle. Bitte decken Sie Speisen beim Erwärmen ab und entfernen Sie eventuelle Spritzer unverzüglich.\n\nIn beiden Küchen finden Sie einen modernen Kaffeevollautomaten. Die Kaffeebohnen sowie Milch und Zucker werden vom Unternehmen bereitgestellt und durch das Facility Management Team regelmäßig nachgefüllt. Eine Kurzanleitung finden Sie direkt neben den Geräten. Besonders wichtig: Der Milchschäumer muss nach jeder Benutzung gemäß der Anleitung gereinigt werden, um die Hygiene zu gewährleisten.\n\nWir bitten Sie dringend, benutztes Geschirr nicht im Spülbecken stehen zu lassen. Spülen Sie es kurz ab und räumen Sie es direkt in den Geschirrspüler ein. Der letzte Mitarbeiter, der die Küche am Abend verlässt, wird gebeten, den Geschirrspüler anzustellen. Das Ausräumen am nächsten Morgen übernimmt in der Regel die erste Person, die die Küche betritt, oder der eingeteilte Küchendienst, falls vorhanden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle Mitarbeiter müssen sich gleichermaßen um das Nachfüllen der Kaffeemaschine kümmern.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Persönliche Lebensmittel im Kühlschrank...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen mit Namen und Datum versehen werden."
+                },
+                {
+                    "key": "b",
+                    "text": "dürfen maximal drei Tage aufbewahrt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "sind nur erlaubt, wenn sie in verschlossenen Behältern sind."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

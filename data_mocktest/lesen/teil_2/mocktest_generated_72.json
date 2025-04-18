@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung von Firmenfahrzeugen\n\nUnser Unternehmen stellt bestimmten Mitarbeitergruppen unter klar definierten Bedingungen einen Firmenwagen zur Verfügung. Die Berechtigung zur Beantragung eines Dienstfahrzeugs ist in der Regel an die Position geknüpft, beispielsweise für Mitarbeiterinnen und Mitarbeiter im Außendienst oder in leitenden Funktionen, sowie an eine erforderliche jährliche Kilometerleistung für dienstliche Fahrten.\n\nDie Zuteilung erfolgt nach Prüfung durch das Fuhrparkmanagement und unterliegt der Verfügbarkeit entsprechender Fahrzeugmodelle. Es existieren verschiedene Fahrzeugkategorien, die sich nach den Anforderungen der Position und unseren internen Umweltrichtlinien richten. Ein entsprechender Antrag ist über das Intranet-Formular FZ-01 einzureichen.\n\nDie Nutzung der Firmenwagen ist primär für dienstliche Zwecke vorgesehen. Eine private Mitnutzung ist grundsätzlich möglich, muss jedoch vertraglich vereinbart und als sogenannter „geldwerter Vorteil“ versteuert werden. Für alle Fahrten, insbesondere bei gemischter Nutzung, ist zur Dokumentation ein elektronisches Fahrtenbuch verpflichtend zu führen. Die Details zur korrekten Führung des Fahrtenbuchs finden Sie in Anlage C.\n\nFür Tankvorgänge erhalten Sie eine Tankkarte, deren Nutzung ausschließlich für das zugewiesene Fahrzeug gestattet ist. Wartungsintervalle sind strikt einzuhalten; notwendige Reparaturen dürfen nur in von uns autorisierten Partnerwerkstätten durchgeführt werden. Bei Pannen oder Unfällen ist unverzüglich das Fuhrparkmanagement zu informieren und das entsprechende Protokoll (Anlage D) auszufüllen. Fahrten ins Ausland bedürfen einer gesonderten Genehmigung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Jeder Mitarbeiter kann ohne weiteres einen Firmenwagen für gelegentliche Privatfahrten am Wochenende nutzen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Zuteilung eines Firmenwagens hängt davon ab,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ob die Position und dienstliche Notwendigkeit dies rechtfertigen."
+                },
+                {
+                    "key": "b",
+                    "text": "wie lange der Mitarbeiter bereits im Unternehmen arbeitet."
+                },
+                {
+                    "key": "c",
+                    "text": "ob der Mitarbeiter bereit ist, alle Kosten selbst zu tragen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

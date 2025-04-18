@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es wichtig, dass Sie das Unternehmen unverzüglich informieren. Bitte melden Sie sich noch vor dem offiziellen Arbeitsbeginn telefonisch bei Ihrer direkten Teamleitung ab. Eine E-Mail ist in diesem ersten Schritt nicht ausreichend, da sichergestellt werden muss, dass die Information rechtzeitig ankommt und gegebenenfalls Aufgaben umverteilt werden können.\n\nInformieren Sie Ihre Teamleitung dabei auch über die voraussichtliche Dauer Ihrer Abwesenheit. Sollte die Krankheit länger als drei Kalendertage andauern, sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Diese Bescheinigung muss dem Unternehmen spätestens am vierten Kalendertag Ihrer Abwesenheit bei der Personalabteilung (nicht bei der Teamleitung!) vorliegen. Sie kann per Post gesendet oder digital über das Mitarbeiterportal hochgeladen werden.\n\nSollten Sie während Ihres genehmigten Erholungsurlaubs erkranken, gelten dieselben Melde- und Nachweispflichten. Die durch eine AU nachgewiesenen Krankheitstage werden Ihrem Urlaubskonto wieder gutgeschrieben, vorausgesetzt, die Meldung erfolgte korrekt und fristgerecht.\n\nDie rechtzeitige und korrekte Krankmeldung ist nicht nur eine vertragliche Pflicht, sondern auch ein Zeichen kollegialen Verhaltens, damit Arbeitsabläufe möglichst reibungslos weitergeführt werden können. Bei Fragen zum Prozess wenden Sie sich bitte direkt an die Personalabteilung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine Krankmeldung per E-Mail an die Personalabteilung genügt am ersten Krankheitstag.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Bescheinigung muss...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "spätestens am vierten Krankheitstag in der Personalabteilung sein."
+                },
+                {
+                    "key": "b",
+                    "text": "sofort am ersten Tag der Krankheit eingereicht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "der Teamleitung persönlich übergeben werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

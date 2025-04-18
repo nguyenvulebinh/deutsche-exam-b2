@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenparkplätze\n\nHerzlich willkommen in unserem Team! Da die Anzahl der Parkplätze auf unserem Firmengelände begrenzt ist, möchten wir Sie bitten, die folgenden Regelungen zur Nutzung der Parkflächen zu beachten, um einen reibungslosen Ablauf für alle zu gewährleisten.\n\nZunächst ist es erforderlich, dass Sie Ihr regelmäßig genutztes Fahrzeug bei unserer Verwaltung registrieren lassen. Bitte wenden Sie sich hierfür an Frau Huber in Raum E.05 und teilen Sie ihr Ihr Autokennzeichen sowie das Fahrzeugmodell mit. Nur mit dieser Registrierung erhalten Sie eine offizielle Parkberechtigung. Das Parken ohne gültige Registrierung ist auf dem gesamten Firmengelände untersagt.\n\nUnsere Parkflächen sind in drei Zonen unterteilt. Zone A umfasst fest zugewiesene Parkplätze für Mitglieder der Geschäftsleitung sowie langjährige Mitarbeiter, die Zuteilung erfolgt hier nach Betriebszugehörigkeit und Funktion. Zone B besteht aus flexiblen Parkplätzen, die allen registrierten Mitarbeitern nach dem Prinzip „Wer zuerst kommt, mahlt zuerst“ zur Verfügung stehen. Als neuer Mitarbeiter nutzen Sie bitte zunächst ausschließlich die Parkplätze in Zone B. Nach einer Betriebszugehörigkeit von sechs Monaten besteht die Möglichkeit, einen Antrag auf einen festen Parkplatz in Zone A zu stellen; eine Zusage kann jedoch nicht garantiert werden. Zone C schließlich ist für unsere Besucher reserviert.\n\nDie Parkplätze der Zone C sind ausschließlich für vorab an der Rezeption angemeldete Besucherinnen und Besucher vorgesehen. Für Mitarbeiterinnen und Mitarbeiter ist das Parken in dieser Zone unter keinen Umständen gestattet, auch nicht für kurze Zeit. Bitte weisen Sie Ihre Besucher darauf hin, sich bei Ankunft an der Rezeption anzumelden.\n\nDie Einhaltung der Parkordnung wird durch unseren Sicherheitsdienst regelmäßig kontrolliert. Verstöße, wie das Parken ohne Registrierung oder in einer falschen Zone, führen beim ersten Mal zu einer schriftlichen Verwarnung. Sollten wiederholt Verstöße festgestellt werden, behalten wir uns vor, die Parkberechtigung zu entziehen oder das betreffende Fahrzeug auf Kosten des Halters abschleppen zu lassen. Bei Fragen zur Registrierung wenden Sie sich bitte an Frau Huber, bei akuten Parkplatzproblemen (z.B. ein unberechtigt belegter Platz) kontaktieren Sie bitte direkt den Sicherheitsdienst unter der internen Durchwahl -112.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeiter müssen ihr Fahrzeug anmelden und dürfen dann die flexiblen Parkplätze der Zone B benutzen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Parkplätze in Zone C...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sind ausschließlich für angemeldete Besucher vorgesehen."
+                },
+                {
+                    "key": "b",
+                    "text": "dürfen von Mitarbeitern nur außerhalb der Kernarbeitszeit belegt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "stehen allen Mitarbeitern ohne Registrierung zur Verfügung."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

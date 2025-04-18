@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinie\n\nHerzlich willkommen in unserem Team! Um einen sicheren und effizienten Arbeitsablauf zu gewährleisten, bitten wir Sie, die folgenden Richtlinien zur Nutzung unserer IT-Systeme sorgfältig zu lesen und zu beachten.\n\nIhnen wird für Ihre Tätigkeit ein Firmenlaptop zur Verfügung gestellt. Dieses Gerät ist Eigentum der Firma und primär für dienstliche Zwecke vorgesehen. Die Installation von Software ist ausschließlich durch den IT-Support oder nach dessen ausdrücklicher Genehmigung gestattet. Sollten Sie spezielle Programme für Ihre Arbeit benötigen, die noch nicht installiert sind, stellen Sie bitte einen formellen Antrag über das IT-Helpdesk-Portal. Eigenmächtige Installationen sind untersagt.\n\nDie Nutzung des Internets über das Firmennetzwerk soll ebenfalls hauptsächlich beruflicher Natur sein. Eine eingeschränkte private Nutzung während der offiziellen Pausenzeiten ist toleriert, solange sie die Arbeitsleistung nicht beeinträchtigt und keine firmeninternen Richtlinien verletzt. Der Aufruf von Webseiten mit illegalen, rassistischen, diskriminierenden oder anderweitig bedenklichen Inhalten ist strikt verboten.\n\nFür die berufliche E-Mail-Korrespondenz erwarten wir einen professionellen Ton und die Verwendung der offiziellen Firmensignatur. Private E-Mails sollten über diesen Account nur in Ausnahmefällen und in geringem Umfang versendet werden. Achten Sie stets auf den Datenschutz und die Vertraulichkeit von Informationen. Verlassen Sie Ihren Arbeitsplatz auch nur kurzzeitig, sperren Sie bitte immer Ihren Bildschirm (Tastenkombination: Windows-Taste + L). Wählen Sie zudem ein sicheres Passwort gemäß unseren Passwortrichtlinien (mind. 10 Zeichen, Groß-/Kleinschreibung, Zahlen, Sonderzeichen) und geben Sie es niemals weiter.\n\nBei technischen Problemen, Fragen zur Softwareinstallation oder wenn Sie verdächtige Aktivitäten bemerken (z.B. Phishing-E-Mails), wenden Sie sich bitte umgehend an unseren IT-Support (Durchwahl -456 oder E-Mail an it-support@firma.de). Verstöße gegen diese Richtlinie können zu disziplinarischen Maßnahmen führen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter dürfen für dienstliche Zwecke jederzeit eigenständig neue Programme auf dem Firmenlaptop installieren.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie eine spezielle Software benötigen, die nicht vorinstalliert ist,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen Sie einen Antrag beim IT-Support stellen."
+                },
+                {
+                    "key": "b",
+                    "text": "können Sie diese selbst herunterladen und installieren."
+                },
+                {
+                    "key": "c",
+                    "text": "sollten Sie zuerst Ihre Teamleitung um Erlaubnis fragen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

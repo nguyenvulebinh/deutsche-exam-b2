@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es von größter Wichtigkeit, dass Sie dies dem Unternehmen unverzüglich mitteilen. Die Krankmeldung muss unbedingt vor dem regulären Arbeitsbeginn erfolgen. Bitte informieren Sie hierfür primär telefonisch Ihre direkte Vorgesetzte oder Ihren direkten Vorgesetzten. Sollten Sie diese Person nicht erreichen, kontaktieren Sie bitte ersatzweise das Sekretariat Ihrer Abteilung.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), oft auch als „Krankschreibung“ oder „ärztliches Attest“ bezeichnet, benötigen Sie, wenn die Krankheit länger als drei Kalendertage andauert. Das bedeutet, die AU muss spätestens am vierten Kalendertag der Arbeitsunfähigkeit ausgestellt sein und die Information über die voraussichtliche Dauer der Krankheit muss der Personalabteilung bis dahin vorliegen. Dank der elektronischen Arbeitsunfähigkeitsbescheinigung (eAU) übermittelt die Arztpraxis die Daten direkt an die Krankenkasse und wir als Arbeitgeber können diese dort abrufen. Dennoch ist es erforderlich, dass Sie uns – also Ihre Führungskraft und die Personalabteilung – aktiv über Ihre Krankschreibung und deren voraussichtliche Dauer informieren.\n\nSollte Ihre Arbeitsunfähigkeit länger andauern als auf der ursprünglichen AU angegeben, ist eine Folgebescheinigung notwendig. Bitte melden Sie auch die Verlängerung Ihrer Krankheit umgehend und informieren Sie uns über die neue voraussichtliche Dauer.\n\nFalls Sie während Ihres genehmigten Erholungsurlaubs erkranken, müssen Sie dies ebenfalls unverzüglich melden. In diesem Fall ist bereits ab dem ersten Krankheitstag ein ärztliches Attest erforderlich, damit die Urlaubstage nicht verfallen. Die entsprechenden Urlaubstage werden Ihnen dann wieder gutgeschrieben. Der Urlaub kann jedoch nicht eigenmächtig verlängert werden; eine neue Planung muss nach Ihrer Genesung im Einvernehmen mit Ihrem Vorgesetzten erfolgen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine Arbeitsunfähigkeitsbescheinigung muss der Personalabteilung bis zum vierten Krankheitstag vorliegen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Um sich krankzumelden, müssen Sie zuerst...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihren direkten Vorgesetzten anrufen."
+                },
+                {
+                    "key": "b",
+                    "text": "die Personalabteilung informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "ein ärztliches Attest einreichen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

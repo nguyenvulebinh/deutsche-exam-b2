@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es wichtig, dass Sie das Unternehmen unverzüglich darüber informieren. Bitte rufen Sie dazu Ihren direkten Vorgesetzten noch vor dem eigentlichen Dienstbeginn an. Teilen Sie ihm bitte die voraussichtliche Dauer Ihrer Abwesenheit mit, sofern dies bereits absehbar ist. Eine zusätzliche kurze Information per E-Mail an die Personalabteilung ist ebenfalls erwünscht, ersetzt aber nicht den obligatorischen Anruf beim Vorgesetzten.\n\nSpätestens ab dem dritten Kalendertag Ihrer Arbeitsunfähigkeit benötigen wir eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU). Diese muss der Personalabteilung spätestens am darauffolgenden Arbeitstag, also in der Regel am vierten Tag der Krankheit, vorliegen. Dank des elektronischen Verfahrens (eAU) übermittelt die Krankenkasse die AU-Daten digital an uns als Arbeitgeber. Dennoch entbindet Sie dies nicht von Ihrer Pflicht, uns rechtzeitig über Ihre Abwesenheit und deren voraussichtliche Dauer zu informieren und den Arztbesuch zu tätigen.\n\nSollte Ihre Krankheit länger andauern als auf der ursprünglichen AU angegeben, ist umgehend eine Folgebescheinigung beim Arzt einzuholen und die Personalabteilung sowie Ihr Vorgesetzter erneut über die Verlängerung Ihrer Abwesenheit zu informieren. Die Vorlagefrist gilt hier entsprechend.\n\nSobald Sie wieder arbeitsfähig sind und Ihre Tätigkeit aufnehmen, melden Sie sich bitte ebenfalls kurz bei Ihrem Vorgesetzten zurück. Wir wünschen Ihnen im Krankheitsfall eine schnelle und vollständige Genesung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss dem direkten Vorgesetzten spätestens am dritten Krankheitstag vorgelegt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Mitarbeiter tun, wenn sie krank sind?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie müssen ihren Vorgesetzten vor Dienstbeginn anrufen."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie müssen sofort am ersten Tag eine E-Mail an die Personalabteilung schicken."
+                },
+                {
+                    "key": "c",
+                    "text": "Sie müssen die elektronische AU selbst an die Firma übermitteln."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

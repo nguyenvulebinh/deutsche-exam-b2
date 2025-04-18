@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Betriebliche Altersvorsorge (bAV)\n\nAls attraktiver Arbeitgeber liegt uns die finanzielle Absicherung unserer Mitarbeiterinnen und Mitarbeiter auch im Alter am Herzen. Daher bieten wir Ihnen die Möglichkeit einer betrieblichen Altersvorsorge (bAV) an, um Ihre gesetzliche Rente aufzubessern.\n\nGrundsätzlich steht die Teilnahme an der bAV allen unseren festangestellten Mitarbeiterinnen und Mitarbeitern nach erfolgreichem Abschluss der sechsmonatigen Probezeit offen. Die Teilnahme ist selbstverständlich freiwillig. Das Prinzip basiert auf der sogenannten Entgeltumwandlung: Ein Teil Ihres Bruttogehalts wird direkt in einen Vorsorgevertrag eingezahlt. Dies reduziert Ihr steuer- und sozialversicherungspflichtiges Einkommen.\n\nUm Sie dabei zu unterstützen, gewährt das Unternehmen einen Arbeitgeberzuschuss. Dieser Zuschuss beträgt 15% Ihres umgewandelten Betrags, maximal jedoch 50 Euro pro Monat. Voraussetzung für den Erhalt des Zuschusses ist, dass Sie selbst mindestens 25 Euro monatlich per Entgeltumwandlung einzahlen. Die Verträge werden über unseren Partner, die Allianz Versicherungs-AG, abgeschlossen, die günstige Konditionen für unsere Belegschaft anbietet.\n\nWenn Sie sich für die Teilnahme entscheiden oder detailliertere Informationen wünschen, wenden Sie sich bitte an die Personalabteilung (Frau Weber, Raum 212). Dort erhalten Sie das entsprechende Antragsformular sowie eine individuelle Beratung zu Ihren Möglichkeiten. Zusätzlich finden zweimal jährlich Informationsveranstaltungen statt, deren Termine rechtzeitig im Intranet sowie am Schwarzen Brett bekannt gegeben werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Um den Firmenzuschuss zu erhalten, muss man selbst mindestens 25 Euro einzahlen, wobei der Zuschuss auf 50 Euro begrenzt ist.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wer sich für die betriebliche Altersvorsorge interessiert,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss direkt Kontakt mit der Allianz Versicherung aufnehmen."
+                },
+                {
+                    "key": "b",
+                    "text": "muss an einer Informationsveranstaltung teilnehmen, um sich anzumelden."
+                },
+                {
+                    "key": "c",
+                    "text": "sollte sich an die Personalabteilung wenden, um das Formular zu bekommen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

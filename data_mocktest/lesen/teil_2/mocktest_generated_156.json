@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikation und Besprechungen\n\nEine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Für formelle Anfragen, detaillierte Informationen oder Dokumentationen nutzen Sie bitte primär die E-Mail. Für kurze, schnelle Abstimmungen im Team eignet sich unser interner Chat-Dienst. Bei dringenden Angelegenheiten, die eine sofortige Klärung erfordern, ist der Griff zum Telefon oft der beste Weg. Bitte vermeiden Sie die Nutzung privater Messenger-Dienste für geschäftliche Kommunikation.\n\nWichtige offizielle Mitteilungen der Geschäftsleitung oder aus den Abteilungen finden Sie ausschließlich im Intranet-Portal unter der Rubrik „Aktuelles“ sowie als Aushang am Schwarzen Brett neben der Kantine. Es liegt in Ihrer Verantwortung, sich regelmäßig über neue Bekanntmachungen zu informieren.\n\nFür Besprechungen stehen Ihnen mehrere Räume zur Verfügung, die über unser Online-Buchungstool reserviert werden müssen. Bitte geben Sie bei der Buchung immer den Zweck und die Teilnehmerzahl an. Eine frühzeitige Reservierung wird empfohlen. Sollten Sie einen gebuchten Raum doch nicht benötigen, stornieren Sie die Buchung bitte umgehend im Tool, spätestens jedoch zwei Stunden vor Beginn, damit der Raum wieder für andere frei wird. Jede Besprechung sollte eine klare Agenda haben, die idealerweise vorab an die Teilnehmer versendet wird.\n\nWir legen Wert auf eine konstruktive Besprechungskultur. Dazu gehören Pünktlichkeit, gute Vorbereitung durch Kenntnis der Agenda und das Stummschalten von Mobiltelefonen. Der jeweilige Einladende bzw. Meetingleiter ist für die Einhaltung der Zeit und die Fokussierung auf die Themen verantwortlich. Bei allen regulären Team-Meetings ist zudem die Erstellung eines Ergebnisprotokolls verpflichtend. Diese Aufgabe wird im Team rotierend wahrgenommen, um die Belastung fair zu verteilen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter sind selbst dafür verantwortlich, sich über Unternehmensnachrichten zu informieren und müssen bei Team-Meetings im Wechsel Protokoll führen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Für die Reservierung eines Besprechungsraums...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...ist die Nutzung eines speziellen Online-Tools erforderlich."
+                },
+                {
+                    "key": "b",
+                    "text": "...genügt eine kurze E-Mail an das Sekretariat."
+                },
+                {
+                    "key": "c",
+                    "text": "...sollte man sich direkt an die Teamleitung wenden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinien\n\nSehr geehrte neue Mitarbeiterin, sehr geehrter neuer Mitarbeiter,\n\nherzlich willkommen in unserem Unternehmen! Um die Sicherheit unserer Systeme und Daten zu gewährleisten und einen effizienten Arbeitsablauf sicherzustellen, bitten wir Sie, die folgenden Richtlinien für die Nutzung der bereitgestellten IT-Infrastruktur (Computer, Netzwerk, E-Mail, Internet) sorgfältig zu lesen und einzuhalten. Die IT-Ressourcen sind grundsätzlich für dienstliche Zwecke vorgesehen.\n\nDie private Nutzung des Internets ist grundsätzlich während der offiziellen Pausenzeiten gestattet, sollte jedoch auf ein Minimum beschränkt werden. Das Herunterladen großer Dateien oder der Besuch von Websites mit illegalen oder anstößigen Inhalten ist strengstens untersagt. Firmen-E-Mails dürfen ausschließlich für geschäftliche Korrespondenz verwendet werden und sollten stets einen professionellen Ton wahren. Seien Sie bitte besonders wachsam bei E-Mails von unbekannten Absendern, um Phishing-Versuche zu erkennen.\n\nDie Installation jeglicher Software auf Firmengeräten, die nicht vom IT-Support bereitgestellt oder genehmigt wurde, ist aus Sicherheitsgründen strikt verboten. Sollten Sie spezielle Software benötigen, muss hierfür ein Antrag beim IT-Support gestellt werden. Die Nutzung privater Geräte (z. B. Laptops, USB-Sticks) für dienstliche Zwecke ist generell nicht erlaubt, es sei denn, es liegt eine ausdrückliche Genehmigung der IT-Abteilung vor. Um den Zugriff Unbefugter zu verhindern, muss der Bildschirm bei jedem Verlassen des Arbeitsplatzes gesperrt werden.\n\nDer Schutz sensibler Unternehmens- und Kundendaten hat höchste Priorität. Behandeln Sie alle Daten vertraulich und geben Sie Zugangsdaten keinesfalls weiter. Bei technischen Problemen, Fragen oder dem Verdacht auf sicherheitsrelevante Vorfälle (z. B. Virusbefall, verdächtige E-Mails) kontaktieren Sie bitte unverzüglich den IT-Support unter der Durchwahl -456 oder per E-Mail an it-support@firma.de.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende dürfen in Pausen privat im Internet surfen, müssen aber bei Firmen-E-Mails einen professionellen Ton wahren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn eine spezielle Software benötigt wird,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss dies beim IT-Support beantragt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "darf diese auf einem privaten Gerät installiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "kann man diese selbst installieren, sofern sie beruflich ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

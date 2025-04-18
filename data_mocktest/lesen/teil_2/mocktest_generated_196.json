@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Dienstreisen: Planung und Abrechnung\n\nGelegentliche Dienstreisen können zur Erfüllung Ihrer Aufgaben notwendig sein. Grundsätzlich gilt, dass jede Dienstreise vor Antritt von Ihrer zuständigen Teamleitung genehmigt werden muss. Nutzen Sie hierfür bitte ausschließlich das digitale Formular 'Antrag auf Dienstreise', das Sie im Intranet finden.\n\nFür die Buchung von Transportmitteln und Unterkünften steht Ihnen unser Online-Buchungsportal 'TravelNow' zur Verfügung. Bitte wählen Sie bei der Buchung stets die wirtschaftlichste Option, die den Zweck der Reise sinnvoll erfüllt. Beachten Sie dabei, dass bei Reisedistanzen, die mit dem Zug in unter vier Stunden zurückgelegt werden können, die Bahn dem Flugzeug grundsätzlich vorzuziehen ist.\n\nSollten die voraussichtlichen Reisekosten einen Betrag von 200 Euro übersteigen, besteht die Möglichkeit, einen Reisekostenvorschuss zu beantragen. Dieser Antrag muss ebenfalls über das Portal 'TravelNow' erfolgen und spätestens zwei Wochen vor dem geplanten Reisebeginn eingereicht werden, damit eine rechtzeitige Auszahlung gewährleistet werden kann.\n\nWährend Ihrer Dienstreise ist es unerlässlich, dass Sie alle Originalbelege (z. B. Fahrkarten, Hotelrechnungen, Bewirtungsbelege im Rahmen der Vorgaben) sorgfältig sammeln und aufbewahren. Diese sind für die spätere Abrechnung zwingend erforderlich. Für Ihre Verpflegung während der Reise erhalten Sie eine festgelegte Tagespauschale gemäß unserer aktuellen Reisekostenrichtlinie (siehe Anhang C im Intranet). Ausgaben rein privater Natur können selbstverständlich nicht erstattet werden.\n\nNach Beendigung Ihrer Dienstreise reichen Sie bitte umgehend, spätestens jedoch innerhalb von vier Wochen, Ihre vollständige Reisekostenabrechnung zusammen mit allen gesammelten Originalbelegen bei der Personalabteilung ein. Die Bearbeitung und Erstattung erfolgt in der Regel innerhalb von etwa zwei Wochen nach Eingang der vollständigen Unterlagen. Bitte beachten Sie, dass bei verspäteter Einreichung möglicherweise nicht mehr der volle Erstattungsanspruch besteht.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Um Reisekosten erstattet zu bekommen, muss man nach der Reise fristgerecht die Abrechnung mit den Originalquittungen einreichen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Ein Reisekostenvorschuss kann beantragt werden, wenn...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die erwarteten Kosten einen bestimmten Betrag übersteigen."
+                },
+                {
+                    "key": "b",
+                    "text": "die Dienstreise länger als eine Woche dauert."
+                },
+                {
+                    "key": "c",
+                    "text": "man die Originalbelege bereits vor der Reise vorlegt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

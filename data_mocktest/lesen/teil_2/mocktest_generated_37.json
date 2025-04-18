@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es wichtig, dass Sie das Unternehmen korrekt und rechtzeitig informieren. Ihre Krankmeldung muss **unverzüglich**, das heißt noch **vor Ihrem regulären Arbeitsbeginn**, erfolgen.\n\nBitte melden Sie sich dazu primär **telefonisch** bei Ihrer direkten Führungskraft. Sollten Sie diese nicht erreichen, informieren Sie bitte umgehend die **Personalabteilung** unter der zentralen Durchwahl -150 oder per E-Mail an personal@firma.de. Geben Sie dabei bitte kurz den Grund Ihrer Abwesenheit (Krankheit) und, falls möglich, die voraussichtliche Dauer an. Eine Information an beide Stellen – Führungskraft und Personalabteilung – ist zwingend erforderlich.\n\nEine **ärztliche Bescheinigung (Attest)** über Ihre Arbeitsunfähigkeit ist grundsätzlich **ab dem dritten Kalendertag** der Erkrankung vorzulegen. Das bedeutet, wenn Sie beispielsweise am Montag erkranken, muss das Attest spätestens am Mittwoch vorliegen. Beachten Sie jedoch, dass das Unternehmen berechtigt ist, die Vorlage des Attests in Einzelfällen auch **früher**, also bereits ab dem ersten Krankheitstag, zu verlangen.\n\nDas Attest senden Sie bitte zunächst als Scan oder Foto per E-Mail an die Personalabteilung. Das **Originaldokument** reichen Sie bitte anschließend innerhalb von **einer Woche** per Post nach oder geben es persönlich ab. Bei länger andauernder Krankheit kann es sein, dass unser Betriebsarzt zur Klärung der weiteren Vorgehensweise Kontakt mit Ihnen aufnimmt.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Das ärztliche Attest muss spätestens am dritten Krankheitstag im Original in der Firma vorliegen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Ein ärztliches Attest wird benötigt,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ausschließlich ab dem dritten Tag der Krankheit."
+                },
+                {
+                    "key": "b",
+                    "text": "sobald die Arbeitsunfähigkeit länger als zwei Kalendertage dauert oder wenn die Firma es früher anfordert."
+                },
+                {
+                    "key": "c",
+                    "text": "wenn die direkte Führungskraft dies persönlich entscheidet."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

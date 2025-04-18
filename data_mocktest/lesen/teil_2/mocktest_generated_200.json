@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege nutzen\n\nFür eine effiziente Zusammenarbeit ist die Wahl des richtigen Kommunikationskanals entscheidend. In unserem Unternehmen stehen Ihnen verschiedene Werkzeuge zur Verfügung, deren Nutzung wir Ihnen hier kurz vorstellen möchten. Ziel ist es, für jede Art von Information oder Anfrage den passenden Weg zu wählen.\n\nDas zentrale Informationsmedium ist unser Intranet, das „InfoPortal“. Hier finden Sie alle offiziellen Unternehmensmitteilungen, aktuelle Richtlinien, wichtige Formulare der Personalabteilung sowie das Mitarbeiterverzeichnis. Das InfoPortal ist die primäre Quelle für verbindliche Informationen und Dokumente und wird regelmäßig von der Kommunikationsabteilung aktualisiert. Ein persönlicher Login ist erforderlich.\n\nFür den schnellen, informellen Austausch innerhalb von Projektteams oder der eigenen Abteilung nutzen wir das Chat-System „TeamConnect“. Es eignet sich hervorragend für kurze Fragen, rasche Abstimmungen oder die Koordination laufender Aufgaben. Bitte beachten Sie jedoch, dass TeamConnect nicht für formelle Anträge, wie z.B. Urlaubsanträge, oder für die Weitergabe offizieller Dokumente genutzt werden sollte. Nutzen Sie hierfür bitte die vorgesehenen themen- oder teambezogenen Kanäle.\n\nDie E-Mail bleibt der Standard für die formelle interne Kommunikation, insbesondere wenn eine Dokumentation erforderlich ist oder Anfragen an spezifische Abteilungen wie IT-Support oder Personalwesen gerichtet werden. Ebenso ist die E-Mail der Kanal für sämtliche externe Korrespondenz mit Kunden und Partnern. Achten Sie bitte auf klare Betreffzeilen und einen professionellen Umgangston.\n\nFür virtuelle Besprechungen, Präsentationen und die Zusammenarbeit über Standorte hinweg steht Ihnen unsere Videokonferenzplattform zur Verfügung. Diese wird typischerweise für geplante Termine genutzt. Längere oder größere Besprechungen sollten über das Buchungssystem reserviert werden.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende sollen das Chat-System für schnelle Abstimmungen nutzen, während das Intranet für offizielle Firmeninformationen dient.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "E-Mails sollten im Unternehmen vor allem dann genutzt werden, wenn...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "man eine sehr schnelle Antwort von einem Teammitglied benötigt."
+                },
+                {
+                    "key": "b",
+                    "text": "eine formelle Anfrage gestellt oder etwas dokumentiert werden muss."
+                },
+                {
+                    "key": "c",
+                    "text": "Unternehmensrichtlinien oder offizielle Neuigkeiten gesucht werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

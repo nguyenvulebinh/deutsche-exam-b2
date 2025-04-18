@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Weiterbildung und Entwicklung\n\nIhre kontinuierliche fachliche und persönliche Weiterentwicklung ist uns ein wichtiges Anliegen und ein zentraler Bestandteil unserer Unternehmenskultur. Wir sind überzeugt, dass lebenslanges Lernen nicht nur Ihre individuellen Karrierechancen bei uns verbessert, sondern auch den Erfolg unseres gesamten Unternehmens sichert. Daher unterstützen wir Sie aktiv bei Ihrer Fortbildung.\n\nWenn Sie eine bestimmte Weiterbildungsmaßnahme besuchen möchten, besprechen Sie Ihren Wunsch bitte zunächst mit Ihrer bzw. Ihrem direkten Vorgesetzten. Wenn diese(r) zustimmt, reichen Sie bitte das offizielle Antragsformular, das Sie im Intranet finden, bei der Personalabteilung ein. Bitte fügen Sie eine kurze Begründung bei, warum die Schulung für Ihre aktuelle Tätigkeit oder Ihre zukünftige Entwicklung im Unternehmen relevant ist. Beachten Sie die Einreichungsfristen: Anträge müssen bis zum Ende eines Quartals (31.03., 30.06., 30.09., 31.12.) für das jeweils nächste Quartal vorliegen.\n\nGrundsätzlich fördern wir verschiedene Formate. Interne Workshops zu spezifischen Fachthemen oder Software werden regelmäßig angeboten; die Teilnahme an manchen ist für bestimmte Positionen verpflichtend, andere sind optional und kostenfrei. Externe Seminare oder Konferenzen werden bezuschusst, sofern sie einen klaren Bezug zu Ihrer Arbeit aufweisen und im Rahmen des Weiterbildungsbudgets liegen. Zudem besteht die Möglichkeit, über unsere Firmenlizenz ausgewählte Online-Kurse auf einer speziellen Lernplattform zu absolvieren.\n\nGenehmigte Weiterbildungsmaßnahmen gelten in der Regel als Arbeitszeit, jedoch ist die anrechenbare Zeit auf maximal 5 Tage pro Kalenderjahr begrenzt. Wir erwarten von Ihnen, dass Sie nach dem Besuch einer externen Schulung die wichtigsten Erkenntnisse in geeigneter Form (z. B. durch eine kurze Präsentation im Teammeeting oder eine schriftliche Zusammenfassung) an Ihre Kolleginnen und Kollegen weitergeben.\n\nDie Erstattung der Kosten für genehmigte externe Maßnahmen erfolgt nach Abschluss der Weiterbildung. Bitte reichen Sie hierfür die Originalrechnungen bzw. -belege zusammen mit Ihrer Teilnahmebescheinigung innerhalb von vier Wochen nach dem Kursende bei Frau Bauer in der Personalabteilung ein. Sie ist Ihre Ansprechpartnerin für alle Fragen rund um die Kostenerstattung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl die Genehmigung des Vorgesetzten als auch die fristgerechte Einreichung eines Antrags bei der Personalabteilung sind Voraussetzungen für eine Weiterbildung.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Kostenübernahme für eine externe Schulung erfolgt,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sobald der Vorgesetzte die Teilnahme mündlich genehmigt hat."
+                },
+                {
+                    "key": "b",
+                    "text": "nachdem die Originalbelege und eine Teilnahmebestätigung bei Frau Bauer eingereicht wurden."
+                },
+                {
+                    "key": "c",
+                    "text": "wenn der Mitarbeiter maximal 5 Weiterbildungstage im Jahr nutzt."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

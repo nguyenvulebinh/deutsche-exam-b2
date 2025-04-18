@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es unerlässlich, dass Sie das Unternehmen unverzüglich darüber informieren. Bitte benachrichtigen Sie sowohl Ihre direkte Teamleitung als auch das Personalbüro noch vor dem offiziellen Arbeitsbeginn, spätestens jedoch bis 9:00 Uhr am ersten Tag Ihrer Abwesenheit. Die Benachrichtigung sollte idealerweise telefonisch erfolgen, damit Rückfragen direkt geklärt werden können.\n\nFür die ersten beiden Krankheitstage ist keine ärztliche Bescheinigung notwendig. Sollten Sie jedoch am dritten Tag Ihrer Abwesenheit weiterhin arbeitsunfähig sein, sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Diese muss dem Personalbüro spätestens am dritten Krankheitstag im Original oder als Scan per E-Mail zugehen. Achten Sie bitte darauf, dass die voraussichtliche Dauer Ihrer Abwesenheit auf der Bescheinigung vermerkt ist.\n\nWährend Ihrer Abwesenheit ist es wichtig, dass dringende Aufgaben weiterlaufen können. Informieren Sie daher bei Ihrer Krankmeldung kurz Ihre Teamleitung über den Status wichtiger Projekte oder wo relevante Unterlagen zu finden sind, falls dies nicht bereits durch allgemeine Vertretungsregelungen abgedeckt ist. Bei länger andauernder Krankheit bitten wir Sie, uns über die voraussichtliche Rückkehr auf dem Laufenden zu halten, sobald diese absehbar ist. Ihre Genesung hat jedoch oberste Priorität.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Information über eine krankheitsbedingte Abwesenheit muss noch am selben Vormittag an zwei verschiedene Stellen im Unternehmen erfolgen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Arbeitsunfähigkeitsbescheinigung ist erforderlich,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wenn die Abwesenheit länger als zwei Tage dauert."
+                },
+                {
+                    "key": "b",
+                    "text": "sobald man sich am ersten Tag krankmeldet."
+                },
+                {
+                    "key": "c",
+                    "text": "falls die Teamleitung diese explizit anfordert."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

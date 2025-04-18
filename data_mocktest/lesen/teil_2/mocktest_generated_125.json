@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege und -regeln\n\nHerzlich willkommen in unserem Team! Eine klare und professionelle Kommunikation ist entscheidend für unsere Zusammenarbeit. Als Hauptkommunikationsmittel nutzen wir E-Mail für formelle Anfragen und den Informationsaustausch sowie unser Intranet für offizielle Bekanntmachungen und Dokumentationen. In der gesamten internen Kommunikation bitten wir Sie, die formelle Anrede \"Sie\" zu verwenden.\n\nFür die E-Mail-Kommunikation gelten einige Grundregeln: Verwenden Sie stets aussagekräftige Betreffzeilen (z.B. „Anfrage: Projekt XY“). Formelle Anreden und Grußformeln sind obligatorisch. Wir erwarten, dass Sie Ihre dienstlichen E-Mails mindestens zweimal täglich überprüfen und auf Standardanfragen innerhalb eines Arbeitstages reagieren. Bei wichtigen Themen, die eine Entscheidung oder Information der Führungskraft erfordern, setzen Sie diese bitte mittels CC in Kenntnis. Die Nutzung von BCC sollte auf notwendige Fälle für große interne Verteiler beschränkt und idealerweise vorab kurz abgestimmt werden.\n\nDas Intranet ist unsere zentrale Anlaufstelle für Unternehmensnachrichten, verbindliche Richtlinien, wichtige Formulare und das Mitarbeiterverzeichnis. Es wird erwartet, dass Sie sich regelmäßig, mindestens jedoch einmal wöchentlich, über die offiziellen Neuigkeiten im Intranet informieren. Dokumente finden Sie über die Suchfunktion oder die klar strukturierte Navigation. Bitte beachten Sie, dass das Intranet ausschließlich für dienstliche Zwecke vorgesehen ist; eine persönliche Nutzung ist nicht vorgesehen.\n\nFür sehr kurze, informelle Fragen oder Absprachen können Sie auch unseren internen TeamChat nutzen. Beachten Sie jedoch: Sobald es sich um offizielle Anträge, Projektfreigaben oder komplexe Sachverhalte handelt, die einer Dokumentation bedürfen, ist die Kommunikation per E-Mail zwingend erforderlich.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeiter müssen sich sowohl über das Intranet informieren als auch bei offiziellen Anfragen per E-Mail eine formelle Anrede verwenden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Laut den Richtlinien soll das Intranet...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "als Hauptquelle für offizielle Mitteilungen und Dokumente dienen."
+                },
+                {
+                    "key": "b",
+                    "text": "hauptsächlich für private Unterhaltungen der Mitarbeiter genutzt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "wöchentlich von der IT-Abteilung aktualisiert werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

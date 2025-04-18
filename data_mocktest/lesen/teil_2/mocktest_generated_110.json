@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Vorgehen bei Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, informieren Sie bitte unverzüglich Ihre*n direkte*n Vorgesetzte*n. Dies muss unbedingt vor Ihrem regulären Arbeitsbeginn geschehen, idealerweise per Telefonanruf, damit Ihre Abwesenheit schnell bekannt ist und gegebenenfalls Aufgaben umverteilt werden können. Eine kurze E-Mail ist nur in Ausnahmefällen akzeptabel, wenn Sie Ihre*n Vorgesetzte*n telefonisch nicht erreichen können.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) muss dem Unternehmen spätestens am dritten Kalendertag Ihrer Abwesenheit vorliegen. Bitte beachten Sie jedoch, dass Ihr*e Vorgesetzte*r berechtigt ist, die Vorlage der AU auch schon früher zu verlangen. Die Einreichung der Bescheinigung erfolgt ausschließlich digital über das Mitarbeiterportal der Personalabteilung. Laden Sie dort bitte einen Scan oder ein Foto des Dokuments hoch.\n\nDas Original der AU bewahren Sie bitte für eventuelle Rückfragen auf, Sie müssen es jedoch nicht zusätzlich per Post schicken oder persönlich abgeben. Bei Fragen zum Prozess der Krankmeldung oder zur digitalen Einreichung steht Ihnen die Personalabteilung gerne zur Verfügung.\n\nSollten Sie während Ihrer Arbeitszeit im Büro erkranken und Ihre Tätigkeit nicht fortsetzen können, melden Sie sich bitte ebenfalls umgehend bei Ihrem oder Ihrer Vorgesetzten ab, bevor Sie den Arbeitsplatz verlassen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Bei Krankheit muss der Vorgesetzte zunächst angerufen werden und die offizielle Bescheinigung später digital übermittelt werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie arbeitsunfähig werden, sollen Sie als Erstes...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihren direkten Vorgesetzten anrufen."
+                },
+                {
+                    "key": "b",
+                    "text": "die Personalabteilung kontaktieren."
+                },
+                {
+                    "key": "c",
+                    "text": "das Personalportal zur Krankmeldung nutzen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten bei Krankheit\n\nSollten Sie einmal aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie, folgende Vorgehensweise zu beachten. Informieren Sie uns bitte unverzüglich am ersten Tag Ihrer Abwesenheit, idealerweise noch vor dem regulären Arbeitsbeginn. Es ist wichtig, dass Sie sowohl Ihre direkte Führungskraft als auch die Personalabteilung (Kontaktdaten siehe Intranet) in Kenntnis setzen. Eine telefonische Mitteilung wird bevorzugt, alternativ ist auch eine E-Mail möglich. Teilen Sie dabei bitte auch die voraussichtliche Dauer Ihrer Abwesenheit mit, sofern diese bereits absehbar ist.\n\nDauert Ihre Arbeitsunfähigkeit länger als drei Kalendertage an, sind Sie gesetzlich verpflichtet, eine ärztliche Bescheinigung, die sogenannte Arbeitsunfähigkeitsbescheinigung (AU), vorzulegen. Diese muss dem Unternehmen spätestens am darauf folgenden Arbeitstag, also in der Regel am vierten Kalendertag Ihrer Krankheit, vorliegen. Maßgeblich ist hierbei das Datum des Eingangs in der Personalabteilung.\n\nDie Übermittlung der Arbeitsunfähigkeitsbescheinigung erfolgt heutzutage standardmäßig digital. Bitte senden Sie einen Scan oder ein gut lesbares Foto Ihrer AU per E-Mail an die zentrale Adresse der Personalabteilung: personal@firma-beispiel.de. Eine verspätete Einreichung der AU kann Auswirkungen auf Ihre Lohnfortzahlung haben, achten Sie daher bitte unbedingt auf die Einhaltung der Frist.\n\nSobald Sie wieder arbeitsfähig sind und Ihre Tätigkeit aufnehmen, geben Sie bitte Ihrer Führungskraft eine kurze Information über Ihre Rückkehr. Eine erneute formelle Meldung an die Personalabteilung ist bei Wiederaufnahme der Arbeit nicht erforderlich, sofern die AU fristgerecht eingegangen ist.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss persönlich in der Personalabteilung abgegeben werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine ärztliche Bescheinigung wird benötigt, wenn...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "man länger als drei Kalendertage arbeitsunfähig ist."
+                },
+                {
+                    "key": "b",
+                    "text": "man bereits am ersten Tag einen Arzt aufsucht."
+                },
+                {
+                    "key": "c",
+                    "text": "die Krankmeldung per E-Mail erfolgt ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

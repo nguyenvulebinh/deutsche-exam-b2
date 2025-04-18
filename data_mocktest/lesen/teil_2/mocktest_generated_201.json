@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung von Firmenfahrzeugen\n\nUnser Unternehmen stellt bestimmten Mitarbeitergruppen, insbesondere im Außendienst und in Führungspositionen, nach Ablauf der Probezeit einen fest zugewiesenen Firmenwagen zur Verfügung. Die private Nutzung dieser Fahrzeuge ist gestattet, muss jedoch als geldwerter Vorteil versteuert werden. Details hierzu klärt die Personalabteilung.\n\nFür alle anderen Mitarbeiterinnen und Mitarbeiter besteht die Möglichkeit, für dienstliche Fahrten auf unsere Poolfahrzeuge zurückzugreifen. Diese können über das Intranet-Buchungssystem reserviert werden, wobei die Verfügbarkeit geprüft und eine Bestätigung per E-Mail versandt wird. Eine frühzeitige Buchung wird empfohlen, besonders für längere Fahrten.\n\nUnabhängig davon, ob es sich um einen fest zugewiesenen Wagen oder ein Poolfahrzeug handelt, gelten folgende Nutzungsregeln: Die Fahrzeuge sind stets sauber zu halten. Das Rauchen in den Fahrzeugen ist strikt untersagt, ebenso die Mitnahme von nicht autorisierten Personen. Vor der Rückgabe, spätestens jedoch am Ende der Arbeitswoche bei Poolfahrzeugen, ist das Fahrzeug vollzutanken. Eine Tankkarte liegt im Handschuhfach bereit.\n\nEventuelle Schäden am Fahrzeug, egal ob selbst verursacht oder nur festgestellt, sind unverzüglich dem Fuhrparkmanagement (Herr Klein, Durchwahl -112) zu melden. Kleinere Reinigungsarbeiten (z. B. Innenraum aussaugen) sind von den Nutzern selbst durchzuführen. Bei grober Verschmutzung oder technischen Problemen informieren Sie bitte ebenfalls umgehend das Fuhrparkmanagement.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter sind dafür verantwortlich, Firmenwagen sauber und vollgetankt zu halten und eventuelle Schäden unverzüglich zu melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Um einen Pool-Firmenwagen nutzen zu können,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "genügt eine mündliche Absprache mit der Teamleitung."
+                },
+                {
+                    "key": "b",
+                    "text": "muss dieser über das Intranet-Buchungssystem reserviert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "muss man zuerst die Probezeit erfolgreich abgeschlossen haben."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

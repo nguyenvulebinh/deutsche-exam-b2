@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Richtlinien und Datensicherheit\n\nDie IT-Systeme unseres Unternehmens sind ein wesentliches Werkzeug für Ihre tägliche Arbeit. Um die Sicherheit unserer Daten und die Funktionsfähigkeit der Systeme zu gewährleisten, ist die Einhaltung bestimmter Richtlinien unerlässlich. Jeder Mitarbeiter trägt hierfür eine Mitverantwortung.\n\nIhr Passwort für den Zugang zu unseren Systemen muss komplex sein (mindestens 12 Zeichen, Groß-/Kleinschreibung, Zahlen, Sonderzeichen) und ist streng vertraulich zu behandeln. Es darf keinesfalls an Dritte weitergegeben werden. Aus Sicherheitsgründen sind Sie verpflichtet, Ihr Passwort alle 90 Tage zu ändern.\n\nDie Ihnen zur Verfügung gestellten Firmengeräte (Laptop, Mobiltelefon etc.) sind primär für dienstliche Zwecke vorgesehen. Eine maßvolle private Nutzung ist gestattet, solange sie die Arbeitsleistung nicht beeinträchtigt und keine Sicherheitsrisiken birgt. Das Streamen von Videos oder das Spielen von Online-Spielen ist jedoch ausdrücklich untersagt. Die Installation jeglicher Software auf Firmengeräten ist ohne vorherige Genehmigung durch die IT-Abteilung strikt verboten.\n\nDie E-Mail-Kommunikation hat professionell zu erfolgen. Seien Sie besonders vorsichtig bei E-Mails von unbekannten Absendern oder mit unerwarteten Anhängen bzw. Links. Öffnen Sie solche Anhänge oder Links nicht unbedacht. Verdächtige E-Mails oder Phishing-Versuche melden Sie bitte sofort dem IT-Support.\n\nDer Schutz vertraulicher Unternehmens- und Kundendaten hat höchste Priorität. Speichern Sie sensible Daten ausschließlich auf den dafür vorgesehenen Netzlaufwerken oder in den freigegebenen Cloud-Speichern. Bei Verdacht auf einen Sicherheitsvorfall (z.B. Datenverlust, unbefugter Zugriff) ist umgehend der IT-Support zu informieren. Verstöße gegen diese Richtlinien können arbeitsrechtliche Konsequenzen nach sich ziehen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen ihre Passwörter regelmäßig ändern und dürfen keine eigene Software installieren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie eine verdächtige E-Mail erhalten,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sollen Sie diese umgehend dem IT-Support melden."
+                },
+                {
+                    "key": "b",
+                    "text": "sollen Sie diese sofort löschen."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen Sie zuerst versuchen, den Absender zu kontaktieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

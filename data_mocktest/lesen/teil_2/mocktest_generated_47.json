@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regelungen bei Krankmeldung und Arbeitsunfähigkeit\n\nWir legen großen Wert darauf, dass Arbeitsabläufe auch bei unvorhergesehenen Ereignissen wie Krankheit reibungslos weiterlaufen können. Daher ist es essenziell, dass Sie sich im Falle einer Arbeitsunfähigkeit an die folgenden Vorgaben halten.\n\nSollten Sie aufgrund von Krankheit nicht zur Arbeit erscheinen können, sind Sie verpflichtet, dies unverzüglich – das heißt, noch vor Ihrem regulären Arbeitsbeginn – Ihrem/Ihrer direkten Vorgesetzten mitzuteilen. Die Meldung sollte grundsätzlich telefonisch erfolgen, damit eventuelle Rückfragen direkt geklärt werden können. Eine Benachrichtigung per E-Mail ist nur dann zulässig, wenn Ihr/Ihre Vorgesetzte/-r telefonisch nicht erreichbar ist. Bitte geben Sie bei der Meldung auch die voraussichtliche Dauer Ihrer Abwesenheit an.\n\nDauert Ihre Arbeitsunfähigkeit länger als drei Kalendertage an, so muss spätestens am vierten Kalendertag eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) in der Personalabteilung vorliegen. Heutzutage wird die AU in den meisten Fällen vom Arzt elektronisch an die Krankenkasse übermittelt (eAU), woraufhin wir diese abrufen können. Sollte Ihr Arzt nicht am eAU-Verfahren teilnehmen, sind Sie dafür verantwortlich, uns die Bescheinigung in Papierform zukommen zu lassen.\n\nSollte sich herausstellen, dass Sie länger krankheitsbedingt ausfallen als auf der ursprünglichen AU angegeben, ist unverzüglich eine Folgebescheinigung einzureichen. Besondere Regelungen gelten bei Erkrankung während eines Auslandsaufenthalts: Hier ist bereits ab dem ersten Tag eine AU erforderlich und die Personalabteilung über den Aufenthaltsort zu informieren.\n\nDie korrekte und fristgerechte Krankmeldung sowie die Vorlage der AU sind Voraussetzungen für die Fortzahlung Ihres Entgelts im Krankheitsfall und dienen der Vermeidung arbeitsrechtlicher Konsequenzen. Wir danken für Ihr Verständnis und Ihre Kooperation.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss immer in elektronischer Form bei der Personalabteilung eingereicht werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Zu Beginn einer Krankheit sollen sich Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sofort telefonisch beim direkten Vorgesetzten melden."
+                },
+                {
+                    "key": "b",
+                    "text": "eine E-Mail an die Personalabteilung senden."
+                },
+                {
+                    "key": "c",
+                    "text": "innerhalb von drei Tagen eine AU einreichen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

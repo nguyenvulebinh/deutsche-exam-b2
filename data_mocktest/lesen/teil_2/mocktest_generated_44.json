@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikation – Regeln und Kanäle\n\nEine klare und effiziente interne Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Wir nutzen dafür verschiedene Kanäle, deren korrekte Anwendung wir Ihnen hier kurz vorstellen möchten. Das Firmen-Intranet dient als zentrale Ablage für wichtige Dokumente, Unternehmensrichtlinien, Vorlagen und aktuelle Neuigkeiten. Offizielle Mitteilungen der Geschäftsleitung werden oft als Rundmail versandt. Zudem erhalten Sie monatlich einen Newsletter mit zusammengefassten Informationen zu Projekten und firmeninternen Entwicklungen. Es wird erwartet, dass Sie Ihre E-Mails sowie das Intranet täglich auf neue Informationen prüfen.\n\nBei der E-Mail-Kommunikation bitten wir Sie um Beachtung einiger Grundregeln: Verwenden Sie aussagekräftige Betreffzeilen und formulieren Sie Ihr Anliegen klar und präzise. Setzen Sie bitte nur diejenigen Personen in Kopie (CC), für die die Information tatsächlich relevant ist, damit die Postfächer nicht unnötig gefüllt werden. E-Mails sollten innerhalb von 24 Stunden an Werktagen beantwortet werden. Beachten Sie zudem stets die Vertraulichkeit, besonders wenn Sie sensible Daten oder interne Informationen weitergeben.\n\nNeben den digitalen Kanälen sind auch andere Kommunikationsformen wichtig. Regelmäßige Teambesprechungen dienen der Abstimmung und dem Austausch über Projektstände. Für kurze Klärungen ist oft das direkte Gespräch mit Kolleginnen oder Kollegen am effizientesten. Bei größeren Problemen oder offiziellen Anfragen wenden Sie sich jedoch bitte immer zuerst an Ihre direkte Teamleitung. Diese ist auch Ihr Ansprechpartner für die jährlichen Feedbackgespräche bezüglich Ihrer Leistung und Entwicklung im Unternehmen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle wichtigen Firmeninformationen werden ausschließlich über das Intranet verbreitet.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie eine offizielle Anfrage haben, sollten Sie...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine Rundmail an das gesamte Team schreiben."
+                },
+                {
+                    "key": "b",
+                    "text": "sich zunächst an Ihre zuständige Teamleitung wenden."
+                },
+                {
+                    "key": "c",
+                    "text": "die Antwort direkt im Firmen-Intranet suchen."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

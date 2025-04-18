@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinien und Support\n\nHerzlich willkommen in unserem Team! Damit die Arbeit mit unseren IT-Systemen sicher und effizient verläuft, bitten wir Sie, die folgenden Richtlinien sorgfältig zu lesen und einzuhalten. Die Ihnen zur Verfügung gestellten Firmengeräte (PC/Laptop, ggf. Diensttelefon) sind wichtige Arbeitsmittel.\n\nDie Nutzung dieser Geräte sowie des Internets ist grundsätzlich für dienstliche Zwecke vorgesehen. Eine begrenzte private Nutzung des Internets während Ihrer offiziellen Pausenzeiten wird toleriert, solange dadurch weder Ihre Arbeitsleistung beeinträchtigt noch die IT-Sicherheit gefährdet wird. Das Streamen von Videos, das Herunterladen urheberrechtlich geschützter Inhalte sowie exzessive Nutzung von sozialen Netzwerken sind nicht gestattet. Ihre Firmen-E-Mail-Adresse ist ausschließlich für die berufliche Kommunikation zu verwenden; achten Sie bitte stets auf einen professionellen Umgangston.\n\nEin wichtiger Aspekt ist die Sicherheit. Ihre Kennwörter müssen komplex sein (mindestens 10 Zeichen, Groß- und Kleinbuchstaben, Zahlen, Sonderzeichen), alle 90 Tage geändert und streng geheim gehalten werden. Die Installation jeglicher Software auf Ihrem Arbeitsgerät darf nur nach Genehmigung und ausschließlich durch unsere IT-Abteilung erfolgen. Seien Sie vorsichtig bei E-Mail-Anhängen und Links unbekannter Herkunft. Speichern Sie bitte alle beruflich relevanten Daten konsequent auf den dafür vorgesehenen zentralen Netzwerkfreigaben des Unternehmens. Die Nutzung privater USB-Sticks oder anderer externer Speichermedien für Firmendaten ist aus Sicherheitsgründen untersagt.\n\nSollten Sie technische Probleme oder Fragen haben, nutzen Sie bitte unser internes IT-Ticketsystem für Ihre Supportanfrage. Das IT-Support-Team ist montags bis freitags von 8:00 Uhr bis 17:00 Uhr für Sie da und bemüht sich um eine Bearbeitung Ihres Tickets innerhalb von vier Geschäftsstunden. Für sehr dringende Systemausfälle außerhalb dieser Kernzeiten existiert eine separate Notfall-Hotline, deren Nummer Sie den gesonderten Unterlagen entnehmen können.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitern ist es gestattet, in Pausen privat im Internet zu surfen, solange sie Firmendaten ausschließlich auf Netzwerklaufwerken speichern.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Um IT-Hilfe zu erhalten, sollen Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "auch außerhalb der Geschäftszeiten ein Ticket für Notfälle erstellen."
+                },
+                {
+                    "key": "b",
+                    "text": "die IT-Abteilung bei jedem Problem direkt anrufen."
+                },
+                {
+                    "key": "c",
+                    "text": "während der Geschäftszeiten das Ticketsystem nutzen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege\n\nHerzlich willkommen in unserem Team! Eine klare und effiziente Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Bitte beachten Sie die folgenden Richtlinien zur Nutzung unserer internen Kommunikationsmittel.\n\nFür formelle Anfragen, verbindliche Absprachen, offizielle Mitteilungen und die Kommunikation mit externen Partnern ist ausschließlich Ihre Firmen-E-Mail-Adresse zu verwenden. E-Mails gelten als dokumentierte Korrespondenz und sollten professionell formuliert sein. Achten Sie auf eine klare Betreffzeile und eine angemessene Sprache.\n\nUnser internes Chat-System „TeamConnect“ dient der schnellen Abstimmung und für kurze Fragen innerhalb von Projekten oder Teams. Es ist ideal für informelle, zeitnahe Klärungen, ersetzt jedoch keine E-Mail, wenn es um verbindliche Vereinbarungen geht. Wir erwarten, dass Nachrichten im Chat während der Kernarbeitszeit zeitnah gelesen werden, eine sofortige Antwort ist jedoch nicht immer erforderlich – konzentriertes Arbeiten hat Vorrang.\n\nFür die Organisation von Projekten und die Nachverfolgung von Aufgaben nutzen wir das Projektmanagement-Tool „ProTask“. Hier werden Aufgaben zugewiesen, Deadlines gesetzt und der Fortschritt dokumentiert. Bitte halten Sie Ihre Aufgaben in ProTask stets aktuell.\n\nDie Nutzung privater Messenger-Dienste oder sozialer Netzwerke für dienstliche Absprachen ist aus Gründen der Datensicherheit und Nachvollziehbarkeit strikt untersagt. Alle arbeitsbezogenen Kommunikationen müssen über die vom Unternehmen bereitgestellten Kanäle erfolgen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle Anfragen von Kollegen müssen immer sofort über das interne Chat-System beantwortet werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die offizielle Firmen-E-Mail soll hauptsächlich genutzt werden,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "um verbindliche Absprachen zu dokumentieren."
+                },
+                {
+                    "key": "b",
+                    "text": "für kurze Abstimmungen innerhalb des Teams."
+                },
+                {
+                    "key": "c",
+                    "text": "um ausschließlich mit externen Partnern zu kommunizieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

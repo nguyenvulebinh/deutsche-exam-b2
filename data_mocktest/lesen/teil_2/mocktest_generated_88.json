@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Abrechnung von Dienstreisekosten\n\nDamit Ihre Dienstreisekosten erstattet werden können, sind einige wichtige Schritte zu beachten. Grundsätzlich muss jede Dienstreise vor Antritt von Ihrer bzw. Ihrem direkten Vorgesetzten schriftlich genehmigt werden. Ohne vorherige Genehmigung ist eine Kostenübernahme nicht möglich.\n\nErstattungsfähig sind in der Regel notwendige Reisekosten wie Bahnfahrten (üblicherweise 2. Klasse), Kosten für öffentliche Verkehrsmittel am Reiseziel sowie, nach Absprache, Flugkosten. Bei Übernachtungen werden die Kosten für angemessene Mittelklassehotels übernommen. Zusätzlich erhalten Sie gesetzliche Verpflegungspauschalen, deren Höhe sich nach der Dauer Ihrer Abwesenheit richtet. Für alle Ausgaben, mit Ausnahme der Pauschalen, sind zwingend Originalbelege erforderlich.\n\nNach Beendigung Ihrer Dienstreise reichen Sie Ihre Reisekostenabrechnung bitte zeitnah ein. Hierfür nutzen Sie ausschließlich unser Online-Portal „Reisekosten Online“. Dort laden Sie alle gescannten Originalbelege hoch und füllen das digitale Formular vollständig aus. Die Frist für die Einreichung beträgt vier Wochen nach Ihrer Rückkehr. Verspätet eingereichte Abrechnungen können leider nicht mehr berücksichtigt werden.\n\nIn begründeten Fällen, insbesondere bei längeren oder kostspieligen Reisen, kann nach vorheriger Absprache mit der Personalabteilung ein Vorschuss beantragt werden. Dieser wird dann mit der endgültigen Abrechnung verrechnet.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Kosten für Dienstreisen werden übernommen, auch wenn die Belege erst nach Ablauf von vier Wochen eingereicht werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Für die Reisekostenabrechnung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "können die Belege bis zu zwei Monate nach der Reise per Post geschickt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "genügt die erneute Genehmigung der Kosten durch den Vorgesetzten."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen Mitarbeitende die Originalbelege fristgerecht über das Online-Portal einreichen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es unerlässlich, dass Sie das Unternehmen unverzüglich darüber informieren. Bitte melden Sie sich dazu am ersten Tag Ihrer Abwesenheit **telefonisch bei Ihrer direkten Führungskraft**, und zwar noch **vor dem offiziellen Arbeitsbeginn** Ihres Bereichs. Eine kurze Nachricht per SMS oder E-Mail reicht hierfür zunächst nicht aus.\n\nZusätzlich zu diesem Anruf sind Sie verpflichtet, Ihre Krankmeldung noch am selben Tag **schriftlich per E-Mail** an die Personalabteilung (personal@firma-beispiel.de) zu bestätigen. Geben Sie dabei bitte auch die voraussichtliche Dauer Ihrer Abwesenheit an, sofern Ihnen diese bereits bekannt ist.\n\nEine **ärztliche Arbeitsunfähigkeitsbescheinigung (AU)** ist dem Unternehmen grundsätzlich **spätestens am dritten Kalendertag** der Erkrankung vorzulegen. Fällt der dritte Tag auf ein Wochenende oder einen Feiertag, so ist die Bescheinigung am darauffolgenden Werktag einzureichen. Die Übermittlung kann zunächst digital als Scan per E-Mail an die Personalabteilung erfolgen; das Original muss jedoch zeitnah nachgereicht werden. Bitte beachten Sie: Bei Krankmeldungen, die direkt an einem Freitag oder vor einem Feiertag erfolgen, muss die AU bereits am ersten Tag der Abwesenheit vorliegen.\n\nSollte Ihre Erkrankung länger andauern als auf der ursprünglichen AU angegeben, informieren Sie bitte sowohl Ihre Führungskraft als auch die Personalabteilung umgehend telefonisch und reichen Sie rechtzeitig eine Folgebescheinigung ein. Bei Fragen zum korrekten Vorgehen steht Ihnen Frau Meyer aus der Personalabteilung gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die ärztliche Bescheinigung über die Arbeitsunfähigkeit muss man grundsätzlich erst am dritten Krankheitstag vorlegen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was müssen Sie tun, sobald Sie wissen, dass Sie krankheitsbedingt nicht arbeiten können?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihre direkte Führungskraft noch vor Dienstbeginn telefonisch informieren."
+                },
+                {
+                    "key": "b",
+                    "text": "umgehend eine E-Mail an die Personalabteilung schreiben."
+                },
+                {
+                    "key": "c",
+                    "text": "schnellstmöglich eine Arbeitsunfähigkeitsbescheinigung einreichen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

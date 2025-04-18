@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Arztbesuch während der Arbeitszeit\n\nIm Falle einer Erkrankung sind Sie verpflichtet, Ihre Arbeitsunfähigkeit unverzüglich, d.h. noch vor dem regulären Arbeitsbeginn, zu melden. Die Krankmeldung muss sowohl bei Ihrem direkten Vorgesetzten als auch in der Personalabteilung (per E-Mail oder Telefon) erfolgen. Geben Sie dabei bitte auch die voraussichtliche Dauer Ihrer Abwesenheit an, sofern dies abschätzbar ist.\n\nDauert die Arbeitsunfähigkeit länger als drei Kalendertage, ist spätestens am vierten Kalendertag eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) bei der Personalabteilung einzureichen. Beachten Sie, dass die Zählung der Tage auch Wochenenden und Feiertage umfasst. Die Vorlage der AU kann zunächst digital erfolgen (Scan per E-Mail), das Original muss jedoch zeitnah nachgereicht werden. In Einzelfällen kann der Arbeitgeber die Vorlage der AU auch schon ab dem ersten Tag der Krankheit verlangen.\n\nArztbesuche während der Arbeitszeit sind grundsätzlich zu vermeiden und in die Freizeit zu legen. Nur wenn ein Arzttermin aus medizinischen Gründen zwingend während der Arbeitszeit stattfinden muss und keine Verlegung möglich ist, gilt die notwendige Abwesenheitszeit als Arbeitszeit. Dies muss im Voraus mit dem Vorgesetzten abgesprochen und nachgewiesen werden (z.B. durch eine Terminbestätigung der Arztpraxis).\n\nBei akuten gesundheitlichen Beschwerden, die einen sofortigen Arztbesuch während der Arbeitszeit unumgänglich machen, informieren Sie bitte umgehend Ihren Vorgesetzten über Ihren \"Dienstgang\". Die Zeit für diesen unaufschiebbaren Arztbesuch wird ebenfalls als Arbeitszeit gewertet, sofern Sie die Notwendigkeit durch eine ärztliche Bescheinigung belegen können.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl die erste Information über eine Krankheit als auch das ärztliche Attest sind der Personalabteilung zu melden bzw. vorzulegen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Zeit für einen Arztbesuch während der Arbeit wird bezahlt,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sofern er medizinisch notwendig ist und nicht verschoben werden konnte."
+                },
+                {
+                    "key": "b",
+                    "text": "wenn der Vorgesetzte rechtzeitig darüber Bescheid weiß."
+                },
+                {
+                    "key": "c",
+                    "text": "grundsätzlich nie, da Termine in die Freizeit gehören."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

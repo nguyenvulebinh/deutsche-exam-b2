@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikationswege und Informationsfluss\n\nHerzlich willkommen in unserem Unternehmen! Eine klare und effiziente interne Kommunikation ist uns sehr wichtig. Das zentrale Instrument hierfür ist unser Intranet, genannt „InfoNet“. Dort finden Sie alle relevanten Unternehmensnachrichten, wichtige Dokumente und Formulare sowie ein aktuelles Mitarbeiterverzeichnis. Es wird erwartet, dass Sie sich regelmäßig, mindestens jedoch zu Beginn Ihres Arbeitstages, im InfoNet über Neuigkeiten informieren. Die Pflege der Inhalte obliegt primär der Kommunikationsabteilung.\n\nFür offizielle Ankündigungen der Geschäftsleitung oder spezifische Informationen innerhalb Ihres Teams wird die Firmen-E-Mail genutzt. Bitte überprüfen Sie Ihr E-Mail-Postfach täglich. Bei wichtigen Anfragen, die eine Reaktion erfordern, wird eine Antwort innerhalb von 48 Stunden erwartet. Beachten Sie bitte, dass standardmäßig die formelle Anrede „Sie“ gilt, sofern im Team nicht explizit eine andere Vereinbarung getroffen wurde.\n\nEinmal monatlich erscheint unser interner Newsletter „Wir Intern“. Dieser fasst die wichtigsten Unternehmensentwicklungen, Projekterfolge und Personalnachrichten zusammen. Wenn Sie selbst einen Beitrag einreichen möchten, beachten Sie bitte den Redaktionsschluss am 25. des Vormonats; senden Sie Ihren Vorschlag an die Kommunikationsabteilung. Der Newsletter wird per E-Mail versandt und ist zusätzlich im InfoNet archiviert.\n\nIn den Pausenräumen finden Sie zudem „Schwarze Bretter“. Diese dienen ausschließlich dem Aushang von nicht dringenden, eher sozialen oder privaten Informationen, wie zum Beispiel Hinweise auf gemeinsame Freizeitaktivitäten oder private Verkaufsangebote von Kollegen. Wichtige betriebliche oder offizielle Mitteilungen der Personalabteilung oder Geschäftsführung werden hier ausdrücklich nicht platziert; diese finden Sie verbindlich nur im InfoNet oder per E-Mail.\n\nBei dringenden technischen Problemen, insbesondere mit Ihrer IT-Ausstattung, nutzen Sie bitte nicht die E-Mail, sondern kontaktieren Sie direkt die IT-Support-Hotline. Die entsprechende Telefonnummer finden Sie ebenfalls im InfoNet unter „Kontakte“.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Jegliche Art von firmeninterner Information darf am Schwarzen Brett ausgehängt werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei der Nutzung der Firmen-E-Mail wird erwartet, dass ...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "man sie nur einmal pro Arbeitstag kontrolliert."
+                },
+                {
+                    "key": "b",
+                    "text": "man darüber auch dringende IT-Supportanfragen stellt."
+                },
+                {
+                    "key": "c",
+                    "text": "man auf wichtige Anfragen innerhalb von 48 Stunden reagiert."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

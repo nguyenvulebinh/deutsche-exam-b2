@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Verhalten bei Krankheit\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es unerlässlich, dass Sie dies unverzüglich melden. Bitte informieren Sie Ihre direkte Teamleitung **und** die Personalabteilung noch **vor** dem offiziellen Arbeitsbeginn telefonisch über Ihre Abwesenheit und die voraussichtliche Dauer. Eine Meldung per E-Mail oder über Kollegen ist nicht ausreichend.\n\nDie rechtzeitige und korrekte Krankmeldung ist wichtig, damit Arbeitsabläufe angepasst und gegebenenfalls eine Vertretung organisiert werden kann. Versäumnisse können arbeitsrechtliche Konsequenzen nach sich ziehen.\n\nSpätestens am dritten Kalendertag Ihrer krankheitsbedingten Abwesenheit sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Diese Bescheinigung muss der Personalabteilung im Original oder als qualitativ hochwertiger Scan per E-Mail zugesandt werden. Fällt der dritte Tag auf ein Wochenende oder einen Feiertag, muss die AU am darauffolgenden Werktag vorliegen.\n\nBitte bleiben Sie bei ansteckenden Krankheiten zu Hause, um Ihre Kolleginnen und Kollegen zu schützen und Ihre eigene Genesung zu fördern. Es wird erwartet, dass Sie während Ihrer Abwesenheit nicht für Arbeitsanfragen zur Verfügung stehen. Informieren Sie jedoch idealerweise vor Beginn Ihrer Abwesenheit oder am ersten Tag kurz Ihre Vertretung oder Teamleitung über dringende, laufende Aufgaben.\n\nMelden Sie sich bitte am ersten Tag Ihrer Rückkehr kurz bei Ihrer Teamleitung, um über den Wiedereinstieg zu sprechen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Man muss sich bei Krankheit sowohl bei der Teamleitung als auch in der Personalabteilung telefonisch melden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "direkt beim Vorgesetzten persönlich abgegeben werden."
+                },
+                {
+                    "key": "b",
+                    "text": "spätestens am dritten Tag der Krankheit vorgelegt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "nur eingereicht werden, wenn man länger als eine Woche krank ist."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

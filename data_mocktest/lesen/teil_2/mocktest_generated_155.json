@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verfahren bei Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es wichtig, dass Sie das Unternehmen umgehend informieren. Bitte melden Sie sich am ersten Tag Ihrer Abwesenheit unverzüglich, spätestens jedoch bis zu Ihrem regulären Arbeitsbeginn, telefonisch oder per E-Mail krank.\n\nDie Krankmeldung muss sowohl bei Ihrem direkten Vorgesetzten bzw. Ihrer direkten Vorgesetzten als auch in der Personalabteilung erfolgen. Teilen Sie dabei bitte auch die voraussichtliche Dauer Ihrer Abwesenheit mit, sofern Ihnen dies bereits möglich ist. Eine Angabe des Krankheitsgrundes ist gegenüber dem Arbeitgeber nicht erforderlich.\n\n Dauert Ihre Arbeitsunfähigkeit länger als drei Kalendertage an, sind Sie verpflichtet, spätestens am darauffolgenden Arbeitstag – in der Regel also am vierten Tag der Krankheit – eine ärztliche Bescheinigung (Arbeitsunfähigkeitsbescheinigung, AU) vorzulegen. Diese Bescheinigung muss der Personalabteilung übermittelt werden, entweder digital über das Mitarbeiterportal oder postalisch. Eine Kopie für den Vorgesetzten ist nicht notwendig.\n\nSollte Ihre Krankheit über den auf der ursprünglichen AU genannten Zeitraum hinaus andauern, ist es zwingend erforderlich, rechtzeitig eine Folgebescheinigung einzureichen, ebenfalls bei der Personalabteilung. Nur so kann sichergestellt werden, dass Ihr Entgeltanspruch korrekt weiterläuft und Ihre Abwesenheit ordnungsgemäß dokumentiert ist.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende müssen am ersten Krankheitstag sowohl ihre direkte Führungskraft als auch die Personalabteilung benachrichtigen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist immer direkt am ersten Krankheitstag erforderlich."
+                },
+                {
+                    "key": "b",
+                    "text": "muss dem direkten Vorgesetzten als Kopie gesendet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "muss spätestens am vierten Krankheitstag bei der Personalabteilung sein."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

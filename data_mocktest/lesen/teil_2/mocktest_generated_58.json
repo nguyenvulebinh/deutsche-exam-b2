@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## IT-Nutzungsrichtlinien\n\nHerzlich willkommen in unserem Team! Damit die Arbeit mit unserer IT-Infrastruktur reibungslos und sicher verläuft, bitten wir Sie, die folgenden Richtlinien zu beachten. Die von uns bereitgestellten Arbeitsmittel wie Computer, Netzwerkzugang und Standardsoftware dienen primär der Erfüllung Ihrer dienstlichen Aufgaben. Sie erhalten persönliche Zugangsdaten (Benutzername und Passwort), die streng vertraulich zu behandeln und nicht an Dritte weiterzugeben sind. Aus Sicherheitsgründen ist es zwingend erforderlich, Ihr Passwort regelmäßig, mindestens alle 90 Tage, zu ändern.\n\nDie Installation von zusätzlicher Software auf Ihrem Dienstrechner ist grundsätzlich nur nach vorheriger Prüfung und ausdrücklicher Genehmigung durch unsere IT-Abteilung gestattet. Sollten Sie für Ihre Arbeit spezielle Programme benötigen, reichen Sie bitte einen schriftlichen Antrag mit einer kurzen Begründung bei der IT-Abteilung ein. Die eigenmächtige Installation von Software, insbesondere von privat erworbener oder unlizenzierter Software, ist strengstens untersagt, da dies erhebliche Sicherheitsrisiken birgt und zu Lizenzproblemen führen kann. Notwendige Sicherheitsupdates für die genehmigte Software werden zentral von der IT-Abteilung verwaltet und verteilt.\n\nDie Nutzung des Internets und des betrieblichen E-Mail-Systems ist ebenfalls vorrangig für dienstliche Zwecke vorgesehen. Eine sehr begrenzte private Nutzung des Internets, beispielsweise zum Lesen von Nachrichten auf seriösen Portalen, wird während der offiziellen Pausenzeiten toleriert, sofern dadurch weder die Netzwerkleistung nennenswert beeinträchtigt noch die IT-Sicherheit des Unternehmens gefährdet wird. Das Herunterladen von großen Dateien (z.B. Filme, Musik), übermäßiges Streaming sowie der Zugriff auf Webseiten mit illegalen, pornografischen oder diskriminierenden Inhalten sind ausdrücklich verboten. Achten Sie bitte auch auf einen professionellen Ton in Ihrer dienstlichen E-Mail-Korrespondenz.\n\nEin besonderes Augenmerk liegt auf der Datensicherheit. Das Anschließen von privaten externen Datenträgern wie USB-Sticks, externen Festplatten oder auch privaten Smartphones zum Laden oder zur Datenübertragung an die Firmenrechner ist ohne eine explizite, fallbezogene Genehmigung durch die IT-Abteilung generell nicht erlaubt. Dies dient dem Schutz vor Schadsoftware und Datenlecks. Bitte nutzen Sie für die Sicherung Ihrer dienstlichen Daten ausschließlich die dafür vorgesehenen Firmenserver bzw. Netzlaufwerke. Sollten Sie verdächtige E-Mails erhalten oder ungewöhnliche Aktivitäten auf Ihrem Rechner bemerken, melden Sie dies bitte unverzüglich der IT-Abteilung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende dürfen private Geräte nur nach Erlaubnis der IT an Firmencomputer anschließen und müssen ihre Passwörter regelmäßig ändern.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Mitarbeitende neue Software benötigen,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen sie einen schriftlichen Antrag bei der IT-Abteilung stellen."
+                },
+                {
+                    "key": "b",
+                    "text": "können sie diese selbst installieren, wenn sie lizenziert ist."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen sie dies mündlich mit der Teamleitung besprechen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

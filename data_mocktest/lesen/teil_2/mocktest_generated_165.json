@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regeln für Krankmeldung und Arztbesuch\n\nBitte beachten Sie die folgenden verbindlichen Regelungen, falls Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können. Ihre rechtzeitige Information ist essenziell, damit betriebliche Abläufe, wie zum Beispiel die Organisation einer notwendigen Vertretung, gewährleistet werden können.\n\nIm Krankheitsfall sind Sie verpflichtet, Ihre Arbeitsunfähigkeit unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn – idealerweise bis spätestens 8:00 Uhr – telefonisch zu melden. Diese Meldung muss sowohl bei Ihrem direkten Vorgesetzten als auch in der Personalabteilung erfolgen. Eine Benachrichtigung per E-Mail oder SMS ist für die Erstmeldung nicht ausreichend.\n\nDauert die Arbeitsunfähigkeit länger als drei Kalendertage an, ist spätestens am darauffolgenden Arbeitstag eine ärztliche Bescheinigung („Arbeitsunfähigkeitsbescheinigung“) bei der Personalabteilung vorzulegen. Diese kann zunächst als Scan per E-Mail eingereicht werden, das Original muss jedoch postalisch nachgereicht werden. Bei kürzerer Krankheit ist eine solche Bescheinigung nicht zwingend erforderlich, kann aber vom Arbeitgeber verlangt werden.\n\nArztbesuche während der Arbeitszeit sollten grundsätzlich außerhalb Ihrer Kernarbeitszeiten gelegt werden. Ist dies aufgrund medizinischer Notwendigkeit oder mangelnder Terminverfügbarkeit nachweislich nicht möglich, informieren Sie bitte Ihre/n Vorgesetzte/n so früh wie möglich über den Termin. Nur bei akuten Beschwerden oder unaufschiebbaren Untersuchungen, die vom Arzt bestätigt werden, gilt die Zeit des Arztbesuchs inklusive Wegezeiten als Arbeitszeit. In anderen Fällen muss die versäumte Arbeitszeit in Absprache mit dem/der Vorgesetzten nachgeholt werden.\n\nBitte melden Sie sich auch kurz bei Ihrem/Ihrer Vorgesetzten, wenn Sie wieder arbeitsfähig sind und Ihre Tätigkeit aufnehmen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter müssen sich nicht nur umgehend telefonisch krankmelden, sondern auch bei längerer Krankheit eine ärztliche Bescheinigung rechtzeitig einreichen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Krankmeldung muss am ersten Tag...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "telefonisch beim Vorgesetzten und in der Personalabteilung erfolgen."
+                },
+                {
+                    "key": "b",
+                    "text": "schriftlich per E-Mail an die Personalabteilung gesendet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "dem direkten Vorgesetzten bis spätestens Mittag gemeldet werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

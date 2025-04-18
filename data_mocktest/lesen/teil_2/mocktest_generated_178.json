@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, bitten wir Sie, dies dem Unternehmen unverzüglich, das heißt noch vor dem eigentlichen Arbeitsbeginn, mitzuteilen. Informieren Sie hierzu bitte entweder Ihre/n direkte/n Vorgesetzte/n oder die Personalabteilung. Die Benachrichtigung sollte idealerweise telefonisch erfolgen, damit gegebenenfalls direkt wichtige Vertretungsregelungen besprochen werden können.\n\nSpätestens am vierten Kalendertag Ihrer Arbeitsunfähigkeit ist dem Unternehmen eine ärztliche Bescheinigung (Arbeitsunfähigkeitsbescheinigung – AU) vorzulegen. Diese Bescheinigung können Sie bequem digital über das Mitarbeiterportal hochladen oder alternativ per E-Mail an die Personalabteilung senden. Achten Sie bitte unbedingt auf die fristgerechte Einreichung, da dies Auswirkungen auf Ihre Lohnfortzahlung haben kann.\n\nSollten Sie erst während Ihres Arbeitstages feststellen, dass Sie sich krank fühlen und nicht weiterarbeiten können, melden Sie sich bitte ebenfalls umgehend bei Ihrem/Ihrer Vorgesetzten ab. Erst danach dürfen Sie den Arbeitsplatz verlassen. Auch in diesem Fall gelten die Regelungen zur Vorlage der Arbeitsunfähigkeitsbescheinigung entsprechend, falls die Abwesenheit über den dritten Tag hinaus andauert.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die ärztliche Bescheinigung muss bis zum vierten Krankheitstag digital eingereicht werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wen müssen Sie informieren, wenn Sie krank sind?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ausschließlich die Personalabteilung telefonisch."
+                },
+                {
+                    "key": "b",
+                    "text": "Entweder Ihre Führungskraft oder die Personalabteilung."
+                },
+                {
+                    "key": "c",
+                    "text": "Nur Ihren direkten Vorgesetzten per E-Mail."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Vorgehen bei Krankheit\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie um eine unverzügliche Benachrichtigung. Es ist essenziell, dass Sie sowohl Ihre direkte Führungskraft (Vorgesetzte/n) als auch die Personalabteilung noch vor Ihrem eigentlichen Arbeitsbeginn, spätestens jedoch bis 9:00 Uhr morgens, über Ihre Abwesenheit informieren. Die Krankmeldung sollte idealerweise telefonisch erfolgen, damit Rückfragen direkt geklärt werden können. Nur wenn dies nicht möglich ist, kann ersatzweise eine E-Mail gesendet werden.\n\nBitte teilen Sie uns auch die voraussichtliche Dauer Ihrer Abwesenheit mit, sofern Ihnen diese bekannt ist. Bei einer Arbeitsunfähigkeit, die länger als drei Kalendertage andauert, sind Sie verpflichtet, dem Unternehmen spätestens am darauffolgenden Arbeitstag – also in der Regel am vierten Tag der Krankheit – eine ärztliche Bescheinigung (Arbeitsunfähigkeitsbescheinigung, AU) vorzulegen. Diese können Sie bequem über unser Mitarbeiterportal digital hochladen oder postalisch an die Personalabteilung senden.\n\nVergessen Sie bitte nicht, sich auch wieder gesundzumelden, sobald Sie Ihre Arbeit wieder aufnehmen können. Dies sollte ebenfalls kurz bei Ihrer Führungskraft und der Personalabteilung geschehen, idealerweise am Vortag Ihrer Rückkehr oder spätestens am Morgen des ersten Arbeitstages nach der Krankheit. Dies hilft uns bei der Planung und stellt sicher, dass Ihr Zugang zu allen Systemen wieder reibungslos funktioniert.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Am ersten Tag der Krankheit muss sowohl der Vorgesetzte als auch die Personalabteilung vor Arbeitsbeginn informiert werden.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss der Firma spätestens am vierten Krankheitstag vorliegen."
+                },
+                {
+                    "key": "b",
+                    "text": "kann formlos per E-Mail an den Vorgesetzten gesendet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist nur bei einer Abwesenheit von mehr als einer Woche erforderlich."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

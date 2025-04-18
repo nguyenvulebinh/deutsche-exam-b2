@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, ist es unerlässlich, dass Sie dies dem Unternehmen unverzüglich mitteilen. Bitte informieren Sie Ihre direkte Führungskraft sowie die Personalabteilung noch vor dem regulären Arbeitsbeginn am ersten Tag Ihrer Abwesenheit. Die Benachrichtigung sollte idealerweise telefonisch erfolgen, damit Ihre Aufgaben gegebenenfalls kurzfristig umverteilt werden können. Eine E-Mail ist nur in Ausnahmefällen akzeptabel, wenn Sie telefonisch niemanden erreichen.\n\nSpätestens am dritten Kalendertag Ihrer Krankheit sind Sie verpflichtet, eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorzulegen. Diese Bescheinigung wird heutzutage in der Regel von Ihrer Arztpraxis elektronisch an Ihre Krankenkasse übermittelt (eAU-Verfahren). Sie müssen uns lediglich darüber informieren, dass die eAU erstellt wurde und für welchen Zeitraum sie gilt. Sollte Ihre Arztpraxis aus technischen Gründen keine eAU ausstellen können, reichen Sie uns bitte umgehend eine Kopie der Papierbescheinigung ein, entweder per Scan an die Personalabteilung oder per Post.\n\nDauert Ihre Arbeitsunfähigkeit länger als auf der ursprünglichen Bescheinigung angegeben, benötigen wir rechtzeitig vor Ablauf der ersten AU eine Folgebescheinigung. Informieren Sie bitte auch hierüber umgehend Ihre Führungskraft und die Personalabteilung. Bei Fragen zum gesamten Prozess steht Ihnen Frau Keller aus der Personalabteilung (Durchwahl -45) gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Ein ärztliches Attest ist immer erst ab dem vierten Krankheitstag notwendig.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wie müssen sich Mitarbeitende am ersten Tag krankmelden?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Sie müssen Vorgesetzten und Personalabteilung vor Arbeitsbeginn anrufen."
+                },
+                {
+                    "key": "b",
+                    "text": "Sie sollen eine E-Mail an Frau Keller schreiben."
+                },
+                {
+                    "key": "c",
+                    "text": "Es genügt, die Information über die eAU weiterzuleiten."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

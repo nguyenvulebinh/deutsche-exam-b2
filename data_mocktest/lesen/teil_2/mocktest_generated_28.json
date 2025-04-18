@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikation und Informationswege\n\nHerzlich willkommen in unserem Team! Eine klare und effektive Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Damit Sie stets gut informiert sind, nutzen wir verschiedene Kanäle, um wichtige Informationen zu teilen.\n\nDas **Intranet** ist unsere zentrale Informationsplattform. Hier finden Sie alle offiziellen Unternehmensnachrichten, verbindliche Richtlinien, wichtige Formulare sowie das aktuelle Mitarbeiterverzeichnis mit den Kontaktdaten aller Kolleginnen und Kollegen. Es wird erwartet, dass Sie sich regelmäßig im Intranet über Neuigkeiten informieren.\n\n**E-Mails** werden für spezifische Informationen an bestimmte Gruppen über sogenannte Verteilerlisten oder für die direkte Kommunikation genutzt. Achten Sie bitte stets auf einen professionellen Ton. Wir bemühen uns um eine zeitnahe Beantwortung innerhalb von 24 bis 48 Stunden an Werktagen. Wichtige Rundschreiben der Geschäftsleitung werden häufig ebenfalls per E-Mail versandt, sind aber primär im Intranet zu finden.\n\nRegelmäßige **Teambesprechungen** dienen dem direkten Austausch über laufende Projekte, der Koordination von Aufgaben und der Klärung von Fragen innerhalb Ihres Teams. Ihre Teamleitung ist für die Organisation und Leitung dieser Meetings verantwortlich.\n\nZusätzlich gibt es ein **Schwarzes Brett** (Aushang neben der Kantine). Dort finden Sie eher informelle Mitteilungen, Ankündigungen von sozialen Events, interne Stellenausschreibungen oder Informationen des Betriebsrats. Für dringende, arbeitsrelevante Informationen ist dieser Kanal jedoch nicht vorgesehen.\n\nFür spezifische Fragen gibt es klare Zuständigkeiten. Bei Fragen zu Projektinhalten wenden Sie sich bitte direkt an Ihre zuständige Projektleitung. Personalrechtliche Fragen klären Sie bitte mit der Personalabteilung. Die jeweiligen Ansprechpartner finden Sie ebenfalls im Intranet.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle wichtigen Informationen für Mitarbeitende sind zentral am Schwarzen Brett zu finden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Offizielle Mitteilungen der Unternehmensleitung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden hauptsächlich über das Intranet kommuniziert."
+                },
+                {
+                    "key": "b",
+                    "text": "findet man ausschließlich in den Teambesprechungen."
+                },
+                {
+                    "key": "c",
+                    "text": "werden immer nur per E-Mail als Rundschreiben versendet."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

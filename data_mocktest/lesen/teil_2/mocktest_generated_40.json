@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der IT-Infrastruktur und Datenschutz\n\nAls neue Mitarbeiterin bzw. neuer Mitarbeiter erhalten Sie die notwendige IT-Ausstattung für Ihre Tätigkeit, in der Regel einen Laptop und bei Bedarf ein Diensthandy. Sie sind für die sorgfältige Behandlung dieser Geräte verantwortlich. Bitte beachten Sie, dass die zur Verfügung gestellte Hardware und Software ausschließlich für dienstliche Zwecke bestimmt ist; eine private Nutzung ist ausdrücklich untersagt. Bei technischen Problemen oder Fragen wenden Sie sich bitte direkt an unseren IT-Support (Durchwahl -45).\n\nDie Sicherheit unserer Systeme und Daten hat höchste Priorität. Daher sind Sie verpflichtet, sichere Passwörter zu verwenden (mindestens 12 Zeichen, Groß-/Kleinbuchstaben, Zahlen, Sonderzeichen) und diese regelmäßig, spätestens alle 90 Tage, zu ändern. Geben Sie Ihre Zugangsdaten unter keinen Umständen an Dritte weiter. Für den Zugriff auf das Firmennetzwerk von außerhalb (z.B. im Homeoffice) ist die Nutzung der bereitgestellten VPN-Verbindung zwingend erforderlich.\n\nDie dienstliche E-Mail-Adresse dient der professionellen Kommunikation. Vermeiden Sie das Versenden großer Anhänge und nutzen Sie dafür nach Möglichkeit unsere Cloud-Lösung. Seien Sie äußerst vorsichtig bei E-Mails von unbekannten Absendern oder mit verdächtigen Inhalten (Phishing-Gefahr!). Während zentrale Serverdaten regelmäßig gesichert werden, sind Sie für die Sicherung Ihrer lokalen Arbeitsdateien auf Ihrem Laptop teilweise selbst verantwortlich. Genaue Richtlinien hierzu finden Sie im IT-Handbuch.\n\nDer Schutz personenbezogener Daten (z.B. von Kunden, Kollegen) ist gesetzlich vorgeschrieben (DSGVO) und für uns von großer Bedeutung. Behandeln Sie solche Daten stets vertraulich und nur im Rahmen Ihrer dienstlichen Aufgaben. Sie unterliegen einer Verschwiegenheitspflicht. Sollten Sie einen Datenschutzvorfall vermuten oder feststellen, melden Sie dies bitte unverzüglich dem Datenschutzbeauftragten, Herrn Jansen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle dienstlichen Daten werden automatisch zentral gesichert, sodass lokale Backups nicht notwendig sind.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die dienstlichen IT-Geräte, die Mitarbeiter erhalten,...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dürfen nicht für private Zwecke genutzt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "müssen bei Problemen selbst repariert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "werden nur auf expliziten Antrag ausgehändigt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

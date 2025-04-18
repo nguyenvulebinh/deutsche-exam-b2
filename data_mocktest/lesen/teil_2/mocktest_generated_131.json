@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Richtlinien zur Nutzung der IT-Infrastruktur\n\nHerzlich willkommen im Team! Für Ihre Arbeit erhalten Sie persönliche Zugangsdaten für unsere Systeme, die Sie vom IT-Helpdesk bekommen. Bitte wählen Sie ein sicheres Passwort und ändern Sie es regelmäßig, spätestens alle 90 Tage. Beachten Sie, dass für die Bearbeitung von Unternehmensdaten ausschließlich die von der Firma bereitgestellten Geräte (Laptop, PC) verwendet werden dürfen. Die Nutzung privater Endgeräte für den Zugriff auf Firmendaten oder -systeme ist aus Sicherheitsgründen strengstens untersagt.\n\nDie benötigte Standardsoftware ist auf Ihrem Arbeitsgerät bereits vorinstalliert. Sollten Sie zusätzliche Programme für Ihre Tätigkeit benötigen, ist die Installation nur nach ausdrücklicher Genehmigung durch den IT-Helpdesk gestattet. Die eigenmächtige Installation von Software ist nicht erlaubt. Die Internetverbindung ist primär für dienstliche Zwecke vorgesehen. Eine kurze, angemessene private Nutzung während der offiziellen Pausenzeiten wird toleriert, solange sie die Arbeitsleistung nicht beeinträchtigt und keine rechtswidrigen Inhalte aufgerufen oder heruntergeladen werden (z.B. illegales Streaming, Filesharing). Beachten Sie, dass die Internetnutzung protokolliert werden kann.\n\nSpeichern Sie bitte alle arbeitsbezogenen Dateien ausschließlich auf den dafür vorgesehenen Netzwerklaufwerken (z. B. Laufwerk Z:), nicht auf lokalen Laufwerken wie C:. Dies gewährleistet nicht nur die zentrale Datensicherung durch unsere Backup-Systeme, sondern auch den Zugriff für Kolleginnen und Kollegen im Falle Ihrer Abwesenheit, zum Beispiel bei der Urlaubsvertretung.\n\nVerlassen Sie Ihren Arbeitsplatz auch nur für kurze Zeit, aktivieren Sie bitte immer die Bildschirmsperre (Tastenkombination Strg+Alt+Entf -> Sperren oder Windows+L). Verdächtige E-Mails oder technische Probleme melden Sie bitte umgehend dem IT-Helpdesk. Sie erreichen den Helpdesk telefonisch unter der Durchwahl -555 oder über das interne Ticketsystem während der üblichen Geschäftszeiten (Montag bis Freitag, 8:00 bis 17:00 Uhr).",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter dürfen für berufliche Zwecke ausschließlich die bereitgestellten Firmengeräte nutzen und müssen private Internetnutzung auf Pausenzeiten beschränken.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Arbeitsbezogene Dateien sollen...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "auf den vom Unternehmen zugewiesenen Netzwerklaufwerken gespeichert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "primär auf dem lokalen Laufwerk C: gesichert werden, um schnell darauf zugreifen zu können."
+                },
+                {
+                    "key": "c",
+                    "text": "zusätzlich auf privaten Speichermedien gesichert werden, falls das Netzwerk ausfällt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

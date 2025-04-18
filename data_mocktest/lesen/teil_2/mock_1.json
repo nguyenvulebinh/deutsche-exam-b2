@@ -1,0 +1,31 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Sicherheit im Labor beachten:\n\n### LABORKLEIDUNG\n\nBeim Arbeiten im Labor muss eine angemessene Kleidung getragen werden, um einerseits sich selbst, andererseits auch bestimmte Materialien zu schützen. Dazu gehört zunächst ein weißer Schutzkittel aus Baumwolle, der immer geschlossen und sauber sein muss.\n\nDa ein Kittel nicht den ganzen Körper schützt, ist darauf zu achten, dass stets geschlossenes, festes Schuhwerk (keine hohen Absätze oder offene Sandalen) sowie lange Hosen zu tragen sind. Das feste, flache Schuhwerk dient nebenbei auch dem Zweck, in Notsituationen das Labor zügig verlassen zu können.\n\nAus hygienischen Gründen müssen auch die Haare durch eine Haube bedeckt sein. Lange Haare müssen zusätzlich zu einem Zopf zusammengebunden werden. Häufig kommt auch noch eine Schutzbrille zum Einsatz.\n\nBeim Hantieren mit empfindlichen oder gefährlichen Substanzen sind Handschuhe zu tragen, um die Hände vor Kontamination zu schützen. Das heißt jedoch nicht, dass die Handschuhe bei Arbeitsbeginn im Labor angezogen und erst wieder abends ausgezogen werden. Da die Handschuhe durch die Arbeit mit chemischen Substanzen verunreinigt sein könnten, sollten diese nach durchgeführter Arbeit stets abgelegt und nicht auch noch während anderer Tätigkeiten im Labor getragen werden. Auf keinen Fall darf das Labor mit Handschuhen verlassen werden.",
+    "Aufgaben": [
+      {
+        "type": "richtig/falsch",
+        "frage": "Beim Arbeiten im Labor darf man weder kurze Hosen tragen noch längere Haare offen lassen.",
+        "loesung": "richtig"
+      },
+      {
+        "type": "multiple-choice",
+        "frage": "Im Labor müssen Handschuhe",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "bei allen Arbeiten getragen werden."
+          },
+          {
+            "key": "b",
+            "text": "gleich bei Arbeitsantritt angelegt werden."
+          },
+          {
+            "key": "c",
+            "text": "nach Arbeiten mit Chemikalien ausgezogen werden."
+          }
+        ],
+        "loesung": "c"
+      }
+    ]
+}
+  

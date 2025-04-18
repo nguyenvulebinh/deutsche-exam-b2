@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung von IT-Ressourcen am Arbeitsplatz\n\nSehr geehrte neue Mitarbeiterinnen und Mitarbeiter,\n\nherzlich willkommen in unserem Team! Damit unsere IT-Systeme sicher und effizient funktionieren, bitten wir Sie, die folgenden Richtlinien zur Nutzung der Ihnen zur Verfügung gestellten IT-Ressourcen zu beachten. Diese dienen grundsätzlich dienstlichen Zwecken; eventuelle Ausnahmen sind spezifisch geregelt.\n\nSie erhalten standardmäßig einen Laptop sowie notwendiges Zubehör. Bitte behandeln Sie die Geräte sorgfältig. Jegliche Schäden oder ein Verlust sind unverzüglich der IT-Abteilung (it-support@firma.de) zu melden. Eine private Nutzung der bereitgestellten Hardware ist nicht gestattet.\n\nAuf Ihrem Firmengerät ist ausschließlich Software erlaubt, die von unserer IT-Abteilung installiert oder genehmigt wurde. Die eigenmächtige Installation von Programmen oder Apps ist strikt untersagt, da dies erhebliche Sicherheitsrisiken birgt. Achten Sie darauf, dass notwendige System- und Software-Updates, die von der IT initiiert werden, zeitnah zugelassen werden.\n\nDie Internetverbindung ist primär für Ihre beruflichen Aufgaben vorgesehen. Eine kurze, gelegentliche private Nutzung, beispielsweise zum Lesen von Nachrichten oder für Online-Banking, wird während der offiziellen Pausenzeiten toleriert, sofern dies Ihre Arbeitsleistung nicht beeinträchtigt und keine Unternehmensressourcen übermäßig belastet. Das Abrufen von Webseiten mit illegalen, anstößigen oder pornografischen Inhalten sowie die Nutzung von Streaming-Diensten oder Filesharing-Plattformen ist jederzeit strikt verboten.\n\nFür Ihre dienstliche Korrespondenz nutzen Sie bitte ausschließlich Ihre Firmen-E-Mail-Adresse unter Verwendung der vorgegebenen Signatur. Beachten Sie einen professionellen Kommunikationsstil. Bei Sicherheit Bedenken bezüglich einer E-Mail (z.B. Phishing-Verdacht) oder anderen ungewöhnlichen Vorkommnissen melden Sie dies bitte umgehend an die IT-Sicherheit. Es ist essenziell, dass Sie sichere Passwörter verwenden (Kombination aus Groß-/Kleinbuchstaben, Zahlen, Sonderzeichen) und diese niemals an Dritte weitergeben.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Mitarbeiter sind sowohl dafür verantwortlich, keine unerlaubte Software zu installieren, als auch ihre Zugangsdaten geheim zu halten.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Private Internetnutzung am Arbeitsplatz...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist generell erlaubt, solange dienstliche Aufgaben erledigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "darf niemals stattfinden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist in den Pausen in geringem Umfang toleriert."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

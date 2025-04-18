@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie, dies unverzüglich noch vor dem regulären Arbeitsbeginn mitzuteilen. Informieren Sie hierzu bitte sowohl Ihre direkte Teamleitung als auch die zentrale Personalabteilung. Ein kurzer Anruf ist in der Regel der schnellste Weg, eine anschließende kurze E-Mail zur Dokumentation ist ebenfalls erwünscht.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU), oft auch als „gelber Schein“ bezeichnet, ist zwingend erforderlich, wenn Ihre Arbeitsunfähigkeit länger als drei Kalendertage andauert. Das bedeutet, die AU muss spätestens am vierten Kalendertag Ihrer Erkrankung im Unternehmen vorliegen. Reichen Sie das Original bitte stets bei der Personalabteilung ein. Informieren Sie Ihre Teamleitung darüber, dass die AU eingereicht wurde. Viele Arztpraxen bieten mittlerweile die elektronische AU (eAU) an, welche digital direkt an uns übermittelt wird; erkundigen Sie sich bei Ihrem Arzt nach dieser Möglichkeit.\n\nSollte Ihre Krankheit über den auf der ursprünglichen AU genannten Zeitraum hinaus andauern, benötigen wir rechtzeitig vor Ablauf der ersten Bescheinigung eine Folgebescheinigung. Informieren Sie bitte auch in diesem Fall erneut Ihre Teamleitung und die Personalabteilung über die voraussichtliche weitere Dauer Ihrer Abwesenheit.\n\nSobald Sie wieder arbeitsfähig sind und an Ihren Arbeitsplatz zurückkehren, melden Sie sich bitte kurz bei Ihrer Teamleitung zurück. Dies erleichtert die Planung und Ihre Wiedereingliederung in die laufenden Aufgaben. Wir wünschen Ihnen im Krankheitsfall eine baldige Genesung!",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Vorlage einer Arbeitsunfähigkeitsbescheinigung ist erst ab dem vierten Krankheitstag zwingend erforderlich.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung (AU)...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss immer direkt am ersten Tag der Krankheit eingereicht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "kann als Original bei der Teamleitung abgegeben werden."
+                },
+                {
+                    "key": "c",
+                    "text": "ist spätestens am vierten Tag der Abwesenheit vorzulegen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

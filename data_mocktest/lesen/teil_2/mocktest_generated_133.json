@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Unser Betriebliches Vorschlagswesen: Ihre Ideen zählen!\n\nWir bei [Firmenname] sind davon überzeugt, dass die besten Ideen oft von denen kommen, die tagtäglich in den Prozessen arbeiten – von Ihnen! Unser Betriebliches Vorschlagswesen (BVW) bietet Ihnen die Möglichkeit, aktiv zur Verbesserung unserer Arbeitsabläufe, Produkte, Dienstleistungen und des Arbeitsumfelds beizutragen. Ihre Vorschläge helfen uns, effizienter, innovativer und ein noch besserer Arbeitgeber zu werden.\n\nDie Einreichung Ihrer Ideen erfolgt ganz einfach über unser Online-Portal im Intranet. Beschreiben Sie bitte kurz das Problem oder die Situation, die verbessert werden könnte, Ihren konkreten Lösungsvorschlag und welchen Nutzen Sie davon erwarten (z.B. Zeitersparnis, Kostenreduktion, Qualitätssteigerung, Erhöhung der Arbeitssicherheit). Für Rückfragen zum Einreichungsprozess steht Ihnen Frau Hauser vom Ideenmanagement-Team gerne zur Verfügung.\n\nAlle eingegangenen Vorschläge werden vom Ideenmanagement-Team sorgfältig geprüft. Bewertet werden insbesondere die praktische Umsetzbarkeit, die Wirtschaftlichkeit bzw. der potenzielle Nutzen sowie die Originalität der Idee. Sie erhalten in der Regel innerhalb von vier Wochen eine erste Rückmeldung zum Status Ihres Vorschlags.\n\nWird Ihr Vorschlag als positiv bewertet und anschließend erfolgreich im Unternehmen umgesetzt, honorieren wir Ihr Engagement mit einer Prämie. Die Höhe der Prämie richtet sich nach dem erzielten Nutzen und kann als Geldbetrag oder in Form von Gutscheinen ausgezahlt werden. Zusätzlich wird einmal jährlich der „Innovationspreis“ für die herausragendste umgesetzte Idee des Jahres verliehen. Um für den Innovationspreis berücksichtigt zu werden, muss die Idee bis zum 31. Oktober eingereicht und bis Jahresende zur Umsetzung freigegeben worden sein.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Alle erfolgreich umgesetzten Verbesserungsvorschläge werden zusätzlich mit dem jährlichen Innovationspreis ausgezeichnet.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Eine Prämie für einen Verbesserungsvorschlag erhält man,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sobald das Ideenmanagement-Team die Idee positiv bewertet hat."
+                },
+                {
+                    "key": "b",
+                    "text": "wenn der eingereichte Vorschlag erfolgreich umgesetzt wurde."
+                },
+                {
+                    "key": "c",
+                    "text": "aber nur, wenn dadurch nachweislich Kosten gespart werden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

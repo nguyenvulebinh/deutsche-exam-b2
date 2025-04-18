@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenfahrzeuge\n\nFür dienstliche Fahrten, bei denen die Nutzung öffentlicher Verkehrsmittel unpraktikabel ist, stellt Ihnen das Unternehmen Fahrzeuge aus unserem Fuhrpark zur Verfügung. Die Nutzung ist Mitarbeitenden mit gültiger Fahrerlaubnis vorbehalten, die eine genehmigte Dienstreise unternehmen.\n\nDie Reservierung eines Fahrzeugs muss mindestens 48 Stunden im Voraus über unser internes Online-Buchungssystem erfolgen. Dort sehen Sie die Verfügbarkeit der Fahrzeuge und können Ihre Auswahl treffen. Kurzfristigere Anfragen können nur in dringenden Ausnahmefällen und nach direkter Absprache mit dem Fuhrparkmanagement (Herr Vogel, Durchwahl -112) berücksichtigt werden.\n\nVor Antritt jeder Fahrt ist das Fahrzeug auf Vorschäden zu prüfen. Für jede Fahrt ist zwingend ein Fahrtenbuch zu führen, in dem Datum, Kilometerstand bei Beginn und Ende sowie der Zweck der Fahrt dokumentiert werden. Die Fahrzeuge sind sauber zu halten und nach der Nutzung wieder vollgetankt abzugeben. Hierfür liegt in jedem Fahrzeug eine firmeneigene Tankkarte bereit. Bitte bewahren Sie den Tankbeleg auf und reichen Sie ihn nach der Fahrt beim Fuhrparkmanagement ein.\n\nDie private Nutzung der Firmenfahrzeuge ist grundsätzlich nicht gestattet. Sollten Sie während der Nutzung einen Schaden am Fahrzeug feststellen oder in einen Unfall verwickelt werden, sind Sie verpflichtet, dies unverzüglich Herrn Vogel vom Fuhrparkmanagement zu melden. Bei Unfällen ist zudem immer die Polizei hinzuzuziehen und ein Unfallprotokoll anzufertigen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Für die Nutzung eines Firmenfahrzeugs ist sowohl eine vorherige Reservierung als auch das Führen eines Fahrtenbuchs erforderlich.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein Schaden am Firmenfahrzeug festgestellt wird,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss dies sofort dem Fuhrparkmanagement gemeldet werden."
+                },
+                {
+                    "key": "b",
+                    "text": "kann man dies bei der Rückgabe des Schlüssels kurz erwähnen."
+                },
+                {
+                    "key": "c",
+                    "text": "soll der Nutzer versuchen, die Reparatur selbst zu organisieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

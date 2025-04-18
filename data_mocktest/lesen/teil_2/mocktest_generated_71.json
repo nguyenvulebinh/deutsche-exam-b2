@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der IT-Infrastruktur und Datenschutz\n\nHerzlich willkommen in unserem Team! Für Ihre Tätigkeit stellen wir Ihnen moderne IT-Arbeitsmittel, in der Regel einen Laptop mit der notwendigen Standardsoftware, zur Verfügung. Bitte beachten Sie die folgenden Richtlinien zur Gewährleistung der Sicherheit und des Datenschutzes.\n\nDer Zugang zu unseren Systemen ist durch individuelle Passwörter geschützt. Wählen Sie ein komplexes Passwort (mindestens 12 Zeichen, Groß-/Kleinschreibung, Zahlen, Sonderzeichen) und ändern Sie es alle 90 Tage. Geben Sie Ihr Passwort unter keinen Umständen an Dritte, auch nicht an Kolleginnen oder Kollegen, weiter. Sperren Sie Ihren Bildschirm bei jedem Verlassen des Arbeitsplatzes.\n\nDie Nutzung des Internets und des E-Mail-Systems ist primär für dienstliche Zwecke vorgesehen. Eine sehr begrenzte private Nutzung des Internets in den Pausen ist geduldet, sofern sie die dienstlichen Abläufe nicht stört und keine unzulässigen Inhalte (illegal, anstößig, etc.) aufgerufen oder heruntergeladen werden. Private E-Mails über den Firmenaccount sind zu vermeiden.\n\nDer Schutz sensibler Daten hat höchste Priorität. Personenbezogene oder vertrauliche Unternehmensdaten dürfen nur verschlüsselt versendet und auf gesicherten Laufwerken gespeichert werden. Sollten Sie einen Verlust von Daten oder einen unbefugten Zugriff vermuten (Datenschutzvorfall), sind Sie verpflichtet, unverzüglich die IT-Sicherheitsabteilung (Durchwahl -456) zu informieren. Eigenmächtige Versuche, das Problem zu beheben, sind untersagt.\n\nBei technischen Problemen mit Hard- oder Software wenden Sie sich bitte an den IT-Support (support@firma.de). Verstöße gegen diese Richtlinien können arbeitsrechtliche Konsequenzen nach sich ziehen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die private Nutzung des Internets ist während der gesamten Arbeitszeit strikt untersagt.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Was ist bei Verdacht auf einen Datenschutzvorfall zu tun?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Man sollte versuchen, die betroffenen Daten selbst zu löschen."
+                },
+                {
+                    "key": "b",
+                    "text": "Die IT-Sicherheitsabteilung muss umgehend benachrichtigt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "Der Vorfall ist dem direkten Vorgesetzten schriftlich zu melden."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenfahrzeuge\n\nUnsere Firmenfahrzeuge stehen Ihnen für notwendige dienstliche Zwecke zur Verfügung. Voraussetzung für die Nutzung ist eine gültige Fahrerlaubnis der Klasse B sowie eine Betriebszugehörigkeit von mindestens einem Jahr. Bitte beachten Sie, dass jede Fahrt vorab genehmigt werden muss.\n\nDie Reservierung eines Fahrzeugs erfolgt ausschließlich über unser Online-Buchungsportal. Planen Sie bitte eine Vorlaufzeit von mindestens drei Werktagen ein. Erst mit Erhalt der automatischen Buchungsbestätigung per E-Mail gilt die Fahrt als genehmigt. Es handelt sich um Poolfahrzeuge, das heißt, es besteht kein Anspruch auf ein bestimmtes Modell.\n\nWährend der Nutzung bitten wir Sie, einige Regeln zu beachten. Zum Betanken darf ausschließlich die im Fahrzeug befindliche Firmen-Tankkarte der akzeptierten Marken verwendet werden. Achten Sie bitte darauf, das Fahrzeug sowohl innen als auch außen sauber zu halten. Eventuelle Schäden am Fahrzeug sind unverzüglich dem Fuhrparkmanagement (Herr Krause, Durchwahl -55) zu melden. Für Strafzettel aufgrund von Zuwiderhandlungen gegen die Straßenverkehrsordnung haften Sie selbst. Das Rauchen sowie die Mitnahme von Haustieren in den Fahrzeugen ist untersagt.\n\nEine private Nutzung der Firmenfahrzeuge ist grundsätzlich und ausnahmslos verboten. Zur Sicherstellung der Einhaltung dieser Regelung sind alle Fahrzeuge mit einem GPS-Ortungssystem ausgestattet.\n\nNach Beendigung der dienstlichen Fahrt ist das Fahrzeug bitte umgehend auf dem dafür vorgesehenen Firmenparkplatz abzustellen. Vergewissern Sie sich, dass keine persönlichen Gegenstände zurückbleiben. Die Tankkarte verbleibt im Handschuhfach, wo Sie bitte auch den aktuellen Kilometerstand im Fahrtenbuch eintragen. Die Fahrzeugschlüssel geben Sie während der Geschäftszeiten an der Rezeption bei Frau Weber ab. Außerhalb dieser Zeiten nutzen Sie bitte den Schlüsselkasten neben dem Empfang.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Die Firmenfahrzeuge dürfen am Wochenende für private Fahrten genutzt werden, wenn die Treibstoffkosten selbst getragen werden.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn ein Firmenfahrzeug beschädigt wird,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss dies bei der Rückgabe an der Rezeption gemeldet werden."
+                },
+                {
+                    "key": "b",
+                    "text": "müssen die Reparaturkosten vom Mitarbeiter übernommen werden."
+                },
+                {
+                    "key": "c",
+                    "text": "muss dies unverzüglich Herrn Krause gemeldet werden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

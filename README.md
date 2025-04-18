@@ -16,15 +16,22 @@ telc_b2_test/
 │   │   └── utils.js        # Utility functions
 │   ├── test-types/         # Specific test implementations
 │   │   ├── lesen-teil-1.js # Lesen Teil 1 implementation
+│   │   ├── lesen-teil-2.js # Lesen Teil 2 implementation
 │   │   └── ...             # Other test types
 │   └── app.js              # Main application script
 ├── data_mocktest/          # Test data files
 │   ├── lesen/
 │   │   ├── teil_1/         # Lesen Teil 1 test files
-│   │   ├── teil_1_manifest.json  # Manifest for Teil 1 (new format)
+│   │   ├── teil_1_manifest.json  # Manifest for Teil 1
+│   │   ├── teil_2/         # Lesen Teil 2 test files
+│   │   ├── teil_2_manifest.json  # Manifest for Teil 2
 │   │   └── ...             # Other Lesen test parts
 │   ├── hoeren/             # Hörverstehen tests
 │   └── ...                 # Other test skills
+├── tests/                  # HTML test files
+│   ├── lesen_teil_1.html   # Lesen Teil 1 test page
+│   ├── lesen_teil_2.html   # Lesen Teil 2 test page
+│   └── ...                 # Other test pages
 └── index.html              # Main HTML file
 ```
 
@@ -39,11 +46,13 @@ telc_b2_test/
 
 ## Test Types
 
-The application is designed to support multiple test types. By default, it loads the "Lesen Teil 1" test, but you can specify other test types by adding a `testType` parameter to the URL:
+The application supports multiple test types with different formats:
 
-```
-http://localhost:8000/?testType=lesen-teil-1
-```
+### Lesen Teil 1
+This test involves matching people/situations (numbered 1-5) to articles/texts (lettered a-h). Users select the appropriate article for each person through an interactive grid.
+
+### Lesen Teil 2
+This test presents a reading passage followed by multiple-choice questions. Users read the text and then select the correct answer for each question.
 
 ## GitHub Pages Deployment
 
@@ -70,26 +79,27 @@ The application is designed to work on GitHub Pages with special consideration f
 
 To add a new test type:
 
-1. Create test data files in the appropriate directory (e.g., `data_mocktest/lesen/teil_2/`)
-2. Create a manifest file using the new format: `data_mocktest/lesen/teil_2_manifest.json`
-3. Create a new test type implementation in `js/test-types/` (e.g., `lesen-teil-2.js`)
-4. Register the new test type in `app.js`
+1. Create test data files in the appropriate directory (e.g., `data_mocktest/lesen/teil_3/`)
+2. Create a manifest file using the new format: `data_mocktest/lesen/teil_3_manifest.json`
+3. Create a new test type implementation in `js/test-types/` (e.g., `lesen-teil-3.js`)
+4. Create an HTML test page in the `tests/` directory
+5. Register the new test type in `app.js`
 
 ### Example: Creating a New Test Type
 
 1. Create a new class that extends the `TestEngine` class:
 
 ```javascript
-// js/test-types/lesen-teil-2.js
+// js/test-types/lesen-teil-3.js
 import TestEngine from '../core/test-engine.js';
 import Utils from '../core/utils.js';
 
-class LesenTeil2 extends TestEngine {
+class LesenTeil3 extends TestEngine {
     constructor(options = {}) {
         // Set default options specific to this test type
         const defaultOptions = {
-            testDataDir: 'data_mocktest/lesen/teil_2',
-            testType: 'Lesen Teil 2',
+            testDataDir: 'data_mocktest/lesen/teil_3',
+            testType: 'Lesen Teil 3',
             defaultTestData: { ... }
         };
         
@@ -111,7 +121,7 @@ class LesenTeil2 extends TestEngine {
     }
 }
 
-export default LesenTeil2;
+export default LesenTeil3;
 ```
 
 2. Register the new test type in `app.js`:
@@ -119,10 +129,12 @@ export default LesenTeil2;
 ```javascript
 import LesenTeil1 from './test-types/lesen-teil-1.js';
 import LesenTeil2 from './test-types/lesen-teil-2.js';
+import LesenTeil3 from './test-types/lesen-teil-3.js';
 
 const testTypes = {
     'lesen-teil-1': LesenTeil1,
-    'lesen-teil-2': LesenTeil2
+    'lesen-teil-2': LesenTeil2,
+    'lesen-teil-3': LesenTeil3
     // Add more test types as needed
 };
 ```
@@ -140,16 +152,55 @@ const testTypes = {
 
 ## Test Data Format
 
-Test data files are in JSON format. The specific format depends on the test type, but they generally follow this structure:
+Each test type has its own specific JSON format:
+
+### Lesen Teil 1 Format
 
 ```json
 {
     "exercise_type": "TELC B2",
     "skill": "Lesen",
     "part": "Teil 1",
-    "instructions": "Instructions for the test...",
-    "content": [...],  // Test content (varies by test type)
-    "solutions": {...}  // Correct answers
+    "instructions": "Sie lesen online in einer Wirtschaftszeitung und möchten Ihren Freunden einige Artikel schicken...",
+    "people": [
+        { "id": 1, "description": "Person description..." },
+        ...
+    ],
+    "articles": [
+        { "id": "a", "title": "Article title", "description": "Article description..." },
+        ...
+    ],
+    "solutions": {
+        "1": "a",
+        "2": "b",
+        ...
+    }
+}
+```
+
+### Lesen Teil 2 Format
+
+```json
+{
+    "thema": "Topic title",
+    "text": "Reading passage content...",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Question text...",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Question text...",
+            "optionen": [
+                { "key": "a", "text": "Option text..." },
+                { "key": "b", "text": "Option text..." },
+                { "key": "c", "text": "Option text..." }
+            ],
+            "loesung": "a"
+        }
+    ]
 }
 ```
 

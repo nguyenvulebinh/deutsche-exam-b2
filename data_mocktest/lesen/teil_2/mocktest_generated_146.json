@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Krankmeldung und Ärztliches Attest: Was ist zu tun?\n\nSollten Sie einmal krankheitsbedingt nicht zur Arbeit erscheinen können, ist es äußerst wichtig, dass Sie das Unternehmen umgehend informieren. Bitte melden Sie sich noch vor dem offiziellen Arbeitsbeginn telefonisch bei Ihrer oder Ihrem direkten Vorgesetzten krank. Zusätzlich ist eine kurze Information per E-Mail an die Personalabteilung (personal@firma.de) erforderlich, damit Ihre Abwesenheit korrekt im System erfasst werden kann. Dies ist notwendig, um sicherzustellen, dass Ihre Aufgaben gegebenenfalls umverteilt werden können und die Lohnfortzahlung korrekt bearbeitet wird.\n\nEine Arbeitsunfähigkeitsbescheinigung, oft auch als ärztliches Attest oder „gelber Schein“ bezeichnet, benötigen wir von Ihnen, wenn Ihre Erkrankung länger als zwei Kalendertage andauert. Das bedeutet konkret, dass das Attest spätestens am dritten Kalendertag Ihrer Abwesenheit bei uns im Unternehmen vorliegen muss. Maßgeblich ist hierbei der Posteingang oder der Eingang per E-Mail-Scan in der Personalabteilung.\n\nSollte Ihre Arbeitsunfähigkeit über den auf dem Attest genannten Zeitraum hinaus andauern, ist es zwingend erforderlich, dass Sie uns rechtzeitig, also vor Ablauf der ersten Bescheinigung, eine Folgebescheinigung zukommen lassen. Achten Sie bitte darauf, dass zwischen den Bescheinigungen keine Lücke entsteht, da dies sonst Auswirkungen auf die Lohnfortzahlung haben könnte. Bewahren Sie die Originale Ihrer Atteste sorgfältig auf.\n\nSobald Sie wieder arbeitsfähig sind und Ihre Tätigkeit aufnehmen, informieren Sie bitte erneut kurz Ihre Vorgesetzte oder Ihren Vorgesetzten am ersten Arbeitstag über Ihre Rückkehr. Dies hilft bei der Planung und Koordination im Team.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Neue Mitarbeitende müssen sowohl die Teamleitung als auch die Personalabteilung sofort morgens über ihre Abwesenheit informieren.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung muss...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "erst nach Aufforderung durch die Personalabteilung eingereicht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "sofort am ersten Krankheitstag an die Vorgesetzten geschickt werden."
+                },
+                {
+                    "key": "c",
+                    "text": "spätestens am dritten Kalendertag der Erkrankung im Unternehmen vorliegen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

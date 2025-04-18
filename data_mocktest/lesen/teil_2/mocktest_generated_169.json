@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Dienstfahrzeuge\n\nFür gelegentliche Kundenbesuche oder andere notwendige Dienstfahrten stellt Ihnen das Unternehmen eine begrenzte Anzahl an Dienstfahrzeugen zur Verfügung. Bitte bedenken Sie, dass die Fahrzeuge effizient genutzt werden müssen, damit möglichst viele Kollegen bei Bedarf darauf zurückgreifen können.\n\nDie Reservierung eines Dienstfahrzeugs erfolgt ausschließlich über unser digitales Buchungssystem im Intranet. Dort können Sie die Verfügbarkeit prüfen und das gewünschte Fahrzeug für den benötigten Zeitraum reservieren. Bitte geben Sie bei der Buchung immer den genauen Zweck und die voraussichtliche Dauer der Fahrt an. Eine gültige Fahrerlaubnis ist selbstverständlich Voraussetzung für die Nutzung.\n\nBitte beachten Sie, dass die Nutzung der Dienstfahrzeuge streng auf dienstliche Zwecke beschränkt ist. Jegliche private Nutzung, auch für kurze Fahrten wie den Weg zur Arbeit, ist ausdrücklich untersagt. Für jede Fahrt ist das im Fahrzeug befindliche Fahrtenbuch vollständig und korrekt auszufüllen, inklusive Kilometerstand bei Beginn und Ende der Fahrt.\n\nNach Beendigung Ihrer Fahrt muss das Fahrzeug in sauberem Zustand und vollgetankt zurückgegeben werden. Eine Tankkarte für die Betankung an den meisten Tankstellen finden Sie im Handschuhfach; die Kosten werden direkt vom Unternehmen übernommen. Kleinere Reinigungsmittel stehen beim Fuhrparkmanagement zur Verfügung. Sollten Sie während der Nutzung einen Schaden am Fahrzeug feststellen, melden Sie diesen bitte unverzüglich dem Fuhrparkmanagement. Schlüssel und Fahrtenbuch sind nach der Nutzung umgehend in der dafür vorgesehenen Schlüsselbox neben dem Empfang abzugeben.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende dürfen die Firmenwagen nur für berufliche Zwecke nutzen und müssen sie anschließend unverzüglich mit Schlüsseln und Fahrtenbuch zurückbringen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bevor ein Dienstwagen zurückgegeben wird, sollen die Mitarbeitenden...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die nächste Buchung im Online-System prüfen."
+                },
+                {
+                    "key": "b",
+                    "text": "dafür sorgen, dass er betankt und sauber ist."
+                },
+                {
+                    "key": "c",
+                    "text": "eventuelle Schäden selbstständig reparieren."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

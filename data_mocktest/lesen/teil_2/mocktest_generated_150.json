@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, informieren Sie bitte unverzüglich – das heißt vor dem regulären Arbeitsbeginn – sowohl Ihre direkte Führungskraft (Vorgesetzte/n) als auch die Personalabteilung. Die Krankmeldung sollte idealerweise telefonisch erfolgen, damit sichergestellt ist, dass die Information rechtzeitig ankommt. Nur in Ausnahmefällen, wenn niemand telefonisch erreichbar ist, kann die Meldung per E-Mail erfolgen.\n\nEine ärztliche Bescheinigung über die Arbeitsunfähigkeit (Attest bzw. Arbeitsunfähigkeitsbescheinigung – AU) ist zwingend erforderlich, wenn die Krankheit länger als drei Kalendertage andauert. Das bedeutet, die AU muss spätestens am vierten Kalendertag der Abwesenheit in der Firma vorliegen. Beachten Sie, dass hierbei auch Wochenenden und Feiertage mitzählen. Das Attest selbst muss der Personalabteilung spätestens am darauffolgenden Werktag nach der ärztlichen Ausstellung vorgelegt werden, entweder im Original per Post oder als Scan per E-Mail an personal@firma.de.\n\nWenn Sie während Ihrer Arbeitszeit im Betrieb erkranken und Ihre Tätigkeit nicht fortsetzen können, melden Sie sich bitte umgehend bei Ihrer Führungskraft ab. Vergessen Sie nicht, Ihre genaue Gehenszeit im elektronischen Zeiterfassungssystem zu registrieren, bevor Sie das Firmengelände verlassen, um nach Hause zu gehen oder einen Arzt aufzusuchen.\n\nEine gesonderte Gesundmeldung bei Ihrer Rückkehr ist in der Regel nicht nötig. Nehmen Sie Ihre Arbeit einfach wieder auf. Es empfiehlt sich jedoch ein kurzes Gespräch mit Ihrer Führungskraft, um sich über zwischenzeitliche Vorkommnisse zu informieren.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine Krankmeldung muss sowohl beim Vorgesetzten als auch in der Personalabteilung erfolgen, bevor die reguläre Arbeitszeit beginnt.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Das ärztliche Attest...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss spätestens einen Werktag nach seiner Ausstellung der Personalabteilung vorliegen."
+                },
+                {
+                    "key": "b",
+                    "text": "ist nur erforderlich, wenn man länger als drei Arbeitstage fehlt."
+                },
+                {
+                    "key": "c",
+                    "text": "wird normalerweise am dritten Krankheitstag dem direkten Vorgesetzten übergeben."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

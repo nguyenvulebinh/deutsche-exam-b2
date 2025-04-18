@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Interne Kommunikation und IT-Nutzung\n\nHerzlich willkommen in unserem Team! Für eine effiziente Zusammenarbeit nutzen wir verschiedene Kommunikations- und IT-Systeme. Die primäre schriftliche Kommunikation für offizielle Anfragen, Dokumentationen und verbindliche Absprachen erfolgt über Ihre Firmen-E-Mail-Adresse. Für schnelle, informelle Abstimmungen und kurze Fragen steht Ihnen unser interner Chat zur Verfügung.\n\nBitte beachten Sie bei der Nutzung Ihrer Firmen-E-Mail-Adresse folgende Punkte: Eine standardisierte E-Mail-Signatur ist obligatorisch und wird Ihnen von der IT-Abteilung eingerichtet. Antworten auf Anfragen sollten in der Regel innerhalb von 24 Stunden (werktags) erfolgen. Gehen Sie sorgfältig mit der CC-Funktion um, um unnötige E-Mail-Fluten zu vermeiden. Die Nutzung des Firmen-E-Mail-Kontos für private Zwecke ist untersagt.\n\nDer interne Chat dient der schnellen Koordination im Team oder für kurze Rückfragen. Achten Sie auch hier auf einen professionellen Umgangston. Vermeiden Sie die Übermittlung sensibler oder vertraulicher Daten über den Chat. Unterscheiden Sie klar zwischen Nachrichten in offenen Gruppenkanälen und direkten Nachrichten an einzelne Kolleginnen oder Kollegen.\n\nSie erhalten für Ihre Tätigkeit einen Firmenlaptop mit der notwendigen, lizenzierten Software. Alle arbeitsrelevanten Dateien sind ausschließlich auf den bereitgestellten Firmenservern oder in der Firmencloud zu speichern. Aus Sicherheitsgründen ist es **strikt verboten**, private Endgeräte wie persönliche Laptops, Tablets oder Smartphones für den Zugriff auf das Firmennetzwerk, Firmendaten oder dienstliche E-Mails zu verwenden.\n\nFür die Sicherheit Ihrer Daten und Systeme ist ein sicheres Passwort unerlässlich. Es muss mindestens 12 Zeichen lang sein, Groß- und Kleinbuchstaben, Zahlen sowie Sonderzeichen enthalten und alle 90 Tage geändert werden. Bei technischen Problemen jeglicher Art (Hardware, Software, Zugänge) wenden Sie sich bitte **ausschließlich über das Online-Helpdesk-Ticketsystem** an unsere IT-Abteilung. Direkte Anrufe oder Chat-Nachrichten an IT-Mitarbeiter sind, sofern nicht explizit durch das Ticketsystem angefordert, zu unterlassen, um eine strukturierte Bearbeitung sicherzustellen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter dürfen ihre privaten Laptops benutzen, um auf das Firmennetzwerk zuzugreifen.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Bei technischen Problemen mit dem Firmenlaptop sollen Mitarbeiter...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "das Online-Helpdesk-Ticketsystem nutzen."
+                },
+                {
+                    "key": "b",
+                    "text": "direkt die IT-Abteilung anrufen."
+                },
+                {
+                    "key": "c",
+                    "text": "ihre Teamleitung umgehend informieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

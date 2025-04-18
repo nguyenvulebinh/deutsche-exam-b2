@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Nutzung der Firmenfahrzeuge\n\nUnser Unternehmen stellt für dienstliche Fahrten einen Pool an Firmenfahrzeugen zur Verfügung. Die Berechtigung zur Nutzung dieser Fahrzeuge haben grundsätzlich Mitarbeiterinnen und Mitarbeiter im Außendienst sowie Projektleitungen nach erfolgreichem Abschluss ihrer Probezeit. Andere Angestellte können nach Rücksprache mit ihrer Teamleitung und Genehmigung durch das Fuhrparkmanagement im Ausnahmefall ebenfalls ein Fahrzeug erhalten.\n\nDie Firmenfahrzeuge sind ausschließlich für dienstliche Zwecke vorgesehen. Fahrten zwischen Wohnort und Arbeitsstätte sind nur gestattet, wenn dies explizit in Ihrem Arbeitsvertrag vereinbart wurde. Eine private Nutzung ist generell untersagt. Sollte in sehr seltenen Fällen eine Ausnahme durch die Geschäftsführung genehmigt werden, muss dies als geldwerter Vorteil versteuert und detailliert dokumentiert werden.\n\nDie Reservierung eines Fahrzeugs erfolgt über unser Online-Buchungssystem „FleetMaster“. Bitte stellen Sie Ihre Anfrage mindestens 48 Stunden vor dem geplanten Fahrtantritt. Den Fahrzeugschlüssel erhalten Sie nach Bestätigung Ihrer Buchung am Empfang. \n\nAls Nutzerin oder Nutzer sind Sie für das Fahrzeug verantwortlich. Dazu gehört, das Fahrzeug sauber zu halten und vor der Rückgabe vollzutanken. Bei Rückgabe muss die Tanknadel mindestens auf „halbvoll“ stehen. Essentiell ist auch das lückenlose Führen des elektronischen Fahrtenbuchs bei jeder Fahrt, inklusive Kilometerstand, Datum, Reiseroute und genauem Zweck der Fahrt. Eventuelle Schäden am Fahrzeug müssen unverzüglich dem Fuhrparkmanagement gemeldet werden. Beachten Sie bitte, dass das Rauchen im Fahrzeug und die Mitnahme von nicht autorisierten Personen strikt verboten sind. Verkehrsverstöße und daraus resultierende Bußgelder gehen zu Lasten des Fahrers bzw. der Fahrerin.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeiter sind verpflichtet, Firmenfahrzeuge vor der Rückgabe zu betanken und das Fahrtenbuch korrekt zu führen.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Nutzung von Firmenfahrzeugen für private Zwecke...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ist für alle Mitarbeiter am Wochenende erlaubt."
+                },
+                {
+                    "key": "b",
+                    "text": "muss lediglich im Fahrtenbuch dokumentiert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "bedarf einer speziellen Genehmigung der Geschäftsführung."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

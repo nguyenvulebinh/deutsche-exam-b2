@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall und Krankmeldung\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie, unverzüglich – das heißt noch vor Ihrem eigentlichen Arbeitsbeginn – sowohl Ihre direkte vorgesetzte Person als auch die Personalabteilung zu informieren. Die Benachrichtigung sollte möglichst telefonisch erfolgen; nur falls dies nicht möglich ist, alternativ per E-Mail. Diese umgehende Meldung ist für unsere betrieblichen Abläufe und die Organisation von eventuellen Vertretungen von großer Bedeutung.\n\nEine ärztliche Arbeitsunfähigkeitsbescheinigung (AU-Bescheinigung, oft auch Attest genannt) ist dem Unternehmen grundsätzlich *bereits am ersten Tag* der Erkrankung vorzulegen. Bitte stellen Sie sicher, dass diese Bescheinigung uns spätestens bis 10:00 Uhr vormittags am ersten Krankheitstag erreicht. Sie haben die Möglichkeit, die AU-Bescheinigung entweder digital über unser Mitarbeiterportal hochzuladen oder das Originaldokument direkt im Sekretariat (Raum 105) abzugeben.\n\nDie eingereichte AU-Bescheinigung muss die voraussichtliche Dauer Ihrer Arbeitsunfähigkeit ausweisen. Sollten Sie über den auf dem Attest genannten Zeitraum hinaus krank sein, ist es zwingend erforderlich, uns unverzüglich eine Folgebescheinigung zukommen zu lassen. Diese muss ebenfalls spätestens bis 10:00 Uhr des Tages vorliegen, an dem die vorherige Bescheinigung ihre Gültigkeit verliert. Eine kurze Information an Ihre vorgesetzte Person hierüber ist ebenfalls erwünscht.\n\nDie Fortzahlung Ihres Entgelts während der Krankheit (Lohnfortzahlung) erfolgt gemäß den gesetzlichen Regelungen und den Bestimmungen Ihres Arbeitsvertrages. Beachten Sie jedoch, dass die strikte Einhaltung des beschriebenen Meldeverfahrens, insbesondere die unverzügliche Benachrichtigung und die fristgerechte Vorlage der erforderlichen Atteste, eine notwendige Voraussetzung für den Anspruch auf Lohnfortzahlung darstellt.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine ärztliche Bescheinigung ist erst ab dem dritten Krankheitstag erforderlich.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie krankheitsbedingt nicht zur Arbeit kommen können,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "müssen Sie umgehend den Vorgesetzten und die Personalabteilung benachrichtigen."
+                },
+                {
+                    "key": "b",
+                    "text": "genügt es, die Arbeitsunfähigkeitsbescheinigung bis 10 Uhr einzureichen."
+                },
+                {
+                    "key": "c",
+                    "text": "sollten Sie dies zuerst einem Kollegen oder einer Kollegin mitteilen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

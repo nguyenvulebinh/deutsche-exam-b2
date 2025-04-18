@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung arbeitsunfähig sein, ist es von größter Wichtigkeit, dass Sie Ihr Fehlen unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn, Ihrer bzw. Ihrem direkten Vorgesetzten mitteilen. Ein kurzer Anruf ist hierfür der bevorzugte Weg. Sollten Sie niemanden direkt erreichen, senden Sie bitte zusätzlich eine E-Mail. Geben Sie dabei bitte auch an, wie lange Sie voraussichtlich ausfallen werden, sofern dies bereits absehbar ist.\n\nGemäß den gesetzlichen Bestimmungen und unserer Betriebsvereinbarung besteht die Pflicht zur Vorlage einer ärztlichen Bescheinigung über die Arbeitsunfähigkeit (AU), wenn die Krankheit länger als drei Kalendertage andauert. Das bedeutet konkret, dass spätestens am vierten Kalendertag der Arbeitsunfähigkeit eine ärztliche Feststellung erfolgen muss, die die Arbeitsunfähigkeit sowie deren voraussichtliche Dauer bescheinigt.\n\nSeit der Einführung der elektronischen Arbeitsunfähigkeitsbescheinigung (eAU) übermittelt Ihr Arzt die AU-Daten in der Regel digital direkt an Ihre Krankenkasse. Wir als Arbeitgeber rufen diese Daten dann elektronisch bei der Krankenkasse ab. Ihre Pflicht ist es jedoch weiterhin, uns (Ihren Vorgesetzten und die Personalabteilung) rechtzeitig über das Bestehen und die Dauer der Arbeitsunfähigkeit zu informieren und sicherzustellen, dass der Arzt die eAU veranlasst. Eine separate Einreichung des „gelben Scheins“ durch Sie ist normalerweise nicht mehr nötig, es sei denn, es gibt technische Probleme oder Sie sind privat versichert – dann gelten ggf. abweichende Regelungen, die Sie bitte mit der Personalabteilung klären.\n\nSollte Ihre Arbeitsunfähigkeit länger andauern als auf der ursprünglichen Bescheinigung angegeben, ist unverzüglich eine Folgebescheinigung erforderlich. Bitte informieren Sie auch in diesem Fall umgehend Ihre Führungskraft. Die Einhaltung dieser Prozesse ist notwendig, um unter anderem Ihren Anspruch auf Entgeltfortzahlung sicherzustellen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Mitarbeitende müssen sowohl ihre Abwesenheit melden als auch sicherstellen, dass dem Arbeitgeber die Arbeitsunfähigkeitsbescheinigung elektronisch übermittelt wird.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Sie länger als drei Tage krank sind, ...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "genügt eine telefonische Meldung bei Ihrem Vorgesetzten."
+                },
+                {
+                    "key": "b",
+                    "text": "muss ein Arzt die eAU ausstellen und Sie müssen die Firma informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "müssen Sie das Original-Attest persönlich in der Personalabteilung abgeben."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}

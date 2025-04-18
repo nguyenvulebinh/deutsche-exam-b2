@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten bei Krankmeldung\n\nIm Falle einer Erkrankung sind Sie verpflichtet, Ihre Arbeitsunfähigkeit unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn, Ihrem direkten Vorgesetzten telefonisch zu melden. Zusätzlich muss die Personalabteilung per E-Mail (hr@firma.de) informiert werden. Geben Sie dabei bitte immer Ihren vollständigen Namen und die voraussichtliche Dauer Ihrer Abwesenheit an.\n\nSpätestens am dritten Kalendertag Ihrer Erkrankung muss eine ärztliche Arbeitsunfähigkeitsbescheinigung (AU) vorliegen. Ihr Arzt übermittelt diese in der Regel elektronisch direkt an Ihre Krankenkasse (eAU). Wir als Arbeitgeber rufen die Daten dann bei der Kasse ab. Sollte Ihr Arzt aus technischen oder anderen Gründen keine eAU ausstellen können, sind Sie dafür verantwortlich, uns die Bescheinigung in Papierform zukommen zu lassen, idealerweise per Scan an die Personalabteilung. Beachten Sie bitte, dass die Geschäftsleitung in Einzelfällen die Vorlage einer AU bereits ab dem ersten Krankheitstag verlangen kann.\n\nDauert die Arbeitsunfähigkeit länger als in der ursprünglichen AU angegeben, ist unverzüglich eine Folgebescheinigung notwendig, die ebenfalls elektronisch übermittelt oder ersatzweise eingereicht werden muss. Informieren Sie bitte auch Ihren Vorgesetzten, sobald absehbar ist, wann Sie Ihre Arbeit wieder aufnehmen können, damit dieser entsprechend planen kann. Eine gesonderte „Gesundmeldung“ über die Wiederaufnahme der Arbeit ist nicht erforderlich.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine ärztliche Bescheinigung ist immer erst ab dem dritten Krankheitstag notwendig.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Am ersten Tag der Krankheit müssen Sie...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Ihren Vorgesetzten anrufen und die Personalabteilung per E-Mail benachrichtigen."
+                },
+                {
+                    "key": "b",
+                    "text": "lediglich Ihren Vorgesetzten über die voraussichtliche Dauer informieren."
+                },
+                {
+                    "key": "c",
+                    "text": "sofort eine E-Mail an Ihren Vorgesetzten und die Personalabteilung schicken."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

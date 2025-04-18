@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Verhalten im Krankheitsfall\n\nSollten Sie aufgrund einer Erkrankung nicht zur Arbeit erscheinen können, bitten wir Sie dringend, die folgenden Schritte zu beachten, um einen reibungslosen Ablauf zu gewährleisten und Ihre Ansprüche zu sichern. Es ist essenziell, dass Sie Ihre direkte Teamleitung unverzüglich, das heißt noch vor dem regulären Arbeitsbeginn am ersten Tag Ihrer Abwesenheit, telefonisch oder per E-Mail über Ihr Fehlen informieren. Geben Sie dabei bitte auch die voraussichtliche Dauer Ihrer Abwesenheit an, sofern diese bereits absehbar ist. Zusätzlich ist parallel die Personalabteilung in Kenntnis zu setzen.\n\nEine ärztliche Bescheinigung über Ihre Arbeitsunfähigkeit, die sogenannte Arbeitsunfähigkeitsbescheinigung (AU), ist zwingend erforderlich, wenn Ihre Erkrankung länger als drei Kalendertage andauert. Das bedeutet, dass diese Bescheinigung spätestens am vierten Tag der Arbeitsunfähigkeit der Personalabteilung vorliegen muss. Die Einreichung kann bevorzugt auf elektronischem Wege erfolgen, beispielsweise als Scan per E-Mail, wobei das Original auf Nachfrage vorzulegen ist.\n\nWir möchten betonen, dass der Schutz Ihrer persönlichen Gesundheitsdaten für uns oberste Priorität hat. Die genaue medizinische Diagnose Ihrer Erkrankung müssen Sie dem Arbeitgeber nicht mitteilen. Die Arbeitsunfähigkeitsbescheinigung enthält lediglich die Information, dass eine Arbeitsunfähigkeit besteht, sowie deren voraussichtliche Dauer.\n\nDie Einhaltung dieser Meldepflichten und Fristen ist nicht nur eine betriebliche Notwendigkeit, sondern auch Voraussetzung für die gesetzliche Entgeltfortzahlung im Krankheitsfall. Versäumnisse bei der rechtzeitigen Krankmeldung oder der Vorlage der AU können dazu führen, dass Ihr Anspruch auf Lohnfortzahlung gefährdet ist oder sich verzögert. Bei Fragen hierzu steht Ihnen die Personalabteilung jederzeit zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Eine Krankmeldung ist erst erforderlich, wenn man länger als drei Tage krank ist.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Arbeitsunfähigkeitsbescheinigung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss immer persönlich bei der Teamleitung abgegeben werden."
+                },
+                {
+                    "key": "b",
+                    "text": "ist nur notwendig, wenn die Krankheit länger als eine Woche dauert."
+                },
+                {
+                    "key": "c",
+                    "text": "muss spätestens am vierten Krankheitstag bei der Firma sein."
+                }
+            ],
+            "loesung": "c"
+        }
+    ]
+}

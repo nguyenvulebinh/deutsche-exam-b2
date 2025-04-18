@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Regeln für die interne Kommunikation\n\nEine klare und effiziente interne Kommunikation ist entscheidend für unseren gemeinsamen Erfolg. Um dies sicherzustellen, nutzen wir verschiedene Kanäle, deren korrekte Verwendung wir Ihnen hier erläutern möchten. Die Hauptkommunikationsmittel sind E-Mail, unser Intranet, der interne Chat „TeamLink“ sowie das Telefon.\n\nDie E-Mail dient als offizieller Kanal für formelle Anfragen, die Dokumentation von Projektschritten und die Kommunikation mit externen Partnern. Bitte achten Sie stets auf aussagekräftige Betreffzeilen. Eine Antwort auf interne E-Mails wird in der Regel innerhalb eines Arbeitstages erwartet. Nutzen Sie die CC-Funktion sparsam und nur dann, wenn die Information für die zusätzlichen Empfängerinnen und Empfänger direkt relevant ist. Bei Abwesenheit (Urlaub, Krankheit) ist es zwingend erforderlich, eine automatische Abwesenheitsnotiz zu aktivieren.\n\nUnser Chat-Tool „TeamLink“ ist für schnelle, informelle Fragen innerhalb Ihres Teams, kurze Abstimmungen oder die Koordination kleinerer Aufgaben gedacht. Es eignet sich jedoch nicht für dringende Angelegenheiten, die eine sofortige Reaktion erfordern, oder für Sachverhalte, die offiziell dokumentiert werden müssen. Auch im Chat bitten wir um einen professionellen Umgangston.\n\nFür dringende Anliegen, die einer sofortigen Klärung bedürfen oder zu komplex für eine schriftliche Darstellung sind, nutzen Sie bitte das Telefon. Das Intranet ist Ihre primäre Anlaufstelle für allgemeine Unternehmensnachrichten, Richtlinien, HR-Formulare und wichtige Bekanntmachungen. Es wird erwartet, dass Sie dieses regelmäßig konsultieren. Anfragen an den IT-Support sind ausschließlich über das dafür vorgesehene Ticketsystem zu stellen, außer in systemweiten Notfällen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Der TeamLink-Chat ist das universelle Werkzeug für jede Art von interner Anfrage, einschließlich dringender Probleme.",
+            "loesung": "falsch"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Wenn Mitarbeitende abwesend sind,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "muss immer eine automatische Abwesenheitsnotiz aktiviert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "werden wichtige E-Mails automatisch an die Vertretung weitergeleitet."
+                },
+                {
+                    "key": "c",
+                    "text": "sollen sie dringende Anfragen per TeamLink klären lassen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

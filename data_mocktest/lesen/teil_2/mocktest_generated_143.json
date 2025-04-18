@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Firmeninterne Weiterbildung\n\nDie kontinuierliche Weiterentwicklung unserer Mitarbeiterinnen und Mitarbeiter ist uns ein wichtiges Anliegen. Deshalb unterstützen wir Sie aktiv dabei, Ihre fachlichen und persönlichen Kompetenzen durch geeignete Weiterbildungsmaßnahmen zu erweitern. Grundsätzlich fördert das Unternehmen Fortbildungen, die einen klaren Bezug zu Ihrer aktuellen oder einer zukünftigen Position im Unternehmen aufweisen.\n\nDie Teilnahme an internen Seminaren sowie externen Kursen muss im Vorfeld beantragt werden. Bitte reichen Sie Ihren Antrag inklusive einer kurzen Begründung, warum die Maßnahme für Ihre Tätigkeit relevant ist, mindestens vier Wochen vor Beginn bei Ihrem direkten Vorgesetzten ein. Dieser prüft den Antrag und leitet ihn bei grundsätzlicher Zustimmung zur endgültigen Genehmigung an die Personalabteilung weiter. Ohne die Zustimmung beider Instanzen ist eine Teilnahme nicht möglich.\n\nUnser internes Angebot umfasst IT-Schulungen, Sprachkurse (Englisch und Spanisch) sowie Seminare zu Soft Skills wie Projektmanagement oder Kommunikationstraining. Diese internen Kurse finden in der Regel während der Arbeitszeit statt und sind für Sie kostenfrei. Für externe Weiterbildungen übernimmt das Unternehmen nach Genehmigung die Kosten bis zu einem Rahmen von 800 € pro Mitarbeiter und Kalenderjahr. Die Freistellung von der Arbeit für externe Kurse muss gesondert im Antrag begründet und ebenfalls genehmigt werden.\n\nEine Übersicht über aktuelle interne Kursangebote finden Sie im Intranet unter der Rubrik „Personalentwicklung“. Bei Fragen zum Prozess oder zu spezifischen externen Angeboten steht Ihnen Frau Keller aus der Personalabteilung (Durchwahl -112) gerne zur Verfügung.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Um eine Weiterbildung genehmigt zu bekommen, müssen Mitarbeiter nachweisen, dass diese für ihre Tätigkeit nützlich ist und rechtzeitig beantragt wird.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Die Genehmigung einer Weiterbildungsmaßnahme erfolgt...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "durch den direkten Vorgesetzten und die Personalabteilung."
+                },
+                {
+                    "key": "b",
+                    "text": "ausschließlich durch die Personalabteilung."
+                },
+                {
+                    "key": "c",
+                    "text": "automatisch, wenn sie im Intranet angeboten wird."
+                }
+            ],
+            "loesung": "a"
+        }
+    ]
+}

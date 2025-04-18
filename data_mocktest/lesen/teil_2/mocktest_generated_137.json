@@ -1,0 +1,30 @@
+{
+    "thema": "Willkommensmappe für neue Mitarbeiterinnen und Mitarbeiter",
+    "text": "## Firmenfahrzeuge – Nutzung und Regeln\n\nFür notwendige Dienstreisen stellt Ihnen unser Unternehmen Fahrzeuge aus dem Firmenpool zur Verfügung. Die Berechtigung zur Nutzung ist an Ihre Tätigkeitsprofil geknüpft und wird Ihnen bei Bedarf durch Ihre Teamleitung bestätigt. Die Reservierung eines Fahrzeugs erfolgt ausschließlich über das digitale Buchungssystem im Intranet und muss mindestens 48 Stunden vor dem geplanten Fahrtantritt abgeschlossen sein, um die Verfügbarkeit sicherzustellen.\n\nBitte beachten Sie, dass die Nutzung der Firmenfahrzeuge grundsätzlich nur für dienstliche Zwecke gestattet ist. Ausnahmen für private Fahrten bedürfen einer gesonderten, schriftlichen Genehmigung durch die Geschäftsleitung. Während jeder Fahrt müssen Ihr gültiger Führerschein, die Fahrzeugpapiere sowie das ordnungsgemäß geführte Fahrtenbuch mitgeführt werden. Die Betankung erfolgt mittels der im Fahrzeug befindlichen Firmen-Tankkarte. Es wird erwartet, dass das Fahrzeug nach jeder Nutzung vollgetankt zurückgegeben wird. Achten Sie bitte darauf, das Fahrzeug in einem sauberen Zustand zu hinterlassen (besenrein). Rauchen sowie der Transport von Tieren sind in den Fahrzeugen strikt untersagt.\n\nBei einer Panne oder einem Unfall kontaktieren Sie bitte umgehend die auf der Servicekarte im Handschuhfach angegebene Notfall-Hotline. Informieren Sie zusätzlich unverzüglich das Fuhrparkmanagement über den Vorfall. Die Polizei ist zwingend hinzuzuziehen, wenn Personen zu Schaden gekommen sind oder ein erheblicher Sachschaden entstanden ist. Alle notwendigen Unterlagen für die Unfallmeldung finden Sie ebenfalls im Handschuhfach.\n\nDie Rückgabe des Fahrzeugs und des Schlüssels erfolgt während der Öffnungszeiten (Mo-Fr, 8:00-16:00 Uhr) persönlich im Büro des Fuhrparkmanagements (Raum 015). Außerhalb dieser Zeiten nutzen Sie bitte den dafür vorgesehenen Schlüsseltresor neben dem Eingang des Büros. Parken Sie das Fahrzeug ausschließlich auf den ausgewiesenen Firmenparkplätzen.",
+    "Aufgaben": [
+        {
+            "type": "richtig/falsch",
+            "frage": "Sowohl das Führen eines Fahrtenbuchs als auch das Auftanken des Wagens vor der Rückgabe sind Pflicht.",
+            "loesung": "richtig"
+        },
+        {
+            "type": "multiple-choice",
+            "frage": "Um einen Firmenwagen zu reservieren,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kann man kurzfristig beim Fuhrparkmanagement anrufen."
+                },
+                {
+                    "key": "b",
+                    "text": "muss man das Online-System spätestens 48 Stunden vorher nutzen."
+                },
+                {
+                    "key": "c",
+                    "text": "benötigt man immer eine Genehmigung der Geschäftsleitung."
+                }
+            ],
+            "loesung": "b"
+        }
+    ]
+}
