@@ -1,0 +1,60 @@
+{
+    "title": "Klärungsbedarf nach Projektmeeting 'Projekt Alpha'",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\n__1__ unser heutiges Meeting zum 'Projekt Alpha' möchte ich mich nochmals für den produktiven Austausch bedanken. Es wurden viele wichtige Punkte angesprochen.\n\nDennoch sind mir bei der Nachbereitung einige Aspekte aufgefallen, die __2__ weiterer Klärung. __3__ die finale Zuständigkeit für die Aufgabe 'Marktanalyse' war für mich beispielsweise nicht ganz eindeutig.\n\nKönnten Sie bitte zudem nochmals bestätigen, __4__ der 15. des nächsten Monats als Deadline für den ersten Entwurf gilt? Das wäre wichtig für meine Zeitplanung.\n\nZudem wurde kurz __5__ benötigte Software-Lizenzen gesprochen. Steht bereits fest, aus welchem Budget diese finanziert werden sollen?\n\nEine kurze Rückmeldung Ihrerseits zu diesen Punkten __6__, damit alle Teammitglieder auf dem gleichen Informationsstand sind und wir zügig weiterarbeiten können.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Hinsichtlich",
+                "b": "Anlässlich",
+                "c": "Bezugnehmend auf"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "brauchen weiterhin",
+                "b": "bedürfen noch",
+                "c": "sind für"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Was ... betrifft,",
+                "b": "Für die",
+                "c": "Bezüglich der"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "dass wirklich",
+                "b": "wann genau",
+                "c": "ob tatsächlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "von den",
+                "b": "über die",
+                "c": "bezüglich der"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "ist notwendig",
+                "b": "wäre hilfreich",
+                "c": "könnte unterstützen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

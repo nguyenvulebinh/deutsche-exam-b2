@@ -1,0 +1,60 @@
+{
+    "title": "Neues Verfahren zur Meldung von IT-Problemen",
+    "textinhalt": "Sehr geehrte Mitarbeiterinnen und Mitarbeiter,\n\nwir möchten Sie über eine wichtige Änderung __1__ zur Meldung von IT-Problemen informieren.\n\nIn der Vergangenheit führte die Vielzahl informeller Anfragen per Telefon oder Direktnachricht oft zu __2__ bei unserem IT-Support. Um die Bearbeitung zu beschleunigen und sicherzustellen, dass kein Anliegen verloren geht, haben wir __3__ eingeführt, das ab sofort genutzt werden soll.\n\nDieses System ermöglicht eine strukturierte Erfassung aller Meldungen und __4__ eine effizientere Zuweisung an die zuständigen Techniker. Jede Meldung erhält eine eindeutige Nummer, über die Sie den Bearbeitungsstatus jederzeit verfolgen können.\n\nWir bitten Sie __5__, ab dem kommenden Montag alle IT-bezogenen Anfragen ausschließlich über dieses neue Portal einzureichen. Direkte Anrufe oder E-Mails an einzelne Techniker sollten nur noch in absoluten Notfällen erfolgen.\n\nEine detaillierte Anleitung zur Nutzung des Systems finden Sie im Intranet unter 'IT-Support'. Wir sind überzeugt, dass diese Umstellung für alle Beteiligten __6__ führen wird.\n\nVielen Dank für Ihr Verständnis und Ihre Kooperation.\n\nMit freundlichen Grüßen\nIhre IT-Abteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "bezüglich der Abteilung",
+                "b": "hinsichtlich des Verfahrens",
+                "c": "über die Zuständigkeit"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "unnötigen Missverständnissen",
+                "b": "interessanten Diskussionen",
+                "c": "deutlichen Überlastungen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "ein zusätzliches E-Mail-Postfach",
+                "b": "eine alternative Kommunikationsstrategie",
+                "c": "ein neues Ticketsystem"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "ermöglicht somit",
+                "b": "verhindert jedoch",
+                "c": "beinhaltet außerdem"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "freundlicherweise darum",
+                "b": "nachdrücklich darum",
+                "c": "gegebenenfalls darum"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "zu komplexeren Arbeitsabläufen",
+                "b": "zu erhöhtem Abstimmungsbedarf",
+                "c": "zu einer spürbaren Verbesserung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

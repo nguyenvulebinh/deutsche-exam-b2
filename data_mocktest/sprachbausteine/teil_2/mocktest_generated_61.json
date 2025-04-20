@@ -1,0 +1,60 @@
+{
+    "title": "Verzögerung Ihrer Möbelbestellung Nr. 4812-B",
+    "textinhalt": "Sehr geehrter Herr Meyer,\n\n__1__ Ihre E-Mail vom 15. Mai möchten wir uns für die verzögerte Lieferung Ihrer Sofagarnitur „Modell Living“ (Bestellnummer 4812-B) entschuldigen.\n\nWir bedauern __2__ sehr, die Ihnen dadurch entstanden sind. Die Verzögerung resultiert aus einem unerwarteten __3__, der unsere Kapazitäten kurzfristig überlastet hat. Wir arbeiten mit Hochdruck daran, den Rückstand aufzuholen.\n\nWir __4__ können: Die Lieferung wird nun voraussichtlich in Kalenderwoche 24 erfolgen. Unser Speditionspartner wird Sie rechtzeitig kontaktieren, um einen genauen Zustelltag abzustimmen.\n\n__5__ für die längere Wartezeit möchten wir Ihnen anbieten, die Lieferkosten in Höhe von 79 € vollständig zu übernehmen.\n\nWir __6__ und hoffen, Sie trotz dieser Unannehmlichkeiten weiterhin zu unseren zufriedenen Kunden zählen zu dürfen.\n\nMit freundlichen Grüßen\n\nIhr Team von Möbelhaus Komfortabel",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Wegen",
+                "b": "Anhand von",
+                "c": "Bezugnehmend auf"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die entstandenen Unannehmlichkeiten",
+                "b": "Ihren verständlichen Ärger",
+                "c": "den gemachten Fehler"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Engpass in der Produktion",
+                "b": "Problem mit dem Personal",
+                "c": "Fehler unseres Lieferanten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "dürfen Ihnen vielleicht bald",
+                "b": "können Ihnen nunmehr zusagen",
+                "c": "müssen einen Vorschlag machen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Als kleine Wiedergutmachung",
+                "b": "Anstelle einer Lieferung",
+                "c": "Wegen unserer Schuld"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "fordern wir Ihre Geduld",
+                "b": "rechnen wir mit Ihrem Zuspruch",
+                "c": "bitten wir um Ihr Verständnis"
+            },
+            "loesung": "c"
+        }
+    ]
+}

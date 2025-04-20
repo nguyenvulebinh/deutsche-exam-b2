@@ -1,0 +1,60 @@
+{
+    "title": "Bewerbung für internen Workshop Projektmanagement",
+    "textinhalt": "Sehr geehrte Frau Hauser,\n\n__1__ vom 15. Mai bezüglich des internen Workshops „Effektives Projektmanagement“ möchte ich mich hiermit verbindlich anmelden.\n\nIch verfolge die internen Weiterbildungsangebote stets mit großem Interesse und __2__ besonders wertvoll für meine berufliche Entwicklung in unserem Unternehmen.\n\nDie im Workshop vermittelten Kenntnisse, insbesondere im Bereich Ressourcenplanung und Risikomanagement, __3__ meine aktuellen und zukünftigen Aufgaben im Team B. Sie würden mir ermöglichen, Projekte noch strukturierter und effizienter zu leiten.\n\nWie in der Ausschreibung gefordert, bringe ich mehrjährige Erfahrung in der Projektarbeit mit und __4__ somit.\n\n__5__ stehe ich selbstverständlich zur Verfügung und habe dies bereits mit meiner direkten Führungskraft, Herrn Meyer, abgesprochen.\n\nIch würde mich sehr __6__ freuen und bitte um eine kurze Bestätigung meiner Anmeldung.\n\nMit freundlichen Grüßen\n\nThomas Weber",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "als Antwort für Ihre Ankündigung",
+                "b": "bezugnehmend auf Ihre Ankündigung",
+                "c": "in Bezugnahme von Ihrer Ankündigung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "finde ich diese Weiterbildung als",
+                "b": "mag ich diese Weiterbildung gern",
+                "c": "halte ich diese Weiterbildung für"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "wären besonders nützlich für",
+                "b": "helfen mir eventuell zu",
+                "c": "sind vielleicht brauchbar mit"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "besitze die gezeigten Bedingungen",
+                "b": "erfülle die genannten Voraussetzungen",
+                "c": "habe die geforderten Kenntnisse"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "In der geplanten Dauer",
+                "b": "Während der gesagten Zeit",
+                "c": "An den vorgeschlagenen Terminen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "auf eine hilfreiche Reaktion",
+                "b": "über eine positive Rückmeldung",
+                "c": "für eine gute Antwort"
+            },
+            "loesung": "b"
+        }
+    ]
+}

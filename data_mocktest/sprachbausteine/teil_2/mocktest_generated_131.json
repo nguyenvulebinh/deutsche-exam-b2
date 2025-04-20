@@ -1,0 +1,60 @@
+{
+    "title": "Umstellung auf digitale Urlaubsanträge",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nhiermit __1__ wir Sie darüber informieren, dass wir unseren Prozess zur Beantragung von Urlaubstagen modernisieren. Wir werden von den bisherigen Papierformularen auf ein neues digitales System umstellen.\n\n__2__ dieser Umstellung ist es, den gesamten Ablauf von der Antragstellung bis zur Genehmigung für alle Beteiligten effizienter zu gestalten und __3__ zu beschleunigen.\n\nDie neue Regelung tritt __4__ 01.08.2024 in Kraft. Ab diesem Datum sind Urlaubsanträge ausschließlich über das neue Online-Tool einzureichen, das Sie über das Firmenintranet erreichen.\n\nEine detaillierte Anleitung zur Nutzung des Tools sowie Antworten auf häufig gestellte Fragen __5__ Sie ebenfalls in Kürze im Intranet. Bei technischen Problemen steht Ihnen die IT-Abteilung gerne zur Verfügung.\n\nWir sind überzeugt, dass diese Neuerung eine Verbesserung für uns alle darstellt und __6__ auf Ihre Kooperation bei der Einführung.\n\nMit freundlichen Grüßen\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "möchten",
+                "b": "bitten",
+                "c": "werden"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Grund für",
+                "b": "Trotz",
+                "c": "Ziel"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "kaum",
+                "b": "deutlich",
+                "c": "neu"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Bis zum",
+                "b": "Ab dem",
+                "c": "Seit dem"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "finden",
+                "b": "entwickeln",
+                "c": "erhalten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "entschuldigen uns",
+                "b": "machen Sie verantwortlich",
+                "c": "zählen"
+            },
+            "loesung": "c"
+        }
+    ]
+}

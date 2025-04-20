@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde vom 15.05. – Projekt Alpha Serviceunterbrechung",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre E-Mail vom 15. Mai. Wir bedauern sehr, dass Sie mit unserem Service bezüglich des Projekts Alpha unzufrieden waren.\n\n__1__ vom letzten Freitag möchten wir uns aufrichtig bei Ihnen entschuldigen. Die Unterbrechung entstand __2__ in unserem Rechenzentrum, die trotz unserer regelmäßigen Wartungen auftrat. Nach Eingang Ihrer Meldung __3__ und arbeiten bereits an einer dauerhaften Lösung.\n\nWir verstehen, dass dies zu Unannehmlichkeiten in Ihrem Arbeitsablauf geführt hat. __4__, Ihnen für die entstandenen Probleme __5__ auf die nächste Monatsrechnung zu gewähren. Zusätzlich haben wir interne Prozesse überprüft, __6__ und die Systemstabilität weiter zu erhöhen.\n\nWir bitten Sie um Ihr Verständnis und hoffen, dass Sie uns weiterhin Ihr Vertrauen schenken.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\nKundenservice Management",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Bezüglich der Serviceprobleme",
+                "b": "Für die entstandene Serviceunterbrechung",
+                "c": "Wegen der Angelegenheit"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "durch verschiedene interne Gründe",
+                "b": "wegen einem Zwischenfall plötzlich",
+                "c": "aufgrund einer unvorhergesehenen technischen Störung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "wurde die Sache untersucht",
+                "b": "haben wir die Ursache umgehend analysiert",
+                "c": "konnten wir den Fehler anschauen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Als kleine Geste denken wir daran",
+                "b": "Um die Situation zu verbessern, hilft es",
+                "c": "Als Zeichen unseres Bedauerns möchten wir Ihnen anbieten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "eine finanzielle Reduzierung",
+                "b": "einen Preisnachlass von 10%",
+                "c": "ein günstigeres Angebot"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "damit Schwierigkeiten nicht mehr vorkommen",
+                "b": "um ähnliche Vorfälle künftig zu vermeiden",
+                "c": "um Probleme später auszuschalten"
+            },
+            "loesung": "b"
+        }
+    ]
+}

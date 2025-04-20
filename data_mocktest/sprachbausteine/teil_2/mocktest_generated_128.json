@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Bewerbung als Projektmanager - Gespräch am 15.03.",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nvielen Dank für Ihre Bewerbung als Projektmanagerin bei der Innovatech GmbH und für __1__ am 15. März.\n\nSie haben bei uns __2__ hinterlassen, und Ihre Qualifikationen sowie Ihre bisherigen Erfahrungen finden wir sehr interessant.\n\nDa wir eine Vielzahl an Bewerbungen erhalten haben und mehrere Gespräche führen, __3__ im Auswahlprozess. Wir prüfen alle Kandidaturen sorgfältig, um die bestmögliche Besetzung für die Position sicherzustellen.\n\nWir gehen davon aus, dass wir den Auswahlprozess __4__ abschließen können. Unmittelbar danach werden wir __5__.\n\nSollten wir uns für eine/n andere/n Kandidaten/in entscheiden, würden wir gerne – Ihr Einverständnis vorausgesetzt – __6__ und bei zukünftigen Vakanzen berücksichtigen.\n\nWir bitten Sie noch um etwas Geduld und bedanken uns erneut für Ihr Interesse an einer Mitarbeit in unserem Unternehmen.\n\nMit freundlichen Grüßen\n\nMarkus Steiner\nPersonalabteilung\nInnovatech GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "die nette Unterhaltung",
+                "b": "Ihren ausführlichen Lebenslauf",
+                "c": "das informative Gespräch"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "einen positiven Eindruck",
+                "b": "eine gute Meinung",
+                "c": "ein klares Bild"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "haben wir allerdings bereits",
+                "b": "befinden uns jedoch noch",
+                "c": "sind wir trotzdem schon"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "seit dem letzten Montag",
+                "b": "im Laufe der kommenden Zeit",
+                "c": "innerhalb der nächsten zwei Wochen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Ihnen dann Bescheid sagen",
+                "b": "Sie über unsere Entscheidung informieren",
+                "c": "unsere Auswahl bekannt geben"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihr Profil weiterzuleiten",
+                "b": "Ihre Unterlagen aufzubewahren",
+                "c": "Ihre Daten zu speichern"
+            },
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Umstellung der Reisekostenabrechnung",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nhiermit möchten wir Sie über eine wichtige Neuerung **__1__** Reisekostenabrechnung informieren.\n\nUm unsere internen Prozesse **__2__** und den Papierverbrauch zu reduzieren, führen wir ein neues digitales System ein.\n\nAb dem 01. [Nächster Monat] wird für die Einreichung von Reisekosten ausschließlich das neue digitale Tool „DigiExpense“ **__3__**. Dieses Tool ermöglicht eine schnellere Bearbeitung und transparente Nachverfolgung Ihrer Anträge.\n\nDie bisherige Einreichung in Papierform **__4__** somit ab diesem Datum. Bitte beachten Sie, dass alte Formulare dann nicht mehr akzeptiert werden können.\n\nWir bitten um Ihr Verständnis und **__5__** bei der Umstellung auf das neue System. Eine erfolgreiche Einführung hängt von der Mitwirkung aller ab.\n\nFür Rückfragen **__6__** Ihnen das ausführliche Handbuch im Intranet sowie die Personalabteilung [ggf. Name/Kontaktdaten einfügen] zur Verfügung.\n\nMit freundlichen Grüßen\n\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "auf dem Gebiet der",
+                "b": "im Bereich der",
+                "c": "für die Zwecke der"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "effizienter und moderner",
+                "b": "zu vereinfachen und zu beschleunigen",
+                "c": "besser und schneller"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "eingeführt werden",
+                "b": "verwendet sein",
+                "c": "zum Einsatz kommen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "wird beendet",
+                "b": "entfällt",
+                "c": "ist ungültig"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Ihre große Hilfe",
+                "b": "Ihre baldige Teilnahme",
+                "c": "Ihre aktive Mitarbeit"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "sind ... vorhanden",
+                "b": "finden ... als Hilfe",
+                "c": "stehen ... zur Verfügung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

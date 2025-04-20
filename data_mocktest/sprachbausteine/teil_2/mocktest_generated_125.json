@@ -1,0 +1,60 @@
+{
+    "title": "Zusammenfassung unseres Projektmeetings „Marketingkampagne Q4“",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\n__1__ vom vergangenen Dienstag möchten wir die wichtigsten Ergebnisse und nächsten Schritte zu unserer geplanten Marketingkampagne für das vierte Quartal festhalten.\n\nWir __2__, dass der Fokus auf Social-Media-Marketing liegen soll, ergänzt durch gezielte Newsletter-Aktionen. Bezüglich der Zielgruppe und der Kernbotschaften bestand ebenfalls Einigkeit.\n\nIhre Abteilung wird, wie besprochen, __3__ bis Ende nächster Woche ausarbeiten und uns zukommen lassen. Dies ist die Grundlage für die weitere Feinplanung.\n\nUnsere Aufgabe wird es sein, die von Ihnen gelieferten Entwürfe __4__ und Feedback zu geben, insbesondere hinsichtlich der technischen Umsetzbarkeit auf unseren Plattformen.\n\n__5__, können wir mit der Erstellung des detaillierten Redaktionsplans beginnen. Das Ziel ist es, Anfang September mit den ersten Maßnahmen live zu gehen.\n\nZur besseren Übersicht finden Sie die detaillierten Notizen als Protokoll im Anhang. Falls Punkte unklar sein sollten oder Sie Ergänzungen haben, __6__ bis spätestens Freitag dieser Woche.\n\nWir freuen uns auf die weitere Zusammenarbeit.\n\nMit freundlichen Grüßen\nMarkus Weber",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Anlässlich unseres Termins",
+                "b": "Bezugnehmend auf unser Gespräch",
+                "c": "Wegen unserer Besprechung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "haben vorgeschlagen",
+                "b": "sind darin übereingekommen",
+                "c": "hatten die Idee"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die notwendige Strategie",
+                "b": "die personelle Kapazität",
+                "c": "die ersten Content-Entwürfe"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "zeitnah zu überprüfen",
+                "b": "umgehend zu genehmigen",
+                "c": "eventuell anzupassen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Obwohl diese Basis existiert",
+                "b": "Falls diese Entwürfe fehlen",
+                "c": "Sobald uns diese vorliegen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "erwarten wir Ihre Anweisungen",
+                "b": "bitten wir um kurze Rückmeldung",
+                "c": "benötigen wir Ihre Zustimmung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

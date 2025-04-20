@@ -1,0 +1,60 @@
+{
+    "title": "Nachfrage zum Vorstellungsgespräch",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich noch einmal herzlich für das angenehme Vorstellungsgespräch am [Datum] für die Position als [Job Title] bedanken. __1__ war sehr aufschlussreich, mehr über Ihr Unternehmen und die spezifischen Aufgaben zu erfahren.\n\nDas Gespräch hat __2__ in meiner Entscheidung, für Ihr Unternehmen tätig werden zu wollen, weiter bestärkt. Die von Ihnen beschriebenen Entwicklungsmöglichkeiten sowie die teamorientierte Arbeitsweise entsprechen genau meinen Vorstellungen.\n\n__3__ fand ich die Erläuterungen zu dem aktuellen Projekt [Projektname], da ich in diesem Bereich bereits relevante Erfahrungen sammeln konnte.\n\nKönnten Sie mir vielleicht eine kurze Auskunft darüber geben, wie __4__ im Bewerbungsprozess aussieht und wann etwa mit einer Entscheidung zu rechnen ist?\n\nIch sehe __5__ mit großem Interesse entgegen und hoffe auf eine positive Nachricht.\n\nFür Rückfragen __6__ selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Dies",
+                "b": "Es",
+                "c": "Das"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "mein Interesse",
+                "b": "meine Absicht",
+                "c": "mich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Hauptsächlich wichtig",
+                "b": "Besonders interessant",
+                "c": "Sehr aufschlussreich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "die folgende Handlung",
+                "b": "das nächste Vorkommen",
+                "c": "der weitere Verlauf"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Ihrer Rückmeldung",
+                "b": "eine baldige Antwort",
+                "c": "Ihre Entscheidung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "bin ich für Sie",
+                "b": "stehe ich Ihnen",
+                "c": "biete ich mich"
+            },
+            "loesung": "b"
+        }
+    ]
+}

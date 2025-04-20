@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde vom 15.03. / Bestellung Nr. 78-B451",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\n__1__ vom 15. März bezüglich der verzögerten Lieferung Ihrer Büromöbel (Bestellnummer 78-B451) bedanken wir uns für Ihre Nachricht.\n\nWir haben die Angelegenheit sofort geprüft und __2__ sehr. Es tut uns aufrichtig leid, dass Sie die bestellte Ware noch nicht erhalten haben.\n\nGrund für die Verzögerung sind __3__ bei einem unserer wichtigsten Zulieferer für Holzkomponenten. Diese Situation war für uns nicht vorhersehbar.\n\nNach aktueller Einschätzung __4__ einer weiteren Lieferzeit von ca. 5-7 Werktagen. Der neue voraussichtliche Liefertermin ist nun der 28./29. März.\n\nUm Ihnen für die Wartezeit entgegenzukommen, __5__ einen Rabatt von 10% auf den Gesamtbetrag dieser Bestellung an. Dieser wird auf der Endrechnung automatisch berücksichtigt.\n\nWir bitten nochmals um Entschuldigung für die Verzögerung und __6__. Wir versichern Ihnen, dass wir alles tun, um die Lieferung so schnell wie möglich abzuschließen.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\nKundenservice MöbelProfi GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "denkend an Ihre Nachricht",
+                "b": "antwortend auf Ihre Worte",
+                "c": "bezugnehmend auf Ihre E-Mail"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bedauern wir die entstandenen Unannehmlichkeiten",
+                "b": "ignorieren wir die schwierige Lage",
+                "c": "akzeptieren wir Ihre schlechte Laune"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Ihre speziellen Wünsche",
+                "b": "unerwartete Lieferschwierigkeiten",
+                "c": "übliche Transportbedingungen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "verbessert dies sicher",
+                "b": "führt dies leider zu",
+                "c": "macht dies eventuell"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "geben wir Ihnen zur Information",
+                "b": "fordern wir von Ihnen als Gebühr",
+                "c": "bieten wir Ihnen als Entschädigung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "hoffen wir auf Ihr Verständnis",
+                "b": "fragen wir nach Ihrer Meinung",
+                "c": "rechnen wir mit Ihrer Zustimmung"
+            },
+            "loesung": "a"
+        }
+    ]
+}

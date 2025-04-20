@@ -1,0 +1,60 @@
+{
+    "title": "Einführung neues digitales System für Urlaubsanträge",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nim Rahmen der kontinuierlichen Optimierung unserer internen Prozesse möchten wir Sie heute über eine wichtige Neuerung informieren.\n\nAb dem 1. August werden Urlaubsanträge __1__ über unser neues digitales HR-Tool eingereicht. Diese Umstellung __2__ dazu bei, den Genehmigungsprozess deutlich zu beschleunigen und transparenter zu gestalten.\n\nAnträge in Papierform oder per E-Mail können __3__ nicht mehr berücksichtigt werden. Wir bitten Sie daher, sich rechtzeitig mit dem neuen System vertraut zu machen.\n\nEine detaillierte Anleitung zur Nutzung des Tools __4__ im Intranet zum Download bereit. Zusätzlich bietet die Personalabteilung nächste Woche kurze Einführungsschulungen __5__.\n\nBei __6__ Fragen oder technischen Problemen wenden Sie sich bitte direkt an Frau Weber in der Personalabteilung (Durchwahl -123).\n\nWir danken Ihnen für Ihr Verständnis und Ihre Kooperation bei dieser wichtigen Umstellung.\n\nMit freundlichen Grüßen\n\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "hauptsächlich",
+                "b": "ausschließlich",
+                "c": "freiwillig"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "trägt dazu bei",
+                "b": "führt dazu",
+                "c": "erlaubt es"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "grundsätzlich",
+                "b": "zukünftig",
+                "c": "bekanntlich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "liegt",
+                "b": "findet",
+                "c": "steht"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "an",
+                "b": "bereit",
+                "c": "zur Verfügung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "dringenden",
+                "b": "aufkommenden",
+                "c": "fachlichen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

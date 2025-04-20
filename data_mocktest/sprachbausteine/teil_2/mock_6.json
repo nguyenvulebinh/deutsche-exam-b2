@@ -1,0 +1,61 @@
+{
+    "title": "Angebot",
+    "textinhalt": "Sehr geehrter Herr Hornung,\n\nvielen Dank für __1__ zu unserer Gewerbe-Kühl-Gefrierkombination M53.\n\nWir bieten mit unserer Gewerbe-Kühl-Gefrierkombination ein zu __2__ passendes Produkt, das Sie schnell zum Einsatz bringen können.\n\nIm beiliegenden Angebot finden Sie unsere __3__ mit den Lieferbedingungen. In unserer Preiskalkulation konnten wir innerhalb der von Ihnen __4__ bleiben.\nUnser neuer Katalog geht Ihnen noch per Post zu.\n\nWir können Ihnen die Gewerbe-Kühl-Gefrierkombination M53 spätestens drei Wochen nach der von Ihnen __5__ liefern.\n\nWir würden uns über Ihre Bestellung sehr freuen und garantieren Ihnen __6__ nach Ihren Wünschen.\n\nMit freundlichen Grüßen\nJennifer Gruber",
+    "aufgaben": [
+      {
+        "id": 1,
+        "options": {
+          "a": "Ihre Anfrage",
+          "b": "Ihre Bestellung",
+          "c": "Ihren Auftrag"
+        },
+        "loesung": "a"
+      },
+      {
+        "id": 2,
+        "options": {
+          "a": "Ihrem geäußerten Wunsch",
+          "b": "Ihren großen Bemühungen",
+          "c": "Ihrer letzten Rechnung"
+        },
+        "loesung": "a"
+      },
+      {
+        "id": 3,
+        "options": {
+          "a": "aktuelle Preisliste",
+          "b": "neue Sendungsnummer",
+          "c": "überarbeiteten Planungen"
+        },
+        "loesung": "a"
+      },
+      {
+        "id": 4,
+        "options": {
+          "a": "ausstehenden Schulden",
+          "b": "bezahlten Summe",
+          "c": "genannten Preisvorgabe"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 5,
+        "options": {
+          "a": "ausgefüllten Schadensmeldung",
+          "b": "erfolgten Auftragserteilung",
+          "c": "ungerechtfertigten Reklamation"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 6,
+        "options": {
+          "a": "eine sofortige Stornierung",
+          "b": "eine termingerechte Lieferung",
+          "c": "einen pünktlichen Abtransport"
+        },
+        "loesung": "b"
+      }
+    ]
+}
+  

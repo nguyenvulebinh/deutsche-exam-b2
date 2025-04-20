@@ -1,0 +1,60 @@
+{
+    "title": "Ihr Schreiben vom 15.05. / Lieferverzug Bestellung Nr. 78-12345",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\n__1__ vom 15. Mai 2024 möchten wir uns zunächst für die verspätete Lieferung Ihrer Büromöbel entschuldigen. Die Ihnen entstandenen Unannehmlichkeiten __2__.\n\nLeider kam es bei unserem Logistikpartner __3__ in der Warenauslieferung, der mittlerweile jedoch behoben werden konnte. Wir haben Ihre Bestellung daraufhin priorisiert behandelt und __4__, dass die Zustellung nun verbindlich am kommenden Freitag, den 24. Mai 2024, zwischen 10 und 12 Uhr erfolgen wird.\n\n__5__ für die Verzögerung möchten wir Ihnen die Lieferkosten in Höhe von 49,- EUR vollständig erlassen. Dies wird auf Ihrer Endrechnung entsprechend vermerkt.\n\nWir bitten nochmals um Entschuldigung und __6__. Wir sind überzeugt, dass Sie mit der Qualität unserer Möbel zufrieden sein werden.\n\nMit freundlichen Grüßen\n\nMöbelhaus Schuster GmbH\nKundenservice",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Wegen Ihrer Reklamation",
+                "b": "Bezugnehmend auf Ihr Schreiben",
+                "c": "Hinsichtlich Ihrer Nachricht"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "finden wir schade",
+                "b": "entschuldigen wir uns dafür",
+                "c": "bedauern wir sehr"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "trotz unserer Planung",
+                "b": "aufgrund eines kurzfristigen Engpasses",
+                "c": "wegen vieler Aufträge"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "konnten wir nun sicherstellen",
+                "b": "haben wir feststellen müssen",
+                "c": "werden wir sofort veranlassen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Statt der Rechnung",
+                "b": "Für Ihre Umstände",
+                "c": "Als kleine Entschädigung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "rechnen mit Ihrer Nachsicht",
+                "b": "hoffen auf Ihr Verständnis",
+                "c": "erwarten Ihre Bestätigung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

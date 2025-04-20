@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Reklamation vom [Datum]: Bestellung [Bestellnummer] - Smart Speaker Modell X",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\n__1__ vom [Datum] bezüglich des Defekts am Smart Speaker Modell X (Bestellnummer [Bestellnummer]) danken wir Ihnen.\n\nWir __2__, dass das an Sie gelieferte Gerät nicht einwandfrei funktioniert und bitten Sie aufrichtig um Entschuldigung für die entstandenen Unannehmlichkeiten.\n\nNormalerweise unterliegen alle unsere Produkte strengen Tests, doch __3__ kann es in Einzelfällen leider zu Fehlern kommen. Um das Problem schnellstmöglich zu beheben, werden wir __4__ zusenden. Dieses sollte Sie innerhalb der nächsten 2-3 Werktage erreichen.\n\nGleichzeitig möchten wir __5__ organisieren. Sie erhalten hierfür in einer separaten E-Mail ein vorfrankiertes Retourenlabel. Bitte senden Sie das defekte Gerät damit innerhalb von 14 Tagen an uns zurück.\n\nWir __6__ und sind überzeugt, dass Sie mit dem Ersatzgerät zufrieden sein werden. Für weitere Fragen stehen wir Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\nTechWelt GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Als Ergebnis Ihrer Meldung",
+                "b": "Für Ihre Nachricht",
+                "c": "Ohne Ihre Information"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "verstehen zwar",
+                "b": "bezweifeln stark",
+                "c": "bedauern außerordentlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "wegen dieser Qualitätskontrollen",
+                "b": "anstelle sorgfältiger Qualitätskontrollen",
+                "c": "trotz sorgfältiger Qualitätskontrollen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "die Rechnung erneut",
+                "b": "Ihnen umgehend ein Ersatzgerät",
+                "c": "einen Techniker vorbei"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "die kostenlose Rücksendung des defekten Geräts",
+                "b": "Ihren nächsten Einkauf",
+                "c": "die Lieferung der Bedienungsanleitung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "warnen Sie vor weiteren Problemen",
+                "b": "hoffen wir auf Ihr Verständnis",
+                "c": "garantieren wir eine Belohnung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

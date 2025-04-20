@@ -1,0 +1,60 @@
+{
+    "title": "Einführung eines neuen digitalen Zeiterfassungssystems",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nwir möchten Sie heute über eine wichtige Neuerung in unserem Unternehmen informieren. Ab dem 1. nächsten Monats führen wir ein neues digitales System zur Zeiterfassung ein.\n\n__1__ die Optimierung unserer internen Prozesse und die Vereinfachung der Dokumentation für alle Beteiligten. Das neue System „ZeitProfi“ __2__, wie z.B. die Möglichkeit zur mobilen Erfassung per App und eine benutzerfreundlichere Oberfläche.\n\nDamit der Übergang reibungslos verläuft, __3__ sich bis Ende dieser Woche mit den Grundlagen des Systems vertraut machen. Hierzu __4__ in der kommenden Woche. Die genauen Termine und Anmeldelinks finden Sie in Kürze im Intranet.\n\nBei Fragen vorab oder während der Umstellungsphase __5__ gerne per E-Mail (hr@firma.de) oder telefonisch unter -123.\n\n__6__ bei der Einführung dieses neuen Systems und danken Ihnen für Ihr Verständnis.\n\nMit freundlichen Grüßen\nIhre Geschäftsleitung / Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Anlass dieser Änderung wäre",
+                "b": "Grund für diese Umstellung ist",
+                "c": "Der Zweck dieses Wechsels soll"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bringt deutliche Verbesserungen",
+                "b": "enthält verschiedene Pluspunkte",
+                "c": "bietet zahlreiche Vorteile"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "ist es erforderlich, ob Angestellte",
+                "b": "wird es gebraucht, wenn Kollegen",
+                "c": "ist es notwendig, dass alle Mitarbeiter"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "werden entsprechende Schulungen angeboten",
+                "b": "können hilfreiche Kurse besucht werden",
+                "c": "sind passende Trainings vorgesehen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "ist die Personalabteilung zuständig",
+                "b": "steht Ihnen die Personalabteilung zur Verfügung",
+                "c": "kann Ihnen die Personalabteilung helfen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Wir fordern Ihre Teilnahme",
+                "b": "Wir zählen auf Ihre Mitarbeit",
+                "c": "Wir bitten um Ihre Kooperation"
+            },
+            "loesung": "c"
+        }
+    ]
+}

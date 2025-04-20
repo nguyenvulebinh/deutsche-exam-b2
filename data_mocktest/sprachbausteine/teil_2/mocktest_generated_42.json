@@ -1,0 +1,60 @@
+{
+    "title": "Änderung beim Verfahren für Urlaubsanträge",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\n__1__ darüber, dass wir das Verfahren zur Beantragung von Urlaubstagen ändern werden.\n\nDiese Umstellung erfolgt, __2__ und den Genehmigungsprozess für alle Beteiligten zu vereinfachen. Ab sofort wird ein neues digitales System eingeführt, welches __3__.\n\nZukünftige Urlaubsanträge sind daher __4__ im Mitarbeiterportal unter dem Menüpunkt „Abwesenheiten“ einzureichen. Anträge in anderer Form können leider nicht mehr bearbeitet werden.\n\nDie neue Regelung __5__ offiziell in Kraft. Bis dahin nutzen Sie bitte noch das alte Verfahren.\n\nEine detaillierte Anleitung finden Sie in Kürze im Intranet. __6__ bitte an die Personalabteilung.\n\nVielen Dank für Ihr Verständnis und Ihre Kooperation.\n\nMit freundlichen Grüßen\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "hiermit informieren wir Sie",
+                "b": "damit bestätigen wir Ihnen",
+                "c": "daran erinnern wir Sie"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "obwohl der Aufwand höher ist",
+                "b": "um die Effizienz zu steigern",
+                "c": "weil die Kosten gesenkt werden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "ergänzt die alten Anträge",
+                "b": "beinhaltet die früheren Schritte",
+                "c": "ersetzt die bisherigen Papierformulare"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "freiwillig online zu übermitteln",
+                "b": "nur noch digital einzureichen",
+                "c": "auch schriftlich abzugeben"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "tritt zum 1. Juli",
+                "b": "endet am 1. Juli",
+                "c": "wird ab 1. Juli geplant"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Im Problemfall beschweren Sie sich",
+                "b": "Für Vorschläge bedanken wir uns",
+                "c": "Bei Rückfragen wenden Sie sich"
+            },
+            "loesung": "c"
+        }
+    ]
+}

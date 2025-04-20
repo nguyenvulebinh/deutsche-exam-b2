@@ -1,0 +1,60 @@
+{
+    "title": "Ankündigung: Interner Workshop Zeitmanagement",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nin unserem modernen Arbeitsalltag ist effizientes Zeitmanagement entscheidend. Um Sie dabei __1__ , organisieren wir einen internen Workshop zum Thema 'Effektives Zeitmanagement'.\n\nZiel des Workshops ist es, Ihnen praktische Techniken und Strategien __2__ , mit denen Sie Ihren Arbeitstag besser strukturieren und Prioritäten klarer setzen können. Wir werden uns auch damit beschäftigen, wie digitale Werkzeuge optimal __3__ .\n\nDer Workshop findet am 15. September, von 09:00 Uhr bis 13:00 Uhr, in unserem Besprechungsraum K2 statt. Als Referenten konnten wir Herrn Dr. Schneider, einen Experten für Arbeitstechniken, __4__ .\n\nDie Teilnehmerzahl ist begrenzt. Wir bitten daher um Ihre verbindliche Anmeldung bis zum 01. September über den Link im Intranet. Diese Anmeldung ist __5__ , damit wir die Unterlagen und die Raumkapazität entsprechend planen können.\n\nWir hoffen auf rege Teilnahme und freuen uns auf einen __6__ Vormittag mit Ihnen.\n\nMit freundlichen Grüßen\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihnen damit zu helfen",
+                "b": "optimal zu unterstützen",
+                "c": "für Sie zu fördern"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "an die Hand zu geben",
+                "b": "zum Lernen bringen",
+                "c": "an Sie zu vermitteln"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "eingesetzt werden können",
+                "b": "richtig sich benutzen lassen",
+                "c": "zur Anwendung kommen sollen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "für uns zu gewinnen",
+                "b": "von uns einzuladen",
+                "c": "neu zu beauftragen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "deutlich wichtig",
+                "b": "kaum nützlich",
+                "c": "zwingend erforderlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "informativen und langen",
+                "b": "produktiven und lehrreichen",
+                "c": "interessanten aber kurzen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Bestätigung Seminarteilnahme und organisatorische Rückfragen",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\n__1__ unsere kürzliche Absprache möchte ich hiermit meine Teilnahme am Seminar „Effektives Projektmanagement“ vom 15. bis 17. März verbindlich bestätigen. Ich habe die Online-Anmeldung __2__ und bereits eine Eingangsbestätigung vom Veranstalter erhalten.\n\nKönnten Sie mir bitte noch mitteilen, wie die weiteren organisatorischen Schritte aussehen? Insbesondere interessiert mich die Regelung __3__ Reise- und Übernachtungskosten – erfolgt die Buchung zentral oder soll ich diese zunächst selbst übernehmen und zur Abrechnung einreichen?\n\nIch gehe davon aus, dass die __4__ durch unsere Abteilung wie besprochen gesichert ist. Eine kurze Bestätigung hierzu wäre hilfreich.\n\nBitte lassen Sie mich auch wissen, ob es spezielle __5__ gibt, die ich vorab beachten sollte (z.B. Materialien, Vorbereitungsaufgaben).\n\nIch freue mich sehr auf diese __6__ und bin überzeugt, dass die Inhalte für meine Arbeit sehr wertvoll sein werden.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Gemäß",
+                "b": "Bezug nehmend auf",
+                "c": "Im Hinblick auf"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "schnell erledigt",
+                "b": "ordnungsgemäß eingereicht",
+                "c": "erfolgreich abgeschlossen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "bezüglich der",
+                "b": "von den",
+                "c": "hinsichtlich der"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "finanzielle Unterstützung",
+                "b": "vereinbarte Kostenübernahme",
+                "c": "gesamte Gebührenzahlung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "organisatorische Hinweise",
+                "b": "technische Details",
+                "c": "inhaltliche Schwerpunkte"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "nützliche Erfahrung",
+                "b": "interessante Veranstaltung",
+                "c": "wichtige Weiterbildungsmöglichkeit"
+            },
+            "loesung": "c"
+        }
+    ]
+}

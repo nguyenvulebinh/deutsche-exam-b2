@@ -1,0 +1,60 @@
+{
+    "title": "Ankündigung: Verpflichtende Schulung zur neuen CRM-Software 'SalesForce Pro'",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nwir möchten Sie darüber informieren, dass wir in Kürze unsere neue CRM-Software 'SalesForce Pro' unternehmensweit einführen werden. Diese Software wird zukünftig __1__ Ihrer täglichen Arbeit sein und uns allen helfen, Kundenbeziehungen effizienter zu gestalten.\n\nUm einen reibungslosen Übergang zu gewährleisten und sicherzustellen, dass alle Mitarbeitenden das System effektiv nutzen können, ist eine Schulungsteilnahme erforderlich. __2__, Ihnen die notwendigen Grundlagen sowie die wichtigsten Funktionen des Programms praxisnah zu vermitteln.\n\nDie Schulung wird im kommenden Monat in mehreren Sessions angeboten. Sie dauert jeweils einen halben Tag und findet im Schulungsraum 3 statt. __3__ für alle Mitarbeitenden der Abteilungen Vertrieb, Marketing und Kundenservice verpflichtend.\n\nWir bitten Sie, sich bis spätestens [Datum, z.B. 15. des Monats] über den folgenden Link [Link hier einfügen] für eine der angebotenen Sessions anzumelden und __4__.\n\nWir sind __5__, dass jede Umstellung zunächst eine Herausforderung darstellt, sind aber überzeugt von den langfristigen Vorteilen der neuen Software. __6__ Frau Meier aus der Personalabteilung (Durchwahl -123) gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "große Hilfe bei",
+                "b": "wesentlicher Bestandteil",
+                "c": "wichtiger Teil von"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Die Absicht dahinter soll",
+                "b": "Der Zweck davon wäre",
+                "c": "Ziel der Schulung ist es"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Eine Teilnahme dafür muss",
+                "b": "Die Teilnahme daran ist",
+                "c": "Daran teilzunehmen wird"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "einen passenden Termin auszuwählen",
+                "b": "eine günstige Zeit bestimmen",
+                "c": "einen freien Platz zu finden"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "damit einverstanden",
+                "b": "davon überzeugt",
+                "c": "uns dessen bewusst"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Um Fragen zu stellen können",
+                "b": "Für Rückfragen steht Ihnen",
+                "c": "Bei Fragen wenden Sie"
+            },
+            "loesung": "b"
+        }
+    ]
+}

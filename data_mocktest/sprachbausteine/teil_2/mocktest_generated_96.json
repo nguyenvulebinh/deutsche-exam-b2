@@ -1,0 +1,60 @@
+{
+    "title": "Kundenbeschwerde Firma Meier GmbH - weiteres Vorgehen",
+    "textinhalt": "Hallo Herr Schmidt,\n\nich schreibe Ihnen __1__ der kürzlich eingegangenen Beschwerde von der Meier GmbH.\n\nEs geht um die erhebliche Verzögerung bei der Auslieferung ihres Auftrags 785/23. Der Kunde ist verständlicherweise sehr verärgert, da die Produkte dringend benötigt wurden. Ich habe bereits intern recherchiert und es scheint, dass die Ware unser Lager tatsächlich erst mit fünf Tagen Verspätung verlassen hat, __2__ kurzfristigen Personalengpässen in der Logistik.\n\nIch schlage vor, dass wir uns in unserem Antwortschreiben offiziell für die entstandenen Unannehmlichkeiten entschuldigen und dem Kunden als Geste des guten Willens __3__. Des Weiteren sollten wir kurz die Ursache erläutern, ohne Schuldzuweisungen vorzunehmen, und __4__, dass wir interne Prozesse angepasst haben, um solche Vorfälle künftig zu verhindern.\n\nBevor ich jedoch die Antwort an die Meier GmbH formuliere und versende, wollte ich __5__ Ihre Einschätzung dazu einholen.\n\nKönnten Sie mir bitte kurz per E-Mail mitteilen, ob Sie mit diesem Vorgehen grundsätzlich __6__ sind oder ob Sie alternative Vorschläge haben?\n\nVielen Dank und beste Grüße\n\nAnja Weber",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "im Laufe",
+                "b": "bezüglich",
+                "c": "seitens"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "trotz einiger",
+                "b": "anstelle von",
+                "c": "aufgrund von"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "einen Auftrag bestätigen",
+                "b": "eine Rechnung erstellen",
+                "c": "einen Preisnachlass gewähren"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "ihm mitteilen",
+                "b": "ihm zusichern",
+                "c": "ihn benachrichtigen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "nebenbei",
+                "b": "schlussendlich",
+                "c": "vorsichtshalber"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "überzeugt",
+                "b": "einverstanden",
+                "c": "zuständig"
+            },
+            "loesung": "b"
+        }
+    ]
+}

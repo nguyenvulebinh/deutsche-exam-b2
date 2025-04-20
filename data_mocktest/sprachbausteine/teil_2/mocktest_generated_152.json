@@ -1,0 +1,60 @@
+{
+    "title": "Nachbesprechung unseres Gesprächs vom 15.05.: Marketingkooperation",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank nochmals für das konstruktive Gespräch am 15. Mai bezüglich einer möglichen Marketingkooperation zwischen unseren Unternehmen. Es war sehr aufschlussreich, __1__ zu den Zielen und der Zielgruppe einer solchen Kampagne __1__.\n\nWir haben __2__, dass wir beide eine Steigerung der Markenbekanntheit in der Altersgruppe der 25- bis 40-Jährigen anstreben und unsere Ressourcen synergistisch nutzen könnten.\n\n__3__ würden wir vorschlagen, als nächsten Schritt ein detaillierteres Konzept auszuarbeiten, das die Kernbotschaften, Kanäle und einen Zeitplan umfasst.\n\nHierfür wäre es hilfreich, wenn Sie uns die im Gespräch __4__ Marktanalyse-Daten bis Ende nächster Woche __4__ könnten. Diese Daten wären eine wichtige Grundlage für die Detailplanung.\n\nSobald uns diese Informationen __5__, werden wir einen ersten Konzeptentwurf erstellen und Ihnen diesen bis Mitte Juni zur gemeinsamen Abstimmung zusenden.\n\nWir sind __6__, dass eine strategische Zusammenarbeit für beide Seiten von großem Nutzen sein kann und freuen uns auf die Möglichkeit.\n\nWir freuen uns auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\nMax Mustermann\nLeiter Marketing\nBeispiel GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ideen anzusprechen",
+                "b": "Gedanken auszutauschen",
+                "c": "Meinungen zu geben"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "festgehalten",
+                "b": "mitgeteilt",
+                "c": "verstanden"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Abgesehen vom Gespräch",
+                "b": "Dem Gespräch nach",
+                "c": "Wie besprochen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "angeforderten ... zukommen lassen",
+                "b": "besprochenen ... überreichen",
+                "c": "erwähnten ... zur Verfügung stellen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "angekommen sind",
+                "b": "vorliegen",
+                "c": "komplett sind"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "damit einverstanden",
+                "b": "davon überzeugt",
+                "c": "dazu bereit"
+            },
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Bestätigung Ihrer Seminar-Anmeldung: Effektives Projektmanagement",
+    "textinhalt": "Sehr geehrter Herr Baumann,\n\nvielen Dank für Ihre Anmeldung zum Seminar 'Effektives Projektmanagement' vom 15. bis 17. Oktober dieses Jahres.\n\nHiermit bestätigen wir Ihnen __1__ .\n\nDas Seminar findet täglich von 09:00 bis 17:00 Uhr in unserem Schulungszentrum in Frankfurt, Mainzer Landstraße 123, Raum 4 statt.\n\nBitte beachten Sie, dass für eine erfolgreiche Teilnahme __2__ zwar nicht zwingend erforderlich, aber empfohlen sind, insbesondere im Bereich grundlegender Planungswerkzeuge.\n\nWeitere detaillierte Seminarunterlagen sowie eine Agenda __3__ ca. eine Woche vor Beginn per E-Mail.\n\nDie Rechnung über die Seminargebühren __4__ in den nächsten Tagen auf dem Postweg.\n\nSollten Sie __5__ Fragen zum organisatorischen Ablauf oder zu den Inhalten haben, steht Ihnen Frau Klein unter der Durchwahl -567 gerne zur Verfügung.\n\nWir freuen uns darauf, Sie bald __6__ .\n\nMit freundlichen Grüßen\n\nIhr Team der Weiterbildungsakademie Müller & Partner",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "die Möglichkeit zur Schulung",
+                "b": "verbindlich Ihre Teilnahme",
+                "c": "Ihren Platz im Kurs"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bestimmte Vorkenntnisse",
+                "b": "einige Materialien",
+                "c": "wichtige Aufgaben"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "bereiten wir für Sie vor",
+                "b": "stellen wir Ihnen aus",
+                "c": "lassen wir Ihnen zukommen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "finden Sie anbei",
+                "b": "erhalten Sie separat",
+                "c": "bezahlen Sie bitte"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "deswegen bald",
+                "b": "danach trotzdem",
+                "c": "vorab noch"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "bei uns begrüßen zu dürfen",
+                "b": "Ihnen helfen zu können",
+                "c": "im Seminar zu treffen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

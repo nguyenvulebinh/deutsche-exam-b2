@@ -1,0 +1,60 @@
+{
+    "title": "Koordination Messeauftritt",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\ndie Planungen für unseren Messeauftritt auf der [Messe Name/Fiktiver Name]-Messe im nächsten Monat schreiten voran. Der Messestand ist bereits fest gebucht.\n\nDamit die verbleibende Vorbereitungszeit optimal genutzt wird, __1__, dass wir die weiteren Aufgaben klar verteilen und koordinieren.\n\nDas Marketing-Team bitten wir, sich wie besprochen um die Konzeption und Erstellung der Werbematerialien zu kümmern; Sie __2__ die rechtzeitige Fertigstellung.\n\nDas Sales-Team bitten wir, __3__ der Kundentermine am Messestand. Bitte stimmt euch intern ab, wer wann verfügbar ist.\n\nDie Logistik-Abteilung sorgt bitte __4__ aller benötigten Exponate und Materialien zum Messegelände.\n\nSollten Unklarheiten bestehen oder Unterstützung benötigt werden, __5__, ob die Aufgabenverteilung so für alle passt und welche Informationen eventuell noch fehlen.\n\nBitte gebt uns hierzu eine Rückmeldung __6__.\n\nVielen Dank für eure engagierte Mitarbeit!\n\nMit freundlichen Grüßen\n\n[Ihr Name / Projektleitung Name]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "wäre es jetzt wichtig",
+                "b": "ist es nun entscheidend",
+                "c": "haben wir die Absicht"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "haben die Aufgabe bekommen für",
+                "b": "müssen sich engagieren für",
+                "c": "sind dafür zuständig für"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die Abstimmung zu übernehmen",
+                "b": "die Diskussion zu führen",
+                "c": "eine Lösung zu finden"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "wegen des guten Transports",
+                "b": "über den sicheren Transport",
+                "c": "für den reibungslosen Transport"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "erwarten wir eine klare Antwort",
+                "b": "bitten wir um kurze Bestätigung",
+                "c": "fragen wir nach Ihrer Meinung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "am Ende dieser Woche",
+                "b": "innerhalb nächster Woche",
+                "c": "bis spätestens Ende dieser Woche"
+            },
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Änderung beim Bestellverfahren für Büromaterial",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nhiermit möchten wir Sie über eine wichtige Neuerung bezüglich der Bestellung von Büromaterial informieren. Um den Prozess zukünftig effizienter zu gestalten und die Kosten besser __1__ zu können, haben wir ein neues digitales Bestellverfahren entwickelt.\n\nDas neue Verfahren tritt ab dem 1. nächsten Monats __2__. Ab diesem Datum sind Bestellungen für Büromaterial ausschließlich __3__ das neue Online-Formular im Intranet einzureichen. Direkte Anfragen per E-Mail an die Verwaltung können dann leider nicht mehr bearbeitet werden.\n\nBitte beachten Sie, dass jede Bestellung weiterhin die vorherige __4__ Ihrer/Ihres direkten Vorgesetzten benötigt. Das entsprechende Feld ist im Online-Formular integriert.\n\nDas Formular selbst sowie eine detaillierte Schritt-für-Schritt-Anleitung finden Sie im Intranet __5__ „Interne Prozesse/Formulare“.\n\nWir bitten um Ihr Verständnis für diese Umstellung und hoffen auf eine möglichst reibungslose __6__ des neuen Systems.\n\nBei Fragen steht Ihnen das Office Management gerne zur Verfügung.\n\nMit freundlichen Grüßen\nIhr Office Management Team",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "verwalten",
+                "b": "steuern",
+                "c": "kontrollieren"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "in Kraft",
+                "b": "zur Geltung",
+                "c": "in Wirkung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "mittels",
+                "b": "durch",
+                "c": "über"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Erlaubnis",
+                "b": "Genehmigung",
+                "c": "Zustimmung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "an der Stelle",
+                "b": "im Bereich",
+                "c": "unter dem Punkt"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Anwendung",
+                "b": "Umsetzung",
+                "c": "Durchführung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

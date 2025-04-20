@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich der Software-Aktualisierung",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Nachricht. Wir beziehen uns auf __1__ vom 15. Mai bezüglich der Verzögerung bei der Bereitstellung des Software-Updates „Optimax 3.0\".\n\nWir __2__ die dadurch entstandenen Unannehmlichkeiten sehr und verstehen Ihre Verärgerung über die Nichteinhaltung des ursprünglich zugesagten Termins.\n\nDie Verzögerung ist __3__ zurückzuführen, die wir bei den abschließenden Kompatibilitätstests mit neueren Betriebssystemversionen festgestellt haben. Die notwendigen Anpassungen erfordern leider mehr Zeit als ursprünglich von uns kalkuliert.\n\nSeien Sie versichert, dass unser Entwicklungsteam __4__ an der Fertigstellung und Qualitätssicherung arbeitet, um Ihnen eine stabile und funktionierende Version zu liefern.\n\nWir gehen aktuell davon aus, Ihnen __5__ zu können, sobald die finalen Tests erfolgreich abgeschlossen sind. Wir werden Sie spätestens Ende dieser Woche proaktiv informieren.\n\nWir bitten nochmals um Entschuldigung für die Verzögerung. Sollten Sie in der Zwischenzeit __6__, stehen wir Ihnen selbstverständlich gerne telefonisch oder per E-Mail zur Verfügung.\n\nMit freundlichen Grüßen\nIhr Support-Team\nTechSolutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihren letzten Auftrag",
+                "b": "Ihre Beschwerde",
+                "c": "Ihr freundliches Angebot"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bezweifeln wir",
+                "b": "akzeptieren wir",
+                "c": "bedauern wir"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "auf unerwartete technische Schwierigkeiten",
+                "b": "trotz unserer sorgfältigen Planung",
+                "c": "wegen Ihrer unklaren Anforderungen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "hat die Arbeit eingestellt",
+                "b": "mit Hochdruck",
+                "c": "diskutiert neue Optionen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "einen neuen Termin nennen",
+                "b": "die Rechnung stornieren",
+                "c": "Ihnen einen Rabatt anbieten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "die Zahlung veranlassen",
+                "b": "keine Zeit mehr investieren",
+                "c": "weitere Fragen haben sollten"
+            },
+            "loesung": "c"
+        }
+    ]
+}

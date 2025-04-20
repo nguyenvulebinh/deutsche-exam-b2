@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Bestellung Nr. 745-B812 – Lieferverzug",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\n__1__ Ihre E-Mail vom 15. Mai möchten wir uns zunächst für die späte Rückmeldung entschuldigen. Wir bedauern sehr, dass die Lieferung Ihrer bestellten Ware (Bestellnr. 745-B812) sich unerwartet verzögert hat.\n\nDie Verzögerung ist __2__ kurzfristigen Engpässen bei unserem Logistikpartner entstanden, die leider auch Ihre Sendung betreffen. Wir arbeiten mit Hochdruck an einer Lösung.\n\nNach aktueller Information __3__ die Zustellung nun zwischen dem 22. und 24. Mai bei Ihnen erfolgen. Sie erhalten eine separate Versandbestätigung, sobald die Ware unterwegs ist.\n\n__4__ für die entstandenen Unannehmlichkeiten möchten wir Ihnen als Geste unseres Bedauerns einen Rabatt von 15% auf Ihre nächste Bestellung in unserem Online-Shop gewähren.\n\nDiesen Rabatt können Sie bei Ihrem nächsten Einkauf ganz einfach durch Eingabe des Codes KULANZ15 __5__. Der Code ist 6 Monate gültig.\n\nWir __6__ und hoffen trotz der aktuellen Schwierigkeiten auf Ihr Verständnis und Ihre weitere Treue als Kunde.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\nWebShop GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Im Hinblick auf",
+                "b": "Sprechend über",
+                "c": "Bezug nehmend auf"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "trotz einiger",
+                "b": "aufgrund von",
+                "c": "während einiger"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "könnte vielleicht",
+                "b": "soll voraussichtlich",
+                "c": "muss unbedingt"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Als Entschädigung",
+                "b": "Wegen der",
+                "c": "Anstelle der"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "zurückgeben können",
+                "b": "im Warenkorb einlösen",
+                "c": "in Rechnung stellen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "danken Ihnen für die Bestellung",
+                "b": "erwarten Ihre Bestätigung",
+                "c": "bitten nochmals um Entschuldigung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

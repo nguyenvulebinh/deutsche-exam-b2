@@ -1,0 +1,60 @@
+{
+    "title": "Bestätigung Ihres Termins am 15. März",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\n__1__ vom letzten Dienstag bestätige ich Ihnen gerne unseren Termin am 15. März um 10:00 Uhr in Ihrem Büro.\n\nWie vereinbart, werden wir die neue Marketingstrategie besprechen. Da wir kürzlich die Ergebnisse unserer Kundenumfrage erhalten haben, __2__, dass wir diese ebenfalls kurz thematisieren.\n\nIch __3__, da die Rückmeldungen direkten Einfluss auf die Feinabstimmung unserer Kampagne haben könnten.\n\nIch werde __4__ zur Umfrage mitbringen, damit wir konkrete Daten zur Hand haben.\n\nKönnten Sie mir bitte kurz mitteilen, __5__ für Sie so in Ordnung ist?\n\nIch __6__ und verbleibe bis dahin\n\nMit freundlichen Grüßen\nAnna Bauer",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "im Hinblick auf unser Telefonat",
+                "b": "bezugnehmend auf unser Telefonat",
+                "c": "als Ergebnis unseres Telefonats"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "informiere ich darüber",
+                "b": "bestimme ich hiermit",
+                "c": "schlage ich vor"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "finde das akzeptabel",
+                "b": "halte dies für sinnvoll",
+                "c": "sehe das als Chance"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "die relevanten Auswertungen",
+                "b": "einige interessante Notizen",
+                "c": "die gesamten Protokolle"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "warum diese Ergänzung",
+                "b": "wann diese Ergänzung",
+                "c": "ob diese Ergänzung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "bereite mich auf unser Gespräch vor",
+                "b": "freue mich auf unser Gespräch",
+                "c": "warte auf unser Gespräch"
+            },
+            "loesung": "b"
+        }
+    ]
+}

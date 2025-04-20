@@ -1,0 +1,60 @@
+{
+    "title": "Ankündigung: Verpflichtende IT-Sicherheitsschulung",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nangesichts der zunehmenden Cyber-Bedrohungen ist es für unser Unternehmen von __1__ Bedeutung, die Sicherheit unserer Daten und Systeme zu gewährleisten. Aus diesem Grund führen wir eine verpflichtende IT-Sicherheitsschulung für alle Mitarbeitenden ein.\n\nZiel dieser Schulung ist es, das Bewusstsein für aktuelle Risiken zu schärfen und Ihnen praktische __2__ zum Schutz vor Angriffen an die Hand zu geben.\n\nDie Schulung wird online durchgeführt und dauert ca. 90 Minuten. Sie muss __3__ dem 31. Juli von allen Mitarbeitenden absolviert werden. Den Link zur Schulungsplattform sowie detaillierte Informationen zur Anmeldung finden Sie in Kürze im Intranet.\n\nWir bitten Sie, sich zeitnah anzumelden und die Schulung ernst zu nehmen. Die Teilnahme ist obligatorisch und wird __4__ .\n\nBei technischen Problemen oder Fragen zum Inhalt __5__ Ihnen die IT-Abteilung gerne zur Verfügung.\n\nWir danken Ihnen __6__ für Ihre Kooperation und Ihr Engagement für die Sicherheit unseres Unternehmens.\n\nMit freundlichen Grüßen\nIhre Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "großer",
+                "b": "entscheidender",
+                "c": "erheblicher"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "nützliche Hinweise",
+                "b": "sichere Methoden",
+                "c": "Handlungsempfehlungen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "innerhalb von",
+                "b": "rechtzeitig vor",
+                "c": "bis spätestens"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "genau überprüft",
+                "b": "entsprechend dokumentiert",
+                "c": "pünktlich gemeldet"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "steht",
+                "b": "hilft",
+                "c": "unterstützt"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "schon heute",
+                "b": "zu diesem Zeitpunkt",
+                "c": "bereits im Voraus"
+            },
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Aktualisierung unserer Homeoffice-Regelung",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nwir möchten Sie heute über eine Anpassung unserer Richtlinie zum mobilen Arbeiten (Homeoffice) informieren, die ab dem 1. des kommenden Monats in Kraft tritt. Ziel ist es, eine faire und einheitliche Regelung für alle zu schaffen, die sowohl Flexibilität ermöglicht als auch die wichtige Zusammenarbeit im Team sicherstellt.\n\nKünftig können Mitarbeitende nach Genehmigung __1__ zwei Tage pro Woche im Homeoffice arbeiten. Die konkrete Verteilung der Tage __2__ mit dem jeweiligen Team und der Führungskraft, um sicherzustellen, dass die Teamziele erreicht und Präsenzzeiten koordiniert werden.\n\nBitte beachten Sie, dass auch im Homeoffice alle geltenden Datenschutz- und IT-Sicherheits-__3__ einzuhalten sind. Die technischen Voraussetzungen müssen gewährleistet sein.\n\nDie gewünschten Homeoffice-Tage __4__ jeweils bis spätestens zum 20. des Vormonats über das neue Online-Tool „FlexWork“.\n\nEine detaillierte Beschreibung der neuen Regelung sowie Antworten auf häufig gestellte Fragen (FAQ) __5__ ab sofort im Intranet unter „Personal/Richtlinien“. Bei weiteren Fragen steht Ihnen die Personalabteilung gerne zur Verfügung.\n\n__6__ Ihr Verständnis und Ihre Kooperation bei der Umsetzung dieser neuen Regelung.\n\nMit freundlichen Grüßen\n\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "maximal",
+                "b": "ungefähr",
+                "c": "bis zu"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bedarf der Abstimmung",
+                "b": "setzt die Absprache voraus",
+                "c": "ist abhängig von"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Vorgaben",
+                "b": "Empfehlungen",
+                "c": "Bestimmungen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "anzumelden sind",
+                "b": "beantragt werden müssen",
+                "c": "eingereicht werden sollen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "können Sie entnehmen",
+                "b": "stehen Ihnen bereit",
+                "c": "finden Sie"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Wir hoffen auf",
+                "b": "Wir bitten um",
+                "c": "Wir zählen auf"
+            },
+            "loesung": "b"
+        }
+    ]
+}

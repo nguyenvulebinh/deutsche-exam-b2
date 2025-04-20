@@ -1,0 +1,60 @@
+{
+    "title": "Nachbesprechung unseres Termins vom [Datum einfügen] – Projektkooperation IT-Lösungen",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für das konstruktive und informative Gespräch gestern in Ihren Büroräumen. __1__ unser Treffen möchten wir die wichtigsten Punkte noch einmal kurz zusammenfassen und die nächsten Schritte bestätigen.\n\nWir waren uns einig, dass eine Zusammenarbeit im Bereich maßgeschneiderter IT-Lösungen für beide Seiten __2__ sein könnte. __3__ die Möglichkeit, durch die Bündelung unserer Kompetenzen Synergieeffekte zu erzielen und unsere Marktposition zu stärken.\n\nWie besprochen, benötigen wir für die Erstellung eines konkreten Angebots noch einige Detailinformationen zu Ihren aktuellen Systemen. Wir bitten Sie daher __4__ der entsprechenden technischen Dokumentationen. Es wäre ideal, wenn uns diese Unterlagen __5__ vorliegen könnten, damit wir unseren Zeitplan einhalten können.\n\nWir sind sehr zuversichtlich bezüglich einer erfolgreichen Partnerschaft und __6__ .\n\nMit freundlichen Grüßen\n\nMax Mustermann\nProjektleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Im Anschluss an",
+                "b": "Gedacht an",
+                "c": "Wegen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "von großem Wert",
+                "b": "eine hohe Priorität",
+                "c": "von beiderseitigem Nutzen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Besonders betont wurde",
+                "b": "Außerdem sprachen wir",
+                "c": "Zweifellos ist auch"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "über die Zusendung",
+                "b": "um die Zusendung",
+                "c": "an die Zusendung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "innerhalb nächster Woche",
+                "b": "am Ende nächster Woche",
+                "c": "bis spätestens Ende nächster Woche"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "warten wir auf Ihre baldige Antwort",
+                "b": "sehen Ihrer baldigen Rückmeldung entgegen",
+                "c": "hoffen wir auf Ihre baldige Bestätigung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

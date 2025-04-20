@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Nachricht vom 15.05. - Bestellung Nr. 7431-B",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für __1__ vom 15. Mai bezüglich Ihrer Bestellung Nr. 7431-B. \n\nWir bedauern sehr, dass bei der Zusammenstellung Ihrer Lieferung offensichtlich __2__. Wir haben den Vorfall intern bereits geprüft und möchten uns aufrichtig für die fehlenden Artikel entschuldigen.\n\nSelbstverständlich werden wir Ihnen die fehlenden Positionen (2x Artikel \"Profi-Schere P-200\") __3__. \nAls kleine Entschuldigung für die Umstände möchten wir Ihnen außerdem für diese Lieferung __4__.\n\nDie Nachlieferung sollte erfahrungsgemäß __5__. Sie erhalten eine separate Versandbestätigung, sobald die Ware unser Lager verlässt.\n\nWir bitten Sie nochmals um Entschuldigung für __6__ und hoffen auf Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice Team\nWeber Büromaterial GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihre Bestellung",
+                "b": "Ihre Nachricht",
+                "c": "Ihre Rechnung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die Lieferung verspätet war",
+                "b": "Sie unzufrieden waren",
+                "c": "ein Fehler unterlaufen ist"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "erneut in Rechnung stellen",
+                "b": "umgehend nachliefern",
+                "c": "zur Abholung bereitlegen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "einen Preisnachlass gewähren",
+                "b": "die Ware zurücknehmen",
+                "c": "einen Gutschein anbieten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "schon bezahlt worden ist",
+                "b": "ab sofort verfügbar sein",
+                "c": "in Kürze bei Ihnen eintreffen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "die entstandenen Unannehmlichkeiten",
+                "b": "Ihre Kooperation",
+                "c": "die lange Wartezeit"
+            },
+            "loesung": "a"
+        }
+    ]
+}

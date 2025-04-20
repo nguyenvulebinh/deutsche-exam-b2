@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage bezüglich Fortbildung",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\nvielen Dank für Ihre E-Mail und __1__ für die Fortbildung „Effektives Projektmanagement“.\n\nWir __2__ das Engagement unserer Mitarbeiter für ihre berufliche Weiterentwicklung sehr. Bevor wir jedoch eine Zusage geben können, müssen einige Punkte geklärt werden.\n\n__3__ müssen wir die Übernahme der Kursgebühren prüfen. Des Weiteren ist __4__ mit Ihrer Abteilung wichtig, um sicherzustellen, dass Ihre Abwesenheit betrieblich möglich ist.\n\nDamit wir dies prüfen können, bitten wir Sie __5__ der detaillierten Kursbeschreibung inklusive einer genauen Kostenaufstellung.\n\nSobald uns alle Informationen vorliegen und die internen Abstimmungen erfolgt sind, werden wir Ihnen __6__ zukommen lassen.\n\nMit freundlichen Grüßen\n\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihren Vorschlag für",
+                "b": "Ihr Interesse an",
+                "c": "Ihre Anfrage zu"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "erlauben prinzipiell",
+                "b": "akzeptieren natürlich",
+                "c": "befürworten grundsätzlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Zunächst einmal",
+                "b": "Allerdings",
+                "c": "Außerdem"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "die betriebliche Planung",
+                "b": "die terminliche Abstimmung",
+                "c": "der genaue Zeitplan"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "um die Zusendung",
+                "b": "um die Einreichung",
+                "c": "um die Weiterleitung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "einen positiven Bescheid",
+                "b": "eine schnelle Rückmeldung",
+                "c": "eine endgültige Entscheidung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

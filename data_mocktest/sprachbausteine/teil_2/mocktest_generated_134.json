@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Bestellung Nr. 745-B",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\n__1__ Ihre Nachricht vom 15. März bezüglich Ihrer Bestellung Nr. 745-B (Büromöbel-Set 'ErgoPlus') erhalten und danken Ihnen für Ihre Kontaktaufnahme.\n\nWir verstehen Ihre Verärgerung und __2__ außerordentlich leid, dass die Lieferung nicht wie ursprünglich zugesagt am 14. März erfolgt ist. Bitte entschuldigen Sie die entstandenen Unannehmlichkeiten.\n\n__3__ kurzfristiger Engpässe bei unserem Transportdienstleister kam es leider zu einer unerwarteten Umlagerung mehrerer Lieferungen, wovon auch Ihre Sendung betroffen war. Den genauen Status Ihrer Ware __4__ und können Ihnen nun bestätigen, dass sie unser Lager gestern verlassen hat.\n\nNach aktuellem Stand __5__ die Zustellung nun spätestens bis übermorgen, den 19. März, erfolgen. Sie erhalten eine separate Benachrichtigung, sobald die Ware auf dem Weg zu Ihnen ist.\n\n__6__ die entstandenen Umstände möchten wir Ihnen bei Ihrer nächsten Bestellung einen Rabatt von 10% anbieten. Wir hoffen auf Ihr Verständnis und würden uns freuen, Sie auch weiterhin zu unseren Kunden zählen zu dürfen.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\nKundenservice B2B Supplies GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "haben wir abschließend",
+                "b": "haben wir soeben",
+                "c": "vermissen wir leider"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "finden wir dies",
+                "b": "ist uns bekannt",
+                "c": "tut uns dies"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Trotz",
+                "b": "Anstelle von",
+                "c": "Aufgrund von"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "haben wir umgehend recherchiert",
+                "b": "müssen wir nochmals bestellen",
+                "c": "werden wir bald ignorieren"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "dürfte unter Umständen",
+                "b": "sollte nach Plan",
+                "c": "könnte eventuell nicht"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Unabhängig von",
+                "b": "Als kleine Wiedergutmachung für",
+                "c": "Als zusätzliche Belastung für"
+            },
+            "loesung": "b"
+        }
+    ]
+}

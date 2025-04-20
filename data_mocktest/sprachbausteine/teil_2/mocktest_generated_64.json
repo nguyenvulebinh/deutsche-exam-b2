@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage: Softwarepaket 'WorkflowMaster'",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Anfrage vom [Datum einfügen, z.B. 15. Mai] und das damit __1__ an unserem Softwarepaket 'WorkflowMaster'.\n\nGerne gehen wir auf __2__ ein: Das Paket umfasst eine Netzwerklizenz für bis zu 50 Nutzer und beinhaltet Module für Projektmanagement, Zeiterfassung und Ressourcenplanung. Eine detaillierte Funktionsübersicht finden Sie im Anhang.\n\nWir freuen uns, Ihnen mitteilen zu können, dass die von Ihnen angefragte Lizenzanzahl __3__ ist und wir eine Lieferung innerhalb von 48 Stunden nach Bestellung gewährleisten können.\n\n__4__ von 50 Lizenzen können wir Ihnen einen Sonderpreis von 180 € pro Lizenz statt des regulären Preises von 220 € anbieten. Dieses Angebot ist bis zum [Datum einfügen, z.B. 15. Juni] gültig.\n\nWenn Sie dies wünschen, können wir Ihnen zeitnah __5__, das alle Kostenpunkte transparent auflistet.\n\nSollten Sie in der Zwischenzeit weitere Auskünfte benötigen, stehen wir Ihnen __6__.\n\nMit freundlichen Grüßen\n\nIhr Team der TechSolutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "erhaltene Mitteilung",
+                "b": "gezeigtes Interesse",
+                "c": "genanntes Bedürfnis"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Ihre wichtigen Themen",
+                "b": "Ihre allgemeinen Punkte",
+                "c": "Ihre konkreten Fragen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "derzeit verfügbar",
+                "b": "grundsätzlich bestellbar",
+                "c": "kürzlich angekommen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Anstelle einer Einzelbestellung",
+                "b": "Aufgrund der größeren Abnahmemenge",
+                "c": "Trotz der vielen Produkte"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "eine kurze Nachricht schreiben",
+                "b": "einen Vertrag vorschlagen",
+                "c": "ein detailliertes Angebot unterbreiten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "gerne zur Verfügung",
+                "b": "offen für weitere Schritte",
+                "c": "bereit für die Antwort"
+            },
+            "loesung": "a"
+        }
+    ]
+}

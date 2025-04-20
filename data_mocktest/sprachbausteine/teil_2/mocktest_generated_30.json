@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage: Softwarelösung 'ProfiPlan V3.0'",
+    "textinhalt": "Sehr geehrte Frau Neumann,\n\n__1__ vom 15. März und Ihr darin geäußertes Interesse an unserer Softwarelösung 'ProfiPlan V3.0'.\n\nGerne bestätigen wir Ihnen, dass diese Software grundsätzlich für den Einsatz in Ihrem Branchenumfeld konzipiert wurde. Zu Ihrer Frage bezüglich der Kompatibilität mit Ihrem bestehenden CRM-System 'KundenMeister': Unsere Entwicklungsabteilung hat geprüft, dass sich ProfiPlan V3.0 über die Standardschnittstelle __2__.\n\nSie fragten auch nach Einarbeitungshilfen für Ihre Mitarbeiter. Hierfür __3__ maßgeschneiderte Online-Workshops oder Vor-Ort-Seminare an, je nach Ihrem Bedarf.\n\nDie Softwarelizenz für die von Ihnen angefragte Nutzerzahl __4__ und könnte innerhalb von 48 Stunden nach Bestellung digital bereitgestellt werden.\n\nDamit Sie eine genaue Übersicht über Kosten, Lizenzmodelle und Serviceoptionen erhalten, __5__ ein detailliertes, unverbindliches Angebot zu.\n\nFür Rückfragen oder eine individuelle Beratung __6__ jederzeit gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMarkus Schreiber\nVertriebsleitung TechSolutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "bezüglich Ihrer Nachricht",
+                "b": "bestätigen wir Ihre Mail",
+                "c": "vielen Dank für Ihre E-Mail"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "problemlos integrieren lässt",
+                "b": "damit verbunden werden kann",
+                "c": "daneben funktionieren sollte"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "machen wir üblicherweise",
+                "b": "bieten wir optional",
+                "c": "geben wir gerne"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "ist gerade im Bestand",
+                "b": "wird bald verfügbar",
+                "c": "ist kurzfristig lieferbar"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "erstellen wir Ihnen gerne",
+                "b": "geben wir Ihnen hiermit",
+                "c": "bestätigen wir Ihnen schriftlich"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "warten wir auf Ihre Fragen",
+                "b": "stehen wir Ihnen",
+                "c": "melden wir uns bei Ihnen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

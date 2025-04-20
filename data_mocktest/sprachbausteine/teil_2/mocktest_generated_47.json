@@ -1,0 +1,60 @@
+{
+    "title": "Nachbesprechung Telefongespräch Website-Neugestaltung",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für das informative Telefongespräch von heute Vormittag bezüglich der Neugestaltung Ihrer Firmenwebseite.\n\nUm sicherzustellen, dass ich alles korrekt verstanden habe, möchte ich __1__ kurz schriftlich festhalten. Sie wünschen sich eine moderne, responsive Webseite mit integriertem Kontaktformular und einem News-Bereich, der von Ihnen einfach gepflegt werden kann.\n\nWir sprachen auch über __2__ und den geplanten Zeitrahmen für die Umsetzung. Diese Vorgaben sind für uns realistisch umsetzbar.\n\nWie besprochen, werde ich Ihnen bis spätestens Freitag dieser Woche ein detailliertes __3__. Dieses Dokument wird eine genaue Aufschlüsselung der einzelnen Arbeitsschritte und der damit verbundenen Investition enthalten.\n\nDas Angebot wird alle __4__ sowie die technischen Spezifikationen detailliert auflisten, sodass Sie eine klare Entscheidungsgrundlage haben.\n\nBitte prüfen Sie das Angebot nach Erhalt sorgfältig. Sollten Sie __5__ bereits Fragen haben oder weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf eine __6__ und verbleibe\n\nMit freundlichen Grüßen\n\nMax Mustermann\nWebdesign Solutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "unsere Vereinbarung festzuhalten",
+                "b": "die wichtigsten Punkte zusammenzufassen",
+                "c": "die hauptsächlichen Ziele zu nennen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die ungefähren Kosten",
+                "b": "Ihren finanziellen Vorschlag",
+                "c": "das vereinbarte Budget"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Angebot bestimmen",
+                "b": "Angebot zukommen lassen",
+                "c": "Angebot präsentieren"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "möglichen Optionen",
+                "b": "besprochenen Leistungen",
+                "c": "notwendigen Schritte"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "in der Zwischenzeit",
+                "b": "bei dieser Gelegenheit",
+                "c": "im weiteren Verlauf"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "schnelle Auftragsbestätigung",
+                "b": "gute Kooperation",
+                "c": "erfolgreiche Zusammenarbeit"
+            },
+            "loesung": "c"
+        }
+    ]
+}

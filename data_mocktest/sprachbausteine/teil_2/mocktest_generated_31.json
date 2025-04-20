@@ -1,0 +1,60 @@
+{
+    "title": "Nachfassung unseres Gesprächs und Angebot",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\n__1__ vom 18. Oktober möchten wir uns nochmals herzlich für das konstruktive Gespräch bedanken. Es war sehr hilfreich, __2__ für die Ausstattung Ihrer neuen Büroräume detailliert zu besprechen.\n\nWie vereinbart, __3__ wir Ihnen anbei das detaillierte Angebot mit den verschiedenen Optionen und der dazugehörigen Preisliste. Die genannten Preise verstehen sich zuzüglich der gesetzlichen Mehrwertsteuer.\n\nWir möchten darauf hinweisen, dass die Kosten für Lieferung und Montage innerhalb Berlins __4__. Für Standorte außerhalb Berlins erstellen wir Ihnen gerne ein separates Angebot für die Logistik.\n\n__5__, zögern Sie bitte nicht, uns zu kontaktieren. Wir stehen Ihnen jederzeit für Rückfragen oder Anpassungen zur Verfügung.\n\nWir würden uns freuen, Sie als neuen Kunden begrüßen zu dürfen und sehen __6__.\n\nMit freundlichen Grüßen\n\n Klaus Richter\n Vertriebsinnendienst",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Anlässlich unseres Treffens",
+                "b": "Bezugnehmend auf unser Gespräch",
+                "c": "Im Anschluss an Ihre Anfrage"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Ihre spezifischen Anforderungen",
+                "b": "Ihre ungefähren Vorstellungen",
+                "c": "die allgemeinen Bedingungen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "legen wir Ihnen vor",
+                "b": "erteilen wir Ihnen",
+                "c": "senden wir Ihnen anbei"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "werden individuell vereinbart",
+                "b": "sind bereits im Preis enthalten",
+                "c": "müssen zusätzlich bezahlt werden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Sobald Sie sich entschieden haben",
+                "b": "Falls Sie weitere Fragen haben",
+                "c": "Obwohl das Angebot klar ist"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihrer baldigen Entscheidung entgegen",
+                "b": "einer erfolgreichen Zusammenarbeit entgegen",
+                "c": "einem positiven Bescheid entgegen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

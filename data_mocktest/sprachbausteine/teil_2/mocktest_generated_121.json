@@ -1,0 +1,60 @@
+{
+    "title": "Neues Verfahren zur Bestellung von Büromaterial",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nhiermit möchten wir Sie über eine Neuerung __1__ Verfahren zur Bestellung von Büromaterial informieren, die ab dem kommenden Montag gilt.\n\nZiel dieser Umstellung ist es, den Bestellvorgang für alle Abteilungen zu __2__ und die Verwaltung der Bestände effizienter zu gestalten.\n\nBestellungen sind daher ab dem genannten Datum __3__ über das neue Online-Formular im Intranet möglich. Andere Bestellwege (z.B. per E-Mail oder Telefon) können dann leider nicht mehr berücksichtigt werden.\n\nDas Formular ist __4__ im Intranet unter 'Verwaltung > Formulare > Büromaterialbestellung' zu finden. Bitte füllen Sie es vollständig aus.\n\nSollten Sie technische Probleme oder inhaltliche Fragen zum Ausfüllen des Formulars haben, __5__ Ihnen Frau Schneider aus der Verwaltung (Durchwahl -123) gerne zur Verfügung.\n\nWir bitten um Ihr Verständnis für diese notwendige Änderung und __6__ auf Ihre Kooperation bei der Umstellung.\n\nMit freundlichen Grüßen\nIhre Verwaltung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "im",
+                "b": "des",
+                "c": "beim"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "verbessern",
+                "b": "optimieren",
+                "c": "vereinfachen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "hauptsächlich",
+                "b": "besonders",
+                "c": "ausschließlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "ab sofort",
+                "b": "wie üblich",
+                "c": "bei Bedarf"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "hilft",
+                "b": "steht",
+                "c": "wartet"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "hoffen",
+                "b": "zählen",
+                "c": "bitten"
+            },
+            "loesung": "b"
+        }
+    ]
+}

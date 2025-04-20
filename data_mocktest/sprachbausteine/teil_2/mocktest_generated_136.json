@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Reklamation vom 15.05.XXXX - Bestellnummer 74-B812",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ 15. Mai d.J. bestätigen wir Ihnen hiermit den Eingang und danken Ihnen für den Hinweis bezüglich der Lieferung der Bürostühle (Modell 'ErgoFlex').\n\nWir bedauern außerordentlich, dass Sie statt der bestellten Stühle in Blau das Modell in Anthrazit erhalten haben und bitten Sie aufrichtig, __2__ zu entschuldigen. Dies entspricht selbstverständlich nicht unserem Qualitätsanspruch.\n\nDie Falschlieferung erfolgte __3__ in unserer Versandabteilung, die wir bereits intern klären konnten. Selbstverständlich möchten wir diesen Fehler schnellstmöglich korrigieren.\n\nWir möchten __4__ und Ihnen die korrekten Stühle in Blau umgehend zukommen zu lassen. Unser Kundenservice wird sich mit Ihnen in Verbindung setzen, um einen passenden Liefertermin zu vereinbaren.\n\nGleichzeitig werden wir bei der Anlieferung der korrekten Ware auch __5__, sodass Ihnen keine weiteren Mühen entstehen.\n\nWir hoffen auf Ihr Verständnis und __6__.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\nLeitung Kundenservice",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Antwortend auf Ihren Brief über den",
+                "b": "Bezugnehmend auf Ihre Nachricht vom",
+                "c": "Wegen Ihrer letzten Information am"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Ihre schwierige Situation damit",
+                "b": "den gemachten Fehler unsererseits",
+                "c": "die entstandenen Unannehmlichkeiten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "während der normalen Lieferung",
+                "b": "aufgrund einer internen Verwechslung",
+                "c": "trotz unserer genauen Kontrolle"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Ihnen einen Austausch anzubieten",
+                "b": "mit Ihnen Ersatz zu verhandeln",
+                "c": "für Sie eine Lösung zu geben"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "den Transport der Möbel zu leisten",
+                "b": "die Rückgabe der Stühle zu verlangen",
+                "c": "die Abholung der fehlerhaften Ware zu organisieren"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "über Ihre baldige Nachsicht",
+                "b": "auf eine weiterhin gute Zusammenarbeit",
+                "c": "an einer schnellen Korrektur"
+            },
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Verpflichtende Datenschutz-Schulung für alle Mitarbeitenden",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nhiermit möchten wir Sie über eine wichtige und __1__ Schulungsmaßnahme informieren. Angesichts der hohen Bedeutung des Datenschutzes in unserem Unternehmen ist eine Auffrischung der Kenntnisse für alle Mitarbeitenden notwendig.\n\nDie Online-Schulung zum Thema Datenschutz __2__ Ihnen ab sofort auf unserer internen Lernplattform zur Verfügung. Sie sollte bis spätestens zum 30.09.2024 abgeschlossen werden. Die Bearbeitungsdauer beträgt ca. 60 Minuten.\n\nIn der Schulung werden zentrale Themen wie der korrekte Umgang mit personenbezogenen Daten und die rechtlichen Grundlagen der DSGVO __3__. Ziel ist es, das Bewusstsein für datenschutzrechtliche Risiken zu schärfen.\n\n__4__ über den erfolgreichen Abschluss der Schulung wird automatisch in Ihrer Personalakte vermerkt. __5__ bitten wir Sie dringend, die Schulung innerhalb der genannten Frist zu absolvieren.\n\nBei technischen Problemen oder inhaltlichen Fragen steht Ihnen die IT-Abteilung bzw. unser Datenschutzbeauftragter, Herr Schmidt, gerne __6__.\n\nVielen Dank für Ihre Kooperation.\n\nMit freundlichen Grüßen\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "freiwillige",
+                "b": "verpflichtende",
+                "c": "regelmäßige"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "findet statt",
+                "b": "angeboten wird",
+                "c": "steht"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "behandelt",
+                "b": "kontrolliert",
+                "c": "erklärt"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Die Anmeldung",
+                "b": "Die Teilnahme",
+                "c": "Der Nachweis"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Außerdem",
+                "b": "Daher",
+                "c": "Obwohl"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "zur Verfügung",
+                "b": "zur Hilfe",
+                "c": "zum Dienst"
+            },
+            "loesung": "a"
+        }
+    ]
+}

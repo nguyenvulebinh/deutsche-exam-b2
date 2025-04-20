@@ -1,0 +1,60 @@
+{
+    "title": "Lieferverzögerung Ihrer Bestellung Nr. 4812-B",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für Ihre E-Mail vom 15. Mai. Wir beziehen uns __1__ vom 10. Mai und der damit verbundenen Lieferverzögerung.\n\nZunächst möchten wir unser aufrichtiges Bedauern für __2__ ausdrücken. Wir verstehen, dass Sie die bestellten Büromöbel dringend benötigen.\n\nDie Verzögerung entstand __3__ in unserer Logistikabteilung, die durch eine kurzfristig erhöhte Nachfrage ausgelöst wurden. Ihre Bestellung ist nun jedoch vollständig kommissioniert und versandbereit.\n\nNach aktuellem Stand __4__, dass die Zustellung nunmehr am kommenden Freitag, den 24. Mai, zwischen 10:00 und 14:00 Uhr erfolgen wird. Sie werden vom Spediteur nochmals avisiert.\n\nAls kleine Entschädigung für die Wartezeit möchten wir Ihnen für Ihre nächste Bestellung __5__. Bitte geben Sie bei Ihrer nächsten Order einfach den Code „ENT24“ an.\n\nWir entschuldigen uns nochmals für die Verzögerung und __6__. Wir sind überzeugt, dass Sie mit der Qualität der Möbel zufrieden sein werden.\n\nMit freundlichen Grüßen\n\nIhr Team von OfficeSolutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "anlässlich Ihres Problems",
+                "b": "bezüglich Ihrer Beschwerde",
+                "c": "über Ihre Mitteilung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die späte Lieferung",
+                "b": "Ihren verständlichen Ärger",
+                "c": "die entstandenen Unannehmlichkeiten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "trotz einiger Schwierigkeiten",
+                "b": "infolge unvorhergesehener Probleme",
+                "c": "während der Produktionsphase"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "gehen wir davon aus",
+                "b": "versprechen wir Ihnen",
+                "c": "haben wir berechnet"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "die Rechnung korrigieren",
+                "b": "einen Preisnachlass anbieten",
+                "c": "Ihnen Geld zurückgeben"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "hoffen auf Ihr Verständnis",
+                "b": "erwarten Ihre Bestätigung",
+                "c": "sehen weiteren Aufträgen entgegen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Zusammenfassung Projektmeeting 'AlphaLaunch' vom 18.07.",
+    "textinhalt": "Sehr geehrte Kolleginnen und Kollegen,\n\n__1__ unser gestriges Projektmeeting 'AlphaLaunch' möchte ich Ihnen allen nochmals für Ihre konstruktive Teilnahme danken. Wir konnten wichtige Punkte klären.\n\nWie besprochen, __2__, dass der überarbeitete Zeitplan für die Marketingkampagne wie vorgelegt gültig ist. Ebenso halten wir fest, dass das Budget für die externen Dienstleister im vereinbarten Rahmen bleibt.\n\n__3__ der noch benötigten Kontaktdaten des neuen Grafikdesigners __4__ uns diese Informationen aktuell noch nicht vollständig. Wir benötigen diese Angaben dringend, __5__ die nächsten Briefings termingerecht vorbereiten zu können.\n\nDaher __6__ die entsprechenden Kontaktdaten (Name, E-Mail, Telefonnummer) bis spätestens Ende dieser Woche, idealerweise per E-Mail an alle Projektbeteiligten.\n\nVielen Dank im Voraus für Ihre zeitnahe Unterstützung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Projektleitung]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Anlässlich von",
+                "b": "Bezugnehmend auf",
+                "c": "Wegen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "wurde vereinbart",
+                "b": "haben wir geredet",
+                "c": "ist vorgeschlagen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Deswegen",
+                "b": "Außer",
+                "c": "Hinsichtlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "vermissen wir",
+                "b": "fehlen bei",
+                "c": "stehen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "damit vorbereiten",
+                "b": "um",
+                "c": "weil"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "fordern wir an",
+                "b": "bitten wir um Übermittlung für",
+                "c": "erwarten wir für"
+            },
+            "loesung": "b"
+        }
+    ]
+}

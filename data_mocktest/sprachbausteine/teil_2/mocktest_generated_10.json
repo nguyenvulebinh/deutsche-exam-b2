@@ -1,0 +1,60 @@
+{
+    "title": "Einführung eines neuen digitalen Urlaubsantragssystems",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\n__1__ über die Einführung unseres neuen digitalen Systems zur Beantragung von Urlaub und zur Erfassung von Abwesenheiten, das „TimeFlow“ heißen wird.\n\nDas bisherige System auf Papierbasis ist nicht mehr zeitgemäß und oft mit Verzögerungen verbunden. Ziel der Umstellung ist es, __2__ und die Transparenz für alle Beteiligten zu erhöhen. Mit TimeFlow können Anträge schneller bearbeitet und der aktuelle Urlaubsstand jederzeit eingesehen werden.\n\nDas neue System __3__ offiziell __3__. Ab diesem Zeitpunkt können Urlaubsanträge nur noch über TimeFlow eingereicht werden; die alten Papierformulare verlieren ihre Gültigkeit.\n\nUm sicherzustellen, dass alle Mitarbeitenden mit dem neuen Tool vertraut sind, werden kurze Online-Schulungen angeboten. Da die korrekte Nutzung für die Personalabrechnung wichtig ist, __4__ für alle Angestellten. Sie erhalten separate Einladungen mit den Terminen.\n\nBei Fragen zur Bedienung oder bei technischen Problemen __5__ gerne __5__. Eine detaillierte Anleitung finden Sie zudem in Kürze im Intranet.\n\nWir sind überzeugt, dass diese Modernisierung eine Erleichterung für uns alle darstellen wird und __6__ bei der Umstellung.\n\nMit freundlichen Grüßen\n\nDie Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "damit schreiben wir Ihnen",
+                "b": "hiermit informieren wir Sie",
+                "c": "deswegen fragen wir Sie"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "obwohl die Urlaubsplanung wichtig ist",
+                "b": "um die internen Abläufe zu optimieren",
+                "c": "damit mehr Papier verbraucht wird"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "ist seit dem 1. August gültig",
+                "b": "beginnt vor dem 1. August",
+                "c": "tritt zum 1. August in Kraft"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "bleibt die Schulung nebenbei",
+                "b": "ist die Teilnahme daher verpflichtend",
+                "c": "wird die Nutzung empfohlen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "bietet Ihnen die Personalabteilung Rat",
+                "b": "wartet auf Sie die Personalabteilung",
+                "c": "steht Ihnen die Personalabteilung zur Verfügung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "zählen wir auf Ihre aktive Mitarbeit",
+                "b": "vermeiden wir Ihre große Mühe",
+                "c": "fordern wir Ihre ständige Kontrolle"
+            },
+            "loesung": "a"
+        }
+    ]
+}

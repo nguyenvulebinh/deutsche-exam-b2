@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage: Interne Weiterbildung Projektmanagement",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\nvielen Dank für __1__ dem internen Seminar „Projektmanagement für Einsteiger“ am 15./16. November.\n\nWir freuen uns, Ihnen mitteilen zu können, dass noch Plätze verfügbar sind. In diesem zweitägigen Seminar werden __2__ vermittelt, von der Projektplanung über die Teamkoordination bis hin zum Risikomanagement. Ziel ist es, Ihnen praktische Werkzeuge für Ihre tägliche Arbeit an die Hand zu geben.\n\nBitte beachten Sie, dass die Teilnehmenden __3__ sollten, wie z.B. erste Erfahrungen in teamübergreifender Arbeit. Eine kurze Bestätigung Ihres Abteilungsleiters ist ebenfalls erforderlich.\n\nFür Mitarbeiterinnen und Mitarbeiter unserer Firma __4__ vollständig vom Unternehmen. Der Anmeldeschluss ist der 31. Oktober. Die Anmeldung erfolgt über das interne Buchungsportal.\n\n__5__, steht Ihnen Frau Bauer aus unserer Abteilung (Durchwahl -123) gerne zur Verfügung. Im Anhang finden Sie zudem das detaillierte Programm.\n\n__6__, Sie bald als Teilnehmer begrüßen zu dürfen.\n\nMit freundlichen Grüßen\nLena Schneider\nPersonalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihre Meinung zu",
+                "b": "Ihr Interesse an",
+                "c": "Ihre Frage über"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die allgemeinen Themen",
+                "b": "die wichtigen Regeln",
+                "c": "die wesentlichen Inhalte"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "bestimmte Voraussetzungen erfüllen",
+                "b": "klare Anforderungen haben",
+                "c": "einige Bedingungen stellen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "die Ausgaben enthalten sein",
+                "b": "die Kosten übernommen werden",
+                "c": "die Gebühren bezahlt sind"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Wenn Sie mehr Fragen brauchen",
+                "b": "Falls Sie noch etwas wissen",
+                "c": "Sollten Sie weitere Fragen haben"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Wir würden uns freuen",
+                "b": "Wir müssen darauf bestehen",
+                "c": "Wir könnten uns vorstellen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

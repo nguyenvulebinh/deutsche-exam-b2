@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Projekt P-1703 – Verzögerung Software-Implementierung",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nwir __1__ auf Ihre E-Mail vom 15. Mai bezüglich der Verzögerung bei der Implementierung unserer CRM-Software in Ihrem Unternehmen.\n\nZunächst möchten wir __2__ für die entstandenen Unannehmlichkeiten und die Planungsunsicherheit ausdrücken. Wir verstehen Ihre Verärgerung.\n\nDie Verzögerung ist __3__ aufgetreten, die bei der Migration Ihrer Altdatenbank leider erst spät erkannt wurden. Unser Entwicklungsteam arbeitet bereits intensiv daran, diese Probleme __4__.\n\nNach aktueller Einschätzung gehen wir nun davon aus, die vollständige Implementierung bis spätestens zum 30. Juni __5__.\n\n__6__ möchten wir Ihnen für den Monat Juli einen Rabatt von 15% auf die vereinbarten Lizenzgebühren anbieten.\n\nWir halten Sie über die weiteren Fortschritte proaktiv informiert und hoffen weiterhin auf eine gute Zusammenarbeit.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\nSoftware Solutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "antworten direkt",
+                "b": "bestätigen hiermit",
+                "c": "nehmen Bezug"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "unser Bedauern",
+                "b": "Ihren Ärger",
+                "c": "unsere Entschuldigung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "während interner Besprechungen",
+                "b": "trotz unserer Bemühungen",
+                "c": "aufgrund unerwarteter technischer Schwierigkeiten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "dringend zu analysieren",
+                "b": "zeitnah zu beheben",
+                "c": "bald zu umgehen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "abbrechen zu müssen",
+                "b": "abschließen zu können",
+                "c": "neu zu starten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Wegen der Mehrkosten",
+                "b": "Als Zeichen unseres Bedauerns",
+                "c": "Für Ihre weitere Planung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

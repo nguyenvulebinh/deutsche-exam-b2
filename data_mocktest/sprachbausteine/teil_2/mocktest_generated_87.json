@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage zum Lieferstatus Ihrer Bestellung Nr. 4711-B",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nhiermit beziehen wir uns auf unsere Bestellung Nr. 4711-B vom 15. Mai über 50 Einheiten des Artikels 'Sensor Typ XT-5'.\n\n__1__ vom 16. Mai sollte die Lieferung bis spätestens gestern, den 28. Mai, bei uns eintreffen. Wir mussten jedoch feststellen, dass die Ware __2__.\n\nDies stellt für uns ein erhebliches Problem dar, da die Sensoren __3__ für unsere laufende Produktion. Ein weiterer Verzug könnte unsere Produktionsziele gefährden.\n\nWir bitten Sie daher __4__ über den aktuellen Status unserer Bestellung und die Gründe für die Verzögerung. Können Sie uns bitte mitteilen, wo sich die Lieferung momentan befindet?\n\nZudem benötigen wir schnellstmöglich __5__, auf den wir uns verlassen können.\n\nWir erwarten __6__ und hoffen auf eine rasche Lösung dieses Problems.\n\nMit freundlichen Grüßen\n\n[Ihr Name]\nEinkaufsabteilung\n[Ihre Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Anstelle von unserem Auftrag",
+                "b": "Gemäß Ihrer Bestätigung",
+                "c": "Trotz unserer Bestellung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "nicht angenommen wurde",
+                "b": "kaum angekommen sein wird",
+                "c": "leider noch nicht eingetroffen ist"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "bereits verwendet wurden",
+                "b": "dringend benötigt werden",
+                "c": "eventuell nützlich wären"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "um eine aktuelle Auskunft",
+                "b": "für eine detaillierte Rechnung",
+                "c": "über eine mögliche Stornierung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "einen ungefähren Zeitraum",
+                "b": "einen verbindlichen Liefertermin",
+                "c": "einen erneuten Kostenvoranschlag"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihre nächste Werbeaktion",
+                "b": "Ihre verspätete Entschuldigung",
+                "c": "Ihre umgehende Rückmeldung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

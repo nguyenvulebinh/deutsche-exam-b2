@@ -1,0 +1,60 @@
+{
+    "title": "Einführung eines neuen Systems zur Reisekostenabrechnung",
+    "textinhalt": "Sehr geehrte Mitarbeiterinnen und Mitarbeiter,\n\n__1__ die Einführung unseres neuen digitalen Systems zur Einreichung und Bearbeitung von Reisekostenabrechnungen informieren.\n\nDiese Umstellung erfolgt, __2__ und die Bearbeitungszeiten für alle Beteiligten signifikant zu verkürzen. Ziel ist eine vollständig digitale und effizientere Abwicklung.\n\nDas neue System __3__ offiziell zum 1. Juli 2024 in Kraft. Ab diesem Datum können Reisekosten nur noch über die neue Plattform eingereicht werden.\n\nAlle notwendigen Informationen, detaillierte Anleitungen sowie Video-Tutorials __4__ im Intranet unter dem Menüpunkt „Personal/Reisekosten Neu“. Zusätzlich werden Online-Schulungstermine angeboten, für die Sie sich in Kürze anmelden können.\n\n__5__ wenden Sie sich bitte jederzeit an die Personalabteilung (Durchwahl -123) oder per E-Mail an reisekosten@firma.de.\n\n__6__ und eine reibungslose Umstellung auf das neue System.\n\nMit freundlichen Grüßen\n\nDie Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "damit informieren wir Sie von",
+                "b": "hiermit möchten wir Sie über",
+                "c": "hiermit geben wir Ihnen zur"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "wegen der besseren Prozesse",
+                "b": "damit die Prozesse optimiert",
+                "c": "um die Prozesse zu optimieren"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "kommt ... pünktlich zum Einsatz",
+                "b": "tritt ... ",
+                "c": "wird ... gültig ab"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "finden Sie ab sofort",
+                "b": "liegen Ihnen nun",
+                "c": "stehen Ihnen ab sofort"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Bei weiteren Fragen",
+                "b": "Falls Sie Fragen noch",
+                "c": "Wegen möglicher Fragen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Wir danken für Ihr Verständnis",
+                "b": "Wir bitten um Ihre Kooperation",
+                "c": "Wir erwarten Ihre Teilnahme"
+            },
+            "loesung": "b"
+        }
+    ]
+}

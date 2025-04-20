@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage: Weiterbildungsseminar 'Advanced Projektmanagement'",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nin einer Fachzeitschrift sind wir __1__ 'Advanced Projektmanagement' aufmerksam geworden, das Sie im kommenden Quartal anbieten.\n\nDa wir stets bestrebt sind, die Kompetenzen unserer Mitarbeiter zu erweitern, __2__ dieses Weiterbildungsangebot. Bevor wir jedoch eine Entscheidung treffen können, benötigen wir einige zusätzliche Informationen.\n\nKönnten Sie uns bitte __3__ sowie den genauen Zeitplan des Seminars mitteilen? Es wäre für uns ebenfalls wichtig zu erfahren, __4__ für die Teilnahme an diesem Fortgeschrittenenkurs.\n\nDes Weiteren bitten wir um Auskunft darüber, __5__. Gibt es ein Online-Formular oder ist eine postalische Anmeldung erforderlich?\n\nWir wären Ihnen dankbar, __6__ inklusive der detaillierten Seminarinhalte und Informationen zu den Referenten zukommen zu lassen. Wir freuen uns auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name / Ihre Abteilung]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "über Ihr Seminar",
+                "b": "auf Ihr Seminar",
+                "c": "an Ihr Seminar"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bewundern wir sehr",
+                "b": "interessiert uns besonders",
+                "c": "finden wir gut"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die finanziellen Mittel",
+                "b": "die ungefähren Gebühren",
+                "c": "die genauen Teilnahmekosten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "welche Inhalte vermittelt werden",
+                "b": "welche Voraussetzungen erfüllt sein müssen",
+                "c": "welche Zertifikate ausgestellt werden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "wann die Anmeldung bestätigt wird",
+                "b": "ob die Anmeldung noch möglich ist",
+                "c": "wie die Anmeldung genau abläuft"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "um Zusendung ausführlicher Unterlagen",
+                "b": "um Übersendung der Rechnung",
+                "c": "um Mitteilung einiger Details"
+            },
+            "loesung": "a"
+        }
+    ]
+}

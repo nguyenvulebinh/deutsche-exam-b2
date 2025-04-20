@@ -1,0 +1,60 @@
+{
+    "title": "Problem mit Zugriff auf neues Projektmanagement-Tool",
+    "textinhalt": "Sehr geehrte Damen und Herren des IT-Supports,\n\nwir wenden uns an Sie, da mehrere Kollegen aus dem Marketing-Team und ich seit heute Morgen __1__ auf das neue Projektmanagement-Tool \"ProjectFlow\" haben.\n\nDieser Zugriff ist für die termingerechte Bearbeitung des Projekts \"XF-100\", dessen Deadline bereits nächste Woche ist, __2__.\n\nWenn wir versuchen, uns anzumelden, __3__ \"Ungültige Anmeldedaten oder keine Zugriffsberechtigung\". Wir haben unsere Passwörter bereits zurückgesetzt und die Browser-Caches geleert, __4__.\n\nWir möchten Sie bitten, __5__ und uns mitzuteilen, ob es sich um ein allgemeines Problem handelt oder ob unsere Konten spezifisch überprüft werden müssen.\n\nFür eine __6__ wären wir Ihnen sehr dankbar, da unsere Arbeit derzeit stark beeinträchtigt ist.\n\nMit freundlichen Grüßen\n\nAnna Bauer\nMarketing-Abteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Fragen zur Handhabung",
+                "b": "Probleme beim Zugriff",
+                "c": "Schwierigkeiten bei der Installation"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "von entscheidender Bedeutung",
+                "b": "eine hilfreiche Ergänzung",
+                "c": "von gewissem Interesse"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "bekommen wir die Mitteilung",
+                "b": "sehen wir die Anweisung",
+                "c": "erscheint die Fehlermeldung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "allerdings ohne Erfolg",
+                "b": "aber es funktionierte nicht",
+                "c": "trotzdem keine Änderung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "die Situation anzusehen",
+                "b": "der Sache nachzugehen",
+                "c": "das Problem zu besprechen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "baldige Antwort",
+                "b": "umgehende Reparatur",
+                "c": "zeitnahe Lösung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

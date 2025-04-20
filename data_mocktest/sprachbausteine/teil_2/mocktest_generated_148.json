@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde vom 15.07. – Kaffeemaschine 'ProfiBrew X1'",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für Ihre E-Mail vom 15. Juli. Wir __1__ Ihrer Beschwerde bezüglich der gelieferten Kaffeemaschine 'ProfiBrew X1' (Lieferschein Nr. 74839) erhalten zu haben.\n\nWir __2__ sehr, dass das Gerät offenbar einen Defekt aufweist und Ihnen dadurch Unannehmlichkeiten entstanden sind. Selbstverständlich entspricht dies nicht unserem Qualitätsanspruch.\n\nUm die Ursache des Problems schnellstmöglich zu klären, möchten wir __3__ durch einen unserer Servicetechniker veranlassen. Dieser wird das Gerät vor Ort genau überprüfen.\n\nUnser oberstes Ziel ist es, eine für Sie __4__ zu finden, sei es durch eine Reparatur oder gegebenenfalls einen Austausch des Geräts.\n\nDer zuständige Techniker wird sich innerhalb der nächsten 48 Stunden telefonisch mit Ihnen __5__, um einen für Sie passenden Termin für die Überprüfung zu vereinbaren.\n\nWir bitten höflich um __6__ und entschuldigen uns nochmals für die entstandenen Probleme.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nKundenservice\nBürobedarf Solutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "nehmen Bezug auf",
+                "b": "antworten auf den Inhalt",
+                "c": "bestätigen den Eingang"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "finden es schade",
+                "b": "bedauern außerordentlich",
+                "c": "entschuldigen uns höflich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "einen baldigen Vorschlag",
+                "b": "eine sofortige Reparatur",
+                "c": "eine umgehende Prüfung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "freundliche Geste",
+                "b": "zufriedenstellende Lösung",
+                "c": "passende Alternative"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "in Verbindung setzen",
+                "b": "Kontakt aufnehmen",
+                "c": "persönlich treffen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihre Mitarbeit",
+                "b": "Ihre Geduld",
+                "c": "Ihr Verständnis"
+            },
+            "loesung": "c"
+        }
+    ]
+}

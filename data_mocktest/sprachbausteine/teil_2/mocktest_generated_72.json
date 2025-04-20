@@ -1,0 +1,60 @@
+{
+    "title": "Nachfrage zum Stand der Bewerbung",
+    "textinhalt": "Sehr geehrte Frau/Herr [Nachname],\n\nich beziehe mich auf mein Vorstellungsgespräch am [Datum] für __1__ als [Jobbezeichnung]. Zunächst möchte ich mich nochmals für das informative und angenehme Gespräch bedanken.\n\nDa seit dem Gespräch nun einige Zeit vergangen ist, wollte ich mich höflich nach __2__ des Auswahlverfahrens erkundigen. Können Sie mir eventuell mitteilen, wann __3__ zu rechnen ist?\n\nDas Gespräch hat meinen Wunsch, für Ihr Unternehmen tätig zu werden, __4__. Ich bin nach wie vor davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu __5__ passen.\n\nÜber eine baldige __6__ würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "das interessante Angebot",
+                "b": "die ausgeschriebene Stelle",
+                "c": "die beworbene Arbeit"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "dem aktuellen Stand",
+                "b": "dem vorläufigen Ergebnis",
+                "c": "der derzeitigen Situation"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "von einem Bescheid",
+                "b": "über das Resultat",
+                "c": "mit einer Entscheidung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "neu geweckt",
+                "b": "weiter bestärkt",
+                "c": "kaum beeinflusst"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "den vielfältigen Aufgaben",
+                "b": "den allgemeinen Erwartungen",
+                "c": "den Anforderungen der Position"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "positive Rückmeldung",
+                "b": "klare Benachrichtigung",
+                "c": "zeitnahe Antwort"
+            },
+            "loesung": "a"
+        }
+    ]
+}

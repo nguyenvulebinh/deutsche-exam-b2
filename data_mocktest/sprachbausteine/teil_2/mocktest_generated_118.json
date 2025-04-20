@@ -1,0 +1,60 @@
+{
+    "title": "Rückfrage zu Ihrem Angebot Nr. 745-B vom 15.03.2024",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für die rasche Zusendung Ihres Angebots für die Büroreinigung. Wir haben Ihre Unterlagen __1__ erhalten und geprüft.\n\nGrundsätzlich __2__ unsere Anforderungen an eine professionelle Reinigung unserer Räumlichkeiten. Die vorgeschlagenen Reinigungsintervalle erscheinen uns sinnvoll.\n\n__3__ der inkludierten Zusatzleistungen. In Ihrem Angebot listen Sie „Fensterreinigung nach Bedarf“ auf. __4__ genauer definiert, was unter „nach Bedarf“ zu verstehen ist und welche Kriterien dafür gelten.\n\nWir __5__, ob dies vierteljährlich standardmäßig erfolgen könnte oder ob hierfür separate Absprachen notwendig sind. Eine klare Regelung wäre für unsere Planung hilfreich.\n\nÜber eine kurze Klärung dieses Punktes würden wir uns freuen und __6__ entgegen, um dann eine endgültige Entscheidung treffen zu können.\n\nMit freundlichen Grüßen\n\nThomas Bauer\nFacility Management",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "ordnungsgemäß",
+                "b": "freundlicherweise",
+                "c": "verständlicherweise"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "ähnelt Ihr Angebot",
+                "b": "gefällt uns Ihr Vorschlag",
+                "c": "entspricht Ihr Angebot"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Außerdem interessieren uns",
+                "b": "Allerdings haben wir eine Frage bezüglich",
+                "c": "Deshalb verstehen wir nicht ganz"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Im Kleingedruckten steht leider",
+                "b": "Es wird jedoch nicht",
+                "c": "Wir vermuten stark, dass"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "fordern deshalb zu klären",
+                "b": "möchten daher anfragen",
+                "c": "wünschen uns zu wissen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihrer baldigen Rückmeldung",
+                "b": "Ihren weiteren Vorschlägen",
+                "c": "Ihrer netten Zusammenarbeit"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Installationsverzögerung (Kundennr. 78542)",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nwir schreiben Ihnen __1__ Ihre E-Mail vom 15. Mai bezüglich der Verzögerung bei der Installation Ihrer bestellten Software.\n\nWir bedauern __2__ sehr und möchten uns aufrichtig dafür entschuldigen. Ein solcher Service entspricht nicht unseren Qualitätsstandards.\n\nDie Verzögerung __3__ ein unvorhergesehener technischer Ausfall bei unserem Serviceteam kurzfristig zu einer Personalumplanung führte. Dies hätte Ihnen jedoch früher mitgeteilt werden müssen.\n\nUm die Angelegenheit nun schnellstmöglich zu klären, __4__, dass unser Techniker Herr Schmidt Sie bereits am kommenden Freitag, den 19. Mai, um 9:00 Uhr aufsucht, um die Installation durchzuführen. Passt Ihnen dieser Termin?\n\n__5__ für die entstandenen Umstände möchten wir Ihnen zusätzlich einen Gutschein über 50 Euro für unser Zubehörsortiment zukommen lassen.\n\nWir __6__ und sind zuversichtlich, die Installation zu Ihrer vollen Zufriedenheit abschließen zu können.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\nTechSolutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "anlässlich",
+                "b": "in Bezug auf",
+                "c": "trotz"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "den gemachten Fehler",
+                "b": "Ihre schlechte Laune",
+                "c": "die entstandenen Unannehmlichkeiten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "ist darauf zurückzuführen, dass",
+                "b": "hängt davon ab, ob",
+                "c": "ergibt sich daraus, weil"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "weisen wir darauf hin",
+                "b": "schlagen wir Ihnen vor",
+                "c": "könnten wir uns vorstellen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Wegen der Verzögerung",
+                "b": "Als Ergebnis davon",
+                "c": "Als kleine Wiedergutmachung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "hoffen auf Ihr Verständnis",
+                "b": "sehen Ihrer Reaktion entgegen",
+                "c": "warten auf Ihre Antwort"
+            },
+            "loesung": "a"
+        }
+    ]
+}

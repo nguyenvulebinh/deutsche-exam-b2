@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Lieferverzögerung (Bestellnr. 78-12345)",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Nachricht. Wir nehmen Bezug __1__ 15. Mai und die darin geschilderte Verzögerung Ihrer Bestellung mit der Nummer 78-12345.\n\nDass Sie die bestellten Waren nicht zum vereinbarten Termin erhalten haben, __2__ . Wir verstehen Ihren Ärger darüber.\n\n__3__ intern zu einem kurzfristigen, sehr hohen Bestellaufkommen, was zu __4__ in unserer Logistikabteilung führte. Ihre Bestellung war leider davon betroffen.\n\nDie Ware wurde inzwischen heute Morgen an Sie versandt und sollte spätestens übermorgen bei Ihnen eintreffen. Als kleine Entschuldigung für die entstandenen Unannehmlichkeiten __5__ , die Versandkosten für diese Lieferung zu erlassen. Sie werden auf Ihrer Rechnung nicht erscheinen.\n\nWir bitten Sie herzlich um Ihr Verständnis und hoffen __6__ .\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\nABC GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "wegen Ihrer Mitteilung zum",
+                "b": "auf Ihr Schreiben vom",
+                "c": "anlässlich Ihrer Mail über"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "finden wir schade",
+                "b": "ist für uns ärgerlich",
+                "c": "bedauern wir sehr"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Allerdings gab es auch",
+                "b": "Tatsächlich kam es bei uns",
+                "c": "Eigentlich war der Grund"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "unerwarteten Engpässen",
+                "b": "deutlichen Schwierigkeiten",
+                "c": "einigen echten Problemen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "geben wir Ihnen frei",
+                "b": "bieten wir Ihnen an",
+                "c": "stellen wir Ihnen vor"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "für die nächste Lieferung",
+                "b": "auf eine weiterhin gute Zusammenarbeit",
+                "c": "über Ihr kommendes Verständnis"
+            },
+            "loesung": "b"
+        }
+    ]
+}

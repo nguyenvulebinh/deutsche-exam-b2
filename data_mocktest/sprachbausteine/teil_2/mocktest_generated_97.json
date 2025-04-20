@@ -1,0 +1,60 @@
+{
+    "title": "Reklamation Lieferung Nr. 4712 / Ihre Rechnung 890-B",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\n__1__ Ihre Lieferung vom [Datum einfügen, z.B. 15. Mai] (Lieferschein Nr. 4712) __2__ der Ware leider feststellen, dass mehrere Artikel __3__.\n\nKonkret handelt es sich um die Positionen 3 und 5 unserer Bestellung Nr. PO-2024-112 (Artikel XYZ und ABC). Die Verpackung des Artikels XYZ war stark beschädigt und der Inhalt dadurch unbrauchbar. Beim Artikel ABC wurde statt der bestellten Ausführung in Blau die Variante in Rot geliefert, welche wir so nicht einsetzen können.\n\nWir bitten Sie daher __4__ der korrekten bzw. unbeschädigten Ware. Bitte teilen Sie uns zudem mit, wie wir mit den fehlerhaften bzw. beschädigten Artikeln verfahren sollen – ob eine Abholung durch Sie erfolgt oder wir diese retournieren sollen.\n\nWir bitten um Klärung und Rückmeldung __5__. Da wir die Ware dringend für unsere Produktion benötigen, ist eine schnelle Lösung für uns __6__.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Ihre Abteilung]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Gedacht an",
+                "b": "Bezug nehmend auf",
+                "c": "Hinsichtlich zu"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "mussten wir bei der sofortigen Überprüfung",
+                "b": "konnten wir während des Auspackens",
+                "c": "haben wir nach späterem Einsehen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "nicht ganz in Ordnung sind",
+                "b": "erhebliche Mängel aufweisen",
+                "c": "Probleme gemacht haben"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "auf eine baldige Reparatur",
+                "b": "über eine mögliche Gutschrift",
+                "c": "um eine umgehende Ersatzlieferung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "innerhalb der nächsten 5 Werktage",
+                "b": "irgendwann nächste Woche",
+                "c": "nach Ablauf einiger Zeit"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "von entscheidender Bedeutung",
+                "b": "ziemlich hilfreich",
+                "c": "nicht ganz unwichtig"
+            },
+            "loesung": "a"
+        }
+    ]
+}

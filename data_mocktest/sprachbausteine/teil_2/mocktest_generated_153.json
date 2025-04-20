@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde: Verzögerung der Serviceeinrichtung",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nwir beziehen uns auf __1__ 15. dieses Monats und bedauern die dadurch entstandenen Unannehmlichkeiten außerordentlich.\n\nDie Verzögerung bei der Einrichtung Ihres neuen CRM-Systems ist __2__ in unserer technischen Abteilung zurückzuführen. Ein kurzfristiger Personalausfall fiel leider mit einem unerwarteten Serverproblem zusammen, __3__ bei Ihnen.\n\nWir haben selbstverständlich __4__ , um die Situation schnellstmöglich zu beheben. Ein zusätzlicher Techniker wurde Ihrem Projekt zugewiesen, und wir gehen davon aus, dass die Einrichtung bis spätestens Ende dieser Woche abgeschlossen sein wird.\n\nAls kleine Entschädigung für die Verzögerung möchten wir __5__ für den ersten Monat der Nutzung.\n\nWir bitten Sie nochmals um Entschuldigung und hoffen auf Ihr Verständnis. Wir sind zuversichtlich, __6__ und freuen uns auf eine weiterhin gute Zusammenarbeit.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\n- Leiter Kundenservice, TechSolutions GmbH -",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihren Hinweis bezüglich",
+                "b": "Ihre Beschwerde vom",
+                "c": "Ihre Anfrage über"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "wegen geplanter Updates",
+                "b": "trotz unserer Bemühungen",
+                "c": "auf einen internen Engpass"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "obwohl der Start pünktlich war",
+                "b": "was zu der Verzögerung führte",
+                "c": "damit der Zeitplan eingehalten wird"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "bereits neue Pläne gemacht",
+                "b": "umgehend Maßnahmen ergriffen",
+                "c": "einige Optionen gefunden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Ihnen die Rechnung erläutern",
+                "b": "Ihnen eine Erklärung anbieten",
+                "c": "Ihnen eine Gutschrift gewähren"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "dass sich eine solche Situation nicht wiederholt",
+                "b": "ob die Technik nun funktionieren wird",
+                "c": "wann wir wieder Termine frei haben"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Umstellung auf digitale Reisekostenabrechnung",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nwir möchten Sie heute über eine wichtige Neuerung informieren: __1__ die digitale Reisekostenabrechnung über unser neues Online-Portal.\n\n__2__, den gesamten Prozess der Reisekostenabrechnung zu vereinfachen und zu beschleunigen. Ab dem 1. Juli wird __3__ zur Einreichung von Reisekosten auf Papierbasis vollständig abgelöst.\n\nWir bitten Sie daher, ab diesem Datum ausschließlich das neue Online-Portal für __4__ zu nutzen. Sie finden das Portal im Intranet unter „Services > Reisekosten“.\n\n__5__ sowie eine Schritt-für-Schritt-Anleitung finden Sie ebenfalls auf der genannten Intranetseite. Bei technischen Problemen oder inhaltlichen Fragen steht Ihnen die Personalabteilung unter reisekosten@firma.de zur Verfügung.\n\nWir sind zuversichtlich, dass diese Neuerung den Prozess für alle Beteiligten effizienter gestalten wird und hoffen auf __6__.\n\nVielen Dank für Ihre Kooperation.\n\nMit freundlichen Grüßen\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "die Verbesserung von",
+                "b": "die Umstellung auf",
+                "c": "das Update für"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Der Plan davon soll sein",
+                "b": "Wir beabsichtigen damit",
+                "c": "Ziel dieser Maßnahme ist es"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "das bisherige Verfahren",
+                "b": "die alte Gewohnheit",
+                "c": "den früheren Arbeitsablauf"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "die Kontrolle Ihrer Ausgaben",
+                "b": "die Einreichung Ihrer Belege",
+                "c": "das Sammeln der Quittungen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Ausführliche Informationen dazu",
+                "b": "Einige Hinweise hierfür",
+                "c": "Genaue Details überdies"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "eine schnelle Bearbeitung",
+                "b": "eine baldige Verbesserung",
+                "c": "einen reibungslosen Übergang"
+            },
+            "loesung": "c"
+        }
+    ]
+}

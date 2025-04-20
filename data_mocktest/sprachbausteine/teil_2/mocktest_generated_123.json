@@ -1,0 +1,60 @@
+{
+    "title": "Einführung eines neuen digitalen Urlaubsantragssystems",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nwir möchten Sie heute über eine wichtige Neuerung in unserer internen Verwaltung informieren. Um unsere Prozesse effizienter und umweltfreundlicher zu gestalten, wird das bisherige papierbasierte Verfahren zur Beantragung von Urlaub __1__ ein neues digitales System.\n\nDieses neue System, der „UrlaubsPlaner Pro“, bietet zahlreiche Vorteile wie schnellere Bearbeitungszeiten und eine bessere Übersicht für alle Beteiligten. Den Zugang zum neuen System __2__ dem folgenden Link im Intranet: [Link zum Intranet/System].\n\n__3__ 01.08.2024 bitten wir Sie, alle neuen Urlaubsanträge ausschließlich über den „UrlaubsPlaner Pro“ einzureichen. Anträge, die nach dem 31.08.2024 in Papierform eingehen, können dann leider __4__.\n\nWir verstehen, dass jede Umstellung Fragen aufwerfen kann. Eine detaillierte Anleitung sowie Antworten auf häufig gestellte Fragen finden Sie ebenfalls im Intranet. Bei weiteren technischen oder inhaltlichen Fragen __5__ die Personalabteilung.\n\nWir hoffen auf __6__ und bedanken uns schon jetzt für Ihre Kooperation und Ihr Verständnis.\n\nMit freundlichen Grüßen\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "wird geändert in",
+                "b": "wird abgelöst durch",
+                "c": "wird aufgegeben von"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bekommen Sie auf",
+                "b": "erreichen Sie bei",
+                "c": "finden Sie unter"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Während dem",
+                "b": "Anstatt dem",
+                "c": "Ab dem"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "nicht mehr berücksichtigt werden",
+                "b": "kaum noch beachtet werden",
+                "c": "keine Rolle mehr spielen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "informieren Sie sich durch",
+                "b": "wenden Sie sich bitte an",
+                "c": "fragen Sie einfach bei"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "die gesamte Organisation",
+                "b": "eine komplette Veränderung",
+                "c": "einen reibungslosen Übergang"
+            },
+            "loesung": "c"
+        }
+    ]
+}

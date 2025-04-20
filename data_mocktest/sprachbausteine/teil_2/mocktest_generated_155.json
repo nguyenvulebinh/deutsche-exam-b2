@@ -1,0 +1,60 @@
+{
+    "title": "Projekt 'Kundendatenbank-Upgrade': Aktueller Status und Zeitplananpassung",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich schreibe Ihnen, um Sie über den aktuellen Stand des Projekts 'Kundendatenbank-Upgrade' zu informieren.\n\nLeider muss ich Ihnen mitteilen, dass wir den ursprünglich geplanten Fertigstellungstermin am kommenden Freitag nicht einhalten können. Dies ist __1__ auf unerwartete technische Schwierigkeiten bei der Datenmigration zurückzuführen, die komplexer sind als zunächst angenommen.\n\nWir gehen __2__ davon aus, dass wir mindestens eine zusätzliche Woche benötigen werden. Der neue __3__ liegt dann voraussichtlich am [Datum einfügen, z.B. 28. Juni].\n\nDas Projektteam arbeitet bereits __4__ an der Behebung der Probleme, um die Verzögerung so gering wie möglich zu halten. Ich bin zuversichtlich, dass wir den neuen Zeitplan einhalten können.\n\nGerne __5__ ich Ihnen die Details und die genauen Gründe für die Anpassung in einem kurzen persönlichen Gespräch morgen Vormittag.\n\nWir bitten um Ihr Verständnis für die __6__ .\n\nMit freundlichen Grüßen\n\n[Ihr Name / Name des Mitarbeiters]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "trotzdem",
+                "b": "hauptsächlich",
+                "c": "zufällig"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bestimmt",
+                "b": "manchmal",
+                "c": "voraussichtlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Zeitpunkt",
+                "b": "Fertigstellungstermin",
+                "c": "Arbeitsplan"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "unter Druck",
+                "b": "mit Hochdruck",
+                "c": "in Eile"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "zeige",
+                "b": "informiere",
+                "c": "erläutere"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "entstandenen Unannehmlichkeiten",
+                "b": "aktuellen Probleme",
+                "c": "kommende Aufgabe"
+            },
+            "loesung": "a"
+        }
+    ]
+}

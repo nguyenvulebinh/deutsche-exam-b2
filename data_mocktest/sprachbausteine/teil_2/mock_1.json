@@ -1,0 +1,61 @@
+{
+    "title": "Auftragserteilung",
+    "textinhalt": "Sehr geehrte Frau Rühl,\n\nvielen Dank für das interessante Gespräch, bei dem Sie mir __1__ nochmals erläutert haben.\nWir sind ein Heizungs- und Sanitärunternehmen und möchten unseren __2__ um Badmodernisierungen erweitern. Daher sind wir an einer __3__ mit Ihnen interessiert, denn Ihr umfangreiches Warensortiment im Bereich hochwertiger Bad-, Boden- und Wandfliesen hat uns überzeugt.\nGemäß Ihrem Angebot vom 01.12. bitten wir um __4__ von:\n\n*   30 m² Wandfliese Natursteinoptik, beige, 20x25 15,95 / m²\n*   20 m² Bodenfliese Bengal grau, 30x30 18,95 / m²\n*   15 m² Bodenfliese Bengal beige, 30x60 22,95 / m²\n\nDer Versand muss bis zum 15.12. erfolgen. Alle __5__ sind Nettopreise.\n\nWir bitten um eine kurze Auftragsbestätigung. Bei fristgerechter Abwicklung und einwandfreier Lieferung der Ware können Sie in Zukunft __6__.\n\nMit freundlichen Grüßen\nMilan Jovanović",
+    "aufgaben": [
+      {
+        "id": 1,
+        "options": {
+          "a": "Ihre Angaben",
+          "b": "Ihr Angebot",
+          "c": "Ihre Antwort"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 2,
+        "options": {
+          "a": "letzten Auftrag",
+          "b": "früheren Arbeitsnachweis",
+          "c": "aktuellen Leistungsbereich"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 3,
+        "options": {
+          "a": "kurzfristigen Anlage",
+          "b": "langfristigen Zusammenarbeit",
+          "c": "vorübergehenden Tätigkeit"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 4,
+        "options": {
+          "a": "angekündigte Rücknahme",
+          "b": "den umfangreichen Rückruf",
+          "c": "die versprochene Lieferung"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 5,
+        "options": {
+          "a": "aufgeführten Kosten",
+          "b": "genannten Preise",
+          "c": "angegebenen Maße"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 6,
+        "options": {
+          "a": "auf neue Lieferanten zählen",
+          "b": "mit weiteren Aufträgen rechnen",
+          "c": "von neuen Angeboten profitieren"
+        },
+        "loesung": "b"
+      }
+    ]
+}
+  

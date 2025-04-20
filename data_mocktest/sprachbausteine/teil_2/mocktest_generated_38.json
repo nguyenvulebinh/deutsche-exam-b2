@@ -1,0 +1,60 @@
+{
+    "title": "Follow-Up: Kick-off Meeting 'Interne Kommunikationsplattform'",
+    "textinhalt": "Liebes Projektteam,\n\nvielen Dank für Ihre Teilnahme und die konstruktiven Beiträge bei unserem Kick-off Meeting am vergangenen Montag für das Projekt 'Interne Kommunikationsplattform'.\n\nWir hatten eine sehr produktive Sitzung, in der die wesentlichen Projektziele bestätigt und erste wichtige Schritte __1__.\n\nWie besprochen, übernimmt Frau Richter die Erstellung des detaillierten Anforderungskatalogs. Herr Bauer __2__ die technische Evaluation potenzieller Softwarelösungen.\n\nBitte reichen Sie Ihre ersten Entwürfe bzw. Evaluationsberichte __3__ 15. des nächsten Monats ein, damit wir diese in unserem nächsten Jour fixe besprechen können.\n\n__4__, dass wir bis Ende dieser Woche eine kurze Umfrage zur aktuellen internen Kommunikation an alle Mitarbeitenden versenden werden. Die Ergebnisse sollen in den Anforderungskatalog einfließen.\n\nDas detaillierte Protokoll sowie die Präsentation vom Montag __5__ ab sofort im Projektordner auf dem Server zur Verfügung.\n\nIch freue mich auf __6__ und bin zuversichtlich, dass wir dieses wichtige Projekt gemeinsam erfolgreich umsetzen werden. Bei Fragen stehe ich Ihnen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Your Name]\nProjektleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "haben ... stattgefunden",
+                "b": "sind ... diskutiert worden",
+                "c": "wurden ... festgehalten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "ist zuständig für",
+                "b": "interessiert sich für",
+                "c": "arbeitet gerade an"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "ungefähr am",
+                "b": "bis spätestens zum",
+                "c": "ab dem"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Aus diesem Grund ist",
+                "b": "Darüber hinaus wurde vereinbart",
+                "c": "Im Gegensatz dazu muss"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "können ... angefordert werden",
+                "b": "sind ... zu beachten",
+                "c": "stehen Ihnen ... zur Verfügung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihre Unterstützung dabei",
+                "b": "die weitere Zusammenarbeit",
+                "c": "den erfolgreichen Projektabschluss"
+            },
+            "loesung": "b"
+        }
+    ]
+}

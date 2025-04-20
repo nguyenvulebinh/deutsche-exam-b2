@@ -1,0 +1,60 @@
+{
+    "title": "Nachfrage zu Lieferung Nr. 4589",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung Nr. 4589 vom 15. April bezüglich der Lieferung von [Produkt]. Laut Ihrer Auftragsbestätigung sollte die Ware spätestens am 28. April bei uns __1__.\n\nLeider mussten wir feststellen, dass die Lieferung bis heute nicht erfolgt ist. Da wir die bestellten Teile __2__ für unsere laufende Produktion, geraten wir nun selbst in Schwierigkeiten.\n\nWir bitten Sie daher __3__, wo sich die Sendung aktuell befindet. Können Sie uns bitte die Sendungsverfolgungsnummer mitteilen oder den __4__ überprüfen?\n\nDes Weiteren benötigen wir __5__ darüber, wann wir definitiv mit der Lieferung rechnen können. Ein weiterer Verzug wäre für uns nur schwer tragbar.\n\nWir erwarten Ihre __6__ und hoffen auf eine schnelle Lösung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]\nBuyer GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "ankommen",
+                "b": "eintreffen",
+                "c": "gelangen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "wichtig finden",
+                "b": "schnell brauchen",
+                "c": "dringend benötigen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "für eine schnelle Erklärung",
+                "b": "um umgehende Klärung",
+                "c": "zur baldigen Untersuchung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "momentane Lage",
+                "b": "derzeitige Position",
+                "c": "aktuellen Status"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "eine verbindliche Zusage",
+                "b": "einen festen Termin",
+                "c": "eine sichere Information"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "baldige Antwort",
+                "b": "zeitnahe Rückmeldung",
+                "c": "sofortige Reaktion"
+            },
+            "loesung": "b"
+        }
+    ]
+}

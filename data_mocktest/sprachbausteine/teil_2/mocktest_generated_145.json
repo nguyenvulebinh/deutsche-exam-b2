@@ -1,0 +1,60 @@
+{
+    "title": "Ihr Besuch auf der TechSolutions Messe",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für Ihren Besuch an unserem Stand auf der TechSolutions Messe in Hannover letzte Woche. Wir __1__ Gespräch über Ihre Herausforderungen im Bereich der Prozessoptimierung.\n\nWie am Stand vereinbart, senden wir Ihnen anbei __2__ zu unserer Software-Suite 'ProFlow'. Diese Dokumente geben Ihnen einen detaillierten Überblick über die Funktionalitäten und technischen Spezifikationen.\n\nBesonders hervorheben möchten wir nochmals die flexible Möglichkeit, die Software __3__. Diese Anpassungsfähigkeit ist ein wesentlicher Vorteil, um __4__.\n\nGerne würden wir Ihnen in einem persönlichen (gerne auch virtuellen) Gespräch aufzeigen, wie 'ProFlow' konkret in Ihrem Unternehmen eingesetzt werden könnte. Hätten Sie vielleicht nächste Woche Zeit, __5__?\n\nWir __6__ unsere Lösung einen wertvollen Beitrag zur Steigerung Ihrer Unternehmenseffizienz leisten kann und freuen uns auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMarkus Schneider\nVertriebsleiter\nInnovatec GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "denken gerne zurück an das",
+                "b": "erinnern uns gut an das",
+                "c": "hatten ein positives"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "unsere aktuelle Preisliste",
+                "b": "die allgemeinen Informationen",
+                "c": "die angeforderten Unterlagen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "an Ihre spezifischen Bedürfnisse anzupassen",
+                "b": "in Ihr System zu integrieren",
+                "c": "Ihren Mitarbeitern vorzustellen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Ihre Kosten deutlich zu senken",
+                "b": "Ihre Prozesse effizienter zu gestalten",
+                "c": "Ihnen die Arbeit zu erleichtern"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "um offene Fragen zu klären",
+                "b": "damit wir das Produkt präsentieren",
+                "c": "um weitere Details zu besprechen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "sind davon überzeugt, dass",
+                "b": "hoffen sehr darauf, dass",
+                "c": "gehen davon aus, dass"
+            },
+            "loesung": "a"
+        }
+    ]
+}

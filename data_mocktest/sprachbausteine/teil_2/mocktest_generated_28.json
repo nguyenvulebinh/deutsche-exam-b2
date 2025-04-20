@@ -1,0 +1,60 @@
+{
+    "title": "Umstellung der Büromaterialbestellung auf Online-System",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nwir möchten Sie darüber informieren, dass das bisherige Verfahren zur Bestellung von Büromaterial über Papierformulare abgelöst wird. Die neue, vollständig digitale Regelung __1__ 01.08. dieses Jahres __1__.\n\n__2__, den Bestellprozess effizienter zu gestalten, den Papierverbrauch zu reduzieren und eine bessere Übersicht über den Lagerbestand zu gewährleisten. Das neue Online-Bestellsystem __3__ dem Menüpunkt „Verwaltung & Services“.\n\nNach dem Login können Sie die gewünschten Artikel auswählen und direkt bestellen. __4__ zur Nutzung des Systems sowie zu eventuellen Genehmigungsschritten wird in Kürze ebenfalls dort veröffentlicht.\n\nBitte beachten Sie: Bei jeder Bestellung __5__, dass die korrekte Kostenstelle angegeben wird, um eine reibungslose interne Verrechnung sicherzustellen.\n\nBei Fragen oder falls Sie Unterstützung bei der ersten Nutzung benötigen, __6__ das Team vom Facility Management (Durchwahl -456).\n\nWir sind überzeugt, dass diese Umstellung den Alltag erleichtern wird.\n\nMit freundlichen Grüßen\nIhre Verwaltung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "beginnt ab dem",
+                "b": "startet mit dem",
+                "c": "tritt am"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Die Absicht besteht",
+                "b": "Ziel ist es",
+                "c": "Der Plan wäre"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "liegt auf dem Intranet bei",
+                "b": "steht im Intranet neben",
+                "c": "finden Sie im Intranet unter"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Eine detaillierte Anleitung",
+                "b": "Ein ausführlicher Bericht",
+                "c": "Die komplette Beschreibung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "muss daran gedacht werden",
+                "b": "ist darauf zu achten",
+                "c": "sollte beachtet sein"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "wenden Sie sich bitte an",
+                "b": "sprechen Sie nett mit",
+                "c": "fragen Sie höflich bei"
+            },
+            "loesung": "a"
+        }
+    ]
+}

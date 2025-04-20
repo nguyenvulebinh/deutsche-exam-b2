@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage: IT-Netzwerkeinrichtung für neue Büroräume",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für Ihre Anfrage vom 15. Mai bezüglich der Einrichtung eines IT-Netzwerks für Ihre neuen Büroräume.\n\nWir haben Ihre Anforderungen __1__ und verstehen, dass eine zuverlässige und sichere Netzwerkinfrastruktur für Ihr Unternehmen von großer Bedeutung ist.\n\nUm Ihnen ein maßgeschneidertes Angebot __2__ zu können, benötigen wir noch einige Detailinformationen zu den räumlichen Gegebenheiten und der Anzahl der Arbeitsplätze. Alternativ wäre ein kurzer Vor-Ort-Termin sehr hilfreich.\n\nGrundsätzlich __3__ unser Standard-Installationspaket die Verkabelung, die Konfiguration der Hauptkomponenten sowie grundlegende Sicherheitseinstellungen. Spezifische Wünsche, wie z.B. erweiterte Firewall-Regeln oder VPN-Zugänge, __4__ wir selbstverständlich gerne.\n\nEine erste, unverbindliche Kostenschätzung __5__ wir Ihnen nach Klärung der offenen Punkte zukommen lassen. Wir schlagen vor, dass einer unserer Netzwerktechniker Sie __6__ kontaktiert, um einen Termin zu vereinbaren.\n\nWir freuen uns darauf, von Ihnen zu hören.\n\nMit freundlichen Grüßen\n[Ihr Name/Ihre Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "genau genommen",
+                "b": "sorgfältig geprüft",
+                "c": "oberflächlich gelesen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "darstellen zu müssen",
+                "b": "geben zu dürfen",
+                "c": "unterbreiten zu können"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "umfasst unser Standard-Installationspaket",
+                "b": "besteht aus unserem Standard-Installationspaket",
+                "c": "enthält unser Standard-Installationspaket"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "verstehen wir allerdings",
+                "b": "berücksichtigen wir selbstverständlich",
+                "c": "akzeptieren wir natürlich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "müssen wir Ihnen",
+                "b": "schicken wir Ihnen",
+                "c": "lassen wir Ihnen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "zeitnah kontaktiert",
+                "b": "eventuell kontaktiert",
+                "c": "pünktlich kontaktiert"
+            },
+            "loesung": "a"
+        }
+    ]
+}

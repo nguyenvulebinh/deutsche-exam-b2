@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage bezüglich interner Weiterbildung Projektmanagement",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich schreibe Ihnen, da ich im Intranet auf den internen Weiterbildungskurs „Grundlagen des Projektmanagements“ __1__ bin und großes Interesse daran habe.\n\nKönnten Sie mir bitte mitteilen, wie genau __2__ für diesen Kurs abläuft? Insbesondere würde mich interessieren, bis wann eine Anmeldung möglich ist.\n\nDes Weiteren ist für mich die Frage der Kosten entscheidend. Ich wäre Ihnen dankbar, wenn Sie mir Auskunft geben könnten, ob die Kursgebühren __3__ oder ob Mitarbeiter einen Eigenanteil leisten müssen.\n\nGibt es zudem bestimmte __4__, die für eine Teilnahme bzw. für die Kostenübernahme erfüllt sein müssen, wie zum Beispiel eine bestimmte Dauer der Betriebszugehörigkeit oder die Zustimmung des Vorgesetzten?\n\nDie im Kurs beschriebenen Inhalte __5__ für meine aktuellen Aufgaben im Team Marketing und meine berufliche Weiterentwicklung sehr wertvoll.\n\nIch wäre Ihnen für __6__ zu den genannten Punkten sehr dankbar und freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\nKlaus Schmidt",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "aufmerksam geworden",
+                "b": "teilgenommen habe",
+                "c": "informiert wurde"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die Kursbewertung",
+                "b": "der Stundenplan",
+                "c": "das Anmeldeverfahren"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "im Voraus zu zahlen sind",
+                "b": "vollständig vom Unternehmen getragen werden",
+                "c": "erst nach dem Kurs fällig werden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Voraussetzungen",
+                "b": "freie Plätze",
+                "c": "technische Mittel"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "halten mich ab",
+                "b": "erscheinen mir",
+                "c": "verhindern leider"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihre persönliche Einschätzung",
+                "b": "weiterführende Informationen",
+                "c": "die vollständigen Kursmaterialien"
+            },
+            "loesung": "b"
+        }
+    ]
+}

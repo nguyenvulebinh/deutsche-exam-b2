@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage zum Lieferstatus Ihrer Bestellung Nr. 45-87B",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\n__1__ Nr. 45-87B vom 15. März bezüglich der Büromöbel (Schreibtische Modell 'ErgoPlus') möchten wir uns nach dem aktuellen Lieferstatus erkundigen.\n\nDer __2__ war der 05. April. Leider mussten wir feststellen, dass die Lieferung bis heute nicht bei uns eingetroffen ist.\n\nDiese Verzögerung stellt für uns eine __3__ dar, da die neuen Arbeitsplätze dringend für Mitarbeiter benötigt werden, die bereits in der kommenden Woche ihre Tätigkeit bei uns aufnehmen sollen. Ohne die Möbel können diese ihre Arbeit nicht beginnen.\n\nWir bitten Sie daher __4__ des Sachverhalts und um Mitteilung, wann wir definitiv mit der Anlieferung rechnen können.\n\nBitte nennen Sie uns schnellstmöglich __5__. Sollte eine Lieferung in den nächsten zwei Werktagen nicht möglich sein, müssten wir alternative Schritte prüfen.\n\nWir hoffen __6__ dieses Problems und erwarten Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nJonas Schröder\nEinkaufsabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "mit Bezug für unsere Bestellung",
+                "b": "bezugnehmend auf unsere Bestellung",
+                "c": "hinsichtlich unserer Bestellung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "eigentlich geplante Liefertermin",
+                "b": "vorher zugesagte Liefertermin",
+                "c": "ursprünglich vereinbarte Liefertermin"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "deutliche Störung unseres Arbeitsflusses",
+                "b": "erhebliche Beeinträchtigung unseres Betriebsablaufs",
+                "c": "große Schwierigkeit für unser Geschäft"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "um umgehende Klärung",
+                "b": "um baldige Erklärung",
+                "c": "um schnelle Aufklärung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "einen sicheren nächsten Liefertermin",
+                "b": "einen festen weiteren Liefertermin",
+                "c": "einen verbindlichen neuen Liefertermin"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "auf eine zeitnahe Lösung",
+                "b": "auf eine prompte Erledigung",
+                "c": "auf eine baldige Regelung"
+            },
+            "loesung": "a"
+        }
+    ]
+}

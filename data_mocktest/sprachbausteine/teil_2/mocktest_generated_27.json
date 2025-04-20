@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage zu Bestellnummer #4587-B – Lieferverzögerung Wartezimmerstühle",
+    "textinhalt": "Sehr geehrte Frau Dr. Abel,\n\n__1__ Ihrer Bestellung #4587-B haben wir erhalten und bedanken uns für Ihre Geduld. Dass die Lieferung Ihrer neuen Wartezimmerstühle nicht wie ursprünglich am 14.05. erfolgen konnte und __2__.\n\nDer Grund hierfür liegt außerhalb unserer üblichen Planungssicherheit: __3__ nach genau dem von Ihnen gewählten Stuhlmodell „ComfortLine“ __4__ zu einem temporären Engpass. Wir arbeiten mit Hochdruck daran, diesen Rückstand aufzuholen und die Produktionskapazitäten zu erhöhen.\n\nNach aktueller Planung __5__, Ihnen die Stühle nunmehr in Kalenderwoche 22, also zwischen dem 27.05. und 31.05., zustellen zu können. Sie erhalten selbstverständlich eine separate Versandbestätigung, sobald die Ware unser Lager verlässt.\n\n__6__ möchten wir Ihnen anbieten, die Montage der Stühle bei Ihnen vor Ort für Sie kostenfrei durchzuführen. Wir hoffen, Ihnen damit ein wenig entgegenkommen zu können.\n\nWir entschuldigen uns nochmals aufrichtig für die Verzögerung und hoffen auf Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nIhr Team der MöbelTraum GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Unsere Antwort vom 15.05. auf",
+                "b": "Ihren Anruf vom 15.05. wegen",
+                "c": "Ihre Nachricht vom 15.05. bezüglich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "über die entstandenen Probleme freuen wir uns sehr",
+                "b": "die entstandenen Unannehmlichkeiten bitten wir vielmals zu entschuldigen",
+                "c": "für die gemachten Schwierigkeiten entschuldigen wir uns bei Ihnen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Aufgrund einer unerwartet hohen Nachfrage",
+                "b": "Trotz einer sehr geringen Nachfrage",
+                "c": "Anstelle einer hohen Nachfrage"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "blieb es in der Produktion deshalb",
+                "b": "kam es in der Produktion leider",
+                "c": "sollte es in der Produktion eigentlich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "hoffen wir möglicherweise darauf",
+                "b": "warten wir lieber darauf",
+                "c": "rechnen wir nun fest damit"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Als kleines Zeichen unseres Bedauerns",
+                "b": "Wegen der zusätzlichen Kosten",
+                "c": "Unter der Bedingung weiterer Bestellungen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

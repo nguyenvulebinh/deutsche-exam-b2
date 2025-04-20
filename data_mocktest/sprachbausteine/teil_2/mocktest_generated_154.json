@@ -1,0 +1,60 @@
+{
+    "title": "Anhaltende Probleme beim Zugriff auf das Projektlaufwerk P-Marketing",
+    "textinhalt": "Sehr geehrte Damen und Herren vom IT-Support,\n\nich __1__ erneut an Sie, da ich weiterhin Probleme beim Zugriff auf das Projektlaufwerk 'P-Marketing' habe.\n\nDer Zugriff wird mir trotz korrekter Anmeldedaten __2__ verweigert. Dieses Problem tritt unregelmäßig, aber häufig auf, meistens am Vormittag.\n\nDies __3__ meine Arbeit erheblich, da ich dringend auf die dort gespeicherten Dateien für das aktuelle Kundenprojekt angewiesen bin.\n\nEin Neustart des Systems oder eine Überprüfung der Netzwerkverbindung __4__ bisher leider keine Abhilfe.\n\nKönnten Sie bitte __5__, woran dies liegen könnte, und gegebenenfalls meine Zugriffsberechtigungen überprüfen?\n\nIch wäre Ihnen für __6__ sehr dankbar, da die Projektdeadline näher rückt.\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen\nMax Mustermann\nAbteilung Marketing",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "schreibe heute",
+                "b": "wende mich",
+                "c": "kontaktiere hiermit"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "manchmal nur",
+                "b": "angeblich auch",
+                "c": "immer wieder"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "beeinträchtigt",
+                "b": "stört leider",
+                "c": "verhindert komplett"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "zeigten leider",
+                "b": "führten zu",
+                "c": "brachten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "kurz anschauen",
+                "b": "untersuchen",
+                "c": "mal nachsehen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "eine zeitnahe Unterstützung",
+                "b": "Ihre baldige Meinung",
+                "c": "einen guten Vorschlag"
+            },
+            "loesung": "a"
+        }
+    ]
+}

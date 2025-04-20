@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage zum Lieferstatus Ihrer Bestellung Nr. 47-B/2024",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung Nr. 47-B/2024 vom 15. Mai 2024.\n\nDie Lieferung der bestellten Komponenten war für den 05. Juni 2024 __1__ . \nLeider __2__ die Ware bis heute nicht erhalten. \n\nDa wir auf diese Teile __3__ für unsere laufende Produktion __3__ , verursacht diese Verzögerung erhebliche Probleme in unserem Betriebsablauf. Wir bitten Sie daher __4__ des aktuellen Lieferstatus.\n\nKönnten Sie uns bitte mitteilen, __5__ die Verzögerung verursacht wurde und, was noch wichtiger ist, wann wir __6__ mit der Ankunft der Lieferung __6__ ?\n\nWir erwarten Ihre zeitnahe Rückmeldung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "später angekündigt worden",
+                "b": "ursprünglich zugesagt war",
+                "c": "eventuell geplant gewesen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "ist bei uns aber",
+                "b": "wurden wir trotzdem",
+                "c": "haben wir jedoch"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "sofort brauchen könnten",
+                "b": "dringend angewiesen sind",
+                "c": "zeitnah benötigen würden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "bezüglich einer raschen Erklärung",
+                "b": "um schnellstmögliche Aufklärung",
+                "c": "für baldige Informationen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "weshalb eventuell",
+                "b": "warum eigentlich",
+                "c": "wodurch genau"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "verbindlich rechnen können",
+                "b": "voraussichtlich bekommen werden",
+                "c": "sicherlich erwarten dürfen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

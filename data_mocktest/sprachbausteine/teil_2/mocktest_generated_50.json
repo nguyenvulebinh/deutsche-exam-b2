@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Projekt „Neustart CRM“",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ vom 15. Mai möchten wir uns zunächst für Ihre Geduld bedanken. Wir verstehen Ihren Unmut über die Verzögerung beim Abschluss des Projekts „Neustart CRM“ und möchten Ihnen versichern, dass wir __2__.\n\nLeider kam es __3__, die mehr Zeit in Anspruch nahmen als ursprünglich geplant. Diese Anpassungen waren jedoch notwendig, um die langfristige Stabilität des Systems zu gewährleisten.\n\nUnser Projektteam arbeitet __4__, die Implementierung schnellstmöglich abzuschließen. Wir gehen aktuell davon aus, dass das System bis Ende nächster Woche vollständig betriebsbereit sein wird.\n\n__5__ bieten wir Ihnen für den ersten Monat nach Inbetriebnahme einen kostenlosen Premium-Support an. Details hierzu finden Sie im Anhang.\n\nWir sind zuversichtlich, das Projekt nun zügig zu Ihrer vollen Zufriedenheit beenden zu können. Selbstverständlich stehen wir Ihnen für Rückfragen __6__ zur Verfügung.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\nProjektleitung, Innovate Solutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Als Antwort für Ihre Nachricht",
+                "b": "Bezugnehmend auf Ihre Nachricht",
+                "c": "Wegen Ihrer letzten Nachricht"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die entstandenen Unannehmlichkeiten zutiefst bedauern",
+                "b": "Ihre Situation zur Kenntnis genommen haben",
+                "c": "die Verzögerung durchaus verstehen können"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "mittels interner Prozessanpassungen dazu",
+                "b": "trotz interner Prozessanpassungen dazu",
+                "c": "aufgrund interner Prozessanpassungen dazu"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "gelegentlich daran",
+                "b": "mit Hochdruck daran",
+                "c": "gegen die Probleme"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Damit Sie Verständnis haben,",
+                "b": "Obwohl die Verzögerung besteht,",
+                "c": "Um die Verzögerung zu kompensieren,"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "selbstverständlich gerne",
+                "b": "manchmal kurz",
+                "c": "hoffentlich bald"
+            },
+            "loesung": "a"
+        }
+    ]
+}

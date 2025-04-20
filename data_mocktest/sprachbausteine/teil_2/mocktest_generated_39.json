@@ -1,0 +1,60 @@
+{
+    "title": "Wichtige Information: Obligatorischer Workshop zum Datenschutz",
+    "textinhalt": "Sehr geehrte Mitarbeiterinnen und Mitarbeiter,\n\n__1__ über einen wichtigen und obligatorischen Workshop zum Thema Datenschutz (DSGVO/GDPR), der für alle Angestellten unseres Unternehmens durchgeführt wird.\n\n__2__ und unserer internen Richtlinien ist es unerlässlich, dass alle Mitarbeiterinnen und Mitarbeiter regelmäßig geschult werden, um einen sicheren Umgang mit sensiblen Daten zu gewährleisten. Ziel ist es, Risiken zu minimieren und die Compliance sicherzustellen.\n\nDer Workshop __3__ am [Datum einfügen, z.B., 15. Juli] von 10:00 bis 12:00 Uhr. Ein Link zur Teilnahme wird Ihnen rechtzeitig zugesendet.\n\n__4__ für alle Mitarbeiterinnen und Mitarbeiter ohne Ausnahme. Bitte stellen Sie sicher, dass Sie an diesem Termin teilnehmen können. Planen Sie keine anderen Termine in diesem Zeitfenster.\n\n__5__, wenden Sie sich bitte an die Personalabteilung unter [E-Mail-Adresse oder Telefonnummer einfügen]. Weitere Informationen finden Sie auch in Kürze im Intranet.\n\n__6__ für diese notwendige Maßnahme und Ihre Kooperation.\n\nMit freundlichen Grüßen\n\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "damit sagen wir Ihnen",
+                "b": "hiermit informieren wir Sie",
+                "c": "hiermit geben wir bekannt"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Wegen der vielen Gesetze",
+                "b": "Trotz der aktuellen Regeln",
+                "c": "Aufgrund der gesetzlichen Vorschriften"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "findet online statt",
+                "b": "passiert im Internet",
+                "c": "wird online gemacht"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Das Mitmachen wäre gut",
+                "b": "Die Teilnahme ist verpflichtend",
+                "c": "Eine Anwesenheit wird gebeten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Falls Fragen auftauchen bei",
+                "b": "Wenn es Fragen gibt",
+                "c": "Sollten Sie Fragen haben"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Wir brauchen Ihre Zustimmung",
+                "b": "Wir bitten um Ihr Verständnis",
+                "c": "Wir hoffen auf Ihre Meinung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

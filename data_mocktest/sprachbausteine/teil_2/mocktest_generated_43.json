@@ -1,0 +1,60 @@
+{
+    "title": "Änderungsvorschläge zum Besprechungsprotokoll vom 12.07.",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\nvielen Dank für die rasche Zusendung des Protokollentwurfs zu unserer Teambesprechung vom 12. Juli. Ich habe den Entwurf sorgfältig gelesen und stimme den Hauptpunkten im Großen und Ganzen zu.\n\nAllerdings möchte ich dennoch __1__ vorschlagen, um die Genauigkeit und Vollständigkeit sicherzustellen. Bei Punkt 4 (\"Zuweisung neuer Aufgaben\") schien mir die genaue Verantwortung für das Kundenfeedback-System nicht __2__ zu sein. Hier wäre eine klarere Formulierung hilfreich.\n\nZudem __3__, dass wir die Deadline für die Einreichung der Projektvorschläge auf den 31. Juli festgelegt haben. Dies ist ein __4__ für die weitere Planung.\n\nIch wäre Ihnen dankbar, wenn Sie diese Punkte __5__ könnten. Selbstverständlich stehe ich für Rückfragen gerne zur Verfügung.\n\nBitte geben Sie mir kurz Bescheid, ob Sie __6__ sind.\n\nMit freundlichen Grüßen\nAnna Schmidt",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Kritikpunkte äußern",
+                "b": "einige Ergänzungen vorschlagen",
+                "c": "auf Details eingehen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "ausführlich diskutiert",
+                "b": "kaum nachvollziehbar",
+                "c": "ganz eindeutig festgehalten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "fehlt im Protokoll",
+                "b": "wurde nicht beachtet",
+                "c": "enthält keine Informationen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "interessanter Vorschlag",
+                "b": "entscheidender Punkt",
+                "c": "offenes Thema"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "bei der Überarbeitung berücksichtigen",
+                "b": "dem Team präsentieren",
+                "c": "noch einmal besprechen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "für die Korrekturen zuständig",
+                "b": "die Notwendigkeit sehen",
+                "c": "mit den Änderungen einverstanden"
+            },
+            "loesung": "c"
+        }
+    ]
+}

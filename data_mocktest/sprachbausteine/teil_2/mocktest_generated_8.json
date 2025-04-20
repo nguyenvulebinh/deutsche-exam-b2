@@ -1,0 +1,60 @@
+{
+    "title": "Klärungsbedarf: Lieferung vom 15.05. / Ihre Rechnung Nr. 7821",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung Nr. 12345 und Ihre Lieferung vom 15.05. sowie die dazugehörige Rechnung Nr. 7821.\n\nDie Ware ist bei uns eingetroffen. __1__ haben wir jedoch eine Diskrepanz zwischen dem Lieferschein und der tatsächlich gelieferten Menge festgestellt. Laut Lieferschein Nr. L-987 sollten 20 Kartons des Artikels 'Bürostuhl Modell Comfort' (Art.-Nr. BS-C-01) enthalten sein, __2__ wurden nur 18 Kartons geliefert.\n\nDa die Rechnung Nr. 7821 bereits auf der Basis von 20 Kartons ausgestellt wurde, bitten wir Sie, __3__. Wir benötigen die vollständige Menge für unsere neue Büroausstattung dringend.\n\nWir bitten Sie höflich, __4__ und uns kurzfristig über das weitere Vorgehen zu informieren. Idealerweise bitten wir __5__ der fehlenden zwei Kartons bis spätestens Ende dieser Woche.\n\nIhrer baldigen Rückmeldung __6__.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Ihre Abteilung]\n[Ihre Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ohne weitere Prüfung",
+                "b": "Bei der sofortigen Kontrolle",
+                "c": "Vor dem Auspacken"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "immerhin schon",
+                "b": "tatsächlich aber nur",
+                "c": "vermutlich sogar mehr"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die Rechnung entsprechend anzupassen",
+                "b": "die Rechnung schnellstmöglich zu bezahlen",
+                "c": "die Lieferung komplett neu zu organisieren"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "diese Bestellung zu stornieren",
+                "b": "diesen Sachverhalt zu prüfen",
+                "c": "dieses Versehen zu entschuldigen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "auf einen erneuten Rabatt",
+                "b": "für eine längere Zahlungsfrist",
+                "c": "um eine umgehende Nachlieferung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "rechnen wir fest",
+                "b": "sehen wir entgegen",
+                "c": "fragen wir nach"
+            },
+            "loesung": "b"
+        }
+    ]
+}

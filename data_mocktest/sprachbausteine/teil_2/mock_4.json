@@ -1,0 +1,61 @@
+{
+    "title": "Ihre Anfrage",
+    "textinhalt": "Sehr geehrte Frau Gundermann,\n\nvielen Dank für Ihre Anfrage. Gerne schicken wir Ihnen in der Anlage __1__ zu Pflegeprodukten mit einer detaillierten Preisliste zu.\n\nAls Spezialist für __2__ bieten wir Ihnen neben einer Auswahl an hochwertigen Marken auch ein neues Programm an, das Ihnen und Ihren Kund*innen hilft, Termine online __3__. Der Vorteil: Sie müssen für Telefonate seltener Ihre Arbeit unterbrechen und können Ihre Kund*innen im Salon weiter betreuen.\n\nDen Zugang zu diesem Programm möchten wir Ihnen als Neukundin für ein Jahr kostenlos __4__.\nDanach können Sie mit einer dreimonatigen Kündigungsfrist __5__.\n\nWir freuen uns auf Ihre Bestellung und hoffen, auch Sie bald zu unseren __6__ zu zählen.\n\nMit freundlichen Grüßen\nJan Lewandowski",
+    "aufgaben": [
+      {
+        "id": 1,
+        "options": {
+          "a": "unser aktuelles Angebot",
+          "b": "unsere ausführliche Beratung",
+          "c": "unsere umfangreichen Dienstleistungen"
+        },
+        "loesung": "a"
+      },
+      {
+        "id": 2,
+        "options": {
+          "a": "berufliche Weiterbildungen",
+          "b": "fachliche Anforderungen",
+          "c": "professionellen Bedarf"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 3,
+        "options": {
+          "a": "befristet einzustellen",
+          "b": "kurzfristig zu berechnen",
+          "c": "zeitsparend zu vereinbaren"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 4,
+        "options": {
+          "a": "in Auftrag geben",
+          "b": "in Rechnung stellen",
+          "c": "zur Verfügung stellen"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 5,
+        "options": {
+          "a": "das Produkt reklamieren",
+          "b": "ein Abonnement abschließen",
+          "c": "eine Bestellung aufgeben"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 6,
+        "options": {
+          "a": "guten Geschäftsfreunden",
+          "b": "neuen Lieferanten",
+          "c": "zufriedenen Kunden"
+        },
+        "loesung": "c"
+      }
+    ]
+}
+  

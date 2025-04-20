@@ -1,0 +1,60 @@
+{
+    "title": "Zusammenfassung Projektbesprechung",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nim Nachgang zu unserer heutigen Projektbesprechung möchte ich die wichtigsten Ergebnisse und nächsten Schritte __1__ festhalten.\n\nAnna, du hattest dich __2__ die Recherche zu den neuen Software-Optionen zu übernehmen. __3__ dafür dient die Bedarfsanalyse aus dem letzten Quartal, die ihr im Projektordner findet.\n\nBitte präsentiere deine Ergebnisse __4__ nächsten Teammeeting am kommenden Montag. Es ist für den Projekterfolg __5__, dass wir diese Informationen rechtzeitig erhalten, um die nächsten Schritte planen zu können.\n\nSolltet ihr __6__ benötigen oder Rückfragen haben, meldet euch bitte direkt bei mir.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "detailliert und ausführlich",
+                "b": "noch einmal kurz",
+                "c": "ohne weitere Verzögerung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bereit erklärt",
+                "b": "davon abgeraten",
+                "c": "dazu gezwungen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Im Gegensatz",
+                "b": "Als Grundlage",
+                "c": "Ohne Rücksicht"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "anstelle des",
+                "b": "trotz des",
+                "c": "im Rahmen des"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "von großer Bedeutung",
+                "b": "kaum zu verantworten",
+                "c": "eher nebensächlich"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "eine längere Pause",
+                "b": "weitere Unterstützung",
+                "c": "finanzielle Mittel"
+            },
+            "loesung": "b"
+        }
+    ]
+}

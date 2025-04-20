@@ -1,0 +1,60 @@
+{
+    "title": "Einführung des neuen digitalen Systems zur Reisekostenabrechnung",
+    "textinhalt": "Sehr geehrte Mitarbeiterinnen und Mitarbeiter,\n\nim Rahmen unserer fortschreitenden Digitalisierung und zur Optimierung interner Prozesse freuen wir uns, Ihnen mitteilen zu können, dass wir zum 1. September __1__ zur digitalen Reisekostenabrechnung einführen.\n\nAb dem 1. Oktober tritt dieses System namens 'TravelEx Pro' dann __2__ für alle Mitarbeitenden, die Dienstreisen unternehmen, in Kraft. Papierbasierte Anträge können danach nicht mehr bearbeitet werden.\n\nHiervon versprechen wir uns neben einer transparenteren Abwicklung vor allem __3__ für alle Beteiligten. Die Genehmigungs- und Auszahlungsprozesse werden dadurch erheblich beschleunigt.\n\nUm Ihnen den Übergang zu erleichtern und sicherzustellen, dass alle Nutzer mit dem System vertraut sind, finden im Vorfeld __4__ Schulungen statt. Die Teilnahme ist für alle betroffenen Mitarbeiterinnen und Mitarbeiter notwendig.\n\nDetaillierte Anleitungen, Erklärvideos und die Links zur Anmeldung für die Schulungstermine __5__ ab nächster Woche im Intranet bereitgestellt.\n\nWir sind zuversichtlich, diesen wichtigen Schritt zur Modernisierung unserer Verwaltungsprozesse gemeinsam erfolgreich zu meistern und zählen auf __6__ bei der Umstellung.\n\nMit freundlichen Grüßen\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "eine optionale Alternative",
+                "b": "ein neues digitales System",
+                "c": "eine überarbeitete Papiervorlage"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "freiwillig und ergänzend",
+                "b": "verbindlich und ausschließlich",
+                "c": "testweise und vorübergehend"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "eine erhebliche Zeitersparnis",
+                "b": "kompliziertere Kontrollmechanismen",
+                "c": "einen erhöhten Abstimmungsbedarf"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "gelegentliche informelle",
+                "b": "umfangreiche fakultative",
+                "c": "verpflichtende Online-"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "werden Ihnen per Hauspost zugesandt",
+                "b": "müssen bei der Personalabteilung erfragt werden",
+                "c": "werden Ihnen zeitnah"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihre kritische Distanz",
+                "b": "Ihre aktive Mitwirkung",
+                "c": "Ihre finanzielle Geduld"
+            },
+            "loesung": "b"
+        }
+    ]
+}

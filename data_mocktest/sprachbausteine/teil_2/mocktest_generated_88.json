@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde Lieferung Bestellnr. 4812-B",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Nachricht vom 15. März. Wir beziehen uns __1__ bezüglich der Lieferung Ihrer Bestellung mit der Nummer 4812-B.\n\nDass Sie Ihre Ware noch nicht erhalten haben, __2__. Wir verstehen Ihren Unmut über die entstandene Verzögerung.\n\n__3__ Schwierigkeiten bei einem unserer Logistikpartner kam es leider zu einem Rückstand bei der Auslieferung mehrerer Sendungen in Ihrer Region. Diese __4__ konnten wir inzwischen beheben und Ihre Ware wurde heute Morgen versandt.\n\nSie sollte voraussichtlich in den nächsten 2 Werktagen bei Ihnen eintreffen. __5__ für die entstandenen Unannehmlichkeiten werden wir Ihnen die Versandkosten für diese Lieferung gutschreiben.\n\nWir haben bereits Maßnahmen ergriffen, um __6__ zukünftig pünktlich zugestellt wird und bitten nochmals um Entschuldigung.\n\nMit freundlichen Grüßen\n\nKundenservice Team\n[Firmenname]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "anlässlich Ihrer letzten Mail",
+                "b": "bezüglich Ihrer Beschwerde",
+                "c": "über Ihr genanntes Problem"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "finden wir wirklich schade",
+                "b": "akzeptieren wir nur ungern",
+                "c": "bedauern wir außerordentlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Aufgrund unerwarteter",
+                "b": "Trotz einiger",
+                "c": "Während verschiedener"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "interner Diskussionen",
+                "b": "logistischer Engpässe",
+                "c": "betrieblicher Themen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Für weitere Informationen",
+                "b": "Mit freundlicher Absicht",
+                "c": "Als kleine Entschädigung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "sicherzustellen, dass Ihre Sendung",
+                "b": "anzukündigen, dass Ihre Sendung",
+                "c": "zu vermuten, dass Ihre Sendung"
+            },
+            "loesung": "a"
+        }
+    ]
+}

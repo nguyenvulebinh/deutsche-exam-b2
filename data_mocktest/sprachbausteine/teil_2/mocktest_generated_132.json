@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage: Kurs 'Projektmanagement für Fortgeschrittene'",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\n__1__ unserem Kurs \"Projektmanagement für Fortgeschrittene\". Wir freuen uns, dass dieses Angebot Ihr Interesse geweckt hat und senden Ihnen anbei die detaillierte Kursbeschreibung.\n\nDer nächste Kurs findet vom 15. bis 19. September online statt. Wir gehen davon aus, dass dieser Kurs __2__, da er sich an erfahrene Projektleiter richtet, die ihre Methodenkompetenz vertiefen möchten.\n\n__3__ mindestens drei Jahre Berufserfahrung im Projektmanagement oder der erfolgreiche Abschluss unseres Grundkurses. Bitte prüfen Sie, ob Sie diese Kriterien erfüllen.\n\n__4__ die digitalen Seminarunterlagen, Zugang zu unserer Lernplattform sowie das offizielle Teilnahmezertifikat nach Abschluss. Die Kosten belaufen sich auf 850,- EUR zzgl. MwSt.\n\nDie verbindliche Anmeldung __5__ unsere Webseite unter [Link zur Webseite]. Anmeldeschluss ist der 31. August.\n\nSollten Sie darüber hinaus Fragen haben, __6__. Wir würden uns freuen, Sie bald als Teilnehmer bei uns begrüßen zu dürfen.\n\nMit freundlichen Grüßen\n\nIhr Team der Weiterbildungsakademie Nord",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "bezugnehmend auf Ihre Frage zu",
+                "b": "vielen Dank für Ihr Interesse an",
+                "c": "danken wir für Ihre Nachfrage bei"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "passt gut zu Ihren Wünschen",
+                "b": "ist wie für Sie gemacht",
+                "c": "entspricht genau Ihrem Anforderungsprofil"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Voraussetzung für die Teilnahme ist",
+                "b": "Eine Bedingung zum Mitmachen wäre",
+                "c": "Man braucht für den Kurs unbedingt"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Im Kurspreis enthalten sind",
+                "b": "Die Kursgebühr beinhaltet",
+                "c": "Mit der Kursgebühr bekommen Sie"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "wird nur im Internet gemacht bei",
+                "b": "können Sie nur online machen auf",
+                "c": "erfolgt ausschließlich online über"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "sind wir für weitere Auskünfte da",
+                "b": "stehen wir Ihnen gerne zur Verfügung",
+                "c": "können wir Ihnen sicher gut helfen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

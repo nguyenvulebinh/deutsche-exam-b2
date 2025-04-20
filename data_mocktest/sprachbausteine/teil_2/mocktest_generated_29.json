@@ -1,0 +1,60 @@
+{
+    "title": "Neues Verfahren zur Beantragung von Weiterbildungen",
+    "textinhalt": "Sehr geehrte Kolleginnen und Kollegen,\n\nhiermit möchten wir Sie über das neue, standardisierte Verfahren zur Beantragung von externen Weiterbildungsmaßnahmen informieren, das ab dem 1. des kommenden Monats in Kraft tritt.\n\n__1__ mehr Transparenz bei der Vergabe von Weiterbildungsbudgets zu schaffen und eine gerechtere Verteilung der Möglichkeiten sicherzustellen. Das Antragsformular __2__ im Intranet unter dem Menüpunkt „Personalentwicklung\".\n\nAnträge für das kommende Quartal __3__ dem 15. des Vormonats bei Ihrer direkten Führungskraft eingereicht werden. Bitte beachten Sie, dass unvollständige oder verspätete Anträge nicht berücksichtigt werden können.\n\nDie Bewilligung eines Antrags __4__ sowohl Ihrer Führungskraft als auch der Personalabteilung. Die Entscheidung erfolgt unter anderem __5__ für Ihre aktuelle Tätigkeit und der Verfügbarkeit entsprechender Budgetmittel.\n\nWir hoffen, mit diesem neuen Verfahren den Prozess für alle Beteiligten zu vereinfachen. __6__ die Personalabteilung jederzeit gerne zur Verfügung.\n\nMit freundlichen Grüßen\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Der Zweck dieser Änderung sollte,",
+                "b": "Ziel des neuen Verfahrens ist es,",
+                "c": "Der Grund für die Umstellung liegt,"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "erhalten Sie gesondert",
+                "b": "liegt Ihnen bereits vor",
+                "c": "finden Sie ab sofort"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "sollten idealerweise bis",
+                "b": "werden pünktlich zum",
+                "c": "müssen bis spätestens"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "braucht die Erlaubnis",
+                "b": "bedarf der Zustimmung",
+                "c": "erwartet die Bestätigung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "abhängig von der Relevanz",
+                "b": "bezüglich der Relevanz",
+                "c": "ungeachtet der Relevanz"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Falls Fragen sind, wenden Sie",
+                "b": "Für Rückfragen steht Ihnen",
+                "c": "Fragen beantwortet Ihnen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

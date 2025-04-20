@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage nach Messebesuch – Produkt XY",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\n__1__ auf der TechSolutions-Messe in Hannover am vergangenen Dienstag möchten wir unser Interesse an Ihrem vorgestellten SmartSensor-Modul bekräftigen.\n\nIhre Präsentation war sehr aufschlussreich und das Produkt __2__ bei uns, da wir nach innovativen Lösungen für unsere Fertigungsüberwachung suchen.\n\nWir bitten Sie daher __3__ detaillierter technischer Spezifikationen sowie einer aktuellen Broschüre zu diesem Modul. Könnten Sie uns diese bitte per E-Mail zukommen lassen?\n\nDarüber hinaus wären wir Ihnen dankbar für Informationen zu __4__, insbesondere Mengenrabatten und der voraussichtlichen Lieferzeit bei einer Bestellung von ca. 50 Einheiten.\n\n__5__ unserer aktuellen Evaluierung von System-Upgrades wäre eine zeitnahe Information für unsere interne Planung sehr hilfreich.\n\nWir __6__ und bedanken uns im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nEinkaufsabteilung\nTechCorp GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Anknüpfend an unser Gespräch",
+                "b": "Erinnernd an unser Treffen",
+                "c": "Wegen unseres Termins"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "bekam wichtige Bedeutung",
+                "b": "fand großen Anklang",
+                "c": "erhielt deutliche Zustimmung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "für die Übergabe von",
+                "b": "über den Erhalt von",
+                "c": "um die Zusendung von"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Ihren Preisvorstellungen",
+                "b": "Ihren allgemeinen Geschäftsbedingungen",
+                "c": "Ihren diesbezüglichen Konditionen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Im Rahmen",
+                "b": "Anlässlich",
+                "c": "Trotz"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "hoffen auf Ihre baldigen Unterlagen",
+                "b": "sehen Ihrer baldigen Rückmeldung entgegen",
+                "c": "warten auf eine schnelle Reaktion"
+            },
+            "loesung": "b"
+        }
+    ]
+}

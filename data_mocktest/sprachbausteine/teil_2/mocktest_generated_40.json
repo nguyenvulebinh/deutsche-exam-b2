@@ -1,0 +1,60 @@
+{
+    "title": "Nachbesprechung unseres Meetings vom 15. Mai",
+    "textinhalt": "Sehr geehrter Herr Bauer,\n\nvielen Dank für das konstruktive Gespräch am vergangenen Mittwoch in Ihren Büroräumen.\n\nWie besprochen, fasse ich die wichtigsten Punkte kurz zusammen: Wir __1__ darüber, dass die Marketingkampagne in zwei Phasen aufgeteilt wird. Es wurde ebenfalls vereinbart, dass unser Team für die Erstellung der Online-Inhalte __2__, während Ihre Agentur die Verantwortung für die Printmaterialien übernimmt.\n\n__3__ gab es noch die Frage, ob die erste Phase bereits Ende Juni oder erst Mitte Juli starten soll. Könnten Sie hierzu intern noch einmal Rücksprache halten?\n\nWie vereinbart, werde ich Ihnen den überarbeiteten Projektplan bis Ende dieser Woche __4__. Was die Budgetanpassung betrifft, __5__, diese bis spätestens Anfang nächster Woche abzuschließen, um Verzögerungen zu vermeiden.\n\nIch sehe __6__ positiv entgegen und bin zuversichtlich, dass wir das Projekt gemeinsam erfolgreich umsetzen werden.\n\nMit freundlichen Grüßen\n\nAnna Schmidt\nProjektleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "dazu entschieden haben",
+                "b": "darüber einig waren",
+                "c": "davon ausgingen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die Aufgabe erfüllt",
+                "b": "den Vorschlag macht",
+                "c": "die Verantwortung trägt"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Hinsichtlich des Zeitplans",
+                "b": "Aufgrund des Zeitplans",
+                "c": "Anstelle des Zeitplans"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Sie zu informieren",
+                "b": "Ihnen vorzulegen",
+                "c": "Ihnen zukommen zu lassen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "müssen wir erreichen",
+                "b": "sollten wir anstreben",
+                "c": "dürfen wir erwarten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihrer baldigen Bestätigung",
+                "b": "einer weiterhin konstruktiven Zusammenarbeit",
+                "c": "unseres nächsten Treffens"
+            },
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Einführung eines neuen Prozesses zur Bestellung von Büromaterial",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\num die Bestellung von Büromaterial effizienter zu gestalten, __1__ wir ab dem 1. nächsten Monats einen neuen digitalen Prozess.\n\nDieser Schritt soll helfen, den Bestellvorgang zu vereinheitlichen und die Kosten besser zu __2__. Zukünftig sind alle Anforderungen für Büromaterial ausschließlich über das neue Online-Formular im Intranet einzureichen.\n\nBitte stellen Sie sicher, dass alle __3__ wie Kostenstelle und benötigte Menge korrekt angegeben werden. Anträge werden wöchentlich gesammelt und bearbeitet.\n\n__4__ Sie bitte, dass Bestellungen, die nach Mittwoch, 12:00 Uhr, eingehen, erst in der Folgewoche berücksichtigt werden können. Die __5__ beträgt in der Regel 2-3 Werktage nach Genehmigung.\n\nEine detaillierte Anleitung finden Sie ebenfalls im Intranet. Sollten Sie Fragen haben, __6__ Ihnen die Verwaltung gerne zur Verfügung.\n\nWir hoffen auf Ihr Verständnis und eine reibungslose Umstellung.\n\nMit freundlichen Grüßen,\nIhre Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "beginnen ... mit",
+                "b": "führen ... ein",
+                "c": "stellen ... vor"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "verwalten",
+                "b": "überprüfen",
+                "c": "kontrollieren"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "notwendigen Angaben",
+                "b": "fehlenden Details",
+                "c": "wichtigen Informationen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Verstehen",
+                "b": "Erinnern",
+                "c": "Beachten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "garantierte Dauer",
+                "b": "übliche Lieferzeit",
+                "c": "normale Bearbeitung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "ist",
+                "b": "hilft",
+                "c": "steht"
+            },
+            "loesung": "c"
+        }
+    ]
+}

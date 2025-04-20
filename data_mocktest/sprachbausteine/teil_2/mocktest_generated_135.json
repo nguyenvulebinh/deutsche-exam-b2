@@ -1,0 +1,60 @@
+{
+    "title": "Aktueller Stand Projekt 'Kundenportal-Erweiterung'",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\nhiemit möchten wir Sie über den aktuellen Stand des Projekts 'Kundenportal-Erweiterung' informieren. Die Entwicklung der Kernfunktionen __1__ und wir konnten bereits erste interne Tests erfolgreich durchführen.\n\nAllerdings __2__ bei der Integration des externen Zahlungsdienstleisters gekommen. Dies liegt an einer kurzfristig vom Anbieter geänderten technischen Schnittstelle, die Anpassungen unsererseits erfordert.\n\n__3__ wird sich die finale Implementierung des Zahlungsmoduls voraussichtlich um 3-4 Arbeitstage verschieben. Unser Entwicklungsteam arbeitet bereits __4__, um die notwendigen Änderungen schnellstmöglich umzusetzen und die Auswirkungen so gering wie möglich zu halten.\n\nWir sind zuversichtlich, den neuen Zeitplan einhalten zu können und gehen davon aus, Ihnen die voll funktionsfähige Erweiterung bis Mitte nächster Woche zur Abnahme bereitstellen zu können. Die Verzögerung __5__ wir sehr und bitten um Ihr Verständnis.\n\nSelbstverständlich halten wir Sie über die weiteren Schritte proaktiv auf dem Laufenden. Für Rückfragen oder ein kurzes Gespräch __6__.\n\nMit freundlichen Grüßen\n\nIhr Projektteam\nInnovatec Solutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "beginnt nach Plan",
+                "b": "macht gute Fortschritte",
+                "c": "zeigt wenige Probleme"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "haben wir eine Verzögerung bemerkt",
+                "b": "wurde ein Fehler vermieden",
+                "c": "ist es zu einer Schwierigkeit gekommen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Obwohl",
+                "b": "Zunächst",
+                "c": "Daher"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "an einer Lösung",
+                "b": "mit Hochdruck daran",
+                "c": "unter großem Zeitdruck"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "bedauern",
+                "b": "entschuldigen",
+                "c": "weisen darauf hin"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "werden wir Sie bald kontaktieren",
+                "b": "können Sie sich gerne melden",
+                "c": "stehen wir Ihnen jederzeit zur Verfügung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

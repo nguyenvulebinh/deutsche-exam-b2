@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage bezüglich Weiterbildungsmöglichkeit – Projektmanagement",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nhiermit möchte ich mein Interesse an einer externen Weiterbildung im Bereich Projektmanagement bekunden und mich nach den __1__ durch das Unternehmen erkundigen.\n\nIch bin davon überzeugt, dass die Inhalte dieses Kurses für meine tägliche Arbeit in der Marketingabteilung äußerst __2__ wären. Sie würden es mir ermöglichen, zukünftige Projekte noch effizienter zu planen und zu steuern, was letztlich auch der Abteilung zugutekäme.\n\nKönnten Sie mir bitte mitteilen, wie das __3__ für die Beantragung einer solchen Weiterbildungsmaßnahme in unserem Unternehmen aussieht? Mich würde insbesondere interessieren, ob und in welchem Umfang eine __4__ der Kursgebühren möglich ist.\n\nGerne __5__ Ihnen bei Bedarf detaillierte Informationen zum Kursinhalt und zum Anbieter zukommen lassen.\n\nIch danke Ihnen im Voraus für Ihre Bemühungen und sehe Ihrer __6__ mit Interesse entgegen.\n\nMit freundlichen Grüßen\n\nKlaus Müller",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Vorteile einer Schulung",
+                "b": "Möglichkeiten der Unterstützung",
+                "c": "Anforderungen an die Teilnahme"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "von großem Nutzen",
+                "b": "kaum zu vermeiden",
+                "c": "eine gute Abwechslung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "persönliche Gespräch",
+                "b": "neue Regelwerk",
+                "c": "übliche Verfahren"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "schriftliche Genehmigung",
+                "b": "finanzielle Beteiligung",
+                "c": "steuerliche Absetzung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "zeige ich Ihnen",
+                "b": "empfehle ich Ihnen",
+                "c": "lasse ich Ihnen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "baldigen Rückmeldung",
+                "b": "nächsten Einladung",
+                "c": "freundlichen Grüßen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Anfrage",
+    "textinhalt": "Sehr geehrte Frau Peters,\n\nwir sind der führende Anbieter von Online-Lehrprogrammen für Schulen und Bildungsträger im Schwarzwald. Auf der diesjährigen Target Computer-Messe sind wir auf __1__ im Bereich Multimedia aufmerksam geworden: den PC VXL aus der Serie IIP.\n\nBitte schicken Sie uns __2__ der Kosten über eine Abnahme von 12 PCs inklusive der Lieferung an unsere Niederlassung in Furtwangen. Geben Sie uns bitte außerdem Ihre Lieferzeit, Gewährleistung und Zahlungsbedingungen an.\n\nDa wir weitere Geräte für unseren Firmensitz in Bad Boll benötigen, würden wir Ihnen bei guten Konditionen gerne auch __3__ erteilen. Können Sie uns daher schon heute mitteilen, __4__ Sie Rabatte anbieten?\n\nAlle noch offenen Fragen __5__ kann Ihnen unsere Geschäftsführerin Frau Dr. Weser gerne beantworten.\n\nWir freuen uns auf __6__ bis zum 02. Februar 20...\n\nMit freundlichen Grüßen\nWaldemar Traun",
+    "aufgaben": [
+      {
+        "id": 1,
+        "options": {
+          "a": "Ihr aktuelles Angebot",
+          "b": "Ihr großes Interesse",
+          "c": "Ihre neuesten Angaben"
+        },
+        "loesung": "a"
+      },
+      {
+        "id": 2,
+        "options": {
+          "a": "den offenen Betrag",
+          "b": "die vereinbarte Summe",
+          "c": "eine detaillierte Aufstellung"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 3,
+        "options": {
+          "a": "einen Dauerauftrag",
+          "b": "einen Erstauftrag",
+          "c": "diesen Folgeauftrag"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 4,
+        "options": {
+          "a": "mit welcher Absicht",
+          "b": "unter welchen Bedingungen",
+          "c": "zu welchen Zwecken"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 5,
+        "options": {
+          "a": "bezüglich unserer Anfrage",
+          "b": "zu dieser Bestellung",
+          "c": "über unsere Lieferung"
+        },
+        "loesung": "a"
+      },
+      {
+        "id": 6,
+        "options": {
+          "a": "eine gute Zusammenarbeit",
+          "b": "eine schnelle Lösung",
+          "c": "Ihr unverbindliches Angebot"
+        },
+        "loesung": "c"
+      }
+    ]
+}
+  

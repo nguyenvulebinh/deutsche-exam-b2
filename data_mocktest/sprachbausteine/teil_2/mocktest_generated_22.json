@@ -1,0 +1,60 @@
+{
+    "title": "Nachfrage zu Bestellung Nr. 745-Bürobedarf vom 18.06.",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\n__1__ vom 18.06. über Büromaterial (Ihre Auftragsbestätigung Nr. AB-987) möchten wir nachfragen, da wir die Lieferung, die für den 25.06. bestätigt wurde, __2__.\n\n__3__, führt dies mittlerweile zu Engpässen in unserer Verwaltung. Wir sind auf das Material für unsere täglichen Arbeitsabläufe angewiesen.\n\nDeshalb __4__, woran die Verzögerung liegt und __5__. Können Sie uns bitte einen verlässlichen, neuen Liefertermin nennen?\n\nWir __6__ und danken Ihnen vorab für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]\n[Ihre Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "wegen unserer Bestellung",
+                "b": "bezugnehmend auf unsere Bestellung",
+                "c": "in Bezug auf unsere Bestellung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "immer noch vermisst wird",
+                "b": "bis heute nicht angekommen",
+                "c": "leider noch nicht erhalten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Da diese Artikel dringend benötigt werden",
+                "b": "Obwohl diese Artikel wichtig sind",
+                "c": "Weil wir diese Artikel brauchen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "fragen wir Sie nach Information",
+                "b": "ersuchen wir Sie um Mitteilung",
+                "c": "bitten wir Sie um Auskunft"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "wie die Zustellung geplant wurde",
+                "b": "wann mit der Zustellung zu rechnen ist",
+                "c": "ob die Zustellung bald erfolgt"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "warten wir auf Ihre schnelle Antwort",
+                "b": "sehen wir Ihrer baldigen Rückmeldung entgegen",
+                "c": "erwarten wir Ihre umgehende Reaktion"
+            },
+            "loesung": "b"
+        }
+    ]
+}

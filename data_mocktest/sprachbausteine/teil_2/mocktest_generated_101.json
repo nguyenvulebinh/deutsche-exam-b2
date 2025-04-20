@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Bestellung #745-B812",
+    "textinhalt": "Sehr geehrte Frau Kowalski,\n\nwir haben Ihre Nachricht vom 15. Mai bezüglich der verspäteten Lieferung Ihrer Bestellung #745-B812 erhalten und __1__ die damit verbundenen Unannehmlichkeiten sehr.\n\nDie Verzögerung __2__ unerwartete Engpässe bei unserem Logistikpartner, die leider auch Ihre Sendung betroffen haben. Wir arbeiten eng mit dem Dienstleister zusammen, um solche Situationen zukünftig zu vermeiden.\n\nWir verstehen Ihren Ärger und möchten __3__ für die entstandene Wartezeit einen Nachlass von 15% auf den Warenwert anbieten. Dieser Betrag __4__ Ihrem Kundenkonto gutgeschrieben und bei Ihrer nächsten Bestellung automatisch verrechnet.\n\nZusätzlich können wir bestätigen, dass Ihre Ware unser Lager gestern verlassen hat und laut Sendungsverfolgung morgen bei Ihnen eintreffen sollte. Wir __5__ die Sendung weiterhin genau.\n\nWir hoffen __6__ und würden uns freuen, Sie auch in Zukunft zu unseren geschätzten Kundinnen zählen zu dürfen.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\nKundenserviceleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "finden",
+                "b": "bedauern",
+                "c": "meinen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "liegt an",
+                "b": "stammt aus",
+                "c": "ist auf"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Sie deshalb",
+                "b": "Ihnen als Entschädigung",
+                "c": "Ihnen zuliebe"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "wurde bereits",
+                "b": "könnte bald",
+                "c": "sollte lieber"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "verfolgen",
+                "b": "bestellen",
+                "c": "untersuchen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "auf weitere Hinweise",
+                "b": "auf Ihr Verständnis",
+                "c": "über Ihre Meinung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

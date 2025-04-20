@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde vom 15.05. – Bestellnummer 789123",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ vom 15. Mai 2024 möchten wir uns zunächst aufrichtig für __2__ entschuldigen, die Ihnen durch die Verzögerung Ihrer Bestellung entstanden sind.\n\nDie verspätete Lieferung ist __3__ bei einem unserer Zulieferer, die leider nicht vorhersehbar waren. Wir bedauern die Situation sehr und arbeiten mit Hochdruck daran, Ihre Ware so schnell wie möglich zu versenden.\n\nNach aktuellem Stand wird die Zustellung __4__ 22. Mai 2024 erfolgen. Sie erhalten eine separate Versandbestätigung, sobald die Ware unser Lager verlässt.\n\nAls kleine Entschädigung für die Wartezeit möchten wir Ihnen für diese Bestellung __5__ von 10% auf den Warenwert. Dieser wird automatisch auf Ihrer Rechnung berücksichtigt.\n\nWir hoffen sehr, trotz dieser ärgerlichen Verzögerung weiterhin __6__ und versichern Ihnen, dass dies ein Ausnahmefall bleiben wird.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\nWebShop GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "in Anbetracht Ihrer Beschwerde",
+                "b": "bezugnehmend auf Ihre Beschwerde",
+                "c": "hinsichtlich Ihrer Beschwerde"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "den verursachten Schaden",
+                "b": "die gemachten Schwierigkeiten",
+                "c": "die entstandenen Unannehmlichkeiten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "durch unvorhersehbare Probleme entstanden",
+                "b": "wegen plötzlicher Hindernisse bedingt",
+                "c": "auf unerwartete Lieferengpässe zurückzuführen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "vielleicht sogar am",
+                "b": "nun voraussichtlich am",
+                "c": "eigentlich schon am"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "einen Rabatt gewähren",
+                "b": "einen Preisnachlass machen",
+                "c": "eine Ermäßigung geben"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihre Zustimmung erwarten",
+                "b": "auf Ihr Verständnis zählen",
+                "c": "mit Ihrer Einsicht rechnen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

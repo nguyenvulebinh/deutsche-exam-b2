@@ -1,0 +1,60 @@
+{
+    "title": "Bitte um Status-Update Projekt Alpha",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\n**__1__** der wichtigen Präsentation für die Geschäftsleitung nächste Woche möchte ich Sie um ein kurzes Update bezüglich Ihrer Aufgaben im Projekt Alpha bitten.\n\nKönnten Sie mir bitte mitteilen, wie **__2__** bei Ihren Teilaufgaben ist? Insbesondere interessiert mich der Fortschritt bei der Datenanalyse, da dieser Bereich **__3__** für die nachfolgenden Arbeitspakete ist.\n\nDiese Informationen sind notwendig, **__4__** wir den Gesamtfortschritt realistisch einschätzen und eventuell notwendige Anpassungen am Zeitplan vornehmen können.\n\nSollte es unvorhergesehene Schwierigkeiten geben oder falls Sie zusätzliche **__5__**, lassen Sie es mich bitte ebenfalls umgehend wissen, damit wir gemeinsam nach Lösungen suchen können.\n\nIch wäre Ihnen dankbar, wenn Sie mir diese Informationen **__6__** zukommen lassen könnten.\n\nVielen Dank für Ihre Kooperation.\n\nMit freundlichen Grüßen\n\nKlaus Schmidt\nProjektleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "anstelle von",
+                "b": "im Hinblick auf",
+                "c": "trotzdem"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die generelle Meinung",
+                "b": "der ungefähre Inhalt",
+                "c": "der aktuelle Stand"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "von zentraler Bedeutung",
+                "b": "kaum zu berücksichtigen",
+                "c": "mit großem Interesse"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "obwohl wir planen wollen",
+                "b": "damit wir realistisch einschätzen können",
+                "c": "während wir eingeschätzt haben"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Verantwortung abgeben",
+                "b": "Unterstützung benötigen",
+                "c": "Feedback erwarten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "irgendwann nächste Woche",
+                "b": "schon vor einiger Zeit",
+                "c": "bis spätestens morgen Nachmittag"
+            },
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Nachbereitung Kick-off-Meeting Projekt Alpha",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nbezugnehmend auf __1__ zum Start von Projekt Alpha, möchte ich die wichtigsten Punkte und nächsten Schritte kurz zusammenfassen.\n\nWir haben uns darauf geeinigt, dass zunächst die detaillierte Anforderungsanalyse Priorität hat. Die zentralen __2__ sollen bis Ende nächster Woche vorliegen.\n\n__3__ wurden konkrete Aufgaben verteilt: Frau Bauer wird die Koordination mit der IT-Abteilung __4__, dass alle technischen Voraussetzungen zeitnah erfüllt sind. Herr Schmidt ist __5__, die notwendigen Marktrecherchen durchzuführen und die Ergebnisse bis zum 30.06. zu präsentieren.\n\nBitte beachtet die __6__. Das detaillierte Protokoll mit allen weiteren Informationen findet ihr zur Einsicht im Anhang.\n\nBei Fragen stehe ich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nProjektleitung Alpha",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "unserer gemeinsamen Diskussion",
+                "b": "unserer gestrigen Besprechung",
+                "c": "unserem letzten Treffen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Punkte dieser Sitzung",
+                "b": "Folgen dieses Schritts",
+                "c": "Ergebnisse dieser Phase"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Des Weiteren",
+                "b": "Ebenfalls",
+                "c": "Im Anschluss daran"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "leiten und kontrollieren",
+                "b": "übernehmen und sicherstellen",
+                "c": "beginnen und prüfen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "damit beauftragt",
+                "b": "daran interessiert",
+                "c": "dafür verantwortlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "im Protokoll genannten Fristen",
+                "b": "gesetzten Ziele des Protokolls",
+                "c": "wichtigen Termine im Protokoll"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Antwort auf Ihre Beschwerde",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nwir beziehen uns auf Ihre Nachricht vom 15. Mai bezüglich Ihrer Bestellung Nr. 78234 und bedauern sehr, dass die Lieferung __1__ hat.\n\nWir haben die Angelegenheit umgehend geprüft. __2__ bei unserem Versanddienstleister ist es kurzfristig zu unerwarteten Personalengpässen gekommen.\n\nWir verstehen, dass dies für Sie besonders __3__ ist, da Sie die Ware dringend erwartet haben.\n\nAls kleine Entschädigung für die entstandenen __4__ möchten wir Ihnen anbieten, die Versandkosten für diese Lieferung zu übernehmen.\n\nIhre Sendung wurde inzwischen neu disponiert und sollte Sie __5__ der nächsten zwei Werktage erreichen.\n\nWir bitten Sie nochmals um Entschuldigung und hoffen auf Ihr __6__.\n\nMit freundlichen Grüßen\nIhr Kundenservice-Team",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "liegen geblieben",
+                "b": "sich verspätet",
+                "c": "sich verzögert"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Aufgrund von Problemen",
+                "b": "Trotz aller Bemühungen",
+                "c": "Wegen einiger Schwierigkeiten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "kompliziert",
+                "b": "ärgerlich",
+                "c": "unfreundlich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Schwierigkeiten",
+                "b": "Aufgaben",
+                "c": "Unannehmlichkeiten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "im Laufe",
+                "b": "innerhalb von",
+                "c": "an den"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Verständnis",
+                "b": "Einverständnis",
+                "c": "Geduld"
+            },
+            "loesung": "a"
+        }
+    ]
+}

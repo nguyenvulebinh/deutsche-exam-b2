@@ -1,0 +1,60 @@
+{
+    "title": "Reklamation: Unvollständige Lieferung / Beschädigte Ware - Bestellnummer 745-B2",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\n__1__ vom 15. Mai dieses Jahres, die uns gestern zugestellt wurde, __2__, dass die Lieferung unvollständig ist und zudem __3__ waren.\n\nKonkret fehlen die Artikel [Artikelbezeichnung A, Menge] und [Artikelbezeichnung B, Menge] laut beigefügtem Lieferschein. Des Weiteren weisen die gelieferten [Artikelbezeichnung C] erhebliche Transportschäden auf, die eine Verwendung unmöglich machen.\n\n__4__ haben wir Fotos der beschädigten Ware gemacht, die Sie im Anhang finden. Der Vermerk über die unvollständige Lieferung wurde bereits auf dem Übernahmeschein des Spediteurs gemacht.\n\nWir __5__ und um Information, wie Sie weiter verfahren möchten (Nachlieferung der fehlenden Artikel, Ersatz der beschädigten Ware).\n\nWir bitten um eine verbindliche Rückmeldung __6__.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nWareneingangsprüfung\nFirma Beispiel GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "angesichts unserer Anfrage",
+                "b": "bezugnehmend auf unsere Bestellung",
+                "c": "in Bezug auf Ihre Lieferung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "haben wir uns vorgestellt",
+                "b": "konnten wir gern bemerken",
+                "c": "mussten wir leider feststellen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "manche Teile sehr kaputt",
+                "b": "einige Artikel stark beschädigt",
+                "c": "mehrere Produkte fehlerfrei"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Zur Dokumentation der Schäden",
+                "b": "Trotz der fehlenden Teile",
+                "c": "Als Beweis für die Lieferung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "fordern wir eine schnelle Antwort",
+                "b": "wünschen wir uns baldige Hilfe",
+                "c": "bitten wir Sie um umgehende Klärung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "für die kommenden 5 Werktage",
+                "b": "innerhalb der nächsten 5 Werktage",
+                "c": "spätestens in 5 Arbeitstagen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

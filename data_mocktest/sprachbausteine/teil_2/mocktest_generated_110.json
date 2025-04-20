@@ -1,0 +1,60 @@
+{
+    "title": "Kontakt nach der Connecta-Messe",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nbezugnehmend auf __1__ der Connecta-Messe letzte Woche möchte ich mich nochmals für Ihren Besuch an unserem Stand bedanken. Es __2__ gefreut, Sie persönlich kennenzulernen und mehr über Ihre aktuellen Projekte zu erfahren.\n\nBesonders erinnere ich mich an __3__ an unseren neuen Logistiklösungen für mittelständische Unternehmen.\n\nWie besprochen, lasse ich Ihnen hiermit __4__ zu diesen Lösungen zukommen. Sie finden die Broschüre im Anhang dieses Schreibens.\n\nUm auf Ihre spezifischen Bedürfnisse besser eingehen zu können, schlage ich ein kurzes Telefonat in der nächsten Woche vor. Ich würde mich freuen, wenn Sie mir __5__ könnten.\n\nIch bin zuversichtlich, dass unsere Lösungen einen wertvollen Beitrag für Ihr Unternehmen leisten können und __6__ mit Interesse entgegen.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nSales Manager",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihre Anfrage bei",
+                "b": "unser Gespräch auf",
+                "c": "die Diskussion über"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "hat mich sehr",
+                "b": "wäre es gut",
+                "c": "möchte ich gern"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Ihre wichtigen Fragen",
+                "b": "Ihre positive Meinung",
+                "c": "Ihr besonderes Interesse"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "ein konkretes Angebot",
+                "b": "die gewünschten Unterlagen",
+                "c": "unsere aktuellen Preise"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Ihre Zustimmung geben",
+                "b": "ein Treffen bestätigen",
+                "c": "einen Terminvorschlag machen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "sehe Ihrer Rückmeldung",
+                "b": "warte dringend auf",
+                "c": "bitte höflich um"
+            },
+            "loesung": "a"
+        }
+    ]
+}

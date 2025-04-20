@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage: IT-Netzwerkeinrichtung für Kleinunternehmen",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\n__1__ vom 15. Mai bedanken wir uns herzlich für Ihr Interesse an unseren IT-Dienstleistungen.\n\nSie suchen Unterstützung bei der Netzwerkeinrichtung für Ihr Unternehmen. Gerne bestätigen wir Ihnen, dass dies einer unserer Kernbereiche ist und wir __2__ langjährige Erfahrung in der Betreuung von Kleinunternehmen.\n\nDa jede Netzwerkinfrastruktur __3__ berücksichtigt, ist eine pauschale Preisliste oft nicht ausreichend. __4__ ein erstes unverbindliches Beratungsgespräch, um Ihre genauen Bedürfnisse und die Gegebenheiten vor Ort zu verstehen.\n\nBasierend auf diesem Gespräch können wir Ihnen dann __5__ erstellen, das exakt auf Ihre Situation zugeschnitten ist.\n\nUm einen Termin zu vereinbaren, bitten wir Sie, uns einige __6__.\n\nWir freuen uns darauf, von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\nIhr Team der TechSolutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "in Bezug von Ihrer Anfrage",
+                "b": "bezugnehmend auf Ihre Anfrage",
+                "c": "antwortend für Ihre Anfrage"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "arbeiten wir mit",
+                "b": "bestehen wir aus",
+                "c": "verfügen wir über"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "persönliche Aufgaben",
+                "b": "individuelle Anforderungen",
+                "c": "allgemeine Bedingungen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Deshalb empfehlen wir",
+                "b": "Währenddessen bieten wir",
+                "c": "Obwohl schlagen wir"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "eine passende Rechnung",
+                "b": "einen allgemeinen Vorschlag",
+                "c": "ein maßgeschneidertes Angebot"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Terminvorschläge zukommen zu lassen",
+                "b": "freie Zeiten zu geben",
+                "c": "einen Kalender zu schicken"
+            },
+            "loesung": "a"
+        }
+    ]
+}

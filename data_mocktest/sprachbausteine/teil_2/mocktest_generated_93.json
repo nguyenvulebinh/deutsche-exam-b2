@@ -1,0 +1,60 @@
+{
+    "title": "Einführung einer neuen Kommunikationsplattform",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\num die interne Zusammenarbeit weiter zu verbessern und unsere Arbeitsprozesse effizienter zu gestalten, haben wir uns entschieden, eine neue zentrale Kommunikationsplattform einzuführen. Ziel ist es, die Projektkommunikation __1__ und den Informationsaustausch zu vereinfachen.\n\nDie neue Plattform „ConnectFlow“ wird __2__ eingeführt und __3__ unser bisheriges Chat-System sowie die Projekt-Updates per E-Mail.\n\nUm sicherzustellen, dass alle Mitarbeitenden die Plattform von Beginn an optimal nutzen können, werden spezielle Schulungen angeboten. Da die Nutzung der neuen Software für alle relevanten Abteilungen verpflichtend sein wird, __4__ für die entsprechenden Mitarbeiterinnen und Mitarbeiter. Genaue Termine und Anmeldemöglichkeiten erhalten Sie in Kürze.\n\nBei Fragen zur Umstellung oder zur neuen Software __5__ die IT-Abteilung unter it-support@firma.de gerne __5__. Wir sind zuversichtlich, mit Ihrer Unterstützung __6__ zu können.\n\nVielen Dank für Ihr Verständnis und Ihre Kooperation.\n\nMit freundlichen Grüßen\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "grundlegend zu ändern",
+                "b": "deutlich zu optimieren",
+                "c": "neu zu gestalten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "am Ende dieses Quartals",
+                "b": "im Laufe des nächsten Monats",
+                "c": "ab sofort schrittweise"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "wird langfristig ergänzen",
+                "b": "wird vollständig ersetzen",
+                "c": "kann eventuell ablösen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "wird die Teilnahme dringend empfohlen",
+                "b": "bleibt die Teilnahme freiwillig",
+                "c": "ist eine Teilnahme unerlässlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "antwortet Ihnen ... auf Anfrage",
+                "b": "ist für Sie ... erreichbar",
+                "c": "steht Ihnen ... zur Verfügung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "einen positiven Start zu finden",
+                "b": "eine bessere Lösung anzubieten",
+                "c": "einen reibungslosen Übergang zu gewährleisten"
+            },
+            "loesung": "c"
+        }
+    ]
+}

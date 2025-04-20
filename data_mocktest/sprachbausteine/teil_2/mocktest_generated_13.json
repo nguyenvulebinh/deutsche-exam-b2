@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage zu Weiterbildung „Effektives Projektmanagement“",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse bin ich auf Ihrer Webseite auf Ihr Seminarangebot „Effektives Projektmanagement“ gestoßen. Ich __1__ eine passende Weiterbildung in diesem Bereich für meine berufliche Entwicklung.\n\nKönnten Sie mir bitte __2__ zu diesem Kurs zukommen lassen? Insbesondere würde mich interessieren, welche Vorkenntnisse __3__ und ob spezifische Softwarekenntnisse vorausgesetzt werden.\n\nDarüber hinaus wäre es für meine Entscheidung wichtig zu erfahren, ob es Möglichkeiten zur __4__ gibt, zum Beispiel durch staatliche Programme wie den Bildungsgutschein. Können Sie mir außerdem mitteilen, ob der Kurs ausschließlich online stattfindet oder ob auch Präsenztermine __5__?\n\nDiese Informationen __6__ für meine weitere Planung und die Abstimmung mit meinem Arbeitgeber. Vielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "interessiere mich sehr für",
+                "b": "bin auf der Suche nach",
+                "c": "habe gefunden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "ein kurzes Feedback",
+                "b": "grundlegende Auskünfte",
+                "c": "detaillierte Unterlagen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "erforderlich sind",
+                "b": "empfohlen werden",
+                "c": "hilfreich sein könnten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "monetären Gegenleistung",
+                "b": "finanziellen Förderung",
+                "c": "preislichen Nachlasses"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "stattfinden könnten",
+                "b": "vorgesehen sind",
+                "c": "beantragt wurden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "würden mir sehr nutzen",
+                "b": "sind von großer Bedeutung",
+                "c": "benötige ich dringend"
+            },
+            "loesung": "c"
+        }
+    ]
+}

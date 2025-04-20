@@ -1,0 +1,60 @@
+{
+    "title": "Bestätigung: Workshop \"Effektive Teamkommunikation\" am [Datum]",
+    "textinhalt": "Sehr geehrte Kolleginnen und Kollegen,\n\nhiermit möchten wir den Termin für unseren internen Workshop \"Effektive Teamkommunikation\" __1__ bestätigen. Wie bereits besprochen, findet dieser am [Datum] von 9:00 bis 16:00 Uhr statt.\n\nAls Veranstaltungsort haben wir den großen Konferenzraum im 3. Stock reserviert. Wir bitten alle __2__, pünktlich zu erscheinen.\n\nBitte bereiten Sie sich __3__ vor, indem Sie die im Intranet bereitgestellten Fallstudien lesen. Dies dient als Grundlage für unsere Diskussionen.\n\nFür den Workshop benötigen wir einen Beamer, ein Flipchart sowie Moderationskarten. Frau Müller aus der IT hat __4__, dass die Technik überprüft und einsatzbereit ist.\n\nEine Frage bleibt __5__: Benötigen bestimmte Teilnehmer spezielle diätetische Optionen für das Mittagessen? Bitte geben Sie uns hierzu bis Ende der Woche Bescheid.\n\nWir bitten um eine kurze Rückmeldung, falls Sie an diesem Termin __6__ sein sollten. Wir freuen uns auf einen produktiven Workshop!\n\nMit freundlichen Grüßen,\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "vorläufig",
+                "b": "endgültig",
+                "c": "grundsätzlich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "interessierten Kollegen",
+                "b": "ganzen Mitarbeiter",
+                "c": "angemeldeten Teilnehmer"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "entsprechend darauf",
+                "b": "kurzfristig dazu",
+                "c": "gemeinsam daran"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "freundlich gebeten",
+                "b": "bereits zugesagt",
+                "c": "später vorgeschlagen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "deshalb dringend",
+                "b": "damit verbunden",
+                "c": "allerdings noch offen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "doch verhindert",
+                "b": "eventuell verspätet",
+                "c": "kaum anwesend"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage bezüglich Projektunterstützung",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Anfrage vom 15. Mai bezüglich einer möglichen Projektunterstützung und __1__ an einer Zusammenarbeit mit unserem Unternehmen.\n\nGrundsätzlich sehen wir gute Möglichkeiten, Sie bei Ihrem Vorhaben zu unterstützen. Um Ihnen jedoch ein __2__ unterbreiten zu können, benötigen wir noch einige genauere Informationen zu Ihren spezifischen Anforderungen.\n\nKönnten Sie uns bitte __3__, welchen genauen Umfang das geplante Projekt hat, bis wann die finalen Ergebnisse benötigt werden und ob es bereits ein definiertes Budgetrahmen gibt?\n\nDiese Details sind __4__ und die Planung der notwendigen Ressourcen auf unserer Seite. Nur so können wir sicherstellen, dass unser Vorschlag Ihren Erwartungen entspricht.\n\nSobald uns diese Angaben vorliegen, werden wir Ihre Anfrage __5__ mit einem konkreten Vorschlag bei Ihnen melden. Alternativ schlagen wir gerne einen kurzen Telefontermin vor, um die offenen Punkte effizient zu klären.\n\nWir freuen uns darauf, __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nProjektleitung\nBeispiel GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihr freundliches Verständnis",
+                "b": "Ihr gezeigtes Interesse",
+                "c": "Ihre ausführliche Anfrage"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "passendes und detailliertes Angebot",
+                "b": "schnelles, günstiges Angebot",
+                "c": "unverbindlichen Kostenvoranschlag"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "vor allem Bescheid sagen",
+                "b": "bitte Informationen schicken",
+                "c": "insbesondere Auskunft darüber geben"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "hilfreich für unser Team",
+                "b": "entscheidend für die Kalkulation",
+                "c": "relevant für den Vertrag"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "umgehend prüfen und uns",
+                "b": "dann bestätigen und Ihnen",
+                "c": "sofort bearbeiten und Sie"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "auf eine gute Zusammenarbeit",
+                "b": "Sie bald überzeugen zu können",
+                "c": "bald wieder von Ihnen zu hören"
+            },
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Aktualisierung der Richtlinien zur Nutzung von Firmenfahrzeugen",
+    "textinhalt": "Liebe Mitarbeiterinnen und Mitarbeiter,\n\nhiermit möchten wir Sie über eine wichtige Aktualisierung unserer internen Regelungen informieren. Ab dem 1. des kommenden Monats __1__ zur Nutzung von Firmenfahrzeugen.\n\nDiese Anpassung erfolgt aufgrund gestiegener Versicherungskosten und zur Gewährleistung der Einhaltung aktueller gesetzlicher Vorgaben. __2__ Sie dringend, sich mit den neuen Bestimmungen vertraut zu machen.\n\nEine wesentliche Änderung betrifft die Führung des Fahrtenbuchs. Es ist nun erforderlich, alle dienstlichen und privaten Fahrten lückenlos und __3__.\nDarüber hinaus __4__, dass Schäden am Fahrzeug unverzüglich gemeldet werden, um eine schnelle Abwicklung mit der Versicherung sicherzustellen.\n\nDie vollständigen, detaillierten Richtlinien __5__ unter dem Abschnitt „Unternehmensrichtlinien“. Bitte bestätigen Sie die Kenntnisnahme durch Klick auf den Bestätigungslink am Ende des Dokuments bis spätestens Ende nächster Woche.\n\nBei Unklarheiten oder Fragen zu den neuen Regelungen __6__ Ihre zuständige Personalabteilung.\n\nMit freundlichen Grüßen\n\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "werden neue Richtlinien gültig",
+                "b": "gelten neue Richtlinien ab",
+                "c": "treten neue Richtlinien in Kraft"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Aus diesem Grund bitten wir",
+                "b": "Obwohl wir darum bitten",
+                "c": "Trotzdem bitten wir Sie"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Fahrten aufmerksam zu notieren",
+                "b": "Fahrten genau zu dokumentieren",
+                "c": "Fahrten schriftlich zu melden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "sehen wir eine große Chance",
+                "b": "finden wir es sehr wichtig",
+                "c": "legen wir besonderen Wert darauf"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "erhalten Sie per E-Mail",
+                "b": "finden Sie im Intranet",
+                "c": "liegen in der Personalabteilung aus"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "fragen Sie gerne nach bei",
+                "b": "melden Sie sich einfach bei",
+                "c": "wenden Sie sich bitte an"
+            },
+            "loesung": "c"
+        }
+    ]
+}

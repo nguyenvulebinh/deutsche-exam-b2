@@ -1,0 +1,60 @@
+{
+    "title": "Wichtige Information: Einführung unserer neuen Kommunikationsplattform „Connect“",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nhiermit möchten wir Sie über die bevorstehende Einführung unserer neuen internen Kommunikationsplattform „Connect“ informieren, die am 1. des kommenden Monats live gehen wird. Ziel ist es, unsere interne Zusammenarbeit und den Informationsfluss deutlich zu verbessern.\n\nDie Plattform „Connect“ wird die E-Mail für bestimmte Kommunikationsarten, wie schnelle Abstimmungen, Projekt-Updates und den informellen Austausch in Teams, __1__ . Dies soll helfen, das E-Mail-Aufkommen zu reduzieren und relevante Informationen schneller zugänglich zu machen.\n\nUmfangreiche Schulungsunterlagen sowie kurze Video-Tutorials __2__ im Intranet unter dem Menüpunkt „Connect Einführung“. Zusätzlich bieten wir nächste Woche freiwillige Online-Q&A-Sessions an; die Termine finden Sie ebenfalls im Intranet.\n\nBitte beachten Sie, dass die Nutzung von „Connect“ für die genannten Zwecke ab dem 1. des Monats verbindlich sein wird, __3__ . Selbstverständlich bleiben alle bisherigen E-Mails archiviert und E-Mail wird weiterhin für die externe Kommunikation sowie für sehr formelle interne Mitteilungen genutzt.\n\n__4__ die IT-Abteilung (support@firma.de) gerne zur Verfügung.\n\n__5__ bei dieser wichtigen Umstellung und sind überzeugt, dass „Connect“ unsere tägliche Arbeit erleichtern wird. Gemeinsam werden wir diesen Schritt erfolgreich meistern und __6__ dies einen positiven Beitrag zur Effizienz unseres Unternehmens leisten wird.\n\nMit freundlichen Grüßen\n\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "deutlich verbessern",
+                "b": "teilweise ersetzen",
+                "c": "völlig ablösen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "können Sie bald finden",
+                "b": "werden Ihnen bereit liegen",
+                "c": "stehen Ihnen ab sofort zur Verfügung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "um eine effiziente Kommunikation sicherzustellen",
+                "b": "weshalb die Umstellung notwendig ist",
+                "c": "damit wir schneller arbeiten können"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Über weitere Unklarheiten informiert Sie",
+                "b": "Wenn Sie etwas wissen wollen",
+                "c": "Für Rückfragen steht Ihnen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Wir zählen auf Ihre aktive Mitarbeit",
+                "b": "Wir erwarten Ihre Teilnahme daran",
+                "c": "Wir brauchen Ihre dringende Hilfe"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "nehmen wir gerne an, dass",
+                "b": "sind wir zuversichtlich, dass",
+                "c": "hoffen wir stark darauf, dass"
+            },
+            "loesung": "b"
+        }
+    ]
+}

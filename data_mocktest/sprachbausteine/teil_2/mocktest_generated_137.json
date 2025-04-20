@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage bezüglich individueller IT-Lösungen",
+    "textinhalt": "Sehr geehrte Frau Dr. Schneider,\n\nvielen Dank für __1__ unseren IT-Dienstleistungen und Ihre E-Mail vom [Datum].\n\nWir freuen uns, Ihnen mitteilen zu können, dass wir die von Ihnen beschriebene Art von Projektunterstützung __2__. Unsere Expertise im Bereich [Specific IT Field, e.g., Cloud-Migration] passt gut zu Ihrem Vorhaben.\n\nDa jedes Projekt einzigartig ist, können wir Ihnen an dieser Stelle noch keinen Pauschalpreis nennen. Um ein Angebot zu erstellen, das __3__ zugeschnitten ist, __4__ zu Projektumfang, Zeitrahmen und den eingesetzten Technologien.\n\nWir schlagen vor, diese Details __5__, um alle offenen Punkte zu diskutieren. Basierend darauf können wir Ihnen dann zeitnah __6__.\n\nBitte teilen Sie uns mit, wann Ihnen ein kurzes Telefonat oder ein Online-Meeting möglich wäre.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Firmenname]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihre Beschwerde über",
+                "b": "Ihr Interesse an",
+                "c": "Ihren Auftrag für"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "grundsätzlich anbieten können",
+                "b": "leider ablehnen müssen",
+                "c": "kaum durchführen werden"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "von allgemeinen Standards",
+                "b": "auf Ihre spezifischen Anforderungen",
+                "c": "trotz Ihrer besonderen Wünsche"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "verzichten wir auf Informationen",
+                "b": "haben wir bereits alle Daten",
+                "c": "benötigen wir weitere Angaben"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "schriftlich festzuhalten",
+                "b": "in einem persönlichen Gespräch zu klären",
+                "c": "einseitig entscheiden zu müssen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "eine standardisierte Preisliste senden",
+                "b": "einen detaillierten Projektplan vorlegen",
+                "c": "ein maßgeschneidertes Angebot unterbreiten"
+            },
+            "loesung": "c"
+        }
+    ]
+}

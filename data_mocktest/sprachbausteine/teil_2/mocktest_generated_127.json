@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage: Firmen-Sprachkurse (Business English)",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\ndurch eine Empfehlung unseres Geschäftspartners __1__ auf Ihr Institut und Ihr Angebot an Firmensprachkursen.\n\nUnser Unternehmen ist international tätig und wir möchten die Englischkenntnisse unserer Mitarbeiterinnen und Mitarbeiter im Vertriebsteam (ca. 15 Personen) gezielt fördern, __2__ im globalen Markt zu stärken. Daher prüfen wir derzeit verschiedene Optionen für passende Weiterbildungsmaßnahmen.\n\nWir bitten Sie um Informationen zu Ihren Business-English-Kursen für Firmenkunden. Insbesondere interessiert uns, __3__ und ob auch flexible Zeitmodelle (z.B. Inhouse-Training am Nachmittag) möglich sind. Könnten Sie uns zudem __4__ Ihrer Lehrkräfte zukommen lassen?\n\nUm eine fundierte Entscheidung treffen zu können, wären wir Ihnen dankbar, wenn Sie __5__. Bitte teilen Sie uns auch mit, ob die Möglichkeit einer Probestunde oder eines unverbindlichen Beratungsgesprächs besteht.\n\nFür eventuelle Rückfragen stehen wir Ihnen gerne zur Verfügung und __6__.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]\n[Name des Unternehmens]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "wurden wir aufmerksam",
+                "b": "haben wir uns informiert",
+                "c": "sind wir aufmerksam geworden"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "damit unsere Position besser wird",
+                "b": "um deren Kommunikationsfähigkeit",
+                "c": "um unsere Wettbewerbsposition"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "wenn die Kursinhalte angepasst werden",
+                "b": "ob die Kursinhalte auf unsere Branche zugeschnitten werden können",
+                "c": "dass spezielle Themen berücksichtigt sein müssen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Nachweise von den Fähigkeiten",
+                "b": "Angaben bezüglich der Erfahrung",
+                "c": "Informationen über die Qualifikationen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "uns die Kostenliste schicken",
+                "b": "uns ein detailliertes Angebot zukommen lassen",
+                "c": "uns die genauen Preise geben würden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "hoffen auf Ihr baldiges Schreiben",
+                "b": "sehen einer baldigen Rückmeldung entgegen",
+                "c": "erwarten eine prompte Antwort"
+            },
+            "loesung": "b"
+        }
+    ]
+}

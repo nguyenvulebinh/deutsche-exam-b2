@@ -1,0 +1,60 @@
+{
+    "title": "Zusage und weitere Schritte – Ihre Bewerbung als Projektmanager/in",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nwir beziehen uns auf Ihre Bewerbung als Projektmanager/in und das sehr angenehme Vorstellungsgespräch am 15. Mai.\n\nWir freuen uns, Ihnen __1__ , dass wir uns nach eingehender Prüfung aller Bewerbungen für Sie entschieden haben. Insbesondere Ihre umfassenden Kenntnisse im Bereich agiles Projektmanagement und Ihre souveräne Präsentation haben uns __2__ überzeugt.\n\nDen Arbeitsvertrag werden wir Ihnen in den __3__ Tagen auf dem Postweg zukommen lassen. Wir bitten Sie, uns den Erhalt kurz zu bestätigen und den Vertrag unterschrieben bis spätestens 5. Juni an uns zurückzusenden.\n\nFür Ihre Einarbeitung und alle organisatorischen Fragen vor Ihrem Start ist Frau Meyer aus dem Projektteam __4__ . Sie wird sich bald mit Ihnen in Verbindung setzen.\n\nWir sind überzeugt, dass Sie eine wertvolle __5__ für unser Team sein werden und freuen uns auf eine erfolgreiche __6__ .\n\nMit freundlichen Grüßen\n\nAnna Bauer\nPersonalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "informieren zu wollen",
+                "b": "mitteilen zu können",
+                "c": "sagen zu dürfen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "umfassend",
+                "b": "besonders",
+                "c": "nachhaltig"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "nächsten",
+                "b": "kommenden",
+                "c": "einigen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "zuständig",
+                "b": "bereitgestellt",
+                "c": "verantwortlich"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Unterstützung",
+                "b": "Ergänzung",
+                "c": "Bereicherung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Beschäftigung",
+                "b": "Zusammenarbeit",
+                "c": "Kooperation"
+            },
+            "loesung": "b"
+        }
+    ]
+}

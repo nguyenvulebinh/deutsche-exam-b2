@@ -248,15 +248,60 @@ class SprachbausteineTeil1 extends TestEngine {
         // Then remove any remaining single newlines that aren't part of paragraph breaks
         let cleanedText = text.replace(/\n{3,}/g, '\n\n')  // Convert 3+ newlines to 2
                              .replace(/([^\n])\n([^\n])/g, '$1 $2');  // Replace single newlines with spaces
-                             
-        // Process text to create uniform blanks that don't affect surrounding text
-        const processedText = cleanedText.replace(/__(\d+)__/g, '<span class="blank" data-blank-id="$1">$1</span>');
         
-        // Parse the processed text as markdown
-        const htmlContent = this.marked.parse(processedText);
+        // Check if marked library is available
+        if (typeof this.marked !== 'undefined') {
+            try {
+                // First, temporarily replace the blank placeholders to avoid markdown parsing them
+                let tempText = cleanedText.replace(/__(\d+)__/g, '{{BLANK_$1}}');
+                
+                // Parse markdown
+                let parsedText = this.marked.parse(tempText);
+                
+                // Replace the temporary placeholders back with styled spans (showing just the number)
+                this.elements.textContent.innerHTML = parsedText.replace(/{{BLANK_(\d+)}}/g, '<span class="blank" data-blank-id="$1">$1</span>');
+            } catch (error) {
+                console.error('Error parsing markdown with marked:', error);
+                this.basicTextFormat(cleanedText);
+            }
+        } else {
+            console.warn('Marked library not found, falling back to basic parsing');
+            this.basicTextFormat(cleanedText);
+        }
+    }
+    
+    /**
+     * Basic text formatting as fallback if marked library isn't available
+     * @param {string} text - The text to format
+     */
+    basicTextFormat(text) {
+        // First temporarily replace blank placeholders to avoid issues with markdown processing
+        let tempText = text.replace(/__(\d+)__/g, '{{BLANK_$1}}');
         
-        // Set the HTML content
-        this.elements.textContent.innerHTML = htmlContent;
+        // Basic markdown to HTML conversion
+        let formattedText = tempText
+            // Headers
+            .replace(/## (.*?)$/gm, '<h2>$1</h2>')
+            .replace(/### (.*?)$/gm, '<h3>$1</h3>')
+            .replace(/#### (.*?)$/gm, '<h4>$1</h4>')
+            
+            // Bold and italic
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') // Bold
+            .replace(/\*(.*?)\*/g, '<em>$1</em>') // Italic
+            
+            // Lists
+            .replace(/^\* (.*?)$/gm, '<li>$1</li>'); // Unordered list items
+        
+        // Handle paragraphs
+        formattedText = '<p>' + formattedText.replace(/\n\n/g, '</p><p>') + '</p>';
+        
+        // Fix lists
+        formattedText = formattedText
+            .replace(/<p><li>/g, '<ul><li>')
+            .replace(/<\/li><\/p>/g, '</li></ul>');
+        
+        // Replace the temporary blank placeholders back with styled spans (showing just the number)
+        this.elements.textContent.innerHTML = formattedText.replace(/{{BLANK_(\d+)}}/g, '<span class="blank" data-blank-id="$1">$1</span>');
     }
     
     /**

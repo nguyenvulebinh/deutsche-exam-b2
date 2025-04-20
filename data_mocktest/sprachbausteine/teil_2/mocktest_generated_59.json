@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Nachricht vom 15.03. – Reaktionszeit IT-Support",
+    "textinhalt": "Sehr geehrter Herr Müller,\n\nvielen Dank für Ihre Nachricht vom 15. März, in der Sie __1__ zum Ausdruck gebracht haben. Wir verstehen Ihren Standpunkt und möchten uns aufrichtig für __2__.\n\nIhre Anfrage erreichte uns während einer Phase __3__, was leider zu längeren Wartezeiten als üblich führte. Dies entspricht selbstverständlich nicht unserem eigenen Anspruch an Servicequalität.\n\nWir haben bereits interne Schritte unternommen, um __4__. Als Zeichen unseres Bedauerns und um Ihnen entgegenzukommen, möchten wir __5__ für Ihre nächste Service-Rechnung.\n\nWir hoffen auf Ihr Verständnis und würden uns freuen, wenn wir Sie __6__.\n\nMit freundlichen Grüßen\n\nIhr Team der TechHilfe GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihren Ärger über die Situation",
+                "b": "Ihre Unzufriedenheit mit unserer Reaktionszeit",
+                "c": "Ihre Probleme bei der Kontaktaufnahme"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die entstandenen Unannehmlichkeiten entschuldigen",
+                "b": "den gezeigten Fehler korrigieren",
+                "c": "die aufgetretenen Schwierigkeiten erklären"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "eines unerwartet hohen Anfrageaufkommens",
+                "b": "einer komplizierten technischen Störung",
+                "c": "einer längeren Bearbeitungsdauer"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "unsere Antwortzeiten generell zu prüfen",
+                "b": "die internen Abläufe zu optimieren",
+                "c": "solche Verzögerungen zukünftig zu vermeiden"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Ihnen einen Nachlass von 10% geben",
+                "b": "Sie mit einem Betrag entschädigen",
+                "c": "Ihnen eine Gutschrift über 20 Euro gewähren"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Sie als treuen Kunden behalten dürfen",
+                "b": "bei Ihrem nächsten Anliegen wieder überzeugen können",
+                "c": "auf eine bessere Koordination hoffen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

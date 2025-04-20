@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage IT-Support: Problem mit Projektsoftware 'DataAnalyse Pro'",
+    "textinhalt": "Sehr geehrte Damen und Herren vom IT-Support,\n\nich wende mich an Sie, da ich seit heute Morgen erhebliche Probleme mit der Software 'DataAnalyse Pro' habe. Diese Anwendung ist für unser laufendes Projekt 'Marktstudie Q3' __1__ und wir müssen dringend damit weiterarbeiten.\n\nKonkret __2__ jedes Mal, wenn ich versuche, einen größeren Datensatz zu importieren. Es erscheint kurz eine Fehlermeldung, die aber sofort wieder verschwindet, bevor ich sie lesen kann. Ein Weiterarbeiten ist so unmöglich.\n\nIch habe bereits versucht, meinen Rechner neu zu starten und __3__, aber beides hat leider keine Besserung gebracht. Andere Programme laufen ohne Probleme.\n\nDa die Frist für die Projektabgabe bereits Ende nächster Woche ist, __4__, dass die Software wieder einwandfrei funktioniert. Der Projektfortschritt ist aktuell blockiert.\n\nKönnte sich bitte jemand __5__? Wäre eventuell eine Fernwartung möglich oder sollte besser ein Techniker direkt an meinem Arbeitsplatz nachsehen?\n\nBitte teilen Sie mir mit, wann __6__. Ich bin heute und morgen ganztägig im Büro erreichbar.\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nAbteilung Controlling",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "ziemlich hilfreich",
+                "b": "von entscheidender Bedeutung",
+                "c": "eine nützliche Ergänzung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "reagiert das Programm langsam",
+                "b": "stürzt das Programm unerwartet ab",
+                "c": "schließt sich die Anwendung oft"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die Netzwerkverbindung zu überprüfen",
+                "b": "den Anschluss zu reparieren",
+                "c": "das System neu zu installieren"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "hoffen wir inständig darauf",
+                "b": "verlassen wir uns sehr darauf",
+                "c": "sind wir dringend darauf angewiesen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "schnell mit diesem Fehler befassen",
+                "b": "zeitnah um dieses Problem kümmern",
+                "c": "bald für die Lösung sorgen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "ein Techniker vorbeikommen könnte",
+                "b": "Unterstützung Ihrerseits möglich wäre",
+                "c": "ein Termin für mich frei wäre"
+            },
+            "loesung": "b"
+        }
+    ]
+}

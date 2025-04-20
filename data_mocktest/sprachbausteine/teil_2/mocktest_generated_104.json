@@ -1,0 +1,60 @@
+{
+    "title": "Antrag auf Teilnahme an Weiterbildung: Projektmanagement Advanced",
+    "textinhalt": "Sehr geehrte Frau Kowalski,\n\nhiermit möchte ich __1__ „Projektmanagement Advanced“ beantragen, welches vom 15. bis 17. Mai online stattfindet und im internen Weiterbildungsportal ausgeschrieben ist.\n\nIch bin überzeugt, dass die Inhalte dieses Seminars für meine aktuellen Aufgaben als Projektkoordinator im Team „Neukundenakquise“ __2__ und mir helfen würden, unsere Projekte effizienter zu strukturieren und Risiken frühzeitig zu erkennen.\n\nDie dort vermittelten agilen Methoden könnten wir direkt anwenden, was sicherlich __3__ würde, unsere Projektlaufzeiten zu verkürzen und die Teamkollaboration zu verbessern.\n\nKönnten Sie mir bitte Informationen __4__ zukommen lassen? Die Kursgebühr beträgt laut Ausschreibung 750 Euro.\n\n__5__ das detaillierte Kursprogramm sowie das ausgefüllte Antragsformular zu Ihrer Information.\n\nIch würde mich sehr __6__ und stehe für ein persönliches Gespräch zur Klärung weiterer Details gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "die Anmeldung zum Seminar",
+                "b": "meine Information über das Seminar",
+                "c": "die Genehmigung für das Seminar"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "eine interessante Abwechslung wären",
+                "b": "von unmittelbarem Nutzen wären",
+                "c": "sicherlich anspruchsvoll wären"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "dazu beitragen",
+                "b": "dazu zwingen",
+                "c": "damit rechnen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "betreffend der Finanzierung und dem Urlaub",
+                "b": "bezüglich der Kostenübernahme und der Freistellung",
+                "c": "über die Bezahlung und die Abwesenheit"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Angefügt ist",
+                "b": "Mitgeschickt wird",
+                "c": "In der Anlage finden Sie"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "über Ihre baldige Zusage freuen",
+                "b": "auf Ihre Unterstützung hoffen",
+                "c": "Ihnen für die Bearbeitung danken"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Nachfrage zum Stand meiner Bewerbung als [Position]",
+    "textinhalt": "Sehr geehrte Frau Bader,\n\nich schreibe Ihnen __1__ vom [Datum] für die Position als [Position]. Ich möchte mich nochmals herzlich für das angenehme und informative Gespräch bedanken.\n\nDas Gespräch hat mich in meinem Wunsch bestärkt, für Ihr Unternehmen tätig zu werden. Besonders beeindruckt hat mich [kurzer positiver Aspekt, z. B. die Beschreibung der Teamatmosphäre / die innovativen Projekte]. Hiermit möchte ich erneut __2__.\n\nDa seit dem Gespräch nun einige Zeit vergangen ist, __3__, wie der aktuelle Stand des Auswahlverfahrens ist. Könnten Sie mir vielleicht eine kurze Einschätzung geben, wann ich mit einer Entscheidung __4__?\n\nSollten Sie in der Zwischenzeit weitere Informationen oder Unterlagen von mir benötigen, __5__.\n\nIch würde mich sehr __6__ und verbleibe\n\nmit freundlichen Grüßen\n\n[Ihr Name]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "wegen meines Gesprächstermins",
+                "b": "bezugnehmend auf mein Vorstellungsgespräch",
+                "c": "anlässlich meiner Vorstellung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "meine feste Absicht zur Stelle erklären",
+                "b": "mein mögliches Interesse andeuten",
+                "c": "mein großes Interesse an der Position bestätigen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "muss ich mich jetzt informieren",
+                "b": "wollte ich mich höflich erkundigen",
+                "c": "hätte ich eine Frage dazu"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "ungefähr rechnen kann",
+                "b": "sicher ausgehen darf",
+                "c": "vielleicht hoffen sollte"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "biete ich Ihnen gerne meine Daten an",
+                "b": "kann ich Ihnen alles schicken",
+                "c": "stehe ich Ihnen jederzeit gerne zur Verfügung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihre baldige Entscheidung erwarten",
+                "b": "über eine positive Rückmeldung freuen",
+                "c": "auf eine zeitnahe Zusage hoffen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

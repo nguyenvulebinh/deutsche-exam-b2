@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Bestellung Nr. 74581 vom 15.05.2024",
+    "textinhalt": "Sehr geehrter Herr Meyer,\n\nvielen Dank für __1__ vom 28.05.2024, in der Sie die verspätete Lieferung sowie den Zustand der erhaltenen Ware beanstanden. Wir bedauern die entstandenen Unannehmlichkeiten sehr.\n\nDie Verzögerung der Lieferung __2__ bei unserem Versanddienstleister, auf die wir leider nur begrenzten Einfluss hatten. Wir entschuldigen uns aufrichtig für die verspätete Zustellung.\n\nBezüglich der von Ihnen beschriebenen Beschädigung an der Verpackung und am Produkt selbst möchten wir Ihnen versichern, dass wir __3__. Es entspricht keinesfalls unserem Qualitätsstandard, beschädigte Ware zu versenden.\n\nUm Ihnen entgegenzukommen, __4__, entweder eine kostenlose Ersatzlieferung zu erhalten oder __5__ auf den ursprünglichen Kaufpreis zu akzeptieren. Selbstverständlich können Sie die beschädigte Ware auf unsere Kosten zurücksenden, falls Sie sich für die Ersatzlieferung entscheiden.\n\nWir bitten Sie, __6__, welche der vorgeschlagenen Optionen Sie bevorzugen, damit wir dies umgehend veranlassen können. Wir hoffen auf Ihr Verständnis und würden uns freuen, Sie auch zukünftig zu unseren Kunden zählen zu dürfen.\n\nMit freundlichen Grüßen\nIhr Kundenservice-Team\nTechWelt GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihre Anfrage",
+                "b": "Ihre Bestellung",
+                "c": "Ihre Nachricht"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "ist auf unerwartete Engpässe zurückzuführen",
+                "b": "wurde durch unsere Absicht verursacht",
+                "c": "war mit großer Freude verbunden"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "den Vorgang bereits abgeschlossen haben",
+                "b": "diesen Vorfall intern genau prüfen werden",
+                "c": "die Lieferung nun stornieren müssen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "müssen wir Ihnen leider mitteilen",
+                "b": "sollten Sie daher verstehen",
+                "c": "möchten wir Ihnen anbieten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "eine sofortige Mahnung",
+                "b": "einen Preisnachlass von 20%",
+                "c": "einen neuen Katalog"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "uns Ihre bevorzugte Lösung mitzuteilen",
+                "b": "von weiteren Beschwerden abzusehen",
+                "c": "die Rechnung umgehend zu begleichen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

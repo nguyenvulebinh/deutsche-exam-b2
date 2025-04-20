@@ -1,0 +1,60 @@
+{
+    "title": "Antwort auf Ihre Reklamation – Bestellnummer 78542",
+    "textinhalt": "Sehr geehrte Frau Hauser,\n\n__1__ vom 15. März bezüglich des von Ihnen erworbenen Kaffeevollautomaten Modell 'Barista Pro'.\n\nWir haben Ihre Beschreibung des Problems – dass das Gerät keinen Milchschaum mehr produziert – zur Kenntnis genommen. __2__, dass Sie ein nicht einwandfreies Produkt erhalten haben und entschuldigen uns für die entstandenen Unannehmlichkeiten.\n\n__3__ in solchen Fällen, dass wir das defekte Gerät zur Überprüfung zurücknehmen. Bitte senden Sie das Gerät in der Originalverpackung an uns zurück. Ein kostenfreies Rücksendeetikett liegt dieser E-Mail bei.\n\nSobald das Gerät bei uns eingegangen ist, __4__ ein neues, geprüftes Gerät zusenden. Alternativ können wir Ihnen auch eine vollständige Rückerstattung des Kaufpreises anbieten, falls Sie dies bevorzugen.\n\n__5__ möchten wir Ihnen einen Gutschein im Wert von 20 Euro für Ihre nächste Bestellung in unserem Online-Shop beilegen. Wir hoffen, Sie damit ein wenig für den Ärger entschädigen zu können.\n\nFür weitere Fragen oder zur Klärung der Rücksendemodalitäten __6__.\n\nWir hoffen auf Ihr Verständnis und würden uns freuen, Sie weiterhin als Kundin begrüßen zu dürfen.\n\nMit freundlichen Grüßen\nIhr Kundenservice-Team\nElektroWelt GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Mit Bezug auf Ihre Anfrage",
+                "b": "Wir bestätigen den Eingang Ihrer Nachricht",
+                "c": "Antwortend auf Ihre Bestellung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Wir verstehen natürlich",
+                "b": "Es ist sehr ärgerlich",
+                "c": "Wir bedauern außerordentlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Unser Vorschlag wäre nun",
+                "b": "Die Bedingung dafür ist jedoch",
+                "c": "Das übliche Vorgehen ist"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "könnten wir Ihnen eventuell",
+                "b": "werden wir Ihnen selbstverständlich umgehend",
+                "c": "müssen wir Ihnen leider"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Als Dankeschön für die Information",
+                "b": "Als kleine Entschädigung für Ihre Mühe",
+                "c": "Als üblichen Bonus für Stammkunden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "warten wir auf Ihren Anruf",
+                "b": "kontaktieren Sie uns einfach",
+                "c": "stehen wir Ihnen jederzeit gerne zur Verfügung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

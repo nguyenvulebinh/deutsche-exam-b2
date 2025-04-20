@@ -1,0 +1,60 @@
+{
+    "title": "Nachfrage: Lieferverzug Bestellung Nr. 7890",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung Nr. 7890 vom 15. Mai __1__ 100 Einheiten des Modells 'Alpha-Plus'.\n\nDie Lieferung dieser Artikel war ursprünglich für den 28. Mai __2__. Bis zum heutigen Tag ist die Ware jedoch leider nicht bei uns eingegangen.\n\nDa wir die bestellten Komponenten __3__ für unsere laufende Produktion benötigen, verursacht diese Verzögerung mittlerweile erhebliche Schwierigkeiten in unserem Betriebsablauf.\n\nWir bitten Sie daher __4__ um Klärung des Sachverhalts und um Auskunft, wo sich die Sendung aktuell befindet.\n\nTeilen Sie uns bitte __5__ mit, wann wir verbindlich mit der Lieferung rechnen können. Eine zuverlässige Angabe ist für unsere weitere Planung essenziell.\n\nWir erwarten Ihre __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nEinkaufsabteilung\nBeispiel GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "für den Erhalt von",
+                "b": "über die Lieferung von",
+                "c": "bezüglich des Kaufs"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "versprochen",
+                "b": "bestätigt",
+                "c": "angekündigt"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "dringend benötigen",
+                "b": "sofort brauchen",
+                "c": "gerne hätten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "freundlich",
+                "b": "umgehend",
+                "c": "eventuell"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "bei Gelegenheit",
+                "b": "im Voraus",
+                "c": "schnellstmöglich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "neue Bestellung",
+                "b": "zeitnahe Rückmeldung",
+                "c": "ausführliche Erklärung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

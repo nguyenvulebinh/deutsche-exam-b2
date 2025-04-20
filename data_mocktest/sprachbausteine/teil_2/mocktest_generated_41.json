@@ -1,0 +1,60 @@
+{
+    "title": "Verschiebung Ihres Servicetermins am [Datum]",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Kundenname],\n\nwir beziehen uns auf Ihre Nachricht und den ursprünglich für den [Datum] vereinbarten Servicetermin für [Serviceleistung].\n\nWir bedauern sehr, Ihnen mitteilen zu müssen, dass wir diesen Termin leider __1__ verschieben müssen. Grund dafür ist ein unerwarteter, kurzfristiger __2__ in unserem Techniker-Team.\n\nDiese Situation __3__ uns leider daran, alle geplanten Einsätze wie vorgesehen durchzuführen. Wir arbeiten intensiv daran, schnellstmöglich eine Lösung für alle betroffenen Kunden zu finden.\n\nWir möchten Ihnen als neuen Termin den [Neues Datum] um [Uhrzeit] vorschlagen. __4__ dieser Termin für Sie nicht möglich sein, bitten wir Sie um alternative Vorschläge Ihrerseits.\n\nSelbstverständlich __5__ daran gelegen, die Wartung/Reparatur/Installation für Sie zeitnah und zu Ihrer vollen Zufriedenheit durchzuführen.\n\nBitte geben Sie uns kurz Bescheid, ob der neue Termin für Sie passt oder wann es Ihnen alternativ möglich wäre. Wir bitten __6__ für die entstandenen Unannehmlichkeiten.\n\nMit freundlichen Grüßen\n[Ihr Name/Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "vielleicht doch",
+                "b": "unvermeidlich",
+                "c": "grundsätzlich immer"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Personalengpass",
+                "b": "technischer Defekt",
+                "c": "organisatorischer Fehler"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "erlaubt uns nicht",
+                "b": "zwingt uns dazu",
+                "c": "hindert uns daran"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Obwohl",
+                "b": "Sollte",
+                "c": "Damit"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "haben wir Interesse",
+                "b": "ist es unser Ziel",
+                "c": "ist uns sehr daran gelegen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "um Entschuldigung",
+                "b": "Ihnen für die Mühe",
+                "c": "um Ihr Verständnis"
+            },
+            "loesung": "c"
+        }
+    ]
+}

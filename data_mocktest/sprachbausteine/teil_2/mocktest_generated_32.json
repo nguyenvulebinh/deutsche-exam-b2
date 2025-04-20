@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde vom [Datum einfügen] – Service [Art des Service einfügen]",
+    "textinhalt": "Sehr geehrte/r Herr/Frau [Kundenname],\n\nBezug nehmend auf Ihre E-Mail vom [Datum einfügen] möchten wir Ihnen den Erhalt Ihrer Beschwerde bezüglich des von uns durchgeführten Service [Art des Service einfügen] bestätigen. Wir __1__ die damit verbundenen Probleme sehr.\n\nWir verstehen vollkommen, dass die Situation für Sie __2__ war und möchten uns aufrichtig dafür entschuldigen. Nach interner Prüfung der Angelegenheit __3__ wir den von Ihnen geschilderten Vorfall.\n\nUm diese Angelegenheit zu Ihrer Zufriedenheit zu klären, möchten wir Ihnen __4__. [Konkreten Vorschlag einfügen, z.B.: Wir bieten Ihnen an, die Arbeiten kostenlos nachzubessern ODER einen Preisnachlass von X% auf die Rechnung zu gewähren.]\n\nBitte teilen Sie uns bis zum [Datum Frist einfügen] mit, ob Sie __5__. Sollten Sie einen anderen Weg bevorzugen, sind wir offen für weitere Gespräche.\n\nFür die __6__ bitten wir nochmals ausdrücklich um Entschuldigung und hoffen, dass Sie uns trotz dieses Vorfalls als Kunde erhalten bleiben.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Firmenname]\nKundenservice",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "vermeiden wir",
+                "b": "bedauern wir",
+                "c": "verstehen wir"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "sehr ärgerlich",
+                "b": "kaum wichtig",
+                "c": "ziemlich positiv"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "mussten wir ignorieren",
+                "b": "sollten wir erklären",
+                "c": "konnten wir nachvollziehen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "folgenden Vorschlag unterbreiten",
+                "b": "diese Rechnung schicken",
+                "c": "ein Angebot machen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "überhaupt nichts tun werden",
+                "b": "mit diesem Vorgehen einverstanden sind",
+                "c": "diesen Plan ablehnen wollen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "gemachten Fehler",
+                "b": "erwartete Verbesserung",
+                "c": "entstandenen Unannehmlichkeiten"
+            },
+            "loesung": "c"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Einführung der neuen Projektmanagement-Software 'ProjectFlow'",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\num in Zeiten hybrider Arbeitsmodelle und teamübergreifender Projekte __1__ und unsere Arbeitsabläufe effizienter zu gestalten, haben wir uns nach sorgfältiger Prüfung für die Einführung einer neuen, zentralen Projektmanagement-Software entschieden.\n\nAb dem [Startdatum] werden wir unternehmensweit 'ProjectFlow' nutzen. Diese Software wird uns helfen, Projektinformationen zu zentralisieren und soll für alle Teams __2__, unabhängig davon, ob sie im Büro oder remote arbeiten.\n\nZu den wesentlichen Vorteilen gehört, dass wir damit über Abteilungsgrenzen hinweg __3__ und den Status von Projekten jederzeit nachvollziehen können. Die Software wird es uns ermöglichen, Ressourcen besser zu planen und __4__.\n\nDer Rollout erfolgt schrittweise ab [Startdatum]. In den Wochen davor wird es für alle Mitarbeitenden kurze Einführungsschulungen geben. Da die Nutzung von 'ProjectFlow' für alle projektbezogenen Tätigkeiten vorgesehen ist, __5__ an einer dieser Schulungen. Genaue Termine erhalten Sie in Kürze von Ihrer Abteilungsleitung.\n\nWir wissen, dass jede Umstellung eine Eingewöhnungsphase bedeutet, aber __6__, dass 'ProjectFlow' uns allen die tägliche Arbeit erleichtern wird. Bei Fragen steht Ihnen [Name/Abteilung Ansprechpartner] gerne zur Verfügung.\n\nMit freundlichen Grüßen\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "die Hierarchien abzuflachen",
+                "b": "die Zusammenarbeit zu optimieren",
+                "c": "die Kosten zu reduzieren"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "den Kundenservice verbessern",
+                "b": "komplexe Analysen ermöglichen",
+                "c": "eine einheitliche Plattform bieten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "mehr Transparenz schaffen",
+                "b": "die Kommunikation beschleunigen",
+                "c": "den Datenschutz gewährleisten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Projekte schneller abzuschließen",
+                "b": "Aufgaben effektiver zu verwalten",
+                "c": "Berichte automatisch zu erstellen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "steht die Teilnahme allen offen",
+                "b": "wird die Teilnahme empfohlen",
+                "c": "ist die Teilnahme verpflichtend"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "sind wir zuversichtlich",
+                "b": "erwarten wir allerdings",
+                "c": "hoffen wir inständig"
+            },
+            "loesung": "a"
+        }
+    ]
+}

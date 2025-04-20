@@ -1,0 +1,60 @@
+{
+    "title": "Neues digitales System zur Urlaubs- und Abwesenheitsverwaltung",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nhiermit möchten wir Sie über die __1__ unseres neuen digitalen Systems zur Urlaubs- und Abwesenheitsverwaltung informieren. Dieses System wird die bisherigen Papierformulare ablösen und __2__, den Prozess der Antragstellung und Genehmigung deutlich zu beschleunigen sowie transparenter zu gestalten.\n\nDie __3__ am [Datum eintragen, z.B. 01.07.2024]. Ab diesem Zeitpunkt ist die Nutzung des neuen Systems für die Beantragung von Urlaub und die Meldung von krankheitsbedingten oder sonstigen Abwesenheiten __4__. Die alten Papieranträge können dann leider nicht mehr berücksichtigt werden.\n\nEine detaillierte Anleitung zur Nutzung des Systems sowie kurze Erklärvideos finden Sie __5__ unter der Rubrik „HR-Tools“. Wir empfehlen Ihnen dringend, sich frühzeitig mit dem neuen Werkzeug vertraut zu machen.\n\nBei technischen Schwierigkeiten oder inhaltlichen Fragen __6__ aus der Personalabteilung (Durchwahl -123) gerne zur Verfügung.\n\nWir sind zuversichtlich, dass diese Modernisierung eine spürbare Erleichterung für uns alle darstellen wird.\n\nMit freundlichen Grüßen\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "notwendige Installation",
+                "b": "bevorstehende Einführung",
+                "c": "wichtige Veränderung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "grundlegend verbessern",
+                "b": "sicherlich ermöglichen",
+                "c": "maßgeblich dazu beitragen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "offizielle Inbetriebnahme erfolgt",
+                "b": "geplante Aktivierung beginnt",
+                "c": "verbindliche Startphase startet"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "durchaus empfehlenswert",
+                "b": "für alle Mitarbeitenden verpflichtend",
+                "c": "von jedem Kollegen erwartet"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "spätestens nächste Woche",
+                "b": "direkt beim Empfang",
+                "c": "ab sofort im Intranet"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "steht Ihnen Frau Bauer",
+                "b": "hilft Ihnen Frau Bauer",
+                "c": "unterstützt Sie Frau Bauer"
+            },
+            "loesung": "a"
+        }
+    ]
+}

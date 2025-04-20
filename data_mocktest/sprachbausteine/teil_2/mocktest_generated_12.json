@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage: Individuelle Softwarelösung",
+    "textinhalt": "Sehr geehrte Frau Dr. Bergmann,\n\nvielen Dank für Ihre E-Mail vom 15. März und Ihr Interesse an unseren Dienstleistungen im Bereich individueller Softwareentwicklung.\n\nAnfragen wie Ihre __1__ wir mit unserem erfahrenen Entwicklerteam grundsätzlich bearbeiten. Wir haben bereits zahlreiche maßgeschneiderte Lösungen für Kunden aus Ihrer Branche erfolgreich umgesetzt.\n\nUm Ihnen jedoch ein konkretes und verbindliches Angebot unterbreiten zu können, benötigen wir genauere Informationen zu Ihren spezifischen Anforderungen und Zielen. __2__ ist ein detailliertes Verständnis Ihrer Wünsche __3__ für die Konzeption und spätere Kalkulation.\n\nDaher würden wir Ihnen gerne __4__ , in dem wir die technischen und funktionalen Details gemeinsam besprechen können. Wäre Ihnen ein Telefontermin in der kommenden Woche möglich?\n\n__5__ bereits eine allgemeine Broschüre zu unserem Unternehmen und unserem Entwicklungsprozess. Wir __6__ und stehen Ihnen für Rückfragen jederzeit gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMarkus Schreiber\nProjektleitung Softwareentwicklung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "können",
+                "b": "sollten",
+                "c": "müssen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Obwohl",
+                "b": "Während",
+                "c": "Deshalb"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "kaum wichtig",
+                "b": "von Bedeutung",
+                "c": "eher nützlich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "ein kurzes Telefonat aufdrängen",
+                "b": "ein unverbindliches Beratungsgespräch anbieten",
+                "c": "eine schnelle Frage mailen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Mit der Post schicken wir",
+                "b": "Auf der Webseite steht",
+                "c": "Als Anhang finden Sie"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "freuen uns auf Ihre baldige Rückmeldung",
+                "b": "warten gespannt auf den Auftrag",
+                "c": "bezweifeln eine schnelle Antwort"
+            },
+            "loesung": "a"
+        }
+    ]
+}

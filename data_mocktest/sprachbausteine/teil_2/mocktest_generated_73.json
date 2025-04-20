@@ -1,0 +1,60 @@
+{
+    "title": "Bestätigung und Rückfragen: Seminar „Effektives Zeitmanagement“",
+    "textinhalt": "Sehr geehrter Herr Richter,\n\nvielen Dank für Ihre Buchung unseres Seminars „Effektives Zeitmanagement“ am [Datum] in Ihren Räumlichkeiten. Wir bestätigen diesen Termin gerne und freuen uns auf die Durchführung.\n\nDamit das Seminar optimal vorbereitet werden kann, benötigen wir noch einige Informationen. Könnten Sie uns bitte mitteilen, ob ein Beamer sowie ein Flipchart inklusive Stiften am Seminartag __1__?\n\nDes Weiteren bitten wir Sie um __2__ der teilnehmenden Mitarbeiter bis spätestens eine Woche vor dem Termin.\n\nDiese Information ist wichtig, __3__ wir die Seminarunterlagen passgenau drucken und zusammenstellen können.\n\nUnser Trainer, Herr Schmidt, wird etwa 30 Minuten vor Beginn eintreffen, um die Technik zu prüfen. Sollten __4__ unvorhergesehene Probleme auftreten, ist er unter [Telefonnummer] erreichbar.\n\nWir sind sicher, dass mit diesen Angaben alles reibungslos __5__.\n\nWir freuen uns auf eine __6__ und stehen für Rückfragen jederzeit gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nIhr Team der Profi Seminare GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "bereit gehalten werden",
+                "b": "zur Verfügung stehen",
+                "c": "benutzt werden können"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "die komplette Liste",
+                "b": "eine ungefähre Schätzung",
+                "c": "die genaue Anzahl"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "damit",
+                "b": "weshalb",
+                "c": "sodass"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "währenddessen bereits",
+                "b": "kurzfristig doch",
+                "c": "vorab noch"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "gelingen soll",
+                "b": "stattfinden kann",
+                "c": "ablaufen wird"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "gute Zusammenarbeit",
+                "b": "Ihre baldige Antwort",
+                "c": "einen erfolgreichen Seminartag"
+            },
+            "loesung": "a"
+        }
+    ]
+}

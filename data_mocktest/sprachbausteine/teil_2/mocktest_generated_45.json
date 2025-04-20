@@ -1,0 +1,60 @@
+{
+    "title": "Ankündigung: Verpflichtende IT-Sicherheitsschulung",
+    "textinhalt": "Sehr geehrte Kolleginnen und Kollegen,\n\nhiermit __1__ die Einführung einer verpflichtenden IT-Sicherheitsschulung für alle Mitarbeitenden.\n\nAufgrund der zunehmenden Cyber-Bedrohungen und zur Gewährleistung des Schutzes unserer sensiblen Unternehmens- und Kundendaten __2__, dass alle Teammitglieder über die aktuellen Sicherheitsstandards und -verfahren informiert sind. Diese Schulung ist ein wesentlicher Bestandteil unserer aktualisierten Datenschutzrichtlinie.\n\nDie Online-Schulung konzentriert sich auf __3__ sensiblen Daten, die Erkennung von Phishing-Versuchen und die sichere Nutzung unserer internen Netzwerke und Systeme. Sie dauert etwa 90 Minuten und schließt mit einem kurzen Wissenstest ab.\n\nDie Teilnahme ist für alle Mitarbeitenden verpflichtend. Bitte wählen Sie einen der verfügbaren Termine im kommenden Monat aus und nutzen Sie den folgenden Link, um __4__: [Link zur Anmeldeplattform]. Die genauen Termine finden Sie ebenfalls auf der Plattform.\n\nDa die Sicherheit unserer Daten höchste Priorität hat, __5__ Ihre vollständige Teilnahme und Aufmerksamkeit während der Schulung. Ein erfolgreicher Abschluss ist für die Einhaltung unserer Compliance-Vorgaben notwendig.\n\nBei Fragen zum Inhalt oder zur Anmeldung __6__ die Personalabteilung oder Ihr IT-Support-Team gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "geben wir Ihnen bekannt über",
+                "b": "möchten wir Sie informieren über",
+                "c": "erzählen wir Ihnen von"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "wäre es bedeutend",
+                "b": "wird es vorausgesetzt",
+                "c": "ist es unerlässlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die klare Anwendung für",
+                "b": "das feste Wissen über",
+                "c": "den richtigen Umgang mit"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "sich dafür anzumelden",
+                "b": "sich hierzu einzutragen",
+                "c": "sich darum zu kümmern"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "finden wir besonders gut",
+                "b": "legen wir großen Wert auf",
+                "c": "hoffen wir sehr auf"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "helfen Ihnen sicher",
+                "b": "antworten Ihnen bald",
+                "c": "stehen Ihnen gerne"
+            },
+            "loesung": "c"
+        }
+    ]
+}

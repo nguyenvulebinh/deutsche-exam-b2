@@ -1,0 +1,60 @@
+{
+    "title": "Website-Projekt: Bestätigung und nächste Schritte",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nvielen Dank für das informative Gespräch am Montag bezüglich der Neugestaltung unserer Firmenwebseite.\n\nWir haben Ihre ersten Vorschläge __1__ und finden den Ansatz vielversprechend. Besonders wichtig ist uns dabei die geplante Integration eines benutzerfreundlichen Online-Shops, __2__ wir unsere neue Produktlinie direkt vertreiben können.\n\nBevor wir jedoch eine endgültige Entscheidung treffen können, bitten wir Sie, uns __3__ zukommen zu lassen, der alle vereinbarten Leistungen und potenziellen Zusatzkosten detailliert aufführt.\n\nWir benötigen diese Informationen __4__, da die finale Budgetfreigabe in unserem Haus bereits für nächste Woche angesetzt ist. Sobald uns Ihre detaillierten Angaben __5__, werden wir diese prüfen und uns umgehend wieder bei Ihnen melden.\n\nWir sind __6__ einer erfolgreichen Zusammenarbeit und freuen uns auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name / Ihre Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "zur Kenntnis genommen",
+                "b": "intern besprochen",
+                "c": "schriftlich bestätigt"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "weshalb",
+                "b": "womit",
+                "c": "über den"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Ihre allgemeine Preisliste",
+                "b": "eine kurze Zusammenfassung",
+                "c": "einen detaillierten Kostenvoranschlag"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "möglichst zeitnah",
+                "b": "bei Gelegenheit",
+                "c": "nach Abschluss"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "eingetroffen sind",
+                "b": "vorliegen",
+                "c": "bearbeitet wurden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "abhängig von",
+                "b": "interessiert an",
+                "c": "zuversichtlich hinsichtlich"
+            },
+            "loesung": "c"
+        }
+    ]
+}

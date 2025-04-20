@@ -1,0 +1,60 @@
+{
+    "title": "Anfrage Büromöbel für neue Geschäftsräume",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nunser Unternehmen bezieht demnächst neue Geschäftsräume und wir sind __1__ auf Ihr Sortiment an Büromöbeln aufmerksam geworden. Ihre Website hat uns einen sehr guten ersten Eindruck vermittelt.\n\nWir benötigen eine Erstausstattung für ca. 15 Arbeitsplätze und bitten Sie daher um die __2__ eines detaillierten Angebots. Konkret benötigen wir höhenverstellbare Schreibtische, ergonomische Bürostühle sowie abschließbare Rollcontainer. Eine genaue Auflistung finden Sie im Anhang.\n\nBitte teilen Sie uns in Ihrem Angebot auch die voraussichtlichen Lieferzeiten sowie Ihre __3__ mit. Wichtig wäre für uns auch zu wissen, ob die Montage der Möbel im Preis inbegriffen ist oder separat __4__ wird.\n\nDa es sich um eine größere Abnahmemenge handelt, möchten wir außerdem anfragen, __5__ Sie uns möglicherweise einen Mengenrabatt gewähren können.\n\nFür eventuelle Rückfragen __6__ Ihnen Frau Hanna Berg aus unserer Einkaufsabteilung (Tel: 0123-45678) gerne zur Verfügung.\n\nWir sehen Ihrem Angebot mit Interesse entgegen.\n\nMit freundlichen Grüßen\n\n[Absender Name/Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "bei unserer Suche nach",
+                "b": "im Rahmen unserer Recherche",
+                "c": "aufgrund Ihrer Werbung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Zusendung",
+                "b": "Bereitstellung",
+                "c": "Unterbreitung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Zahlungsbedingungen",
+                "b": "Lieferkonditionen",
+                "c": "allgemeinen Geschäftsbedingungen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "zusätzlich kostet",
+                "b": "in Rechnung gestellt",
+                "c": "im Preis enthalten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "wenn",
+                "b": "inwieweit",
+                "c": "ob"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "ist",
+                "b": "steht",
+                "c": "hilft"
+            },
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Bewerbung als [Beispielposition] – Zwischenstand",
+    "textinhalt": "Sehr geehrte/r Herr/Frau [Name des Bewerbers/der Bewerberin],\n\nwir __1__ den Eingang Ihrer Bewerbungsunterlagen für die ausgeschriebene Stelle als [Beispielposition] und bedanken uns herzlich für Ihr Interesse an unserem Unternehmen.\n\nDas Auswahlverfahren __2__ in vollem Gange. Wir prüfen alle eingegangenen Bewerbungen sorgfältig, um die am besten geeigneten Kandidatinnen und Kandidaten für die nächste Runde auswählen zu können.\n\nDieser Prozess nimmt __3__ mehr Zeit in Anspruch, __4__ der erfreulich hohen Zahl an qualifizierten Bewerbungen. Wir bitten hierfür um Ihr Verständnis.\n\nWir gehen davon aus, den Auswahlprozess bis Ende nächster Woche abschließen zu können und werden uns __5__ unaufgefordert bei Ihnen melden, um Sie über das weitere Vorgehen zu informieren.\n\nBis dahin bitten wir Sie __6__.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Name des Unternehmens]\nPersonalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "beantworten wir gerne",
+                "b": "bestätigen wir hiermit",
+                "c": "leiten wir nun weiter"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "ist hiermit beendet",
+                "b": "beginnt allerdings erst",
+                "c": "befindet sich derzeit"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "wie bereits besprochen",
+                "b": "als ursprünglich erwartet",
+                "c": "obwohl es dringend wäre"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Aufgrund der hohen Zahl",
+                "b": "Trotz der geringen Menge",
+                "c": "Innerhalb der üblichen Frist"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "ohne weitere Verzögerung",
+                "b": "noch vor diesem Termin",
+                "c": "im Anschluss daran"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "um sofortige Rückmeldung",
+                "b": "noch um etwas Geduld",
+                "c": "um weitere Unterlagen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

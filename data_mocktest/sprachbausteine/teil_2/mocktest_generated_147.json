@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Bestellnummer [Nummer]",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ Ihre E-Mail vom [Datum] bezüglich der Verzögerung Ihrer Bestellung mit der Nummer [Nummer] möchten wir uns zunächst melden. Wir __2__ die entstandenen Unannehmlichkeiten aufrichtig.\n\nDie verspätete Lieferung ist __3__ einer unerwartet hohen Nachfrage nach dem bestellten Produkt zustande gekommen, was zu Engpässen in unserer Logistik führte. Wir verstehen, dass dies für Sie ärgerlich ist.\n\nUm Ihnen entgegenzukommen, möchten wir __4__ einen Rabatt von 10% auf Ihre nächste Bestellung bei uns. Diesen können Sie einfach bei Ihrem nächsten Einkauf mit dem Code XYZ einlösen.\n\nWir werden __5__, dass Ihre zukünftigen Bestellungen wieder pünktlich und zu Ihrer vollen Zufriedenheit bearbeitet werden.\n\nWir __6__ und würden uns freuen, Sie auch weiterhin als Kundin begrüßen zu dürfen.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\n[Firmenname]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "antwortend auf",
+                "b": "bezugnehmend auf",
+                "c": "wegen Ihrer"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "entschuldigen uns für",
+                "b": "tut es uns leid für",
+                "c": "bedauern sehr"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "aufgrund von",
+                "b": "infolge mit",
+                "c": "wegen einer"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "für Sie vorschlagen",
+                "b": "Ihnen anbieten",
+                "c": "Sie bekommen lassen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "darauf Acht geben",
+                "b": "die Garantie übernehmen",
+                "c": "dafür Sorge tragen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "hoffen auf Ihr Verständnis",
+                "b": "bitten um Verständnis höflich",
+                "c": "wünschen Ihr Verständnis dafür"
+            },
+            "loesung": "a"
+        }
+    ]
+}

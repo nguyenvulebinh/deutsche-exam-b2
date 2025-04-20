@@ -1,0 +1,60 @@
+{
+    "title": "Rückfrage zu Ihrem Angebot für Büroreinigung – Gegenvorschlag",
+    "textinhalt": "Sehr geehrte Frau Nowak,\n\nvielen Dank für Ihr detailliertes Angebot vom 15. Mai bezüglich der regelmäßigen Reinigung unserer Büroräume. Wir haben Ihr Angebot __1__ und finden die beschriebenen Leistungen grundsätzlich passend für unsere Bedürfnisse.\n\nAllerdings übersteigt der vorgeschlagene monatliche Preis __2__ doch erheblich. Wir legen großen Wert auf ein sauberes Arbeitsumfeld, müssen jedoch gleichzeitig unsere Ausgaben im Blick behalten.\n\nDaher möchten wir Ihnen __3__. Wäre es denkbar, die Reinigungsfrequenz von fünf auf drei Tage pro Woche (Montag, Mittwoch, Freitag) zu reduzieren? Der Preis müsste dann natürlich __4__ werden. Könnten Sie uns hierfür ein neues Angebot zukommen lassen?\n\nZusätzlich wäre es für uns wichtig, dass die vierteljährliche Fensterreinigung ebenfalls __5__ ist. Dies war in Ihrem ursprünglichen Angebot nicht explizit aufgeführt.\n\nBitte teilen Sie uns mit, ob diese Anpassungen __6__ sind und wie sich dies auf den Preis auswirken würde. Wir hoffen auf eine Einigung und eine mögliche zukünftige Zusammenarbeit.\n\nMit freundlichen Grüßen\n\nThomas Bauer\nBüroleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "zur Kenntnis genommen",
+                "b": "sorgfältig geprüft",
+                "c": "oberflächlich angesehen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "unser geplantes Budget",
+                "b": "unsere finanzielle Lage",
+                "c": "den üblichen Preisrahmen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "einen Kompromiss finden",
+                "b": "einen Gegenvorschlag machen",
+                "c": "einen Gegenvorschlag unterbreiten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "entsprechend angepasst",
+                "b": "deutlich reduziert",
+                "c": "neu berechnet"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "als Extra buchbar",
+                "b": "im Leistungsumfang enthalten",
+                "c": "in den Kosten gedeckt"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "wirtschaftlich sinnvoll",
+                "b": "Ihnen angenehm",
+                "c": "für Sie realisierbar"
+            },
+            "loesung": "c"
+        }
+    ]
+}

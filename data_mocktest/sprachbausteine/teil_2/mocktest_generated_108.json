@@ -1,0 +1,60 @@
+{
+    "title": "Unser Gespräch vom 15. Mai: Mögliche Zusammenarbeit",
+    "textinhalt": "Sehr geehrte Frau Dr. Weber,\n\nvielen Dank für das konstruktive Gespräch am vergangenen Montag bezüglich einer möglichen Zusammenarbeit im Bereich der Entwicklung neuer Schulungsmodule.\n\nWir haben den positiven Eindruck gewonnen, dass unsere beiden Unternehmen __1__ und eine Kooperation für beide Seiten gewinnbringend sein könnte.\n\nWie besprochen, benötigen wir für die Erstellung eines detaillierten Konzepts noch __2__ von Ihrer Seite. Könnten Sie uns bitte insbesondere Informationen __3__ zukommen lassen? Diese Angaben sind __4__, um den Aufwand realistisch einschätzen und die Inhalte präzise auf Ihre Bedürfnisse zuschneiden zu können.\n\nSobald uns diese Informationen vorliegen, werden wir Ihnen bis spätestens Ende nächster Woche __5__. Wir sind __6__, dass wir gemeinsam ein erfolgreiches Projekt realisieren können.\n\nWir freuen uns auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\nKlaus Baumann\nProjektleitung Weiterbildung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "effektiv kommunizieren",
+                "b": "sich gut ergänzen",
+                "c": "gut zusammenpassen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "wichtige Unterlagen",
+                "b": "weitere Angaben",
+                "c": "genaue Details"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "zu Ihren technischen Rahmenbedingungen",
+                "b": "Ihrer aktuellen Preisliste",
+                "c": "Ihrem letzten Geschäftsbericht"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "besonders wichtig",
+                "b": "sehr hilfreich",
+                "c": "dafür unerlässlich"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "einen Entwurf zusenden",
+                "b": "einen Vorschlag unterbreiten",
+                "c": "ein Konzept präsentieren"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "davon überzeugt",
+                "b": "sehr zuversichtlich",
+                "c": "durchaus optimistisch"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Bestätigung Ihrer Hotelreservierung",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Buchung vom 15. Mai. Hiermit bestätigen wir Ihnen __1__ für Herrn Schmidt im Zeitraum vom 10. Juni bis 14. Juni für ein Einzelzimmer in unserem Haus.\n\nIm Zimmerpreis __2__ sind unser reichhaltiges Frühstücksbuffet sowie die kostenfreie Nutzung des WLAN im gesamten Hotelbereich.\n\nDas Zimmer steht Herrn Schmidt am Anreisetag ab 15:00 Uhr __3__ und wir bitten Sie um Freigabe am Abreisetag bis 11:00 Uhr.\n\nBitte beachten Sie auch unsere __4__, die Sie auf unserer Webseite unter www.hotel-beispiel.de/agb finden. Diese enthalten detaillierte Informationen, auch zu den Stornierungsfristen.\n\nSollten Sie vorab __5__ haben oder weitere Informationen benötigen, zögern Sie bitte nicht, uns unter der Telefonnummer +49 123 456789 oder per E-Mail an info@hotel-beispiel.de zu kontaktieren.\n\nWir freuen uns __6__ und wünschen Herrn Schmidt eine angenehme Anreise.\n\nMit freundlichen Grüßen\nIhr Team vom Hotel Beispiel",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihren Zimmerwunsch",
+                "b": "Ihre verbindliche Reservierung",
+                "c": "Ihre Buchungsanfrage"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "enthalten",
+                "b": "berechnet",
+                "c": "inbegriffen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "bereit",
+                "b": "reserviert",
+                "c": "zur Verfügung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "aktuellen Preislisten",
+                "b": "Allgemeinen Geschäftsbedingungen",
+                "c": "Stornierungsbedingungen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "weitere Fragen",
+                "b": "besondere Wünsche",
+                "c": "Rückfragen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "über die Buchung",
+                "b": "auf seine Ankunft",
+                "c": "auf seinen Besuch"
+            },
+            "loesung": "c"
+        }
+    ]
+}

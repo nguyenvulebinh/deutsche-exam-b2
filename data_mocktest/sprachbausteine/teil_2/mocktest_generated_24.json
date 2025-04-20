@@ -1,0 +1,60 @@
+{
+    "title": "Einladung zum Pflicht-Workshop: Kommunikation mit internationalen Kunden",
+    "textinhalt": "Sehr geehrte Mitarbeiterinnen und Mitarbeiter,\n\num die Qualität unserer Kundenbetreuung weiter zu verbessern, möchten wir Sie zu einem wichtigen Workshop einladen. Das Thema lautet „Effektive Kommunikation mit internationalen Kunden“ und __1__ für unseren globalen Geschäftserfolg.\n\nDer Workshop findet am [Datum, z.B. 15. Oktober] von 9:00 Uhr bis 13:00 Uhr im großen Besprechungsraum (Raum 3.01) statt. __2__, interkulturelle Missverständnisse zu erkennen und Kommunikationsstrategien für den Umgang mit internationalen Geschäftspartnern zu entwickeln.\n\nDie Teilnahme __3__ im Vertrieb, Marketing und Kundenservice verpflichtend, da diese Bereiche direkt mit unserer internationalen Klientel interagieren. Für andere Abteilungen ist die Teilnahme freiwillig, aber empfohlen.\n\nWir __4__ über das Intranet-Portal bis spätestens [Datum, z.B. 1. Oktober]. Dies ist für die Planung der Workshop-Materialien notwendig.\n\n__5__, informieren Sie bitte umgehend Ihre direkte Führungskraft, um alternative Möglichkeiten zu besprechen. Eine Nichtteilnahme ohne vorherige Absprache ist nicht vorgesehen.\n\n__6__ Ihnen Frau Schneider aus der Personalabteilung (Durchwahl -123) gerne zur Verfügung.\n\nWir freuen uns auf eine informative und produktive Veranstaltung.\n\nMit freundlichen Grüßen\n\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "hat wenig Bedeutung",
+                "b": "spielt eine zentrale Rolle",
+                "c": "ist eine nette Ergänzung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Ein Problem dabei ist",
+                "b": "Voraussetzung dafür ist",
+                "c": "Ziel des Workshops ist es"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "steht allen Mitarbeitern frei",
+                "b": "wird dem Personal empfohlen",
+                "c": "ist für alle Mitarbeiter"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "bestätigen hiermit Ihre Teilnahme",
+                "b": "bitten um verbindliche Anmeldung",
+                "c": "informieren über Ihre Abwesenheit"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Obwohl Sie teilnehmen möchten",
+                "b": "Sollten Sie an diesem Termin verhindert sein",
+                "c": "Falls Sie zusätzliche Informationen benötigen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Für organisatorische Rückfragen steht",
+                "b": "Wegen möglicher Beschwerden wenden Sie sich an",
+                "c": "Mit finanzieller Unterstützung hilft"
+            },
+            "loesung": "a"
+        }
+    ]
+}

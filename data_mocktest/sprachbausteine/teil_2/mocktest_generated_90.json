@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Bestellung Nr. 78542 / Lieferverzögerung",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\n__1__ vom 15. Mai 2023 haben wir erhalten und die Verzögerung bei der Auslieferung Ihrer Bestellung Nr. 78542 geprüft.\n\nZunächst __2__. Wir verstehen, dass Sie auf die bestellten Büromaterialien dringend angewiesen sind.\n\n__3__ bei unserem Zulieferer für Spezialpapier, der uns leider erst verspätet beliefern konnte. Dies hat zu Rückständen in unserer Versandabteilung geführt.\n\nWir können Ihnen jedoch mitteilen, dass __4__ und die Zustellung voraussichtlich übermorgen, am 21. Mai, erfolgen wird. Sie erhalten eine separate Versandbestätigung mit Tracking-Informationen, sobald das Paket unser Lager verlässt.\n\n__5__ einen Rabatt von 15% auf Ihre nächste Bestellung bei uns anbieten. Den Gutscheincode legen wir der aktuellen Lieferung bei.\n\nWir hoffen auf Ihr Verständnis. __6__.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\nBürobedarf Wagner GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "bezugnehmend auf Ihre Nachricht",
+                "b": "antwortend auf Ihre Nachricht",
+                "c": "betreffend Ihre Nachricht"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "möchten wir die Situation erklären",
+                "b": "finden wir die Verzögerung auch nicht gut",
+                "c": "bedauern wir die entstandenen Unannehmlichkeiten sehr"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Deshalb gibt es einen aktuellen Lieferengpass",
+                "b": "Der Grund dafür ist ein aktueller Lieferengpass",
+                "c": "Wegen eines aktuellen Lieferengpasses ist das"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "die Ware mittlerweile unterwegs sein sollte",
+                "b": "die Lieferung bald ankommen könnte",
+                "c": "wir nun den Versand schnellstens veranlassen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Damit Sie nicht mehr warten müssen",
+                "b": "Als Zeichen unseres Bedauerns möchten wir Ihnen",
+                "c": "Für Ihre Geduld können wir Ihnen vielleicht"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Für Rückfragen stehen wir Ihnen jederzeit zur Verfügung",
+                "b": "Kontaktieren Sie uns einfach bei weiteren Fragen",
+                "c": "Wir erwarten Ihre weiteren Fragen hoffentlich nicht"
+            },
+            "loesung": "a"
+        }
+    ]
+}

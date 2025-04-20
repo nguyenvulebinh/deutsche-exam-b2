@@ -1,0 +1,60 @@
+{
+    "title": "Antrag auf Freischaltung der Software 'ProjektPlaner Pro'",
+    "textinhalt": "Sehr geehrte Damen und Herren der IT-Abteilung,\n\nich schreibe Ihnen, da ich __1__ Zugriff auf die Software 'ProjektPlaner Pro' benötige. Mein Teamleiter, Herr Schmidt, hat mir die Leitung eines neuen internen Projekts übertragen, welches am kommenden Montag offiziell startet.\n\nFür die Koordination der Projektaufgaben und die Überwachung des Fortschritts __2__. Diese Anwendung ist in anderen Abteilungen bereits erfolgreich im Einsatz und gilt als Standardwerkzeug für solche Vorhaben.\n\nDie Nutzung dieser Software würde __3__ und die Zusammenarbeit im Team erheblich verbessern, da sie mit unseren bestehenden Systemen kompatibel ist.\n\nKönnten Sie mich bitte __4__? Ich möchte sicherstellen, dass die Software rechtzeitig zum Projektstart verfügbar ist.\n\nBitte teilen Sie mir ebenfalls mit, __5__ oder ob ich weitere Informationen bereitstellen muss. Meine Personalnummer lautet 12345.\n\n__6__ und stehe für Rückfragen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nAbteilung Marketing",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "anlässlich der aktuellen Situation",
+                "b": "im Rahmen meiner neuen Aufgaben",
+                "c": "während meiner letzten Tätigkeit"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "wäre dieses Programm nützlich",
+                "b": "sollte die Anwendung verfügbar sein",
+                "c": "wird diese Software benötigt"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die tägliche Arbeit vereinfachen",
+                "b": "einen besseren Überblick verschaffen",
+                "c": "eine effizientere Projektplanung ermöglichen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "über das weitere Vorgehen informieren",
+                "b": "mir den Zugang bald gewähren",
+                "c": "die Software direkt installieren"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "wann mit der Installation zu rechnen ist",
+                "b": "ob hierfür eine Genehmigung erforderlich ist",
+                "c": "wie die Lizenzkosten abgerechnet werden"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ich erwarte Ihre umgehende Bestätigung",
+                "b": "Vielen Dank im Voraus für Ihre Unterstützung",
+                "c": "Ich hoffe auf eine positive Bewertung"
+            },
+            "loesung": "b"
+        }
+    ]
+}

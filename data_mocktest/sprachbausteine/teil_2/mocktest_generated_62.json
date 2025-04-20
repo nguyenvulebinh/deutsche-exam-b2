@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Reklamation: Bestellung Nr. 4712-B",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ 15. Mai dieses Jahres und das damit verbundene Telefonat möchten wir uns für die Unannehmlichkeiten entschuldigen, die Ihnen durch die fehlerhafte Lieferung entstanden sind.\n\nWir __2__, dass Sie anstelle der bestellten Bürostühle Modell 'ErgoFlex' das Modell 'BasicMove' erhalten haben. Bei der Überprüfung unserer Versandprotokolle haben wir festgestellt, dass bei der Kommissionierung Ihrer Bestellung __3__ in unserem Lager.\n\nWir haben bereits veranlasst, Ihnen umgehend __4__. Die Lieferung erfolgt voraussichtlich innerhalb der nächsten zwei Werktage per Express.\n\nBezüglich der irrtümlich gelieferten Stühle ('BasicMove') brauchen Sie nichts weiter zu unternehmen. Wir werden auf unsere Kosten __5__ und unser Logistikpartner wird sich zwecks Terminabsprache direkt mit Ihnen in Verbindung setzen.\n\nAls kleine Entschädigung für den entstandenen Aufwand möchten wir Ihnen für Ihre nächste Bestellung __6__.\n\nWir hoffen auf Ihr Verständnis und würden uns freuen, Sie weiterhin zu unseren zufriedenen Kunden zählen zu dürfen.\n\nMit freundlichen Grüßen\n\nIhr Team vom Kundenservice\nBürobedarf Wagner GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "hinsichtlich Ihrer Nachricht vom",
+                "b": "bezugnehmend auf Ihr Schreiben vom",
+                "c": "antwortend auf Ihre Mail bezüglich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "finden es schade",
+                "b": "sind wir enttäuscht",
+                "c": "bedauern wir sehr"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "ist uns leider ein Fehler unterlaufen",
+                "b": "kam es zu einem Missverständnis",
+                "c": "haben wir einen Irrtum gemacht"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Ihnen die richtigen Produkte zu bringen",
+                "b": "die passende Bestellung zu schicken",
+                "c": "die korrekte Ware zukommen zu lassen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "die Abholung anzuordnen",
+                "b": "die Rücksendung zu veranlassen",
+                "c": "den Rücktransport zu organisieren"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "einen Preisnachlass gewähren",
+                "b": "die Kosten zu reduzieren",
+                "c": "einen Rabatt anbieten"
+            },
+            "loesung": "a"
+        }
+    ]
+}

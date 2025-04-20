@@ -1,0 +1,60 @@
+{
+    "title": "Nachfrage zu unserem Angebot für die Neugestaltung Ihrer Webseite",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nwir hoffen, Sie hatten einen guten Start in die Woche.\n\nBezugnehmend auf unser detailliertes Angebot für die Neugestaltung Ihrer Firmenwebseite, das wir Ihnen __1__ vom 15. Mai zugesandt haben, möchten wir uns heute kurz bei Ihnen melden.\n\nWir hoffen sehr, dass unser Vorschlag Ihre initialen Anforderungen __2__ und Ihnen einen klaren Eindruck von den Möglichkeiten einer Modernisierung vermittelt. Uns ist bewusst, dass eine solche Entscheidung Zeit braucht.\n\nKonnten Sie vielleicht trotzdem bereits __3__, einen ersten Blick hineinzuwerfen? \n\nSicherlich sind beim Durchsehen erste Fragen aufgekommen oder es gibt spezifische Aspekte, die Sie __4__ möchten. Genau dafür stehen wir Ihnen gerne zur Verfügung.\n\nUm eventuelle Unklarheiten auszuräumen und die nächsten potenziellen Schritte zu planen, __5__ ein kurzes, unverbindliches Telefonat in der kommenden Woche. Teilen Sie uns gerne mit, wann es Ihnen zeitlich passen würde.\n\nWir freuen uns darauf, __6__ und verbleiben bis dahin\n\nMit freundlichen Grüßen\n\nMarkus Steiner\nProjektleitung Webdesign\nKreativ Digital GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "aufgrund Ihrer letzten E-Mail",
+                "b": "im Anschluss an unser Gespräch",
+                "c": "ohne weitere Verzögerung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "umfassend berücksichtigt",
+                "b": "völlig ignoriert",
+                "c": "ungefähr abdeckt"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die Erlaubnis bekommen",
+                "b": "den Mut fassen",
+                "c": "Gelegenheit finden"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "endgültig entscheiden",
+                "b": "näher besprechen",
+                "c": "kurz erwähnen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "befehlen wir Ihnen",
+                "b": "bitten wir Sie um",
+                "c": "schlagen wir Ihnen vor"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "bald von Ihnen zu hören",
+                "b": "Ihren Auftrag zu bekommen",
+                "c": "Sie bald zu überzeugen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

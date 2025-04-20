@@ -1,0 +1,60 @@
+{
+    "title": "Update Projekt „Quantum Leap“ – Meilenstein 3",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nich schreibe Ihnen, um Sie über den aktuellen Stand unseres Projekts „Quantum Leap“, insbesondere bezüglich Meilenstein 3 (Abschluss der Testphase), zu informieren.\n\nIch muss Ihnen leider mitteilen, dass der geplante Abschlusstermin für diesen Meilenstein __1__.\nDies ist hauptsächlich __2__, die erst in den letzten Tagen aufgetreten sind und eine gründlichere Untersuchung benötigen.\n\nWir gehen davon aus, __3__. Ein überarbeiteter Entwurf wird bis Ende dieser Woche vorliegen.\n\n__4__ Frau Dr. Eva Schmidt aus der IT-Abteilung. Sie wird die technischen Hürden genau untersuchen und uns bis Mittwoch erste Ergebnisse liefern.\n\nUm die nächsten Schritte und den neuen Zeitplan gemeinsam zu besprechen, möchte ich für kommenden Freitagvormittag __5__. Eine separate Einladung mit genauer Uhrzeit und Agenda folgt in Kürze.\n\n__6__ und bin zuversichtlich, dass wir diese Herausforderung gemeinsam meistern werden.\n\nMit freundlichen Grüßen\n\nKlaus Hoffmann\nProjektleitung Quantum Leap",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "nicht eingehalten werden kann",
+                "b": "sich leider verzögern wird",
+                "c": "vorerst ausfallen muss"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "trotz unerwarteter technischer Probleme",
+                "b": "wegen unerwarteten technischen Problemen",
+                "c": "aufgrund von unerwarteten technischen Problemen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "weshalb der Zeitplan überdacht werden sollte",
+                "b": "was eine Anpassung des Zeitplans erfordert",
+                "c": "wodurch der Zeitplan beeinflusst wird"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Die Analyse der Situation übernehmen soll",
+                "b": "Mit der Analyse der Situation beauftragt ist",
+                "c": "Für die Analyse der Situation zuständig wird"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "einen kurzen Abstimmungstermin ansetzen",
+                "b": "ein baldiges Treffen organisieren",
+                "c": "einen Termin zur Besprechung finden"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ich bedanke mich für eure Hilfe",
+                "b": "Ich erwarte euer Verständnis",
+                "c": "Ich zähle auf eure Kooperation"
+            },
+            "loesung": "c"
+        }
+    ]
+}

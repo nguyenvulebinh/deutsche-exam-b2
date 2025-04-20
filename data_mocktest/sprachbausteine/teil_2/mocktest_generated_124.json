@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Reklamation: Rechnung Nr. 4812-B",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für Ihre E-Mail vom 15. März, in der Sie uns auf eine mögliche Unstimmigkeit in unserer Rechnung Nr. 4812-B aufmerksam machen.\n\nWir bedauern sehr, dass es __1__ gekommen ist und entschuldigen uns für die entstandenen Umstände. Unsere Buchhaltung wird den Sachverhalt selbstverständlich __2__ prüfen.\n\nInsbesondere werden wir die aufgeführten Posten sowie die Berechnung der Mehrwertsteuer __3__.\n\nWir gehen davon aus, Ihnen __4__ eine detaillierte Rückmeldung geben zu können. Wir __5__ um etwas Geduld.\n\nSollte sich tatsächlich ein Fehler unsererseits bestätigen, werden wir Ihnen selbstverständlich umgehend __6__.\n\nWir danken Ihnen für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice\n[Firmenname]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "zu unserer Verzögerung",
+                "b": "zu diesen Unannehmlichkeiten",
+                "c": "zu diesem Missverständnis"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "sofort und oberflächlich",
+                "b": "schnell und direkt",
+                "c": "umgehend und sorgfältig"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "einen kurzen Blick darauf werfen",
+                "b": "einer genauen Prüfung unterziehen",
+                "c": "Ihren Vorschlag berücksichtigen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "nach unserem Urlaub",
+                "b": "in absehbarer Zeit",
+                "c": "innerhalb der nächsten 3 Werktage"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "bitten wir Sie bis dahin höflich",
+                "b": "empfehlen wir Ihnen trotzdem",
+                "c": "fordern wir Sie deshalb dringend"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "Ihnen den Betrag erstatten",
+                "b": "eine korrigierte Rechnung zukommen lassen",
+                "c": "einen neuen Vertrag anbieten"
+            },
+            "loesung": "b"
+        }
+    ]
+}

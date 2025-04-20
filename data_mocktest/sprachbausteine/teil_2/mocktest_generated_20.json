@@ -1,0 +1,60 @@
+{
+    "title": "Klärungsbedarf nach unserem Gespräch am [Datum]",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank nochmals für das konstruktive Gespräch am [Datum] bezüglich der möglichen Marketingkooperation zwischen unseren Unternehmen. Es hat uns gefreut, erste Ideen auszutauschen.\n\nUm nun eine fundierte Entscheidungsgrundlage für die nächsten Schritte zu haben, bitten wir um Klärung einiger __1__ Punkte. Insbesondere benötigen wir genauere Informationen darüber, wer __2__ für die Erstellung der Online-Werbeanzeigen.\n\nDes Weiteren wäre für uns eine __3__ der primären Zielgruppe hilfreich. Die bisherigen Angaben erscheinen uns noch etwas zu allgemein für eine __4__ . Könnten Sie uns hierzu eventuell detailliertere Profile oder Kriterien zukommen lassen?\n\nWir würden vorschlagen, diese Fragen kurzfristig telefonisch zu besprechen. Wäre es Ihnen möglich, dass wir dazu nächste Woche kurz telefonieren, und würde es __5__?\n\nWir sehen Ihrer __6__ mit Interesse entgegen, um die weiteren Schritte planen zu können.\n\nMit freundlichen Grüßen\n\n[Ihr Name]\n[Ihre Position/Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "offenen",
+                "b": "besprochenen",
+                "c": "wichtigsten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "den Aufwand übernimmt",
+                "b": "die Rechnung bezahlt",
+                "c": "die Kosten trägt"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "konkrete Vorstellung",
+                "b": "genaue Definition",
+                "c": "ausführliche Beschreibung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "weitere Vorgehensweise",
+                "b": "effektive Kampagne",
+                "c": "zielgerichtete Planung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Ihnen recht wäre",
+                "b": "Sie zustimmen würden",
+                "c": "es passen würde"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "baldige Bestätigung",
+                "b": "zeitnahe Rückmeldung",
+                "c": "klärende Antwort"
+            },
+            "loesung": "b"
+        }
+    ]
+}

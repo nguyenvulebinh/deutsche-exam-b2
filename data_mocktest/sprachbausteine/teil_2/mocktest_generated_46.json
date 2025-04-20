@@ -1,0 +1,60 @@
+{
+    "title": "Neues Angebot: Betriebliches Gesundheitsprogramm",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nwir __1__ , Ihnen mitteilen zu können, dass wir ab dem 1. August eine neue Partnerschaft mit dem Fitness- und Gesundheitszentrum 'Vitalis' eingehen.\n\nDiese Kooperation __2__ es uns, Ihnen vergünstigte Konditionen für ein breites Angebot an Fitnesskursen, Gerätetraining und Wellnessanwendungen anzubieten. Ziel ist es, Ihr Wohlbefinden zu steigern und die Gesundheit aktiv zu fördern.\n\n__3__ den rein gesundheitlichen Aspekten soll dieses Angebot auch den Teamgeist stärken. Finanziell wird das Programm attraktiv gestaltet, indem __4__ vom Unternehmen übernommen wird.\n\nInteressierte Mitarbeiterinnen und Mitarbeiter können __5__ dem Intranet-Link bis zum 15. Juli verbindlich anmelden. Dort finden Sie auch detaillierte Informationen zu den Kursen und Konditionen.\n\nBei Rückfragen steht Ihnen die Personalabteilung gerne zur Verfügung. Wir __6__ rege Teilnahme und hoffen, dass viele von Ihnen dieses tolle Angebot nutzen werden.\n\nMit freundlichen Grüßen\n\nIhre Personalabteilung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "erzählen Ihnen gern",
+                "b": "freuen uns sehr",
+                "c": "schlagen Ihnen vor"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "behindert",
+                "b": "interessiert",
+                "c": "ermöglicht"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Trotz",
+                "b": "Neben",
+                "c": "Wegen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "ein erheblicher Kostenanteil",
+                "b": "die volle Verantwortung",
+                "c": "eine separate Rechnung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "sich an",
+                "b": "sich auf",
+                "c": "sich über"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "bitten um",
+                "b": "hoffen auf",
+                "c": "danken für"
+            },
+            "loesung": "b"
+        }
+    ]
+}

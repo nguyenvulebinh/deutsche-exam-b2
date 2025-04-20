@@ -1,0 +1,60 @@
+{
+    "title": "Problem mit Software \"ProjektPlaner v3\" - Bitte um Unterstützung",
+    "textinhalt": "Sehr geehrtes IT-Support-Team,\n\nich wende mich an Sie __1__ mit der Software \"ProjektPlaner v3\", das auf meinem Rechner auftritt. Die Software stürzt seit einiger Zeit immer wieder ab, insbesondere beim Speichern größerer Projektdateien.\n\nDies __2__ und führt zu wiederholten Unterbrechungen meiner Arbeitsabläufe. __3__ , löst dies das Problem nicht dauerhaft. Nach kurzer Zeit tritt der Fehler erneut auf.\n\nDaher bitte ich Sie höflich, __4__ und die Ursache für die Abstürze zu ermitteln. Wäre es möglich, dafür zeitnah __5__ ?\n\nFür die Fehlersuche und Behebung __6__ , idealerweise vormittags zwischen 9 und 12 Uhr in der kommenden Woche. Bitte teilen Sie mir mit, welcher Termin für Sie passen würde.\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Mitarbeiterkennung]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "wegen einem häufigen Problem",
+                "b": "bezüglich eines wiederkehrenden Problems",
+                "c": "anlässlich eines alten Problems"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "beeinträchtigt meine Arbeit erheblich",
+                "b": "stört meine Tätigkeit bedeutend",
+                "c": "behindert meine Aufgaben stark"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Während ein Neustart kurz hilft",
+                "b": "Trotzdem ein Neustart kurz hilft",
+                "c": "Obwohl ein Neustart kurzfristig hilft"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "eine schnelle Reparatur durchzuführen",
+                "b": "eine genaue Diagnose zu stellen",
+                "c": "eine richtige Analyse zu machen"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "einen Termin zur Überprüfung zu vereinbaren",
+                "b": "eine Sitzung zur Besprechung anzusetzen",
+                "c": "einen Besuch zur Kontrolle abzumachen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "bin ich für Sie gern erreichbar",
+                "b": "stelle ich mich Ihnen bereitwillig vor",
+                "c": "stehe ich Ihnen gerne zur Verfügung"
+            },
+            "loesung": "c"
+        }
+    ]
+}

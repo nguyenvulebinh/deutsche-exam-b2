@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Lieferverzug – Bestellnummer 745-GHX",
+    "textinhalt": "Sehr geehrte Frau Kowalski,\n\nvielen Dank für Ihre Nachricht. Wir haben __1__ Ihrer Bestellung 745-GHX vom 15. März erhalten und bedauern sehr, dass die Lieferung noch nicht bei Ihnen eingetroffen ist.\n\nDie Verzögerung ist __2__ in unserer Logistikabteilung entstanden, die momentan ein ungewöhnlich hohes Bestellaufkommen bewältigen muss. Wir arbeiten mit Hochdruck daran, alle Sendungen schnellstmöglich zu bearbeiten.\n\nNach aktuellem Stand __3__ die Zustellung Ihrer Waren nun am kommenden Freitag, den 28. März. Sie erhalten eine separate Versandbestätigung, sobald das Paket unser Lager verlässt.\n\nWir möchten Ihnen für die entstandenen Unannehmlichkeiten __4__ einen Rabatt von 15% auf Ihre nächste Bestellung bei uns. Den Gutscheincode finden Sie am Ende dieser E-Mail.\n\nFür die Verzögerung __5__ und hoffen auf Ihr Verständnis. Ihre Zufriedenheit ist uns sehr wichtig.\n\nSollten Sie weitere Fragen haben, stehen wir Ihnen unter der bekannten Servicenummer oder per E-Mail __6__.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\n[Firmenname]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihren Hinweis auf",
+                "b": "Ihre Beschwerde bezüglich",
+                "c": "Ihre Anfrage über"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "trotz einiger Schwierigkeiten",
+                "b": "wegen plötzlicher Probleme",
+                "c": "aufgrund unerwarteter Engpässe"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "ist hoffentlich geschehen",
+                "b": "kann eventuell stattfinden",
+                "c": "wird voraussichtlich erfolgen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "als kleine Entschädigung anbieten",
+                "b": "zur Belohnung geben",
+                "c": "für Ihre Treue danken"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "fordern wir Ihre Verzeihung",
+                "b": "wünschen wir keine Probleme",
+                "c": "bitten wir Sie um Entschuldigung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "sofort bereit",
+                "b": "gerne zur Verfügung",
+                "c": "immer im Dienst"
+            },
+            "loesung": "b"
+        }
+    ]
+}

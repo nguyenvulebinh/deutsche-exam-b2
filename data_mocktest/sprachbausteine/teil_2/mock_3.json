@@ -1,0 +1,61 @@
+{
+    "title": "Ihre Anfrage",
+    "textinhalt": "Sehr geehrter Herr Obers,\n\nwir bedanken uns für Ihr Interesse an __1__ !\n\nGerne erstellen wir ein Angebot für die Lieferung und den Einbau von 25 Fenstern in Ihrem Bürogebäude. Allerdings benötigen wir __2__ weitere Informationen.\n\nBitte teilen Sie uns mit, ob Sie auch Jalousien außen für die Fenster wünschen und falls ja, für wie viele der Fenster.\nSie hatten in Ihrer Anfrage geschrieben, dass die Fensterrahmen weiß sein sollen. Haben Sie auch __3__ (Metall oder Kunststoff) oder möchten Sie ein Angebot für beide Varianten?\n\nDie Fenster wird unser Mitarbeiter Herr Zumwinkel dann vor Ort ausmessen und sich zur Terminvereinbarung direkt mit Ihnen __4__.\n\nSollten Sie in der Zwischenzeit __5__ , können Sie sich selbstverständlich gerne an mich wenden.\n\nIch freue mich auf __6__ !\n\nMit freundlichen Grüßen\n\nIlona Jacob\n- Kuhl GmbH, Fenster & Wintergärten -",
+    "aufgaben": [
+      {
+        "id": 1,
+        "options": {
+          "a": "Ihren Angeboten",
+          "b": "unseren Produkten",
+          "c": "unserer Bestellung"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 2,
+        "options": {
+          "a": "davor auch",
+          "b": "vorerst schon",
+          "c": "zunächst noch"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 3,
+        "options": {
+          "a": "ein bevorzugtes Material",
+          "b": "eine andere Ware",
+          "c": "einen weiteren Bedarf"
+        },
+        "loesung": "a"
+      },
+      {
+        "id": 4,
+        "options": {
+          "a": "im Gespräch bleiben",
+          "b": "in Verbindung setzen",
+          "c": "in Kontakt kommen"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 5,
+        "options": {
+          "a": "dringende Anrufe erhalten",
+          "b": "neue Hinweise geben",
+          "c": "weitere Fragen haben"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 6,
+        "options": {
+          "a": "Ihre zeitnahe Rückmeldung",
+          "b": "Ihren ausführlichen Bericht",
+          "c": "unseren längeren Termin"
+        },
+        "loesung": "a"
+      }
+    ]
+}
+  

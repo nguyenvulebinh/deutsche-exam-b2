@@ -1,0 +1,60 @@
+{
+    "title": "Ihr Messebesuch – Informationsmaterial und Gesprächsvorschlag",
+    "textinhalt": "Sehr geehrte Frau Dr. Bergmann,\n\nich hoffe, Sie hatten eine gute Rückreise von der Connecta Fachmesse in Berlin. Es hat mich sehr gefreut, Sie letzte Woche an unserem Stand kennenzulernen und einen ersten Einblick in Ihren Bedarf im Bereich Prozessoptimierung zu erhalten.\n\nWie besprochen, sende ich Ihnen __1__ unsere detaillierte Broschüre zum neuen Software-Tool 'OptiFlow'. Ich denke, dass besonders die Analysefunktionen für Ihre __2__ Abläufe von großem Interesse sein könnten.\n\nUm Ihre __3__ Anforderungen und mögliche Einsatzszenarien in Ihrem Unternehmen __4__ , schlage ich ein kurzes Telefonat oder eine Videokonferenz vor. Ich wäre nächste Woche relativ flexibel.\n\n__5__ Ihnen zum Beispiel Mittwochvormittag oder Donnerstagnachmittag passen? Alternativ können Sie mir gerne auch ein paar Terminvorschläge __6__ .\n\nSollten Sie vorab bereits Fragen zur Broschüre oder zum Tool haben, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMarkus Steiner\nKey Account Management\nTechSolutions GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "als Beilage",
+                "b": "mit diesem Schreiben",
+                "c": "in der Anlage"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "betrieblichen",
+                "b": "alltäglichen",
+                "c": "wichtigen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "speziellen",
+                "b": "gesamten",
+                "c": "aktuellen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "näher zu erläutern",
+                "b": "besser zu verstehen",
+                "c": "gemeinsam zu finden"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Würde",
+                "b": "Könnte",
+                "c": "Möchte"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "zukommen lassen",
+                "b": "bereitstellen lassen",
+                "c": "vorschlagen lassen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

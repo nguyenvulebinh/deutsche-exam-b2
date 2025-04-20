@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Bestellung Nr. 745812",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\n__1__ Ihre Nachricht vom 15. Mai 2024 bedanken wir uns und bestätigen den Eingang Ihrer Beschwerde bezüglich der verzögerten Lieferung Ihrer Bestellung mit der Nummer 745812.\n\nWir bedauern __2__ außerordentlich und bitten Sie hierfür um Entschuldigung. Die Verzögerung war leider __3__ bei einem unserer Zulieferer, der uns kurzfristig nicht wie geplant beliefern konnte. Dies führte zu einem unerwarteten Rückstand in unserer eigenen Produktions- und Versandabteilung.\n\nWir können Ihnen jedoch mitteilen, dass Ihre Ware gestern unser Lager verlassen hat und bereits __4__ ist. Sie sollten die Lieferung voraussichtlich innerhalb der nächsten 1-2 Werktage erhalten.\n\n__5__, möchten wir Ihnen für die nächste Bestellung einen Rabatt von 15% anbieten. Sie erhalten dazu in Kürze einen separaten Gutscheincode per E-Mail.\n\nWir hoffen auf Ihr Verständnis und stehen Ihnen bei Rückfragen selbstverständlich __6__.\n\nMit freundlichen Grüßen\n\nKundenservice Team\nTechWelt GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Antwortend auf",
+                "b": "Bezug nehmend auf",
+                "c": "Hinsichtlich für"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Ihren verständlichen Ärger",
+                "b": "die entstandenen Unannehmlichkeiten",
+                "c": "die gemachten Schwierigkeiten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "durch einen Fehler bedingt",
+                "b": "wegen einer Panne entstanden",
+                "c": "auf einen Lieferengpass zurückzuführen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Ihnen zugestellt worden",
+                "b": "auf den Weg gebracht worden",
+                "c": "an Sie versandt worden"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Als kleine Wiedergutmachung",
+                "b": "Damit Sie zufrieden sind",
+                "c": "Um Ihnen entgegenzukommen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "gerne zur Verfügung",
+                "b": "zu Ihrer Information bereit",
+                "c": "für weitere Hilfe da"
+            },
+            "loesung": "a"
+        }
+    ]
+}

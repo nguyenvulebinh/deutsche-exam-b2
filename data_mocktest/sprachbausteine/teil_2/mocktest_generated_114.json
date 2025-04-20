@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Bestellung [Nummer]",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nwir beziehen uns auf Ihre E-Mail vom [Datum] bezüglich Ihrer Bestellung [Nummer] und bedauern sehr zu hören, dass der Artikel [Produktname] __1__ bei Ihnen angekommen ist.\n\nWir möchten uns aufrichtig für die entstandenen Unannehmlichkeiten __2__. So etwas entspricht selbstverständlich nicht unseren Qualitätsstandards. Wir haben den Vorfall bereits intern geprüft, um solche Vorkommnisse zukünftig __3__.\n\nUm Ihnen schnellstmöglich entgegenzukommen, haben wir __4__ eine Ersatzlieferung für Sie veranlasst. Diese sollte Sie innerhalb der nächsten 2-3 Werktage erreichen. Die beschädigte Ware brauchen Sie selbstverständlich nicht zurückzusenden.\n\nAls kleine Wiedergutmachung für den Ärger möchten wir Ihnen zudem __5__ für Ihre nächste Bestellung anbieten. Sie finden diesen im Anhang.\n\nWir hoffen auf Ihr Verständnis und würden uns freuen, Sie __6__ zu unseren zufriedenen Kunden zählen zu dürfen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Unternehmen]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "kaum benutzt",
+                "b": "leicht beschädigt",
+                "c": "falsch geliefert"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "Ihnen danken",
+                "b": "an Sie wenden",
+                "c": "bei Ihnen entschuldigen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "zu vermeiden",
+                "b": "zu bestätigen",
+                "c": "zu untersuchen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "möglicherweise später",
+                "b": "voraussichtlich ebenso",
+                "c": "selbstverständlich sofort"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "eine weitere Rechnung",
+                "b": "einen Rabattgutschein",
+                "c": "eine detaillierte Anleitung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "deshalb leider nicht",
+                "b": "auch weiterhin",
+                "c": "dennoch kaum"
+            },
+            "loesung": "b"
+        }
+    ]
+}

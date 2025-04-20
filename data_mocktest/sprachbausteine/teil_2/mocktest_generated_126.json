@@ -1,0 +1,60 @@
+{
+    "title": "Einführung des neuen digitalen Urlaubsantragssystems",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nwir möchten Sie heute über eine wichtige Neuerung in unserer internen Verwaltung informieren. Um unsere Prozesse zu modernisieren und __1__ , führen wir zum 1. des kommenden Monats ein neues digitales System für die Beantragung von Urlaub ein.\n\nDas bisherige papierbasierte Verfahren __2__ somit ab diesem Stichtag. Das neue Online-Tool ermöglicht eine schnellere Bearbeitung Ihrer Anträge und bietet Ihnen jederzeit eine transparente Übersicht über Ihren Urlaubsstatus.\n\nSie erreichen das System über den Link auf der Startseite unseres Intranets. Dort __3__ sowie Antworten auf häufig gestellte Fragen (FAQ). Wir empfehlen allen Mitarbeitenden, sich frühzeitig __4__ .\n\nSollten dennoch Fragen oder technische Schwierigkeiten auftreten, __5__ die Personalabteilung oder die IT-Support-Hotline unter der bekannten Durchwahl.\n\nWir sind überzeugt, dass diese Umstellung langfristig eine Erleichterung für alle darstellt und __6__ während der Übergangsphase.\n\nMit freundlichen Grüßen\n\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "die Kosten zu senken",
+                "b": "die Effizienz zu steigern",
+                "c": "die Regeln zu ändern"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "ist nicht mehr verfügbar",
+                "b": "wird verbessert werden",
+                "c": "verliert seine Gültigkeit"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "erhalten Sie neue Formulare",
+                "b": "finden Sie eine ausführliche Anleitung",
+                "c": "bekommen Sie eine persönliche Schulung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "sich darin einzuarbeiten",
+                "b": "es benutzen zu können",
+                "c": "sich damit vertraut zu machen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "wenden Sie sich bitte an",
+                "b": "informieren Sie sofort über",
+                "c": "fragen Sie einfach bei"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "hoffen wir auf Ihre Zustimmung",
+                "b": "bitten wir um Ihr Verständnis",
+                "c": "danken wir für Ihre Mitarbeit"
+            },
+            "loesung": "b"
+        }
+    ]
+}

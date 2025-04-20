@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Lieferverzögerung – Bestellnummer 745-GHX8",
+    "textinhalt": "Sehr geehrte Frau Nowak,\n\nwir beziehen uns auf Ihre E-Mail vom 15. Mai, in der Sie die verspätete Lieferung Ihrer Bestellung mit der Nummer 745-GHX8 beanstanden.\n\nWir bedauern die entstandenen __1__ sehr und bitten Sie aufrichtig um Entschuldigung. Kundenzufriedenheit hat für uns oberste Priorität.\n\nNach __2__ hat sich herausgestellt, dass die Verzögerung durch einen unerwarteten, kurzfristigen Systemausfall in unserem zentralen Lager verursacht wurde. Dieser Ausfall führte leider dazu, dass zahlreiche Bestellungen der letzten Tage nicht __3__ bearbeitet und versandt werden konnten.\n\nWir können Ihnen jedoch mitteilen, dass Ihre Ware unser Lager gestern Nachmittag verlassen hat und sich nun __4__ befindet. Sie sollten die Lieferung voraussichtlich innerhalb der nächsten 1-2 Werktage erhalten.\n\nAls kleine __5__ für die längere Wartezeit möchten wir Ihnen einen Gutschein über 10% auf Ihre nächste Bestellung bei uns anbieten. Der Gutscheincode lautet: SORRY24. \n\nWir hoffen auf Ihr Verständnis und __6__, dass Sie uns trotz dieses Vorfalls als Kundin erhalten bleiben.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team\nWebShop GmbH",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Probleme",
+                "b": "Unannehmlichkeiten",
+                "c": "Schwierigkeiten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "kurzer Nachfrage",
+                "b": "eingehender Analyse",
+                "c": "interner Prüfung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "sorgfältig",
+                "b": "rechtzeitig",
+                "c": "vollständig"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "unterwegs zu Ihnen",
+                "b": "in der Zustellung",
+                "c": "auf dem Versandweg"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Entschädigung",
+                "b": "Belohnung",
+                "c": "Erstattung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "freuen uns darüber",
+                "b": "hoffen darauf",
+                "c": "gehen davon aus"
+            },
+            "loesung": "b"
+        }
+    ]
+}

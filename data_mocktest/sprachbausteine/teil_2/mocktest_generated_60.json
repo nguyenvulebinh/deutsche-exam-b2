@@ -1,0 +1,60 @@
+{
+    "title": "Wichtige Information: Obligatorische IT-Sicherheitsschulung",
+    "textinhalt": "Liebe Kolleginnen und Kollegen,\n\nhiermit möchten wir Sie über eine bevorstehende, obligatorische Schulung zum Thema IT-Sicherheit informieren. __1__ im digitalen Raum ist es für uns alle von entscheidender Bedeutung, über aktuelle Risiken und Schutzmaßnahmen Bescheid zu wissen.\n\nDie Schulung __2__ am Vormittag des 15. Mai von 9:00 Uhr bis 12:00 Uhr online stattfinden. Sie wird von externen Sicherheitsexperten durchgeführt und behandelt Themen wie Phishing-Erkennung, Passwortsicherheit und sicheren Umgang mit Unternehmensdaten.\n\nDie Teilnahme __3__. Um die Organisation zu erleichtern, __4__ bis spätestens zum 08. Mai über den Link, den Sie in einer separaten E-Mail erhalten.\n\nWeiterführende Informationen und eventuell vorzubereitende kurze Lektüre __5__ eine Woche vor dem Schulungstermin.\n\nBei Rückfragen __6__ die Personalabteilung unter der bekannten Durchwahl gerne zur Verfügung.\n\nVielen Dank für Ihr Verständnis und Ihre Kooperation.\n\nMit freundlichen Grüßen\nDie Geschäftsleitung",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Anlässlich der neuen Projekte",
+                "b": "Aufgrund der zunehmenden Bedrohungen",
+                "c": "Trotz der stabilen Lage"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "könnte eventuell verschoben werden",
+                "b": "wird planmäßig",
+                "c": "sollte ursprünglich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "wird auf freiwilliger Basis sein",
+                "b": "kann bei Bedarf nachgeholt werden",
+                "c": "ist für alle Mitarbeitenden verpflichtend"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "bitten wir um Ihre Anmeldung",
+                "b": "benötigen wir Ihre Vorschläge",
+                "c": "erwarten wir Ihre Fragen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "müssen von Ihnen recherchiert werden",
+                "b": "sind leider nicht verfügbar",
+                "c": "werden Ihnen rechtzeitig zugesandt"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "steht Ihnen",
+                "b": "wendet sich an",
+                "c": "kontaktiert Sie"
+            },
+            "loesung": "a"
+        }
+    ]
+}

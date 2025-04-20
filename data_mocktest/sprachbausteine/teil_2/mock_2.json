@@ -1,0 +1,61 @@
+{
+    "title": "Buchung der Sky Lounge für unsere Firmenfeier am 18.04.",
+    "textinhalt": "Sehr geehrte Frau Yeung,\n\ndanke für das freundliche Telefonat gestern und die kompetente Beratung. Wir haben uns im Team abgesprochen und für den zweiten Veranstaltungsort (Sky Lounge) entschieden, den Sie uns __1__ haben. Für einen kompletten Tag __2__ dann 800 Euro zuzüglich Mehrwertsteuer.\n\n__3__, möchten wir zusätzlich eine Karaoke-Musikanlage mieten. Ganz herzlichen Dank noch mal, dass Sie auf unseren Sonderwunsch __4__ haben und bereit sind, zusätzliche Mikrofone und Lautsprecher zur Verfügung zu stellen.\n\n__5__ damit auf 1150 Euro zuzüglich Mehrwertsteuer. Dass Sie uns für den Auf- und Abbau der Technik keine zusätzlichen Kosten __6__, freut uns sehr.\n\nWir freuen uns über Ihre Unterstützung, diesen Tag zu etwas ganz Besonderem zu machen.\n\nMit freundlichen Grüßen\nLetizia Kowalewski",
+    "aufgaben": [
+      {
+        "id": 1,
+        "options": {
+          "a": "zum Anlass gegeben",
+          "b": "zum Ausdruck gebracht",
+          "c": "zur Auswahl gestellt"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 2,
+        "options": {
+          "a": "beträgt der Preis",
+          "b": "erhält die Rechnung",
+          "c": "tragen die Kosten"
+        },
+        "loesung": "a"
+      },
+      {
+        "id": 3,
+        "options": {
+          "a": "Genauer gesagt",
+          "b": "So gesehen",
+          "c": "Wie besprochen"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 4,
+        "options": {
+          "a": "keine Rücksicht genommen",
+          "b": "problemlos verzichtet",
+          "c": "so flexibel reagiert"
+        },
+        "loesung": "c"
+      },
+      {
+        "id": 5,
+        "options": {
+          "a": "Der Betrag bezieht sich",
+          "b": "Der Gesamtpreis erhöht sich",
+          "c": "Die Ratenzahlung erfolgt"
+        },
+        "loesung": "b"
+      },
+      {
+        "id": 6,
+        "options": {
+          "a": "in Auftrag geben",
+          "b": "in Rechnung stellen",
+          "c": "zum Kauf anbieten"
+        },
+        "loesung": "b"
+      }
+    ]
+}
+  

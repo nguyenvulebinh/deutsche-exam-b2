@@ -1,0 +1,60 @@
+{
+    "title": "Problem mit Dienstrechner - Bitte um Unterstützung",
+    "textinhalt": "Sehr geehrtes IT-Support-Team,\n\nhiermit __1__ wegen eines Problems mit meinem Dienstrechner (Inventar-Nr. 12345). Der Rechner stürzt __2__ ab, insbesondere wenn ich die Grafikdesign-Software verwende. Manchmal erscheint auch eine Fehlermeldung, die ich leider nicht immer notieren kann.\n\nDies ist äußerst hinderlich, __3__ und ich wichtige Aufgaben nicht zeitgerecht abschließen kann.\n\nIch bitte daher __4__ des Problems, damit ich wieder reibungslos arbeiten kann.\n\nFür eventuelle Rückfragen oder wenn Sie weitere Informationen benötigen, __5__ selbstverständlich gerne zur Verfügung.\n\nKönnten Sie mir bitte __6__, wann ein Techniker sich das Gerät ansehen könnte? Ich bin an meinem Arbeitsplatz flexibel erreichbar.\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "mache ich eine Meldung",
+                "b": "wende ich mich an Sie",
+                "c": "schreibe ich diesen Brief"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "manchmal am Morgen",
+                "b": "ohne sichtbaren Grund",
+                "c": "in letzter Zeit häufiger"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "was meine Arbeit erheblich beeinträchtigt",
+                "b": "obwohl ich ihn neu gestartet habe",
+                "c": "damit die Software besser läuft"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "um weitere Informationen dazu",
+                "b": "um zeitnahe Überprüfung und Behebung",
+                "c": "um einen neuen Computer sofort"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "kann ich vielleicht",
+                "b": "habe ich leider",
+                "c": "stehe ich Ihnen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "mögliche Termine nennen",
+                "b": "ein Update durchführen lassen",
+                "c": "die Reparaturkosten abschätzen"
+            },
+            "loesung": "a"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Nachricht: Verzögerung bei Software-Zugang",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Nachricht vom [Datum des Vortags]. Wir beziehen uns auf __1__ des Software-Zugangs für Ihr Team und bedauern die dadurch entstandenen Unannehmlichkeiten sehr.\n\nDie Verzögerung ist __2__ geschuldet, die leider kurzfristig notwendig wurde und zu Engpässen in der IT-Abteilung geführt hat. Seien Sie versichert, dass __3__ .\n\nWir gehen davon aus, dass __4__ freigeschaltet sein. Sie erhalten eine separate Bestätigungs-E-Mail, sobald alles eingerichtet ist.\n\n__5__ die Verzögerung möchten wir Ihnen anbieten, die Einrichtungsgebühr für diesen Monat gutzuschreiben.\n\nSollten Sie in der Zwischenzeit weitere Fragen haben, __6__ .\n\nMit freundlichen Grüßen\n\n[Ihr Name/Unternehmen]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihre allgemeine Anfrage zu",
+                "b": "die Verzögerung bei der Einrichtung",
+                "c": "den Eingang Ihrer Bestellung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "trotz einer internen Umstellung",
+                "b": "hinsichtlich einer internen Umstellung",
+                "c": "aufgrund einer internen Umstellung"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Ihr Anliegen noch warten muss",
+                "b": "wir Ihr Anliegen erhalten haben",
+                "c": "Ihr Anliegen priorisiert behandelt wird"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "der Zugang bis morgen Mittag",
+                "b": "der Zugang irgendwann einmal",
+                "c": "der Zugang eventuell später"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Unabhängig von diesen Problemen für",
+                "b": "Als kleine Wiedergutmachung für",
+                "c": "Zusätzlich zu den Kosten für"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "stehen wir Ihnen gerne zur Verfügung",
+                "b": "finden Sie uns leicht im Büro",
+                "c": "melden wir uns bei Bedarf wieder"
+            },
+            "loesung": "a"
+        }
+    ]
+}

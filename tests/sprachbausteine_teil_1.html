@@ -120,14 +120,15 @@
             min-width: 30px;
             padding: 0 5px;
             text-align: center;
-            border: 1px dashed #007bff;
+            border-bottom: 1px dashed #007bff;
             color: #007bff;
-            background-color: transparent;
-            border-radius: 0;
+            background-color: rgba(0, 123, 255, 0.05);
+            border-radius: 2px;
             font-weight: normal;
             margin: 0 2px;
             vertical-align: middle;
             position: relative;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
         }
         
         /* Results */
@@ -195,10 +196,8 @@
     </div>
     
     <div id="test-content" class="hidden">
-        <div class="instructions" id="instructions">
-            Lesen Sie den folgenden Text. Welche Wörter a–j passen am besten in die Lücken?
-            Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text.
-        </div>
+        <div class="instructions" id="instructions">Lesen Sie den folgenden Text. Welche Wörter a–j passen am besten in die Lücken?
+            Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text.</div>
         
         <div class="reading-content">
             <div class="thema" id="thema"></div>

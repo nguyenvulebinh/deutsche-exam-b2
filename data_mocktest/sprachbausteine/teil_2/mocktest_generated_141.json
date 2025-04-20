@@ -1,0 +1,60 @@
+{
+    "title": "Antrag auf Weiterbildung: Projektmanagement-Software",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nhiermit möchte ich __1__ an einer Weiterbildung im Bereich Projektmanagement-Software.\n\nWie bereits in unserem letzten Mitarbeitergespräch kurz angesprochen, sehe ich bei mir __2__ in der effizienten Nutzung moderner Projektmanagement-Tools. Ich bin überzeugt, dass vertiefte Kenntnisse hier nicht nur meine persönliche Arbeitsweise verbessern, sondern auch __3__ zur Optimierung unserer teaminternen Abläufe leisten würden.\n\nInsbesondere im Hinblick auf die __4__ Digitalisierungsprojekte in unserer Abteilung halte ich eine entsprechende Qualifizierung für äußerst sinnvoll und proaktiv.\n\nIch habe bereits online recherchiert und einen Kurs zum Thema „Agiles Projektmanagement mit [Software-Name]“ beim Anbieter XYZ gefunden, der inhaltlich sehr gut __5__. Selbstverständlich bin ich auch offen für alternative Vorschläge Ihrerseits.\n\nKönnten Sie bitte prüfen, ob und unter welchen Bedingungen eine Kostenübernahme durch das Unternehmen __6__? Für ein persönliches Gespräch zur Klärung weiterer Details stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "meinen Wunsch äußern",
+                "b": "meine Absicht zeigen",
+                "c": "mein Interesse bekunden"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "deutlichen Entwicklungsbedarf",
+                "b": "großes Verbesserungspotenzial",
+                "c": "eine klare Wissenslücke"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "eine wichtige Hilfe",
+                "b": "einen wesentlichen Beitrag",
+                "c": "einen starken Effekt"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "kommenden neuen",
+                "b": "anstehenden",
+                "c": "wichtigen geplanten"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "relevant erscheint",
+                "b": "passen würde",
+                "c": "geeignet wäre"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "möglich wäre",
+                "b": "genehmigt werden kann",
+                "c": "in Frage kommt"
+            },
+            "loesung": "c"
+        }
+    ]
+}

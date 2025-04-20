@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde bezüglich Servicetermin vom [Datum]",
+    "textinhalt": "Sehr geehrter Herr Schneider,\n\nwir beziehen uns auf __1__ vom [Datum] und bedauern sehr, dass der vereinbarte Servicetermin mit unserem Techniker am [Datum] nicht wie geplant stattfinden konnte.\n\nAufgrund __2__ kam es an diesem Tag leider zu erheblichen Verzögerungen im gesamten Außendienst, wovon bedauerlicherweise auch Ihr Termin betroffen war.\n\nWir haben __3__ geprüft und möchten uns aufrichtig für die entstandenen Unannehmlichkeiten entschuldigen.\n\nUm Ihnen entgegenzukommen, möchten wir Ihnen gerne __4__ anbieten. Wäre Ihnen der [neues Datum] um [Uhrzeit] Uhr möglich? Alternativ können Sie uns auch gerne Terminvorschläge unterbreiten.\n\nZusätzlich erhalten Sie für Ihren nächsten Serviceauftrag bei uns __5__ auf den Rechnungsbetrag als kleine Wiedergutmachung.\n\nBitte geben Sie uns kurz Bescheid, ob der vorgeschlagene Termin für Sie passt oder wann es Ihnen alternativ möglich wäre. Wir __6__ und danken Ihnen für Ihre Geduld.\n\nMit freundlichen Grüßen\nIhr Kundenservice-Team",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "Ihren Auftrag",
+                "b": "Ihre Nachricht",
+                "c": "Ihre Anfrage"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "des geplanten Feiertags",
+                "b": "Ihrer deutlichen Zustimmung",
+                "c": "eines unvorhergesehenen Personalengpasses"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Ihren Fall umgehend",
+                "b": "unsere Preise erneut",
+                "c": "die technischen Daten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Ihre ursprüngliche Buchung",
+                "b": "einen zeitnahen Ersatztermin",
+                "c": "eine ausführliche Erklärung"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "eine zusätzliche Rechnung",
+                "b": "Ihre vollständigen Kundendaten",
+                "c": "einen Nachlass von 10%"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "warnen vor weiteren Verzögerungen",
+                "b": "hoffen auf Ihr Verständnis",
+                "c": "bestätigen den Eingang"
+            },
+            "loesung": "b"
+        }
+    ]
+}

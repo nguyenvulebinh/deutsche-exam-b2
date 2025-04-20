@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Anfrage bezüglich Deutschkursen für Unternehmen",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nvielen Dank für Ihre Anfrage vom [Datum Ihrer Wahl einfügen, z.B. 15. Mai] bezüglich unserer Deutschkurse für Unternehmen. Wir freuen uns sehr über Ihr Interesse an unserem Angebot.\n\nGerne bestätigen wir Ihnen, dass wir spezialisierte Deutschkurse anbieten, die __1__ die Bedürfnisse internationaler Fachkräfte zugeschnitten sind. Wir decken alle Niveaustufen des Gemeinsamen Europäischen Referenzrahmens (GER) ab.\n\nUm Ihnen jedoch ein passendes und detailliertes Angebot __2__, benötigen wir noch einige zusätzliche Informationen von Ihrer Seite.\n\nKönnten Sie uns bitte mitteilen, wie viele Mitarbeiter __3__ teilnehmen würden und welche Vorkenntnisse (ungefähres Sprachniveau nach GER) bereits vorhanden sind? Zudem wäre es hilfreich zu wissen, ob Sie Präsenzunterricht in Ihren Räumlichkeiten __4__ oder ob Online-Kurse für Ihr Team besser geeignet wären.\n\nAnbei senden wir Ihnen unsere allgemeine Broschüre zu Firmenkursen. Selbstverständlich stehen wir Ihnen __5__ für ein persönliches Beratungsgespräch zur Verfügung, um weitere Details zu klären und auf Ihre spezifischen Wünsche einzugehen.\n\nSobald uns die __6__ Informationen vorliegen, senden wir Ihnen umgehend ein konkretes Kurskonzept inklusive einer detaillierten Preisangabe zu.\n\nWir freuen uns darauf, von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Ihre Abteilung]\nLinguaPro Training",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "direkt an",
+                "b": "generell für",
+                "c": "speziell auf"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "unterbreiten zu können",
+                "b": "gemacht haben",
+                "c": "geben zu dürfen"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "maximal",
+                "b": "voraussichtlich",
+                "c": "insgesamt"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "absolvieren möchten",
+                "b": "gebucht hätten",
+                "c": "bevorzugen würden"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "jederzeit gerne",
+                "b": "bei Bedarf eventuell",
+                "c": "grundsätzlich auch"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "allgemeinen",
+                "b": "benötigten",
+                "c": "aktuellen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Beschwerde vom [Datum einfügen] – Kundennummer [Nummer einfügen]",
+    "textinhalt": "Sehr geehrte/r Herr/Frau [Name],\n\nwir __1__ Ihrer Nachricht vom [Datum] bezüglich Ihrer Bestellung [Bestellnummer] und bedauern die entstandenen Unannehmlichkeiten aufrichtig.\n\nAufgrund eines unerwarteten Engpasses in unserer Logistikabteilung __2__ bei der Auslieferung Ihrer Waren. Wir bitten Sie hierfür um Entschuldigung. \n\nZusätzlich haben wir den von Ihnen angesprochenen Fehler auf der Rechnung geprüft. Sie haben Recht, der Betrag war nicht korrekt. Im Anhang finden Sie __3__ bereits.\n\nUm __4__, möchten wir Ihnen für Ihre nächste Bestellung __5__. Wir hoffen, Sie nehmen dieses Angebot an.\n\nWir haben interne Maßnahmen ergriffen, __6__. Wir schätzen Ihr Geschäft und hoffen auf Ihr Verständnis.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Firmenname]\nKundenservice",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "nehmen Bezug auf den Inhalt",
+                "b": "bestätigen hiermit den Eingang",
+                "c": "erklären Ihnen den Erhalt"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "mussten wir Schwierigkeiten feststellen",
+                "b": "waren die Folgen Probleme",
+                "c": "kam es leider zu Verzögerungen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "die Korrektur der Rechnung",
+                "b": "die Ausstellung der Rechnung",
+                "c": "die Bearbeitung der Rechnung"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "Ihnen zuzustimmen",
+                "b": "Ihnen nachzugehen",
+                "c": "Ihnen entgegenzukommen"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "einen Nachlass zu gewähren",
+                "b": "eine Gutschrift zu erstellen",
+                "c": "einen Rabatt zu leisten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "damit Probleme nicht mehr auftreten",
+                "b": "um solche Vorfälle künftig zu vermeiden",
+                "c": "gegen diese Fehler vorzugehen"
+            },
+            "loesung": "b"
+        }
+    ]
+}

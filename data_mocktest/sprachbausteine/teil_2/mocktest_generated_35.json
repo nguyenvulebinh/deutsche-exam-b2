@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Reklamation: Lieferung Schreibtische Modell FX-500",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre E-Mail vom [Datum], mit der Sie die Beschädigung der gelieferten Schreibtische Modell FX-500 beanstandet haben. Wir haben Ihre Nachricht erhalten und den Inhalt __1__.\n\nEs tut uns aufrichtig leid, dass die Ware nicht in __2__ Zustand bei Ihnen eingetroffen ist. Wir verstehen Ihren Ärger darüber.\n\nObwohl unsere Warenausgangskontrolle sehr gründlich ist, scheint es __3__ auf dem Transportweg zu einer Beschädigung gekommen zu sein. Wir prüfen intern bereits, wie dies geschehen konnte.\n\nUm diese Angelegenheit für Sie zufriedenstellend zu regeln, möchten wir Ihnen zwei Optionen __4__: Entweder wir veranlassen umgehend eine Ersatzlieferung der beschädigten Schreibtische oder wir gewähren Ihnen einen Preisnachlass von 20% auf die betroffenen Artikel.\n\nBitte teilen Sie uns kurz mit, __5__ Sie sich entscheiden, damit wir die weiteren Schritte schnellstmöglich einleiten können.\n\nWir hoffen __6__ und bedanken uns für Ihr Verständnis und Ihre Geduld.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]\n[Ihre Firma]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "schnellstmöglich bearbeiten werden",
+                "b": "mit Bedauern zur Kenntnis genommen",
+                "c": "aufmerksam gelesen haben"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "vereinbartem",
+                "b": "neuwertigem",
+                "c": "einwandfreiem"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "leider jedoch",
+                "b": "diesmal offenbar",
+                "c": "deshalb wahrscheinlich"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "zur Verfügung stellen",
+                "b": "als Vorschlag machen",
+                "c": "zur Lösung anbieten"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "für welche Alternative",
+                "b": "zu welcher Bedingung",
+                "c": "auf welche Weise"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "dass die Sache geklärt wird",
+                "b": "auf eine rasche und unkomplizierte Regelung",
+                "c": "auf weitere gute Zusammenarbeit"
+            },
+            "loesung": "b"
+        }
+    ]
+}

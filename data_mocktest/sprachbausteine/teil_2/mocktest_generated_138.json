@@ -1,0 +1,60 @@
+{
+    "title": "Ihre Bewerbung als [Beispielposition] / Unser Gespräch vom [Datum]",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\n__1__ für die Position als [Beispielposition] und für Ihr damit verbundenes Interesse an unserem Unternehmen möchten wir uns nochmals herzlich bedanken.\n\nDas Gespräch mit Ihnen war sehr aufschlussreich und __2__. Die hohe Qualität der Bewerbungen hat uns die Auswahl nicht leicht gemacht. __3__ wir uns nach sorgfältiger Prüfung aller Unterlagen und Gespräche für eine/n andere/n Kandidat/in entschieden haben, __4__ unseren Anforderungen für diese spezifische Stelle aktuell noch etwas besser entsprach.\n\n__5__ Ihnen keinen positiven Bescheid geben zu können und wünschen Ihnen für Ihren weiteren beruflichen Weg __6__.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Personalabteilung]\n[Unternehmen]",
+    "aufgaben": [
+        {
+            "id": 1,
+            "options": {
+                "a": "erinnernd an Ihre Bewerbung sowie unser Treffen",
+                "b": "bezugnehmend auf Ihre Bewerbung und unser Gespräch",
+                "c": "mit Bezug für Ihre Bewerbung und das Gespräch"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 2,
+            "options": {
+                "a": "wir fanden Sie eigentlich ganz sympathisch",
+                "b": "Sie haben dabei einen sehr kompetenten Eindruck hinterlassen",
+                "c": "Sie stellten sich als gute Person heraus"
+            },
+            "loesung": "b"
+        },
+        {
+            "id": 3,
+            "options": {
+                "a": "Aber wir sagen Ihnen hiermit, dass",
+                "b": "Trotzdem informieren wir darüber, wenn",
+                "c": "Dennoch müssen wir Ihnen mitteilen, dass"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 4,
+            "options": {
+                "a": "dessen Qualifikationenprofil",
+                "b": "welche Person einfach besser war",
+                "c": "dessen Eigenschaften uns mehr zusagten"
+            },
+            "loesung": "a"
+        },
+        {
+            "id": 5,
+            "options": {
+                "a": "Es tut uns furchtbar leid, Ihnen jetzt",
+                "b": "Wir haben Mitleid, Ihnen heute",
+                "c": "Wir bedauern sehr, Ihnen aktuell"
+            },
+            "loesung": "c"
+        },
+        {
+            "id": 6,
+            "options": {
+                "a": "alles Gute und viel Erfolg",
+                "b": "ein schönes Leben und tolle Chancen",
+                "c": "Glück und gute Ergebnisse"
+            },
+            "loesung": "a"
+        }
+    ]
+}
