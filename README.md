@@ -15,23 +15,16 @@ telc_b2_test/
 │   │   ├── test-engine.js  # Base test engine
 │   │   └── utils.js        # Utility functions
 │   ├── components/         # Reusable UI components
-│   │   ├── parts/          # Components for different test parts
-│   │   │   ├── BasePart.js # Base class for test parts
-│   │   │   ├── Teil1Part.js # Teil 1 implementation
-│   │   │   ├── Teil2Part.js # Teil 2 implementation
-│   │   │   ├── Teil3Part.js # Teil 3 implementation
-│   │   │   └── Teil4Part.js # Teil 4 implementation
-│   │   ├── exam/           # Exam-specific components
-│   │   └── utils/          # Utility components
 │   ├── test-types/         # Specific test implementations
-│   │   ├── lesen-teil-1.js # Lesen Teil 1 implementation
-│   │   ├── lesen-teil-2.js # Lesen Teil 2 implementation
-│   │   ├── lesen-teil-3.js # Lesen Teil 3 implementation
-│   │   ├── lesen-teil-4.js # Lesen Teil 4 implementation
-│   │   └── lesen-exam.js   # Complete Lesen exam implementation
+│   │   ├── lesen-teil-1.js                # Lesen Teil 1 implementation
+│   │   ├── lesen-teil-2.js                # Lesen Teil 2 implementation
+│   │   ├── lesen-teil-3.js                # Lesen Teil 3 implementation
+│   │   ├── lesen-teil-4.js                # Lesen Teil 4 implementation
+│   │   ├── lesen-exam.js                  # Complete Lesen exam implementation
+│   │   └── lesen-und-schreiben-teil-1-2.js # Lesen und Schreiben Teil 1&2 implementation
 │   └── app.js              # Main application script
 ├── data_mocktest/          # Test data files
-│   ├── lesen/
+│   ├── lesen/              # Reading test data
 │   │   ├── teil_1/         # Lesen Teil 1 test files
 │   │   ├── teil_1_manifest.json  # Manifest for Teil 1
 │   │   ├── teil_2/         # Lesen Teil 2 test files
@@ -40,14 +33,16 @@ telc_b2_test/
 │   │   ├── teil_3_manifest.json  # Manifest for Teil 3
 │   │   ├── teil_4/         # Lesen Teil 4 test files
 │   │   └── teil_4_manifest.json  # Manifest for Teil 4
+│   └── lesen_und_schreiben/ # Reading and writing test data
+│       ├── teil_1_2/       # Lesen und Schreiben Teil 1&2 test files
+│       └── teil_1_2_manifest.json # Manifest for Teil 1&2
 ├── tests/                  # HTML test files
 │   ├── lesen_teil_1.html   # Lesen Teil 1 test page
 │   ├── lesen_teil_2.html   # Lesen Teil 2 test page
 │   ├── lesen_teil_3.html   # Lesen Teil 3 test page
 │   ├── lesen_teil_4.html   # Lesen Teil 4 test page
 │   ├── lesen_exam.html     # Complete Lesen exam page
-│   ├── lesen_und_schreiben_teil_1.html # Lesen und Schreiben Teil 1 page
-│   └── lesen_und_schreiben_teil_2.html # Lesen und Schreiben Teil 2 page
+│   └── lesen_und_schreiben_teil_1_2.html # Lesen und Schreiben Teil 1&2 page
 ├── index.html              # Main HTML file
 ├── .env                    # Environment variables
 ├── requirements.txt        # Python dependencies for local development
@@ -70,12 +65,7 @@ The application follows a modular architecture:
    - Answer checking logic
    - Custom event handling
 
-3. **Components**: The `js/components` directory contains reusable UI components:
-   - `parts/`: Components for different test parts that encapsulate the rendering and interaction logic
-   - `exam/`: Components for full exam simulations
-   - `utils/`: Utility components for the UI
-
-4. **Test Data**: JSON files in `data_mocktest/` directory organize test content by skill and part
+3. **Data Organization**: Test data is organized in JSON files within the `data_mocktest/` directory, with separate subdirectories for each test type. Each test type has a manifest file that lists all available test files.
 
 ## How to Run
 
@@ -109,11 +99,12 @@ A complete exam simulation that combines all four Lesen parts into one test expe
 
 ### Lesen und Schreiben (Reading and Writing)
 
-#### Teil 1: Beschwerden und Anweisungen verstehen
-This test focuses on understanding complaints and instructions.
-
-#### Teil 2: Auf Beschwerden reagieren
-This test focuses on responding to complaints in written form.
+#### Teil 1&2: Email Correspondence
+This test focuses on understanding and responding to email correspondence. Users read emails, answer comprehension questions, and write a response according to specific instructions. The test features:
+- Reading comprehension of professional emails
+- Multiple-choice questions about email content
+- Interactive writing task with a rich text editor
+- Self-assessment checklist for the writing task
 
 ## Core Components
 
@@ -122,9 +113,8 @@ This test focuses on responding to complaints in written form.
 The `TestEngine` class (`js/core/test-engine.js`) is the core of the application, providing:
 
 1. **Test data loading** with multiple fallback mechanisms:
-   - New format manifest: `data_mocktest/lesen/teil_1_manifest.json`
-   - Old format manifest: `data_mocktest/lesen/teil_1/file_manifest.json`
-   - Directory listing (for local development)
+   - Manifest file: `data_mocktest/[test_type]/[part]_manifest.json`
+   - Default test data embedded in the code
    - Hardcoded fallback lists
 
 2. **Test lifecycle management**:
@@ -148,21 +138,22 @@ The `Utils` class (`js/core/utils.js`) provides utility functions for:
 - Data processing
 - UI helpers
 
-## GitHub Pages Deployment
+## Deployment
 
-The application is designed to work on GitHub Pages with special consideration for its limitations:
+The application is designed to work on web servers without server-side code:
 
-1. **Directory listing**: Since GitHub Pages doesn't support directory listing, we use fallback mechanisms to load test files:
-   - First try direct directory listing (works on local servers)
-   - Then try to load the manifest file in the new format: `data_mocktest/lesen/teil_1_manifest.json`
-   - If that fails, fall back to the old format: `data_mocktest/lesen/teil_1/file_manifest.json`
-   - Finally, use any hardcoded fallback list from the test type class if defined
+1. **Static File Hosting**: The application can be hosted on any static file hosting service, including:
+   - GitHub Pages
+   - Netlify
+   - Vercel
+   - Any standard web hosting service
 
-2. **Deployment instructions**:
-   - Push the entire repository to GitHub
-   - Go to Settings > Pages
-   - Set the source branch (usually 'main')
-   - Your site will be published at `https://username.github.io/repository-name/`
+2. **Deployment process**:
+   - Push the entire repository to your hosting service
+   - For GitHub Pages:
+     - Go to Settings > Pages
+     - Set the source branch (usually 'main')
+     - Your site will be published at `https://username.github.io/repository-name/`
 
 3. **Verifying everything works**:
    - Make sure your file paths are relative and not absolute
@@ -173,40 +164,39 @@ The application is designed to work on GitHub Pages with special consideration f
 
 To add a new test type:
 
-1. Create test data files in the appropriate directory (e.g., `data_mocktest/lesen/teil_3/`)
-2. Create a manifest file using the new format: `data_mocktest/lesen/teil_3_manifest.json`
-3. Create a new test type implementation in `js/test-types/` (e.g., `lesen-teil-3.js`)
-4. Create a component in `js/components/parts/` if needed (e.g., `Teil3Part.js`)
-5. Create an HTML test page in the `tests/` directory
-6. Register the new test type in `app.js`
+1. Create test data files in a new directory (e.g., `data_mocktest/new_test_type/`)
+2. Create a manifest file to list all test files (e.g., `data_mocktest/new_test_type/manifest.json`)
+3. Create a new test type implementation in `js/test-types/` that extends the `TestEngine` class
+4. Create an HTML test page in the `tests/` directory
+5. Register the new test type in `app.js`
 
 ### Example: Creating a New Test Type
 
 1. Create a new class that extends the `TestEngine` class:
 
 ```javascript
-// js/test-types/lesen-teil-3.js
+// js/test-types/new-test-type.js
 import TestEngine from '../core/test-engine.js';
 import Utils from '../core/utils.js';
 
-class LesenTeil3 extends TestEngine {
+class NewTestType extends TestEngine {
     constructor(options = {}) {
         // Set default options specific to this test type
         const defaultOptions = {
-            testDataDir: 'data_mocktest/lesen/teil_3',
-            testType: 'Lesen Teil 3',
+            testDataDir: 'data_mocktest/new_test_type',
+            testType: 'New Test Type',
             defaultTestData: { ... }
         };
         
         super({...defaultOptions, ...options});
     }
     
-    // Override necessary methods...
+    // Override necessary methods
     validateTestData(data) { ... }
     displayTest(test) { ... }
     checkAnswers() { ... }
     
-    // Important for GitHub Pages - provide a fallback list of files as a last resort
+    // Provide a fallback list of files
     static getFallbackFileList() {
         return [
             'test1.json',
@@ -216,25 +206,21 @@ class LesenTeil3 extends TestEngine {
     }
 }
 
-export default LesenTeil3;
+export default NewTestType;
 ```
 
 2. Register the new test type in `app.js`:
 
 ```javascript
-import LesenTeil1 from './test-types/lesen-teil-1.js';
-import LesenTeil2 from './test-types/lesen-teil-2.js';
-import LesenTeil3 from './test-types/lesen-teil-3.js';
+import NewTestType from './test-types/new-test-type.js';
 
 const testTypes = {
-    'lesen-teil-1': LesenTeil1,
-    'lesen-teil-2': LesenTeil2,
-    'lesen-teil-3': LesenTeil3
-    // Add more test types as needed
+    // ...existing test types
+    'new-test-type': NewTestType
 };
 ```
 
-3. Create a manifest file using the new format:
+3. Create a manifest file:
 ```json
 {
     "files": [
@@ -245,63 +231,19 @@ const testTypes = {
 }
 ```
 
-## Test Data Format
+## Contributing
 
-Each test type has its own specific JSON format:
+Contributions are welcome! Please follow these steps:
 
-### Lesen Teil 1 Format
-
-```json
-{
-    "exercise_type": "TELC B2",
-    "skill": "Lesen",
-    "part": "Teil 1",
-    "instructions": "Sie lesen online in einer Wirtschaftszeitung und möchten Ihren Freunden einige Artikel schicken...",
-    "people": [
-        { "id": 1, "description": "Person description..." },
-        ...
-    ],
-    "articles": [
-        { "id": "a", "title": "Article title", "description": "Article description..." },
-        ...
-    ],
-    "solutions": {
-        "1": "a",
-        "2": "b",
-        ...
-    }
-}
-```
-
-### Lesen Teil 2 Format
-
-```json
-{
-    "thema": "Topic title",
-    "text": "Reading passage content...",
-    "Aufgaben": [
-        {
-            "type": "richtig/falsch",
-            "frage": "Question text...",
-            "loesung": "richtig"
-        },
-        {
-            "type": "multiple-choice",
-            "frage": "Question text...",
-            "optionen": [
-                { "key": "a", "text": "Option text..." },
-                { "key": "b", "text": "Option text..." },
-                { "key": "c", "text": "Option text..." }
-            ],
-            "loesung": "a"
-        }
-    ]
-}
-```
-
-### Lesen Teil 3 & 4 Format
-Similar to Teil 2 with specific adaptations for each test type.
+1. Fork the repository
+2. Create a new branch for your feature
+3. Add your changes
+4. Create a pull request
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE). 
+This project is available for educational purposes.
+
+## Contact
+
+For questions or feedback, please contact: [nguyenvulebinh@gmail.com](mailto:nguyenvulebinh@gmail.com) 
