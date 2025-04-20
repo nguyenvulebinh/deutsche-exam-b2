@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Lars Meyer\n**Erhalten:** heute, 09:10 Uhr\n**An:** Sabine Schulz\n\n**Betreff:** FW: Beschwerde Catering TechSolutions GmbH\n\nHallo Frau Schulz,\n\ndie unten stehende Beschwerde von Frau Vogel (TechSolutions GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie Frau Vogel höflich.\n\nErklären Sie ihr kurz, warum es zu den Lieferverzögerungen und Qualitätsschwankungen kam (z.B. kurzfristige personelle Engpässe in der Küche und Logistik).\nMachen Sie ihr einen Vorschlag, wie wir das wiedergutmachen können, z.B. einen Rabatt von 15% auf die nächste Lieferung oder eine kostenlose Auswahl an Desserts bei der nächsten Bestellung.\nGanz wichtig: Versichern Sie ihr, dass wir Maßnahmen ergreifen (z.B. Prozessoptimierung, zusätzliche Qualitätschecks), damit die vereinbarte Qualität und Pünktlichkeit zukünftig wieder eingehalten wird.\n\nTechSolutions ist ein regelmäßiger Kunde, den wir nicht verlieren möchten.\n\nDanke und viele Grüße\n\nLars Meyer\nTeamleiter Kundenbetreuung\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 16:25 Uhr\n**Von:** Hanna Vogel (TechSolutions GmbH)\n**An:** Lars Meyer\n\n**Betreff:** Beschwerde: Catering für wöchentliche Teammeetings\n\nSehr geehrter Herr Meyer,\n\nwir beziehen nun seit einigen Monaten das Catering für unsere wöchentlichen Teammeetings am Freitagmittag von Ihnen. Anfangs waren wir mit Ihrem Service sehr zufrieden.\n\nLeider mussten wir in den letzten vier Wochen eine merkliche Verschlechterung feststellen. Zweimal kam die Lieferung mit erheblicher Verspätung an, sodass sich unsere Meetings verzögerten. Darüber hinaus ließ die Qualität der Speisen nach – die Sandwiches wirkten teilweise nicht mehr frisch und die Salate waren welk. Auch fehlten bei einer Lieferung die extra bestellten vegetarischen Wraps.\n\nWir erwarten von einem professionellen Cateringservice Zuverlässigkeit bei Lieferung und Qualität. Die aktuellen Vorkommnisse sind für uns nicht akzeptabel und stören unsere betrieblichen Abläufe.\n\nWir bitten Sie um eine umgehende Stellungnahme und um die Zusicherung, dass die vereinbarten Standards zukünftig wieder eingehalten werden. Wir erwarten Ihre Rückmeldung bis Ende dieser Woche.\n\nMit freundlichen Grüßen\n\nHanna Vogel\nOffice Managerin\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Vogel beschwert sich bei Meyer Catering, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Preise für das Catering zu hoch sind."
+                },
+                {
+                    "key": "b",
+                    "text": "die Qualität und Pünktlichkeit der Lieferungen nachgelassen haben."
+                },
+                {
+                    "key": "c",
+                    "text": "die Auswahl der Speisen nicht den Absprachen entsprach."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein konkretes Problem in den letzten Wochen war, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung zweimal zu spät kam."
+                },
+                {
+                    "key": "b",
+                    "text": "das Geschirr nicht sauber war."
+                },
+                {
+                    "key": "c",
+                    "text": "alle bestellten Getränke fehlten."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Hanna Vogel.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Vogel,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail bezüglich des Caterings für die Teammeetings.",
+            "Drücken Sie Ihr Bedauern über die geschilderten Probleme (Verspätungen, Qualitätsmängel, fehlende Artikel) höflich aus und entschuldigen Sie sich für die Unannehmlichkeiten.",
+            "Erklären Sie kurz und nachvollziehbar den Grund für die Probleme (gemäß Anweisung der Teamleitung, z.B. 'kurzfristige personelle Engpässe').",
+            "Machen Sie einen konkreten Vorschlag zur Wiedergutmachung (gemäß Anweisung der Teamleitung, z.B. '15% Rabatt auf die nächste Lieferung' ODER 'kostenlose Dessertauswahl').",
+            "Erklären Sie, welche konkreten Maßnahmen ergriffen werden, um zukünftig Pünktlichkeit und Qualität sicherzustellen (gemäß Anweisung der Teamleitung, z.B. 'Prozessoptimierung', 'zusätzliche Qualitätschecks').",
+            "Versichern Sie ihr, dass die vereinbarten Standards wieder eingehalten werden.",
+            "Reagieren Sie auf ihre Bitte um Rückmeldung bis Ende der Woche.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

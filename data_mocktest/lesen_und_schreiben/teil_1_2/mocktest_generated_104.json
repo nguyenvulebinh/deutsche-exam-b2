@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Koch\n**Erhalten:** heute, 08:45 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Lieferung Sicherheitsschuhe - Bestellnr. 12345 vom 10.05.2024\n\nHallo,\n\ndie E-Mail von Herrn Fischer kam gestern Nachmittag. Bitte kümmern Sie sich sofort darum und antworten Sie Herrn Fischer höflich.\n\nNennen Sie ruhig den Grund für die Falschlieferung – z.B. eine bedauerliche Verwechslung bei der Kommissionierung im Lager. Wichtig ist: Schreiben Sie ihm, wie wir das Problem schnell lösen – also die Organisation der korrekten Lieferung und die Abholung der falschen Ware. Bestätigen Sie auch, dass wir die Dringlichkeit wegen der neuen Mitarbeiter verstanden haben.\n\nMetallbau Schmidt ist ein langjähriger Kunde, so ein Fehler darf uns nicht passieren!\n\nVielen Dank und Grüße\n\nSabine Koch\nTeamleiterin Vertrieb\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Jonas Fischer\n**An:** Lena Bauer\n\n**Betreff:** Reklamation Lieferung Sicherheitsschuhe - Bestellnr. 12345 vom 10.05.2024\n\nSehr geehrte Frau Bauer,\n\nich beziehe mich auf unsere Bestellung Nr. 12345 vom 10.05.2024 über Sicherheitsschuhe des Modells 'Profi-S3' in verschiedenen Größen und die heute erfolgte Lieferung.\n\nLeider müssen wir die Lieferung reklamieren. Anstelle des bestellten Modells 'Profi-S3' haben wir durchgehend das Modell 'Standard' erhalten, und dies zudem in teilweise falschen Größen, die nicht unserer Bestellung entsprechen. Darüber hinaus sind einige der Schuhkartons bei Ankunft beschädigt gewesen, was uns Sorgen bezüglich des Zustands der Schuhe macht, auch wenn wir diese noch nicht alle im Detail geprüft haben.\n\nDa wir die bestellten Sicherheitsschuhe dringend für neue Mitarbeiter benötigen, die nächste Woche bei uns anfangen, ist diese Falschlieferung sehr problematisch.\n\nWir bitten Sie um eine umgehende Klärung und die schnellstmögliche Zusendung der korrekt bestellten Ware (Modell 'Profi-S3' in den ursprünglich bestellten Größen). Bitte teilen Sie uns ebenfalls mit, wie die Rücksendung der fälschlicherweise gelieferten bzw. beschädigten Artikel erfolgen soll.\n\nWir erwarten Ihre zeitnahe Rückmeldung bezüglich des weiteren Vorgehens und eines verbindlichen Liefertermins für die korrekte Ware.\n\nMit freundlichen Grüßen\n\nJonas Fischer\nEinkauf\nMetallbau Schmidt GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Fischer beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Verpackung der Schuhe beschädigt war."
+                },
+                {
+                    "key": "b",
+                    "text": "die gelieferten Sicherheitsschuhe nicht der Bestellung entsprechen."
+                },
+                {
+                    "key": "c",
+                    "text": "die Lieferung der Schuhe zu spät erfolgte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die korrekte Lieferung ist besonders wichtig, da...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "neue Mitarbeiter die Schuhe bald benötigen."
+                },
+                {
+                    "key": "b",
+                    "text": "die alten Schuhe der Mitarbeiter abgenutzt sind."
+                },
+                {
+                    "key": "c",
+                    "text": "die falschen Schuhe zurückgeschickt werden müssen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Fischer.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Fischer,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail bezüglich der Bestellung Nr. 12345 (Sicherheitsschuhe).",
+            "Drücken Sie Ihr Bedauern über die Falschlieferung und die beschädigten Kartons höflich aus und entschuldigen Sie sich für die Unannehmlichkeiten.",
+            "Bestätigen Sie, dass Sie die Dringlichkeit aufgrund der neuen Mitarbeiter verstanden haben (gemäß Anweisung der Teamleiterin).",
+            "Erklären Sie kurz und nachvollziehbar den Grund für den Fehler (z.B. eine bedauerliche Verwechslung bei der Kommissionierung im Lager, gemäß Anweisung der Teamleiterin).",
+            "Erklären Sie die konkreten Schritte zur Lösung: Bestätigen Sie den sofortigen Versand der korrekten Ware (Modell 'Profi-S3' in den bestellten Größen).",
+            "Nennen Sie einen möglichst konkreten neuen Liefertermin (z.B. 'innerhalb der nächsten 1-2 Werktage').",
+            "Beschreiben Sie klar den Prozess für die Rücksendung der falschen/beschädigten Ware (z.B. 'Unser Logistikpartner wird die falsche Lieferung bei Zustellung der korrekten Ware direkt wieder mitnehmen' oder 'Sie erhalten separate Rücksendeetiketten').",
+            "Versichern Sie ihm, dass Maßnahmen ergriffen werden, um solche Fehler zukünftig zu vermeiden.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

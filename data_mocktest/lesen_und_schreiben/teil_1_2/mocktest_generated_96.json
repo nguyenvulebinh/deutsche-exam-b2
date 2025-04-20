@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Jonas Baumgartner\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde IT-Support / HR-Tool 3000\n\nHallo,\n\ndie unten stehende Mail einer wichtigen Kundin habe ich gerade erhalten. Bitte kümmern Sie sich dringend darum und antworten Sie Frau Keller höflich und umfassend.\n\nErklären Sie ihr ruhig die Ursachen für die anhaltenden Probleme mit der Software – wir hatten ja die unerwarteten Kompatibilitätsprobleme nach dem letzten Systemupdate bei ihr.\nGanz wichtig: Schildern Sie ihr konkret, wie wir jetzt vorgehen, um eine dauerhafte Lösung sicherzustellen (z.B. Zuweisung eines festen Ansprechpartners, geplanter Patch bis Datum X). \nBieten Sie ihr außerdem als Entgegenkommen eine Gutschrift von 10% auf die nächste Monatsrechnung an, damit sie sieht, dass wir ihre Verärgerung ernst nehmen.\n\nWir dürfen diese Kundin auf keinen Fall verlieren.\n\nDanke und viele Grüße\n\nJonas Baumgartner\nTeamleiter IT-Support\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Sabine Keller\n**An:** Jonas Baumgartner\n\n**Betreff:** Beschwerde IT-Support / HR-Tool 3000\n\nSehr geehrter Herr Baumgartner,\n\nhiermit möchte ich mich über die Leistung Ihres IT-Supports im Zusammenhang mit der von Ihnen implementierten Software „HR-Tool 3000“ beschweren.\nSeit der Einführung vor zwei Monaten kommt es wiederholt zu Abstürzen und fehlerhaften Datenexporten, was unsere Personalverwaltung erheblich beeinträchtigt. Wir haben bereits mehrere Support-Tickets (u.a. #7891, #8012) erstellt. Die bisherigen Lösungsversuche Ihrer Techniker waren leider nicht erfolgreich oder nur von kurzer Dauer.\nZudem war Ihre Support-Hotline in den letzten Wochen oft schwer erreichbar, und Rückrufe erfolgten mit großer Verzögerung.\n\nDieser Zustand ist für uns nicht länger tragbar, da er zu erheblichem Mehraufwand und Frustration führt. Wir erwarten von Ihnen bis Ende dieser Woche (Freitag, [Datum]) eine verbindliche Aussage, wann mit einer dauerhaften Behebung der Softwarefehler zu rechnen ist. Angesichts der erheblichen Störungen erwarten wir zudem einen Vorschlag für eine angemessene Kompensation.\n\nMit freundlichen Grüßen\n\nSabine Keller\nPersonalabteilung\nFirma Beispiel GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller beschwert sich hauptsächlich darüber, dass",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die neue Software generell zu kompliziert zu bedienen ist."
+                },
+                {
+                    "key": "b",
+                    "text": "die gemeldeten Softwareprobleme nicht dauerhaft gelöst werden."
+                },
+                {
+                    "key": "c",
+                    "text": "die IT-Support-Hotline telefonisch nie erreichbar ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin fordert vom IT-Dienstleister",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine verbindliche Aussage zur Problemlösung und eine finanzielle Entschädigung."
+                },
+                {
+                    "key": "b",
+                    "text": "die sofortige Installation einer alternativen Software."
+                },
+                {
+                    "key": "c",
+                    "text": "eine Schulung für ihre Mitarbeiter zur besseren Nutzung der Software."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail bezüglich der Software 'HR-Tool 3000'.",
+            "Drücken Sie Ihr Bedauern über die anhaltenden Probleme und die schlechte Erreichbarkeit des Supports höflich aus und entschuldigen Sie sich.",
+            "Erklären Sie (ruhig) die Ursache der Probleme (gemäß Anweisung: unerwartete Kompatibilitätsprobleme nach Systemupdate).",
+            "Beschreiben Sie den konkreten Lösungsplan und Zeitrahmen (gemäß Anweisung: z.B. Zuweisung fester Ansprechpartner, geplanter Patch bis Datum X). Gehen Sie auf ihre Fristforderung ein.",
+            "Bieten Sie die von der Teamleitung vorgegebene Kompensation konkret an (Gutschrift von 10% auf die nächste Monatsrechnung).",
+            "Versichern Sie ihr, dass Maßnahmen zur Verbesserung der Support-Erreichbarkeit ergriffen werden (implizit wichtig).",
+            "Betonen Sie, wie wichtig sie als Kundin ist und dass an einer schnellen, dauerhaften Lösung gearbeitet wird.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

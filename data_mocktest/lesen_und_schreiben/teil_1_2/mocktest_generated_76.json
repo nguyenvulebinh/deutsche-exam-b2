@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Peter Brandt\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Müller\n\n**Betreff:** FW: Wiederholte Probleme mit Drucker / Servicevertrag Logistik Solutions GmbH\n\nHallo Herr Müller,\n\nunten stehende E-Mail von Frau Klein (Logistik Solutions GmbH) habe ich gerade erhalten. Bitte nehmen Sie das sehr ernst, die Firma ist ein langjähriger Kunde.\n\nKümmern Sie sich bitte umgehend darum und antworten Sie Frau Klein höflich. Erklären Sie kurz die möglichen technischen Hintergründe der wiederkehrenden Störung – vielleicht die Komplexität des Fehlers. Ganz wichtig: Schlagen Sie ihr einen kurzfristigen **Prioritäts-Termin** vor, den **Sie persönlich** wahrnehmen, um das Problem gründlich zu analysieren und hoffentlich endgültig zu beheben. Versichern Sie ihr auch, dass wir an der Verbesserung unserer Terminplanung arbeiten.\n\nAls Geste des Entgegenkommens können Sie ihr ruhig eine kleine Gutschrift für die nächste Servicerechnung anbieten.\nWir wollen diesen Kunden auf keinen Fall verlieren.\n\nDanke und viele Grüße\n\nPeter Brandt\nTeamleiter Service\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Eva Klein\n**An:** Peter Brandt\n\n**Betreff:** Wiederholte Probleme mit Drucker / Servicevertrag Logistik Solutions GmbH\n\nSehr geehrter Herr Brandt,\n\nich schreibe Ihnen bezüglich unseres Servicevertrags für den Multifunktionsdrucker Modell C-500 in unserer Hauptabteilung. Grundsätzlich waren wir mit Ihrem Service in der Vergangenheit zufrieden, doch in den letzten zwei Monaten hat die Qualität leider stark nachgelassen.\n\nZum einen werden vereinbarte Technikertermine häufig kurzfristig verschoben oder der Techniker erscheint mit erheblicher Verspätung. Das macht eine Planung unsererseits sehr schwierig.\nZum anderen – und das ist noch ärgerlicher – scheinen die Reparaturen oft nur kurzfristige Lösungen zu sein. Der Drucker zeigt bereits wenige Tage nach einem Servicebesuch wieder denselben Fehlercode (E019 – Papierstau intern) oder liefert eine mangelhafte Druckqualität. Das Gerät ist für uns so kaum zuverlässig nutzbar.\n\nDiese ständigen Ausfälle und die unzuverlässige Terminplanung stören unsere Arbeitsabläufe empfindlich. Wichtige Dokumente können nicht rechtzeitig gedruckt werden und meine Mitarbeiter verschwenden wertvolle Zeit mit dem Versuch, das Gerät zum Laufen zu bringen oder auf den Service zu warten.\n\nWir erwarten eine deutliche Verbesserung Ihrer Serviceleistung, insbesondere eine zuverlässigere Terminabsprache und eine **dauerhafte** Behebung des technischen Problems. Bitte teilen Sie mir bis Ende dieser Woche mit, welche konkreten Schritte Sie unternehmen werden. Andernfalls sehen wir uns gezwungen, unseren Servicevertrag zu überprüfen.\n\nMit freundlichen Grüßen\n\nEva Klein\nBüroleitung\nLogistik Solutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Klein beschwert sich hauptsächlich darüber, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Kosten für den Servicevertrag zu hoch sind."
+                },
+                {
+                    "key": "b",
+                    "text": "der gemietete Drucker wiederholt die gleichen Fehler aufweist und der Service unzuverlässig ist."
+                },
+                {
+                    "key": "c",
+                    "text": "der Techniker unfreundlich war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Wegen der Probleme mit dem Drucker...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "werden die Arbeitsabläufe bei Logistik Solutions GmbH gestört."
+                },
+                {
+                    "key": "b",
+                    "text": "möchte Frau Klein den Servicevertrag sofort kündigen."
+                },
+                {
+                    "key": "c",
+                    "text": "muss die Firma wichtige Dokumente per Hand schreiben."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Klein.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Klein,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail bezüglich des Druckers C-500 und des Services.",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die wiederholten technischen Probleme UND die Unannehmlichkeiten bei der Terminplanung.",
+            "Zeigen Sie Verständnis für ihre Verärgerung und die Störung der Arbeitsabläufe.",
+            "Erklären Sie kurz und sachlich eine mögliche Ursache für die wiederkehrenden Probleme (gemäß Anweisung Teamleiter, z.B. Komplexität des Fehlers).",
+            "Schlagen Sie einen konkreten, kurzfristigen **Prioritäts-Termin** vor, den **Sie persönlich** (als Senior-Techniker) wahrnehmen werden.",
+            "Bitten Sie um Abstimmung des Termins oder schlagen Sie konkrete Zeitfenster vor.",
+            "Versichern Sie ihr, dass Maßnahmen zur Verbesserung der Terminzuverlässigkeit ergriffen werden.",
+            "Bieten Sie die von der Teamleitung genehmigte **kleine Gutschrift** für die nächste Servicerechnung als Entgegenkommen an.",
+            "Betonen Sie das Ziel einer dauerhaften Lösung und die Wichtigkeit ihrer Zufriedenheit als Kundin.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, lösungsorientierte und professionelle Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

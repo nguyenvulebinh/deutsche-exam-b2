@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+      "typ": "E-Mail von Teamleiter",
+      "text": "```markdown\n**Erhalten:** gestern 17:57 Uhr\n**Von:** Bernd Hauser\n**An:** ...\n\n**Betreff:** FW Unsere Schulungen in Ihrem Tagungshaus\n\nHallo,\n\ndie unten stehende Mail habe ich gerade bekommen. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich. Die Firma ist seit vielen Jahren unser Kunde und das soll auch so bleiben.\nSie können der Kundin ruhig schreiben, warum es bei uns diese Probleme gab. Ganz wichtig: Bitte schreiben Sie der Kundin auch, wie wir so etwas in Zukunft vermeiden wollen.\n\nDanke und beste Grüße\n\nBernd Hauser\nTeamleiter\n```"
+    },
+    "beschwerde_kundin": {
+      "typ": "E-Mail von Kundin",
+      "text": "```markdown\n**Gesendet:** gestern 17:44 Uhr\n**Von:** Anke Steffens\n**An:** Bernd Hauser\n\n**Betreff:** Unsere Schulungen in Ihrem Tagungshaus\n\nSehr geehrter Herr Hauser,\n\nwie Sie wissen, führen wir unsere Mitarbeiterschulungen und Fortbildungen in Ihrem Tagungshaus durch. Bislang waren wir mit dem Service vor Ort (Ausstattung der Räume, Sauberkeit, Verpflegung etc.) immer sehr zufrieden.\nLeider haben einige Mitarbeitende berichtet, dass es in letzter Zeit nicht reibungslos lief.\nEine Fortbildung vor zwei Wochen wurde kurzfristig und ohne Rückfrage in einen anderen Raum verlegt, dort hatte die Trainerin dann keinen Beamer, obwohl das so abgesprochen war, und für das Whiteboard fehlten die Stifte. Zum Glück hatte die Trainerin Stifte dabei, aber der Beamer musste erst gebracht und angeschlossen werden, sodass Zeit verlorenging.\nFür eine Mitarbeiterschulung am letzten Samstag hatten wir eine Suppe und Salate als Mittagsimbiss bestellt, aber nur einige Kekse bekommen. Das war natürlich alles nicht gut!\n\nBitte sorgen Sie wieder für die gewohnte Qualität, sonst werden wir uns nach anderen Schulungsräumen umsehen müssen.\n\nMit freundlichen Grüßen\nAnke Steffens\n```"
+    },
+    "aufgaben_list": [
+      {
+        "frage": "Frau Steffens",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "beschwert sich über die Raumgröße."
+          },
+          {
+            "key": "b",
+            "text": "ist mit der Trainerin unzufrieden."
+          },
+          {
+            "key": "c",
+            "text": "nennt organisatorische Mängel."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Das Problem",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "beschränkt sich auf Wochenenden."
+          },
+          {
+            "key": "b",
+            "text": "gibt es an unterschiedlichen Wochentagen."
+          },
+          {
+            "key": "c",
+            "text": "trat erstmals letzte Woche auf."
+          }
+        ],
+        "loesung": "b"
+      }
+    ],
+    "schreibaufgabe": {
+      "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+      "check_list": [
+        "Schreiben Sie eine formelle E-Mail an Frau Steffens.",
+        "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Steffens,').",
+        "Beziehen Sie sich auf ihre E-Mail bezüglich der Probleme bei den Schulungen.",
+        "Drücken Sie Ihr Bedauern über die Vorkommnisse (Raumwechsel, fehlender Beamer/Stifte, falsches Essen) und die entstandenen Unannehmlichkeiten höflich aus.",
+        "Erklären Sie (ruhig) die Gründe für die Probleme (gemäß Anweisung des Teamleiters). Beispiel: Interne Kommunikationsfehler, kurzfristige organisatorische Änderungen, Fehler beim Catering-Service.",
+        "Erklären Sie konkret, wie solche Probleme in Zukunft vermieden werden sollen (gemäß Anweisung des Teamleiters: 'wie wir so etwas in Zukunft vermeiden wollen'). Beispiel: Einführung von Checklisten für die Raumvorbereitung, verbesserte Abstimmungsprozesse intern und mit dem Catering, doppelte Prüfung der Bestellungen.",
+        "Versichern Sie der Kundin, dass Maßnahmen ergriffen werden, um die gewohnte Servicequalität wieder sicherzustellen.",
+        "Betonen Sie, dass ihre Zufriedenheit als langjährige Kundin wichtig ist.",
+        "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache.",
+        "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+      ]
+    }
+}
+  

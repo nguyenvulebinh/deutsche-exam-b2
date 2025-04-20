@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Meier\n**Erhalten:** heute, 09:15 Uhr\n**An:** Anna Schulz\n\n**Betreff:** FW: Reklamation Lieferung Büromaterial von gestern (Best. 76543)\n\nHallo Frau Schulz,\n\nanbei die Reklamation von Frau Keller (Bürobedarf Schmitt GmbH), die uns gerade erreicht hat. \n\nBitte kümmern Sie sich umgehend darum und antworten Sie Frau Keller höflich. Erklären Sie kurz, wie es zu dem Fehler kommen konnte (z.B. ein Fehler bei der Kommissionierung im Lager).\n\nGanz wichtig: Organisieren Sie sofort die Nachlieferung der fehlenden Artikel und den Austausch der falschen Ware. Informieren Sie Frau Keller über die konkreten Schritte und wann die korrigierte Lieferung erfolgt.\nVersichern Sie ihr auch, dass wir unsere Prozesse prüfen, um solche Fehler künftig zu vermeiden. Schmitt GmbH ist ein wichtiger Kunde, den wir nicht verärgern wollen.\n\nDanke und viele Grüße\n\nStefan Meier\nTeamleiter Logistik\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Sabine Keller\n**An:** Markus Roth\n**Cc:** bestellung@papierundmehr.de\n\n**Betreff:** Reklamation Lieferung Büromaterial von gestern (Ihre Lieferschein-Nr. LS-98765 / Unsere Bestellung Nr. 76543)\n\nSehr geehrter Herr Roth,\n\nhiermit müssen wir leider die gestrige Lieferung von Büromaterialien (Bestellnummer 76543) reklamieren.\n\nWir hatten unter anderem folgende Artikel bestellt:\n*   10 Packungen Kopierpapier A4, 80g/m²\n*   20 Stück Kugelschreiber, blau\n*   5 Stück Whiteboard-Marker, schwarz\n\nErhalten haben wir jedoch nur 8 Packungen Kopierpapier. Statt der blauen Kugelschreiber wurden schwarze geliefert. Die Whiteboard-Marker fehlten gänzlich.\n\nDiese Fehler sind sehr ärgerlich, da wir die Materialien dringend für unsere tägliche Arbeit und eine anstehende Teamsitzung benötigen.\n\nWir bitten Sie um eine umgehende Korrektur der Lieferung. Bitte liefern Sie die fehlenden 2 Packungen Papier sowie die 5 Whiteboard-Marker schnellstmöglich nach und veranlassen Sie den Austausch der falsch gelieferten Kugelschreiber.\n\nWir erwarten Ihre Rückmeldung und eine Information zum weiteren Vorgehen bis spätestens morgen Mittag.\n\nMit freundlichen Grüßen\n\nSabine Keller\nBüromanagement\nBürobedarf Schmitt GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller reklamiert die Lieferung, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "einige bestellte Artikel komplett fehlen."
+                },
+                {
+                    "key": "b",
+                    "text": "sie sowohl fehlende als auch falsche Artikel erhalten hat."
+                },
+                {
+                    "key": "c",
+                    "text": "die Lieferung nicht rechtzeitig erfolgte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Was erwartet Frau Keller von Papier & Mehr GmbH?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Eine schnelle Korrektur der Lieferung."
+                },
+                {
+                    "key": "b",
+                    "text": "Eine Erklärung, warum die Lieferung falsch war."
+                },
+                {
+                    "key": "c",
+                    "text": "Einen Preisnachlass für die fehlerhafte Lieferung."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom [Datum] bezüglich der Bestellung 76543.",
+            "Drücken Sie Ihr Bedauern über die fehlerhafte Lieferung und die entstandenen Unannehmlichkeiten höflich aus und entschuldigen Sie sich.",
+            "Erklären Sie kurz und nachvollziehbar den Grund für den Fehler (gemäß Teamleiter-Anweisung, z.B. 'Fehler bei der Zusammenstellung im Lager').",
+            "Informieren Sie konkret über die sofort eingeleiteten Korrekturmaßnahmen (gemäß Teamleiter-Anweisung):",
+            "  - Bestätigen Sie die Nachlieferung der fehlenden 2 Packungen Papier und 5 Whiteboard-Marker.",
+            "  - Erläutern Sie den Austausch der schwarzen gegen blaue Kugelschreiber (z.B. 'werden mit der Nachlieferung gebracht und die falschen Stifte zurückgenommen').",
+            "Nennen Sie einen konkreten Liefertermin für die Korrektur (z.B. 'Die korrigierte Lieferung trifft morgen Vormittag bei Ihnen ein'), der die Frist der Kundin berücksichtigt.",
+            "Versichern Sie, dass Maßnahmen zur Verbesserung der internen Prozesse / Kontrollen ergriffen werden, um solche Fehler zukünftig zu vermeiden (gemäß Teamleiter-Anweisung).",
+            "Wahren Sie durchgehend einen professionellen, höflichen und serviceorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Klein\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Dringende Beschwerde bzgl. IT-Support Servicevertrag #INV-782\n\nHallo,\n\ndiese Mail von Frau Wagner (Innovatec GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nInnovatec ist ein wichtiger Kunde und ich möchte ihn auf keinen Fall verlieren. Nennen Sie ruhig die Gründe für unsere Engpässe in den letzten Wochen, aber formulieren Sie es professionell.\n\nGanz wichtig: Schreiben Sie ihr auch konkret, wie wir die angesprochenen Probleme (besonders Drucker und Kommunikation) lösen und die Servicequalität gemäß SLA zukünftig wieder sicherstellen wollen.\n\nDanke und Gruß\n\nMarkus Klein\nTeamleiter IT-Support\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 16:30 Uhr\n**Von:** Sarah Wagner\n**An:** Markus Klein\n\n**Betreff:** Dringende Beschwerde bzgl. IT-Support Servicevertrag #INV-782\n\nSehr geehrter Herr Klein,\n\nich schreibe Ihnen heute mit großer Besorgnis bezüglich der Qualität der IT-Supportleistungen, die Ihr Unternehmen für Innovatec GmbH im Rahmen unseres Servicevertrags #INV-782 erbringt.\n\nIn den letzten Wochen mussten wir leider eine signifikante Verschlechterung feststellen. Die Reaktionszeiten auf eingereichte Support-Tickets überschreiten regelmäßig die in unserem SLA vereinbarten Fristen. Dies führt zu erheblichen Wartezeiten und Produktivitätsverlusten bei unseren Mitarbeitenden.\n\nZudem gibt es wiederkehrende Probleme, die trotz mehrfacher Meldung und angeblicher Behebung nicht nachhaltig gelöst werden. Insbesondere die Netzwerkdrucker in unserer Marketingabteilung fallen immer wieder aus, was den Arbeitsablauf stark beeinträchtigt.\n\nDarüber hinaus mangelt es an proaktiver Kommunikation Ihrerseits. Geplante Wartungsarbeiten oder bekannte Störungen werden oft gar nicht oder erst sehr kurzfristig angekündigt, was zu unnötigen Irritationen und Störungen führt.\n\nWir erwarten eine umgehende Verbesserung der Situation und die Einhaltung der vertraglich zugesicherten Leistungen. Bitte teilen Sie uns bis Ende dieser Woche mit, welche konkreten Maßnahmen Sie ergreifen werden, um die genannten Probleme zu beheben und die Servicequalität dauerhaft zu gewährleisten.\n\nMit freundlichen Grüßen\n\nSarah Wagner\nAbteilungsleiterin Operations\nInnovatec GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Wagner beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die wiederkehrenden Druckerprobleme."
+                },
+                {
+                    "key": "b",
+                    "text": "die nachlassende Qualität des IT-Supports."
+                },
+                {
+                    "key": "c",
+                    "text": "die fehlende Erreichbarkeit des Supports außerhalb der Geschäftszeiten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein konkretes Problem bei Innovatec GmbH ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die IT-Kosten unerwartet gestiegen sind."
+                },
+                {
+                    "key": "b",
+                    "text": "die Mitarbeiter den IT-Support nicht selbst kontaktieren dürfen."
+                },
+                {
+                    "key": "c",
+                    "text": "Informationen über Systemwartungen nicht rechtzeitig gegeben werden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Wagner.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Wagner,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail vom [Datum/gestern] bezüglich des IT-Supports (Vertrag #INV-782).",
+            "Drücken Sie Ihr Bedauern über die Unzufriedenheit und die entstandenen Unannehmlichkeiten höflich aus und entschuldigen Sie sich.",
+            "Erklären Sie professionell die Gründe für die Service-Engpässe in letzter Zeit (gemäß Anweisung der Teamleitung, z.B. hohe Auslastung, Personalengpass).",
+            "Gehen Sie konkret auf das Problem mit den Druckern in der Marketingabteilung ein und erläutern Sie, wie es nachhaltig gelöst wird (z.B. gründliche Analyse, geplanter Technikereinsatz).",
+            "Beschreiben Sie Maßnahmen zur Verbesserung der Reaktionszeiten, um das SLA wieder einzuhalten (z.B. Priorisierung von Tickets, Optimierung interner Prozesse).",
+            "Erläutern Sie, wie die proaktive Kommunikation über Wartungen und Störungen verbessert wird (z.B. Einführung eines Newsletter-Systems, frühere Ankündigungen).",
+            "Versichern Sie Frau Wagner, dass die Servicequalität höchste Priorität hat und die Maßnahmen umgesetzt werden.",
+            "Betonen Sie die Wichtigkeit der Zusammenarbeit mit Innovatec GmbH.",
+            "Verwenden Sie durchgehend eine formelle, höfliche und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

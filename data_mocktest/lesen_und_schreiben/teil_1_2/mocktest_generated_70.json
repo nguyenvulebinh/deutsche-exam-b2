@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Klaus Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Bürostühle - Bestellung 78912\n\nGuten Morgen,\n\nanbei die Reklamation von Frau Berger (Büroservice GmbH), die uns gestern Nachmittag erreicht hat. Bitte kümmern Sie sich darum und antworten Sie Frau Berger höflich.\n\nBüroservice GmbH ist ein wichtiger Neukunde, den wir nicht verärgern dürfen. Nennen Sie ruhig den Grund für die Probleme (z.B. möglicher Produktionsfehler bei dieser Charge). Schlagen Sie ihr die Reparatur der Stühle vor Ort durch unseren Techniker vor. Klären Sie intern schnellstmöglich einen Termin für die Reparatur.\n\nDanke und viele Grüße\n\nKlaus Richter\nTeamleiter Vertrieb\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Hanna Berger\n**An:** Klaus Richter\n\n**Betreff:** Reklamation Bürostühle - Bestellung 78912\n\nSehr geehrter Herr Richter,\n\nhiermit möchten wir die Bürostühle des Modells 'ErgoFlex Pro' aus unserer Bestellung 78912 reklamieren, die vor zwei Wochen geliefert wurden. Wir haben uns aufgrund Ihrer Zusage für ergonomische Qualität und Langlebigkeit für dieses Modell entschieden.\n\nLeider müssen wir nun feststellen, dass bereits fünf der zehn gelieferten Stühle Mängel aufweisen. Bei drei Stühlen funktioniert die Höhenverstellung nicht mehr zuverlässig; sie sacken nach kurzer Zeit unter dem Gewicht des Nutzers ab. Bei zwei weiteren Stühlen löst sich bereits die Naht der Rückenlehne an der Seite.\n\nDies führt zu erheblichen Unannehmlichkeiten und potenziellen ergonomischen Problemen für unsere Mitarbeiter. Einige können die Stühle derzeit nicht nutzen. Das entspricht nicht der Qualität, die wir erwartet haben.\n\nWir bitten Sie daher um eine umgehende Lösung. Bitte teilen Sie uns bis Ende dieser Woche (Freitag) mit, ob Sie die defekten Stühle reparieren oder austauschen werden und wie das weitere Vorgehen ist.\n\nMit freundlichen Grüßen\n\nHanna Berger\nBüroservice GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Berger beschwert sich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine verspätete Lieferung der Bürostühle."
+                },
+                {
+                    "key": "b",
+                    "text": "Qualitätsprobleme bei mehreren gelieferten Bürostühlen."
+                },
+                {
+                    "key": "c",
+                    "text": "den schlechten Kundenservice bei der Bestellung."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die defekten Stühle repariert oder ausgetauscht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "sie eine vollständige Rückerstattung erhält."
+                },
+                {
+                    "key": "c",
+                    "text": "die restlichen Stühle ebenfalls überprüft werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Hanna Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Berger,').",
+            "Fügen Sie eine passende Betreffzeile hinzu (z.B. 'Ihre Reklamation Bürostühle - Bestellung 78912').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom [Datum/gestern].",
+            "Drücken Sie Ihr Bedauern über die Mängel und die entstandenen Unannehmlichkeiten höflich aus und entschuldigen Sie sich.",
+            "Nennen Sie (ruhig/sachlich) den möglichen Grund für die Probleme (gemäß Anweisung: z.B. möglicher Produktionsfehler bei dieser Charge).",
+            "Schlagen Sie die von der Teamleitung vorgegebene Lösung vor: Reparatur der defekten Stühle vor Ort durch einen Techniker.",
+            "Erklären Sie das weitere Vorgehen bezüglich der Terminvereinbarung für die Reparatur (gemäß Anweisung: zeitnah klären und vorschlagen).",
+            "Reagieren Sie indirekt auf die gesetzte Frist (Ende der Woche), indem Sie eine zeitnahe Kontaktaufnahme zur Terminfindung zusichern.",
+            "Versichern Sie der Kundin, dass die Zufriedenheit wichtig ist und das Problem gelöst wird.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

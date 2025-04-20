@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Hanna Ziegler\n**Erhalten:** heute, 09:15 Uhr\n**An:** Markus Schmidt\n\n**Betreff:** FW: Beschwerde Einführung Software ProManage Suite\n\nHallo Herr Schmidt,\n\ndie unten stehende Mail von Herrn Richter (Müller & Sohn GmbH) habe ich gerade erhalten. Müller & Sohn ist ein wichtiger Neukunde, daher hat das hohe Priorität.\n\nBitte kümmern Sie sich umgehend darum und antworten Sie Herrn Richter höflich und professionell. Bestätigen Sie den Eingang und die gemeldeten Probleme. Nennen Sie kurz die technischen Schwierigkeiten, die aufgetreten sind, aber ohne Ausreden zu suchen.\nWichtig ist vor allem: Beschreiben Sie die konkreten nächsten Schritte zur Fehlerbehebung und nennen Sie einen realistischen Zeitrahmen, bis wann erste Verbesserungen zu erwarten sind. Bieten Sie ihm auch direkte Unterstützung durch unser Team an.\n\nWir müssen das schnell in den Griff bekommen, um das Vertrauen nicht zu verlieren.\n\nDanke und Gruß\n\nHanna Ziegler\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Klaus Richter\n**An:** Hanna Ziegler\n\n**Betreff:** Beschwerde Einführung Software ProManage Suite\n\nSehr geehrte Frau Ziegler,\n\nhiermit möchten wir uns über die vergangene Woche erfolgte Einführung der Software „ProManage Suite“ in unserem Haus beschweren.\n\nEntgegen den Zusicherungen in der Projektphase und den Ergebnissen der Teststellung läuft die Software seit dem Go-Live äußerst instabil und fehlerhaft. Konkret bedeutet dies:\n\n*   Die Datenübernahme aus unserem Altsystem scheint unvollständig oder fehlerhaft erfolgt zu sein. Wichtige Kundendaten fehlen oder sind falsch zugeordnet.\n*   Kernfunktionen, wie die Erstellung von Monatsberichten und die Projektzeitenerfassung, sind entweder nicht verfügbar oder führen regelmäßig zu Systemabstürzen.\n*   Mehrere Mitarbeiter berichten von extrem langen Ladezeiten.\n\nDies führt zu erheblichen Problemen in unserem Tagesgeschäft. Unsere Mitarbeiter können ihre Aufgaben nicht effizient erledigen, und wir sind besorgt über die Integrität unserer Daten. Der aktuelle Zustand ist für uns nicht akzeptabel.\n\nWir fordern Sie auf, die genannten Probleme umgehend zu analysieren und zu beheben. Wir benötigen bis Ende dieser Woche eine klare Aussage über die Ursachen und einen verbindlichen Zeitplan für die vollständige Fehlerbeseitigung.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nAbteilungsleiter\nMüller & Sohn GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die verspätete Lieferung der Software."
+                },
+                {
+                    "key": "b",
+                    "text": "die fehlerhafte Funktion der neu eingeführten Software."
+                },
+                {
+                    "key": "c",
+                    "text": "mangelnde Schulung der Mitarbeiter im Umgang mit der Software."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein konkretes Problem nach der Software-Einführung ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wichtige Daten nicht vollständig übernommen wurden."
+                },
+                {
+                    "key": "b",
+                    "text": "die Mitarbeiter die Zugangsdaten nicht erhalten haben."
+                },
+                {
+                    "key": "c",
+                    "text": "die alte Software nicht mehr verfügbar ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Richter.",
+            "Verwenden Sie die korrekte Anrede ('Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich auf seine Beschwerde bezüglich der Software 'ProManage Suite'.",
+            "Bestätigen Sie den Eingang seiner E-Mail und entschuldigen Sie sich höflich für die aufgetretenen Probleme und die Störung seines Geschäftsbetriebs.",
+            "Erklären Sie kurz und professionell die Ursache der technischen Schwierigkeiten (gemäß TL-Anweisung, z.B. unerwartete Kompatibilitätsprobleme bei der Datenmigration, Server-Probleme).",
+            "Beschreiben Sie konkret die nächsten Schritte, die zur Fehlerbehebung unternommen werden (z.B. Einsatz eines Spezialistenteams, Analyse der Datenimporte, Entwicklung eines dringenden Patches).",
+            "Nennen Sie einen realistischen Zeitrahmen für erste Verbesserungen oder die Lösung spezifischer Probleme (reagieren Sie auf seine Frist 'Ende dieser Woche').",
+            "Bieten Sie ihm direkte Unterstützung oder einen festen Ansprechpartner im Support-Team an.",
+            "Versichern Sie ihm, dass die Behebung der Probleme höchste Priorität hat.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden formellen Grußformel ('Mit freundlichen Grüßen')."
+        ]
+    }
+}

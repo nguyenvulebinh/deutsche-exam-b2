@@ -1,0 +1,63 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Fischer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation: Defekter Bürostuhl, Lieferung vom 15. Juli\n\nHallo,\n\ndie Mail unten habe ich gerade bekommen. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nBieten Sie ihm bitte direkt einen Austausch des Stuhls an. Klären Sie auch, wann wir den neuen Stuhl liefern und den defekten abholen können.\n\nWir wollen den Kunden nicht verärgern, gerade bei einer größeren Bestellung.\n\nViele Grüße\n\nSabine Fischer\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Markus Klein\n**An:** Herr Schulze\n\n**Betreff:** Reklamation: Defekter Bürostuhl, Lieferung vom 15. Juli\n\nSehr geehrter Herr Schulze,\n\nhiermit möchte ich einen Bürostuhl reklamieren, Modell 'ErgoFlex Pro', der Teil Ihrer Lieferung vom 15. Juli an unsere Abteilung war. Wir haben insgesamt fünf dieser Stühle für unser Team bestellt.\n\nLeider mussten wir feststellen, dass die Höhenverstellung eines der Stühle nicht korrekt funktioniert. Er sinkt immer wieder unerwartet ab, was nicht nur störend, sondern auch ergonomisch bedenklich ist. Der Defekt trat bereits kurz nach der Lieferung auf.\n\nDer Kollege, der den Stuhl nutzt, kann ihn so nicht verwenden und muss auf einem alten Ersatzstuhl sitzen. Wir bitten Sie um eine zeitnahe Reparatur oder einen Austausch des defekten Stuhls.\n\nBitte teilen Sie uns bis Ende dieser Woche mit, wie Sie weiter vorgehen möchten.\n\nMit freundlichen Grüßen\nMarkus Klein\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Klein reklamiert, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die gesamte Lieferung vom 15. Juli fehlerhaft war."
+                },
+                {
+                    "key": "b",
+                    "text": "...ein gelieferter Bürostuhl einen technischen Mangel hat."
+                },
+                {
+                    "key": "c",
+                    "text": "...sein Kollege wegen des Stuhls Rückenschmerzen bekommen hat."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet, dass die Firma...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...den Stuhl repariert oder austauscht."
+                },
+                {
+                    "key": "b",
+                    "text": "...sich bis Ende der Woche für den Fehler entschuldigt."
+                },
+                {
+                    "key": "c",
+                    "text": "...alle fünf bestellten Stühle überprüft."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klein.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Klein,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail vom [Datum des Vortages] bezüglich des Bürostuhls 'ErgoFlex Pro' (Lieferung 15. Juli).",
+            "Entschuldigen Sie sich höflich für den Defekt und die entstandenen Unannehmlichkeiten.",
+            "Bieten Sie (gemäß Anweisung der Teamleiterin) direkt einen kostenlosen Austausch des defekten Stuhls an.",
+            "Schlagen Sie konkrete nächste Schritte für die Lieferung des neuen Stuhls und die Abholung des alten vor (z.B. Kontaktaufnahme zur Terminvereinbarung, Zeitrahmen für Lieferung).",
+            "Reagieren Sie auf seine Bitte um Rückmeldung bis Ende der Woche, indem Sie die Lösung bereits anbieten.",
+            "Versichern Sie ihm eine schnelle und unkomplizierte Abwicklung.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

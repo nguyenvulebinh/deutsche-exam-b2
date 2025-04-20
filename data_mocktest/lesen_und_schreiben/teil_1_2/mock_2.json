@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+      "typ": "E-Mail von Teamleitung",
+      "text": "```markdown\n**Erhalten:** heute, 13:27 Uhr\n**Von:** Michael Kögel\n**An:** Darius Liutikas\n\n**Betreff:** FW: Renovierungsarbeiten\n\nHallo,\n\nich habe eben diese Mail von einer Kundin bekommen. Bitte erklären Sie ihr, wie es zu der Situation gekommen ist und wie wir den vereinbarten Termin trotzdem halten können. Antworten Sie bitte sehr höflich. Wir möchten den guten Ruf unserer Firma nicht gefährden.\n\nViele Grüße\nM. Kögel\n```"
+    },
+    "beschwerde_kundin": {
+      "typ": "E-Mail von Kundin",
+      "text": "```markdown\n**Erhalten:** heute, 12:43 Uhr\n**Von:** Zofia Mauch\n**An:** Michael Kögel\n\n**Betreff:** Renovierungsarbeiten\n\nSehr geehrter Herr Kögel,\n\nIhre Firma ist für qualitativ hochwertige und termingerechte Leistungen bekannt. Aus diesem Grund haben wir uns auch entschieden, Sie mit der Renovierung unserer Geschäftsräume zu beauftragen. Die Arbeiten sind anfangs gut angelaufen und zügig vorangekommen, aber seit einigen Wochen sehen wir kaum noch Fortschritte. Die Arbeiter kommen entweder gar nicht oder nur stundenweise. Auf unsere Nachfrage hin erklärten sie uns, dass sie auf einer anderen Baustelle gebraucht würden.\n\nUnser 30-jähriges Firmenjubiläum soll am 6. September in den renovierten Räumlichkeiten gefeiert werden. Sie hatten uns zugesichert, dass alle Arbeiten zehn Tage vor diesem Termin abgeschlossen wären. Inzwischen frage ich mich allerdings, ob Sie diese Vereinbarung einhalten können: Das Parkett wurde noch nicht verlegt, die Türen und Fenster sind noch nicht eingebaut und die Beleuchtung wurde nicht einmal geliefert.\n\nBitte teilen Sie mir umgehend mit, wie es mit der Renovierung nun weitergeht.\n\nFreundliche Grüße\nZofia Mauch\n```"
+    },
+    "aufgaben_list": [
+      {
+        "frage": "Frau Mauch schreibt, dass die Arbeiten",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "in der letzten Zeit öfter liegengeblieben sind."
+          },
+          {
+            "key": "b",
+            "text": "schnell, aber nicht sorgfältig ausgeführt werden."
+          },
+          {
+            "key": "c",
+            "text": "von Anfang an zu langsam durchgeführt wurden."
+          }
+        ],
+        "loesung": "a"
+      },
+      {
+        "frage": "Um die Renovierungsarbeiten zu beenden, hat die Firma noch",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "bis Ende August Zeit."
+          },
+          {
+            "key": "b",
+            "text": "bis zum 6. September Zeit."
+          },
+          {
+            "key": "c",
+            "text": "zehn Tage Zeit."
+          }
+        ],
+        "loesung": "c"
+      }
+    ],
+    "schreibaufgabe": {
+      "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+      "check_list": [
+        "Schreiben Sie eine formelle E-Mail an Frau Mauch.",
+        "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Mauch,').",
+        "Beziehen Sie sich auf ihre E-Mail bezüglich der Renovierungsarbeiten.",
+        "Drücken Sie Ihr Bedauern über die Verzögerungen und die entstandenen Unannehmlichkeiten höflich aus.",
+        "Erklären Sie nachvollziehbar den Grund für die Verzögerung (gemäß Anweisung der Teamleitung: 'erklären Sie ihr, wie es zu der Situation gekommen ist'). Bestätigen oder präzisieren Sie ggf. die bereits gegebene Information (Arbeiter auf anderer Baustelle benötigt) oder nennen Sie einen anderen plausiblen Grund (z.B. unerwartete Komplexität, Lieferengpässe bei Materialien wie Parkett/Türen/Fenster/Beleuchtung - passend zu den genannten Problemen).",
+        "Erklären Sie konkret, wie der vereinbarte Termin (Fertigstellung 10 Tage vor dem 6. September) dennoch eingehalten werden kann (gemäß Anweisung der Teamleitung: 'wie wir den vereinbarten Termin trotzdem halten können'). Nennen Sie spezifische Maßnahmen, z.B. Aufstockung des Personals auf der Baustelle, Einführung von Wochenend- oder Schichtarbeit, Priorisierung der Materiallieferungen.",
+        "Versichern Sie der Kundin, dass alles unternommen wird, um die Arbeiten rechtzeitig und in hoher Qualität abzuschließen.",
+        "Bitten Sie umgehend um Rückmeldung oder Bestätigung (optional, aber passend zur Aufforderung der Kundin).",
+        "Wahren Sie durchgehend einen höflichen, formellen und professionellen Ton, um den guten Ruf der Firma zu schützen.",
+        "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+      ]
+    }
+}
+  

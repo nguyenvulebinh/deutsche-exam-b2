@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** Markus Schmidt\n\n**Betreff:** FW: Reklamation Bürostuhl Modell 'ErgoFlex Pro' - Bestellnr. 789123\n\nHallo Markus,\n\nanbei die Reklamation von Herrn Baumann bezüglich des Bürostuhls.\nBitte kümmere dich darum und antworte dem Kunden höflich.\n\nOrganisiere bitte den Austausch des Stuhls. Kläre dazu mit der Logistik, wann wir einen neuen Stuhl liefern und den defekten abholen können, und informiere Herrn Baumann anschließend über den Ablauf.\n\nWir möchten natürlich, dass Herr Baumann zufrieden ist und uns keine schlechte Bewertung gibt.\n\nDanke und viele Grüße\n\nSabine Richter\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Klaus Baumann\n**An:** Hanna Weber\n**Betreff:** Reklamation Bürostuhl Modell 'ErgoFlex Pro' - Bestellnr. 789123\n\nSehr geehrte Frau Weber,\n\nhiermit möchte ich den am vorgestern gelieferten Bürostuhl 'ErgoFlex Pro' (Bestellnummer 789123) reklamieren.\n\nLeider musste ich nach dem Auspacken und der Montage feststellen, dass die Höhenverstellung des Stuhls defekt ist. Der Hebel lässt sich zwar betätigen, aber der Stuhl fährt nicht nach oben oder unten, er bleibt in der niedrigsten Position blockiert.\n\nDadurch ist der Stuhl für mich unbrauchbar, da ich ihn nicht auf meine ergonomisch korrekte Sitzhöhe einstellen kann. Ich benötige den Stuhl dringend für meine tägliche Arbeit im Homeoffice.\n\nIch bitte Sie um eine schnelle Lösung dieses Problems. Ich erwarte einen umgehenden Austausch des defekten Stuhls gegen ein einwandfreies Modell. Bitte teilen Sie mir bis Ende dieser Woche mit, wie und wann der Austausch erfolgen kann.\n\nMit freundlichen Grüßen\n\nKlaus Baumann\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Baumann schreibt, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Stuhl während des Transports beschädigt wurde."
+                },
+                {
+                    "key": "b",
+                    "text": "der Bürostuhl, den er erhalten hat, nicht funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "er das falsche Stuhlmodell erhalten hat."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Problem mit dem Bürostuhl ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sich die Sitzhöhe nicht verstellen lässt."
+                },
+                {
+                    "key": "b",
+                    "text": "die Rollen am Stuhl fehlen."
+                },
+                {
+                    "key": "c",
+                    "text": "die Montageanleitung unverständlich war."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Baumann.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Baumann,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail bezüglich des Bürostuhls 'ErgoFlex Pro' (ggf. mit Bestellnummer).",
+            "Entschuldigen Sie sich höflich für den Defekt und die entstandenen Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für seine Situation (benötigt Stuhl für Arbeit).",
+            "Bestätigen Sie, dass der Stuhl ausgetauscht wird (gemäß Anweisung der Teamleitung).",
+            "Erklären Sie die nächsten Schritte für den Austausch: Lieferung eines neuen Stuhls und Abholung des defekten.",
+            "Informieren Sie ihn darüber, dass die Logistikabteilung ihn zur Terminvereinbarung kontaktieren wird (gemäß Anweisung der Teamleitung).",
+            "Reagieren Sie auf seine Bitte um Information bis Ende der Woche (z.B. versichern, dass die Kontaktaufnahme zeitnah erfolgt).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Keller\n**Erhalten:** heute, 09:15 Uhr\n**An:** Jan Schröder\n\n**Betreff:** FW: Reklamation Kaffeevollautomat Modell 'AromaPlus 5000', Lieferschein Nr. 12345\n\nGuten Morgen Herr Schröder,\n\nunten stehende Mail von Frau Weber (Bürobedarf & Mehr GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie Frau Weber höflich.\n\nBestätigen Sie bitte den Eingang der Reklamation. Nennen Sie nicht unbedingt technische Details. Schlagen Sie ihr bitte eine schnelle Lösung vor – entweder die Reparatur durch einen Techniker vor Ort oder einen direkten Austausch des Geräts. Bieten Sie ihr als kleine Entschuldigung für die Unannehmlichkeiten zusätzlich ein kostenloses Paket unserer Premium-Kaffeebohnen an.\n\nBürobedarf & Mehr GmbH ist ein wichtiger Neukunde, den wir auf keinen Fall verlieren möchten.\n\nDanke und viele Grüße\n\nSabine Keller\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Anna Weber\n**An:** Markus Richter\n\n**Betreff:** Reklamation Kaffeevollautomat Modell 'AromaPlus 5000', Lieferschein Nr. 12345\n\nSehr geehrter Herr Richter,\n\nhiermit möchten wir den Kaffeevollautomaten Modell 'AromaPlus 5000' reklamieren, der uns vorgestern laut Lieferschein Nr. 12345 geliefert und installiert wurde.\n\nLeider mussten wir feststellen, dass das Gerät nicht ordnungsgemäß funktioniert. Seit der Inbetriebnahme macht die Maschine laute, schleifende Geräusche. Zudem schmeckt der zubereitete Kaffee sehr wässrig und ist kaum heiß. Darüber hinaus funktioniert der Milchaufschäumer überhaupt nicht.\n\nWir haben die Hinweise in der Bedienungsanleitung geprüft und verschiedene Einstellungen versucht, jedoch ohne Erfolg. Unsere Mitarbeiterinnen und Mitarbeiter sind verständlicherweise enttäuscht, da sie das neue Gerät nicht wie vorgesehen nutzen können.\n\nWir bitten Sie um eine umgehende Behebung des Problems. Wir erwarten entweder eine zeitnahe Reparatur oder einen Austausch des defekten Geräts. Bitte teilen Sie uns bis Ende dieser Woche mit, wie Sie weiter vorgehen werden.\n\nMit freundlichen Grüßen\n\nAnna Weber\nBürobedarf & Mehr GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber ist unzufrieden, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung des Geräts zu lange gedauert hat."
+                },
+                {
+                    "key": "b",
+                    "text": "der neue Kaffeevollautomat nicht richtig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Bedienung der Maschine zu kompliziert ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem mit dem Kaffeevollautomaten ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der zubereitete Kaffee keine gute Qualität hat."
+                },
+                {
+                    "key": "b",
+                    "text": "die Maschine die falschen Bohnen verwendet."
+                },
+                {
+                    "key": "c",
+                    "text": "die Mitarbeiter das Gerät nicht reinigen können."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Anna Weber.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom [Datum/gestern] bezüglich des Kaffeevollautomaten 'AromaPlus 5000'.",
+            "Bestätigen Sie den Eingang ihrer Beschwerde.",
+            "Entschuldigen Sie sich höflich und aufrichtig für die Mängel am Gerät und die entstandenen Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für ihre Enttäuschung.",
+            "Schlagen Sie eine konkrete, schnelle Lösung vor: Bieten Sie entweder die Reparatur durch einen Techniker oder den Austausch des Geräts an (gemäß Anweisung der Teamleitung).",
+            "Erklären Sie kurz die nächsten Schritte für die gewählte Lösung (z.B. Kontaktaufnahme zur Terminvereinbarung).",
+            "Bieten Sie als Entschädigung das kostenlose Paket Premium-Kaffeebohnen an (gemäß Anweisung der Teamleitung).",
+            "Gehen Sie auf die gewünschte Rückmeldung bis Ende der Woche ein, indem Sie eine zeitnahe Lösung zusichern.",
+            "Betonen Sie (implizit oder explizit), dass ihre Zufriedenheit als Neukundin wichtig ist.",
+            "Verwenden Sie durchgehend einen höflichen, formellen und serviceorientierten Ton (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

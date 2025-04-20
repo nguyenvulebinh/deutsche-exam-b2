@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Jonas Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Anhaltende Probleme mit Netzwerkzugriff und Drucker\n\nHallo,\n\ndie unten stehende Mail habe ich gerade erhalten. Bitte kümmere Dich darum und antworte der Kundin höflich.\nInnovate Solutions ist ein wichtiger Kunde, wir wollen sie nicht verlieren.\nNenne ruhig die Gründe für die aktuellen Schwierigkeiten. Ganz wichtig: Schreibe ihr auch, welche konkreten Maßnahmen wir zur Lösung ergreifen und gehe auf ihre Bitte ein, bis Ende der Woche eine Rückmeldung zum Plan zu geben.\n\nDanke und Gruß\n\nJonas Richter\nTeamleiter IT-Support\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Katrin Weber (Innovate Solutions GmbH)\n**An:** Jonas Richter\n\n**Betreff:** Anhaltende Probleme mit Netzwerkzugriff und Drucker\n\nSehr geehrter Herr Richter,\n\nhiermit möchte ich mich bezüglich der anhaltenden Probleme mit den von Ihnen bereitgestellten IT-Services beschweren. Wir sind seit über einem Jahr Kunde Ihres IT-Supports und waren anfangs durchaus zufrieden.\n\nAllerdings treten seit mehreren Wochen, und verstärkt in den letzten zwei Wochen, immer wieder Schwierigkeiten auf. Der Zugriff auf unser gemeinsames Netzlaufwerk ist häufig extrem langsam oder teilweise gar nicht möglich. Dies behindert unsere Arbeitsprozesse erheblich, da wichtige Dokumente nicht abgerufen werden können. Zudem gibt es an mehreren Arbeitsplätzen Probleme beim Drucken auf den Netzwerkdruckern.\n\nDarüber hinaus sind die Reaktionszeiten Ihres Supports auf unsere eingereichten Tickets in letzter Zeit inakzeptabel lang geworden. Oft warten wir mehrere Stunden oder sogar bis zum nächsten Tag auf eine erste Rückmeldung, geschweige denn eine Lösung.\n\nWir erwarten eine umgehende Untersuchung und vor allem eine nachhaltige Lösung dieser Probleme, nicht nur kurzfristige Behebungen. Bitte teilen Sie uns bis Ende dieser Woche mit, welche konkreten Schritte Sie unternehmen werden, um die Stabilität unserer IT-Infrastruktur und die gewohnte Servicequalität wiederherzustellen.\n\nMit freundlichen Grüßen\n\nKatrin Weber\nInnovate Solutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...einen einmaligen Ausfall des Netzwerkdruckers."
+                },
+                {
+                    "key": "b",
+                    "text": "...wiederkehrende technische Störungen und langsamen IT-Support."
+                },
+                {
+                    "key": "c",
+                    "text": "...die mangelnde Freundlichkeit der IT-Mitarbeiter."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die IT-Probleme bei Innovate Solutions...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...führen zu Beeinträchtigungen der täglichen Arbeit."
+                },
+                {
+                    "key": "b",
+                    "text": "...sind erst seit gestern aufgetreten."
+                },
+                {
+                    "key": "c",
+                    "text": "...konnten durch den Support schnell behoben werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Weber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich auf ihre E-Mail bezüglich der Netzwerk-, Drucker- und Support-Probleme.",
+            "Entschuldigen Sie sich höflich und aufrichtig für die anhaltenden Störungen und die langen Wartezeiten.",
+            "Erklären Sie (ruhig) den Grund für die aktuellen Schwierigkeiten (gemäß Anweisung: z.B. unerwartete Serverlast, notwendige Updates).",
+            "Beschreiben Sie die konkreten Maßnahmen, die zur Lösung ergriffen werden (gemäß Anweisung: z.B. Serveroptimierung, Treiberprüfung, Verbesserung der Ticketbearbeitung).",
+            "Gehen Sie auf die Forderung nach einem Plan bis Ende der Woche ein (bestätigen Sie dies oder geben Sie bereits erste Ergebnisse/Pläne bekannt).",
+            "Versichern Sie Frau Weber, dass an einer nachhaltigen Lösung gearbeitet wird.",
+            "Betonen Sie die Wichtigkeit ihrer Zufriedenheit als Kundin.",
+            "Verwenden Sie durchgehend eine professionelle, höfliche und formelle Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

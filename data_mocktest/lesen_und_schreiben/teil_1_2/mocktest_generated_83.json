@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Meier\n**Erhalten:** heute, 09:15 Uhr\n**An:** Hanna Vogel\n\n**Betreff:** FW: Reklamation Büromöbellieferung KreativAgentur GmbH (Bestellnr. 12345)\n\nHallo Hanna,\n\nanbei die Reklamation von Herrn Neumann von der KreativAgentur GmbH.\nBitte kümmern Sie sich darum und antworten Sie dem Kunden höflich. Erklären Sie kurz die Gründe für die Lieferverzögerung (Engpass beim Spediteur) und die fehlerhafte Lieferung (Fehler in der Kommissionierung).\nBestätigen Sie den sofortigen Austausch der beschädigten und falschen Artikel und nennen Sie einen konkreten Liefertermin für die Ersatzlieferung. Bieten Sie aufgrund der Unannehmlichkeiten einen Preisnachlass auf die aktuelle Rechnung an.\n\nDie KreativAgentur ist ein wichtiger Kunde, wir dürfen sie nicht verlieren. Eine schnelle und kulante Lösung ist hier wichtig.\n\nDanke und Gruß\n\nStefan Meier\nKundenbetreuung\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Peter Neumann\n**An:** Stefan Meier\n**Betreff:** Reklamation Büromöbellieferung (Bestellnr. 12345)\n\nSehr geehrter Herr Meier,\n\nich schreibe Ihnen bezüglich unserer Büromöbelbestellung Nr. 12345, die gestern bei uns eingetroffen ist.\n\nWir haben uns aufgrund Ihrer Reputation für Qualität und Zuverlässigkeit für Sie entschieden. Leider müssen wir uns nun über mehrere Punkte beschweren. Erstens erfolgte die Lieferung mit einer Woche Verspätung gegenüber dem vereinbarten Termin. Dies ist besonders ärgerlich, da wir die Möbel dringend für neue Mitarbeiter benötigen, die nächste Woche bei uns anfangen.\n\nZweitens mussten wir bei der Annahme feststellen, dass zwei der zehn gelieferten Schreibtische deutliche Kratzer auf der Tischplatte aufweisen. Drittens sind drei der zehn bestellten ergonomischen Bürostühle nicht das vereinbarte Modell bzw. haben eine falsche Farbe.\n\nDiese Situation stellt uns vor erhebliche organisatorische Probleme. Wir erwarten den umgehenden Austausch der beschädigten Schreibtische und der falsch gelieferten Stühle. Bitte teilen Sie uns bis Ende dieser Woche mit, wann wir mit der korrekten Ersatzlieferung rechnen können und wie Sie die entstandenen Unannehmlichkeiten ausgleichen wollen.\n\nMit freundlichen Grüßen\n\nPeter Neumann\nEinkaufsleiter\nKreativAgentur GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Neumann beschwert sich bei MöbelWerkstatt ProDesign, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die Qualität aller gelieferten Möbel schlecht ist."
+                },
+                {
+                    "key": "b",
+                    "text": "...die Lieferung zu spät kam und Fehler enthielt."
+                },
+                {
+                    "key": "c",
+                    "text": "...die bestellten Möbel nicht für neue Mitarbeiter geeignet sind."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Bezüglich der Probleme erwartet Herr Neumann, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die fehlerhaften Möbelstücke schnell ersetzt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "...die gesamte Bestellung storniert wird."
+                },
+                {
+                    "key": "c",
+                    "text": "...er nur für die korrekten Möbel bezahlen muss."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Peter Neumann.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Neumann,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail (Bestellnr. 12345).",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die Lieferverzögerung UND die fehlerhafte/beschädigte Ware.",
+            "Zeigen Sie Verständnis für die Dringlichkeit (neue Mitarbeiter).",
+            "Erklären Sie kurz den Grund für die Verzögerung (z.B. Engpass beim Spediteur, gemäß Teamleiter-Info).",
+            "Erklären Sie kurz den Grund für die Fehler bei der Ware (z.B. Fehler in der Kommissionierung, gemäß Teamleiter-Info).",
+            "Bestätigen Sie den sofortigen, kostenlosen Austausch der 2 beschädigten Schreibtische und 3 falschen Stühle.",
+            "Nennen Sie einen konkreten, zeitnahen Liefertermin für die Ersatzlieferung (gemäß Teamleiter-Info).",
+            "Bieten Sie einen konkreten Preisnachlass auf die Rechnung als Entschädigung an (gemäß Teamleiter-Info).",
+            "Versichern Sie ihm, dass Maßnahmen zur Verbesserung ergriffen werden.",
+            "Wahren Sie durchgehend einen höflichen, professionellen und kundenorientierten Ton (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

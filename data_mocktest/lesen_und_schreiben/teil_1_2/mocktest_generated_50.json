@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Scholz\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde Multifunktionsgerät Modell XZ-5000 - Vertragsnummer 12345\n\nHallo,\n\nunten stehende Mail von Frau Berger (Berger & Partner Steuerberatung) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nKlären Sie bitte zuerst intern mit der Technik, warum der letzte Einsatz letzte Woche Dienstag nicht erfolgreich war. Erklären Sie der Kundin dann kurz und professionell die Ursache (wenn möglich, ohne Ausreden).\n\nWichtig: Organisieren Sie einen dringenden neuen Technikereinsatz und stellen Sie sicher, dass diesmal eine dauerhafte Lösung gefunden wird (z.B. erfahrener Techniker, alle nötigen Teile dabei). Informieren Sie Frau Berger über das geplante Vorgehen und schlagen Sie einen Termin vor.\n\nBerger & Partner ist ein wichtiger Kunde, wir können uns keine weitere Unzufriedenheit leisten.\n\nViele Grüße\n\nStefan Scholz\nTeamleiter Service\nBürotechnik Schnell GmbH\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Martina Berger\n**An:** Klaus Richter\n**Cc:** service@buerotechnik-schnell.de\n\n**Betreff:** Beschwerde Multifunktionsgerät Modell XZ-5000 - Vertragsnummer 12345\n\nSehr geehrter Herr Richter,\n\nhiermit möchten wir uns über die anhaltenden Probleme mit unserem bei Ihnen geleasten Multifunktionsgerät (Modell XZ-5000, Vertrag Nr. 12345) beschweren.\n\nSeit etwa zwei Wochen kommt es bei dem Gerät regelmäßig zu häufigen Papierstaus und Streifen auf den Ausdrucken. Dies führt zu einer erheblichen Beeinträchtigung unserer Arbeitsabläufe in der Kanzlei, da wichtige Dokumente oft nicht zeitnah oder nur in schlechter Qualität gedruckt werden können.\n\nObwohl bereits letzte Woche Dienstag ein Techniker Ihres Hauses bei uns war, wurden die Probleme nicht dauerhaft behoben. Nach kurzer Zeit traten die gleichen Fehler wieder auf. Dies ist für uns nicht länger hinnehmbar.\n\nWir erwarten gemäß unserem Servicevertrag eine zuverlässige Funktion der Geräte und bitten Sie dringend um eine umgehende und vor allem dauerhafte Lösung des Problems. Bitte teilen Sie uns zeitnah mit, wann mit einer erfolgreichen Reparatur zu rechnen ist und schlagen Sie uns einen konkreten Terminvorschlag vor.\n\nMit freundlichen Grüßen\n\nMartina Berger\nOffice Management\nBerger & Partner Steuerberatung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Berger beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Vertragsbedingungen nicht eingehalten werden."
+                },
+                {
+                    "key": "b",
+                    "text": "das Multifunktionsgerät trotz Reparaturversuch immer noch nicht richtig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "der Techniker letzte Woche unfreundlich war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme mit dem Gerät führen dazu, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Arbeitsabläufe in der Kanzlei gestört sind."
+                },
+                {
+                    "key": "b",
+                    "text": "die Kanzlei neue Geräte kaufen muss."
+                },
+                {
+                    "key": "c",
+                    "text": "die Druckkosten für die Kanzlei gestiegen sind."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Martina Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Berger,').",
+            "Fügen Sie eine passende Betreffzeile hinzu (z.B. 'Ihre Beschwerde vom [Datum] bezüglich Multifunktionsgerät XZ-5000 / Vertrag 12345').",
+            "Beziehen Sie sich klar auf ihre Beschwerde-E-Mail und das betroffene Gerät.",
+            "Drücken Sie Ihr Bedauern über die anhaltenden Probleme und insbesondere über den erfolglosen ersten Reparaturversuch aus.",
+            "Entschuldigen Sie sich höflich für die entstandenen Unannehmlichkeiten.",
+            "Erklären Sie kurz und professionell eine plausible Ursache für die fortbestehenden Probleme (gemäß interner Klärung, z.B. 'komplexere Ursache', 'benötigtes Ersatzteil nun verfügbar').",
+            "Kündigen Sie einen neuen, dringenden Technikereinsatz an.",
+            "Versichern Sie, dass Maßnahmen für eine erfolgreiche Reparatur getroffen werden (z.B. 'erfahrener Spezialist', 'alle notwendigen Teile vorhanden').",
+            "Schlagen Sie einen konkreten Termin für den Technikereinsatz vor oder bitten Sie um Terminvorschläge.",
+            "Betonen Sie die Wichtigkeit der Kundin und das Ziel einer dauerhaften Lösung.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

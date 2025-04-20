@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Sandra Bauer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Multifunktionsdrucker - Richter Consulting\n\nGuten Morgen,\n\ndie unten stehende E-Mail von Herrn Richter habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich. \n\nErklären Sie ihm kurz den möglichen Grund für das Problem mit dem Scanner (vielleicht die Software-Inkompatibilität nach dem letzten Firmware-Update?). Ganz wichtig: Schlagen Sie ihm direkt einen Terminvorschlag für einen Technikerbesuch vor, am besten schon für nächste Woche.\n\nHerr Richter ist ein Neukunde und hat mehrere Geräte bei uns bestellt. Wir wollen ihn nicht gleich zu Beginn verärgern.\n\nDanke und viele Grüße\n\nSandra Bauer\nTeamleiterin Kundenservice\nBürobedarf Wagner GmbH\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Klaus Richter (Richter Consulting)\n**An:** Sandra Bauer (Bürobedarf Wagner GmbH)\n\n**Betreff:** Reklamation Multifunktionsdrucker\n\nSehr geehrte Frau Bauer,\n\nvor zwei Wochen wurde der bei Ihnen erworbene Multifunktionsdrucker (Modell XYZ-3000) in meinem Büro installiert. Leider muss ich mich heute über die Funktion des Geräts beschweren.\n\nSeit einigen Tagen arbeitet die Scannerfunktion nicht mehr korrekt. Gescannte Dokumente weisen deutliche Streifen auf oder es werden Teile des Dokuments am Rand abgeschnitten. Dies ist besonders ärgerlich, da ich täglich wichtige Unterlagen für meine Kunden digitalisieren und archivieren muss. Diese Fehlfunktion führt zu erheblichen Verzögerungen und Mehraufwand in meinen Arbeitsabläufen.\n\nIch habe bereits letzte Woche versucht, über Ihre Service-Hotline eine Lösung zu finden, leider bisher ohne Erfolg.\n\nDa der Scanner für meine tägliche Arbeit unerlässlich ist, bitte ich Sie dringend um die zeitnahe Entsendung eines Technikers zur Überprüfung und Reparatur des Geräts. Ich erwarte Ihren Vorschlag für das weitere Vorgehen innerhalb der nächsten zwei Werktage.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nRichter Consulting\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter ist unzufrieden, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung des Multifunktionsdruckers verspätet war."
+                },
+                {
+                    "key": "b",
+                    "text": "die Scanfunktion seines neuen Geräts fehlerhaft ist."
+                },
+                {
+                    "key": "c",
+                    "text": "er die Service-Hotline gar nicht erreichen konnte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Wegen des Problems mit dem Scanner...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "möchte er das Gerät zurückgeben."
+                },
+                {
+                    "key": "b",
+                    "text": "konnte er keine Rechnungen an seine Kunden senden."
+                },
+                {
+                    "key": "c",
+                    "text": "fordert Herr Richter einen baldigen Technikertermin."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail bezüglich des Multifunktionsdruckers (Modell XYZ-3000).",
+            "Drücken Sie Ihr Bedauern über die fehlerhafte Scannerfunktion und die entstandenen Unannehmlichkeiten (Verzögerungen, Mehraufwand) höflich aus.",
+            "Entschuldigen Sie sich für die Probleme.",
+            "Erklären Sie kurz und plausibel den möglichen Grund für das Scannerproblem (gemäß Anweisung der Teamleitung, z.B. 'ein mögliches Softwareproblem nach einem kürzlichen Firmware-Update').",
+            "Schlagen Sie eine konkrete Lösung vor: einen Technikerbesuch zur Reparatur.",
+            "Machen Sie konkrete Terminvorschläge für den Technikerbesuch (gemäß Anweisung der Teamleitung, z.B. 'nächsten Dienstagvormittag oder Donnerstagnachmittag').",
+            "Bitten Sie um Bestätigung eines Termins oder um alternative Vorschläge seinerseits.",
+            "Versichern Sie ihm, dass das Problem behoben wird und seine Zufriedenheit wichtig ist.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

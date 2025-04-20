@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Sabine Weber\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde Lieferung vom 18.07. - Bestellnummer 789-ABC - DRINGEND!\n\nGuten Morgen,\n\nanbei die Beschwerde von Herrn Schmidt (TechSolutions GmbH), die mich gerade erreicht hat.\n\nBitte kümmern Sie sich umgehend darum und antworten Sie Herrn Schmidt höflich. Klären Sie intern, wie es zu den Fehlern (falsche Modelle, Schäden) kommen konnte und erklären Sie dies Herrn Schmidt.\n\nOrganisieren Sie sofort die Nachlieferung der korrekten Laptops und den Austausch der Monitore. Stellen Sie sicher, dass die falschen Geräte abgeholt werden. Bieten Sie ihm für die entstandenen Unannehmlichkeiten z.B. kostenlosen Expressversand für die Ersatzlieferung an.\n\nTechSolutions GmbH ist ein wichtiger Kunde, den wir nicht verlieren dürfen. Die Situation ist sehr ärgerlich für ihn.\n\nDanke und viele Grüße\n\nSabine Weber\nSales Manager\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Peter Schmidt\n**An:** Sabine Weber\n\n**Betreff:** Beschwerde Lieferung vom 18.07. - Bestellnummer 789-ABC\n\nSehr geehrte Frau Weber,\n\nhiermit muss ich mich leider über die Lieferung unserer Bestellung Nr. 789-ABC beschweren, die gestern bei uns eingetroffen ist.\n\nWir hatten 15 Laptops des Modells X bestellt. Geliefert wurden jedoch nur 10 Stück dieses Modells, sowie 5 Stück des Modells Y, welches eine deutlich geringere Leistung aufweist. Darüber hinaus kamen zwei der bestellten 15 Monitore mit sichtbaren Transportschäden (Risse im Bildschirm) an. Die Verpackung schien hier unzureichend gewesen zu sein.\n\nDiese Situation stellt uns vor erhebliche Probleme, da wir die Geräte dringend für neue Mitarbeiter benötigen, die nächste Woche ihre Arbeit aufnehmen. Wir waren bisher mit Ihren Lieferungen zufrieden, doch dieser Vorfall ist inakzeptabel.\n\nWir erwarten die umgehende Nachlieferung der 5 fehlenden Laptops Modell X sowie den Austausch der beiden beschädigten Monitore. Bitte veranlassen Sie ebenfalls die Abholung der 5 fälschlicherweise gelieferten Laptops Modell Y. Wir bitten zudem um eine Erklärung, wie diese Fehler passieren konnten.\n\nBitte teilen Sie uns bis spätestens morgen, [Datum des nächsten Tages], mit, wie und wann Sie diese Angelegenheit korrigieren werden.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\nIT-Abteilung\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Schmidt beschwert sich bei IT-Grosshandel Müller, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die gesamte Lieferung zu spät ankam."
+                },
+                {
+                    "key": "b",
+                    "text": "ein Teil der Lieferung falsch war und Geräte beschädigt sind."
+                },
+                {
+                    "key": "c",
+                    "text": "die bestellten Laptops nicht die richtige Software hatten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem für TechSolutions GmbH ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "neue Mitarbeiter nicht rechtzeitig ausgestattet werden können."
+                },
+                {
+                    "key": "b",
+                    "text": "die gelieferten Monitore nicht mit den Laptops kompatibel sind."
+                },
+                {
+                    "key": "c",
+                    "text": "Herr Schmidt die beschädigten Geräte selbst zurücksenden muss."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Peter Schmidt.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Schmidt,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail vom [heutiges Datum] bezüglich der Lieferung 789-ABC.",
+            "Drücken Sie Ihr aufrichtiges Bedauern über die fehlerhafte Lieferung (falsche Laptop-Modelle) und die Transportschäden an den Monitoren aus.",
+            "Entschuldigen Sie sich höflich für die entstandenen Unannehmlichkeiten, insbesondere im Hinblick auf die Ausstattung der neuen Mitarbeiter.",
+            "Erklären Sie kurz und sachlich den Grund für die Fehler (gemäß Anweisung der Teamleitung, z.B. 'ein bedauerlicher Fehler bei der Kommissionierung im Lager', 'trotz sorgfältiger Verpackung kam es zu einem Transportschaden').",
+            "Bestätigen Sie die sofortige Veranlassung der Korrekturmaßnahmen (gemäß Anweisung): Nachlieferung von 5 Laptops Modell X, Lieferung von 2 Ersatzmonitoren, Organisation der Abholung der 5 Laptops Modell Y.",
+            "Bieten Sie als Entschädigung den kostenlosen Expressversand für die Ersatzlieferung an (gemäß Anweisung).",
+            "Geben Sie einen konkreten Zeitrahmen an, wann die Ersatzlieferung und die Abholung erfolgen werden (z.B. 'innerhalb der nächsten 2 Werktage').",
+            "Versichern Sie ihm, dass Maßnahmen zur Vermeidung solcher Vorfälle ergriffen werden.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

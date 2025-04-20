@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Anja Meyer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Drucker Modell XZ-5000 / Lieferung vom 10.07.\n\nHallo,\n\ndie Mail unten habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nMüller & Partner ist ein wichtiger Neukunde, wir wollen sie nicht gleich wieder verlieren.\n\nSchlagen Sie eine schnelle Lösung vor (z.B. Technikertermin zur Prüfung/Reparatur). Gehen Sie auf beide genannten Probleme ein (Druckqualität UND Scanfunktion!). Es sollte klar werden, dass wir das Problem ernst nehmen und kurzfristig handeln.\n\nVielen Dank und Grüße\n\nAnja Meyer\nTeamleiterin Service\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Sabine Keller\n**An:** Stefan Brandt\n\n**Betreff:** Reklamation Drucker Modell XZ-5000 / Lieferung vom 10.07.\n\nSehr geehrter Herr Brandt,\n\nhiermit möchten wir den am 10. Juli gelieferten und installierten Drucker Modell XZ-5000 reklamieren.\n\nLeider mussten wir direkt nach der Inbetriebnahme feststellen, dass das Gerät nicht einwandfrei funktioniert. Die Ausdrucke weisen deutliche Streifen auf und es kommt sehr häufig zu Papierstaus, obwohl wir das empfohlene Papier verwenden. Darüber hinaus war es uns bzw. Ihrem Techniker vor Ort nicht möglich, die beworbene Scan-to-Email Funktion einzurichten – sie funktioniert nicht. Dies behindert unsere täglichen Arbeitsabläufe erheblich.\n\nWir bitten Sie um eine umgehende Lösung dieses Problems. Wir erwarten entweder eine zeitnahe Reparatur oder einen Austausch des Gerätes. Insbesondere muss auch die Scanfunktion instand gesetzt werden. Bitte teilen Sie uns innerhalb der nächsten 5 Werktage mit, welche Schritte Sie einleiten werden.\n\nMit freundlichen Grüßen\n\nSabine Keller\nMüller & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung des Druckers zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "der neue Drucker nicht richtig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Installation des Druckers zu kompliziert war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Eines der genannten Probleme ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Drucker falsche Farben ausdruckt."
+                },
+                {
+                    "key": "b",
+                    "text": "das Gerät überhaupt nicht druckt."
+                },
+                {
+                    "key": "c",
+                    "text": "die Scan-Funktion nicht genutzt werden kann."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom [Datum des Vortags] bezüglich des Druckers XZ-5000.",
+            "Bestätigen Sie den Eingang und drücken Sie Ihr Bedauern über die Probleme und die entstandenen Unannehmlichkeiten aus.",
+            "Zeigen Sie Verständnis für die geschilderten Probleme (schlechte Druckqualität, Papierstaus UND nicht funktionierende Scan-to-Email Funktion).",
+            "Setzen Sie die Anweisung der Teamleitung um: Schlagen Sie eine konkrete und schnelle Lösung vor.",
+            "Bieten Sie an, kurzfristig einen Servicetechniker zu entsenden.",
+            "Präzisieren Sie den Auftrag des Technikers: Prüfung und Reparatur der Druckfunktion SOWIE Einrichtung/Instandsetzung der Scan-to-Email Funktion.",
+            "Gehen Sie auf die Dringlichkeit ein: Betonen Sie, dass Sie eine schnelle Lösung anstreben und sich bald zur Terminvereinbarung melden werden (reagiert auf ihre 5-Tage-Frist).",
+            "Verwenden Sie durchgehend eine höfliche, formelle, kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

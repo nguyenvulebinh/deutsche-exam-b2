@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+      "typ": "E-Mail von Teamleiterin",
+      "text": "```markdown\n**Erhalten:** heute 11:40 Uhr\n**Von:** Petra Speichert\n**An:** ...\n\n**Betreff:** FW Beschwerde: Hochzeitsbuffet am 20.08.\n\nHallo,\n\ndie unten stehende Mail habe ich gerade bekommen. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich. Ich möchte nicht, dass Frau McEvoy uns eine schlechte Bewertung im Internet gibt.\nSie können der Kundin ruhig schreiben, warum es bei dem Hochzeitsbuffet Probleme gab.\nGanz wichtig: Bitte schreiben Sie der Kundin auch, was wir ihr als Ausgleich für die Unannehmlichkeiten vorschlagen.\n\nVielen Dank und mit Grüßen\nPetra Speichert\nTeamleiterin\n```"
+    },
+    "beschwerde_kundin": {
+      "typ": "E-Mail von Kundin",
+      "text": "```markdown\n**Gesendet:** heute 11:22 Uhr\n**Von:** Donna McEvoy\n**An:** Petra Speichert\n\n**Betreff:** Beschwerde Hochzeitsbuffet am 20.08.\n\nSehr geehrte Frau Speichert,\n\nwir hatten für unsere Hochzeit am 20.08. bei Ihnen das Hochzeitsbuffet Premium (Mittagessen, 25 Personen) bestellt. Das Buffet sollte bis 12 Uhr geliefert und bis 12:30 Uhr aufgebaut sein. Ebenfalls sollten Sie für verschiedene Getränke zum Abschluss des Essens (Kaffee, Espresso etc.) sorgen.\nLeider ist alles schiefgegangen: Das Buffet war um 12:35 Uhr noch nicht da und wir konnten erst um halb zwei mit dem Essen beginnen. Als die Hochzeitstorte um 15 Uhr serviert wurde, waren alle noch satt.\nIhr Essen war nicht schlecht, aber Sie haben uns einen Tag, den wir lange im Voraus und mit Liebe geplant hatten, fast verdorben. Wir haben bereits eine hohe Anzahlung geleistet und erwarten jetzt, dass Sie uns mit dem noch offenen Betrag entgegenkommen. Nur eine Entschuldigung reicht nicht aus!\n\nGrüße\nDonna McEvoy\n```"
+    },
+    "aufgaben_list": [
+      {
+        "frage": "Frau McEvoy beschwert sich, dass",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "das falsche Buffet geliefert wurde."
+          },
+          {
+            "key": "b",
+            "text": "das Essen nicht geschmeckt hat."
+          },
+          {
+            "key": "c",
+            "text": "das Essen zu spät kam."
+          }
+        ],
+        "loesung": "c"
+      },
+      {
+        "frage": "Die Firma soll",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "auf die Anzahlung verzichten."
+          },
+          {
+            "key": "b",
+            "text": "die Rechnung mindern."
+          },
+          {
+            "key": "c",
+            "text": "Geld zurückbezahlen."
+          }
+        ],
+        "loesung": "b"
+      }
+    ],
+    "schreibaufgabe": {
+      "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+      "check_list": [
+        "Schreiben Sie eine formelle E-Mail an Frau McEvoy.",
+        "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau McEvoy,').",
+        "Beziehen Sie sich auf ihre Beschwerde bezüglich des Hochzeitsbuffets am 20.08.",
+        "Drücken Sie Ihr aufrichtiges Bedauern über die erheblichen Verzögerungen und die dadurch entstandenen Unannehmlichkeiten an ihrem Hochzeitstag höflich aus.",
+        "Entschuldigen Sie sich ausdrücklich für die Probleme.",
+        "Erklären Sie (ruhig) den Grund für die Probleme mit dem Buffet (gemäß Anweisung der Teamleiterin). Beispiel: Unerwarteter Fahrzeugausfall, extreme Verkehrslage, kurzfristiger Personalausfall in der Küche/Logistik.",
+        "Machen Sie einen konkreten Vorschlag als Ausgleich/Entschädigung für die Unannehmlichkeiten (gemäß Anweisung der Teamleiterin: 'was wir ihr als Ausgleich ... vorschlagen'). Gehen Sie dabei auf die Erwartung der Kundin ein ('mit dem noch offenen Betrag entgegenkommen'). Beispiel: Ein signifikanter Preisnachlass auf den Gesamtbetrag / die Restrechnung, Verzicht auf einen Teil der Kosten.",
+        "Versichern Sie ihr, dass dies ein Ausnahmefall war und Maßnahmen ergriffen werden, um so etwas zukünftig zu verhindern.",
+        "Verwenden Sie durchgehend eine sehr höfliche, formelle, verständnisvolle und lösungsorientierte Sprache, um eine schlechte Bewertung zu vermeiden.",
+        "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+      ]
+    }
+}
+  

@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Thomas Bauer\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Schmidt\n\n**Betreff:** FW: Beschwerde Falschlieferung Bestellung 789123\n\nHallo Herr Schmidt,\n\nunten stehende Mail von Herrn Weber (Design Solutions GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie dem Kunden sehr höflich.\n\nErklären Sie ihm ruhig, dass es bei uns aufgrund eines kurzfristigen Personalengpasses leider zu einer Verwechslung in der Packstation kam. Teilen Sie ihm mit, dass wir die korrekten Präsentationsmappen selbstverständlich sofort per Expresskurier an ihn rausschicken und die Abholung der falsch gelieferten Kugelschreiber veranlassen.\n\nBieten Sie ihm wegen der entstandenen Unannehmlichkeiten bitte einen Preisnachlass von 15% auf die aktuelle Rechnung an. Design Solutions GmbH ist ein wichtiger Kunde, den wir nicht verlieren möchten.\n\nDanke und viele Grüße\n\nThomas Bauer\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Von:** Markus Weber <m.weber@design-solutions.de>\n**Gesendet:** heute, 08:55 Uhr\n**An:** Sabine Keller <service@bueroprofi.de>\n**Betreff:** Beschwerde Falschlieferung - Bestellung 789123\n\nSehr geehrte Frau Keller,\n\nhiermit möchte ich mich über die Lieferung zu unserer Bestellung Nr. 789123 vom [Datum von vor 2 Tagen, z.B. 15. Mai] beschweren.\n\nWir hatten dringend 50 Stück Ihrer hochwertigen Präsentationsmappen (Artikelnummer HPM-45) für ein wichtiges Kundengespräch heute Nachmittag bestellt. Die Lieferung traf soeben ein, enthielt jedoch anstelle der bestellten Mappen eine große Menge einfacher Kugelschreiber (Artikelnummer KGS-02), die wir definitiv nicht bestellt haben. Die benötigten Präsentationsmappen fehlen vollständig.\n\nDies stellt uns vor erhebliche Probleme, da wir nun kurzfristig eine alternative Lösung für unser Meeting finden müssen und nicht die professionellen Unterlagen nutzen können, die wir geplant hatten. Das ist äußerst ärgerlich und unprofessionell.\n\nWir erwarten eine umgehende Klärung dieses Vorfalls. Bitte teilen Sie uns sofort mit, wann wir mit der Lieferung der korrekten Präsentationsmappen rechnen können – wir benötigen diese spätestens morgen Vormittag. Informieren Sie uns außerdem, wie wir die falsch gelieferten Kugelschreiber an Sie zurücksenden sollen.\n\nAngesichts der entstandenen Unannehmlichkeiten bitten wir Sie zudem um eine Stellungnahme bezüglich der Rechnung.\n\nMit freundlichen Grüßen\n\nMarkus Weber\nOffice Manager\nDesign Solutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Weber beschwert sich bei BüroProfi GmbH, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Büromaterialien zu spät kam."
+                },
+                {
+                    "key": "b",
+                    "text": "die gelieferte Ware nicht der Bestellung entsprach."
+                },
+                {
+                    "key": "c",
+                    "text": "die Qualität der gelieferten Ordner mangelhaft war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Wegen der Falschlieferung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "musste für ein wichtiges Meeting improvisiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "konnte die Firma die Rechnung nicht bezahlen."
+                },
+                {
+                    "key": "c",
+                    "text": "möchte Herr Weber die gesamte Bestellung stornieren."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Markus Weber.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrter Herr Weber,').",
+            "Beziehen Sie sich klar auf seine Beschwerde-E-Mail bezüglich der Bestellung Nr. 789123 (Falschlieferung).",
+            "Drücken Sie Ihr aufrichtiges Bedauern über den Fehler und die entstandenen Unannehmlichkeiten (insbesondere für das Meeting) aus.",
+            "Entschuldigen Sie sich höflich im Namen von BüroProfi GmbH.",
+            "Erklären Sie kurz den Grund für den Fehler (Verwechslung in der Packstation wegen Personalengpass), wie von der Teamleitung vorgegeben.",
+            "Informieren Sie über die sofortige Lösung: Versand der korrekten Präsentationsmappen per Expresskurier (nennen Sie idealerweise den voraussichtlichen Lieferzeitpunkt, z.B. 'morgen Vormittag').",
+            "Erklären Sie das Vorgehen zur Rücksendung der Kugelschreiber (z.B. 'werden bei nächster Lieferung abgeholt' oder 'Kurier bringt Rücksendeetikett mit').",
+            "Bieten Sie die von der Teamleitung genehmigte Entschädigung an (15% Preisnachlass auf die aktuelle Rechnung).",
+            "Versichern Sie ihm, dass Maßnahmen zur Vermeidung solcher Fehler getroffen werden.",
+            "Verwenden Sie durchgehend eine höfliche, professionelle und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

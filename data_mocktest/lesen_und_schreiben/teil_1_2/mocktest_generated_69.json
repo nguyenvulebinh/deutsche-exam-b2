@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Hanna Meyer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde: Ständige Probleme mit Drucker Modell XZ-500 (Vertrag 12345)\n\nGuten Morgen,\n\nanbei die Beschwerde von Herrn Richter (Bürobedarf Schulz GmbH), die ich gerade erhalten habe. Bitte kümmern Sie sich darum und antworten Sie Herrn Richter höflich.\n\nErklären Sie kurz die möglichen Ursachen für die wiederkehrenden Probleme. Ganz wichtig: Bieten Sie ihm eine klare Lösung an – entweder einen erneuten Reparaturversuch mit einem erfahrenen Techniker oder direkt den Austausch des Geräts, wie er vorschlägt.\n\nBürobedarf Schulz ist ein wichtiger Kunde mit mehreren Geräten bei uns. Wir müssen hier schnell eine zufriedenstellende Lösung finden.\n\nDanke und viele Grüße\n\nHanna Meyer\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Klaus Richter\n**An:** Hanna Meyer\n\n**Betreff:** Beschwerde: Ständige Probleme mit Drucker Modell XZ-500 (Vertrag 12345)\n\nSehr geehrte Frau Meyer,\n\nhiermit möchte ich mich über die anhaltenden Probleme mit unserem geleasten Drucker, Modell XZ-500 (Vertrag 12345), beschweren. Wir sind seit zwei Jahren Kunde bei Ihnen und waren bisher mit dem Service grundsätzlich zufrieden.\n\nSeit etwa vier Wochen kommt es jedoch fast täglich zu Papierstaus. Zudem ist die Druckqualität in letzter Zeit unzureichend; Ausdrucke weisen häufig Streifen oder Flecken auf. Dies führt zu erheblichen Zeitverlusten für unsere Mitarbeiter, unnötigem Materialverbrauch und stört unsere Arbeitsabläufe empfindlich, besonders wenn wichtige Dokumente dringend benötigt werden. Ihre Techniker waren bereits zweimal hier, konnten das Problem aber offensichtlich nicht dauerhaft beheben.\n\nWir erwarten eine umgehende und dauerhafte Lösung. Entweder muss das Gerät fachgerecht repariert werden, sodass es störungsfrei funktioniert, oder wir bitten um einen Austausch gegen ein gleichwertiges, funktionierendes Modell.\n\nBitte teilen Sie uns bis Ende dieser Woche (Freitag) mit, welche Schritte Sie einleiten werden.\n\nMit freundlichen Grüßen\nKlaus Richter\nBürobedarf Schulz GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich hauptsächlich,",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "weil die Techniker unfreundlich waren."
+                },
+                {
+                    "key": "b",
+                    "text": "dass der geleaste Drucker häufig ausfällt und schlecht druckt."
+                },
+                {
+                    "key": "c",
+                    "text": "dass der Leasingvertrag zu teuer ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Problem mit dem Drucker",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "führt zu Störungen im Arbeitsablauf und Materialverschwendung."
+                },
+                {
+                    "key": "b",
+                    "text": "besteht erst seit dem letzten Technikerbesuch."
+                },
+                {
+                    "key": "c",
+                    "text": "kann laut Herrn Richter nur durch einen Neukauf gelöst werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich des Druckers XZ-500 (Vertrag 12345).",
+            "Drücken Sie Ihr Bedauern über die anhaltenden Probleme und die dadurch entstandenen Unannehmlichkeiten aus und entschuldigen Sie sich höflich.",
+            "Erklären Sie kurz und sachlich eine plausible Ursache für die wiederkehrenden Probleme (gemäß Anweisung der Teamleiterin).",
+            "Bieten Sie eine klare Lösung an, die auf die Forderung des Kunden eingeht: Entweder einen erneuten Reparaturversuch durch einen erfahrenen Techniker ODER einen Austausch des Geräts (gemäß Anweisung der Teamleiterin).",
+            "Machen Sie einen konkreten Vorschlag zum weiteren Vorgehen (z.B. Termin für Techniker, Lieferzeit für Austauschgerät).",
+            "Stellen Sie sicher, dass Ihre Antwort die vom Kunden gewünschte Information bis Ende der Woche liefert.",
+            "Versichern Sie ihm, dass eine zufriedenstellende Lösung gefunden wird und seine Kundenzufriedenheit wichtig ist.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

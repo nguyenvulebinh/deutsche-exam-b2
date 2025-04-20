@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Müller\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Erneute Beschwerde Multifunktionsgerät XYZ-Profi - Firma KreativMedia GmbH\n\nHallo,\n\ndie unten stehende Mail von Herrn Richter habe ich gerade erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie dem Kunden sehr höflich. Die Firma KreativMedia ist ein langjähriger Kunde, den wir auf keinen Fall verlieren möchten.\n\nErklären Sie Herrn Richter ruhig, dass wir ein hartnäckiges Problem mit der Einzugseinheit oder der Scannereinheit vermuten, das bei den letzten Einsätzen nicht vollständig behoben werden konnte. Ganz wichtig: Schlagen Sie ihm einen erneuten Serviceeinsatz durch unseren Spezialisten für dieses Modell vor, um das Problem endgültig zu lösen.\n\nBieten Sie ihm als Ausgleich für die wiederholten Unannehmlichkeiten bitte eine Gutschrift für die nächsten 5000 Kopien oder einen kostenlosen Satz Toner an.\n\nDanke und viele Grüße\n\nSabine Müller\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Klaus Richter\n**An:** Sabine Müller\n\n**Betreff:** Erneute Beschwerde Multifunktionsgerät XYZ-Profi\n\nSehr geehrte Frau Müller,\n\nhiermit muss ich mich leider erneut über die anhaltenden Probleme mit unserem Multifunktionsgerät Modell XYZ-Profi (Seriennr. KMG-12345) beschweren, das wir über unseren Wartungsvertrag von Ihnen betreuen lassen.\n\nObwohl das Gerät erst 14 Monate alt ist, häufen sich seit etwa zwei Monaten die Störungen. Es kommt ständig zu Papierstaus, die Ausdrucke weisen oft Streifen auf und die Scannerfunktion fällt sporadisch aus. Ihre Techniker waren bereits zweimal vor Ort (zuletzt vor drei Wochen), doch die Probleme treten kurz darauf immer wieder auf. Das ist für unsere täglichen Arbeitsabläufe extrem störend und führt zu erheblichem Zeitverlust und Materialverschwendung.\n\nWir waren mit Ihrem Service bisher eigentlich zufrieden, aber diese Situation ist nicht länger tragbar. Liegt hier vielleicht ein grundsätzlicher Defekt am Gerät vor?\n\nWir bitten um eine zeitnahe Rückmeldung und einen Vorschlag für eine dauerhafte Lösung dieses Problems.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nBüromanagement\nFirma KreativMedia GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die letzte Reparaturrechnung zu hoch war."
+                },
+                {
+                    "key": "b",
+                    "text": "das Multifunktionsgerät trotz Reparaturversuchen immer wieder Probleme verursacht."
+                },
+                {
+                    "key": "c",
+                    "text": "er ein komplett neues Gerät eines anderen Herstellers möchte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme mit dem Gerät führen dazu, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Arbeit im Büro oft unterbrochen wird."
+                },
+                {
+                    "key": "b",
+                    "text": "die Mitarbeiter das Gerät nicht mehr benutzen dürfen."
+                },
+                {
+                    "key": "c",
+                    "text": "die Firma KreativMedia den Servicevertrag gekündigt hat."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Richter.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich klar auf seine Beschwerde-E-Mail bezüglich des Multifunktionsgeräts XYZ-Profi.",
+            "Bestätigen Sie den Eingang und entschuldigen Sie sich aufrichtig für die wiederholten Störungen und die entstandenen Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für seine Verärgerung und die Beeinträchtigung seiner Arbeitsabläufe.",
+            "Erklären Sie den vermuteten Grund für die Probleme (z.B. hartnäckiges Problem mit Einzugs-/Scannereinheit), wie von der Teamleitung vorgegeben.",
+            "Schlagen Sie die konkrete Maßnahme zur endgültigen Lösung vor (z.B. Serviceeinsatz durch Spezialisten), wie von der Teamleitung vorgegeben.",
+            "Bieten Sie die von der Teamleitung vorgegebene Kompensation an (z.B. Gutschrift für Kopien oder kostenloser Toner).",
+            "Betonen Sie, dass die Zufriedenheit langjähriger Kunden wie der Firma KreativMedia sehr wichtig ist.",
+            "Informieren Sie über die nächsten Schritte (z.B. Kontaktaufnahme zur Terminvereinbarung für den Spezialisten).",
+            "Verwenden Sie durchgehend eine höfliche, formelle, lösungsorientierte und kundenfreundliche Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

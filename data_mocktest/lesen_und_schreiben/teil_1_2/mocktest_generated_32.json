@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Sabine Richter\n**Erhalten:** heute, 10:15 Uhr\n**An:** Jonas Weber\n\n**Betreff:** FW: Unzufriedenheit mit IT-Supportleistungen / Vertragsnummer 78-2345\n\nHallo Herr Weber,\n\ndie unten stehende E-Mail von Herrn Keller (Innovatec GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\nInnovatec GmbH ist ein wichtiger Kunde, den wir nicht verlieren möchten.\n\nNennen Sie ruhig die Gründe für die Verzögerungen bei der Ticketbearbeitung in den letzten Wochen. Ganz wichtig: Schreiben Sie ihm konkret, wie wir das Druckerproblem dauerhaft lösen werden und erläutern Sie auch, welche Maßnahmen wir zur Verbesserung der Reaktionszeiten ergreifen.\n\nDanke und viele Grüße\n\nSabine Richter\nTeamleiterin Kundenservice\nIT-Solutions AG\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 09:58 Uhr\n**Von:** Martin Keller\n**An:** Sabine Richter\n\n**Betreff:** Unzufriedenheit mit IT-Supportleistungen / Vertragsnummer 78-2345\n\nSehr geehrte Frau Richter,\n\nhiermit möchte ich unsere Unzufriedenheit mit den IT-Supportleistungen Ihrer Firma im Rahmen unseres Vertrages (Nr. 78-2345) zum Ausdruck bringen.\n\nWir müssen leider feststellen, dass die Qualität Ihres Services in den letzten Wochen merklich nachgelassen hat. Insbesondere sind die Reaktionszeiten auf eingereichte Support-Tickets deutlich länger als vereinbart und für uns akzeptabel. Dies führt zu erheblichen Störungen unserer Arbeitsabläufe.\n\nZusätzlich kämpfen wir wiederholt mit einem Problem bei unserem Netzwerkdrucker im 2. OG. Obwohl Ihre Techniker bereits mehrfach vor Ort waren, tritt der Fehler immer wieder auf. Unsere Mitarbeiter verlieren wertvolle Zeit durch Fehlersuche oder weil sie auf andere Drucker ausweichen müssen.\n\nWir erwarten eine umgehende Rückkehr zu den vertraglich vereinbarten Service-Levels sowie eine dauerhafte Lösung für das Druckerproblem. Bitte teilen Sie uns bis Ende dieser Woche mit, welche konkreten Maßnahmen Sie ergreifen werden, um die Situation zu verbessern.\n\nMit freundlichen Grüßen\n\nMartin Keller\nAbteilungsleiter\nInnovatec GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Keller beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die langen Wartezeiten bei der Ticketerstellung."
+                },
+                {
+                    "key": "b",
+                    "text": "die nachlassende Qualität des IT-Supports."
+                },
+                {
+                    "key": "c",
+                    "text": "die hohen Kosten für den Supportvertrag."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Problem mit dem Netzwerkdrucker...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "konnte bisher nicht dauerhaft behoben werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wird durch veraltete Hardware bei Innovatec verursacht."
+                },
+                {
+                    "key": "c",
+                    "text": "tritt nur in Herrn Kellers Abteilung auf."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Keller,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich des IT-Supports (Vertrag 78-2345).",
+            "Zeigen Sie Verständnis für seine Unzufriedenheit und entschuldigen Sie sich höflich für die Unannehmlichkeiten (lange Reaktionszeiten, Druckerproblem).",
+            "Erklären Sie (ruhig) den Grund für die Verzögerungen bei der Ticketbearbeitung (gemäß Anweisung der Teamleiterin, z.B. unerwartet hohes Ticketaufkommen, kurzfristiger Personalengpass).",
+            "Erklären Sie konkret, wie das Druckerproblem dauerhaft gelöst wird (gemäß Anweisung der Teamleiterin, z.B. Einsatz eines Spezialisten, Austausch einer Komponente, geplante Wartung).",
+            "Erläutern Sie die Maßnahmen zur Verbesserung der Reaktionszeiten (gemäß Anweisung der Teamleiterin, z.B. Optimierung interner Prozesse, Priorisierung kritischer Tickets, temporäre Ressourcenverstärkung).",
+            "Reagieren Sie auf die Bitte um eine Stellungnahme bis Ende der Woche, indem Sie diese Informationen liefern.",
+            "Versichern Sie ihm, dass die Zufriedenheit von Innovatec GmbH sehr wichtig ist und die Servicequalität verbessert wird.",
+            "Verwenden Sie eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

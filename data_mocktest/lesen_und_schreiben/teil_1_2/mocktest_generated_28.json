@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sandra Weiß\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Meier\n\n**Betreff:** FW: Erhebliche Störungen Internet und Telefonie - Vertragsnr. 12345\n\nHallo Herr Meier,\n\ndie unten stehende Mail unseres Kunden Herrn Berger (Berger & Partner GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie dem Kunden höflich und ausführlich.\n\nBerger & Partner ist ein wichtiger und langjähriger Kunde, den wir auf keinen Fall verlieren dürfen. Erklären Sie ihm bitte ruhig die technischen Hintergründe der Probleme in den letzten Wochen (ohne zu sehr ins Detail zu gehen) und auch, warum unsere Reaktionszeit nicht optimal war. \n\nGanz wichtig: Stellen Sie klar dar, welche konkreten Schritte wir jetzt zur Stabilisierung der Systeme unternehmen und wie wir zukünftig eine höhere Verfügbarkeit und schnellere Reaktionszeiten sicherstellen wollen.\n\nDa Herr Berger finanzielle Erwartungen andeutet, machen Sie ihm bitte auch einen konkreten Vorschlag für eine Gutschrift auf die nächste Rechnung als Ausgleich für die entstandenen Unannehmlichkeiten.\n\nDanke und viele Grüße\n\nSandra Weiß\nTeamleiterin IT-Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Klaus Berger (Berger & Partner GmbH)\n**An:** Sandra Weiß\n\n**Betreff:** Erhebliche Störungen Internet und Telefonie - Vertragsnr. 12345\n\nSehr geehrte Frau Weiß,\n\nals langjähriger Kunde Ihres Hauses muss ich mich heute leider über erhebliche Probleme mit den von Ihnen betreuten IT-Diensten beschweren.\n\nSeit einigen Wochen kommt es in unseren Büroräumen immer wieder zu Ausfällen der Internetverbindung. Diese Ausfälle dauern teilweise bis zu einer Stunde und legen unsere gesamte Arbeit lahm. Besonders schlimm war es gestern Nachmittag. Gleichzeitig gibt es massive Probleme mit unserer Telefonanlage – Anrufe brechen ab oder die Sprachqualität ist miserabel, was wir auf die instabile Internetverbindung zurückführen.\n\nZusätzlich ist Ihre Support-Hotline oft schwer erreichbar, und die Bearbeitung unserer Störungsmeldungen dauert deutlich länger als vereinbart und für uns akzeptabel ist. Für ein Beratungsunternehmen wie unseres sind eine stabile Internetverbindung und funktionierende Telefonie absolut existenziell. Die aktuellen Zustände sind nicht länger tragbar und führen zu erheblichen Produktivitätsverlusten.\n\nWir erwarten eine umgehende und vor allem nachhaltige Lösung dieser Probleme. Bitte teilen Sie uns bis Ende dieser Woche mit, was die genauen Ursachen sind und welche konkreten Maßnahmen Sie ergreifen werden, um die Stabilität unserer Systeme sowie Ihre Servicequalität dauerhaft sicherzustellen. Angesichts der erheblichen Beeinträchtigungen erwarten wir zudem ein Entgegenkommen bei der nächsten Rechnungsstellung.\n\nMit freundlichen Grüßen\n\nKlaus Berger\nGeschäftsführer\nBerger & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Berger beschwert sich in seiner E-Mail hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "... die hohen Kosten des IT-Supportvertrags."
+                },
+                {
+                    "key": "b",
+                    "text": "... die wiederholten technischen Störungen und den langsamen Kundenservice."
+                },
+                {
+                    "key": "c",
+                    "text": "... einen einzelnen, aber sehr langen Ausfall des Internets."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Wegen der Probleme erwartet Herr Berger vom IT-Dienstleister...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "... eine dauerhafte Lösung und einen Vorschlag zur Wiedergutmachung."
+                },
+                {
+                    "key": "b",
+                    "text": "... einen sofortigen Technikerbesuch vor Ort."
+                },
+                {
+                    "key": "c",
+                    "text": "... die Zusendung neuer Hardware für das Netzwerk."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Berger.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrter Herr Berger,').",
+            "Beziehen Sie sich klar auf seine Beschwerde-E-Mail vom [Datum] bezüglich der Internet- und Telefonie-Störungen (Vertragsnr. 12345).",
+            "Drücken Sie Ihr aufrichtiges Bedauern über die Störungen und die langsamen Reaktionszeiten aus und entschuldigen Sie sich für die entstandenen Unannehmlichkeiten.",
+            "Erklären Sie kurz und nachvollziehbar die technischen Gründe für die Instabilität (gemäß Anweisung, z.B. Probleme nach Updates, externe Leitungsprobleme).",
+            "Erläutern Sie kurz den Grund für die verzögerten Reaktionen des Supports (gemäß Anweisung, z.B. hohes Aufkommen).",
+            "Beschreiben Sie die konkreten Maßnahmen, die bereits ergriffen wurden oder sofort eingeleitet werden, um Internet und Telefonie zu stabilisieren.",
+            "Erklären Sie, welche Schritte unternommen werden, um die Servicequalität (insb. Reaktionszeit) zukünftig zu verbessern und Stabilität zu gewährleisten.",
+            "Machen Sie einen konkreten Vorschlag für eine finanzielle Entschädigung/Gutschrift, wie von der Teamleitung vorgegeben.",
+            "Versichern Sie dem Kunden, dass seine Zufriedenheit höchste Priorität hat.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

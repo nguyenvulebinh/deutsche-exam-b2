@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Keller\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Lieferung & Installation Multifunktionsgerät - Kanzlei Bergmann\n\nHallo,\n\nunten stehende E-Mail von Frau Bergmann (neue Kundin!) habe ich gerade erhalten. Bitte kümmern Sie sich umgehend darum.\n\nSprechen Sie kurz mit dem Techniker, Herrn Fischer, der die Installation durchgeführt hat, um die Details zum Schaden und zum Scan-Problem zu klären.\n\nAntworten Sie Frau Bergmann sehr höflich. Wichtig ist:\n1.  Schlagen Sie eine schnelle Lösung für das Problem mit der Scan-Funktion vor (neuer Termin, kostenlos).\n2.  Gehen Sie auf die Verspätung und den Schaden ein und bieten Sie eine kleine Wiedergutmachung an (z.B. Gutschrift für den Schaden).\n\nWir müssen hier schnell reagieren und die Kundin zufriedenstellen.\n\nDanke und Grüße\n\nSabine Keller\nTeamleiterin Service & Support\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Anja Bergmann (Kanzlei Bergmann & Partner)\n**An:** Stefan Voss\n\n**Betreff:** Reklamation Lieferung & Installation Multifunktionsgerät (Auftrag 789-01)\n\nSehr geehrter Herr Voss,\n\nich schreibe Ihnen bezüglich unserer Bestellung eines Multifunktionsdruckers (Modell XYZ, Auftrag 789-01), der gestern geliefert und installiert werden sollte.\n\nLeider gab es bereits bei der Lieferung Probleme. Der vereinbarte Liefertermin war vorgestern, jedoch traf das Gerät erst gestern ohne vorherige Ankündigung der Verzögerung ein.\n\nBei der anschließenden Installation durch Ihren Techniker wurde zudem ein Schreibtisch in unmittelbarer Nähe des Geräts leicht zerkratzt. Gravierender ist jedoch, dass die für uns essenzielle Netzwerk-Scan-Funktion nicht funktioniert. Ihr Techniker hat es zwar versucht einzurichten, konnte das Problem aber vor Ort nicht beheben.\n\nDies führt zu erheblichen Störungen in unserem Kanzleiablauf, da wir dringend auf die Scan-Funktion angewiesen sind. Wir erwarten eine umgehende Lösung für das technische Problem sowie eine Klärung bezüglich der Lieferverzögerung und des entstandenen Schadens.\n\nBitte teilen Sie uns bis spätestens morgen Mittag mit, wie Sie die Funktionsfähigkeit des Geräts sicherstellen und wie Sie bezüglich der anderen Punkte verfahren wollen.\n\nMit freundlichen Grüßen\n\nAnja Bergmann\nKanzlei Bergmann & Partner\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Bergmann ist unzufrieden, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Liefertermin stark überschritten wurde."
+                },
+                {
+                    "key": "b",
+                    "text": "das neue Gerät nicht richtig funktioniert und es weitere Probleme gab."
+                },
+                {
+                    "key": "c",
+                    "text": "der Techniker unfreundlich war und Schäden verursacht hat."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Hauptproblem für die Kanzlei ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Scan-Funktion des Geräts benötigt wird, aber nicht nutzbar ist."
+                },
+                {
+                    "key": "b",
+                    "text": "der verursachte Schaden am Schreibtisch sehr groß ist."
+                },
+                {
+                    "key": "c",
+                    "text": "die Lieferung einen Tag zu spät erfolgte."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Bergmann.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Bergmann,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail (Auftrag 789-01, Multifunktionsgerät).",
+            "Entschuldigen Sie sich aufrichtig für die gesamten Unannehmlichkeiten (Verzögerung, Schaden, technisches Problem).",
+            "Gehen Sie kurz auf die Lieferverzögerung ein und entschuldigen Sie sich dafür.",
+            "Sprechen Sie den Schaden am Schreibtisch an, entschuldigen Sie sich dafür und bieten Sie eine Wiedergutmachung an (z.B. Gutschrift, Kostenübernahme für Reparatur).",
+            "Schlagen Sie eine konkrete, zeitnahe Lösung für das Problem mit der Scan-Funktion vor (z.B. kostenloser Technikereinsatz am nächsten Tag/Wunschtermin).",
+            "Betonen Sie, dass die Behebung des Scan-Problems Priorität hat.",
+            "Versichern Sie der Kundin, dass Maßnahmen ergriffen werden, um die volle Funktionalität herzustellen.",
+            "Verwenden Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

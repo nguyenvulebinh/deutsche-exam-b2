@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Anna Bergmann\n**Erhalten:** heute, 09:10 Uhr\n**An:** Herr Schmidt\n**Betreff:** FW: Dringende Beschwerde: Probleme mit neuen Multifunktionsgeräten\n\nHallo Herr Schmidt,\n\ndiese Mail von Herrn Müller habe ich gerade erhalten. Bitte kümmern Sie sich dringend darum.\n\nAntworten Sie Herrn Müller bitte höflich und nehmen Sie die Beschwerde sehr ernst. Erklären Sie kurz die möglichen technischen Ursachen – vielleicht das bekannte Firmware-Problem bei dieser Serie? Aber bitte keine Ausreden.\n\nGanz wichtig: Priorisieren Sie diesen Kunden und vereinbaren Sie schnellstmöglich einen Vor-Ort-Termin zur Fehlerbehebung. Die Firma ist ein wichtiger Kunde, den wir nicht verlieren möchten.\n\nGeben Sie mir nach dem Einsatz kurz Rückmeldung über das Ergebnis.\n\nDanke und viele Grüße\n\nAnna Bergmann\nTeamleiterin Technischer Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 16:28 Uhr\n**Von:** Jens Müller\n**An:** Anna Bergmann\n**Betreff:** Dringende Beschwerde: Probleme mit neuen Multifunktionsgeräten\n\nSehr geehrte Frau Bergmann,\n\nvor etwa einem Monat haben wir auf Ihre Empfehlung hin drei neue Multifunktionsdrucker des Modells XYZ-8000 für unsere Abteilungen geleast. Leider müssen wir uns heute mit einer dringenden Beschwerde an Sie wenden, da die Geräte seit Inbetriebnahme massive Probleme verursachen.\n\nDie Drucker zeigen häufig unerklärliche Fehlermeldungen an, die nur durch einen kompletten Neustart behoben werden können. Zudem bricht die Verbindung zum Netzwerk sporadisch ab, was das Scannen von Dokumenten und das Drucken von Aufträgen extrem unzuverlässig macht. Unsere Mitarbeiter verlieren dadurch wertvolle Arbeitszeit und die Arbeitsabläufe werden empfindlich gestört.\n\nErschwerend kommt hinzu, dass die in unserem Servicevertrag vereinbarte Reaktionszeit Ihres technischen Supports bei Problemmeldungen wiederholt nicht eingehalten wurde. Wir mussten teilweise über einen Tag auf Rückmeldung oder einen Technikereinsatz warten.\n\nWir erwarten eine umgehende Fehlersuche und Reparatur der Geräte, sodass deren zuverlässige Funktion sichergestellt ist. Bitte sorgen Sie ebenfalls dafür, dass die vereinbarten Servicezeiten zukünftig eingehalten werden. Andernfalls sehen wir uns gezwungen, unseren Servicevertrag mit Ihnen zu überprüfen.\n\nWir bitten um eine schnelle Lösung.\n\nMit freundlichen Grüßen\n\nJens Müller\nBüroleitung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Müller beschwert sich bei Frau Bergmann vor allem über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die hohen Kosten für die Geräte."
+                },
+                {
+                    "key": "b",
+                    "text": "die Unzuverlässigkeit der neuen Drucker."
+                },
+                {
+                    "key": "c",
+                    "text": "unfreundliche Mitarbeiter des Lieferanten."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein zusätzliches Problem ist laut Herrn Müller, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Drucker nicht richtig installiert wurden."
+                },
+                {
+                    "key": "b",
+                    "text": "seine Mitarbeiter die Geräte falsch bedienen."
+                },
+                {
+                    "key": "c",
+                    "text": "der technische Support zu langsam reagiert."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Müller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Müller,').",
+            "Beziehen Sie sich klar auf seine Beschwerde-E-Mail bezüglich der Multifunktionsgeräte XYZ-8000.",
+            "Nehmen Sie die Beschwerde sehr ernst und entschuldigen Sie sich aufrichtig für die Probleme und die entstandenen Unannehmlichkeiten/Störungen.",
+            "Zeigen Sie Verständnis für seine Verärgerung über die Situation.",
+            "Erklären Sie kurz und sachlich eine mögliche technische Ursache (gemäß Anweisung, z.B. bekanntes Firmware-Problem), ohne Ausreden zu suchen.",
+            "Betonen Sie, dass die Lösung des Problems höchste Priorität hat.",
+            "Schlagen Sie einen konkreten, zeitnahen Termin für einen **Vor-Ort-Einsatz** eines Technikers vor (z.B. 'morgen Vormittag', 'innerhalb der nächsten 24 Stunden') oder bitten Sie um Terminvorschläge seinerseits.",
+            "Gehen Sie auf die Kritik bezüglich der langsamen Support-Reaktionszeit ein, entschuldigen Sie sich dafür und versichern Sie, dass Maßnahmen zur Verbesserung ergriffen werden.",
+            "Versichern Sie ihm das Ziel, die zuverlässige Funktion der Geräte schnellstmöglich wiederherzustellen.",
+            "Verwenden Sie durchgehend eine höfliche, professionelle und lösungsorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

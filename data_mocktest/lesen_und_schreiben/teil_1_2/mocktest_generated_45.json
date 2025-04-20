@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Lena Keller\n**Erhalten:** heute, 09:15 Uhr\n**An:** Martin Fischer\n\n**Betreff:** FW: Reklamation Bürostühle Modell ErgoFlex Pro (Bestellung #78910)\n\nHallo Herr Fischer,\n\nunten stehende Mail von Frau Wagner (TechSolutions GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich und zügig.\n\nTechSolutions ist ein wichtiger Neukunde, und wir wollen unsere Reputation für Qualität wahren. Prüfen Sie bitte intern, ob es bekannte Probleme mit dieser Charge des Modells ErgoFlex Pro gibt. Schlagen Sie Frau Wagner eine konkrete Lösung vor – prüfen Sie, was sinnvoller ist: Reparatur vor Ort durch einen Techniker oder Austausch der defekten Stühle. Erklären Sie ihr klar das weitere Vorgehen, z.B. eine Terminvereinbarung für einen Technikerbesuch zur Begutachtung.\n\nDanke und viele Grüße\n\nLena Keller\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Anna Wagner (TechSolutions GmbH)\n**An:** Klaus Schmidt (Bürokomfort AG)\n\n**Betreff:** Reklamation Bürostühle Modell ErgoFlex Pro (Bestellung #78910)\n\nSehr geehrter Herr Schmidt,\n\nvor vier Wochen haben wir für unser Büro zwanzig Ihrer Bürostühle des Modells „ErgoFlex Pro“ (Bestellung #78910) erhalten. Wir haben uns für Ihr Unternehmen entschieden, da Sie für langlebige und qualitativ hochwertige Büromöbel bekannt sind.\n\nLeider müssen wir nun, bereits nach kurzer Zeit, erhebliche Mängel feststellen. Bei mittlerweile fünf der zwanzig Stühle verliert die Gasdruckfeder an Druck, sodass die Sitzhöhe nicht gehalten wird. Zudem rastet bei drei dieser Stühle die Rückenlehne nicht mehr zuverlässig ein. Dies ist nicht nur ärgerlich, sondern beeinträchtigt auch das ergonomische Sitzen unserer Mitarbeiter und somit deren Gesundheit und Produktivität. Wir sind über diese schnelle Abnutzung sehr enttäuscht.\n\nWir bitten Sie um eine umgehende Lösung dieses Problems. Wir erwarten entweder eine fachgerechte Reparatur oder einen Austausch der fünf defekten Stühle. Bitte teilen Sie uns bis Ende dieser Woche mit, wie Sie gedenken, hier weiter vorzugehen.\n\nMit freundlichen Grüßen\n\nAnna Wagner\nOffice Managerin\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Wagner beschwert sich bei der Bürokomfort AG, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die bestellten Bürostühle zu spät geliefert wurden."
+                },
+                {
+                    "key": "b",
+                    "text": "...mehrere der neu gelieferten Bürostühle bereits Mängel aufweisen."
+                },
+                {
+                    "key": "c",
+                    "text": "...das falsche Modell der Bürostühle geliefert wurde."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Frau Wagner erwartet von der Firma, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...sie sofort eine vollständige Rückerstattung erhält."
+                },
+                {
+                    "key": "b",
+                    "text": "...ein Techniker die Stühle nur überprüft, aber nicht repariert."
+                },
+                {
+                    "key": "c",
+                    "text": "...die defekten Stühle repariert oder ausgetauscht werden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Anna Wagner (TechSolutions GmbH).",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Wagner,').",
+            "Beziehen Sie sich klar auf ihre Reklamations-E-Mail bezüglich der Bürostühle 'ErgoFlex Pro' (Bestellung #78910).",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die aufgetretenen Mängel und die Unannehmlichkeiten.",
+            "Bestätigen Sie, dass die Beschwerde ernst genommen wird und intern geprüft wird (gemäß Anweisung der Teamleiterin).",
+            "Schlagen Sie eine konkrete Lösung bzw. einen nächsten Schritt vor: einen Technikerbesuch zur Begutachtung der defekten Stühle vor Ort (gemäß Anweisung der Teamleiterin).",
+            "Erklären Sie, dass nach der Begutachtung entschieden wird, ob Reparatur oder Austausch erfolgt.",
+            "Schlagen Sie Termine für den Technikerbesuch vor oder bitten Sie um Terminvorschläge seitens der Kundin.",
+            "Adressieren Sie (implizit oder explizit) die von der Kundin gewünschte Rückmeldung bis Ende der Woche.",
+            "Versichern Sie der Kundin das Engagement für Qualität und Kundenzufriedenheit.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

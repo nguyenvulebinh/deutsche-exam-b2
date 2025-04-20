@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Sabine Meyer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde Übersetzungstool LinguaPro V3.0 - Vertragsnr. 45678\n\nHallo,\n\ndiese Mail von Herrn Richter (GlobalTech Solutions) habe ich gerade erhalten. GlobalTech ist ein wichtiger Kunde, bitte kümmern Sie sich umgehend darum und antworten Sie Herrn Richter höflich.\n\nNennen Sie ruhig die bekannten Anlaufschwierigkeiten bei der neuen Terminologie-Engine in V3.0 als Grund für die Qualitätsprobleme.\nGanz wichtig: Schreiben Sie ihm, wann wir mit einem Patch rechnen (voraussichtlich Ende nächster Woche?) und wie wir die spezifischen Terminologieprobleme kurzfristig angehen können (z.B. Priorisierung seiner Fachtermini im nächsten Update).\nBieten Sie ihm als Geste des guten Willens einen Rabatt von 15% auf die nächste Jahreslizenz an.\n\nWir können es uns nicht leisten, so einen Kunden zu verlieren.\n\nDanke und viele Grüße\n\nSabine Meyer\nTeamleiterin Kundenbetreuung\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Klaus Richter (GlobalTech Solutions GmbH)\n**An:** Sabine Meyer (LinguaPro Software AG)\n\n**Betreff:** Beschwerde Übersetzungstool LinguaPro V3.0 - Vertragsnr. 45678\n\nSehr geehrte Frau Meyer,\n\nhiermit möchten wir uns über die Leistung Ihres Übersetzungstools LinguaPro, speziell der Version 3.0, beschweren, die wir im Rahmen unseres Vertrags Nr. 45678 nutzen.\n\nSeit dem Update auf Version 3.0 vor etwa vier Wochen stellen wir eine signifikante Verschlechterung der Übersetzungsqualität fest. Insbesondere bei unserer branchenspezifischen Fachterminologie (Bereich Maschinenbau) und bei komplexeren Satzstrukturen liefert die Software häufig ungenaue oder sogar falsche Ergebnisse. Zudem treten vermehrt grammatikalische Fehler und stilistisch unpassende Formulierungen auf.\n\nDiese Mängel führen zu einem erheblichen internen Korrekturaufwand, da unsere Mitarbeiter die Texte manuell nachbearbeiten müssen, bevor wir sie für unsere internationale Kommunikation (z.B. Marketingmaterial, technische Datenblätter) verwenden können. Dies gefährdet nicht nur unsere Projektzeitpläne, sondern potenziell auch unser professionelles Ansehen bei Kunden und Partnern.\n\nWir bitten Sie um eine umgehende Untersuchung und Behebung dieser Fehler. Wir erwarten eine zeitnahe Lösung in Form eines Updates oder Patches sowie eine Stellungnahme zu den Ursachen dieser Qualitätsprobleme. Angesichts der entstandenen Unannehmlichkeiten bitten wir Sie zudem, einen Vorschlag zur Kompensation zu unterbreiten.\n\nWir bitten um Ihre Rückmeldung bis Ende nächster Woche.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nLeiter Marketing\nGlobalTech Solutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich bei LinguaPro Software AG, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Softwarelizenz zu teuer geworden ist."
+                },
+                {
+                    "key": "b",
+                    "text": "die Übersetzungsqualität der Software nach einem Update schlecht ist."
+                },
+                {
+                    "key": "c",
+                    "text": "der Kundenservice telefonisch nicht erreichbar war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem für GlobalTech Solutions ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Mitarbeiter die Übersetzungen manuell nachbearbeiten müssen."
+                },
+                {
+                    "key": "b",
+                    "text": "die Software mit ihrer IT-Infrastruktur nicht kompatibel ist."
+                },
+                {
+                    "key": "c",
+                    "text": "keine Updates für die Software mehr angeboten werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich LinguaPro V3.0 (Vertragsnr. 45678).",
+            "Drücken Sie Ihr Bedauern über die unzureichende Übersetzungsqualität und die entstandenen Unannehmlichkeiten (Korrekturaufwand, Zeitverlust) höflich aus.",
+            "Erklären Sie den Grund für die Probleme (gemäß Anweisung der Teamleiterin: Anlaufschwierigkeiten der neuen Terminologie-Engine in V3.0).",
+            "Informieren Sie über die geplante Lösung (Patch/Update) und nennen Sie einen voraussichtlichen Zeitrahmen (gemäß Anweisung: Ende nächster Woche).",
+            "Erläutern Sie kurzfristige Maßnahmen bezüglich der Fachterminologie (gemäß Anweisung: z.B. Priorisierung seiner Termini).",
+            "Bieten Sie die von der Teamleiterin vorgegebene Kompensation an (15% Rabatt auf die nächste Jahreslizenz).",
+            "Versichern Sie ihm, dass an der Verbesserung der Qualität gearbeitet wird und seine Zufriedenheit wichtig ist.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

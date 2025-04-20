@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleiter",
+        "text": "```markdown\n**Von:** Martin Gruber\n**Erhalten:** heute, 09:15 Uhr\n**An:** Frau Schneider\n\n**Betreff:** FW: Beschwerde: Defekte Kaffeemaschine (Bestellnr. 12345)\n\nHallo Frau Schneider,\n\ndiese Reklamation von TechSolutions GmbH habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich. TechSolutions ist ein wichtiger Neukunde, den wir nicht verärgern wollen.\n\nNennen Sie ruhig mögliche Gründe für den Defekt (vielleicht ein Transportschaden oder ein seltener Produktionsfehler?). Ganz wichtig: Bieten Sie der Kundin entweder eine Reparatur durch unseren Techniker oder einen sofortigen Austausch des Geräts an.\n\nDanke und viele Grüße\n\nMartin Gruber\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Anna Petrova (TechSolutions GmbH)\n**An:** Martin Gruber\n\n**Betreff:** Beschwerde: Defekte Kaffeemaschine (Bestellnr. 12345)\n\nSehr geehrter Herr Gruber,\n\nhiermit möchte ich die am letzten Montag, 15.07., gelieferte Kaffeemaschine 'AromaPlus 5000' (Bestellnummer 12345) reklamieren.\n\nWir haben diese Maschine für unsere neue Mitarbeiterküche bestellt. Leider mussten wir nach dem Auspacken und Anschließen feststellen, dass das Gerät nicht ordnungsgemäß funktioniert. Es macht laute, ungewöhnliche Geräusche während des Betriebs und das Wasser wird nur lauwarm, sodass kein genießbarer Kaffee zubereitet werden kann. Dies ist besonders ärgerlich, da die Kaffeemaschine in unserer viel genutzten Mitarbeiterküche dringend benötigt wird.\n\nWir bitten Sie um eine schnelle Lösung dieses Problems. Bitte organisieren Sie entweder eine umgehende Reparatur oder einen Austausch des defekten Geräts. Wir benötigen zeitnah eine funktionierende Kaffeemaschine für unsere Mitarbeiter.\n\nBitte teilen Sie uns bis Ende dieser Woche mit, wie Sie weiter verfahren werden.\n\nMit freundlichen Grüßen\n\nAnna Petrova\nOffice Management\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Petrova beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die Lieferung der Kaffeemaschine zu spät war."
+                },
+                {
+                    "key": "b",
+                    "text": "...die neue Kaffeemaschine nicht richtig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "...das falsche Modell der Kaffeemaschine geliefert wurde."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...das Problem mit der Maschine schnell behoben wird."
+                },
+                {
+                    "key": "b",
+                    "text": "...sie einen Preisnachlass für das Gerät erhält."
+                },
+                {
+                    "key": "c",
+                    "text": "...jemand ihr bei der Installation der Maschine hilft."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Anna Petrova.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Petrova,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail bezüglich der Kaffeemaschine 'AromaPlus 5000' (Bestellnr. 12345).",
+            "Drücken Sie Ihr Bedauern über den Defekt und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Zeigen Sie Verständnis für die Situation in der Mitarbeiterküche.",
+            "Nennen Sie kurz mögliche Gründe für den Defekt (gemäß Anweisung der Teamleitung, z.B. Transportschaden, Produktionsfehler).",
+            "Bieten Sie die vom Teamleiter vorgegebenen Lösungen an: Reparatur durch einen Techniker ODER sofortiger Austausch des Geräts.",
+            "Erklären Sie kurz die nächsten Schritte für beide Optionen (z.B. Terminvereinbarung für Techniker, Organisation der Rücksendung/Neulieferung).",
+            "Gehen Sie auf die Bitte um Rückmeldung bis Ende der Woche ein und sichern Sie eine schnelle Abwicklung zu.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

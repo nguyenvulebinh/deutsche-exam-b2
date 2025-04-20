@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Keller\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Fischer\n\n**Betreff:** FW: Reklamation Lieferung und Montage Bürostühle 78-2345\n\nGuten Morgen Herr Fischer,\n\nunten stehende Mail von der Firma KreativBau GmbH habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nNennen Sie ruhig mögliche Gründe, warum es zu diesen Problemen kam (z.B. Schwierigkeiten mit unserem externen Montageteam in der aktuellen Hochsaison). Ganz wichtig: Schreiben Sie ihm, wie wir das Problem schnellstmöglich lösen werden – bieten Sie unbedingt den Austausch der beschädigten Stühle UND eine fachgerechte Nachbesserung der Montage an!\nErklären Sie auch kurz, wie wir die Qualität in Zukunft besser kontrollieren werden.\n\nKreativBau GmbH ist ein wichtiger Neukunde, den wir auf keinen Fall verlieren wollen.\n\nVielen Dank und Grüße\n\nSabine Keller\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Jonas Beck (KreativBau GmbH)\n**An:** Stefan Meier (Bürobedarf Schneider GmbH)\n\n**Betreff:** Reklamation Lieferung und Montage Bürostühle 78-2345\n\nSehr geehrter Herr Meier,\n\nhiermit reklamiere ich die Lieferung und Montage von 15 Bürostühlen des Modells „ErgoFlex Pro“ (Bestellnummer 78-2345), die gestern, am 15.07., in unseren Räumlichkeiten erfolgt ist.\n\nWir haben uns für Ihr Unternehmen entschieden, da Sie für Qualität und Zuverlässigkeit bekannt sind. Umso enttäuschter waren wir, als wir heute Morgen beim Auspacken und Überprüfen der Stühle feststellen mussten, dass 3 der 15 gelieferten Stühle deutliche Mängel aufweisen (tiefe Kratzer am Fußkreuz bei zwei Stühlen, Risse im Sitzpolster bei einem Stuhl).\n\nZudem wurde die Montage durch Ihr Team leider nicht fachgerecht durchgeführt. Mehrere Stühle wackeln erheblich und bei einem Stuhl ist eine Armlehne lose und lässt sich nicht fixieren. Diese Stühle können so nicht von unseren Mitarbeitern genutzt werden, was die Einrichtung der neuen Arbeitsplätze verzögert.\n\nWir erwarten den umgehenden Austausch der 3 beschädigten Stühle sowie eine fachgerechte Nachbesserung der Montagefehler bei den anderen betroffenen Stühlen. Bitte teilen Sie uns bis Ende dieser Woche (Freitag, 19.07.) mit, wie Sie eine zeitnahe Lösung sicherstellen werden.\n\nMit freundlichen Grüßen\n\nJonas Beck\nBüroleitung\nKreativBau GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Beck von KreativBau GmbH beschwert sich bei Bürobedarf Schneider, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die bestellten Bürostühle nicht rechtzeitig geliefert wurden."
+                },
+                {
+                    "key": "b",
+                    "text": "ein Teil der gelieferten Stühle beschädigt ist und die Montage Mängel aufweist."
+                },
+                {
+                    "key": "c",
+                    "text": "die Mitarbeiter von KreativBau GmbH die Stühle unbequem finden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde fordert von Bürobedarf Schneider, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die defekten Stühle ausgetauscht und die Montagefehler korrigiert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "die gesamte Lieferung zurückgenommen und der Kaufpreis erstattet wird."
+                },
+                {
+                    "key": "c",
+                    "text": "ein Rabatt für die Unannehmlichkeiten gewährt wird."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Beck.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Beck,').",
+            "Beziehen Sie sich klar auf seine Reklamations-E-Mail vom [Datum] bezüglich der Bürostühle (Bestellnr. 78-2345).",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die beschädigten Stühle und die mangelhafte Montage.",
+            "Erklären Sie kurz den Grund für die Probleme (gemäß Teamleiter-Anweisung, z.B. Probleme mit externem Montageteam/Hochsaison).",
+            "Bieten Sie eine konkrete Lösung an: Austausch der 3 beschädigten Stühle UND Entsendung eines Technikers zur Nachbesserung/Reparatur der Montagefehler (wackelnde Stühle, lose Armlehne).",
+            "Schlagen Sie vor, kurzfristig einen Termin für Austausch und Nachbesserung zu vereinbaren.",
+            "Gehen Sie auf seine Frist ein (Antwort bis Ende der Woche) und bestätigen Sie das weitere Vorgehen.",
+            "Erklären Sie kurz Maßnahmen zur zukünftigen Qualitätssicherung (gemäß Teamleiter-Anweisung).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

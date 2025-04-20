@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Martin Voss\n**Erhalten:** heute, 09:15 Uhr\n**An:** Sandra König\n\n**Betreff:** FW: Dringend: Probleme nach Netzwerk-Upgrade bei TechSolutions GmbH\n\nHallo Sandra,\n\ndie unten stehende Mail von Frau Berger (TechSolutions GmbH) habe ich gerade erhalten. Bitte kümmere dich darum und antworte Frau Berger höflich.\n\nDas klingt nicht gut, besonders die WLAN-Probleme müssen wir schnell lösen. Bitte prüfe umgehend die WLAN-Konfiguration für die genannten Bereiche bei TechSolutions. Schlage Frau Berger einen konkreten Plan zur Fehlerbehebung vor, idealerweise mit einem Terminvorschlag für einen Vor-Ort-Einsatz diese Woche.\n\nKläre bitte auch den Status der Dokumentation und schlage einen Termin für die Übergabe vor.\n\nTechSolutions ist ein wichtiger Kunde, wir brauchen hier eine schnelle und professionelle Lösung.\n\nDanke und viele Grüße\n\nMartin Voss\nProjektleiter IT-Services\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Lena Berger\n**An:** Martin Voss\n\n**Betreff:** Probleme nach Netzwerk-Upgrade (Projekt 'Netzwerk-Modernisierung')\n\nSehr geehrter Herr Voss,\n\nich schreibe Ihnen bezüglich des kürzlich durchgeführten Netzwerk-Upgrades in unseren Büroräumen (Projekt 'Netzwerk-Modernisierung'), dessen Arbeiten Sie letzte Woche am [Datum, z.B. 15.11.] abgeschlossen haben.\n\nGrundsätzlich scheint das neue Netzwerk zu funktionieren, jedoch haben wir seitdem massive Probleme mit der WLAN-Verbindung in bestimmten Bereichen. Insbesondere im Konferenzraum 'Alpenblick' sowie in unserer Teeküche ist die Verbindung extrem unzuverlässig oder bricht ständig ab. Dies führt zu erheblichen Störungen bei Besprechungen und hindert unsere Mitarbeiter daran, in diesen Zonen effektiv zu arbeiten.\n\nDarüber hinaus haben wir bisher weder die vereinbarte Netzwerkdokumentation erhalten noch einen Termin für die technische Übergabe und Einweisung bekommen, was eigentlich direkt nach Abschluss der Arbeiten erfolgen sollte.\n\nWir bitten Sie um zeitnahe Untersuchung und Behebung der WLAN-Probleme. Ebenso erwarten wir die baldige Zusendung der Dokumentation und eine Terminfindung für die Übergabe.\nBitte geben Sie uns innerhalb der nächsten zwei Arbeitstage eine Rückmeldung, wie Sie hier weiter vorgehen möchten.\n\nMit freundlichen Grüßen\n\nLena Berger\nBüroleitung\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Berger schreibt an Herrn Voss, weil",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "das Netzwerk-Upgrade noch nicht abgeschlossen ist."
+                },
+                {
+                    "key": "b",
+                    "text": "es nach dem Netzwerk-Upgrade Probleme mit dem WLAN und der Projektabwicklung gibt."
+                },
+                {
+                    "key": "c",
+                    "text": "sie mit den Kosten für das Netzwerk-Upgrade unzufrieden ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem für die TechSolutions GmbH ist, dass",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Mitarbeiter keine E-Mails mehr senden können."
+                },
+                {
+                    "key": "b",
+                    "text": "der versprochene Übergabe-Termin bereits stattgefunden hat."
+                },
+                {
+                    "key": "c",
+                    "text": "Besprechungen durch das unzuverlässige WLAN gestört werden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Berger,').",
+            "Fügen Sie eine passende Betreffzeile hinzu (z.B. 'Ihre Meldung vom [Datum]: Netzwerk-Upgrade TechSolutions GmbH').",
+            "Beziehen Sie sich klar auf ihre E-Mail bezüglich der Probleme nach dem Netzwerk-Upgrade.",
+            "Entschuldigen Sie sich höflich und aufrichtig für die WLAN-Probleme und die Verzögerung bei Dokumentation/Übergabe.",
+            "Zeigen Sie Verständnis für die dadurch verursachten Störungen.",
+            "Bestätigen Sie, dass die WLAN-Probleme untersucht werden (gemäß Anweisung der Teamleitung).",
+            "Schlagen Sie einen konkreten Plan zur Fehlerbehebung vor, einschließlich eines Terminvorschlags für einen Technikerbesuch vor Ort in dieser Woche (gemäß Anweisung der Teamleitung).",
+            "Informieren Sie über den Status der Netzwerkdokumentation (z.B. 'in finaler Prüfung').",
+            "Schlagen Sie einen konkreten Termin oder Zeitrahmen für die Übergabe und Einweisung vor (gemäß Anweisung der Teamleitung).",
+            "Versichern Sie Frau Berger, dass die Lösung der Probleme Priorität hat.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

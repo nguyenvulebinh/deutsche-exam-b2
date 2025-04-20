@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Matthias Vogel\n**Erhalten:** heute, 09:15 Uhr\n**An:** Frau Hauser\n\n**Betreff:** FW: Beschwerde Multifunktionsgerät Modell XZ-3000\n\nGuten Morgen Frau Hauser,\n\nanbei die E-Mail von Frau Berger (Berger & Partner Steuerberatung), die uns gestern Abend erreicht hat.\n\nBitte kümmern Sie sich umgehend darum und antworten Sie der Kundin höflich. Steuerberatungen sind wichtige Kunden, die wir nicht durch solche Anfangsprobleme verärgern dürfen.\n\nSchlagen Sie ihr als ersten Schritt vor, dass unser Techniker sich das Gerät vor Ort ansieht, um die Ursache der Probleme genau zu klären. Das sollte möglichst schnell geschehen.\n\nDanke und viele Grüße\n\nMatthias Vogel\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 18:30 Uhr\n**Von:** Katrin Berger\n**An:** Matthias Vogel\n\n**Betreff:** Beschwerde Multifunktionsgerät Modell XZ-3000\n\nSehr geehrter Herr Vogel,\n\nhiermit möchte ich das Multifunktionsgerät Modell XZ-3000 beanstanden, das letzte Woche, am 15. Mai, bei uns (Berger & Partner Steuerberatung) geliefert und installiert wurde.\n\nWir hatten uns für Ihr Unternehmen entschieden, da uns Zuverlässigkeit wichtig ist. Leider erfüllt das neue Gerät die Erwartungen bisher überhaupt nicht. Die Scanfunktion ist extrem langsam, was unsere Arbeitsabläufe erheblich beeinträchtigt. Zudem kommt es beim Drucken häufig zu Papierstaus. Darüber hinaus verliert das Gerät sporadisch die Verbindung zu unserem Netzwerk, was jeweils einen Neustart erfordert.\n\nDiese Mängel sind für uns nicht akzeptabel und führen zu erheblichem Zeitverlust. Wichtige Dokumente, beispielsweise für das Finanzamt, können so nicht fristgerecht bearbeitet werden.\n\nWir bitten Sie um eine umgehende Lösung. Entweder muss das Gerät schnellstmöglich fachgerecht repariert oder ausgetauscht werden. Wir erwarten Ihre Rückmeldung mit einem Lösungsvorschlag bis Ende dieser Woche.\n\nMit freundlichen Grüßen\n\nKatrin Berger\nBerger & Partner Steuerberatung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Berger ist unzufrieden, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Scanner des Geräts nicht funktioniert."
+                },
+                {
+                    "key": "b",
+                    "text": "das neue Multifunktionsgerät mehrere Mängel aufweist."
+                },
+                {
+                    "key": "c",
+                    "text": "die Installation des Geräts Probleme bereitet hat."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin fordert...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine schnelle Behebung des Problems."
+                },
+                {
+                    "key": "b",
+                    "text": "dass ihre Mitarbeiter effizienter arbeiten können."
+                },
+                {
+                    "key": "c",
+                    "text": "ausschließlich einen Austausch des Geräts."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Katrin Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Berger,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail bezüglich des Multifunktionsgeräts XZ-3000 vom 15. Mai.",
+            "Drücken Sie Ihr Bedauern über die aufgetretenen Mängel (langsames Scannen, Papierstaus, Netzwerkprobleme) und die entstandenen Unannehmlichkeiten deutlich aus.",
+            "Entschuldigen Sie sich höflich für die Probleme.",
+            "Setzen Sie die Anweisung der Teamleitung um: Schlagen Sie einen kurzfristigen Termin für einen Technikerbesuch vor Ort vor.",
+            "Erklären Sie, dass der Techniker das Gerät prüfen wird, um die Ursache festzustellen.",
+            "Machen Sie deutlich, dass der Technikerbesuch der erste Schritt zur Lösung ist (Reparatur oder ggf. Austausch).",
+            "Reagieren Sie auf die gewünschte schnelle Lösung und die Frist (z.B. zusichern, dass sich der Techniker umgehend zur Terminfindung meldet).",
+            "Verwenden Sie durchgehend eine höfliche, formelle, serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

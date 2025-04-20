@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Klaus Becker\n**Erhalten:** heute, 09:15 Uhr\n**An:** Anna Schneider\n\n**Betreff:** FW: Reklamation und Beschwerde Lieferung Bürodrucker (Bestellnr. 789123)\n\nGuten Morgen Frau Schneider,\n\ndie unten stehende E-Mail von Frau Vogel (TechSolutions GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nKlären Sie bitte intern, was die Ursache für die Druckerprobleme sein könnte und warum der Telefonsupport nicht hilfreich war. Nennen Sie der Kundin ruhig die Gründe dafür.\n\nGanz wichtig: Schlagen Sie ihr eine konkrete Lösung vor, wie wir das Problem beheben – z.B. einen Technikereinsatz zur Prüfung und ggf. Reparatur oder einen direkten Austausch der Geräte.\n\nTechSolutions ist ein wichtiger Kunde, den wir nicht verlieren möchten.\n\nDanke und Gruß\n\nKlaus Becker\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Martina Vogel\n**An:** Klaus Becker\n\n**Betreff:** Reklamation und Beschwerde Lieferung Bürodrucker (Bestellnr. 789123)\n\nSehr geehrter Herr Becker,\n\nwir haben letzte Woche unsere Bestellung (Nr. 789123) mit fünf neuen Bürodruckern des Modells 'LaserProfi X5' erhalten. Wir sind seit mehreren Jahren Kunde bei Ihnen und waren bisher meist zufrieden.\n\nLeider müssen wir nun erhebliche Mängel reklamieren. Drei der fünf gelieferten Drucker verursachen ständig Papierstaus, was unsere Arbeitsprozesse erheblich stört. Ein weiteres Gerät druckt zudem mit deutlichen Streifen auf jeder Seite, die Qualität ist inakzeptabel.\n\nAls ich heute Vormittag versuchte, das Problem über Ihre Service-Hotline zu klären, war der zuständige Techniker wenig hilfsbereit und schien das Problem nicht ernst zu nehmen. Eine Lösung konnte er nicht anbieten.\n\nDiese Situation führt zu erheblichem Zeitaufwand und Materialverschwendung in unserem Büro. Wir erwarten eine zeitnahe Lösung. Bitte teilen Sie uns bis Ende dieser Woche (Freitag) mit, ob Sie eine umgehende Reparatur vor Ort oder einen Austausch der defekten Geräte veranlassen werden.\n\nMit freundlichen Grüßen\n\nMartina Vogel\nOffice Managerin\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Vogel beschwert sich hauptsächlich darüber, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Drucker zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "die gelieferten Drucker nicht einwandfrei funktionieren."
+                },
+                {
+                    "key": "c",
+                    "text": "der Telefonsupport generell abgeschafft wurde."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Neben den technischen Problemen kritisiert Frau Vogel auch,...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die mangelnde Hilfsbereitschaft des Kundendienstes."
+                },
+                {
+                    "key": "b",
+                    "text": "dass die falschen Druckermodelle geliefert wurden."
+                },
+                {
+                    "key": "c",
+                    "text": "dass keine Bedienungsanleitungen mitgeliefert wurden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Vogel (TechSolutions GmbH).",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrte Frau Vogel,').",
+            "Beziehen Sie sich klar auf ihre Beschwerde-E-Mail bezüglich der Drucker (Bestellnr. 789123).",
+            "Entschuldigen Sie sich ausdrücklich und höflich für die technischen Probleme mit den Druckern UND für die unbefriedigende Erfahrung mit dem Telefonsupport.",
+            "Erklären Sie (basierend auf interner Klärung) kurz und nachvollziehbar die möglichen Gründe für die Druckerdefekte (z.B. Transportschaden, Chargenfehler).",
+            "Erklären Sie (basierend auf interner Klärung) kurz den Grund für den mangelhaften Telefonsupport (z.B. neues Personal, Missverständnis).",
+            "Schlagen Sie eine konkrete Lösung vor (gemäß Anweisung des Teamleiters): Entweder einen zeitnahen Termin für einen Technikerbesuch zur Reparatur oder den direkten Austausch der defekten Geräte.",
+            "Machen Sie einen Vorschlag für das weitere Vorgehen (z.B. zur Terminvereinbarung Kontakt aufnehmen).",
+            "Versichern Sie der Kundin, dass Maßnahmen ergriffen werden, um die Qualität zu sichern und den Service zu verbessern.",
+            "Gehen Sie auf die von ihr genannte Frist (Antwort bis Freitag) ein.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

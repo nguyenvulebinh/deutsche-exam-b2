@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Hanna Vogel\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde über Lieferung Sicherheitsschuhe Modell \"Triton S3\" (Bestellnr. 789123)\n\nGuten Morgen,\n\nunten stehende Mail habe ich gerade vom Kunden Bau & Logistik GmbH erhalten. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nNennen Sie ruhig einen möglichen Grund für die Mängel (z.B. ein Problem bei einer bestimmten Produktionscharge). Schreiben Sie ihm, dass wir die defekten Schuhe selbstverständlich umgehend austauschen werden. Erklären Sie bitte auch kurz, welche Maßnahmen wir zur Qualitätssicherung ergreifen, um so etwas künftig zu vermeiden.\n\nDie Firma Bau & Logistik GmbH ist ein langjähriger Kunde, den wir nicht verlieren möchten. Außerdem ist das Thema Arbeitssicherheit sehr wichtig.\n\nDanke und Grüße\n\nHanna Vogel\nTeamleiterin Kundenservice\nArbeitsschutz Pro GmbH\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Klaus Richter\n**An:** Hanna Vogel\n\n**Betreff:** Beschwerde über Lieferung Sicherheitsschuhe Modell \"Triton S3\" (Bestellnr. 789123)\n\nSehr geehrte Frau Vogel,\n\nvor vier Wochen haben wir für unsere Lagermitarbeiter eine Lieferung Sicherheitsschuhe des Modells \"Triton S3\" (Bestellnr. 789123) von Ihnen erhalten. Bisher waren wir mit Ihren Produkten grundsätzlich zufrieden.\n\nLeider müssen wir nun jedoch erhebliche Mängel an mehreren Paaren feststellen. In den letzten zwei Wochen haben sich bereits bei mindestens acht Paar die Sohlen teilweise gelöst. Zudem reißen bei einigen Schuhen die Seitennähte auf. Fotos der Defekte können wir Ihnen bei Bedarf zusenden.\n\nDies stellt ein erhebliches Sicherheitsrisiko für unsere Mitarbeiter dar, da die Schuhe unter diesen Umständen nicht mehr den erforderlichen Schutz bieten und nicht verwendet werden können. Wir sind auf zuverlässige Arbeitsausrüstung angewiesen.\n\nWir erwarten daher einen umgehenden Austausch der mindestens acht defekten Paare. Darüber hinaus bitten wir um eine Erklärung, wie es zu solchen Qualitätsmängeln kommen konnte und welche Maßnahmen Sie zur Qualitätssicherung ergreifen.\n\nWir erwarten Ihre Rückmeldung mit einem Lösungsvorschlag bis Ende dieser Woche.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nLogistikleiter\nBau & Logistik GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Schuhe zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "die gelieferten Sicherheitsschuhe Mängel aufweisen."
+                },
+                {
+                    "key": "c",
+                    "text": "das falsche Schuhmodell geliefert wurde."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem mit den Schuhen ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sie ein Sicherheitsrisiko darstellen."
+                },
+                {
+                    "key": "b",
+                    "text": "sie von den Mitarbeitern nicht gemocht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "sie nach vier Wochen alle unbrauchbar sind."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich klar auf seine Beschwerde-E-Mail bezüglich der Sicherheitsschuhe 'Triton S3' (Bestellnr. 789123).",
+            "Bestätigen Sie den Eingang seiner Nachricht und entschuldigen Sie sich höflich und aufrichtig für die Mängel und die entstandenen Unannehmlichkeiten/Sicherheitsbedenken.",
+            "Zeigen Sie Verständnis für seine Situation.",
+            "Nennen Sie (ruhig) einen möglichen Grund für die Mängel, wie von der Teamleitung vorgegeben (z.B. Verdacht auf ein Problem bei einer Produktionscharge).",
+            "Bestätigen Sie den sofortigen, kostenlosen Austausch der defekten Schuhe (mindestens 8 Paar), wie von der Teamleitung vorgegeben.",
+            "Erläutern Sie kurz das Vorgehen für den Austausch (z.B. wann die neue Lieferung erfolgt, wie die alten Schuhe zurückgesendet werden).",
+            "Erklären Sie kurz die Maßnahmen zur Qualitätssicherung/zukünftigen Vermeidung solcher Probleme, wie von der Teamleitung vorgegeben.",
+            "Reagieren Sie auf die vom Kunden gesetzte Frist (Antwort bis Ende der Woche) durch Ihre zeitnahe Antwort und Lösung.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, professionelle und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

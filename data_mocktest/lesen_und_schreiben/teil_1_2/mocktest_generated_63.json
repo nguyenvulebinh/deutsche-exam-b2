@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Meier\n**Erhalten:** heute, 09:15 Uhr\n**An:** Anna Schmidt\n\n**Betreff:** FW: Reklamation Lieferung Bürostühle (Bestellnr. BWE-12345)\n\nHallo Anna,\n\nanbei die Mail von Herrn Gruber (Gruber & Partner Steuerberatung), die uns gerade erreicht hat. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nDas ist ein wichtiger Neukunde, den wir nicht gleich wieder verärgern wollen. Bieten Sie ihm bitte den unkomplizierten Austausch der defekten Stühle an. Klären Sie vorher kurz die Verfügbarkeit im Lager.\n\nGanz wichtig: Erklären Sie ihm auch kurz, dass wir bei der Ersatzlieferung auf eine besonders sorgfältige Qualitätskontrolle achten werden, damit so etwas nicht wieder vorkommt.\n\nDanke und viele Grüße\n\nStefan Meier\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Martin Gruber\n**An:** kundenservice@bueromoebel-weber.de\n\n**Betreff:** Reklamation Lieferung Bürostühle (Bestellnr. BWE-12345)\n\nSehr geehrte Damen und Herren,\n\nich schreibe Ihnen bezüglich unserer Bestellung BWE-12345 über 15 ergonomische Bürostühle des Modells „ErgoFlex“, die letzte Woche am [Datum einfügen, z.B. 15. Mai] geliefert wurden.\n\nWir haben uns für Ihr Unternehmen aufgrund Ihres guten Rufs für Qualität entschieden. Bedauerlicherweise mussten wir jedoch innerhalb weniger Tage nach der Lieferung bei mehreren Stühlen erhebliche Mängel feststellen. Bei mindestens fünf Stühlen funktioniert die Höhenverstellung nur sehr schwergängig oder gar nicht. Drei weitere Stühle sind instabil und wackeln bedenklich, sobald man sich darauf setzt. Zudem weisen einige der Stühle leichte, aber sichtbare Kratzer an den Armlehnen auf, was bei neuer Ware nicht akzeptabel ist.\n\nDiese Mängel führen zu erheblichem Unmut bei unseren Mitarbeitern. Einige klagen bereits über Rückenschmerzen und können sich schlechter konzentrieren. Das ist für uns als Unternehmen nicht tragbar.\n\nWir bitten Sie daher um eine umgehende Lösung. Wir erwarten eine Reparatur oder, wahrscheinlicher und bevorzugt, einen Austausch der defekten Stühle. Bitte teilen Sie uns bis spätestens Ende dieser Woche mit, wie Sie das Problem beheben werden.\n\nMit freundlichen Grüßen\n\nMartin Gruber\nGruber & Partner Steuerberatung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Gruber beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Kratzer an den Stühlen."
+                },
+                {
+                    "key": "b",
+                    "text": "die mangelhafte Qualität der gelieferten Bürostühle."
+                },
+                {
+                    "key": "c",
+                    "text": "eine verspätete Lieferung der Ware."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde fordert...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine Reparatur oder den Austausch der Stühle."
+                },
+                {
+                    "key": "b",
+                    "text": "einen sofortigen Preisnachlass für alle Stühle."
+                },
+                {
+                    "key": "c",
+                    "text": "dass die Stühle sofort abgeholt werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Gruber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Gruber,') und Grußformel.",
+            "Fügen Sie eine passende Betreffzeile hinzu (z.B. 'Ihre Reklamation Bürostühle ErgoFlex - Bestellnr. BWE-12345').",
+            "Beziehen Sie sich klar auf seine Reklamations-E-Mail vom [Datum] bezüglich der Bürostühle.",
+            "Entschuldigen Sie sich aufrichtig für die festgestellten Mängel und die dadurch entstandenen Unannehmlichkeiten (z.B. für die Mitarbeiter).",
+            "Zeigen Sie Verständnis für seine Verärgerung.",
+            "Bestätigen Sie die genannten Probleme (Höhenverstellung, Instabilität, Kratzer).",
+            "Bieten Sie als Lösung den Austausch der defekten Bürostühle an (gemäß Anweisung der Teamleitung).",
+            "Erklären Sie kurz das weitere Vorgehen für den Austausch (z.B. Kontaktaufnahme zur Terminabstimmung für Lieferung/Abholung).",
+            "Erklären Sie, dass die Ersatzlieferung einer besonderen Qualitätskontrolle unterzogen wird, um erneute Probleme zu vermeiden (gemäß Anweisung der Teamleitung).",
+            "Reagieren Sie auf die Bitte um eine schnelle Rückmeldung (implizit durch zeitnahe Antwort und konkreten Lösungsvorschlag).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache (B2 Niveau)."
+        ]
+    }
+}

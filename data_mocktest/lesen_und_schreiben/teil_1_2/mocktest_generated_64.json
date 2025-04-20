@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** Lars Vogel\n\n**Betreff:** FW: Beschwerde Multifunktionsdrucker - Firma Meier & Partner\n\nHallo Herr Vogel,\n\nanbei die Beschwerde von Herrn Berger (Firma Meier & Partner), die ich gerade erhalten habe. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nHerr Berger ist ein wichtiger Kunde, den wir seit Jahren betreuen, und ich möchte ihn ungern verlieren.\n\nNennen Sie ruhig den Grund für die wiederholten Ausfälle (z.B. ein wiederkehrender Fehler bei einer bestimmten Baugruppe, dessen Ursache erst jetzt klar identifiziert wurde).\nSchlagen Sie eine konkrete Lösung vor, wie wir die Zuverlässigkeit des Geräts sicherstellen können (z.B. Austausch der betroffenen Baugruppe, zusätzliche Testläufe).\nBieten Sie ihm als Geste des Entgegenkommens auch eine Gutschrift für die letzte Wartungspauschale an.\n\nDanke und viele Grüße\n\nSabine Richter\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Klaus Berger\n**An:** Sabine Richter\n\n**Betreff:** Beschwerde: Wiederholte Ausfälle Multifunktionsdrucker (Vertragsnr. 78-12345)\n\nSehr geehrte Frau Richter,\n\nals langjähriger Kunde Ihrer Firma (Meier & Partner GmbH) wende ich mich heute mit einem dringenden Anliegen an Sie.\n\nDas von Ihnen geleaste Multifunktionsgerät (Modell XYZ-Pro) in unserer Hauptabteilung ist in den letzten Wochen wiederholt ausgefallen. Allein in diesem Monat ist dies bereits der dritte Totalausfall. Dies führt zu erheblichen Störungen unserer Arbeitsabläufe, da wichtige Dokumente nicht zeitnah gedruckt, gescannt oder kopiert werden können. Beim letzten Vorfall mussten wir zudem über 24 Stunden auf einen Techniker warten, was die Situation weiter verschärft hat.\n\nDiese häufigen Defekte und die damit verbundenen Ausfallzeiten sind für uns nicht länger tragbar und äußerst ärgerlich. Wir sind auf eine zuverlässige Büroinfrastruktur angewiesen.\n\nWir erwarten eine umgehende und vor allem dauerhafte Behebung des Problems. Bitte teilen Sie uns zeitnah mit, welche Maßnahmen Sie ergreifen werden, um die Zuverlässigkeit des Geräts zukünftig sicherzustellen. Andernfalls sehen wir uns gezwungen, den bestehenden Wartungsvertrag zu überdenken.\n\nMit freundlichen Grüßen\n\nKlaus Berger\nBüroleitung\nFirma Meier & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Berger beschwert sich vor allem über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die hohen Kosten des Wartungsvertrags."
+                },
+                {
+                    "key": "b",
+                    "text": "...die häufigen technischen Probleme mit dem Drucker."
+                },
+                {
+                    "key": "c",
+                    "text": "...die lange Wartezeit auf den Techniker."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Firma Meier & Partner erwartet von Bürotechnik Schnell GmbH...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...einen sofortigen Austausch des Geräts."
+                },
+                {
+                    "key": "b",
+                    "text": "...eine baldige Kündigung des Wartungsvertrags."
+                },
+                {
+                    "key": "c",
+                    "text": "...eine dauerhafte Lösung für das Druckerproblem."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Berger,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich des Multifunktionsdruckers (Modell XYZ-Pro / Vertragsnr. 78-12345).",
+            "Zeigen Sie Verständnis für seine Verärgerung und entschuldigen Sie sich höflich für die wiederholten Ausfälle und die entstandenen Unannehmlichkeiten (inkl. der Wartezeit).",
+            "Erklären Sie (ruhig) den Grund für die wiederholten Ausfälle (gemäß Anweisung: z.B. komplexer Fehler in einer Baugruppe, der nun identifiziert wurde).",
+            "Schlagen Sie eine konkrete Lösung zur Sicherstellung der Zuverlässigkeit vor (gemäß Anweisung: z.B. Austausch der betroffenen Baugruppe durch einen Spezialtechniker, umfassende Tests).",
+            "Bieten Sie die von der Teamleitung genannte Gutschrift für die letzte Wartungspauschale als Entgegenkommen an.",
+            "Versichern Sie ihm, dass Maßnahmen ergriffen werden, um die Servicequalität (auch Reaktionszeit) zu verbessern.",
+            "Betonen Sie die Wichtigkeit seiner Firma als Kunde.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

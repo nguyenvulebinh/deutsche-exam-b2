@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Keller\n**Erhalten:** heute, 09:15 Uhr\n**An:** Hanna Meyer\n\n**Betreff:** FW: Dringende Beschwerde - Neuer Drucker Modell XYZ\n\nHallo Frau Meyer,\n\ndie unten stehende E-Mail von Herrn Wagner (Logistik Solutions GmbH) habe ich soeben erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie dem Kunden sehr höflich und verständnisvoll.\n\nBitte entschuldigen Sie sich ausdrücklich für die technischen Probleme mit dem neuen Gerät und auch für die schlechte Erreichbarkeit unseres Supports. Erklären Sie ihm kurz, dass wir aktuell wegen eines Software-Updates ein sehr hohes Anrufaufkommen hatten, aber bereits Maßnahmen zur Verbesserung ergriffen haben.\n\nGanz wichtig: Organisieren Sie sofort einen priorisierten Service-Einsatz durch einen erfahrenen Techniker und teilen Sie ihm dies in Ihrer Antwort mit. Gehen Sie auch kurz auf seine Frage bezüglich eines Austauschs ein – der Techniker soll das vor Ort prüfen.\n\nLogistik Solutions ist ein wichtiger Kunde, wir müssen hier schnell eine Lösung finden.\n\nVielen Dank und beste Grüße\n\nSabine Keller\nLeitung Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 16:30 Uhr\n**Von:** Tobias Wagner\n**An:** Hanna Meyer\n\n**Betreff:** Dringende Beschwerde - Neuer Drucker Modell XYZ\n\nSehr geehrte Frau Meyer,\n\nwir haben vor drei Wochen den neuen Drucker/Kopierer Modell XYZ von Ihnen erhalten und installieren lassen. Leider müssen wir uns heute dringend beschweren, da das Gerät von Anfang an nicht zuverlässig funktioniert.\n\nMindestens einmal täglich kommt es zu Papierstaus oder unerklärlichen Fehlermeldungen, die sich auch durch Befolgen der Anleitung nicht beheben lassen. Dies hat bereits mehrfach dazu geführt, dass wichtige Dokumente nicht rechtzeitig gedruckt werden konnten und unsere Arbeitsabläufe empfindlich gestört wurden.\n\nZudem waren unsere Versuche, Ihre technische Support-Hotline zu erreichen, äußerst frustrierend. Gestern mussten wir über 20 Minuten in der Warteschleife verbringen, nur um dann eine wenig hilfreiche Standardantwort zu erhalten. Das ist bei einem neuen und nicht gerade günstigen Profigerät inakzeptabel.\n\nWir erwarten, dass Sie umgehend einen Termin mit einem kompetenten Servicetechniker vereinbaren, der das Problem behebt. Sollten die Störungen andauern, müssen wir über einen Austausch des Geräts sprechen. Bitte verbessern Sie auch die Erreichbarkeit Ihres Supports.\n\nWir bitten um eine schnelle Rückmeldung und Lösung.\n\nMit freundlichen Grüßen\nTobias Wagner\nBüroleitung\nLogistik Solutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Wagner beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung des Druckers zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "der neue Drucker ständig Probleme verursacht und der Support schlecht erreichbar war."
+                },
+                {
+                    "key": "c",
+                    "text": "die Druckqualität des Geräts nicht zufriedenstellend ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme mit dem Drucker führten dazu, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Arbeitsabläufe im Büro gestört wurden."
+                },
+                {
+                    "key": "b",
+                    "text": "Herr Wagner das Gerät selbst reparieren musste."
+                },
+                {
+                    "key": "c",
+                    "text": "die Firma den Supportvertrag gekündigt hat."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Wagner.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Wagner,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich des Druckers Modell XYZ.",
+            "Drücken Sie Verständnis aus und entschuldigen Sie sich höflich und ausdrücklich für die technischen Probleme UND die schlechte Erreichbarkeit des Supports.",
+            "Erklären Sie kurz den Grund für die Support-Probleme (z.B. hohes Anrufaufkommen) und erwähnen Sie Verbesserungsmaßnahmen (gemäß Anweisung der Teamleiterin).",
+            "Informieren Sie ihn, dass ein priorisierter Service-Termin mit einem erfahrenen Techniker umgehend arrangiert wird/wurde (gemäß Anweisung der Teamleiterin).",
+            "Geben Sie eine konkrete Information zum nächsten Schritt (z.B. 'Der Techniker wird Sie heute noch zur Terminvereinbarung kontaktieren').",
+            "Gehen Sie auf die Frage des Austauschs ein: Bestätigen Sie, dass der Techniker dies vor Ort prüfen wird.",
+            "Versichern Sie ihm, dass die schnelle Lösung der Probleme Priorität hat.",
+            "Verwenden Sie durchgehend eine höfliche, professionelle und lösungsorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

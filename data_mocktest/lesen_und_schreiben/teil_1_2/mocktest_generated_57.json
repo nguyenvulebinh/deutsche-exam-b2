@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Matthias Schubert\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation: Lieferung Bürostühle (Bestellnr. 789123)\n\nHallo,\n\nanbei die Reklamation von Frau Vogel (TechSolutions GmbH).\nBitte kümmern Sie sich darum und antworten Sie der Kundin höflich. TechSolutions ist ein wichtiger Neukunde, den wir nicht verärgern dürfen.\n\nWir sollten die Ursache für die Defekte kurz erklären (möglicherweise ein seltener Produktionsfehler bei dieser Charge oder ein Transportschaden trotz sorgfältiger Verpackung?).\nWichtig ist: Bestätigen Sie den kostenlosen Austausch der reklamierten Stühle. Klären Sie bitte intern mit der Logistik, wann wir die Ersatzlieferung und Abholung der defekten Stühle terminieren können und teilen Sie dies der Kundin als nächsten Schritt mit.\n\nDanke und viele Grüße\n\nMatthias Schubert\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Katarina Vogel, Büroleitung, TechSolutions GmbH\n**An:** Herrn Matthias Schubert\n\n**Betreff:** Reklamation: Lieferung Bürostühle (Bestellnr. 789123)\n\nSehr geehrter Herr Schubert,\n\nhiermit möchte ich mich bezüglich unserer Bürostuhl-Lieferung vom 15. Mai (Bestellnummer 789123) beschweren.\nWir haben uns für Ihr Unternehmen entschieden, da Sie für ergonomische und hochwertige Büromöbel bekannt sind.\n\nLeider mussten wir feststellen, dass bei mehreren der gelieferten Stühle (Modell 'ErgoFlex Pro') die Höhenverstellung nicht korrekt funktioniert. Sie lässt sich nicht arretieren und der Stuhl sinkt langsam ab. Konkret betrifft dies bisher 4 von 15 gelieferten Stühlen.\nZudem wiesen zwei weitere Stühle bereits bei der Anlieferung deutliche Kratzer an den Armlehnen auf, was bei neuen Möbeln nicht akzeptabel ist.\n\nUnsere Mitarbeiter können die defekten Stühle nicht nutzen, und wir benötigen dringend funktionierende Stühle, da wir neue Arbeitsplätze eingerichtet haben und diese nun unbesetzt bleiben müssen. Dies verzögert unsere internen Abläufe.\n\nWir bitten Sie um eine umgehende Prüfung der Angelegenheit und erwarten den kostenlosen Austausch der insgesamt sechs beanstandeten Stühle. Bitte teilen Sie uns bis Ende dieser Woche mit, wie und wann der Austausch erfolgen kann.\n\nMit freundlichen Grüßen\n\nKatarina Vogel\nBüroleitung\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Die Büroleiterin beschwert sich vor allem, weil ...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Stühle zu spät kam."
+                },
+                {
+                    "key": "b",
+                    "text": "mehrere der gelieferten Bürostühle nicht funktionsfähig sind."
+                },
+                {
+                    "key": "c",
+                    "text": "die Stühle nicht der bestellten Farbe entsprechen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem für die Firma der Kundin ist, dass ...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "neue Arbeitsplätze wegen der defekten Stühle nicht genutzt werden können."
+                },
+                {
+                    "key": "b",
+                    "text": "die Mitarbeiter nun Rückenschmerzen haben."
+                },
+                {
+                    "key": "c",
+                    "text": "die Stühle zurückgeschickt werden müssen, was zusätzliche Kosten verursacht."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Vogel von TechSolutions GmbH.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Vogel,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom [Datum/gestern] bezüglich der Bürostühle (Bestellnr. 789123).",
+            "Entschuldigen Sie sich höflich und aufrichtig für die mangelhaften Stühle (Höhenverstellung, Kratzer) und die dadurch entstandenen Unannehmlichkeiten (verzögerte Arbeitsplatzeinrichtung).",
+            "Erklären Sie kurz und plausibel die mögliche Ursache (z.B. seltener Produktionsfehler, möglicher Transportschaden trotz Kontrolle), gemäß der Anweisung der Teamleitung.",
+            "Bestätigen Sie klar den kostenlosen Austausch der sechs reklamierten Stühle.",
+            "Informieren Sie Frau Vogel über den nächsten Schritt zur Organisation des Austauschs (z.B. 'Unsere Logistikabteilung wird sich bis [Datum/innerhalb von X Tagen] bei Ihnen melden, um einen passenden Termin für Lieferung und Abholung zu vereinbaren').",
+            "Gehen Sie auf ihre Bitte um Rückmeldung bis Ende der Woche ein.",
+            "Versichern Sie ihr, dass die Qualität der Ersatzlieferung sichergestellt wird.",
+            "Verwenden Sie durchgehend eine professionelle, kundenorientierte und formelle Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

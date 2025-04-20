@@ -1,0 +1,63 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Hanna Schmidt\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde: Fehlerhafte Rechnung Nr. 45890\n\nHallo,\n\ndie unten stehende Mail habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nPrüfen Sie bitte unsere Lieferunterlagen und die Bestellung des Kunden bezüglich der genannten Punkte (Druckerpatronen, Aktenvernichter). Bestätigen Sie dem Kunden nach der Prüfung die Fehler und sichern Sie ihm die Zusendung der korrigierten Rechnung zu. Achten Sie darauf, die Frist (Ende der Woche) einzuhalten.\n\nTechSolutions GmbH ist ein wichtiger Kunde, den wir nicht verlieren möchten.\n\nVielen Dank und Grüße\n\nHanna Schmidt\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Jonas Müller (TechSolutions GmbH)\n**An:** Hanna Schmidt (Bürobedarf Wagner)\n\n**Betreff:** Beschwerde: Fehlerhafte Rechnung Nr. 45890\n\nSehr geehrte Frau Schmidt,\n\nhiermit möchte ich mich über Ihre Rechnung Nr. 45890 vom 15. Mai beschweren. Wir sind seit mehreren Jahren zufriedener Kunde bei Bürobedarf Wagner und waren bisher mit Ihrem Service stets zufrieden, jedoch enthält die aktuelle Rechnung einige Fehler.\n\nDie Position 'Druckerpatronen Farbe Modell XYZ' ist mit 20 Stück zu je 25 € aufgeführt. Wir haben jedoch laut unserer Bestellung (Bestellnr. TS-12345) nur 10 Stück bestellt und auch nur 10 Stück erhalten.\n\nDes Weiteren wird uns eine 'Aktenvernichter Marke ABC' für 150 € berechnet. Diesen Artikel haben wir weder bestellt noch wurde er uns geliefert.\n\nDurch diese beiden Fehler ist der ausgewiesene Rechnungsbetrag deutlich zu hoch.\n\nWir bitten um eine umgehende Überprüfung und Korrektur der Rechnung Nr. 45890. Bitte senden Sie uns die korrigierte Rechnung bis spätestens Ende dieser Woche (Freitag, 24. Mai) zu.\n\nMit freundlichen Grüßen\n\nJonas Müller\nEinkaufsabteilung\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Müller beschwert sich, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Druckerpatronen zu spät kam."
+                },
+                {
+                    "key": "b",
+                    "text": "die Rechnung nicht korrekt ist."
+                },
+                {
+                    "key": "c",
+                    "text": "der bestellte Aktenvernichter defekt war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine korrigierte Rechnung."
+                },
+                {
+                    "key": "b",
+                    "text": "eine sofortige Rückerstattung des zu viel gezahlten Betrags."
+                },
+                {
+                    "key": "c",
+                    "text": "einen Rabatt für die Unannehmlichkeiten."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Jonas Müller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Müller,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich der Rechnung Nr. 45890 vom 15. Mai.",
+            "Drücken Sie Ihr Bedauern über die fehlerhafte Rechnung und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Bestätigen Sie, dass Sie die Angelegenheit geprüft haben (gemäß Anweisung der Teamleitung).",
+            "Bestätigen Sie die Fehler bei den Druckerpatronen (falsche Menge berechnet) und dem Aktenvernichter (irrtümlich berechnet).",
+            "Sichern Sie die Zusendung einer korrigierten Rechnung zu (gemäß Anweisung der Teamleitung).",
+            "Bestätigen Sie, dass die korrigierte Rechnung bis Ende der Woche / Freitag, 24. Mai zugesendet wird (gemäß Anweisung der Teamleitung und Kundenwunsch).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

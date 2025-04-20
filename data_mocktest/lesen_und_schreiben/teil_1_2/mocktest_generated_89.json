@@ -1,0 +1,63 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Weber\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Schmidt\n\n**Betreff:** FW: Reklamation Bürostuhl Modell 'ErgoFit 3000' / Ihre Lieferung vom 15. Mai / Bestellnr. 12345\n\nGuten Morgen Herr Schmidt,\n\nanbei die Reklamation von Herrn Richter (Innovativ AG).\nBitte kümmern Sie sich darum und antworten Sie dem Kunden höflich. Die Innovativ AG ist ein wichtiger Kunde, wir möchten sie nicht verärgern.\nBestätigen Sie Herrn Richter bitte den Austausch des Stuhls. Klären Sie die Abholung des defekten Stuhls und den Liefertermin für den Ersatzstuhl mit unserer Logistikabteilung und informieren Sie den Kunden darüber.\n\nVielen Dank und Grüße\n\nSabine Weber\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 14:30 Uhr\n**Von:** Klaus Richter\n**An:** Sabine Weber\n\n**Betreff:** Reklamation Bürostuhl Modell 'ErgoFit 3000' / Ihre Lieferung vom 15. Mai / Bestellnr. 12345\n\nSehr geehrte Frau Weber,\n\nhiermit möchte ich den Bürostuhl Modell 'ErgoFit 3000' reklamieren, der uns am 15. Mai mit Ihrer Lieferung (Bestellnr. 12345) zugestellt wurde. Wir haben dieses Modell gewählt, da es als besonders ergonomisch beworben wurde.\n\nLeider mussten wir feststellen, dass die Rückenlehne bereits bei Ankunft einen deutlichen Kratzer aufwies. Viel gravierender ist jedoch, dass sich die Höhenverstellung des Stuhls nicht korrekt arretieren lässt. Der Stuhl sinkt nach kurzer Zeit immer wieder langsam ab. Dies macht den Stuhl praktisch unbenutzbar und ist auf Dauer sicher nicht ergonomisch oder gesundheitsfördernd.\n\nWir bitten Sie daher um einen umgehenden Austausch des defekten Stuhls gegen ein einwandfreies Modell. Bitte teilen Sie uns mit, wie der Austausch erfolgen soll und wann wir mit der Ersatzlieferung rechnen können.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nBüroeinkauf, Innovativ AG\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Bürostuhl einen Kratzer hat."
+                },
+                {
+                    "key": "b",
+                    "text": "der gelieferte Bürostuhl Mängel aufweist."
+                },
+                {
+                    "key": "c",
+                    "text": "die Lieferung der Büromöbel zu spät erfolgte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Stuhl vor Ort repariert wird."
+                },
+                {
+                    "key": "b",
+                    "text": "er einen Preisnachlass für den Stuhl erhält."
+                },
+                {
+                    "key": "c",
+                    "text": "der defekte Stuhl ausgetauscht wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail vom [Datum des Vortags] bezüglich des Bürostuhls 'ErgoFit 3000' (Bestellnr. 12345).",
+            "Bestätigen Sie den Eingang der Beschwerde und zeigen Sie Verständnis.",
+            "Entschuldigen Sie sich höflich für die Unannehmlichkeiten durch den Kratzer und insbesondere die defekte Höhenverstellung.",
+            "Bestätigen Sie klar den Austausch des defekten Stuhls gegen ein neues Modell (gemäß Anweisung der Teamleiterin).",
+            "Erklären Sie das weitere Vorgehen bezüglich der Logistik (Abholung des alten Stuhls, Lieferung des neuen Stuhls), indem Sie entweder konkrete (aber plausible) Termine nennen oder ankündigen, dass Sie sich dazu nach Klärung mit der Logistikabteilung separat melden werden (gemäß Anweisung der Teamleiterin).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache (B2 Niveau).",
+            "Achten Sie auf korrekte Grammatik und Rechtschreibung.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

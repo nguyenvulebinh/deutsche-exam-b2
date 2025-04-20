@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Hanna Voss\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Schmidt\n\n**Betreff:** FW: Reklamation Bürostühle - Bestellnummer 789123\n\nGuten Morgen Herr Schmidt,\n\ndie unten stehende Mail von Herrn Gruber habe ich eben erhalten. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nWir müssen die Stühle natürlich austauschen. Bitte organisieren Sie den Austausch der fünf defekten Stühle und informieren Sie den Kunden über den Ablauf und den Termin. Prüfen Sie bitte intern auch kurz, ob es bei diesem Modell 'ErgoFlex' aktuell gehäuft Probleme gibt.\n\nHerr Gruber ist Neukunde, den wir nicht gleich wieder verärgern wollen.\n\nDanke und viele Grüße\n\nHanna Voss\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Martin Gruber\n**An:** Hanna Voss\n\n**Betreff:** Reklamation Bürostühle - Bestellnummer 789123\n\nSehr geehrte Frau Voss,\n\nvor vier Wochen haben wir für unser Büro 10 Bürostühle des Modells 'ErgoFlex' (Bestellnummer 789123) von Ihnen geliefert bekommen.\n\nLeider müssen wir nun feststellen, dass bereits fünf dieser Stühle erhebliche Mängel aufweisen. Bei drei der Stühle funktioniert die Gasdruckfeder nicht mehr richtig – sie sacken nach kurzer Zeit ab, was das Sitzen sehr unangenehm macht. Bei zwei weiteren Stühlen sind bereits Rollen am Fußkreuz abgebrochen, was die Stühle instabil und unbenutzbar macht.\n\nDies beeinträchtigt nicht nur den Sitzkomfort erheblich, sondern stellt aus unserer Sicht auch ein Sicherheitsrisiko für unsere Mitarbeiter dar. Bei neuen Bürostühlen erwarten wir eine einwandfreie Qualität und längere Haltbarkeit.\n\nWir bitten Sie um eine umgehende Behebung der Mängel. Wir erwarten den Austausch der fünf defekten Stühle gegen neue, einwandfreie Modelle bis spätestens Ende nächster Woche.\n\nBitte bestätigen Sie den Eingang dieser Reklamation und teilen Sie uns mit, wie Sie weiter verfahren werden.\n\nMit freundlichen Grüßen\n\nMartin Gruber\nGruber & Partner Consulting\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Gruber beschwert sich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine verspätete Lieferung der Bürostühle."
+                },
+                {
+                    "key": "b",
+                    "text": "Qualitätsprobleme bei mehreren gelieferten Bürostühlen."
+                },
+                {
+                    "key": "c",
+                    "text": "den unfreundlichen Service bei der Lieferung."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die defekten Stühle ausgetauscht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "eine Reparatur der Stühle schnell erfolgt."
+                },
+                {
+                    "key": "c",
+                    "text": "er einen Preisnachlass für alle Stühle erhält."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Gruber.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrter Herr Gruber,').",
+            "Beziehen Sie sich klar auf seine Reklamations-E-Mail vom [Datum/gestern] bezüglich der Bürostühle 'ErgoFlex' (Bestellnr. 789123).",
+            "Bestätigen Sie den Eingang seiner Nachricht und entschuldigen Sie sich höflich für die Mängel und die entstandenen Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für seine Verärgerung über die Qualitätsprobleme.",
+            "Bestätigen Sie den Austausch der fünf defekten Bürostühle (gemäß Anweisung der Teamleitung).",
+            "Informieren Sie ihn über den weiteren Ablauf des Austauschs (z.B. Kontaktaufnahme zur Terminvereinbarung, voraussichtlicher Liefertermin der Ersatzstühle, Abholung der defekten Stühle).",
+            "Gehen Sie auf seine Frist ('Ende nächster Woche') ein und bestätigen Sie diese nach Möglichkeit oder schlagen Sie einen konkreten Zeitrahmen vor.",
+            "Versichern Sie ihm kurz, dass die Qualität geprüft wird (optional, aber gut als Reaktion auf Teamleiter-Info).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

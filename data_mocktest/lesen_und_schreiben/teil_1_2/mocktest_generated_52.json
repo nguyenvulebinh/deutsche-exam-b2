@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Klaus Bauer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Lieferung Büromöbel (Bestellung #789)\n\nHallo,\n\ndie unten stehende Mail unseres Kunden TechSolutions GmbH habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie Herrn Schubert höflich.\n\nWichtig ist, dass Sie auf beide Punkte eingehen: die Beschädigungen und die fehlerhafte Montage. Schreiben Sie ihm, dass wir die beschädigten Teile selbstverständlich austauschen und die Montage durch einen Techniker korrigieren lassen. Bestätigen Sie ihm bitte auch, dass wir dies bis zu seinem Wunschtermin (Ende nächster Woche) realisieren werden. \n\nTechSolutions ist ein wichtiger Neukunde, den wir auf keinen Fall verärgern dürfen.\n\nDanke und viele Grüße\n\nKlaus Bauer\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Matthias Schubert\n**An:** Lena Vogel\n\n**Betreff:** Reklamation Lieferung Büromöbel (Bestellung #789)\n\nSehr geehrte Frau Vogel,\n\nwir beziehen uns auf unsere Büromöbel-Bestellung Nr. 789 und die Lieferung vom letzten Montag.\n\nLeider müssen wir die Lieferung und Montage reklamieren. Bei der Anlieferung stellten wir fest, dass zwei der fünf gelieferten Schreibtischplatten deutliche Kratzer aufweisen und eine Tischplatte zudem eine eingedrückte Ecke hat. Diese Schäden müssen vor oder während des Transports entstanden sein.\n\nZusätzlich wurde die Montage durch Ihr Team nicht fachgerecht ausgeführt. Ein Schreibtischgestell ist instabil und wackelt stark, was konzentriertes Arbeiten unmöglich macht. Bei einem anderen Schreibtisch klemmt die Schublade und lässt sich nur mit Gewalt öffnen und schließen.\n\nDiese Mängel sind äußerst ärgerlich, da die Arbeitsplätze für neue Mitarbeitende dringend benötigt werden und nun nicht wie geplant genutzt werden können.\n\nWir bitten Sie um den umgehenden Austausch der drei beschädigten Tischplatten sowie um eine fachgerechte Nachbesserung der Montagefehler durch einen qualifizierten Techniker. Wir erwarten die Behebung dieser Mängel bis spätestens Ende nächster Woche (Freitag, den [Insert plausible Date, e.g., 28. Juni]).\n\nMit freundlichen Grüßen\n\nMatthias Schubert\nBüroleitung\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Schubert beschwert sich hauptsächlich, weil",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Schreibtische zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "die gelieferten Möbel Mängel aufweisen und schlecht montiert wurden."
+                },
+                {
+                    "key": "c",
+                    "text": "die falschen Schreibtische geliefert wurden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet, dass die Möbelfirma",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Probleme kurzfristig behebt und die Möbel nachbessert."
+                },
+                {
+                    "key": "b",
+                    "text": "ihm neue Mitarbeiter für die Montage schickt."
+                },
+                {
+                    "key": "c",
+                    "text": "ihm einen Preisnachlass für die Möbel anbietet."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Schubert.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Schubert,').",
+            "Beziehen Sie sich klar auf seine Reklamations-E-Mail (Bestellung #789, Büromöbel).",
+            "Bestätigen Sie den Eingang der Beschwerde.",
+            "Entschuldigen Sie sich höflich und ausdrücklich für die beschädigten Teile UND die fehlerhafte Montage.",
+            "Zeigen Sie Verständnis für die dadurch entstandenen Unannehmlichkeiten (nicht nutzbare Arbeitsplätze).",
+            "Bestätigen Sie den Austausch der drei beschädigten Tischplatten (gemäß Anweisung TL).",
+            "Bestätigen Sie die Korrektur der Montagefehler (wackelndes Gestell, klemmende Schublade) durch einen Techniker (gemäß Anweisung TL).",
+            "Bestätigen Sie, dass die Behebung bis zum gewünschten Termin (Ende nächster Woche) erfolgen wird (gemäß Anweisung TL).",
+            "Schlagen Sie ggf. vor, dass sich jemand zur Terminvereinbarung für Austausch/Nachbesserung meldet.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

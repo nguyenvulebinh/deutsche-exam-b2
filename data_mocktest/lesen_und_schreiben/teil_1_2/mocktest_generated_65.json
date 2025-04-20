@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Kurz\n**Erhalten:** heute, 10:45 Uhr\n**An:** Frau Bauer\n\n**Betreff:** FW: Reklamation Lieferung Bürostühle ComfortMax (Bestellung #12345)\n\nGuten Morgen Frau Bauer,\n\ndie unten stehende Mail habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nKlären Sie bitte intern, ob dieses Problem bei dem Modell 'ComfortMax' bekannt ist. Schlagen Sie Frau Meier eine kundenfreundliche Lösung vor – entweder eine Reparatur vor Ort oder den Austausch der defekten Stühle.\n\nTechSolutions GmbH ist ein wichtiger Neukunde, den wir nicht verlieren möchten.\n\nDanke und viele Grüße\n\nStefan Kurz\nTeamleiter Vertrieb\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 10:15 Uhr\n**Von:** Hanna Meier (TechSolutions GmbH)\n**An:** Stefan Kurz (Büromöbel Schmidt)\n\n**Betreff:** Reklamation Lieferung Bürostühle ComfortMax (Bestellung #12345)\n\nSehr geehrter Herr Kurz,\n\nvor vier Wochen wurden die von uns bestellten ergonomischen Bürostühle Modell 'ComfortMax' (Bestellung #12345) geliefert. Wir haben uns nach sorgfältiger Recherche für Ihr Unternehmen entschieden.\n\nLeider müssen wir nun feststellen, dass bei mehreren Stühlen die Rückenlehne nicht richtig einrastet und bei Belastung nachgibt. Einige Mitarbeiter klagen bereits über Rückenschmerzen. Zudem löst sich bei zwei Stühlen bereits der Bezugsstoff an der Armlehne.\n\nDies beeinträchtigt nicht nur den Sitzkomfort, sondern wirft auch Fragen zur Sicherheit und Langlebigkeit auf. Wir bitten Sie daher um eine umgehende Überprüfung der genannten Mängel und erwarten einen Vorschlag zur Nachbesserung oder zum Austausch der betroffenen Stühle.\n\nBitte kontaktieren Sie uns bis Ende dieser Woche (Freitag), um das weitere Vorgehen zu besprechen.\n\nMit freundlichen Grüßen\n\nHanna Meier\nOffice Managerin\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Meier beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die Lieferung der Bürostühle zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "...einige der gelieferten Stühle Mängel aufweisen."
+                },
+                {
+                    "key": "c",
+                    "text": "...ihre Mitarbeiter die Stühle generell unbequem finden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Firma TechSolutions GmbH erwartet von Büromöbel Schmidt...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...eine Erklärung für die schlechte Qualität."
+                },
+                {
+                    "key": "b",
+                    "text": "...einen Preisnachlass für die gesamte Lieferung."
+                },
+                {
+                    "key": "c",
+                    "text": "...einen Vorschlag zur Reparatur oder zum Austausch der Stühle."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Hanna Meier (TechSolutions GmbH).",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrte Frau Meier,').",
+            "Beziehen Sie sich klar auf ihre E-Mail vom [Datum] bezüglich der Reklamation der Bürostühle 'ComfortMax' (Bestellung #12345).",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die Mängel (Rückenlehne, Bezugsstoff) und die entstandenen Unannehmlichkeiten (insb. Rückenschmerzen der Mitarbeiter).",
+            "Bestätigen Sie, dass ihr Anliegen ernst genommen und intern geprüft wird (impliziert durch TL-Anweisung 'Klären Sie intern...').",
+            "Schlagen Sie, wie von der Teamleitung vorgegeben, konkrete Lösungen vor: Option 1: Kostenlose Reparatur der betroffenen Stühle vor Ort durch einen Techniker. Option 2: Kostenloser Austausch der betroffenen Stühle.",
+            "Erläutern Sie kurz die nächsten Schritte für die vorgeschlagenen Lösungen (z.B. Terminvereinbarung für Techniker/Austausch).",
+            "Stellen Sie sicher, dass die Antwort dem Wunsch nach Kontakt bis Ende der Woche nachkommt.",
+            "Betonen Sie (subtil), dass die Zufriedenheit von TechSolutions GmbH wichtig ist.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Vogel\n**Erhalten:** heute, 09:05 Uhr\n**An:** Thomas Schmidt\n\n**Betreff:** FW: Reklamation Laserdrucker Modell X-Print 5000 / Bestellung #789123\n\nHallo Thomas,\n\nhabe gerade diese Mail von Frau Keller bekommen. Bitte kümmere dich darum und antworte ihr bitte zeitnah und höflich.\n\nEs tut mir leid, dass der letzte Technikereinsatz letzte Woche nicht erfolgreich war - erwähne das ruhig und entschuldige dich für die anhaltenden Probleme.\n\nSchlage ihr einen neuen, kurzfristigen Technikertermin vor, um das Problem endgültig zu beheben. Kläre intern schnell, was technisch möglich ist.\n\nFrau Keller klang sehr verärgert. Bürobedarf & Mehr ist ein wichtiger Kunde, wir wollen sie nicht verlieren.\n\nDanke und Gruß\n\nMarkus Vogel\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:10 Uhr\n**Von:** Sabine Keller\n**An:** Markus Vogel\n**Betreff:** Reklamation Laserdrucker Modell X-Print 5000 / Bestellung #789123\n\nSehr geehrter Herr Vogel,\n\nAnfang des Monats haben wir für unsere Hauptgeschäftsstelle den Laserdrucker Modell X-Print 5000 (Bestellung #789123) von Ihnen bezogen. Wir haben uns bewusst für Ihr Unternehmen und dieses Modell entschieden, da uns hohe Zuverlässigkeit und Effizienz versprochen wurden.\n\nLeider müssen wir feststellen, dass das Gerät seit der Installation erhebliche Probleme bereitet. Es kommt täglich zu häufigen Papierstaus, die unsere Arbeitsabläufe empfindlich stören. Zudem ist die Druckqualität mangelhaft; viele Ausdrucke weisen Schlieren und Flecken auf, was für wichtige Dokumente inakzeptabel ist. Dies führt zu erheblicher Zeit- und Materialverschwendung.\n\nIhr Techniker war bereits letzte Woche hier, um das Problem zu beheben. Bedauerlicherweise besteht das Problem unverändert fort.\n\nWir benötigen dringend eine funktionierende Lösung und bitten Sie um eine umgehende und dauerhafte Behebung der Mängel. Dies kann durch eine erfolgreiche Reparatur oder einen Austausch des Gerätes erfolgen.\n\nWir erwarten Ihre Rückmeldung mit einem konkreten Lösungsvorschlag bis Ende dieser Woche.\n\nMit freundlichen Grüßen\n\nSabine Keller\nOffice Managerin\nBürobedarf & Mehr GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller ist unzufrieden, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...der Technikerbesuch zu teuer war."
+                },
+                {
+                    "key": "b",
+                    "text": "...der neu gekaufte Drucker nicht richtig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Lieferung des Druckers beschädigt war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme mit dem Drucker haben zur Folge, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...Frau Keller den Kaufvertrag sofort kündigen will."
+                },
+                {
+                    "key": "b",
+                    "text": "...bereits mehrere Reparaturversuche stattgefunden haben."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Arbeit im Büro beeinträchtigt wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihres Teamleiters um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Keller.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich klar auf ihre Reklamations-E-Mail bezüglich des Laserdruckers X-Print 5000 (Bestellung #789123).",
+            "Drücken Sie Ihr aufrichtiges Bedauern über die anhaltenden Probleme und die entstandenen Unannehmlichkeiten aus.",
+            "Entschuldigen Sie sich höflich für die Mängel und die Störungen im Arbeitsablauf.",
+            "Bestätigen Sie, dass bereits ein Techniker vor Ort war und bedauern Sie, dass dieser Einsatz nicht erfolgreich war (gemäß Anweisung des Teamleiters).",
+            "Schlagen Sie eine konkrete, zeitnahe Maßnahme zur endgültigen Lösung vor: einen neuen, kurzfristigen Technikertermin (gemäß Anweisung des Teamleiters).",
+            "Versichern Sie ihr, dass alles getan wird, um das Problem dauerhaft zu beheben (ggf. erwähnen, dass ein erfahrener Techniker kommt oder alle nötigen Teile mitbringt).",
+            "Gehen Sie auf die Dringlichkeit ein, indem Sie einen schnellen Termin anbieten.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

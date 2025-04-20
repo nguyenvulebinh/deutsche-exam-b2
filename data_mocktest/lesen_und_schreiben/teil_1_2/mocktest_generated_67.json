@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Klaus Fischer\n**Erhalten:** heute, 09:15 Uhr\n**An:** Markus Schmidt\n\n**Betreff:** FW: Reklamation Multifunktionsgerät OfficeMaster 5000 (Kreativagentur Müller & Sohn)\n\nHallo Markus,\n\ndie unten stehende Mail von Frau Weber (Kreativagentur Müller & Sohn) habe ich eben erhalten. Sie sind ein wichtiger Neukunde, der auf Empfehlung zu uns kam.\n\nBitte kümmern Sie sich dringend darum und antworten Sie der Kundin sehr höflich. Schlagen Sie ihr bitte eine schnelle Lösung vor: Entweder einen kurzfristigen Technikereinsatz zur Prüfung und eventuellen Reparatur anbieten oder direkt einen Austausch des Geräts vorschlagen, falls das zielführender erscheint. Wir wollen diesen Kunden natürlich nicht gleich wieder verärgern.\n\nDanke und viele Grüße\n\nKlaus Fischer\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 16:30 Uhr\n**Von:** Anna Weber\n**An:** Klaus Fischer\n\n**Betreff:** Reklamation Multifunktionsgerät OfficeMaster 5000\n\nSehr geehrter Herr Fischer,\n\nwir haben am letzten Dienstag das bei Ihnen bestellte Multifunktionsgerät OfficeMaster 5000 erhalten und installieren lassen. Wir hatten uns für Ihr Unternehmen entschieden, da es uns von Geschäftspartnern empfohlen wurde.\n\nLeider müssen wir nun feststellen, dass das Gerät nicht einwandfrei funktioniert. Insbesondere arbeitet die Scanfunktion nicht zuverlässig; sie bricht häufig ab oder liefert nur Scans von sehr schlechter Qualität. Zudem kommt es bei fast jedem größeren Druckauftrag zu Papierstaus, was unsere Arbeitsabläufe erheblich stört. Auch die Einweisung durch Ihren Techniker war sehr kurz und für die komplexeren Funktionen leider nicht ausreichend.\n\nDiese Situation ist für uns sehr unbefriedigend und führt zu erheblichem Zeitverlust und Frustration bei den Mitarbeitern. Wir bitten Sie daher dringend um eine schnelle Lösung. Bitte teilen Sie uns bis Ende dieser Woche mit, ob eine umgehende Reparatur möglich ist oder ob Sie einen Austausch des Geräts veranlassen können.\n\nMit freundlichen Grüßen\n\nAnna Weber\nOffice Manager\nKreativagentur Müller & Sohn\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung des Geräts zu lange gedauert hat."
+                },
+                {
+                    "key": "b",
+                    "text": "das neue Multifunktionsgerät nicht richtig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Einweisung durch den Techniker unfreundlich war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem mit dem Gerät ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Scanfunktion fehlerhaft ist."
+                },
+                {
+                    "key": "b",
+                    "text": "es zu laut druckt."
+                },
+                {
+                    "key": "c",
+                    "text": "die Druckqualität schlecht ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Weber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail bezüglich des Multifunktionsgeräts OfficeMaster 5000.",
+            "Drücken Sie Ihr Bedauern über die Probleme mit dem Gerät und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Entschuldigen Sie sich für die Störungen im Arbeitsablauf.",
+            "Bestätigen Sie kurz das Verständnis für die genannten Probleme (fehlerhafte Scanfunktion, Papierstaus).",
+            "Schlagen Sie eine konkrete, schnelle Lösung vor (gemäß Anweisung der Teamleitung): Bieten Sie entweder einen zeitnahen Termin für einen Technikerbesuch zur Prüfung/Reparatur ODER einen kurzfristigen Austausch des Geräts an.",
+            "Erläutern Sie kurz die nächsten Schritte für die vorgeschlagene(n) Lösung(en) (z.B. Bitte um Terminbestätigung, Information über Lieferzeit bei Austausch).",
+            "Reagieren Sie auf die Dringlichkeit und die gesetzte Frist (Antwort bis Ende der Woche).",
+            "Versichern Sie Frau Weber, dass die schnelle Behebung des Problems Priorität hat.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

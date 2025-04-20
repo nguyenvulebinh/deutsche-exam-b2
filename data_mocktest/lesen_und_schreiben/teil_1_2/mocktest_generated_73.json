@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Matthias Steiner\n**Erhalten:** heute, 09:15 Uhr\n**An:** Klaus Richter\n\n**Betreff:** FW: Reklamation und Bitte um dringende Lösung - Multifunktionsgerät XZ-5000\n\nHallo Herr Richter,\n\ndie unten stehende Mail von Frau Berger (Berger & Partner Consulting) habe ich gerade erhalten.\nBitte kümmern Sie sich dringend darum und antworten Sie der Kundin. Antworten Sie bitte höflich.\n\nSchlagen Sie ihr einen kurzfristigen Termin für eine Überprüfung vor Ort vor. Ganz wichtig: Bestätigen Sie ihr auch, dass wir das Gerät austauschen, falls eine Reparatur vor Ort nicht schnell möglich ist.\n\nBerger & Partner ist ein wichtiger Neukunde, den wir nicht verlieren möchten.\n\nDanke und viele Grüße\n\nMatthias Steiner\nTeamleiter Vertrieb & Service\nBüroTec GmbH\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Von:** Katrin Berger\n**Gesendet:** gestern, 14:30 Uhr\n**An:** Matthias Steiner\n\n**Betreff:** Reklamation und Bitte um dringende Lösung - Multifunktionsgerät XZ-5000\n\nSehr geehrter Herr Steiner,\n\nhiermit möchte ich mich über das Multifunktionsgerät Modell XZ-5000 beschweren, das am 15. dieses Monats an uns geliefert und installiert wurde.\nWir haben uns für Ihr Unternehmen entschieden, da Sie für zuverlässige Geräte und guten Service bekannt sind. Leider erfüllt das gelieferte Gerät unsere Erwartungen überhaupt nicht.\n\nSeit der Inbetriebnahme kommt es wiederholt zu häufigen Papierstaus, die unsere Arbeitsabläufe erheblich stören. Zudem ist die Scanfunktion deutlich langsamer, als in Ihren Produktbeschreibungen angegeben, was zu Verzögerungen beim Versand wichtiger Dokumente führt. Darüber hinaus ist die Druckqualität bei Grafiken mangelhaft und weist oft Streifen auf, was für unsere Kundenpräsentationen unprofessionell wirkt. Versuche, die Probleme anhand der Anleitung zu beheben, blieben erfolglos.\n\nWir benötigen dringend ein funktionierendes Gerät für unser Tagesgeschäft. Wir bitten Sie daher um eine umgehende Überprüfung und Reparatur des Geräts vor Ort. Sollte eine schnelle Reparatur nicht möglich sein, erwarten wir einen Austausch des Geräts.\n\nBitte teilen Sie uns bis spätestens Ende dieser Woche mit, wie Sie vorgehen werden.\n\nMit freundlichen Grüßen\n\nKatrin Berger\nBerger & Partner Consulting\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Berger beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Preis des Geräts zu hoch war."
+                },
+                {
+                    "key": "b",
+                    "text": "das neue Multifunktionsgerät nicht einwandfrei funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Installation durch die Mitarbeiter fehlerhaft war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Frau Berger fordert...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sofort einen Austausch des Geräts."
+                },
+                {
+                    "key": "b",
+                    "text": "eine Reduzierung des Kaufpreises."
+                },
+                {
+                    "key": "c",
+                    "text": "eine Reparatur oder den Austausch des Geräts."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Berger,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom [Datum von gestern] bezüglich des Multifunktionsgeräts XZ-5000.",
+            "Entschuldigen Sie sich höflich und ausdrücklich für die aufgetretenen Probleme und die Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für ihre Verärgerung bezüglich der spezifischen Mängel (Papierstau, langsames Scannen, Druckqualität).",
+            "Machen Sie einen konkreten Vorschlag für einen kurzfristigen Termin (z.B. Tag/Zeitfenster) für einen Technikerbesuch vor Ort zur Überprüfung und Reparatur (gemäß Anweisung der Teamleitung).",
+            "Bestätigen Sie klar, dass ein Austausch des Geräts erfolgen wird, falls eine zeitnahe Reparatur nicht möglich ist (gemäß Anweisung der Teamleitung).",
+            "Gehen Sie auf die von ihr gesetzte Frist (Antwort bis Ende der Woche) ein.",
+            "Versichern Sie ihr, dass eine schnelle Lösung angestrebt wird.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Klaus Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** Stefan Bauer\n\n**Betreff:** FW: Beschwerde: Verschlechterung der IT-Supportleistungen\n\nHallo Stefan,\n\nunten stehende Mail von Frau Weber (TechSolutions GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich. TechSolutions ist ein wichtiger langjähriger Kunde, den wir auf keinen Fall verlieren möchten.\n\nNennen Sie ruhig die Gründe für unsere aktuellen Schwierigkeiten – die unerwartet hohe Auslastung der letzten Wochen und der gleichzeitige krankheitsbedingte Personalengpass haben leider dazu geführt.\n\nGanz wichtig: Schreiben Sie ihr bitte auch, welche konkreten Maßnahmen wir bereits ergreifen, um die Situation schnell zu verbessern und zukünftig wieder die gewohnte Servicequalität sicherzustellen (z.B. neue Kollegen werden bereits eingestellt, Priorisierung kritischer Anfragen, Überprüfung interner Abläufe).\n\nDanke und viele Grüße\n\nKlaus Richter\nTeamleiter\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 17:32 Uhr\n**Von:** Martina Weber\n**An:** Klaus Richter\n\n**Betreff:** Beschwerde: Verschlechterung der IT-Supportleistungen\n\nSehr geehrter Herr Richter,\n\nals langjährige Kundin Ihrer IT-Dienstleistungen wende ich mich heute mit großer Besorgnis an Sie. Wir waren mit Ihrem Support bisher immer sehr zufrieden, müssen aber in den letzten zwei Monaten eine deutliche Verschlechterung der Servicequalität feststellen.\n\nDie Reaktionszeiten auf unsere Support-Tickets überschreiten regelmäßig die in unserem Service-Level-Agreement (SLA) vereinbarten Fristen erheblich. Zudem kommt es immer häufiger vor, dass gemeldete Probleme nicht beim ersten Mal nachhaltig gelöst werden und wir uns mehrfach an Sie wenden müssen. Auch die Kommunikation über den Status laufender Tickets oder Verzögerungen ist oft mangelhaft.\n\nEin Beispiel hierfür war der Ausfall unseres zentralen Projektservers letzte Woche: Die Behebung dauerte viel zu lange und führte zu einer erheblichen Störung unserer Arbeitsabläufe.\n\nWir bitten Sie dringend um eine Erklärung für diese negative Entwicklung. Vor allem aber erwarten wir, dass Sie umgehend Maßnahmen ergreifen, um wieder die vereinbarten Service Levels zuverlässig einzuhalten. Bitte teilen Sie uns mit, welche konkreten Schritte Sie planen, um die Qualität Ihres Supports nachhaltig zu verbessern.\n\nMit freundlichen Grüßen\n\nMartina Weber\nOffice Manager\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die hohen Kosten für den IT-Servicevertrag."
+                },
+                {
+                    "key": "b",
+                    "text": "die gesunkene Qualität und Zuverlässigkeit des IT-Supports."
+                },
+                {
+                    "key": "c",
+                    "text": "einen einzelnen, schlecht gelösten Vorfall letzte Woche."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet vom IT-Dienstleister...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "eine Erklärung für die Probleme und konkrete Lösungsansätze."
+                },
+                {
+                    "key": "b",
+                    "text": "einen sofortigen Preisnachlass auf den Servicevertrag."
+                },
+                {
+                    "key": "c",
+                    "text": "die Zuweisung eines neuen, persönlichen Ansprechpartners."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Martina Weber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich klar auf ihre Beschwerde-E-Mail bezüglich der IT-Supportleistungen.",
+            "Drücken Sie Verständnis für ihre Unzufriedenheit aus und entschuldigen Sie sich aufrichtig für die Unannehmlichkeiten und die Serviceprobleme der letzten Zeit.",
+            "Erklären Sie die Gründe für die Serviceverschlechterung (gemäß Anweisung: unerwartet hohe Auslastung und krankheitsbedingter Personalengpass).",
+            "Erläutern Sie die konkreten Maßnahmen, die zur Verbesserung ergriffen werden (gemäß Anweisung: Einstellung neuer Mitarbeiter, Priorisierung kritischer Anfragen, Überprüfung interner Abläufe).",
+            "Versichern Sie, dass das Ziel die schnelle Rückkehr zu den vereinbarten Service Levels (SLAs) ist.",
+            "Betonen Sie, dass ihre Zufriedenheit als langjährige Kundin sehr wichtig ist.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, professionelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

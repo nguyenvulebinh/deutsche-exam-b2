@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Klaus Richter (Teamleiter Kundenservice)\n**Erhalten:** heute, 09:45 Uhr\n**An:** Herr Schmidt (Technischer Service)\n\n**Betreff:** FW: DRINGEND: Reklamation Lieferung Konferenzdisplay (Best.-Nr. KD-588-2)\n\nHallo Herr Schmidt,\n\nanbei eine dringende Reklamation von ACON Consulting. Das ist das teure interaktive Display, das wir letzte Woche geliefert haben. Bitte kümmern Sie sich sofort darum und antworten Sie Frau Berger schnell und höflich.\n\nDas Display scheint technische Mängel zu haben und der Konferenztisch wurde wohl auch leicht beschädigt. Das ist ärgerlich, besonders da die Kundin das Gerät für wichtige Präsentationen braucht.\n\nSchlagen Sie ihr bitte eine umgehende Lösung vor: Entweder ein Techniker fährt sofort hin zur Prüfung/Reparatur oder wir tauschen das Gerät direkt aus. Klären Sie das bitte mit ihr. Wegen des Tisches müssen wir auch eine Lösung anbieten – Kostenübernahme für Reparatur oder eine Gutschrift vielleicht.\n\nACON ist ein wichtiger Kunde, das muss professionell gelöst werden!\n\nDanke und Gruß\n\nKlaus Richter\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 09:12 Uhr\n**Von:** Lena Berger (Office Management, ACON Consulting GmbH)\n**An:** kundenservice@techprofi.de\n\n**Betreff:** DRINGEND: Reklamation Lieferung Konferenzdisplay (Best.-Nr. KD-588-2)\n\nSehr geehrte Damen und Herren,\n\nhiermit müssen wir leider die Lieferung und Installation unseres neuen Konferenzraum-Displays (Modell 'InteraScreen Pro', Best.-Nr. KD-588-2), erfolgt am [Datum des Vortages, z.B. 11.07.], reklamieren.\n\nWir haben bereits mehrere Mängel festgestellt: Das Display weist in der oberen rechten Ecke eine Gruppe toter Pixel auf. Viel gravierender ist jedoch, dass die interaktive Touch-Funktion sehr unzuverlässig reagiert. Eingaben werden oft gar nicht oder erst nach mehrmaligem Berühren erkannt, manchmal werden auch falsche Aktionen ausgelöst. Dies macht das Gerät für die geplanten interaktiven Präsentationen mit unseren Klienten unbrauchbar.\n\nZusätzlich mussten wir feststellen, dass Ihr Installationsteam leider leichte, aber sichtbare Kratzer auf unserem Konferenztisch hinterlassen hat.\n\nDa wir das Display dringend für wichtige Kundenmeetings in der kommenden Woche benötigen, bitten wir um eine umgehende Reaktion und Lösung. Wir erwarten entweder die sofortige Reparatur oder den Austausch des Gerätes sowie eine Klärung bezüglich des Schadens am Tisch. Bitte teilen Sie uns bis spätestens morgen Vormittag mit, wie Sie weiter verfahren werden.\n\nMit freundlichen Grüßen\n\nLena Berger\nOffice Management\nACON Consulting GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Die Firma ACON Consulting beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "den Schaden am Konferenztisch."
+                },
+                {
+                    "key": "b",
+                    "text": "die technischen Mängel des gelieferten Konferenzraum-Displays."
+                },
+                {
+                    "key": "c",
+                    "text": "eine verspätete Lieferung der bestellten Technik."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem für die Firma ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wichtige Kundenpräsentationen wegen des defekten Displays gefährdet sind."
+                },
+                {
+                    "key": "b",
+                    "text": "die Installation unprofessionell durchgeführt wurde."
+                },
+                {
+                    "key": "c",
+                    "text": "der Lieferant sich bisher nicht gemeldet hat."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Berger (ACON Consulting).",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Berger,').",
+            "Beziehen Sie sich klar auf ihre Reklamations-E-Mail bezüglich des Displays 'InteraScreen Pro' (Best.-Nr. KD-588-2).",
+            "Drücken Sie Ihr aufrichtiges Bedauern über die technischen Mängel des Displays UND den Schaden am Tisch aus.",
+            "Entschuldigen Sie sich höflich für die entstandenen Unannehmlichkeiten, insbesondere im Hinblick auf ihre bevorstehenden Präsentationen.",
+            "Bieten Sie eine konkrete, schnelle Lösung für das Display-Problem an (gemäß TL-Anweisung: umgehender Technikereinsatz zur Prüfung/Reparatur ODER direkter Austausch des Geräts). Fragen Sie nach ihrer Präferenz.",
+            "Schlagen Sie eine konkrete Lösung für den Tischschaden vor (gemäß TL-Anweisung: z.B. Kostenübernahme für professionelle Reparatur oder Gutschrift).",
+            "Reagieren Sie auf die Dringlichkeit und die gesetzte Frist (Antwort bis morgen Vormittag), indem Sie die umgehende Kontaktaufnahme/Lösung betonen.",
+            "Versichern Sie ihr, dass die Angelegenheit höchste Priorität hat.",
+            "Wahren Sie durchgehend einen professionellen, lösungsorientierten und sehr höflichen Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

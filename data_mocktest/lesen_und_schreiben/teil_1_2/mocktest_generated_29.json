@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Hanna Voss\n**Erhalten:** heute, 09:45 Uhr\n**An:** Thomas Lange\n\n**Betreff:** FW: Reklamation Kaffeemaschine Modell \"ProfiBarista 5000\" - Auftragsnr. 78910 - DRINGEND\n\nHallo Herr Lange,\n\nanbei die E-Mail von Herrn Bauer (Consulting GmbH Meier & Scholz), die ich gerade erhalten habe.\n\nBitte kümmern Sie sich dringend darum und antworten Sie Herrn Bauer höflich. Nehmen Sie die Beschwerde ernst, die Firma ist ein neuer, potenziell wichtiger Geschäftskunde und wir können uns hier keine schlechte Presse leisten.\n\nVersprechen Sie in Ihrer Antwort eine genaue Prüfung vor Ort. Ganz wichtig: Schlagen Sie Herrn Bauer 1-2 konkrete Terminvorschläge für einen Technikereinsatz vor und stellen Sie sicher, dass der Techniker dann alle genannten Punkte prüft (Fehlercode, Kaffeequalität, Milchschäumer).\n\nFalls eine schnelle Reparatur nicht möglich ist, denken Sie über eine Übergangslösung oder kleine Geste nach (z.B. kostenloses Wartungspaket).\n\nDanke und viele Grüße\n\nHanna Voss\nLeiterin Kundenservice\nKaffeetechnik Schnell\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 16:20 Uhr\n**Von:** Stefan Bauer\n**An:** Hanna Voss\n\n**Betreff:** Reklamation Kaffeemaschine Modell \"ProfiBarista 5000\" - Auftragsnr. 78910\n\nSehr geehrte Frau Voss,\n\nwir haben letzte Woche die bei Ihnen bestellte Kaffeemaschine \"ProfiBarista 5000\" (Auftragsnr. 78910) für unsere Mitarbeiterküche erhalten. Wir haben uns aufgrund Ihres guten Rufs und der versprochenen Zuverlässigkeit für dieses hochwertige Modell entschieden.\n\nLeider müssen wir nun feststellen, dass die Maschine seit Inbetriebnahme erhebliche Mängel aufweist. Mehrmals täglich zeigt das Gerät den Fehlercode E-07 an und stoppt den Betrieb. Ein Neustart behebt das Problem nur manchmal kurzzeitig. Zudem ist die Kaffeequalität sehr inkonsistent – mal wässrig, mal viel zu stark, obwohl wir die von Ihnen empfohlenen Bohnen und Einstellungen verwenden. Besonders ärgerlich ist auch, dass der automatische Milchschäumer nur lauwarmen Schaum produziert, was die Zubereitung von Cappuccino etc. unmöglich macht.\n\nDiese ständigen Ausfälle und Mängel sind für unsere Mitarbeiter sehr frustrierend, kosten unnötig Zeit und machen es uns unmöglich, unseren Klienten einen angemessenen Kaffee anzubieten. Das beeinträchtigt die Arbeitsatmosphäre.\n\nWir bitten Sie dringend um die zeitnahe Entsendung eines Technikers, der alle genannten Probleme behebt. Wir erwarten Ihren Terminvorschlag innerhalb der nächsten zwei Werktage.\n\nMit freundlichen Grüßen\n\nStefan Bauer\nOffice Manager\nConsulting GmbH Meier & Scholz\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Bauer ist unzufrieden, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die neue Kaffeemaschine nicht zuverlässig funktioniert und Mängel aufweist."
+                },
+                {
+                    "key": "b",
+                    "text": "der Kaffee manchmal wässrig schmeckt."
+                },
+                {
+                    "key": "c",
+                    "text": "die Maschine schwierig zu bedienen ist."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Ein Problem mit der Kaffeemaschine ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Maschine die falschen Bohnen verwendet."
+                },
+                {
+                    "key": "b",
+                    "text": "der Milchschaum nicht richtig heiß wird."
+                },
+                {
+                    "key": "c",
+                    "text": "die Mitarbeiter keine Pausen machen können."
+                }
+            ],
+            "loesung": "b"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Verwenden Sie eine korrekte formelle Anrede für Herrn Bauer.",
+            "Beziehen Sie sich klar auf seine Reklamations-E-Mail (Modell ProfiBarista 5000, Auftragsnr.).",
+            "Drücken Sie Ihr aufrichtiges Bedauern über die Mängel und die entstandenen Unannehmlichkeiten aus.",
+            "Bestätigen Sie den Eingang der Beschwerde und zeigen Sie Verständnis für die Frustration.",
+            "Gehen Sie auf die spezifischen Probleme ein (Fehlercode E-07, Kaffeequalität, Milchschäumer).",
+            "Versprechen Sie eine genaue Prüfung aller genannten Punkte durch einen Techniker vor Ort (gemäß TL-Anweisung).",
+            "Schlagen Sie 1-2 konkrete Terminvorschläge für den Technikereinsatz vor (gemäß TL-Anweisung).",
+            "Bitten Sie um Bestätigung des Termins oder um alternative Vorschläge seitens des Kunden.",
+            "Sprechen Sie die Möglichkeit einer Übergangslösung/Geste an, falls eine sofortige Reparatur nicht gelingt (gemäß TL-Anweisung).",
+            "Versichern Sie dem Kunden, dass Sie an einer schnellen und zufriedenstellenden Lösung arbeiten.",
+            "Halten Sie durchgehend einen professionellen, höflichen und serviceorientierten Ton.",
+            "Verwenden Sie eine passende formelle Grußformel."
+        ]
+    }
+}

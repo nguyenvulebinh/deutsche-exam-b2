@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Voss\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde Installation FinanzProfi Suite\n\nHallo,\n\nunten stehende E-Mail von Herrn Bergmann habe ich eben erhalten. Bitte kümmern Sie sich dringend darum und antworten Sie dem Kunden höflich und professionell. Die Firma Bergmann & Söhne ist ein wichtiger Kunde, wir können uns hier keine Unzufriedenheit leisten.\n\nNennen Sie ruhig mögliche Ursachen für die Probleme (z.B. Kompatibilitätsprobleme, die wir prüfen, oder unerwartete Serverlast?). Ganz wichtig: Teilen Sie dem Kunden mit, welche konkreten Schritte wir zur Lösung unternehmen und wann er mit einer ersten Verbesserung oder zumindest einem detaillierten Update rechnen kann. Erwähnen Sie auch kurz, wie wir die Stabilität zukünftig besser sicherstellen wollen.\n\nDanke und viele Grüße\n\nStefan Voss\nTeamleiter IT-Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Klaus Bergmann\n**An:** Simone Richter\n\n**Betreff:** Beschwerde Installation FinanzProfi Suite\n\nSehr geehrte Frau Richter,\n\nhiermit möchte ich mich über die Leistung Ihrer Firma im Zusammenhang mit der Installation der neuen Buchhaltungssoftware „FinanzProfi Suite“ beschweren, die letzte Woche in unserer Abteilung durchgeführt wurde.\n\nSeit Montag dieser Woche erleben wir massive Probleme. Die Software stürzt mehrmals täglich ohne ersichtlichen Grund ab, was unsere Arbeitsabläufe erheblich behindert. Besonders kritisch ist, dass die Funktion zur automatischen Rechnungserstellung nicht zuverlässig funktioniert; Rechnungen werden teilweise fehlerhaft oder gar nicht generiert. Unsere Mitarbeiter sind frustriert, und wir sehen die Gefahr, dass wichtige Fristen nicht eingehalten werden können.\n\nEin erster Kontakt mit Ihrem Support-Team am Dienstag brachte leider keine Lösung, und die Reaktionszeit war zudem sehr langsam.\n\nWir sind auf eine funktionierende Software angewiesen und erwarten eine umgehende Analyse und Behebung der Fehler. Bitte teilen Sie uns bis Ende dieser Woche mit, welche konkreten Schritte Sie unternehmen und wann wir mit einer stabilen Version rechnen können.\n\nMit freundlichen Grüßen\n\nKlaus Bergmann\nLeiter der Buchhaltung\nBergmann & Söhne GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Bergmann beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die Schulung für die neue Software unzureichend war."
+                },
+                {
+                    "key": "b",
+                    "text": "...die neu installierte Software fehlerhaft ist und die Arbeit behindert."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Kosten für die FinanzProfi Suite zu hoch sind."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein konkretes Problem mit der \"FinanzProfi Suite\" ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...Daten bei der Installation verloren gegangen sind."
+                },
+                {
+                    "key": "b",
+                    "text": "...das Support-Team telefonisch nicht erreichbar ist."
+                },
+                {
+                    "key": "c",
+                    "text": "...eine wichtige Funktion für Rechnungen nicht zuverlässig arbeitet."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Bergmann.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrter Herr Bergmann,').",
+            "Beziehen Sie sich klar auf seine Beschwerde-E-Mail bezüglich der Software 'FinanzProfi Suite'.",
+            "Drücken Sie Ihr Bedauern über die aufgetretenen Probleme (Abstürze, fehlerhafte Rechnungsfunktion) und die entstandenen Unannehmlichkeiten aus und entschuldigen Sie sich höflich.",
+            "Erklären Sie kurz mögliche Ursachen für die Instabilität (gemäß Anweisung der Teamleitung, z.B. laufende Prüfung von Kompatibilitätsaspekten, unerwartete Systemlast).",
+            "Informieren Sie über konkrete Maßnahmen, die zur Lösung ergriffen werden (gemäß Anweisung der Teamleitung, z.B. Zuweisung eines Spezialisten, intensive Analyse der Fehlerprotokolle, geplanter Patch).",
+            "Nennen Sie einen klaren Zeitrahmen für die nächsten Schritte oder eine erwartete Verbesserung (gemäß Anweisung der Teamleitung, z.B. Rückmeldung mit Analyseergebnis innerhalb von 24 Stunden, geplante Fehlerbehebung bis [Datum]).",
+            "Erwähnen Sie kurz Maßnahmen zur zukünftigen Qualitätssicherung (gemäß Anweisung der Teamleitung, z.B. verstärkte Tests vor Rollout, verbessertes Monitoring).",
+            "Versichern Sie ihm, dass die Lösung des Problems höchste Priorität hat.",
+            "Wahren Sie durchgehend einen professionellen, serviceorientierten und höflichen Ton.",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

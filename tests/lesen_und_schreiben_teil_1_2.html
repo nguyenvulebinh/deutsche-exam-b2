@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TELC B2 - Lesen und Schreiben Teil 1&2</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .back-button {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 8px 15px;
+            background-color: #6c757d;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        .back-button:hover {
+            background-color: #5a6268;
+        }
+        
+        /* Email container styles */
+        .email-container {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+        }
+        
+        .email-header {
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .email-body {
+            line-height: 1.6;
+        }
+        
+        /* Question styles */
+        .question {
+            background-color: #fff;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        .question-text {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .options {
+            margin-left: 20px;
+        }
+
+        .option {
+            margin: 5px 0;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+
+        .option input[type="radio"] {
+            margin-right: 10px;
+        }
+
+        .option-text {
+            flex-grow: 1;
+        }
+
+        .option.selected {
+            font-weight: bold;
+        }
+
+        .option.correct {
+            color: #28a745;
+        }
+
+        .option.incorrect {
+            color: #dc3545;
+        }
+        
+        /* Writing task styles */
+        .writing-container {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        
+        .writing-task {
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        
+        .writing-area {
+            width: 100%;
+            min-height: 200px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            font-family: inherit;
+            resize: vertical;
+        }
+        
+        /* Improved table-style checklist */
+        .checklist {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            margin-top: 20px;
+            display: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        
+        .checklist h3 {
+            margin-top: 0;
+            margin-bottom: 15px;
+            color: #343a40;
+            font-size: 1.2em;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 8px;
+        }
+        
+        .checklist-instructions {
+            margin-bottom: 15px;
+            font-size: 0.9em;
+            color: #6c757d;
+            background-color: #e9ecef;
+            padding: 8px 12px;
+            border-radius: 4px;
+        }
+        
+        .checklist-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 15px;
+        }
+        
+        .checklist-table-header {
+            background-color: #e9ecef;
+            border-bottom: 2px solid #dee2e6;
+            font-weight: bold;
+        }
+        
+        .checklist-table-header th {
+            padding: 10px;
+            text-align: left;
+        }
+        
+        .checklist-table-header th:first-child {
+            width: 70%;
+        }
+        
+        .checklist-table-header th:last-child {
+            width: 30%;
+            text-align: center;
+        }
+        
+        .checklist-item {
+            border-bottom: 1px solid #dee2e6;
+            transition: background-color 0.2s;
+        }
+        
+        .checklist-item:hover {
+            background-color: #f5f5f5;
+        }
+        
+        .checklist-item td {
+            padding: 12px 10px;
+            vertical-align: middle;
+        }
+        
+        .checklist-item-text {
+            text-align: left;
+            padding-right: 15px;
+        }
+        
+        .checklist-status {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .status-button {
+            border: none;
+            padding: 4px 8px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 0.8em;
+            transition: all 0.2s;
+            opacity: 0.6;
+            white-space: nowrap;
+        }
+        
+        .status-button:hover {
+            opacity: 1;
+        }
+        
+        .status-button.active {
+            opacity: 1;
+            font-weight: bold;
+        }
+        
+        .status-done {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        
+        .status-done.active {
+            background-color: #28a745;
+            color: white;
+        }
+        
+        .status-not-necessary {
+            background-color: #e2e3e5;
+            color: #383d41;
+        }
+        
+        .status-not-necessary.active {
+            background-color: #6c757d;
+            color: white;
+        }
+        
+        .status-not-done {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        
+        .status-not-done.active {
+            background-color: #dc3545;
+            color: white;
+        }
+        
+        .checklist-score {
+            margin-top: 15px;
+            padding: 10px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        
+        /* Additional styles for markdown content */
+        .email-container h2 {
+            color: #2c3e50;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        .email-container h3 {
+            color: #34495e;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }
+
+        .email-container p {
+            margin-bottom: 1em;
+        }
+
+        .email-container strong, .email-container b {
+            font-weight: 600;
+            color: #222;
+        }
+
+        .email-container em, .email-container i {
+            font-style: italic;
+        }
+
+        .email-container ul, .email-container ol {
+            margin-left: 1.5em;
+            margin-bottom: 1em;
+        }
+
+        .email-container li {
+            margin-bottom: 0.3em;
+        }
+
+        .email-container a {
+            color: #3498db;
+            text-decoration: underline;
+        }
+
+        .email-container a:hover {
+            color: #2980b9;
+        }
+        
+        /* Hide loading by default once page has loaded */
+        #loading.loaded {
+            display: none;
+        }
+        
+        /* Make buttons more responsive on smaller screens */
+        @media (max-width: 768px) {
+            .checklist-status {
+                flex-direction: column;
+                align-items: center;
+                gap: 4px;
+            }
+            
+            .status-button {
+                width: 100%;
+                padding: 6px 4px;
+                font-size: 0.75em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>TELC B2 - Lesen und Schreiben Teil 1&2</h1>
+        <a href="../index.html" class="back-button">← Zurück zur Testauswahl</a>
+    </div>
+    
+    <div id="loading" class="loading">
+        Test wird geladen...
+    </div>
+    
+    <div id="test-content" class="hidden">
+        <div class="instructions" id="instructions">Ihre Teamleitung leitet Ihnen die E-Mail von einem Kunden weiter und bittet Sie zu antworten.
+        </div>
+        
+        <div id="teamleiter-email" class="email-container">
+            <div id="teamleiter-email-content"></div>
+        </div>
+        
+        <div id="kunde-email" class="email-container">
+            <div id="kunde-email-content"></div>
+        </div>
+        
+        <div id="questions-container">
+            <!-- Questions will be dynamically generated here -->
+        </div>
+        
+        <div id="writing-container" class="writing-container">
+            <div id="writing-task" class="writing-task"></div>
+            <textarea id="writing-area" class="writing-area" placeholder="Schreiben Sie Ihre Antwort hier..."></textarea>
+        </div>
+        
+        <div class="buttons">
+            <button id="finish-btn">Fertig</button>
+            <button id="new-test-btn" class="hidden">Neuer Test</button>
+        </div>
+        
+        <div id="results" class="results hidden">
+            <h2>Ergebnisse</h2>
+            <div class="score" id="score"></div>
+            <div id="checklist" class="checklist">
+                <h3>Schreibaufgabe Checkliste:</h3>
+                <div class="checklist-instructions">
+                    Markieren Sie für jeden Punkt, ob Sie ihn erledigt haben (Erledigt), er nicht notwendig war (Nicht notwendig),
+                    oder Sie ihn nicht erledigt haben (Nicht erledigt).
+                </div>
+                <div id="checklist-items-container">
+                    <!-- The table will be dynamically created here -->
+                </div>
+                <div id="checklist-score" class="checklist-score"></div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>TELC B2 Test Übungsplattform | contact: <a href="mailto:nguyenvulebinh@gmail.com">nguyenbinh</a></p>
+    </footer>
+    
+    <!-- Include Marked.js for markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Import JavaScript modules -->
+    <script type="module">
+        // Set the test type parameter for the app.js module
+        window.testType = 'lesen-und-schreiben-teil-1-2';
+        import "../js/app.js";
+    </script>
+</body>
+</html> 

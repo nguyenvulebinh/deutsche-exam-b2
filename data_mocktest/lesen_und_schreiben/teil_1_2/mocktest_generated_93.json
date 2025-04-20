@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Anna Keller\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Dringende Beschwerde: Probleme nach Update ProOffice Suite\n\nHallo,\n\ndie unten stehende Mail von Frau Richter (Möbelhaus Kaiser) habe ich gerade erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie der Kundin höflich und professionell.\n\nMöbelhaus Kaiser ist ein wichtiger Kunde, den wir nicht verärgern dürfen. Nennen Sie ruhig die Ursache für die aktuellen Performance-Probleme nach dem Update – wir wissen ja um die Kompatibilitätsprobleme mit älteren Serverkonfigurationen.\n\nGanz wichtig: Informieren Sie Frau Richter konkret über die nächsten Schritte zur Fehlerbehebung und geben Sie einen realistischen Zeitplan an, wann wir mit einem Patch rechnen. Bieten Sie ihr bis dahin auch proaktiv Unterstützung durch unser technisches Team an, vielleicht gibt es ja einen Workaround für das Sync-Problem.\n\nDanke und viele Grüße\n\nAnna Keller\nTeamleiterin Kundenbetreuung\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Sabine Richter\n**An:** Klaus Neumann\n\n**Betreff:** Dringende Beschwerde: Probleme nach Update ProOffice Suite\n\nSehr geehrter Herr Neumann,\n\nich schreibe Ihnen bezüglich des Software-Updates für unsere ProOffice Suite, das letzte Woche aufgespielt wurde.\n\nSeit diesem Update stellen wir in unserem Unternehmen massive Probleme fest. Zum einen ist die allgemeine Arbeitsgeschwindigkeit der Software auf allen Arbeitsplätzen drastisch gesunken, was zu erheblichen Verzögerungen in den täglichen Abläufen führt. Zum anderen – und das ist besonders kritisch – funktioniert die automatische Datensynchronisation zwischen unserem Verkaufsmodul und der Buchhaltung nur noch sporadisch und fehlerhaft. Dies führt zu inkonsistenten Datenbeständen und erfordert einen enormen manuellen Prüfaufwand für meine Mitarbeiter.\n\nDiese Situation ist für den reibungslosen Betrieb unseres Möbelhauses nicht tragbar. Wir erwarten von Ihnen eine schnel­lst­mögliche Behebung dieser Fehler. Bitte teilen Sie uns umgehend mit, was die Ursache für diese Probleme ist und bis wann wir mit einer funktionierenden Lösung rechnen können.\n\nMit freundlichen Grüßen\n\nSabine Richter\nLeitung Verwaltung\nMöbelhaus Kaiser GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Richter beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Installation der neuen Software Probleme machte."
+                },
+                {
+                    "key": "b",
+                    "text": "die Software nach einem Update nicht mehr richtig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Kosten für die Software zu hoch sind."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein zentrales Problem ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Mitarbeiter unzufrieden sind."
+                },
+                {
+                    "key": "b",
+                    "text": "nur die Buchhaltung betroffen ist."
+                },
+                {
+                    "key": "c",
+                    "text": "der Datenaustausch zwischen Abteilungen gestört ist."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Richter,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail bezüglich der Probleme mit der ProOffice Suite nach dem Update.",
+            "Drücken Sie Ihr Bedauern über die erheblichen Probleme (Performance, Datensynchronisation) und die dadurch verursachten Unannehmlichkeiten für Möbelhaus Kaiser deutlich aus.",
+            "Entschuldigen Sie sich höflich für die Störungen.",
+            "Erklären Sie (ruhig) die Ursache der Probleme (gemäß Anweisung der Teamleiterin, z.B. unerwartete Kompatibilitätsprobleme mit bestimmten Serverkonfigurationen).",
+            "Informieren Sie konkret über die nächsten Schritte zur Fehlerbehebung (z.B. Patch in Entwicklung, intensive Tests).",
+            "Geben Sie einen konkreten Zeitrahmen für die Bereitstellung der Lösung/des Patches an (gemäß Anweisung der Teamleiterin, z.B. 'innerhalb der nächsten 2 Werktage', 'bis Ende dieser Woche').",
+            "Bieten Sie proaktiv Unterstützung durch das technische Team an (gemäß Anweisung der Teamleiterin), z.B. direkten Supportkontakt, Prüfung eines möglichen Workarounds für das Synchronisationsproblem.",
+            "Versichern Sie Frau Richter, dass das Problem mit höchster Priorität behandelt wird.",
+            "Verwenden Sie durchgehend eine professionelle, höfliche und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Jonas Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** Sarah Wagner\n\n**Betreff:** FW: Beschwerde IT-Support - Keller & Partner Steuerberatung (Vertrag 78910)\n\nHallo Frau Wagner,\n\ndie unten stehende E-Mail von Frau Keller habe ich gerade erhalten. Keller & Partner ist ein langjähriger Kunde und wir möchten ihn auf keinen Fall verlieren. \n\nBitte kümmern Sie sich umgehend darum und antworten Sie Frau Keller höflich. \n\nGehen Sie auf die genannten Punkte ein:\n1.  Entschuldigen Sie sich für die Unannehmlichkeiten.\n2.  Erklären Sie bitte (ruhig) die Gründe für die Verzögerungen der letzten Wochen (Sie wissen ja, die kurzfristigen Personalengpässe wegen unerwarteter Krankheitsfälle).\n3.  Beschreiben Sie, wie wir das Problem mit dem Drucker dauerhaft lösen werden (z.B. Techniker vor Ort zur genauen Analyse, ggf. Austausch des Geräts).\n4.  Ganz wichtig: Erläutern Sie auch, wie wir zukünftig die Einhaltung der vereinbarten Reaktionszeiten sicherstellen und die Kommunikation verbessern wollen.\n\nDanke und viele Grüße\n\nJonas Richter\nTeamleiter Kundensupport\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Martina Keller\n**An:** Jonas Richter\n\n**Betreff:** Beschwerde IT-Support Dienstleistungen - Vertrag 78910\n\nSehr geehrter Herr Richter,\n\nich schreibe Ihnen bezüglich der IT-Supportleistungen für unsere Kanzlei Keller & Partner Steuerberatung, die wir im Rahmen unseres Servicevertrags Nr. 78910 von Ihrer Firma beziehen.\n\nLeider müssen wir feststellen, dass die Qualität Ihres Supports im letzten Monat merklich nachgelassen hat. Die vereinbarten Reaktionszeiten bei Supportanfragen werden häufig nicht eingehalten; teilweise warten wir ein bis zwei Tage auf eine erste Rückmeldung, obwohl laut Vertrag eine Reaktion innerhalb von vier Stunden zugesichert ist. \n\nZudem gibt es ein wiederkehrendes Problem mit unserem Netzwerkdrucker im Hauptbüro, der ständig offline geht. Obwohl Ihre Techniker bereits mehrfach daran gearbeitet haben, tritt das Problem immer wieder auf. Dies führt zu erheblichen Störungen unserer Arbeitsabläufe.\n\nDarüber hinaus mangelt es an proaktiver Kommunikation bezüglich offener Tickets. Wir müssen oft selbst nachfragen, um den Status einer Anfrage zu erfahren.\n\nWir erwarten eine zeitnahe Stellungnahme und vor allem eine spürbare Verbesserung Ihrer Dienstleistungen, insbesondere eine dauerhafte Lösung des Druckerproblems und die strikte Einhaltung der vereinbarten Service-Level. Andernfalls sehen wir uns gezwungen, die Fortführung unseres Vertrages zu überdenken.\n\nMit freundlichen Grüßen\n\nMartina Keller\nBüroleitung\nKeller & Partner Steuerberatung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller beschwert sich hauptsächlich darüber, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Kosten für den IT-Supportvertrag zu hoch sind."
+                },
+                {
+                    "key": "b",
+                    "text": "der IT-Support zu langsam reagiert und Probleme nicht dauerhaft löst."
+                },
+                {
+                    "key": "c",
+                    "text": "die IT-Mitarbeiter unfreundlich waren."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme mit dem IT-Support führen laut Frau Keller dazu, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Arbeitsabläufe in der Kanzlei beeinträchtigt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "wichtige Kundendaten verloren gegangen sind."
+                },
+                {
+                    "key": "c",
+                    "text": "der Netzwerkdrucker komplett ausgetauscht werden muss."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail vom [Datum/gestern] bezüglich der IT-Supportleistungen (Vertrag 78910).",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die entstandenen Unannehmlichkeiten (verzögerte Antworten, Druckerprobleme, mangelnde Kommunikation).",
+            "Zeigen Sie Verständnis für die Störung ihrer Arbeitsabläufe.",
+            "Erklären Sie kurz den Grund für die jüngsten Verzögerungen (z.B. unerwartete Personalengpässe aufgrund von Krankheitsfällen), wie vom Teamleiter vorgegeben.",
+            "Beschreiben Sie die konkreten Schritte zur dauerhaften Lösung des Druckerproblems (z.B. Entsendung eines Technikers zur genauen Analyse und ggf. Austausch), wie vom Teamleiter vorgegeben.",
+            "Erläutern Sie die Maßnahmen zur Verbesserung der Reaktionszeiten und Kommunikation (z.B. Überprüfung interner Prozesse, Sicherstellung der SLA-Einhaltung, Einführung proaktiver Ticket-Updates), wie vom Teamleiter vorgegeben.",
+            "Versichern Sie Frau Keller, dass die Zufriedenheit ihrer Kanzlei hohe Priorität hat.",
+            "Betonen Sie den Wert der Geschäftsbeziehung.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

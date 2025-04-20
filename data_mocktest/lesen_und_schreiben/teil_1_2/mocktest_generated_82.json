@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Meier\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde: Defekte Drucker, Vertrag Nr. 78912\n\nHallo,\n\ndie Mail unten habe ich gerade von Frau Bauer erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nPrüfen Sie bitte umgehend den Serviceverlauf für Vertrag 78912. Wenn die Reparaturen tatsächlich nicht nachhaltig waren, organisieren Sie bitte den Austausch der beiden betroffenen Drucker im Verwaltungsbereich. Das ist hiermit freigegeben.\n\nInformieren Sie Frau Bauer über das Vorgehen und die geplanten Austauscharbeiten. Bestätigen Sie ihr auch, dass wir uns wie gewünscht bis Ende der Woche konkret melden bzw. die Lösung einleiten.\n\nFrau Bauers Firma ist ein wichtiger Kunde mit einem umfassenden Servicevertrag. Wir dürfen sie nicht verlieren.\n\nDanke und viele Grüße\n\nStefan Meier\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Katja Bauer\n**An:** Stefan Meier\n\n**Betreff:** Beschwerde: Defekte Drucker, Vertrag Nr. 78912\n\nSehr geehrter Herr Meier,\n\nhiermit möchte ich mich über die wiederholten Probleme mit den von Ihnen im Rahmen des Vertrags Nr. 78912 gemieteten Druckern beschweren. Wir sind seit zwei Jahren Kunde Ihres Unternehmens und waren bisher mit der Qualität der Geräte meist zufrieden.\n\nIn den letzten Wochen häufen sich jedoch die Ausfälle unserer beiden Hauptdrucker im Verwaltungsbereich. Die Geräte melden ständig Papierstau, obwohl keiner vorliegt, oder zeigen unverständliche Fehlermeldungen an. Zudem ist die Druckqualität bei einem der Geräte (Modell X-Print 500) seit einiger Zeit mangelhaft (Streifen, blasse Farben). Dies führt zu erheblichen Störungen unserer Arbeitsabläufe und Verzögerungen bei wichtigen Dokumenten.\n\nBesonders ärgerlich ist jedoch, dass Ihre Servicetechniker die Probleme bisher nicht nachhaltig beheben konnten. Nach einem Serviceeinsatz treten die Fehler oft nach kurzer Zeit wieder auf.\n\nWir erwarten, dass Sie umgehend eine dauerhafte Lösung für diese Probleme finden. Sollte eine Reparatur nicht mehr sinnvoll sein, bitten wir um den Austausch der betroffenen Geräte gemäß unserem Servicevertrag. Bitte teilen Sie uns bis Ende dieser Woche (Freitag) mit, welche Schritte Sie einleiten werden.\n\nMit freundlichen Grüßen\n\nKatja Bauer\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Bauer beschwert sich hauptsächlich...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...über die hohen Kosten für die Druckerreparaturen."
+                },
+                {
+                    "key": "b",
+                    "text": "...über wiederholt auftretende technische Probleme mit Druckern und den bisher erfolglosen Service."
+                },
+                {
+                    "key": "c",
+                    "text": "...über einen einzelnen defekten Drucker im Büro."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet vom Unternehmen...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...eine schnelle und dauerhafte Lösung, notfalls durch den Austausch der Geräte."
+                },
+                {
+                    "key": "b",
+                    "text": "...dass die Techniker häufiger zur Wartung kommen."
+                },
+                {
+                    "key": "c",
+                    "text": "...einen Rabatt auf die nächste Leasingrate."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Bauer.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Bauer,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail bezüglich der Drucker (Vertrag Nr. 78912).",
+            "Entschuldigen Sie sich höflich und aufrichtig für die wiederholten Probleme und die entstandenen Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für ihre Verärgerung über die Störungen der Arbeitsabläufe.",
+            "Bestätigen Sie, dass die Servicehistorie geprüft wurde und die Notwendigkeit einer dauerhaften Lösung erkannt wurde.",
+            "Informieren Sie Frau Bauer klar darüber, dass die beiden betroffenen Drucker ausgetauscht werden (gemäß Anweisung der Teamleitung).",
+            "Erklären Sie die nächsten Schritte bezüglich des Austauschs (z.B. 'Ein Kollege wird sich in Kürze bei Ihnen melden, um Termine für Lieferung und Installation zu vereinbaren').",
+            "Bestätigen Sie, dass diese Maßnahmen zur Lösung bis Ende der Woche eingeleitet werden (oder bereits wurden).",
+            "Versichern Sie ihr, dass die Zuverlässigkeit des Services Priorität hat.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

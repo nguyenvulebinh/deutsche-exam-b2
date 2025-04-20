@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Vogel\n**Erhalten:** heute, 09:15 Uhr\n**An:** Hanna Schröder\n\n**Betreff:** FW: Reklamation Lieferung/Montage Büromöbel - Bestellung #7845\n\nHallo Frau Schröder,\n\ndie unten stehende Reklamation von Herrn Klein (Klein & Partner Steuerberatung) habe ich gerade erhalten. Bitte kümmern Sie sich zeitnah darum und antworten Sie dem Kunden höflich.\n\nEs ist wichtig, dass Sie die Probleme ernst nehmen und sich aufrichtig für die Unannehmlichkeiten entschuldigen. Bitte schlagen Sie ihm konkrete Lösungen für alle drei genannten Punkte vor: Bieten Sie den Austausch des beschädigten Schreibtisches an und organisieren Sie einen Technikertermin zur Überprüfung/Reparatur der Stühle und zur Nachlieferung der Fußstütze.\n\nHerr Klein ist ein wichtiger Neukunde mit Potenzial für weitere Aufträge. Wir möchten ihn unbedingt zufriedenstellen und unseren Ruf für Qualität wahren.\n\nDanke und viele Grüße\n\nMarkus Vogel\nTeamleiter Vertrieb/Service\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Peter Klein\n**An:** Hanna Schröder\n\n**Betreff:** Reklamation Lieferung/Montage Büromöbel - Bestellung #7845\n\nSehr geehrte Frau Schröder,\n\nich schreibe Ihnen bezüglich unserer Büromöbelbestellung (#7845), die gestern geliefert und von Ihrem Team montiert wurde. Wir haben uns für MöbelProfi GmbH entschieden, da Ihr Unternehmen für Qualität bekannt ist. Leider müssen wir nun mehrere Mängel beanstanden.\n\nErstens weist einer der gelieferten Schreibtische (Modell 'Effizienz') deutliche Kratzer auf der Oberfläche auf. Diese sind uns direkt nach dem Verlassen Ihres Montageteams aufgefallen und sind inakzeptabel.\n\nZweitens sind zwei der Bürostühle (Modell 'Komfort') instabil montiert worden. Sie wackeln bedenklich und fühlen sich unsicher an. So können unsere Mitarbeiter sie nicht benutzen.\n\nDrittens wurde die mitbestellte Fußstütze überhaupt nicht geliefert, obwohl sie auf dem Lieferschein vermerkt ist.\n\nWir sind über diese Mängel sehr verärgert und erwarten eine schnelle Lösung. Bitte teilen Sie uns innerhalb von drei Werktagen mit, wie Sie gedenken, diese Probleme zu beheben – wir benötigen eine Reparatur oder einen Austausch des Schreibtisches, eine fachgerechte Montage bzw. Austausch der Stühle sowie die umgehende Nachlieferung der Fußstütze.\n\nMit freundlichen Grüßen\n\nPeter Klein\nBüroleiter\nKlein & Partner Steuerberatung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Klein beschwert sich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "den hohen Preis der bestellten Möbel."
+                },
+                {
+                    "key": "b",
+                    "text": "mehrere Probleme mit der Lieferung und Montage der Büromöbel."
+                },
+                {
+                    "key": "c",
+                    "text": "die Unfreundlichkeit des Montageteams."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Bezüglich der Bürostühle...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "fordert Herr Klein eine Überprüfung oder einen Austausch."
+                },
+                {
+                    "key": "b",
+                    "text": "sind die falschen Modelle geliefert worden."
+                },
+                {
+                    "key": "c",
+                    "text": "fehlen wichtige Teile für die Montage."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klein.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Klein,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail bezüglich der Büromöbel-Lieferung (Bestellung #7845).",
+            "Bestätigen Sie den Eingang seiner Nachricht und zeigen Sie Verständnis für seine Verärgerung.",
+            "Entschuldigen Sie sich aufrichtig und höflich für die entstandenen Mängel und Unannehmlichkeiten.",
+            "Bieten Sie als Lösung für den beschädigten Schreibtisch einen kostenlosen Austausch an.",
+            "Schlagen Sie vor, einen Techniker zu schicken, der die wackelnden Stühle überprüft und fachgerecht montiert oder ggf. austauscht.",
+            "Bestätigen Sie die Nachlieferung der fehlenden Fußstütze (z.B. zusammen mit dem Techniker oder dem neuen Schreibtisch).",
+            "Schlagen Sie konkrete nächste Schritte vor (z.B. Kontaktaufnahme zur Terminabstimmung für Lieferung/Technikerbesuch).",
+            "Versichern Sie ihm die Wichtigkeit seiner Zufriedenheit und die Einhaltung von Qualitätsstandards.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

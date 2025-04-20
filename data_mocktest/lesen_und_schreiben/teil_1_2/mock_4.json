@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+      "typ": "E-Mail von Teamleitung",
+      "text": "```markdown\n**Erhalten:** heute 09:25 Uhr\n**Von:** Lisa Gärtner\n**An:** ...\n\n**Betreff:** FW Reklamation Kücheneinbau\n\nGuten Morgen,\n\ngestern habe ich unten stehende E-Mail bekommen. Bitte klären Sie mit den Kollegen, die bei dem Kunden waren, was genau passiert ist. Antworten Sie dann dem Kunden höflich und nennen Sie ruhig die Gründe für den entstandenen Defekt. Schreiben Sie ihm bitte auch, wie wir das Problem lösen können.\n\nDanke schon mal und beste Grüße\nLisa Gärtner\n\nKüchenstudio Gärtner\n```"
+    },
+    "beschwerde_kunde": {
+      "typ": "E-Mail von Kunde",
+      "text": "```markdown\n**Gesendet:** gestern 16:49 Uhr\n**Von:** Ludwig Raueisen\n**An:** Lisa Gärtner\n**Betreff:** Reklamation Kücheneinbau\n\nSehr geehrte Frau Gärtner,\n\nam 28. und 29. Juni haben Sie in unserem Gästehaus eine neue Küche eingebaut. Dazu gehörte ein großes Spülbecken aus Keramik und mehrere Einbauschränke darüber.\n\nMit der zügigen Durchführung der Arbeiten waren wir auch sehr zufrieden. Auch die von Ihnen empfohlene Farbe der Schränke gefällt uns sehr.\nNun mussten wir aber feststellen, dass das Spülbecken an einer Stelle einen Defekt hat. Wir nehmen an, dass einem Ihrer Mitarbeiter beim Einbauen der Schränke etwas Schweres in das Spülbecken gefallen ist, sodass dort ein Kratzer entstanden ist.\n\nWir verlangen deshalb, dass das Spülbecken entweder repariert oder ausgetauscht wird. Bitte teilen Sie mir bis 4. Juli mit, wie Sie vorgehen, damit wir entsprechend planen können.\n\nMit freundlichen Grüßen\n\nLudwig Raueisen\n```"
+    },
+    "aufgaben_list": [
+      {
+        "frage": "Herr Raueisen",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "beschwert sich über ein beschädigtes Produkt."
+          },
+          {
+            "key": "b",
+            "text": "besteht auf dem Austausch der Einbauschränke."
+          },
+          {
+            "key": "c",
+            "text": "war mit der Dauer der Arbeiten unzufrieden."
+          }
+        ],
+        "loesung": "a"
+      },
+      {
+        "frage": "Das Küchenstudio soll",
+        "optionen": [
+          {
+            "key": "a",
+            "text": "die Küche anders planen."
+          },
+          {
+            "key": "b",
+            "text": "eine Lösung vorschlagen."
+          },
+          {
+            "key": "c",
+            "text": "einen Mitarbeiter vorbeischicken."
+          }
+        ],
+        "loesung": "b"
+      }
+    ],
+    "schreibaufgabe": {
+      "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+      "check_list": [
+        "Schreiben Sie eine formelle E-Mail an Herrn Raueisen.",
+        "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Raueisen,').",
+        "Beziehen Sie sich auf seine Reklamations-E-Mail bezüglich des eingebauten Spülbeckens.",
+        "Drücken Sie Ihr Bedauern über den Defekt und die entstandenen Unannehmlichkeiten höflich aus.",
+        "Bestätigen Sie den Eingang seiner Reklamation.",
+        "Erklären Sie (ruhig) den Grund für den Defekt, nachdem Sie dies intern geklärt haben (gemäß Anweisung der Teamleitung: 'klären Sie mit den Kollegen', 'nennen Sie ruhig die Gründe'). Beispiel: Bestätigung seiner Vermutung, dass etwas hineingefallen ist, oder ein anderer plausibler Grund.",
+        "Schlagen Sie eine konkrete Lösung vor (Reparatur oder Austausch des Spülbeckens), wie von der Teamleitung gefordert ('wie wir das Problem lösen können'). Gehen Sie auf die vom Kunden genannten Optionen ein.",
+        "Informieren Sie ihn über das weitere Vorgehen (z.B. Terminvereinbarung für Reparatur/Austausch).",
+        "Beantworten Sie seine Bitte um Information bis zum 4. Juli (oder erklären Sie, warum eine endgültige Antwort bis dahin ggf. nicht möglich ist, aber wann er sie erwarten kann).",
+        "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache.",
+        "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+      ]
+    }
+  }
+  

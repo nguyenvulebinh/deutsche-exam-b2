@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Weber\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Probleme mit neuem Zeiterfassungssystem\n\nHallo,\n\ndie Mail unten von Herrn Behrendt habe ich eben erhalten. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nErklären Sie Herrn Behrendt kurz die Ursache der Probleme – es handelt sich um bekannte Startschwierigkeiten nach dem Rollout, an deren Behebung wir bereits arbeiten. Wichtig ist, dass Sie ihm mitteilen, was wir konkret zur Stabilisierung tun und wann er mit einem ersten Update rechnen kann.\n\nDie Firma Behrendt ist ein langjähriger Kunde, wir wollen sie nicht verlieren.\n\nDanke und Gruß\n\nMarkus Weber\nTeamleiter IT-Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Klaus Behrendt\n**An:** Sabine Richter\n\n**Betreff:** Probleme mit neuem Zeiterfassungssystem\n\nSehr geehrte Frau Richter,\n\nhiermit möchte ich mich über das neue Zeiterfassungssystem beschweren, das letzte Woche in unserem Unternehmen eingeführt wurde.\n\nSeit der Umstellung treten bei mehreren Kollegen und mir vermehrt Probleme auf. Das System stürzt häufig ab oder friert ein, und auch das Einloggen funktioniert oft erst nach mehreren Versuchen. Dies führt zu erheblichen Arbeitsunterbrechungen und erschwert die korrekte Erfassung unserer Arbeitszeiten, was für unsere Verwaltungsprozesse unerlässlich ist. Mit der alten Software lief es zwar langsamer, aber stabil.\n\nWir bitten Sie dringend um schnellstmögliche Untersuchung und Behebung dieser Fehler. Bitte teilen Sie uns außerdem mit, wann wir mit einer stabilen und zuverlässig funktionierenden Lösung rechnen können.\n\nWir erwarten Ihre Rückmeldung bis Ende dieser Woche.\n\nMit freundlichen Grüßen\n\nKlaus Behrendt\nVerwaltung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Behrendt beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die unzureichende Schulung für das neue System."
+                },
+                {
+                    "key": "b",
+                    "text": "die Funktionsprobleme der neuen Software."
+                },
+                {
+                    "key": "c",
+                    "text": "den Verlust von Daten beim Systemwechsel."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Softwareprobleme haben zur Folge, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "das alte Softwaresystem wieder genutzt werden muss."
+                },
+                {
+                    "key": "b",
+                    "text": "nur noch Herr Behrendt das System bedienen kann."
+                },
+                {
+                    "key": "c",
+                    "text": "die Arbeit der Mitarbeiter beeinträchtigt wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Behrendt.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Behrendt,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich des neuen Zeiterfassungssystems.",
+            "Drücken Sie Ihr Bedauern über die aufgetretenen Probleme und die verursachten Unannehmlichkeiten höflich aus.",
+            "Entschuldigen Sie sich für die Störungen im Arbeitsablauf.",
+            "Erklären Sie kurz die Ursache (z.B. 'bekannte Startschwierigkeiten nach der Einführung', 'unerwartete Kompatibilitätsprobleme'), wie von der Teamleitung vorgegeben.",
+            "Informieren Sie ihn darüber, dass bereits an der Lösung gearbeitet wird (z.B. 'unser Team arbeitet intensiv an der Stabilisierung', 'Patches werden entwickelt'), wie von der Teamleitung vorgegeben.",
+            "Geben Sie eine konkrete Schätzung, wann mit einer Verbesserung/einem Update zu rechnen ist (z.B. 'voraussichtlich Anfang nächster Woche', 'innerhalb der nächsten zwei Arbeitstage'), wie von der Teamleitung vorgegeben.",
+            "Versichern Sie ihm, dass die Behebung der Probleme hohe Priorität hat.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

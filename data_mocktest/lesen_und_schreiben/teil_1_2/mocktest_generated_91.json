@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** David Fischer\n**Erhalten:** heute, 09:15 Uhr\n**An:** Jonas Keller\n\n**Betreff:** FW: DRINGEND: Reklamation Lieferung Werbematerial für Messe (Best.-Nr. WM-4821)\n\nHallo Herr Keller,\n\ndie unten stehende dringende Beschwerde von Frau Bergmann (TechSolutions GmbH) habe ich gerade erhalten.\nBitte kümmern Sie sich sofort darum und antworten Sie der Kundin höflich und lösungsorientiert. Bitte prüfen Sie intern, was bei diesem Auftrag schiefgelaufen ist (sowohl die Verspätung als auch die Druckqualität).\nErklären Sie der Kundin kurz die Ursachen für die Probleme. Ganz wichtig: Machen Sie einen konkreten Vorschlag, wie wir die Flyer rechtzeitig vor der Messe ersetzen können oder bieten Sie alternativ eine deutliche Preisreduzierung bzw. Gutschrift an.\n\nTechSolutions ist ein wichtiger Kunde, wir müssen hier unbedingt eine gute Lösung finden, um sie nicht zu verlieren.\n\nDanke und Grüße\n\nDavid Fischer\nTeamleiter Vertrieb\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Sonja Bergmann\n**An:** Jonas Keller\n\n**Betreff:** DRINGEND: Reklamation Lieferung Werbematerial für Messe (Best.-Nr. WM-4821)\n\nSehr geehrter Herr Keller,\n\nich schreibe Ihnen bezüglich unserer Bestellung WM-4821 (Flyer und Kugelschreiber) für unseren Messeauftritt nächste Woche. Die Lieferung sollte spätestens gestern Vormittag bei uns eintreffen, kam aber erst heute Morgen an.\n\nDiese Verspätung ist schon ärgerlich genug, da wir die Materialien dringend für die Vorbereitung benötigen. Viel schlimmer ist jedoch die Qualität der gelieferten Flyer: Der Druck ist unscharf und die Farben wirken ausgewaschen. Zudem wurde offensichtlich ein viel dünneres Papier verwendet als bestellt und im Angebot spezifiziert.\n\nIn diesem Zustand sind die Flyer für einen professionellen Messeauftritt absolut unbrauchbar! Sie beschädigen unser Firmenimage.\n\nWir erwarten, dass Sie umgehend eine Lösung anbieten. Entweder Sie liefern uns bis spätestens übermorgen einwandfreie Flyer in der korrekten Qualität oder wir erwarten eine erhebliche Reduzierung des Rechnungsbetrages bzw. eine Gutschrift für die fehlerhafte Ware. Eine Erklärung für die Vorkommnisse setzen wir voraus.\n\nAufgrund der Dringlichkeit bitten wir um Ihre sofortige Rückmeldung.\n\nMit freundlichen Grüßen\n\nSonja Bergmann\nMarketingabteilung\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Bergmann beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die bestellten Werbematerialien zu spät kamen und teilweise mangelhaft sind."
+                },
+                {
+                    "key": "b",
+                    "text": "die Lieferung für die Messe komplett ausgefallen ist."
+                },
+                {
+                    "key": "c",
+                    "text": "die Preise für die Werbematerialien zu hoch waren."
+                }
+            ],
+            "loesung": "a"
+        },
+        {
+            "frage": "Ein Problem für Frau Bergmann ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die bestellten Stifte nicht geliefert wurden."
+                },
+                {
+                    "key": "b",
+                    "text": "die gelieferten Flyer für die Messe unbrauchbar sind."
+                },
+                {
+                    "key": "c",
+                    "text": "sie die gesamte Lieferung zurückschicken möchte."
+                }
+            ],
+            "loesung": "b"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Bergmann.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Bergmann,').",
+            "Beziehen Sie sich auf ihre dringende Reklamations-E-Mail bezüglich der Bestellung WM-4821 (Werbematerialien).",
+            "Bestätigen Sie den Eingang der Beschwerde und entschuldigen Sie sich aufrichtig für die entstandenen Unannehmlichkeiten (Verspätung UND mangelhafte Flyer).",
+            "Zeigen Sie Verständnis für ihre Verärgerung und die kritische Situation kurz vor der Messe.",
+            "Erklären Sie kurz und nachvollziehbar die Ursache(n) für die Probleme (z.B. technischer Defekt der Druckmaschine, unerwarteter Lieferengpass beim Papier - gemäß Teamleiter-Anweisung).",
+            "Machen Sie einen konkreten Lösungsvorschlag (gemäß Teamleiter-Anweisung): Option A (bevorzugt): Sofortiger Neudruck der Flyer in korrekter Qualität mit garantierter Express-Lieferung bis [Datum vor der Messe, z.B. 'morgen Abend'] ODER Option B: Eine deutliche Preisreduzierung/Gutschrift für die unbrauchbaren Flyer.",
+            "Versichern Sie ihr, dass Maßnahmen ergriffen werden, um solche Fehler zukünftig zu vermeiden.",
+            "Bitten Sie um kurze Rückmeldung, welche Lösung sie bevorzugt (falls Option A angeboten wird).",
+            "Wahren Sie durchgehend einen professionellen, höflichen, lösungsorientierten und serviceorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

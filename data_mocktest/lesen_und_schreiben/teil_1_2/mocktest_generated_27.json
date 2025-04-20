@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Wenzel\n**Erhalten:** heute, 09:15 Uhr\n**An:** Klaus Richter\n\n**Betreff:** FW: Beschwerde Installation Buchhaltungssoftware ProFinance\n\nHallo Herr Richter,\n\nanbei die Beschwerde von Herrn Berger (Berger & Partner GmbH), die uns gestern Abend erreichte. Bitte kümmern Sie sich darum und antworten Sie Herrn Berger höflich.\n\nErklären Sie die Gründe für die Installationsprobleme – es gab ja diese unerwarteten technischen Kompatibilitätsprobleme, die mehr Zeit erforderten. Erklären Sie auch kurz, warum die Schulung ausfallen musste (kurzfristige Erkrankung des Trainers).\n\nGanz wichtig: Machen Sie einen konkreten Vorschlag, wie wir die Probleme jetzt schnell lösen (Techniker-Einsatz Ihrerseits?) und wann die Schulung nachgeholt werden kann (bitte 2 Terminvorschläge nächste Woche anbieten).\n\nDie Firma Berger & Partner ist ein wichtiger Kunde, den wir nicht verlieren möchten.\n\nDanke und Gruß\n\nSabine Wenzel\nTeamleiterin IT-Service\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Florian Berger\n**An:** Sabine Wenzel\n\n**Betreff:** Beschwerde Installation Buchhaltungssoftware ProFinance\n\nSehr geehrte Frau Wenzel,\n\nich schreibe Ihnen bezüglich der Installation der Buchhaltungssoftware ProFinance, die Ihre Firma letzte Woche, am 15. Mai, bei uns (Berger & Partner GmbH) durchgeführt hat.\n\nLeider müssen wir uns über den Ablauf und das Ergebnis beschweren. Die Installation selbst dauerte deutlich länger als ursprünglich vereinbart. Gravierender ist jedoch, dass die Software seitdem auf mehreren Arbeitsplätzen nicht stabil läuft. Es kommt wiederholt zu Abstürzen und der Datenimport aus unserem Altsystem funktioniert nur fehlerhaft. Dies führt bereits zu erheblichen Verzögerungen in unserer Buchhaltung.\n\nZusätzlich wurde die für den 16. Mai fest vereinbarte Mitarbeiterschulung zur neuen Software äußerst kurzfristig und ohne nachvollziehbare Begründung Ihrerseits abgesagt. Unsere Mitarbeiter konnten somit bisher nicht adäquat in das neue System eingearbeitet werden.\n\nWir erwarten eine umgehende Behebung der technischen Probleme, damit unsere Buchhaltung wieder reibungslos arbeiten kann. Ebenso benötigen wir dringend einen Vorschlag für einen neuen, zeitnahen Schulungstermin.\nBitte teilen Sie uns bis Ende dieser Woche mit, wie Sie konkret vorgehen werden, um diese Mängel zu beseitigen.\n\nMit freundlichen Grüßen\n\nFlorian Berger\nBüroleitung\nBerger & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Berger beschwert sich vor allem darüber, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die versprochene Schulung ausgefallen ist."
+                },
+                {
+                    "key": "b",
+                    "text": "die installierte Software nicht wie erwartet funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Installation der Software nicht abgeschlossen wurde."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Wegen der Probleme erwartet Herr Berger nun,...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass nur die Software repariert wird."
+                },
+                {
+                    "key": "b",
+                    "text": "dass die Kosten für die Installation reduziert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "dass die technischen Fehler behoben und ein neuer Schulungstermin angeboten wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Florian Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Berger,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail vom [Datum des Vortags] bezüglich der Installation von ProFinance.",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die Unannehmlichkeiten (längere Installation, Softwareprobleme, abgesagte Schulung, resultierende Verzögerungen).",
+            "Erklären Sie kurz den Grund für die längere Installation/Probleme (gemäß Teamleiter-Anweisung: z.B. unerwartete technische Kompatibilitätsprobleme).",
+            "Erklären Sie kurz den Grund für die Absage der Schulung (gemäß Teamleiter-Anweisung: z.B. kurzfristige Erkrankung des Trainers).",
+            "Machen Sie einen konkreten Vorschlag zur Behebung der technischen Probleme (gemäß Teamleiter-Anweisung: z.B. 'Ich, Klaus Richter, komme am [Datum] um [Uhrzeit] Uhr persönlich vorbei, um die Software zu überprüfen und die Fehler zu beheben').",
+            "Bieten Sie konkrete Terminvorschläge für die Nachholung der Schulung an (gemäß Teamleiter-Anweisung: z.B. 'Wir können Ihnen folgende Termine für die Schulung anbieten: [Datum 1] oder [Datum 2]').",
+            "Bitten Sie um Bestätigung des vorgeschlagenen Techniker-Termins und um Mitteilung des bevorzugten Schulungstermins.",
+            "Versichern Sie ihm, dass die schnelle Lösung der Probleme Priorität hat.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Sarah Berger\n**Erhalten:** heute, 10:45 Uhr\n**An:** Herr Fischer\n\n**Betreff:** FW: Dringend: Probleme mit FinanzPro nach Update\n\nHallo Herr Fischer,\n\ndie dringende E-Mail unten von Herrn Klein (Klein & Partner GmbH) habe ich eben erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie dem Kunden höflich.\n\nKlein & Partner ist ein langjähriger Kunde, das Problem muss schnell gelöst werden. Bestätigen Sie Herrn Klein bitte, dass uns das Problem bekannt ist und erklären Sie kurz die Ursache (unerwartete Kompatibilitätsprobleme mit bestimmten Systemkonfigurationen nach dem Update).\n\nGanz wichtig: Informieren Sie ihn über den geplanten Hotfix und nennen Sie den voraussichtlichen Zeitpunkt – ich denke, innerhalb der nächsten 48 Stunden sollte realistisch sein. Falls ein Workaround existiert (z.B. bestimmte Berichtsfunktionen meiden), weisen Sie bitte darauf hin.\n\nVielen Dank und viele Grüße\n\nSarah Berger\nTeamleiterin Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 10:15 Uhr\n**Von:** Markus Klein\n**An:** Sarah Berger\n\n**Betreff:** Dringend: Probleme mit FinanzPro nach Update\n\nSehr geehrte Frau Berger,\n\nhiermit möchte ich mich über erhebliche Probleme mit Ihrer Buchhaltungssoftware „FinanzPro“ beschweren, die wir seit dem letzten Update letzte Woche haben. Wir nutzen Ihre Software seit zwei Jahren und waren bisher eigentlich zufrieden.\n\nSeit der Aktualisierung kommt es jedoch zu häufigen Abstürzen, insbesondere beim Erstellen von Berichten. Dies führt zu erheblichen Problemen in unserem Arbeitsablauf, inklusive Datenverlust und verlorener Arbeitszeit. Wichtige Finanzunterlagen konnten dadurch bereits mehrfach nicht rechtzeitig erstellt und eingereicht werden, was für uns inakzeptabel ist.\n\nWir bitten um dringende Behebung dieses Fehlers. Bitte teilen Sie uns bis morgen Mittag mit, wie Sie das Problem zu lösen gedenken und wann wir mit einer funktionierenden Software rechnen können.\n\nMit freundlichen Grüßen\n\nMarkus Klein\nKlein & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Klein schreibt die E-Mail, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "er generell mit der Software unzufrieden ist."
+                },
+                {
+                    "key": "b",
+                    "text": "die Buchhaltungssoftware nach einer Aktualisierung Probleme verursacht."
+                },
+                {
+                    "key": "c",
+                    "text": "wichtige Daten endgültig verloren gegangen sind."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem für die Firma Klein & Partner ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "finanzielle Berichte nicht rechtzeitig fertiggestellt werden können."
+                },
+                {
+                    "key": "b",
+                    "text": "die Software bereits seit zwei Jahren fehlerhaft ist."
+                },
+                {
+                    "key": "c",
+                    "text": "Herr Klein bis morgen Mittag eine komplette Reparatur erwartet."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Markus Klein.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Klein,').",
+            "Beziehen Sie sich auf seine E-Mail bezüglich der Probleme mit FinanzPro nach dem Update.",
+            "Bestätigen Sie den Eingang seiner Beschwerde und drücken Sie Ihr Bedauern über die Abstürze und die entstandenen Unannehmlichkeiten (Datenverlust, Zeitverlust, Verzögerungen) aus.",
+            "Bestätigen Sie, dass das Problem bekannt ist (gemäß Anweisung der Teamleitung).",
+            "Erklären Sie kurz und nachvollziehbar die Ursache (z.B. unerwartete Kompatibilitätsprobleme nach dem Update, wie von der Teamleitung vorgegeben).",
+            "Informieren Sie ihn über die geplante Lösung (Hotfix) (gemäß Anweisung der Teamleitung).",
+            "Nennen Sie den voraussichtlichen Zeitrahmen für den Hotfix (z.B. 'innerhalb der nächsten 48 Stunden') (gemäß Anweisung der Teamleitung).",
+            "Weisen Sie gegebenenfalls auf einen temporären Workaround hin (z.B. 'Vermeiden Sie vorübergehend die Funktion X'), falls von der Teamleitung erwähnt.",
+            "Reagieren Sie auf seine Bitte um Information bis morgen Mittag (die Angabe des Zeitrahmens für den Hotfix erfüllt dies).",
+            "Versichern Sie ihm, dass an der Lösung gearbeitet wird und die Stabilität wiederhergestellt wird.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, verständnisvolle und lösungsorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

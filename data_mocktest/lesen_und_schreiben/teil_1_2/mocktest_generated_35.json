@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Keller\n**Erhalten:** heute, 09:45 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde: Probleme nach Software-Update Warenwirtschaftssystem\n\nHallo,\n\nunten stehende Mail von Herrn Berger (Möbelhaus Werner) habe ich gerade erhalten. Bitte kümmern Sie sich schnellstmöglich darum und antworten Sie dem Kunden.\n\nErklären Sie kurz, warum es zu diesen Problemen nach dem Update kam (z.B. unerwartete Kompatibilitätsprobleme mit der bestehenden Datenbank). Ganz wichtig: Teilen Sie ihm mit, welche konkreten Schritte wir jetzt unternehmen (z.B. Rollback des Updates prüfen, Patch entwickeln) und nennen Sie einen realistischen Zeitrahmen für die Behebung. Erwähnen Sie auch kurz, wie wir die Testprozesse für zukünftige Updates verbessern werden.\n\nMöbelhaus Werner ist ein wichtiger Kunde, und die beschriebenen Probleme haben offenbar gravierende Auswirkungen auf ihr Geschäft. Eine schnelle und professionelle Reaktion ist entscheidend.\n\nDanke und viele Grüße\n\nSabine Keller\nTeamleiterin Kundensupport\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 09:15 Uhr\n**Von:** Klaus Berger (Möbelhaus Werner GmbH)\n**An:** Sabine Keller (IT-Solutions GmbH)\n\n**Betreff:** Beschwerde: Probleme nach Software-Update Warenwirtschaftssystem\n\nSehr geehrte Frau Keller,\n\nhiermit möchte ich mich über die erheblichen Probleme beschweren, die seit dem Update unseres Warenwirtschaftssystems am vergangenen Freitag (15.03.) aufgetreten sind. Wir arbeiten seit mehreren Jahren mit Ihrem Warenwirtschaftssystem und waren bisher mit der Funktionalität und Ihrem Service grundsätzlich zufrieden.\n\nSeit der Einspielung des Updates ist jedoch die Bestellfunktion extrem langsam geworden, oft dauert die Verarbeitung einer einzigen Bestellung mehrere Minuten. Zudem gibt es Fehler bei der Anzeige der Lagerbestände. Artikel werden als verfügbar angezeigt, obwohl sie ausverkauft sind, und umgekehrt.\n\nDies führt zu erheblichen Verzögerungen in unserem Verkaufsprozess und zu verärgerten Kunden, da wir Bestellungen nicht zeitnah bearbeiten oder falsche Verfügbarkeiten kommunizieren. Die aktuelle Situation ist für unser Tagesgeschäft nicht tragbar.\n\nWir benötigen dringend eine Lösung für diese Probleme. Bitte teilen Sie uns bis spätestens morgen Mittag (19.03., 12:00 Uhr) mit, welche Schritte Sie zur sofortigen Behebung einleiten und wann wir mit einer funktionierenden Software rechnen können.\n\nMit freundlichen Grüßen\n\nKlaus Berger\nLeiter Logistik\nMöbelhaus Werner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Berger beschwert sich hauptsächlich, weil",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der IT-Service generell zu langsam ist."
+                },
+                {
+                    "key": "b",
+                    "text": "die neue Software-Version wichtige Funktionen beeinträchtigt."
+                },
+                {
+                    "key": "c",
+                    "text": "er ein komplett neues Warenwirtschaftssystem fordert."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Aufgrund der Softwareprobleme",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kann die Firma Bestellungen nicht effizient bearbeiten."
+                },
+                {
+                    "key": "b",
+                    "text": "fordert Herr Berger eine sofortige Preissenkung für die Software."
+                },
+                {
+                    "key": "c",
+                    "text": "funktioniert nur noch die Anzeige der Lagerbestände nicht mehr."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Berger,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail vom [heutiges Datum] bezüglich der Probleme nach dem Software-Update.",
+            "Entschuldigen Sie sich aufrichtig für die entstandenen Probleme und die Auswirkungen auf sein Geschäft (Verzögerungen, Bestellprobleme).",
+            "Zeigen Sie Verständnis für die Dringlichkeit der Situation.",
+            "Erklären Sie kurz und nachvollziehbar den Grund für die Probleme (gemäß Anweisung der Teamleiterin, z.B. 'unerwartete Kompatibilitätsprobleme').",
+            "Beschreiben Sie die konkreten Schritte, die sofort eingeleitet werden (gemäß Anweisung, z.B. 'Analyse durch Spezialistenteam', 'Prüfung eines Rollbacks', 'Entwicklung eines dringenden Patches').",
+            "Geben Sie einen realistischen Zeitrahmen für die nächsten Schritte oder die Problemlösung an (gemäß Anweisung). Reagieren Sie auf seine Frist (Antwort bis 19.03., 12:00 Uhr).",
+            "Erklären Sie kurz, wie zukünftige Updates besser getestet werden (gemäß Anweisung).",
+            "Versichern Sie ihm höchste Priorität bei der Lösung des Problems.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

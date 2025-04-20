@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Keller\n**Erhalten:** heute, 09:15 Uhr\n**An:** Markus Fischer\n\n**Betreff:** FW: Reklamation Multifunktionsgerät X-Print 5000 (Kundennummer 12345)\n\nHallo Markus,\n\nanbei die E-Mail von Herrn Meier, die uns gestern Nachmittag erreicht hat. Bitte kümmern Sie sich darum und antworten Sie Herrn Meier höflich. Er ist Leiter einer Abteilung bei einem langjährigen Kunden, wir sollten ihn ernst nehmen und wollen ihn nicht verlieren.\n\nErklären Sie ihm ruhig, warum der Technikereinsatz diesmal etwas dauert (z.B. hoher Krankenstand bei den Technikern letzte Woche). Schreiben Sie ihm auch, wie wir sicherstellen, dass der Techniker das Problem nun dauerhaft löst. Ganz wichtig: Erläutern Sie bitte auch, welche Schritte wir zur Verbesserung unserer Reaktionszeiten generell unternehmen.\n\nBieten Sie ihm als kleines Zeichen unseres Bedauerns einen Rabatt von 10% auf die nächste Leasingrate an.\n\nDanke und viele Grüße\n\nSabine Keller\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 16:30 Uhr\n**Von:** Klaus Meier\n**An:** Sabine Keller\n\n**Betreff:** Reklamation Multifunktionsgerät X-Print 5000 (Kundennummer 12345)\n\nSehr geehrte Frau Keller,\n\nhiermit möchte ich mich über unser Multifunktionsgerät X-Print 5000 (Leasingvertrag, Kundennummer 12345) beschweren, das wir über Sie beziehen.\n\nSeit etwa zwei Wochen kommt es bei dem Gerät wiederholt zu erheblichen Störungen. Insbesondere treten häufig Papierstaus auf und die Druckqualität bei Farbseiten ist mangelhaft (Streifenbildung). Dies führt zu erheblichen Störungen unserer Arbeitsabläufe in der Marketingabteilung und zu unnötiger Papierverschwendung.\n\nWir haben das Problem bereits letzte Woche telefonisch gemeldet, doch der vereinbarte Technikertermin ist erst für übermorgen angesetzt. Eine Wartezeit von über einer Woche auf einen Serviceeinsatz ist für ein geschäftskritisches Gerät inakzeptabel, zumal wir bisher mit Ihrem Service eigentlich zufrieden waren und uns auf Sie als zuverlässigen Partner verlassen.\n\nWir erwarten eine umgehende und vor allem dauerhafte Behebung des Problems durch Ihren Techniker. Darüber hinaus bitten wir um eine Erklärung, wie Sie gedenken, Ihre Service-Reaktionszeiten zukünftig zu verbessern.\n\nBitte bestätigen Sie uns kurzfristig das weitere Vorgehen.\n\nMit freundlichen Grüßen\n\nKlaus Meier\nAbteilungsleiter Marketing\nMustermann GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Meier beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die schlechte Druckqualität des Geräts."
+                },
+                {
+                    "key": "b",
+                    "text": "die wiederholten technischen Probleme mit dem Kopierer und den langsamen Service."
+                },
+                {
+                    "key": "c",
+                    "text": "die hohen Kosten des Leasingvertrags."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein zentrales Problem für Herrn Meier ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der angeforderte Technikertermin zu spät stattfindet."
+                },
+                {
+                    "key": "b",
+                    "text": "das Gerät seit Vertragsbeginn Probleme macht."
+                },
+                {
+                    "key": "c",
+                    "text": "er den Leasingvertrag kündigen möchte."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Meier.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Meier,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich des Multifunktionsgeräts X-Print 5000 (Kundennummer 12345).",
+            "Entschuldigen Sie sich höflich für die technischen Probleme und insbesondere für die lange Wartezeit auf den Technikertermin.",
+            "Zeigen Sie Verständnis für die dadurch entstandenen Unannehmlichkeiten und Störungen der Arbeitsabläufe.",
+            "Erklären Sie kurz den Grund für die Verzögerung des Serviceeinsatzes (gemäß Anweisung der Teamleitung, z.B. hoher Krankenstand).",
+            "Erläutern Sie, wie der Techniker eine dauerhafte Lösung sicherstellen wird (gemäß Anweisung, z.B. gründliche Prüfung, Austausch relevanter Teile).",
+            "Beschreiben Sie die Maßnahmen zur Verbesserung der zukünftigen Service-Reaktionszeiten (gemäß Anweisung, z.B. Prozessoptimierung, Personalaufstockung).",
+            "Bieten Sie den von der Teamleitung vorgeschlagenen Rabatt von 10% auf die nächste Leasingrate als Entgegenkommen an.",
+            "Verwenden Sie durchgehend eine professionelle, höfliche und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Lena Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Schmidt\n\n**Betreff:** FW: Dringende Beschwerde IT-Support - ABC Solutions GmbH\n\nHallo Herr Schmidt,\n\ndie unten stehende Mail habe ich gerade erhalten. ABC Solutions ist ein wichtiger, langjähriger Kunde, den wir auf keinen Fall verlieren dürfen.\n\nBitte kümmern Sie sich umgehend darum und antworten Sie Herrn Weber höflich.\nNennen Sie ruhig die Gründe für die aktuellen Verzögerungen und Kommunikationsprobleme (z.B. hohes Ticketaufkommen durch das neue Software-Rollout, kurzfristige Personalengpässe).\nGanz wichtig: Erklären Sie auch detailliert, welche Maßnahmen wir jetzt ergreifen, um den Service zu verbessern und die SLAs wieder zuverlässig einzuhalten.\n\nDanke und Gruß\n\nLena Richter\nTeamleiterin IT-Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Markus Weber\n**An:** Lena Richter\n\n**Betreff:** Dringende Beschwerde: Servicequalität IT-Support\n\nSehr geehrte Frau Richter,\n\nals langjähriger Kunde (seit 3 Jahren) Ihrer IT-Dienstleistungen waren wir bisher im Großen und Ganzen zufrieden. Leider müssen wir uns nun jedoch über eine signifikante Verschlechterung Ihres Services in den letzten zwei Monaten beschweren.\n\nKonkret geht es um die Reaktionszeiten auf unsere Support-Anfragen. Die vertraglich vereinbarten Reaktionszeiten von maximal 4 Stunden werden wiederholt nicht eingehalten. Teilweise warten unsere Mitarbeiter über einen Tag auf eine erste Rückmeldung. Zusätzlich mangelt es an proaktiver Kommunikation über den Bearbeitungsstatus offener Tickets. Wir müssen ständig nachfragen, was zu erheblichem Frust und Zeitverlust führt.\n\nDiese Situation beeinträchtigt die Produktivität unserer Teams spürbar und verursacht Verzögerungen bei wichtigen Projekten. Das ist für uns nicht länger hinnehmbar.\n\nWir erwarten eine umgehende Rückkehr zur Einhaltung der vereinbarten SLAs, eine klare Erklärung für die Probleme sowie eine Darlegung, wie Sie zukünftig eine konstante Servicequalität sicherstellen wollen. Bitte informieren Sie uns bis Ende dieser Woche über die geplanten Schritte.\n\nMit freundlichen Grüßen\n\nMarkus Weber\nLeiter Operations\nABC Solutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Weber beschwert sich bei Frau Richter vor allem, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die IT-Probleme seiner Mitarbeiter nicht gelöst werden können."
+                },
+                {
+                    "key": "b",
+                    "text": "die Reaktionszeiten des Supports zu lang sind und die Kommunikation schlecht ist."
+                },
+                {
+                    "key": "c",
+                    "text": "der IT-Support-Vertrag zu teuer für die gebotene Leistung ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme mit dem IT-Support haben dazu geführt, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Mitarbeiter der Firma ABC Solutions GmbH langsamer arbeiten."
+                },
+                {
+                    "key": "b",
+                    "text": "Herr Weber den Vertrag sofort kündigen möchte."
+                },
+                {
+                    "key": "c",
+                    "text": "die Probleme erst seit wenigen Tagen bestehen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Weber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Weber,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich der IT-Support-Servicequalität.",
+            "Entschuldigen Sie sich höflich und aufrichtig für die entstandenen Unannehmlichkeiten und die Serviceprobleme.",
+            "Zeigen Sie Verständnis für seine Verärgerung.",
+            "Erklären Sie (sachlich) den Grund für die Verzögerungen und Kommunikationsprobleme (gemäß Anweisung der Teamleitung, z.B. hohes Ticketaufkommen, Personalengpass).",
+            "Erklären Sie detailliert die konkreten Maßnahmen zur sofortigen Verbesserung (z.B. Ressourcenzuweisung, Priorisierung).",
+            "Erklären Sie Maßnahmen zur zukünftigen Sicherstellung der Servicequalität und Kommunikation (z.B. verbessertes Monitoring, proaktive Updates).",
+            "Bestätigen Sie das Engagement zur Einhaltung der vereinbarten SLAs.",
+            "Versichern Sie ihm, dass seine Zufriedenheit als Kunde wichtig ist.",
+            "Verwenden Sie eine formelle, höfliche und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

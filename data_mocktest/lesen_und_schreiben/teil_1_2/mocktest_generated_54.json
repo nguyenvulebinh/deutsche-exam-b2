@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Lars Petersen\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Multifunktionsdrucker XZ-500 (Bestellnr. 12345)\n\nHallo,\n\ndiese Mail von Frau Koch (Bürobedarf Müller) kam gerade rein. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nBestätigen Sie ihr einen baldigen Technikertermin zur Überprüfung des Geräts. Entschuldigen Sie sich bitte auch ausdrücklich für die Unannehmlichkeiten, die durch die Störungen entstanden sind.\n\nBürobedarf Müller ist ein wichtiger Neukunde, den wir nicht gleich wieder verärgern wollen.\n\nViele Grüße\n\nLars Petersen\nTeamleiter Kundenservice\nPrintProfi GmbH\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:10 Uhr\n**Von:** Sabine Koch (Bürobedarf Müller GmbH)\n**An:** Lars Petersen (PrintProfi GmbH)\n\n**Betreff:** Reklamation Multifunktionsdrucker XZ-500 (Bestellnr. 12345)\n\nSehr geehrter Herr Petersen,\n\nletzte Woche wurde der bei Ihnen bestellte Multifunktionsdrucker Modell XZ-500 (Bestellnr. 12345) geliefert.\n\nLeider müssen wir Ihnen mitteilen, dass wir seit der Inbetriebnahme erhebliche Probleme mit dem Gerät haben. Insbesondere kommt es sehr häufig zu Papierstaus, vor allem bei der Verwendung von etwas dickerem Papier (über 100g/m²), das wir für bestimmte Dokumente benötigen. Einfache Maßnahmen wie die Überprüfung des Papiereinzugs oder ein Neustart des Geräts haben das Problem nicht behoben.\n\nDiese ständigen Unterbrechungen stören unsere Arbeitsabläufe erheblich und kosten wertvolle Zeit sowie Material.\n\nWir bitten Sie um eine rasche Behebung des Problems. Bitte organisieren Sie einen Technikerbesuch zur Überprüfung und Reparatur des Geräts. Wir bitten um eine Rückmeldung bis spätestens übermorgen, [Datum in 2 Tagen], wie Sie weiter vorgehen werden.\n\nMit freundlichen Grüßen\n\nSabine Koch\nLeitung Büroorganisation\nBürobedarf Müller GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Koch beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die verspätete Lieferung des Geräts."
+                },
+                {
+                    "key": "b",
+                    "text": "...die häufigen Störungen des neuen Druckers."
+                },
+                {
+                    "key": "c",
+                    "text": "...die komplizierte Bedienung des Druckers."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Frau Koch erwartet, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...ein Techniker das Gerät überprüft und repariert."
+                },
+                {
+                    "key": "b",
+                    "text": "...das Gerät sofort ausgetauscht wird."
+                },
+                {
+                    "key": "c",
+                    "text": "...sie eine Anleitung zur Fehlerbehebung erhält."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Koch (Bürobedarf Müller GmbH).",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrte Frau Koch,').",
+            "Beziehen Sie sich auf ihre E-Mail vom [Datum gestern] bezüglich des Multifunktionsdruckers XZ-500 (Bestellnr. 12345).",
+            "Bestätigen Sie den Erhalt ihrer Reklamation.",
+            "Entschuldigen Sie sich höflich und ausdrücklich für die aufgetretenen Probleme (Papierstaus) und die dadurch entstandenen Unannehmlichkeiten (gemäß Anweisung der Teamleitung).",
+            "Zeigen Sie Verständnis für die Störung der Arbeitsabläufe.",
+            "Bestätigen Sie, dass ein Technikertermin zur Überprüfung und Reparatur des Geräts arrangiert wird (gemäß Anweisung der Teamleitung).",
+            "Informieren Sie sie über den nächsten Schritt (z.B. 'Unsere technische Abteilung wird sich in Kürze bei Ihnen melden, um einen passenden Termin zu vereinbaren').",
+            "Versichern Sie ihr, dass das Problem ernst genommen wird und an einer schnellen Lösung gearbeitet wird.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

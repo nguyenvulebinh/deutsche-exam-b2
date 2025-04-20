@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Hannah Voss\n**Erhalten:** heute, 09:45 Uhr\n**An:** ...\n\n**Betreff:** FW: Dringende Reklamation: Defekter Laptop Lieferung 2023-10-15 / Bestellung 88432\n\nHallo,\n\ndie unten stehende Mail eines neuen Kunden habe ich gerade erhalten. Bitte kümmern Sie sich **sofort** darum und antworten Sie Herrn Schröder höflich.\n\nEs ist sehr ärgerlich, dass direkt ein Gerät defekt ist und unser Telefonsupport anscheinend nicht hilfreich war. Bitte entschuldigen Sie sich dafür.\n\nGanz wichtig: Leiten Sie bitte einen **sofortigen Vorabaustausch** für den defekten Laptop ein, keine Standard-RMA! Erklären Sie Herrn Schröder den Ablauf genau. Wir wollen diesen Kunden nicht durch so einen Vorfall verärgern.\n\nDanke für die schnelle Erledigung!\n\nViele Grüße\n\nHannah Voss\nTeamleiterin Kundenservice\nIT-Systeme Plus\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 09:18 Uhr\n**Von:** Ben Schröder\n**An:** Hannah Voss\n\n**Betreff:** Dringende Reklamation: Defekter Laptop Lieferung 2023-10-15 / Bestellung 88432\n\nSehr geehrte Frau Voss,\n\nich schreibe Ihnen bezüglich unserer Laptop-Bestellung Nr. 88432, die wir gestern erhalten haben.\nLeider mussten wir feststellen, dass eines der fünf gelieferten Modelle (Seriennummer: LPT-SN77901) defekt ist. Das Gerät lässt sich nicht einschalten, auch nach Überprüfung der Stromzufuhr.\n\nDies ist besonders ärgerlich, da wir den Laptop dringend für einen neuen Mitarbeiter benötigen, der nächste Woche anfängt. Mein Anruf bei Ihrer Support-Hotline eben war leider wenig hilfreich. Man verwies mich lediglich auf das Standardverfahren zur Rücksendung und Reparatur, was für uns viel zu lange dauert und keine Lösung darstellt.\n\nWir sind Neukunde bei Ihnen und hatten uns aufgrund Ihres guten Rufs für IT-Systeme Plus entschieden. Diese Erfahrung ist bisher jedoch sehr enttäuschend.\n\nWir erwarten eine umgehende Lösung dieses Problems, idealerweise einen sofortigen Austausch des defekten Geräts, damit unser neuer Mitarbeiter pünktlich arbeitsfähig ist. Bitte teilen Sie uns bis spätestens morgen mit, wie Sie hier vorgehen werden.\n\nMit freundlichen Grüßen\n\nBen Schröder\nKreativ Design GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Schröder beschwert sich bei IT-Systeme Plus, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die gesamte Laptop-Lieferung verspätet war."
+                },
+                {
+                    "key": "b",
+                    "text": "ein neu gelieferter Laptop nicht funktioniert und der Support nicht half."
+                },
+                {
+                    "key": "c",
+                    "text": "er Probleme mit der Software auf den Laptops hat."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet von der Firma, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Laptop vor Ort repariert wird."
+                },
+                {
+                    "key": "b",
+                    "text": "er eine detaillierte technische Erklärung für den Defekt erhält."
+                },
+                {
+                    "key": "c",
+                    "text": "das defekte Gerät schnellstmöglich ausgetauscht wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Ben Schröder.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Schröder,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail (defekter Laptop, Bestellung 88432).",
+            "Drücken Sie Ihr aufrichtiges Bedauern über den Defekt des Laptops aus.",
+            "Entschuldigen Sie sich ausdrücklich für die unzureichende Hilfe durch den Telefonsupport (gemäß Anweisung der Teamleiterin).",
+            "Zeigen Sie Verständnis für die Dringlichkeit (neuer Mitarbeiter).",
+            "Bestätigen Sie, dass ein **sofortiger Vorabaustausch** veranlasst wird (gemäß Anweisung der Teamleiterin).",
+            "Erklären Sie kurz den Ablauf des Vorabaustauschs (z.B. 'Wir senden Ihnen heute noch ein neues Gerät zu. Im Paket finden Sie ein Rücksendeetikett für das defekte Gerät.').",
+            "Versichern Sie ihm, dass das neue Gerät schnellstmöglich bei ihm eintrifft.",
+            "Wahren Sie einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

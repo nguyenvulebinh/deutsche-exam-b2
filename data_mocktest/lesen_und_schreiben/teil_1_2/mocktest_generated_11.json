@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Fischer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Erneute Beschwerde Kaffeemaschine Berger & Partner Consulting\n\nHallo,\n\nunten stehende Mail von Herrn Berger (Berger & Partner Consulting) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie Herrn Berger höflich.\n\nNennen Sie ihm kurz einen möglichen Grund für die wiederholten Probleme mit der Kaffeemaschine. Ganz wichtig: Bieten Sie ihm eine klare Lösung an – entweder eine letzte, gründliche Reparatur mit Erfolgsgarantie oder direkt den Austausch der Maschine.\n\nBerger & Partner ist ein langjähriger Kunde, den wir nicht verlieren möchten.\n\nDanke und viele Grüße\n\nSabine Fischer\nTeamleiterin Service\nKaffeetechnik Schnell GmbH\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Klaus Berger\n**An:** kundenservice@kaffeetechnik-schnell.de (z.Hd. Herr Schmidt)\n\n**Betreff:** Erneute Beschwerde Kaffeemaschine Modell ProfiPlus X2\n\nSehr geehrter Herr Schmidt,\n\nleider müssen wir uns erneut über die von Ihnen gelieferte und gewartete Kaffeemaschine (Modell ProfiPlus X2, Standort Berger & Partner Consulting) beschweren.\n\nWie Sie wissen, fällt die Maschine seit einigen Wochen regelmäßig aus oder zeigt ständig Fehlermeldungen an. Ihre Techniker waren bereits mehrfach vor Ort, die Reparaturen brachten jedoch immer nur kurzfristige Besserung. In den letzten Tagen ist der Zustand unerträglich geworden – die Maschine produziert entweder gar keinen Kaffee mehr oder nur mit erheblichen Störungen.\n\nDies stört nicht nur massiv den Arbeitsablauf und verärgert unsere Mitarbeiter, sondern ist auch äußerst peinlich bei Kundenbesuchen. Dieser Zustand ist für uns nicht länger hinnehmbar.\n\nWir erwarten von Ihnen umgehend eine dauerhafte Lösung. Entweder sorgen Sie für eine endgültige, zuverlässige Reparatur oder Sie stellen uns ein Austauschgerät zur Verfügung. Bitte teilen Sie uns bis Ende dieser Woche mit, welche konkreten Schritte Sie unternehmen werden.\n\nMit freundlichen Grüßen\n\nKlaus Berger\nOffice Manager\nBerger & Partner Consulting\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Berger beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die letzte Reparatur zu teuer war."
+                },
+                {
+                    "key": "b",
+                    "text": "die Kaffeemaschine immer wieder Probleme macht."
+                },
+                {
+                    "key": "c",
+                    "text": "er eine neue Maschine kaufen möchte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Herr Berger erwartet von Kaffeetechnik Schnell GmbH,...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass sofort ein Techniker vorbeikommt."
+                },
+                {
+                    "key": "b",
+                    "text": "dass die Kosten für den Kaffee erstattet werden."
+                },
+                {
+                    "key": "c",
+                    "text": "dass das Problem schnell und endgültig gelöst wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Berger,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich der Kaffeemaschine ProfiPlus X2.",
+            "Drücken Sie Ihr aufrichtiges Bedauern über die wiederholten Ausfälle und die entstandenen Unannehmlichkeiten (Störung Arbeitsablauf, Ärger, Kundenbesuche) aus.",
+            "Entschuldigen Sie sich höflich und klar für die Probleme.",
+            "Nennen Sie kurz einen plausiblen Grund für die wiederholten Probleme (gemäß Anweisung der Teamleiterin, z.B. 'komplexer, intermittierender Fehler', 'Problem mit einem spezifischen Bauteil').",
+            "Bieten Sie eine klare Lösung an (gemäß Anweisung der Teamleiterin): Option 1: Eine letzte, gründliche Reparatur durch einen Spezialisten mit Erfolgsgarantie anbieten (ggf. Termin vorschlagen).",
+            "Bieten Sie eine klare Lösung an (gemäß Anweisung der Teamleiterin): Option 2: Einen Austausch der Maschine gegen ein gleichwertiges oder neues Modell anbieten (ggf. Zeitrahmen nennen).",
+            "Fordern Sie den Kunden höflich auf, Ihnen mitzuteilen, welche Lösung er bevorzugt, oder schlagen Sie ein kurzes Telefonat zur Klärung vor.",
+            "Reagieren Sie auf die vom Kunden gesetzte Frist ('Ende dieser Woche'), indem Sie eine schnelle Klärung und Umsetzung zusichern.",
+            "Versichern Sie ihm, dass seine Zufriedenheit als langjähriger Kunde wichtig ist.",
+            "Verwenden Sie durchgehend eine professionelle, höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

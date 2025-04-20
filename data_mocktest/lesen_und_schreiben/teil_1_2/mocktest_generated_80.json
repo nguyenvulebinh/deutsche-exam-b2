@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Neumann\n**Erhalten:** heute, 09:15 Uhr\n**An:** Frau Meyer\n\n**Betreff:** FW: Reklamation Lieferung Büromaterial - Bestellnummer 78912\n\nHallo Frau Meyer,\n\nunten stehende Mail von Frau Keller (Müller & Partner GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nMüller & Partner ist ein wichtiger und langjähriger Kunde, den wir auf keinen Fall verlieren möchten.\n\nNennen Sie ruhig die Gründe für die Falschlieferung und die Beschädigung – vermutlich ein Fehler im Lager und ein Transportschaden, bitte prüfen Sie das kurz intern.\n\nGanz wichtig: Schreiben Sie ihr, wie wir das Problem konkret lösen: Sofortige kostenlose Ersatzlieferung der korrekten Stifte und des Papiers veranlassen und bestätigen Sie ihr die Gutschrift für die beschädigte Ware.\n\nBieten Sie ihr als kleine Entschuldigung für die Unannehmlichkeiten zusätzlich kostenlosen Versand für ihre nächste Bestellung an.\n\nVielen Dank und Grüße\n\nMarkus Neumann\nTeamleiter Kundenbetreuung\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Sabine Keller (Müller & Partner GmbH)\n**An:** Markus Neumann\n\n**Betreff:** Reklamation Lieferung Büromaterial - Bestellnummer 78912\n\nSehr geehrter Herr Neumann,\n\nhiermit reklamiere ich Ihre Lieferung von Büromaterial (Bestellnummer 78912), die wir gestern erhalten haben.\n\nLeider mussten wir feststellen, dass die Lieferung fehlerhaft war. Anstelle der bestellten 50 schwarzen Kugelschreiber (Art.-Nr. KGS-SW-10) wurden uns 50 blaue Kugelschreiber geliefert. Zudem war bei fünf Paketen Kopierpapier (Art.-Nr. KOP-A4-80) die äußere Verpackung aufgerissen und das Papier ist teilweise stark verschmutzt und somit für uns unbrauchbar.\n\nWir benötigen die schwarzen Kugelschreiber dringend für eine Konferenz am Ende dieser Woche. Die beschädigte Ware können wir selbstverständlich nicht verwenden.\n\nWir bitten Sie daher um umgehende Nachlieferung der korrekten schwarzen Kugelschreiber sowie um Ersatz für die fünf beschädigten Pakete Kopierpapier. Für die beschädigten Artikel erwarten wir eine entsprechende Gutschrift.\n\nBitte teilen Sie uns bis Freitag mit, wie Sie weiter verfahren werden.\n\nMit freundlichen Grüßen\n\nSabine Keller\nOffice Managerin\nMüller & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung zu spät kam."
+                },
+                {
+                    "key": "b",
+                    "text": "die Lieferung teilweise falsch und beschädigt war."
+                },
+                {
+                    "key": "c",
+                    "text": "die bestellten Artikel zu teuer waren."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet unter anderem,...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass die Ware schnell ersetzt und eine Gutschrift erstellt wird."
+                },
+                {
+                    "key": "b",
+                    "text": "dass ein Mitarbeiter die beschädigte Ware abholt."
+                },
+                {
+                    "key": "c",
+                    "text": "dass die nächste Lieferung kostenlos sein wird."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail bezüglich der Bestellung 78912 / Lieferung von gestern.",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die Falschlieferung der Stifte und die beschädigte Papierlieferung.",
+            "Zeigen Sie Verständnis für die entstandenen Unannehmlichkeiten (z.B. Dringlichkeit der Stifte).",
+            "Erklären Sie kurz und sachlich die Ursache(n) für die Fehler (gemäß Teamleiter-Anweisung, z.B. Fehler im Lager, Transportschaden).",
+            "Bestätigen Sie die sofortige, kostenlose Ersatzlieferung der korrekten schwarzen Kugelschreiber.",
+            "Bestätigen Sie die sofortige, kostenlose Ersatzlieferung der 5 Pakete Kopierpapier.",
+            "Bestätigen Sie, dass eine Gutschrift für das beschädigte Papier erstellt wird.",
+            "Bieten Sie als zusätzliche Entschuldigung kostenlosen Versand für die nächste Bestellung an (gemäß Teamleiter-Anweisung).",
+            "Versichern Sie, dass Maßnahmen zur Verbesserung der internen Prozesse ergriffen werden.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Marisa Leon\n**Erhalten:** heute, 8:23 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde Verschlechterung des Services\n\nHallo,\n\nunten stehende E-Mail erreichte mich gestern. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich. Herr Stemmler ist seit Jahren Kunde bei uns und ich möchte ihn ungern verlieren. Sie können ihm ruhig den Grund für unsere aktuellen Probleme nennen. Ganz wichtig: Bitte schreiben Sie Herrn Stemmler auch, wie wir diese Probleme zukünftig lösen werden.\n\nVielen Dank und beste Grüße\n\nMarisa Leon\nTeamleiterin\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 12:54 Uhr\n**Von:** Frank Stemmler\n**An:** Marisa Leon\n\n**Betreff:** Beschwerde Verschlechterung des Services\n\nSehr geehrte Frau Leon,\n\nleider bin ich mit Ihrem Service gar nicht mehr zufrieden. Sie führen bei uns die tägliche Reinigung aller Büroräume aus. Dazu gehört auch, in den Küchen aufzuräumen und die Konferenzräume für den nächsten Tag vorzubereiten. Bisher waren wir mit Ihrem Personal sehr zufrieden.\n\nIn den letzten drei Wochen kam es immer wieder vor, dass vor allem die Konferenzräume nicht ordentlich waren. Das führt zu Problemen, wenn dort am nächsten Tag bereits am Vormittag eine Besprechung stattfindet. Wir können uns nicht auf die Qualität Ihrer Arbeit verlassen und müssen selbst aufräumen. Auch die Reinigung der Büros und Küchen war in letzter Zeit oft nicht zufriedenstellend.\n\nBitte sorgen Sie wieder für einen einwandfreien Service in gewohnter Qualität.\nIch erwarte Ihre Antwort bis kommenden Freitag.\n\nMit freundlichen Grüßen\nFrank Stemmler\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Stemmler",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "beschwert sich über Probleme während einer Konferenz."
+                },
+                {
+                    "key": "b",
+                    "text": "ist mit der Reinigung der Konferenzräume unzufrieden."
+                },
+                {
+                    "key": "c",
+                    "text": "möchte für den Reinigungsservice anderes Personal."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "bestehen schon länger."
+                },
+                {
+                    "key": "b",
+                    "text": "sind seit einigen Wochen zu beobachten."
+                },
+                {
+                    "key": "c",
+                    "text": "treten seit drei Monaten auf."
+                }
+            ],
+            "loesung": "b"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Stemmler.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Stemmler,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich der Reinigungsqualität.",
+            "Zeigen Sie Verständnis für seine Unzufriedenheit und entschuldigen Sie sich höflich für die Unannehmlichkeiten.",
+            "Nennen Sie (wie von der Teamleitung gefordert) einen plausiblen Grund für die aktuellen Probleme (z.B. kurzfristige Personalausfälle, Einarbeitung neuer Mitarbeiter).",
+            "Erklären Sie (wie von der Teamleitung gefordert), welche konkreten Maßnahmen ergriffen werden, um die Probleme zukünftig zu lösen und die gewohnte Qualität sicherzustellen (z.B. zusätzliche Qualitätskontrollen, Nachschulung, Sicherstellung der Personaldeckung).",
+            "Versichern Sie ihm, dass die Servicequalität umgehend wiederhergestellt wird.",
+            "Verwenden Sie eine höfliche, formelle und kundenorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Voss\n**Erhalten:** heute, 09:15 Uhr\n**An:** Hanna Klein\n\n**Betreff:** FW: Probleme mit Netzwerkverbindung\n\nHallo Frau Klein,\n\ndie unten stehende Beschwerde von Frau Weber (Kreativagentur GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich dringend darum und antworten Sie der Kundin höflich.\n\nNehmen Sie die Beschwerde bitte ernst. Prüfen Sie umgehend unsere Leitungswerte und die Konfiguration für die Kreativagentur. Nennen Sie der Kundin mögliche Ursachen (z.B. technische Störung in der Region, Überlastung), aber seien Sie vorsichtig mit endgültigen Aussagen, solange die Prüfung läuft.\n\nWichtig ist: Schlagen Sie konkrete Maßnahmen zur Fehlerbehebung vor (z.B. Technikerbesuch zur Überprüfung vor Ort, remote Konfigurationsanpassung) und geben Sie ihr bis Ende dieser Woche eine Rückmeldung mit einem klaren Plan, wie wir vorgehen.\n\nDie Kreativagentur ist ein langjähriger Kunde, wir wollen sie auf keinen Fall verlieren.\n\nDanke und viele Grüße\n\nStefan Voss\nTeamleiter IT-Support\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Julia Weber\n**An:** Stefan Voss\n\n**Betreff:** Probleme mit Netzwerkverbindung\n\nSehr geehrter Herr Voss,\n\nich schreibe Ihnen bezüglich der Internetverbindung, die Sie für unsere Kreativagentur bereitstellen. Wir sind seit mehreren Jahren Kunde bei Ihnen und waren bisher meist zufrieden mit Ihrem Service.\n\nLeider müssen wir feststellen, dass es in den letzten Wochen verstärkt zu Problemen kommt. Die Internetverbindung ist oft sehr langsam und es treten häufige Ausfälle der Verbindung auf. Dies beeinträchtigt unsere tägliche Arbeit stark. Wichtige Videokonferenzen mit Kunden brechen ab und der Zugriff auf unsere Cloud-Daten ist teilweise nur sehr mühsam möglich.\n\nWir haben diese Störungen bereits mehrfach über Ihre Hotline gemeldet, jedoch gab es bisher keine dauerhafte Verbesserung der Situation.\n\nWir bitten Sie dringend um eine gründliche Untersuchung der Ursachen und eine dauerhafte Lösung. Wir erwarten von Ihnen bis Ende dieser Woche eine Rückmeldung mit einem konkreten Plan, wie Sie die Stabilität und Geschwindigkeit unserer Verbindung wiederherstellen wollen.\n\nMit freundlichen Grüßen\n\nJulia Weber\nOffice Managerin\nKreativagentur GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sie mit den Kosten für den IT-Service unzufrieden ist."
+                },
+                {
+                    "key": "b",
+                    "text": "die Internetverbindung in ihrer Agentur unzuverlässig und langsam ist."
+                },
+                {
+                    "key": "c",
+                    "text": "ein Technikertermin nicht eingehalten wurde."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme mit der Verbindung führen dazu, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Mitarbeiter der Agentur in ihrer Arbeit behindert werden."
+                },
+                {
+                    "key": "b",
+                    "text": "die Agentur den Anbieter wechseln möchte."
+                },
+                {
+                    "key": "c",
+                    "text": "nur noch Videokonferenzen möglich sind."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Weber.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich auf ihre E-Mail bezüglich der Netzwerkprobleme.",
+            "Nehmen Sie die Beschwerde ernst und entschuldigen Sie sich höflich für die Unannehmlichkeiten und die Beeinträchtigung ihrer Arbeit.",
+            "Informieren Sie sie, dass die Leitungswerte und Konfiguration geprüft werden.",
+            "Nennen Sie vorsichtig mögliche Ursachen (wie von der Teamleitung vorgegeben, z.B. regionale Störung, Überlastung), aber betonen Sie, dass die genaue Ursachenforschung läuft.",
+            "Schlagen Sie konkrete Maßnahmen zur Fehlerbehebung vor (wie von der Teamleitung vorgegeben, z.B. Vereinbarung eines Technikertermins, Durchführung von Remote-Anpassungen).",
+            "Geben Sie eine klare Rückmeldung mit einem Zeitplan/Plan für die nächsten Schritte bis Ende der Woche (wie von der Kundin gefordert und vom Teamleiter angewiesen).",
+            "Versichern Sie ihr, dass an einer dauerhaften Lösung gearbeitet wird und ihre Zufriedenheit wichtig ist.",
+            "Verwenden Sie durchgehend eine höfliche, professionelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

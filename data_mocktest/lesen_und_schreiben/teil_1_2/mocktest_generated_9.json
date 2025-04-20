@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Wagner\n**Erhalten:** heute, 09:45 Uhr\n**An:** Herr Bauer\n\n**Betreff:** FW: Reklamation Lieferung Büromaterial – Bestellung Nr. 4512\n\nGuten Morgen Herr Bauer,\n\nich habe gerade die unten stehende Reklamation von Frau Gruber (Innovatec GmbH) erhalten.\nBitte kümmern Sie sich umgehend darum und antworten Sie der Kundin höflich.\n\nBitte entschuldigen Sie sich für die Fehler bei der Lieferung. Klären Sie intern kurz, wie es zu den Fehlern kommen konnte – Sie müssen das aber nicht detailliert erklären, wichtiger ist die Lösung. Organisieren Sie die sofortige Nachlieferung der korrekten und fehlenden Artikel sowie den Ersatz der Patronen. Informieren Sie Frau Gruber auch über das Vorgehen bezüglich der Rücksendung der falschen/beschädigten Ware.\n\nInnovatec GmbH ist ein wichtiger Kunde, wir wollen sie nicht verlieren.\n\nVielen Dank und viele Grüße,\n\nSabine Wagner\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 09:15 Uhr\n**Von:** Maria Gruber\n**An:** Klaus Lehmann\n\n**Betreff:** Reklamation Lieferung Büromaterial – Bestellung Nr. 4512\n\nSehr geehrter Herr Lehmann,\n\nhiermit möchte ich mich über Ihre Lieferung vom gestrigen Tag (Bestellnummer 4512) beschweren. Wir bestellen regelmäßig bei Ihnen und waren bisher meist zufrieden, doch diese Lieferung war leider sehr fehlerhaft.\n\nKonkret geht es um folgende Punkte:\n1.  Anstatt der bestellten blauen Flipchart-Marker (Artikelnummer M-BL-05) haben wir schwarze Marker (Artikelnummer M-SW-05) erhalten.\n2.  Zwei der gelieferten Druckerpatronen (Modell HP 304, Artikelnummer P-HP304) waren beschädigt. Die Verpackung war aufgerissen und Tinte ist ausgelaufen, sie sind somit unbrauchbar.\n3.  Die 10 bestellten USB-Sticks (32GB, Artikelnummer USB-32G) fehlten in der Lieferung komplett.\n\nDie falschen Marker sind für unsere anstehenden Workshops ungeeignet, die beschädigten Patronen können wir nicht verwenden und die fehlenden USB-Sticks wurden dringend für ein Projekt benötigt, das nun verzögert wird.\n\nWir bitten um umgehende Nachlieferung der korrekten blauen Marker und der fehlenden USB-Sticks sowie um Ersatz für die beiden beschädigten Druckerpatronen. Bitte teilen Sie uns außerdem mit, wie wir mit den falsch gelieferten schwarzen Markern und den beschädigten Patronen verfahren sollen (Rücksendung?).\n\nWir erwarten Ihre Rückmeldung bis spätestens übermorgen.\n\nMit freundlichen Grüßen\n\nMaria Gruber\nInnovatec GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Gruber beschwert sich hauptsächlich darüber, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung zu spät ankam."
+                },
+                {
+                    "key": "b",
+                    "text": "die Lieferung fehlerhaft und unvollständig war."
+                },
+                {
+                    "key": "c",
+                    "text": "die Qualität aller gelieferten Produkte schlecht war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Was erwartet Frau Gruber von Bürobedarf Schnell GmbH?",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Eine schnelle Korrektur der Lieferung und Informationen zur Rücksendung."
+                },
+                {
+                    "key": "b",
+                    "text": "Einen Preisnachlass für die fehlerhafte Lieferung."
+                },
+                {
+                    "key": "c",
+                    "text": "Dass die Bestellung storniert und das Geld zurückerstattet wird."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Gruber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Gruber,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom [Datum] bezüglich Bestellung Nr. 4512.",
+            "Entschuldigen Sie sich höflich für die fehlerhafte und unvollständige Lieferung sowie die entstandenen Unannehmlichkeiten (gemäß Anweisung der Teamleiterin).",
+            "Bestätigen Sie die spezifischen Probleme (falsche Marker, beschädigte Patronen, fehlende USB-Sticks).",
+            "Informieren Sie sie, dass die korrekten blauen Marker, die Ersatz-Druckerpatronen und die fehlenden USB-Sticks umgehend nachgeliefert werden (gemäß Anweisung der Teamleiterin).",
+            "Geben Sie an, wie mit den falschen schwarzen Markern und den beschädigten Patronen verfahren werden soll (z.B. Rücksendung nicht nötig, werden abgeholt, Rücksendeetikett wird zugesendet) (gemäß Anweisung der Teamleiterin).",
+            "Nennen Sie (optional, aber empfohlen) einen voraussichtlichen Liefertermin für die Ersatzlieferung.",
+            "Versichern Sie ihr (optional), dass Maßnahmen ergriffen werden, um solche Fehler zukünftig zu vermeiden.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Martin Fischer\n**Erhalten:** heute, 09:15 Uhr\n**An:** Anna Schmidt\n\n**Betreff:** FW: Reklamation Multifunktionsdrucker XZ-500 - Marketingfirma Kreativ GmbH\n\nHallo Anna,\n\ndiese Mail von Herrn Richter habe ich gerade bekommen. Bitte kümmern Sie sich darum und antworten Sie dem Kunden höflich.\n\nDie Marketingfirma Kreativ GmbH ist ein langjähriger Kunde, den wir nicht verlieren wollen. Erklären Sie bitte kurz die möglichen Ursachen für die wiederholten Probleme – prüfen Sie ggf. intern, ob es bekannte Schwachstellen bei diesem Modell gibt. Machen Sie einen konkreten Vorschlag zur Lösung (zeitnaher Termin für umfassende Reparatur? Prüfung auf Austausch?). Wichtig: Gehen Sie auf die Dringlichkeit und die vom Kunden gewünschte Frist bis Ende nächster Woche ein.\n\nDanke und viele Grüße\n\nMartin Fischer\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Klaus Richter\n**An:** Sabine Meyer\n\n**Betreff:** Reklamation Multifunktionsdrucker XZ-500\n\nSehr geehrte Frau Meyer,\n\nhiermit möchte ich mich über den Multifunktionsdrucker Modell XZ-500 beschweren, den unsere Marketingabteilung vor sechs Monaten von Ihnen geleast hat.\n\nNach anfänglich einwandfreiem Betrieb kommt es seit etwa vier Wochen zu häufigen Ausfällen. Insbesondere treten ständig Papierstaus auf, und die Druckqualität ist oft mangelhaft (Streifen und Flecken). In den letzten vier Wochen mussten wir mindestens fünfmal den Betrieb unterbrechen. Dies führt dazu, dass wir wichtige Dokumente nicht rechtzeitig drucken können, unsere Arbeitsabläufe gestört werden und die Mitarbeiter zunehmend frustriert sind.\n\nWir haben bereits mehrfach Ihren technischen Service kontaktiert. Leider wurde das Problem bisher immer nur kurzfristig behoben, eine dauerhafte Lösung steht weiterhin aus.\n\nWir bitten Sie dringend um eine dauerhafte Lösung dieses Problems. Wir schlagen eine umfassende Reparatur oder einen Austausch des Geräts vor. Bitte teilen Sie uns bis Ende nächster Woche mit, welche Schritte Sie planen.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nLeiter Marketingabteilung\nMarketingfirma Kreativ GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...der technische Service unfreundlich war."
+                },
+                {
+                    "key": "b",
+                    "text": "...der Drucker seiner Abteilung häufig nicht funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Druckkosten zu hoch sind."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Problem mit dem Drucker...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...konnte bisher nicht dauerhaft gelöst werden."
+                },
+                {
+                    "key": "b",
+                    "text": "...besteht erst seit gestern."
+                },
+                {
+                    "key": "c",
+                    "text": "...wurde vom technischen Service ignoriert."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail bezüglich des Multifunktionsdruckers XZ-500.",
+            "Drücken Sie Ihr Bedauern über die wiederholten Ausfälle und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Erklären Sie kurz mögliche Ursachen für die Probleme (gemäß Anweisung der Teamleitung, z.B. Hinweis auf Prüfung einer möglichen Schwachstelle).",
+            "Schlagen Sie einen konkreten Lösungsplan vor: Bieten Sie einen zeitnahen Termin mit einem erfahrenen Techniker für eine umfassende Prüfung an.",
+            "Erwähnen Sie, dass basierend auf der Prüfung eine nachhaltige Reparatur oder ein Austausch des Gerätes erfolgen wird (geht auf Kundenwunsch ein).",
+            "Bestätigen Sie das Ziel einer dauerhaften Lösung.",
+            "Gehen Sie auf die vom Kunden gewünschte Frist ein (Antwort/Terminvorschlag bis Ende nächster Woche).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

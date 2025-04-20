@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Anja Weber\n**Erhalten:** heute, 09:15 Uhr\n**An:** Peter Schmidt\n\n**Betreff:** FW: Reklamation Lieferung Büromöbel Innovativ GmbH\n\nHallo Peter,\n\ndie unten stehende E-Mail von Frau Heller (Innovativ GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nInnovativ GmbH ist ein wichtiger Neukunde, den wir nicht durch solche Fehler verärgern sollten. Klären Sie bitte kurz intern mit der Montage/Logistik, was da eventuell schiefgelaufen ist.\n\nSchreiben Sie Frau Heller dann, wie wir das Problem lösen werden – Reparatur oder Austausch der defekten Teile. Gehen Sie auch auf den Wunsch nach einer schnellen Lösung ein.\n\nVielen Dank und beste Grüße\n\nAnja Weber\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Sabine Heller\n**An:** Klaus Richter\n\n**Betreff:** Reklamation Lieferung Büromöbel Bestellung #7891 / Lieferung 15. Oktober\n\nSehr geehrter Herr Richter,\n\nich schreibe Ihnen bezüglich unserer Büromöbelbestellung #7891, die letzte Woche am 15. Oktober geliefert und montiert wurde.\n\nWir mussten leider feststellen, dass die Qualität teilweise nicht unseren Erwartungen entspricht. Einige der neuen Schreibtische weisen auf der Oberfläche deutliche Kratzer auf, die vermutlich beim Transport oder bei der Montage entstanden sind. Zudem funktioniert bei einem der gelieferten Bürostühle die Höhenverstellung nicht korrekt; der Stuhl sinkt immer wieder von selbst nach unten, was ihn unbenutzbar macht.\n\nDiese Mängel sind sehr ärgerlich, da sie den Eindruck unserer neuen Büroräume beeinträchtigen und ein Arbeitsplatz nicht genutzt werden kann. Wir bitten Sie daher um eine umgehende Behebung dieser Probleme.\n\nWir erwarten, dass Sie die beschädigten Schreibtische und den defekten Stuhl entweder reparieren oder austauschen. Bitte teilen Sie uns bis Ende dieser Woche mit, wie Sie konkret vorgehen möchten, um diese Angelegenheit zu klären.\n\nMit freundlichen Grüßen\n\nSabine Heller\nOffice Management\nInnovativ GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Heller beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die verspätete Lieferung der Möbel."
+                },
+                {
+                    "key": "b",
+                    "text": "die Qualität der gelieferten und montierten Büromöbel."
+                },
+                {
+                    "key": "c",
+                    "text": "unfreundliche Mitarbeiter bei der Montage."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Innovativ GmbH erwartet von MöbelProfi GmbH, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ein Rabatt auf die Rechnung gewährt wird."
+                },
+                {
+                    "key": "b",
+                    "text": "die gesamte Lieferung rückgängig gemacht wird."
+                },
+                {
+                    "key": "c",
+                    "text": "die beschädigten Möbelstücke instand gesetzt oder ersetzt werden."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Sabine Heller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Heller,').",
+            "Beziehen Sie sich klar auf ihre Reklamations-E-Mail vom [Datum des Vortags] bezüglich der Büromöbellieferung vom 15. Oktober (Bestellung #7891).",
+            "Drücken Sie Ihr Bedauern über die festgestellten Mängel (Kratzer, defekte Höhenverstellung) und die entstandenen Unannehmlichkeiten ausdrücklich aus.",
+            "Entschuldigen Sie sich höflich im Namen von MöbelProfi GmbH.",
+            "Erklären Sie, wie das Problem gelöst wird: Bieten Sie konkret Reparatur oder Austausch für die betroffenen Schreibtische und den Stuhl an (gemäß Anweisung der Teamleitung).",
+            "Schlagen Sie konkrete nächste Schritte vor, um eine schnelle Lösung zu gewährleisten (z.B. Terminvereinbarung für Begutachtung/Reparatur durch einen Techniker, oder direkter Austausch mit Liefertermin).",
+            "Gehen Sie auf den Wunsch nach einer schnellen Lösung und die gesetzte Frist (Ende der Woche) ein, indem Sie das weitere Vorgehen zeitnah vorschlagen.",
+            "Versichern Sie ihr die Wichtigkeit ihrer Zufriedenheit als Neukundin.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, lösungsorientierte und professionelle Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

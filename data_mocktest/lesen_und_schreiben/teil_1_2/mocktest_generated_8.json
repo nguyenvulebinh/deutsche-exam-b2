@@ -1,0 +1,66 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Klaus Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** Anna Bauer\n\n**Betreff:** FW: Beschwerde: Probleme mit Laptop-Lieferung (Bestellnr. LS-2024-912)\n\nHallo Anna,\n\nunten stehende Mail von TechSolutions GmbH habe ich gerade erhalten. Bitte kümmern Sie sich dringend darum. Antworten Sie Herrn Schmidt höflich und entschuldigen Sie sich für die aufgetretenen Probleme.\n\nKlären Sie bitte sofort mit der Technik/Konfiguration, wie es zu den Fehlern (falscher RAM, OS-Aktivierung) kommen konnte. Bieten Sie den sofortigen Austausch der Laptops mit falschem RAM an. Schlagen Sie zudem eine schnelle Lösung für das Softwareproblem vor (z.B. Fernwartung durch unsere Technik oder ebenfalls Austausch der betroffenen Geräte).\n\nGanz wichtig: Bestätigen Sie ihm das weitere Vorgehen bis zur gewünschten Zeit (morgen Mittag).\n\nWir wollen diesen Neukunden auf keinen Fall verlieren und müssen schnell eine professionelle Lösung anbieten.\n\nDanke und Grüße\n\nKlaus Richter\nTeamleiter Sales/Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Peter Schmidt\n**An:** Sandra Wagner\n\n**Betreff:** Beschwerde: Probleme mit Laptop-Lieferung (Bestellnr. LS-2024-912)\n\nSehr geehrte Frau Wagner,\n\nals neuer Kunde haben wir am [Datum vor einer Woche] 15 Business-Laptops des Modells BusinessBook X1 (Bestellnr. LS-2024-912) bei Ihnen bestellt. Die Lieferung erfolgte gestern.\n\nLeider mussten wir bei der heutigen Inbetriebnahme erhebliche Probleme feststellen:\n1.  Drei der gelieferten Geräte verfügen nur über 8GB RAM, obwohl wir explizit 16GB bestellt hatten.\n2.  Bei insgesamt fünf Geräten (darunter die drei mit falschem RAM) schlägt die Aktivierung des vorinstallierten Betriebssystems fehl. Es erscheint eine Fehlermeldung, die sich durch unsere Standard-Troubleshooting-Methoden nicht beheben ließ.\n\nDiese Mängel sind für uns äußerst ärgerlich. Der geplante Rollout der Laptops an unser neues Projektteam verzögert sich dadurch erheblich, was den Projektstart gefährdet. Zudem hat unsere IT-Abteilung bereits unnötig Zeit für die Fehlersuche aufwenden müssen.\n\nWir erwarten von Ihnen:\n-   Eine umgehende Korrektur bzw. den Austausch der drei Laptops mit falscher Hardware-Ausstattung.\n-   Eine sofortige Lösung für das Software-Aktivierungsproblem bei allen fünf betroffenen Geräten.\n-   Eine Erklärung, wie diese Fehler passieren konnten.\n\nBitte bestätigen Sie uns bis morgen Mittag, welche Schritte Sie zur Behebung dieser Probleme einleiten werden.\n\nMit freundlichen Grüßen\n\nPeter Schmidt\nLeiter IT-Abteilung\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Schmidt beschwert sich über Probleme bei...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der verspäteten Lieferung und beschädigten Verpackungen."
+                },
+                {
+                    "key": "b",
+                    "text": "der Hardware-Konfiguration und der Software einiger Laptops."
+                },
+                {
+                    "key": "c",
+                    "text": "allen gelieferten Laptops und dem Kundenservice."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Wegen der fehlerhaften Lieferung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "kann ein neues Projektteam die Arbeit nicht planmäßig beginnen."
+                },
+                {
+                    "key": "b",
+                    "text": "muss die IT-Abteilung alle Laptops neu installieren."
+                },
+                {
+                    "key": "c",
+                    "text": "fordert Herr Schmidt eine Reduzierung des Rechnungsbetrags."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Peter Schmidt.",
+            "Verwenden Sie die korrekte Anrede ('Sehr geehrter Herr Schmidt,').",
+            "Beziehen Sie sich klar auf seine Beschwerde-E-Mail (Bestellnr. LS-2024-912, Laptop-Probleme).",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die aufgetretenen Fehler (RAM, OS-Aktivierung) und die daraus resultierenden Unannehmlichkeiten (Projektverzögerung).",
+            "Bestätigen Sie den Eingang seiner Nachricht.",
+            "Bieten Sie den sofortigen Austausch der 3 Laptops mit falschem RAM an (gemäß TL-Anweisung).",
+            "Schlagen Sie eine schnelle Lösung für die 5 Laptops mit Software-Aktivierungsproblemen vor (z.B. Fernwartung oder Austausch, gemäß TL-Anweisung).",
+            "Informieren Sie ihn, dass die Ursachen intern geklärt werden (erfüllt TL-Anweisung zur Klärung).",
+            "Bestätigen Sie das weitere Vorgehen und reagieren Sie auf seine Frist ('bis morgen Mittag').",
+            "Versichern Sie ihm, dass Sie die Angelegenheit prioritär behandeln und an einer schnellen Lösung arbeiten.",
+            "Betonen Sie die Wichtigkeit seiner Zufriedenheit als Neukunde.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton (B2 Niveau).",
+            "Verwenden Sie eine korrekte formelle Grußformel ('Mit freundlichen Grüßen')."
+        ]
+    }
+}

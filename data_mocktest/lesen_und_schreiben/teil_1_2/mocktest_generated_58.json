@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Sabine Weber\n**Erhalten:** heute, 09:15 Uhr\n**An:** Thomas Bauer\n\n**Betreff:** FW: Anhaltende Netzwerkprobleme - Dringender Handlungsbedarf\n\nHallo Thomas,\n\nunten stehende E-Mail von Herrn Richter (Müller & Partner GmbH) habe ich gerade erhalten. Bitte kümmere dich dringend darum und antworte dem Kunden höflich.\n\nDu kannst ihm ruhig mitteilen, dass die Probleme mit den letzten Server-Updates zusammenhängen. Ganz wichtig: Erkläre ihm bitte auch detailliert, welche Schritte wir jetzt unternehmen, um die Stabilität des Netzwerks *dauerhaft* sicherzustellen. Wir dürfen Müller & Partner als Kunden auf keinen Fall verlieren.\n\nDanke und viele Grüße\n\nSabine Weber\nTeamleiterin IT-Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 16:30 Uhr\n**Von:** Klaus Richter\n**An:** Sabine Weber\n\n**Betreff:** Anhaltende Netzwerkprobleme - Dringender Handlungsbedarf\n\nSehr geehrte Frau Weber,\n\nich schreibe Ihnen bezüglich der anhaltenden Probleme mit unserem Büronetzwerk, das von Ihrer Firma betreut wird. Seit circa zwei Wochen kommt es wiederholt zu erheblichen Störungen.\n\nInsbesondere morgens ist das Netzwerk oft extrem langsam oder die Verbindung bricht ganz ab. Dies führt dazu, dass unsere Mitarbeiterinnen und Mitarbeiter ihre Arbeit nicht beginnen können, da der Zugriff auf Serverlaufwerke und E-Mails nicht möglich ist. Auch interne Besprechungen per Videokonferenz mussten deswegen schon verschoben werden. Wir haben bereits mehrfach Ihre Hotline kontaktiert, doch die Probleme treten leider immer wieder auf und scheinen nicht grundlegend behoben zu sein.\n\nDiese Situation ist für unseren Geschäftsbetrieb nicht länger tragbar. Wir benötigen dringend eine stabile und zuverlässige IT-Infrastruktur.\n\nWir erwarten eine Erklärung für diese wiederholten Ausfälle und vor allem eine Information darüber, wie Sie eine *dauerhafte* Lösung sicherstellen wollen. Bitte teilen Sie uns dies bis Ende dieser Woche mit.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nMüller & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ein einzelner Computer nicht funktioniert."
+                },
+                {
+                    "key": "b",
+                    "text": "das Büronetzwerk häufig ausfällt oder langsam ist."
+                },
+                {
+                    "key": "c",
+                    "text": "der IT-Support telefonisch nie erreichbar ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Netzwerkprobleme führen dazu, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "wichtige Daten verloren gegangen sind."
+                },
+                {
+                    "key": "b",
+                    "text": "die Probleme nur alle paar Wochen auftreten."
+                },
+                {
+                    "key": "c",
+                    "text": "die Mitarbeiter ihre Arbeit nicht ungestört erledigen können."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich auf seine E-Mail bezüglich der Netzwerkprobleme.",
+            "Drücken Sie Ihr Bedauern über die Störungen und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Entschuldigen Sie sich für die wiederholten Probleme.",
+            "Erklären Sie (wie von der Teamleiterin vorgegeben), dass die Ursache mit kürzlichen Server-Updates zusammenhängt.",
+            "Beschreiben Sie detailliert die konkreten Schritte, die *jetzt* unternommen werden, um die Netzwerkstabilität *dauerhaft* sicherzustellen (gemäß Anweisung der Teamleiterin). Beispiel: Überprüfung und Anpassung der Update-Konfiguration, Implementierung zusätzlicher Monitoring-Maßnahmen, Planung eventueller Wartungsarbeiten außerhalb der Geschäftszeiten.",
+            "Gehen Sie auf seine Forderung nach einer dauerhaften Lösung ein und versichern Sie ihm, dass dies höchste Priorität hat.",
+            "Reagieren Sie auf seine Frist (Antwort bis Ende der Woche), indem Sie die sofort eingeleiteten Maßnahmen schildern.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, verständnisvolle und lösungsorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

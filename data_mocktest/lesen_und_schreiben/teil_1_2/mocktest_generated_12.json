@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Meyer\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Nowak\n\n**Betreff:** FW: Dringende Beschwerde Wartungsservice - Innovativ AG\n\nHallo Herr Nowak,\n\nanbei die Mail von Herrn Richter (Innovativ AG), die mich eben erreicht hat. Die Innovativ AG ist ein wichtiger Kunde mit langjährigem Vertrag.\n\nBitte kümmern Sie sich umgehend darum und antworten Sie Herrn Richter höflich. Erklären Sie, warum die Reparatur der Tür bisher nicht erfolgreich war und warum die Lampe noch nicht repariert wurde. Ganz wichtig: Schreiben Sie ihm, wann genau wir die Tür endgültig reparieren und die Lampe austauschen werden. Versichern Sie ihm auch, dass wir die vertraglich vereinbarte Servicequalität sicherstellen.\n\nWir dürfen die Innovativ AG auf keinen Fall als Kunden verlieren.\n\nDanke und viele Grüße\n\nSabine Meyer\nTeamleiterin Gebäudeservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Klaus Richter\n**An:** Sabine Meyer\n\n**Betreff:** Dringende Beschwerde Wartungsservice - Innovativ AG\n\nSehr geehrte Frau Meyer,\n\nich schreibe Ihnen bezüglich unseres Servicevertrags für die Wartung unseres Bürogebäudes. Grundsätzlich sind wir mit Ihrer Firma seit Jahren zufrieden, doch in letzter Zeit häufen sich die Probleme.\n\nSeit etwa vier Wochen schließt unsere automatische Haupteingangstür nicht mehr korrekt. Mal schlägt sie zu, mal bleibt sie offen stehen. Dies wurde bereits mehrfach gemeldet und letzte Woche sollte das Problem durch einen Ihrer Techniker behoben worden sein. Leider besteht der Fehler unverändert fort. Das stellt nicht nur ein Sicherheitsrisiko dar, sondern wirkt auch unprofessionell.\n\nZudem haben wir vor zwei Wochen gemeldet, dass die Beleuchtung im Konferenzraum 'Berlin' flackert. Auch hier ist trotz Erinnerung bisher nichts geschehen, was unsere Besprechungen stört.\n\nWir erwarten gemäß unserem Servicevertrag eine zeitnahe und vor allem nachhaltige Lösung dieser Mängel. Bitte teilen Sie uns bis Ende dieser Woche verbindlich mit, wann die Eingangstür endgültig instand gesetzt und die Beleuchtung im Konferenzraum repariert wird.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nOffice Manager\nInnovativ AG\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich bei Gebäudeservice Plus, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Kosten für den Servicevertrag zu hoch sind."
+                },
+                {
+                    "key": "b",
+                    "text": "wiederholt aufgetretene Mängel nicht dauerhaft behoben wurden."
+                },
+                {
+                    "key": "c",
+                    "text": "die Mitarbeiter von Gebäudeservice Plus unfreundlich waren."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein konkretes Problem im Büro der Innovativ AG ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ein wichtiger Besprechungsraum wegen technischer Probleme nur eingeschränkt nutzbar ist."
+                },
+                {
+                    "key": "b",
+                    "text": "der Haupteingang seit vier Wochen komplett gesperrt ist."
+                },
+                {
+                    "key": "c",
+                    "text": "keine Reparaturanfragen mehr angenommen werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich der Eingangstür und der Beleuchtung im Konferenzraum 'Berlin'.",
+            "Entschuldigen Sie sich höflich für die Unannehmlichkeiten und die nicht zufriedenstellenden Reparaturversuche/Verzögerungen.",
+            "Erklären Sie (gemäß Anweisung der Teamleiterin) den Grund für die bisher nicht erfolgreiche Reparatur der Tür (z.B. 'Lieferverzögerung eines benötigten Spezialteils').",
+            "Erklären Sie (gemäß Anweisung der Teamleiterin) den Grund für die Verzögerung bei der Lampenreparatur (z.B. 'unerwartet hohe Auslastung unserer Elektriker').",
+            "Nennen Sie einen konkreten Termin oder einen sehr engen Zeitrahmen für die endgültige Reparatur der Tür (z.B. 'am kommenden Mittwoch', 'innerhalb der nächsten 48 Stunden').",
+            "Nennen Sie einen konkreten Termin oder einen sehr engen Zeitrahmen für die Reparatur der Beleuchtung (z.B. 'morgen Vormittag', 'spätestens bis [Datum]').",
+            "Versichern Sie Herrn Richter, dass Maßnahmen zur Sicherstellung der vereinbarten Servicequalität getroffen werden.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

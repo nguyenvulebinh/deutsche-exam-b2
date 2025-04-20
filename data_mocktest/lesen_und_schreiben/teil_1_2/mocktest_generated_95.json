@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Julia Steinhauer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Lieferung Bürostühle Bestellung Nr. 789-B / Kundennr. 456\n\nHallo,\n\ndie unten stehende E-Mail vom Neukunden Kreativ Agentur Meier ist gerade eingegangen. Bitte kümmern Sie sich darum und antworten Sie Herrn Koch sehr höflich.\n\nEntschuldigen Sie sich bitte ausführlich für die Unannehmlichkeiten. Prüfen Sie intern kurz die Ursache (Qualitätskontrolle? Transportschaden?), aber konzentrieren Sie sich in der Antwort auf die Lösung.\n\nOrganisieren Sie bitte umgehend den Austausch der defekten Stühle und erklären Sie Herrn Koch klar den Ablauf des Austauschs (Lieferung neuer Stühle, Abholung der defekten).\n\nDie Kreativ Agentur Meier ist ein Neukunde mit Potenzial für weitere Bestellungen. Ein guter Service ist hier entscheidend.\n\nDanke und Gruß\n\nJulia Steinhauer\nTeamleiterin Kundenservice\nBürodesign Schmidt GmbH\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Stefan Koch\n**An:** Hanna Weber\n\n**Betreff:** Reklamation Lieferung Bürostühle Bestellung Nr. 789-B / Kundennr. 456\n\nSehr geehrte Frau Weber,\n\nich beziehe mich auf unsere Bestellung Nr. 789-B über zehn Bürostühle Modell 'ErgoFlex', die gestern bei uns (Kundennummer 456) angeliefert wurden.\n\nWir haben die Stühle für unseren neuen Besprechungsraum vorgesehen. Leider mussten wir beim Auspacken feststellen, dass drei der zehn gelieferten Stühle Mängel aufweisen:\n\n*   Ein Stuhl hat eine deutlich beschädigte Armlehne (links).\n*   Bei einem weiteren Stuhl funktioniert die Höhenverstellung nicht korrekt (rastet nicht ein).\n*   Der dritte Stuhl hat tiefe Kratzer am Fußkreuz.\n\nDieser Zustand ist natürlich sehr ärgerlich, da wir den Besprechungsraum ab morgen voll nutzen wollten und die beschädigten Möbel keinen guten Eindruck machen.\n\nWir bitten Sie um eine schnelle Lösung. Bitte teilen Sie uns mit, wie und bis wann ein Austausch oder eine Reparatur der defekten Stühle erfolgen kann. Klären Sie uns bitte auch über den Ablauf der Abholung der mangelhaften Ware auf.\n\nWir erwarten Ihre Rückmeldung bis spätestens übermorgen, [Date in 2 days].\n\nMit freundlichen Grüßen\n\nStefan Koch\nKreativ Agentur Meier\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Koch schreibt an Frau Weber, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Bürostühle zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "einige der gelieferten Bürostühle Mängel aufweisen."
+                },
+                {
+                    "key": "c",
+                    "text": "er die gesamte Bestellung stornieren möchte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem durch die defekten Stühle ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "ein bestimmter Raum nicht wie geplant genutzt werden kann."
+                },
+                {
+                    "key": "b",
+                    "text": "die Mitarbeiter keine Sitzgelegenheiten haben."
+                },
+                {
+                    "key": "c",
+                    "text": "die Reparatur der Stühle sehr teuer wird."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Stefan Koch.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Koch,').",
+            "Beziehen Sie sich klar auf seine Reklamations-E-Mail (Bestellung 789-B, defekte Bürostühle).",
+            "Bestätigen Sie den Eingang seiner Nachricht.",
+            "Entschuldigen Sie sich ausführlich und aufrichtig für die gelieferten mangelhaften Stühle und die entstandenen Unannehmlichkeiten.",
+            "Bestätigen Sie, dass die 3 defekten Stühle umgehend ausgetauscht werden.",
+            "Erklären Sie klar den Ablauf des Austauschs: Ankündigung der Lieferung der neuen Stühle (z.B. innerhalb von X Tagen), Abholung der defekten Stühle durch den Lieferservice zur gleichen Zeit.",
+            "Bitten Sie ggf. um Bestätigung, dass der vorgeschlagene Ablauf passt oder um Terminabsprache.",
+            "Versichern Sie ihm, dass Maßnahmen zur Qualitätsprüfung verstärkt werden (optional, aber gut).",
+            "Drücken Sie aus, dass Sie ihn als Neukunden schätzen und auf eine gute weitere Zusammenarbeit hoffen.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

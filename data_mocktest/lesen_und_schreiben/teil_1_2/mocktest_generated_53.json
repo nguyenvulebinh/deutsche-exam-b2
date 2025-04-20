@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Fischer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde Installation Praxissoftware\n\nHallo,\n\ndie Mail von Herrn Berger (siehe unten) habe ich gerade erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie dem Kunden höflich.\n\nErklären Sie ihm ruhig, warum es bei der Installation und Datenmigration zu den Problemen kam (z.B. unerwartete Kompatibilitätsprobleme). Ganz wichtig: Schreiben Sie ihm, wie wir die Probleme schnell beheben werden und wie wir sicherstellen, dass die versprochene Einweisung zeitnah erfolgt. \n\nWir möchten diesen Kunden nicht verlieren, er hat Potenzial für weitere Aufträge.\n\nVielen Dank und Grüße\n\nSabine Fischer\nTeamleiterin IT-Support\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Klaus Berger\n**An:** Jens Neumann\n\n**Betreff:** Beschwerde Installation Praxissoftware\n\nSehr geehrter Herr Neumann,\n\nIhre Firma hat letzte Woche die neue Praxisverwaltungssoftware in meiner Physiotherapiepraxis installiert. Leider müssen wir feststellen, dass der Übergang alles andere als reibungslos verlaufen ist.\n\nSeit der Installation funktioniert das zentrale Terminplanungsmodul nicht korrekt, was die tägliche Arbeit erheblich erschwert. Zudem mussten wir feststellen, dass bei der Migration der Patientendaten aus dem Altsystem offenbar Fehler aufgetreten sind – einige Datensätze sind unvollständig oder fehlerhaft. Das bedeutet für mein Team einen erheblichen Mehraufwand bei der Korrektur.\n\nDarüber hinaus wurde die zugesagte Einweisung für meine Mitarbeiter in die neue Software bisher nicht durchgeführt. Ein geplanter Termin wurde kurzfristig abgesagt und bisher kein neuer angeboten. So können wir die Software nicht effizient nutzen.\n\nIch erwarte eine umgehende Behebung der genannten Fehler sowie die schnellstmögliche Durchführung der versprochenen Einweisung. Bitte teilen Sie mir bis Ende dieser Woche mit, welche konkreten Schritte Sie wann unternehmen werden.\n\nMit freundlichen Grüßen\nKlaus Berger\nPraxisinhaber\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Berger beschwert sich hauptsächlich darüber, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die Installation zu lange gedauert hat."
+                },
+                {
+                    "key": "b",
+                    "text": "...die neue Software nicht wie erwartet funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "...er keine ausreichende Einweisung erhalten hat."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet nun, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die alte Software wieder installiert wird."
+                },
+                {
+                    "key": "b",
+                    "text": "...er einen Preisnachlass für die fehlerhafte Installation erhält."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Fehler kurzfristig behoben und die Einweisung nachgeholt wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Berger,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich der Installation der Praxissoftware.",
+            "Drücken Sie Ihr Bedauern über die aufgetretenen Probleme (Terminmodul, Datenfehler, fehlende Einweisung) und die Unannehmlichkeiten aus.",
+            "Entschuldigen Sie sich höflich für die Mängel.",
+            "Erklären Sie (ruhig) den Grund für die Probleme, wie von der Teamleitung vorgegeben (z.B. unerwartete technische Komplikationen, kurzfristiger Engpass).",
+            "Schlagen Sie konkrete Maßnahmen zur schnellen Behebung der Fehler vor (gemäß Anweisung: z.B. Termin für Fernwartung/Technikereinsatz zur Reparatur des Moduls und Korrektur der Daten).",
+            "Machen Sie einen konkreten Terminvorschlag (oder Zeitrahmen) für die versprochene Einweisung (gemäß Anweisung).",
+            "Bestätigen Sie, dass die Lösungen bis Ende der Woche eingeleitet/kommuniziert werden (Reaktion auf seine Fristsetzung).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und lösungsorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

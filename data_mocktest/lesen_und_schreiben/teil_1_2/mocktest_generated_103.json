@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Hoffmann\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde Lieferung Büromaterial vom 15.10. (Bestellnr. 4587-B)\n\nHallo,\n\nanbei die Beschwerde von Frau Keller (Firma Innovatec), die uns gerade erreicht hat.\nBitte kümmern Sie sich umgehend darum und antworten Sie der Kundin höflich.\n\nErklären Sie kurz die Gründe für die Verspätung und die Fehllieferung. Bestätigen Sie die sofortige Nachlieferung der fehlenden Artikel. Bieten Sie ihr als Entschädigung für die Unannehmlichkeiten einen Rabatt auf diese Lieferung an.\n\nInnovatec ist ein wichtiger Kunde, den wir nicht verlieren möchten.\n\nDanke und viele Grüße\n\nSabine Hoffmann\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Martina Keller (Büromanagement, Firma Innovatec GmbH)\n**An:** Jochen Weber (Kundenservice, Bürobedarf Schnell & Zuverlässig GmbH)\n\n**Betreff:** Beschwerde Lieferung Büromaterial vom 15.10. (Bestellnr. 4587-B)\n\nSehr geehrter Herr Weber,\n\nwir beziehen regelmäßig unser Büromaterial über Ihre Firma und waren bisher meist zufrieden. Leider müssen wir uns über die Lieferung unserer Bestellung Nr. 4587-B vom 15. Oktober beschweren.\n\nDie Lieferung war für 10:00 Uhr vormittags angekündigt, traf jedoch erst um 14:30 Uhr ein. Dies führte zu erheblichen Unannehmlichkeiten, da wir dringend Material (insbesondere Flipchart-Papier und Stifte) für eine wichtige Besprechung am Mittag benötigten und uns anderweitig behelfen mussten.\n\nZudem mussten wir beim Auspacken feststellen, dass die Lieferung unvollständig bzw. fehlerhaft war. Anstelle der bestellten blauen Whiteboard-Marker (10 Stück) erhielten wir rote Permanentmarker. Außerdem fehlten fünf Pakete Kopierpapier (Bestellung: 10 Pakete, Lieferung: 5 Pakete).\n\nWir bitten um umgehende Nachlieferung der fehlenden fünf Pakete Kopierpapier sowie der korrekten blauen Whiteboard-Marker. Angesichts der erheblichen Verspätung und der entstandenen Unannehmlichkeiten erwarten wir zudem ein deutliches Entgegenkommen bei der Rechnungsstellung für diese Lieferung.\n\nBitte teilen Sie uns bis spätestens übermorgen mit, wie Sie gedenken, diese Angelegenheit zu regeln.\n\nMit freundlichen Grüßen\n\nMartina Keller\nBüromanagement\nFirma Innovatec GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "das bestellte Büromaterial zu spät geliefert wurde."
+                },
+                {
+                    "key": "b",
+                    "text": "die Lieferung sowohl verspätet war als auch Fehler enthielt."
+                },
+                {
+                    "key": "c",
+                    "text": "die Qualität der gelieferten Produkte mangelhaft war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet vom Lieferanten, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die fehlende Ware nachgeliefert wird und sie einen Preisnachlass erhält."
+                },
+                {
+                    "key": "b",
+                    "text": "nur die falschen Artikel ausgetauscht werden."
+                },
+                {
+                    "key": "c",
+                    "text": "zukünftige Lieferungen pünktlicher erfolgen."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich klar auf ihre Beschwerde zur Lieferung vom 15.10. (Bestellnr. 4587-B).",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die Verspätung UND die Fehler bei der Lieferung (falsche Marker, fehlendes Papier) sowie die dadurch entstandenen Unannehmlichkeiten.",
+            "Erklären Sie kurz und nachvollziehbar den Grund für die Probleme (gemäß Anweisung der Teamleitung, z.B. 'ein unerwarteter Engpass in unserer Logistik').",
+            "Bestätigen Sie die sofortige, kostenlose Nachlieferung der 5 fehlenden Pakete Kopierpapier UND der 10 korrekten blauen Whiteboard-Marker (gemäß Anweisung der Teamleitung).",
+            "Informieren Sie über den Versand der Nachlieferung (z.B. 'Die Ware verlässt heute noch unser Haus').",
+            "Bieten Sie als Entschädigung einen konkreten Rabatt auf die aktuelle Rechnung an (gemäß Anweisung der Teamleitung, z.B. '15% Preisnachlass').",
+            "Versichern Sie, dass Maßnahmen ergriffen werden, um solche Vorfälle zukünftig zu vermeiden.",
+            "Wahren Sie durchgehend einen höflichen, professionellen und serviceorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

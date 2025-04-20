@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Matthias Steiner\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Bürostühle Lieferung Nr. 4587\n\nGuten Morgen,\n\nanbei die Reklamation von Innovativ GmbH bezüglich der Bürostühle 'ErgoFlex'. Bitte kümmern Sie sich umgehend darum und antworten Sie Frau Weber höflich.\n\nBestätigen Sie den Austausch der drei defekten Stühle. Organisieren Sie bitte auch die Lieferung der neuen Stühle und die Abholung der defekten Ware. Ganz wichtig: Informieren Sie die Kundin über den genauen Zeitplan für den Austausch.\n\nInnovativ GmbH ist ein wichtiger Neukunde, wir wollen sie nicht gleich wieder verärgern. Eine schnelle und kundenfreundliche Lösung ist hier entscheidend.\n\nDanke und viele Grüße\n\nMatthias Steiner\nTeamleiter Vertrieb\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Anna Weber\n**An:** Matthias Steiner\n\n**Betreff:** Reklamation Bürostühle Lieferung Nr. 4587\n\nSehr geehrter Herr Steiner,\n\nhiermit möchten wir die Lieferung von 15 Bürostühlen (Modell 'ErgoFlex') gemäß unserer Bestellung Nr. 4587 vom 10. Oktober reklamieren. Die Lieferung erfolgte am 25. Oktober.\n\nWir haben uns für Ihr Unternehmen entschieden, da Sie für ergonomische und qualitativ hochwertige Büromöbel bekannt sind. Leider mussten wir nun bei drei der gelieferten Stühle gravierende Mängel feststellen. Bei diesen Modellen ist die Gasdruckfeder für die Höhenverstellung defekt. Die Sitzhöhe lässt sich nicht zuverlässig arretieren und sackt bei Belastung teilweise ruckartig nach unten ab. Dies stellt ein nicht akzeptables Sicherheitsrisiko für unsere Mitarbeiter dar und macht die Stühle unbenutzbar. Die Probleme wurden gestern bemerkt, als die Stühle erstmals genutzt wurden.\n\nWir bitten Sie dringend um eine schnelle Lösung dieses Problems. Wir erwarten den umgehenden Austausch der drei defekten Stühle gegen einwandfreie Modelle.\nBitte teilen Sie uns bis spätestens Ende dieser Woche mit, wann der Austausch erfolgen kann.\n\nMit freundlichen Grüßen\n\nAnna Weber\nOffice Management\nInnovativ GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die gesamte Lieferung von Bürostühlen defekt ist."
+                },
+                {
+                    "key": "b",
+                    "text": "einige der gelieferten Bürostühle Mängel aufweisen."
+                },
+                {
+                    "key": "c",
+                    "text": "die Lieferung der Bürostühle zu spät erfolgte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Problem mit den defekten Stühlen ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "sie nicht repariert werden können."
+                },
+                {
+                    "key": "b",
+                    "text": "nur ein Stuhl betroffen ist."
+                },
+                {
+                    "key": "c",
+                    "text": "sie ein Sicherheitsrisiko darstellen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Anna Weber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom [Datum]/Bestellnummer 4587 bezüglich der Bürostühle 'ErgoFlex'.",
+            "Drücken Sie Ihr Bedauern über die Mängel an den Stühlen und die entstandenen Unannehmlichkeiten/Sicherheitsbedenken aus.",
+            "Entschuldigen Sie sich höflich für die Probleme.",
+            "Bestätigen Sie den Austausch der drei defekten Stühle gegen neue, einwandfreie Modelle (gemäß Anweisung TL).",
+            "Erklären Sie den Ablauf der Austauschaktion (Lieferung der neuen Stühle und Abholung der defekten).",
+            "Informieren Sie konkret über den Zeitplan für den Austausch (z.B. wann sich die Logistik meldet, wann der Austausch voraussichtlich stattfinden kann) (gemäß Anweisung TL).",
+            "Versichern Sie ihr, dass die Qualität geprüft wird.",
+            "Wahren Sie einen professionellen, höflichen und kundenorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

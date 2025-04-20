@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Hanna Voss\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Müller\n\n**Betreff:** FW: Beschwerde Kaffeemaschine Büro Schmidt GmbH\n\nHallo Herr Müller,\n\nanbei die Beschwerde von Herrn Gruber (Bürobedarf Schmidt GmbH), die mich gerade erreicht hat. Bitte kümmern Sie sich darum und antworten Sie Herrn Gruber höflich.\n\nErklären Sie kurz die Ursache für die wiederholten Probleme (z.B. Ersatzteilproblem, komplexer Fehler). Informieren Sie ihn über die nächsten Schritte zur Reparatur (z.B. erneuter Technikereinsatz mit Spezialwerkzeug/Ersatzteil). \n\nGanz wichtig: Gehen Sie auf seine Forderung nach einem Preisnachlass ein – wir können ihm hier etwas anbieten (z.B. 15% auf die nächste Servicerechnung).\n\nDie Firma Schmidt ist ein langjähriger Kunde, den wir nicht verlieren möchten.\n\nDanke und viele Grüße\n\nHanna Voss\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 17:30 Uhr\n**Von:** Stefan Gruber\n**An:** Hanna Voss\n\n**Betreff:** Beschwerde Kaffeemaschine Büro Schmidt GmbH\n\nSehr geehrte Frau Voss,\n\nhiermit möchte ich mich über den Service für unsere Kaffeemaschine (Modell AromaMaster 5000) in unserer Hauptniederlassung beschweren. Wir haben seit zwei Jahren einen Wartungsvertrag für dieses Gerät bei Ihnen, und bisher lief dies meist reibungslos.\n\nAllerdings gibt es seit ca. vier Wochen häufig Störungen. Die Maschine zeigt Fehlermeldungen an oder liefert manchmal gar keinen Kaffee mehr. Ihr Techniker war letzte Woche zwar vor Ort, doch das Problem trat bereits nach zwei Tagen erneut auf. Das ist sehr ärgerlich, da unsere Mitarbeiter unzufrieden sind, es wertvolle Arbeitszeit kostet und wir teilweise extern Kaffee besorgen müssen.\n\nWir erwarten eine umgehende und vor allem nachhaltige Reparatur der Maschine. Bitte teilen Sie uns außerdem mit, wie Sie sicherstellen wollen, dass solche Ausfälle in Zukunft vermieden werden. Angesichts der wiederholten Unannehmlichkeiten erwarten wir zudem ein Entgegenkommen bei der nächsten Servicerechnung.\n\nBitte geben Sie uns bis Ende dieser Woche eine Rückmeldung zu den genannten Punkten.\n\nMit freundlichen Grüßen\n\nStefan Gruber\nBürobedarf Schmidt GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Gruber beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Wartungsvertrag zu teuer ist."
+                },
+                {
+                    "key": "b",
+                    "text": "die Kaffeemaschine in seiner Firma häufig nicht funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "der Techniker unfreundlich war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet unter anderem,...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass die Maschine sofort ausgetauscht wird."
+                },
+                {
+                    "key": "b",
+                    "text": "dass der Wartungsvertrag gekündigt wird."
+                },
+                {
+                    "key": "c",
+                    "text": "einen Preisnachlass bei der nächsten Rechnung."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Gruber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Gruber,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich der Kaffeemaschine 'AromaMaster 5000'.",
+            "Drücken Sie Ihr Bedauern über die wiederholten Störungen und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Entschuldigen Sie sich für die Probleme.",
+            "Erklären Sie kurz und nachvollziehbar den Grund für die Probleme (gemäß Anweisung: z.B. komplexer elektronischer Fehler, benötigtes Spezial-Ersatzteil).",
+            "Informieren Sie über die konkreten nächsten Schritte zur Lösung (gemäß Anweisung: z.B. 'Ein spezialisierter Techniker wird am [Datum] mit dem benötigten Teil zu Ihnen kommen', 'Wir führen eine umfassende Prüfung durch').",
+            "Bieten Sie den Preisnachlass klar an (gemäß Anweisung: z.B. 'Als Entgegenkommen bieten wir Ihnen einen Nachlass von 15% auf Ihre nächste Servicerechnung an').",
+            "Erklären Sie kurz, wie zukünftige Probleme vermieden werden sollen (z.B. durch intensivere Wartung, Software-Update).",
+            "Versichern Sie dem Kunden, dass seine Zufriedenheit wichtig ist.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und serviceorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

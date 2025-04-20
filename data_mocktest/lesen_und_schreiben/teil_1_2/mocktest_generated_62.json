@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Maria Weber\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Lieferung Büromaterial, Bestellung Nr. 4587\n\nHallo,\n\nunten stehende Mail von Frau Keller (Firma TechSolutions GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nPrüfen Sie bitte kurz intern, was da schiefgelaufen ist. Klären Sie die Nachlieferung der fehlenden und falschen Artikel. Bieten Sie für das beschädigte Papier eine Gutschrift an, das ist am einfachsten. Versichern Sie ihr auch, dass wir auf sorgfältigere Verpackung und Kontrolle achten werden.\n\nTechSolutions GmbH ist ein wichtiger Kunde, wir wollen sie nicht verlieren.\n\nDanke und viele Grüße\n\nMaria Weber\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Sabine Keller\n**An:** Herrn Baumgartner\n\n**Betreff:** Reklamation Lieferung Büromaterial, Bestellung Nr. 4587\n\nSehr geehrter Herr Baumgartner,\n\nhiermit möchte ich mich bezüglich unserer Büromaterialbestellung Nr. 4587 beschweren, die wir gestern erhalten haben. Wir bestellen regelmäßig bei Ihnen und waren bisher meist zufrieden.\n\nBei dieser Lieferung gab es jedoch mehrere Probleme: Statt der bestellten blauen Kugelschreiber wurden schwarze geliefert. Außerdem war die Verpackung des Kopierpapiers (500 Blatt, A4) aufgerissen und die obersten Blätter sind dadurch verschmutzt und geknickt, also unbrauchbar. Des Weiteren fehlen die fünf bestellten roten Hängemappen vollständig.\n\nDas ist sehr ärgerlich, da wir die blauen Stifte dringend für eine interne Kampagne benötigen und die Mappen für die Ablage neuer Projekte vorgesehen waren.\n\nWir bitten Sie um umgehende Nachlieferung der korrekten blauen Kugelschreiber und der fehlenden roten Hängemappen. Bitte teilen Sie uns ebenfalls mit, wie Sie bezüglich des beschädigten Kopierpapiers verfahren möchten (Ersatz oder Gutschrift?).\n\nWir erwarten Ihre Rückmeldung bis spätestens übermorgen.\n\nMit freundlichen Grüßen\n\nSabine Keller\nMitarbeiterin Einkauf\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung zu spät angekommen ist."
+                },
+                {
+                    "key": "b",
+                    "text": "bei der letzten Lieferung mehrere Fehler aufgetreten sind."
+                },
+                {
+                    "key": "c",
+                    "text": "sie generell mit dem Service unzufrieden ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die fehlenden und falschen Artikel nachgeliefert und das Problem mit dem Papier geklärt wird."
+                },
+                {
+                    "key": "b",
+                    "text": "sie einen Preisnachlass auf die gesamte Bestellung erhält."
+                },
+                {
+                    "key": "c",
+                    "text": "die gesamte Bestellung zurückgenommen wird."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Sabine Keller.",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich klar auf ihre Beschwerde-E-Mail bezüglich der Bestellung Nr. 4587.",
+            "Entschuldigen Sie sich höflich und aufrichtig für die aufgetretenen Fehler und die Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für ihre Verärgerung.",
+            "Bestätigen Sie die konkreten Probleme (falsche Stifte, beschädigtes Papier, fehlende Mappen).",
+            "Erklären Sie kurz und plausibel den Grund für die Fehler (gemäß Anweisung der Teamleitung, z.B. bedauerlicher Fehler bei der Zusammenstellung/Verpackung).",
+            "Bestätigen Sie die umgehende, kostenlose Nachlieferung der korrekten blauen Kugelschreiber und der fehlenden roten Hängemappen (gemäß Anweisung der Teamleitung).",
+            "Bieten Sie eine Gutschrift für das beschädigte Kopierpapier an (gemäß Anweisung der Teamleitung).",
+            "Versichern Sie der Kundin, dass Maßnahmen zur Verbesserung der Qualitätskontrolle/Verpackung ergriffen werden, um solche Fehler zukünftig zu vermeiden (gemäß Anweisung der Teamleitung).",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden, formellen Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

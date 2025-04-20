@@ -1,0 +1,63 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Fischer\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Multifunktionsdrucker Modell XZ-500, Lieferschein 789123\n\nHallo,\n\ngerade kam die unten stehende Reklamation von Frau Berger herein. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nBestätigen Sie der Kundin, dass wir das Gerät austauschen werden. Organisieren Sie den Austausch so schnell wie möglich.\n\nFrau Bergers Firma ist ein wichtiger Kunde, den wir nicht verärgern wollen.\n\nDanke und viele Grüße\n\nSabine Fischer\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:10 Uhr\n**Von:** Katja Berger\n**An:** Matthias Klein\n\n**Betreff:** Reklamation Multifunktionsdrucker Modell XZ-500, Lieferschein 789123\n\nSehr geehrter Herr Klein,\n\nhiermit möchte ich den Multifunktionsdrucker Modell XZ-500 reklamieren, der uns gestern (15. Mai) geliefert wurde (Lieferschein 789123).\n\nDas Gerät lässt sich seit der Installation heute Morgen nur sporadisch einschalten. Wenn es startet, zeigt das Display sofort die Fehlermeldung 'Systemfehler E019 - Service kontaktieren' an. Ein Neustart und die Überprüfung der Kabelverbindungen brachten keine Besserung.\n\nWir können das Gerät somit nicht nutzen, was unsere Arbeitsabläufe erheblich stört.\n\nDa das Gerät neu ist, erwarten wir einen umgehenden Austausch gegen ein funktionierendes Modell. Bitte bestätigen Sie uns kurzfristig, wie Sie weiter verfahren werden.\n\nMit freundlichen Grüßen\n\nKatja Berger\nBüroleitung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Berger beschwert sich, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die Lieferung des Druckers zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "...der neue Drucker nicht funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Installation des Druckers Probleme machte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet,...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...dass ein Techniker das Gerät repariert."
+                },
+                {
+                    "key": "b",
+                    "text": "...dass sich der Kundenservice schnell meldet."
+                },
+                {
+                    "key": "c",
+                    "text": "...dass das defekte Gerät ausgetauscht wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Berger,').",
+            "Beziehen Sie sich auf ihre Reklamations-E-Mail vom Vortag bezüglich des Druckers Modell XZ-500 (Lieferschein 789123).",
+            "Drücken Sie Ihr Bedauern über das defekte Neugerät und die entstandenen Unannehmlichkeiten/Störungen höflich aus.",
+            "Entschuldigen Sie sich für den Vorfall.",
+            "Bestätigen Sie klar, dass das Gerät ausgetauscht wird, wie von ihr gewünscht und von der Teamleitung angewiesen.",
+            "Erklären Sie die nächsten Schritte für den Austauschprozess (z.B. Kontaktaufnahme zur Terminvereinbarung für Lieferung und Abholung).",
+            "Versichern Sie eine schnelle Abwicklung des Austauschs ('so schnell wie möglich').",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

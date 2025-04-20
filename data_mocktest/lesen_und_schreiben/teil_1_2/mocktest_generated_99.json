@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Sabine Keller\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Sicherheitsschuhe (Bestellung #78912)\n\nHallo,\n\ndie unten stehende Mail habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie Herrn Roth höflich.\n\nBestätigen Sie den Erhalt der Reklamation und entschuldigen Sie sich für die mangelhafte Qualität. Bieten Sie ihm einen sofortigen Austausch der Schuhe an. Erklären Sie ihm bitte auch das Vorgehen für die Rücksendung der defekten Schuhe (Retourenlabel etc.).\n\nWir möchten Herrn Roth als Kunden behalten und legen Wert auf die Qualität und Sicherheit unserer Produkte.\n\nDanke und viele Grüße\n\nSabine Keller\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Michael Roth\n**An:** Sabine Keller\n\n**Betreff:** Reklamation Sicherheitsschuhe (Bestellung #78912)\n\nSehr geehrte Frau Keller,\n\nich beziehe mich auf meine Bestellung #78912 über ein Paar Sicherheitsschuhe Modell 'Worker Pro', Größe 43, die ich letzte Woche erhalten habe.\n\nLeider muss ich Ihnen mitteilen, dass ich mit der Qualität der gelieferten Schuhe nicht zufrieden bin. Bereits nach wenigen Tagen löst sich die Sohle am linken Schuh an der Ferse ab. Dies ist nicht nur ärgerlich, sondern stellt auch ein erhebliches Sicherheitsrisiko dar.\n\nIch kann die Schuhe aus Sicherheitsgründen unter diesen Umständen nicht mehr tragen und benötige dringend funktionsfähigen Ersatz für meine Arbeit.\n\nIch bitte Sie daher um einen umgehenden Austausch der defekten Sicherheitsschuhe. Bitte teilen Sie mir ebenfalls mit, wie ich die defekten Schuhe an Sie zurücksenden kann.\n\nMit freundlichen Grüßen\n\nMichael Roth\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Roth beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Schuhe die falsche Größe haben."
+                },
+                {
+                    "key": "b",
+                    "text": "die gelieferten Schuhe einen Qualitätsmangel aufweisen."
+                },
+                {
+                    "key": "c",
+                    "text": "er mit dem Modell der Schuhe unzufrieden ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Der Kunde erwartet...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass die defekten Schuhe schnell ersetzt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "eine Rückerstattung des Kaufpreises."
+                },
+                {
+                    "key": "c",
+                    "text": "dass die Schuhe bei ihm abgeholt werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Roth.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Roth,').",
+            "Beziehen Sie sich auf seine Reklamations-E-Mail bezüglich der Sicherheitsschuhe (Bestellung #78912).",
+            "Bestätigen Sie den Erhalt seiner Nachricht.",
+            "Entschuldigen Sie sich höflich und ausdrücklich für die mangelhafte Qualität und die entstandenen Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für seine Situation (Sicherheitsaspekt).",
+            "Bieten Sie einen sofortigen Austausch der Schuhe an (ein neues Paar wird umgehend versendet).",
+            "Erklären Sie klar das Vorgehen für die Rücksendung der defekten Schuhe (z.B. 'Ein kostenloses Retourenlabel senden wir Ihnen per E-Mail zu' / 'liegt der Ersatzlieferung bei').",
+            "Versichern Sie ihm ggf., dass Qualitätskontrollen wichtig sind.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

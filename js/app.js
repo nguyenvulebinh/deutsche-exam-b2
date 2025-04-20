@@ -8,6 +8,7 @@ import LesenTeil2 from './test-types/lesen-teil-2.js';
 import LesenTeil3 from './test-types/lesen-teil-3.js';
 import LesenTeil4 from './test-types/lesen-teil-4.js';
 import LesenExam from './test-types/lesen-exam.js';
+import LesenUndSchreibenTeil1_2 from './test-types/lesen-und-schreiben-teil-1-2.js';
 
 // Collection of available test types
 const testTypes = {
@@ -15,7 +16,8 @@ const testTypes = {
     'lesen-teil-2': LesenTeil2,
     'lesen-teil-3': LesenTeil3,
     'lesen-teil-4': LesenTeil4,
-    'lesen-exam': LesenExam
+    'lesen-exam': LesenExam,
+    'lesen-und-schreiben-teil-1-2': LesenUndSchreibenTeil1_2
     // Add more test types here as they are implemented:
     // 'hoeren-teil-1': HoerenTeil1,
     // etc.

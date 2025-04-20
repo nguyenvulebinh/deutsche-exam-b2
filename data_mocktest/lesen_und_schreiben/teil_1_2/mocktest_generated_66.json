@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Scholz\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Lieferung Bürostühle - Bestellung Nr. 4589\n\nGuten Morgen,\n\nanbei die Reklamation von Müller & Partner (Best. 4589).\nBitte kümmern Sie sich darum und antworten Sie Frau Fischer höflich. Nennen Sie kurz einen möglichen Grund (Produktionsfehler o.ä.), warum die Mängel aufgetreten sind.\nWichtig ist: Bestätigen Sie den Austausch der drei defekten Stühle. Klären Sie intern den schnellstmöglichen Liefertermin für den Austausch und teilen Sie ihn der Kundin mit.\n\nMüller & Partner ist ein wichtiger Neukunde, den wir nicht verlieren wollen.\n\nDanke und viele Grüße\n\nMarkus Scholz\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:32 Uhr\n**Von:** Sabine Fischer\n**An:** Klaus Weber\n\n**Betreff:** Reklamation Lieferung Bürostühle - Bestellung Nr. 4589\n\nSehr geehrter Herr Weber,\n\nwir beziehen uns auf unsere Bestellung Nr. 4589 und die Lieferung von zehn Bürostühlen des Modells 'ErgoFlex Pro' am 15. dieses Monats.\nWir haben uns für Ihr Unternehmen entschieden, da Sie für ergonomische und langlebige Büromöbel bekannt sind. Umso enttäuschter sind wir, dass wir nun leider erhebliche Mängel reklamieren müssen.\n\nBei drei der zehn gelieferten Stühle lässt sich die Rückenlehne nicht richtig arretieren, sie rastet nicht fest ein. Zudem weist einer dieser drei Stühle einen deutlichen Riss im Polster der Sitzfläche auf, der bereits bei der Lieferung vorhanden war.\n\nDiese Stühle können so nicht genutzt werden, was für unsere Mitarbeiter sehr ärgerlich ist und den Arbeitsablauf stört. Wir bitten Sie dringend um eine schnelle Lösung und erwarten den Austausch der drei defekten Stühle gegen einwandfreie Modelle.\n\nBitte teilen Sie uns bis Ende dieser Woche mit, wann der Austausch erfolgen kann.\n\nMit freundlichen Grüßen\n\nSabine Fischer\nBüroleitung Müller & Partner Steuerberatung\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Fischer beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Bürostühle zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "einige der gelieferten Bürostühle Mängel aufweisen."
+                },
+                {
+                    "key": "c",
+                    "text": "alle bestellten Stühle beschädigt sind."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Firma Müller & Partner erwartet, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die defekten Stühle ausgetauscht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "die Stühle schnell repariert werden."
+                },
+                {
+                    "key": "c",
+                    "text": "Herr Weber persönlich vorbeikommt."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Sabine Fischer.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Fischer,').",
+            "Beziehen Sie sich klar auf ihre Reklamations-E-Mail vom [Datum des Vortages] bezüglich der Bürostühle 'ErgoFlex Pro' (Bestellung Nr. 4589).",
+            "Drücken Sie Ihr Bedauern über die festgestellten Mängel (fehlerhafte Arretierung, Riss im Polster) und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Entschuldigen Sie sich für die Probleme.",
+            "Nennen Sie kurz einen plausiblen Grund für die Mängel (gemäß Anweisung der Teamleitung, z.B. bedauerlicher Produktionsfehler, Fehler in der Qualitätskontrolle).",
+            "Bestätigen Sie unmissverständlich den Austausch der drei defekten Bürostühle (gemäß Anweisung der Teamleitung).",
+            "Informieren Sie Frau Fischer über den konkreten, schnellstmöglichen Termin oder Zeitrahmen für den Austausch (gemäß Anweisung der Teamleitung, nach interner Klärung).",
+            "Versichern Sie ihr, dass die Austauschware einwandfrei sein wird.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

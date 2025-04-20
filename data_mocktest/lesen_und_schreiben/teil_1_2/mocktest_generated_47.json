@@ -1,0 +1,63 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Erhalten:** heute 08:27 Uhr\n**Von:** Helena Nadal\n**An:** ...\n\n**Betreff:** FW Beschwerde: Schmutzige Duschen in Ihrem Fitnesscenter seit dem 1.04.\n\nHallo,\n\ndie unten stehende Mail habe ich gerade bekommen. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich. Ich möchte nicht, dass sie schlecht über uns und das Studio spricht. Und natürlich möchten wir sie auch nicht als Kundin verlieren.\nSchreiben Sie der Kundin ruhig, warum es bei uns diese Probleme gab. Sie können ihr auch etwas anbieten, damit sie nicht mehr so verärgert ist.\n\nVielen Dank und mit Grüßen\nHelena Nadal\nTeamleiterin\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute 08:14 Uhr\n**Von:** Zara Hafiz\n**An:** Helena Nadal\n\n**Betreff:** Beschwerde: Schmutzige Duschen in Ihrem Fitnesscenter seit dem 1.04.\n\nSehr geehrte Frau Nadal,\n\nmeine Kolleginnen und ich besuchen seit mehreren Monaten Ihr Fitnesscenter. Wir nehmen zwei Mal in der Woche um 7:30 Uhr am Kurs *Rückenfit* teil. Unsere Trainerin Kasia ist qualifiziert und es lohnt sich, bei ihr zu trainieren.\nBisher waren wir mit allem sehr zufrieden, aber bei unseren letzten drei Besuchen lagen viele Haare in der Dusche und die Toiletten waren nicht geputzt. Das ist eklig! An den Waschbecken waren außerdem wiederholt die Seifenspender leer und es gab keine Papierhandtücher.\nWir haben mit anderen Mitgliedern gesprochen, die uns versicherten, dass nach 15 Uhr wieder alles in Ordnung ist - das ist für uns aber zu spät!\n\nIn einem hochpreisigen Studio wie Ihrem erwarten wir, dass alles stimmt. Wir werden nicht sofort kündigen, unsere Beiträge für diesen Monat aber zurückbuchen, wenn Sie diese Probleme nicht schnell beheben!\n\nMit freundlichen Grüßen\n\nZara Hafiz\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Hafiz und ihre Kolleginnen",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "bezahlen zu hohe Beiträge."
+                },
+                {
+                    "key": "b",
+                    "text": "beschweren sich über mangelnde Hygiene."
+                },
+                {
+                    "key": "c",
+                    "text": "sind mit dem Kurs unzufrieden."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Problem",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "besteht seit mehreren Monaten."
+                },
+                {
+                    "key": "b",
+                    "text": "ist auch anderen Mitgliedern bekannt."
+                },
+                {
+                    "key": "c",
+                    "text": "tritt vor allem nachmittags auf."
+                }
+            ],
+            "loesung": "b"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Hafiz.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Hafiz,').",
+            "Beziehen Sie sich auf ihre Beschwerde-E-Mail bezüglich der Sauberkeit in den Sanitärbereichen.",
+            "Zeigen Sie Verständnis für ihre Verärgerung und entschuldigen Sie sich höflich und aufrichtig für die unhygienischen Zustände.",
+            "Erklären Sie (ruhig/sachlich) den Grund für die Probleme, insbesondere am Morgen (gemäß Anweisung der Teamleiterin). Beispiel: kurzfristiger Personalengpass in der Frühschicht, unerwartete technische Probleme bei der Reinigungslogistik.",
+            "Beschreiben Sie die sofort ergriffenen Maßnahmen, um die Sauberkeit sicherzustellen (z.B. verstärkte Reinigungskontrollen am Morgen, Sicherstellung der Materialverfügbarkeit vor Öffnung).",
+            "Bieten Sie der Kundin eine konkrete Entschädigung/einen Ausgleich an (gemäß Anweisung der Teamleiterin). Beispiel: eine Gutschrift auf den Monatsbeitrag, ein Gutschein für eine Zusatzleistung (z.B. Sauna, Getränk).",
+            "Versichern Sie ihr, dass die Probleme behoben sind/werden und die gewohnte hohe Qualität und Sauberkeit wiederhergestellt wird.",
+            "Verwenden Sie durchgehend eine höfliche, formelle, verständnisvolle und serviceorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Richter\n**Erhalten:** heute, 09:15 Uhr\n**An:** Anna Ziegler\n\n**Betreff:** FW: Beschwerde: Unzureichender IT-Support - Vertrag Nr. 12345\n\nHallo Anna,\n\nanbei die Mail von Frau Weber, die uns heute Morgen erreicht hat. Bitte kümmere dich darum und antworte der Kundin höflich.\n\nNenne ruhig die Gründe für die aktuellen Schwierigkeiten – wir hatten ja das unerwartet hohe Anfragevolumen und die bekannten Probleme mit dieser speziellen Druckerserie. Wichtig ist aber vor allem: Schreib ihr konkret, wie wir das Problem jetzt lösen (insbesondere den Drucker) und wie wir sicherstellen, dass der Support zukünftig wieder unseren vereinbarten Standards entspricht.\n\nDie Firma Weber ist eine wichtige Kundin mit einem langfristigen Vertrag, die wir ungern verlieren möchten.\n\nDanke und Gruß\n\nMarkus Richter\nTeamleiter IT-Support\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Susanne Weber\n**An:** Service Desk IT-Solutions GmbH\n\n**Betreff:** Beschwerde: Unzureichender IT-Support - Vertrag Nr. 12345\n\nSehr geehrte Damen und Herren,\n\nhiermit müssen wir uns leider über die Qualität Ihres IT-Supports im Rahmen unseres Servicevertrags Nr. 12345 beschweren.\n\nAnfänglich waren wir mit Ihren Leistungen zufrieden, doch seit einigen Wochen stellen wir eine deutliche Verschlechterung fest. Insbesondere sind die Reaktionszeiten auf unsere Support-Tickets inakzeptabel lang geworden und entsprechen nicht mehr den vereinbarten Service-Levels.\n\nEin besonders ärgerliches Beispiel sind die wiederholten Probleme mit unserem zentralen Bürodrucker (Modell XYZ). Bereits dreimal in den letzten vier Wochen fiel dieser aus. Unser letztes Ticket diesbezüglich (Nr. T78910) von letztem Mittwoch ist immer noch nicht abschließend gelöst. Der Drucker funktioniert nur sporadisch, was unsere Arbeitsabläufe erheblich stört, da wichtige Dokumente nicht zeitnah gedruckt werden können.\n\nDieser Zustand ist für uns nicht länger hinnehmbar. Wir erwarten eine umgehende und nachhaltige Lösung des Druckerproblems sowie eine generelle Verbesserung Ihrer Reaktionszeiten. Bitte teilen Sie uns bis Ende dieser Woche mit, welche Maßnahmen Sie ergreifen werden.\n\nMit freundlichen Grüßen\nSusanne Weber\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber beschwert sich hauptsächlich über...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die generelle Verschlechterung des IT-Services."
+                },
+                {
+                    "key": "b",
+                    "text": "die allgemein langsame Bearbeitung von Problemen und einen speziellen Druckerdefekt."
+                },
+                {
+                    "key": "c",
+                    "text": "einen einzelnen Vorfall mit einem Bürodrucker."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die wiederholten Druckerprobleme führten laut Frau Weber dazu, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Arbeit im Büro behindert wurde."
+                },
+                {
+                    "key": "b",
+                    "text": "der Drucker ausgetauscht werden musste."
+                },
+                {
+                    "key": "c",
+                    "text": "der Servicevertrag sofort gekündigt wurde."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Weber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich klar auf ihre Beschwerde-E-Mail (IT-Support, Vertrag 12345, Druckerproblem Ticket T78910).",
+            "Drücken Sie Ihr Bedauern aus und entschuldigen Sie sich höflich für die Unannehmlichkeiten durch die langsamen Reaktionszeiten und die Druckerprobleme.",
+            "Erklären Sie den Grund für die Schwierigkeiten gemäß der Anweisung der Teamleitung (z.B. unerwartet hohes Anfragevolumen UND spezifische technische Herausforderungen mit der Druckerserie XYZ).",
+            "Beschreiben Sie die konkreten Maßnahmen zur Lösung des aktuellen Druckerproblems gemäß der Anweisung (z.B. Ticket T78910 wurde priorisiert, ein Spezialist kümmert sich darum, Fernwartung/Technikerbesuch ist geplant für [Datum/Zeit]).",
+            "Erklären Sie, welche Maßnahmen zur Verbesserung der zukünftigen Servicequalität ergriffen werden gemäß der Anweisung (z.B. interne Prozessoptimierung, temporäre Ressourcenerhöhung zur schnelleren Ticketbearbeitung, proaktives Monitoring des Druckers).",
+            "Versichern Sie der Kundin, dass die Einhaltung der Service-Levels wieder oberste Priorität hat.",
+            "Gehen Sie auf die geforderte Rückmeldung bis Ende der Woche ein, indem Sie die bereits eingeleiteten Schritte darlegen.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

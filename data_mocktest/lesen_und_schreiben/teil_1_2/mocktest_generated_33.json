@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Meier\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Beschwerde: Defekter Kaffeevollautomat Modell XZ-5000, Vertragsnr. 12345\n\nHallo,\n\ndie Mail unten habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nNennen Sie ruhig den Grund für die erneuten Probleme nach unserer letzten Reparatur. Ganz wichtig: Schreiben Sie ihr bitte auch, wie wir das Problem diesmal endgültig lösen werden, damit die Maschine wieder zuverlässig funktioniert.\n\nFrau Brandt vertritt eine Bürogemeinschaft, das sind wichtige Kunden. Wir wollen sie nicht verlieren.\n\nDanke und viele Grüße\n\nStefan Meier\nTeamleiter Service\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 15:30 Uhr\n**Von:** Katja Brandt (Büroleitung, Bürogemeinschaft UrbanWork)\n**An:** Stefan Meier\n\n**Betreff:** Beschwerde: Defekter Kaffeevollautomat Modell XZ-5000, Vertragsnr. 12345\n\nSehr geehrter Herr Meier,\n\nhiermit möchte ich mich bezüglich unseres Kaffeevollautomaten Modell XZ-5000 (Vertragsnr. 12345) beschweren, der letzte Woche, am Dienstag, von Ihrem Techniker gewartet wurde.\n\nDer Kaffeevollautomat ist für unsere Bürogemeinschaft sehr wichtig und wird täglich von vielen Kolleginnen und Kollegen genutzt. Leider müssen wir feststellen, dass die Maschine trotz der Reparatur seit zwei Tagen wieder erhebliche Probleme macht. Sie macht seltsame Geräusche, der Kaffee schmeckt wässrig und manchmal funktioniert sie auch gar nicht.\n\nDas ist äußerst ärgerlich, da sich alle auf eine funktionierende Maschine verlassen und nun wieder extern Kaffee kaufen müssen. Wir sind langjährige Kunden und waren bisher mit Ihrem Service zufrieden, aber diese Situation ist nicht akzeptabel.\n\nWir erwarten eine umgehende und vor allem nachhaltige Behebung des Problems. Bitte teilen Sie uns mit, wie Sie sicherstellen wollen, dass die Maschine nach dem nächsten Einsatz dauerhaft funktioniert. Wir bitten um eine Lösung bis Ende dieser Woche.\n\nMit freundlichen Grüßen\n\nKatja Brandt\nBüroleitung, Bürogemeinschaft UrbanWork\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Brandt beschwert sich, weil",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "der Kaffeevollautomat zum ersten Mal defekt ist."
+                },
+                {
+                    "key": "b",
+                    "text": "der Kaffeevollautomat nach einer Reparatur immer noch nicht richtig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Mitarbeiter extern Kaffee kaufen müssen."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Problem mit der Kaffeemaschine",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "trat kurz nach der letzten Wartung wieder auf."
+                },
+                {
+                    "key": "b",
+                    "text": "liegt nur an der Wasserqualität."
+                },
+                {
+                    "key": "c",
+                    "text": "soll durch einen kompletten Austausch gelöst werden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Brandt.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Brandt,').",
+            "Beziehen Sie sich klar auf ihre Beschwerde-E-Mail vom [Datum von 'gestern'] bezüglich des Kaffeevollautomaten XZ-5000 (Vertragsnr. 12345).",
+            "Drücken Sie Ihr Bedauern über die erneuten Probleme und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Entschuldigen Sie sich für die Situation.",
+            "Erklären Sie (gemäß Anweisung des Teamleiters) nachvollziehbar den Grund für die wiederkehrenden Probleme nach der Reparatur (z.B. fehlerhaftes Ersatzteil, übersehenes Folgeproblem).",
+            "Erklären Sie (gemäß Anweisung des Teamleiters) konkret, welche Maßnahmen nun ergriffen werden, um das Problem *endgültig* zu lösen (z.B. Einsatz eines Spezialisten, Austausch einer bestimmten Baugruppe, gründliche Tests).",
+            "Schlagen Sie einen konkreten Termin für den Technikereinsatz vor, idealerweise bis Ende der Woche, oder erklären Sie das Vorgehen zur Terminfindung.",
+            "Versichern Sie der Kundin, dass eine dauerhafte Lösung Priorität hat.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

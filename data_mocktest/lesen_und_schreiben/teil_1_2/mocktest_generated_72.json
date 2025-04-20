@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Lena Meyer\n**Erhalten:** heute, 09:45 Uhr\n**An:** ...\n\n**Betreff:** FW: Dringende Beschwerde - Neue Präsentationstechnik (Projektor / Whiteboard)\n\nHallo,\n\ndie unten stehende Mail von Herrn Bauer vom Bildungszentrum Innovativ habe ich gerade erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie dem Kunden sehr höflich.\n\nDas Bildungszentrum ist ein neuer, potenziell großer Kunde, daher ist eine schnelle Lösung wichtig für die Geschäftsbeziehung und unseren Ruf.\n\nNennen Sie Herrn Bauer ruhig mögliche technische Gründe für die Probleme (z.B. bekannte Kompatibilitätsprobleme in bestimmten Raumkonstellationen, eventuell eine fehlerhafte Charge bei den Projektoren oder ein notwendiges Software-Update für das Whiteboard). Ganz wichtig: Schreiben Sie ihm, dass wir umgehend einen Techniker zur Diagnose und Behebung (Reparatur oder Austausch) vorbeischicken und schlagen Sie eine schnelle Terminfindung vor. Erwähnen Sie kurz, dass wir unsere Installationsprotokolle prüfen, um so etwas künftig zu vermeiden.\n\nVielen Dank und Grüße\n\nLena Meyer\nTeamleiterin Sales & Projects\nTechnikPro GmbH\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** gestern, 16:15 Uhr\n**Von:** Stefan Bauer\n**An:** Lena Meyer\n\n**Betreff:** Dringende Beschwerde - Neue Präsentationstechnik (Projektor / Whiteboard)\n\nSehr geehrte Frau Meyer,\n\nvor zwei Wochen hat Ihre Firma TechnikPro GmbH in unseren Schulungsräumen neue Präsentationstechnik installiert, darunter einen Projektor (Modell XYZ) und ein interaktives Whiteboard (Modell ABC).\n\nLeider müssen wir uns dringend über die Funktionsfähigkeit der Geräte beschweren. Seit der Installation überhitzt der Projektor regelmäßig nach kurzer Betriebszeit und schaltet sich selbstständig ab. Dies ist bereits mehrfach während laufender Schulungen passiert. Zusätzlich reagiert die Software des interaktiven Whiteboards oft sehr träge oder gar nicht auf Eingaben.\n\nDiese technischen Mängel führen zu erheblichen Störungen unserer Schulungsabläufe und haben bereits zu Verärgerung bei unseren Trainern und Teilnehmenden geführt. Dies schadet unserem professionellen Anspruch als Bildungszentrum Innovativ.\n\nWir bitten Sie um umgehende Behebung dieser Probleme. Wir erwarten, dass ein Techniker die Geräte noch in der kommenden Woche überprüft und entweder repariert oder austauscht, um einen zuverlässigen Betrieb sicherzustellen.\n\nWir bitten um eine baldige Rückmeldung bezüglich des weiteren Vorgehens und eines Terminvorschlags.\n\nMit freundlichen Grüßen\n\nStefan Bauer\nLeiter Trainingsabteilung\nBildungszentrum Innovativ\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Bauer beschwert sich bei TechnikPro GmbH, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Geräte verspätet war."
+                },
+                {
+                    "key": "b",
+                    "text": "die neu installierten Präsentationsgeräte nicht zuverlässig funktionieren."
+                },
+                {
+                    "key": "c",
+                    "text": "die Kosten für die Installation zu hoch waren."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein Problem für das Bildungszentrum ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "Schulungen unterbrochen werden mussten."
+                },
+                {
+                    "key": "b",
+                    "text": "die Trainer mit der neuen Technik nicht umgehen können."
+                },
+                {
+                    "key": "c",
+                    "text": "die Geräte kompliziert zu bedienen sind."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Bauer (Bildungszentrum Innovativ).",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Bauer,').",
+            "Beziehen Sie sich klar auf seine Beschwerde-E-Mail bezüglich der neuen Präsentationstechnik (Projektor, Whiteboard).",
+            "Drücken Sie Ihr Bedauern über die technischen Probleme und die dadurch verursachten Störungen der Schulungen höflich aus.",
+            "Entschuldigen Sie sich für die entstandenen Unannehmlichkeiten.",
+            "Nennen Sie mögliche technische Gründe für die Fehlfunktionen (gemäß Anweisung der Teamleiterin, z.B. Kompatibilität, möglicher Hardwaredefekt, Softwareupdate).",
+            "Schlagen Sie die konkrete Lösung vor: Umgehender Einsatz eines Technikers zur Diagnose und Fehlerbehebung (Reparatur/Austausch), wie von der Teamleiterin angewiesen.",
+            "Bitten Sie um Abstimmung eines kurzfristigen Termins für den Technikerbesuch.",
+            "Erwähnen Sie kurz, dass interne Prüfungen (z.B. Installationsprotokolle) erfolgen, um zukünftige Probleme zu vermeiden.",
+            "Versichern Sie ihm, dass eine schnelle und zufriedenstellende Lösung angestrebt wird.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

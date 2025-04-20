@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Hanna Ziegler\n**Erhalten:** heute, 09:15 Uhr\n**An:** Herr Meier\n\n**Betreff:** FW: Reklamation Bürostühle - Bestellung Nr. 4587\n\nGuten Morgen Herr Meier,\n\ndiese Mail von unserem Kunden TechSolutions kam gerade rein. Bitte kümmern Sie sich darum und antworten Sie Herrn Richter höflich.\n\nErklären Sie ihm kurz, wie es zu diesen Mängeln kommen konnte (evtl. ein Problem bei einer Charge oder beim Transport?). Ganz wichtig: Bieten Sie ihm eine konkrete Lösung an (Nachbesserung/Austausch), um sein Problem zu lösen. Beschreiben Sie auch kurz, wie wir sicherstellen, dass so etwas nicht wieder vorkommt.\n\nTechSolutions ist ein wichtiger Neukunde, den wir nicht verlieren möchten.\n\nVielen Dank und Grüße\n\nHanna Ziegler\nTeamleiterin Vertrieb\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Jonas Richter (TechSolutions GmbH)\n**An:** Hanna Ziegler\n\n**Betreff:** Reklamation Bürostühle - Bestellung Nr. 4587\n\nSehr geehrte Frau Ziegler,\n\nhiermit reklamieren wir die Lieferung von 15 Bürostühlen Modell 'ErgoFlex' (Bestellung Nr. 4587), die letzte Woche am 15. Mai bei uns eingetroffen und montiert wurden.\n\nWir haben uns für Ihr Unternehmen entschieden, da Sie für Qualität und Zuverlässigkeit bekannt sind. Umso mehr sind wir enttäuscht, nun Mängel feststellen zu müssen. Bei mindestens fünf der gelieferten Stühle lässt sich die Rückenlehne nicht korrekt in verschiedenen Positionen arretieren. Dies beeinträchtigt die Ergonomie und Nutzbarkeit erheblich. Zusätzlich weist ein weiterer Stuhl deutliche Kratzer an der rechten Armlehne auf, was vermutlich beim Transport passiert ist.\n\nUnsere Mitarbeiter können die Stühle so nicht wie vorgesehen nutzen. Wir bitten Sie daher um eine umgehende Lösung. Konkret erwarten wir die Nachbesserung der Stühle mit defekter Arretierung sowie den Austausch des beschädigten Stuhls.\n\nBitte teilen Sie uns bis Ende dieser Woche (Freitag, 24. Mai) mit, wie Sie hier weiter vorgehen werden.\n\nMit freundlichen Grüßen\n\nJonas Richter\nPersonalabteilung\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich hauptsächlich darüber, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung der Bürostühle zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "einige der gelieferten Bürostühle Mängel aufweisen."
+                },
+                {
+                    "key": "c",
+                    "text": "die Montage der Bürostühle nicht korrekt war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Firma TechSolutions erwartet vom Lieferanten, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die fehlerhaften Stühle repariert oder ausgetauscht werden."
+                },
+                {
+                    "key": "b",
+                    "text": "eine finanzielle Entschädigung gezahlt wird."
+                },
+                {
+                    "key": "c",
+                    "text": "die Kommunikation mit dem Kundenservice verbessert wird."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Jonas Richter (TechSolutions GmbH).",
+            "Verwenden Sie eine passende, formelle Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich klar auf seine Reklamations-E-Mail vom [heutiges Datum] bezüglich der Bürostühle 'ErgoFlex' (Bestellung Nr. 4587).",
+            "Drücken Sie Ihr Bedauern über die Mängel (defekte Arretierung, Kratzer) und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Entschuldigen Sie sich für die Probleme.",
+            "Erklären Sie kurz und nachvollziehbar eine mögliche Ursache für die Mängel (gemäß Anweisung der Teamleitung, z.B. 'möglicher Fehler in einer Produktionscharge', 'unglücklicher Transportschaden trotz sorgfältiger Prüfung').",
+            "Bieten Sie eine konkrete Lösung an (gemäß Anweisung der Teamleitung und Kundenforderung): z.B. 'kostenlose Nachbesserung der defekten Stühle vor Ort durch einen Techniker' und 'zeitnahen Austausch des beschädigten Stuhls'.",
+            "Schlagen Sie das weitere Vorgehen vor (z.B. Kontaktaufnahme zur Terminvereinbarung für Reparatur/Austausch).",
+            "Beschreiben Sie kurz Maßnahmen zur zukünftigen Qualitätssicherung (gemäß Anweisung der Teamleitung, z.B. 'verstärkte Endkontrollen', 'Optimierung der Transportverpackung').",
+            "Reagieren Sie auf die vom Kunden gesetzte Frist (Antwort bis 24. Mai).",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

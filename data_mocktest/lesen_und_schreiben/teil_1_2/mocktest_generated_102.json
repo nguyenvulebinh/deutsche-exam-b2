@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleiterin",
+        "text": "```markdown\n**Von:** Sabine Fischer\n**Erhalten:** heute, 10:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Bestellung 45678 - Falsche Lieferung\n\nHallo,\n\ndie unten stehende Mail von Frau Schreiber (TechSolutions GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nNennen Sie ruhig den Grund für die Falschlieferung und die beschädigte Ware. Schreiben Sie ihr, wie wir das Problem sofort lösen (korrekte Patronen, Ersatz/Gutschrift für das Papier). Bieten Sie ihr als kleinen Ausgleich für die Unannehmlichkeiten einen Rabatt auf die nächste Bestellung an.\n\nTechSolutions ist ein wichtiger Kunde, wir möchten sie nicht verlieren.\n\nVielen Dank und Grüße\n\nSabine Fischer\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 09:58 Uhr\n**Von:** Anna Schreiber (TechSolutions GmbH)\n**An:** Herr Berger (Bürobedarf Schnell)\n\n**Betreff:** Reklamation Bestellung 45678 - Falsche Lieferung\n\nSehr geehrter Herr Berger,\n\nals langjähriger Kunde Ihres Unternehmens waren wir bisher stets mit Ihren Lieferungen zufrieden. Leider müssen wir uns heute über unsere letzte Bestellung (Bestellnr. 45678) von letzter Woche beschweren.\n\nStatt der bestellten Druckerpatronen Modell ABC haben wir das inkompatible Modell XYZ erhalten. Dies führt dazu, dass wir derzeit wichtige Dokumente nicht ausdrucken können, was unseren Arbeitsablauf erheblich stört.\nZudem waren mehrere Pakete des bestellten Kopierpapiers bei Ankunft aufgerissen und ein Teil des Papiers ist dadurch leider unbrauchbar geworden.\n\nWir bitten Sie um eine umgehende Lösung dieser Probleme. Wir benötigen dringend die korrekten Druckerpatronen (Modell ABC) und erwarten einen Vorschlag bezüglich des beschädigten Papiers (Ersatzlieferung oder Gutschrift).\n\nWir bitten um Ihre Rückmeldung und einen Lösungsvorschlag bis übermorgen.\n\nMit freundlichen Grüßen\n\nAnna Schreiber\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Schreiber beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die Lieferung nicht pünktlich erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "...die gelieferte Ware teilweise falsch und beschädigt war."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Preise für die Büroartikel zu hoch sind."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Aufgrund der fehlerhaften Lieferung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...kann im Büro von Frau Schreiber derzeit nicht gedruckt werden."
+                },
+                {
+                    "key": "b",
+                    "text": "...möchte Frau Schreiber den Anbieter wechseln."
+                },
+                {
+                    "key": "c",
+                    "text": "...fordert Frau Schreiber einen Techniker zur Überprüfung des Druckers."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Schreiber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Schreiber,').",
+            "Beziehen Sie sich klar auf ihre Reklamations-E-Mail zur Bestellung 45678.",
+            "Entschuldigen Sie sich höflich für die Lieferung der falschen Druckerpatronen und des beschädigten Papiers sowie die entstandenen Unannehmlichkeiten (insb. das Druckproblem).",
+            "Zeigen Sie Verständnis für ihre Situation.",
+            "Erklären Sie kurz und plausibel den Grund für die Fehler (gemäß Anweisung der Teamleiterin, z.B. Fehler im Lager/Versand).",
+            "Informieren Sie über die sofortige Lösung bezüglich der Druckerpatronen (Versand der korrekten Patronen, voraussichtliche Lieferzeit nennen).",
+            "Machen Sie einen konkreten Vorschlag zur Lösung des Problems mit dem beschädigten Papier (Ersatzlieferung oder Gutschrift anbieten).",
+            "Bieten Sie den von der Teamleiterin geforderten Rabatt auf die nächste Bestellung als Ausgleich an.",
+            "Versichern Sie ihr ggf., dass Maßnahmen zur Vermeidung solcher Fehler ergriffen werden.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache (B2 Niveau).",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

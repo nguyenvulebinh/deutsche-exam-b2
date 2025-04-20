@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sarah Wagner\n**Erhalten:** heute, 10:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Dringende Beschwerde - Probleme mit CRM-Software \"SalesFlow Pro\"\n\nHallo,\n\nunten stehende Mail eines sehr verärgerten Kunden habe ich gerade erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie Herrn Albers höflich und professionell. Die \"Möbelwelt GmbH\" ist ein wichtiger Neukunde, den wir auf keinen Fall verlieren dürfen.\n\nNennen Sie ruhig die Gründe für die aktuellen technischen Schwierigkeiten und die Support-Engpässe (z.B. unerwartete Bugs nach dem Rollout, temporäre Personalunterdeckung im Support).\nGanz wichtig: Erläutern Sie bitte konkret, welche Maßnahmen wir zur Fehlerbehebung ergreifen (Patch?) und wie wir den Support für ihn verbessern werden. Gehen Sie auch auf die fehlende Berichtsfunktion ein.\n\nDanke und viele Grüße\n\nSarah Wagner\nTeamleiterin Kundenservice\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 09:48 Uhr\n**Von:** Thomas Albers\n**An:** Sarah Wagner\n\n**Betreff:** Dringende Beschwerde - Probleme mit CRM-Software \"SalesFlow Pro\"\n\nSehr geehrte Frau Wagner,\n\nvor einem Monat haben wir in unserem Unternehmen, der Möbelwelt GmbH, Ihre CRM-Software \"SalesFlow Pro\" eingeführt. Wir hatten gehofft, damit unsere Vertriebsprozesse deutlich effizienter gestalten zu können.\n\nLeider müssen wir feststellen, dass die Software in der Praxis massive Probleme bereitet. Sie stürzt häufig ab, was bereits mehrfach zu Datenverlusten geführt hat. Zudem funktioniert die uns zugesicherte Funktion zur automatischen Erstellung von Wochenberichten überhaupt nicht – sie ist in der aktuellen Version scheinbar nicht einmal vorhanden! Dies behindert unsere Controlling-Aktivitäten erheblich.\n\nAls wäre das nicht genug, ist Ihr Kundensupport kaum erreichbar. Unsere Support-Tickets bleiben seit Tagen unbeantwortet, und versprochene Rückrufe erfolgen nicht. Die Frustration bei meinen Mitarbeitern wächst täglich, und unsere Arbeitsabläufe werden massiv gestört.\n\nWir benötigen dringend eine stabile, funktionierende Software und einen verlässlichen Support. Wir erwarten von Ihnen bis Ende dieser Woche eine konkrete Stellungnahme und einen Zeitplan, wie und wann diese gravierenden Mängel behoben werden.\n\nMit freundlichen Grüßen\n\nThomas Albers\nLeiter Vertrieb\nMöbelwelt GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Albers beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...seine Mitarbeiter nicht ausreichend geschult wurden."
+                },
+                {
+                    "key": "b",
+                    "text": "...die neue Software fehlerhaft ist und der Support schlecht erreichbar ist."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Software teurer war als ursprünglich vereinbart."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein konkretes Problem mit der Software ist, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...eine wichtige Funktion für Berichte nicht funktioniert."
+                },
+                {
+                    "key": "b",
+                    "text": "...sie nicht mit der vorhandenen Hardware kompatibel ist."
+                },
+                {
+                    "key": "c",
+                    "text": "...zu viele Lizenzen gekauft wurden."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Albers (Möbelwelt GmbH).",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Albers,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail bezüglich \"SalesFlow Pro\".",
+            "Drücken Sie Ihr aufrichtiges Bedauern über die Probleme (Abstürze, Datenverluste, fehlende Berichtsfunktion, schlechter Support) aus.",
+            "Entschuldigen Sie sich höflich für die entstandenen Unannehmlichkeiten und die Störung seiner Arbeitsabläufe.",
+            "Erklären Sie kurz und professionell die Gründe für die Schwierigkeiten (gemäß Anweisung der Teamleiterin, z.B. unerwartete Fehler nach Einführung, temporäre Support-Engpässe).",
+            "Erläutern Sie die konkreten Maßnahmen zur Lösung: a) Fehlerbehebung (z.B. Patch geplant für [Datum], Stabilitätsverbesserungen), b) Berichtsfunktion (z.B. Nachlieferung geplant für [Datum/Version]), c) Supportverbesserung (z.B. Zuweisung eines festen Ansprechpartners, garantierte Antwortzeiten).",
+            "Bestätigen Sie, dass er wie gewünscht bis Ende der Woche einen detaillierten Plan erhält oder geben Sie den Plan bereits an.",
+            "Betonen Sie, wie wichtig er als Kunde ist und dass Sie alles tun, um die Probleme zu lösen.",
+            "Wahren Sie durchgehend einen höflichen, formellen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sandra Bauer\n**Erhalten:** heute, 09:15 Uhr\n**An:** Tim Voss\n\n**Betreff:** FW: Dringende Probleme nach Update ProManage Suite\n\nHallo Herr Voss,\n\nanbei die E-Mail von Herrn Richter (Müller & Partner GmbH), die mich eben erreicht hat. Müller & Partner ist ein wichtiger Kunde, bitte kümmern Sie sich umgehend darum.\n\nAntworten Sie Herrn Richter höflich. Erklären Sie ihm bitte kurz die Ursache für die Störung nach dem Update. Ganz wichtig ist auch: Nennen Sie ihm die nächsten Schritte zur Problemlösung und einen konkreten Zeitrahmen, wann die Funktionen wieder verfügbar sein werden.\n\nDanke und viele Grüße\n\nSandra Bauer\nTeamleiterin Kundensupport\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Klaus Richter\n**An:** Sandra Bauer\n\n**Betreff:** Dringende Probleme nach Update ProManage Suite\n\nSehr geehrte Frau Bauer,\n\nAnfang dieser Woche wurde auf unseren Systemen das aktuelle Update für Ihre Software „ProManage Suite“ installiert. Seitdem treten massive Probleme bei der Nutzung auf, die unsere Arbeit erheblich behindern.\n\nKonkret funktionieren die Module für die automatische Berichterstellung und der Datenexport in Excel nicht mehr korrekt. Die Berichte werden entweder gar nicht generiert oder enthalten fehlerhafte Daten. Der Datenexport bricht regelmäßig ab. Vor dem Update liefen diese Funktionen einwandfrei.\n\nDiese Störungen sind für uns kritisch, da wir auf korrekte Berichte für unsere Monatsabschlüsse angewiesen sind und der Datenexport für die Weiterverarbeitung in anderen Systemen benötigt wird. Unsere Arbeitsabläufe sind dadurch stark beeinträchtigt.\n\nWir bitten Sie dringend um eine umgehende Behebung dieser Fehler. Bitte teilen Sie uns bis Ende dieser Woche mit, was die Ursache ist und wann wir mit einer funktionierenden Lösung rechnen können.\n\nMit freundlichen Grüßen\n\nKlaus Richter\nLeiter Controlling\nMüller & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Richter beschwert sich über",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die hohen Kosten für das neue Software-Update."
+                },
+                {
+                    "key": "b",
+                    "text": "Funktionsstörungen der Software nach einem Update."
+                },
+                {
+                    "key": "c",
+                    "text": "den generell langsamen Kundenservice von SoftSolutions."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Wegen der Probleme kann die Firma Müller & Partner",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Software überhaupt nicht mehr nutzen."
+                },
+                {
+                    "key": "b",
+                    "text": "keine Verbindung zum Server herstellen."
+                },
+                {
+                    "key": "c",
+                    "text": "wichtige Arbeitsabläufe nicht wie geplant durchführen."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Klaus Richter.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Richter,').",
+            "Beziehen Sie sich klar auf seine E-Mail bezüglich der Probleme mit der ProManage Suite nach dem Update.",
+            "Bestätigen Sie den Eingang der Beschwerde und entschuldigen Sie sich höflich für die entstandenen Probleme und die Beeinträchtigung seiner Arbeit.",
+            "Erklären Sie kurz und nachvollziehbar die Ursache für die Störung (gemäß Anweisung der Teamleiterin, z.B. unerwartete Kompatibilitätsprobleme mit spezifischen Konfigurationen).",
+            "Nennen Sie die konkreten nächsten Schritte zur Problemlösung (gemäß Anweisung der Teamleiterin, z.B. Entwicklung eines Patches, intensive Tests).",
+            "Geben Sie einen klaren Zeitrahmen an, wann die Behebung der Fehler erwartet wird (gemäß Anweisung der Teamleiterin, z.B. 'innerhalb der nächsten 48 Stunden', 'bis spätestens Montag').",
+            "Versichern Sie ihm, dass das Problem mit hoher Priorität behandelt wird.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und serviceorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

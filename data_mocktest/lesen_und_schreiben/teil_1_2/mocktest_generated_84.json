@@ -1,0 +1,62 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Lena Meyer\n**Erhalten:** heute, 09:45 Uhr\n**An:** Herr Schmidt\n\n**Betreff:** FW: Dringende Beschwerde: Ausfall der Heizungsanlage im 3. Stock\n\nHallo Herr Schmidt,\n\nich habe gerade diese Mail von Herrn Berger (Innovatech GmbH) bekommen. Bitte kümmern Sie sich umgehend darum und antworten Sie dem Kunden höflich.\n\nDie Situation ist wirklich dringend, es ist kalt und Innovatech ist ein wichtiger Mieter, wir wollen keine weiteren Probleme.\n\nErklären Sie Herrn Berger kurz die Ursache – vermutlich das defekte Ventil im Heizkreislauf des 3. Stocks, das wir schon vermutet haben. Ganz wichtig: Informieren Sie ihn, dass unser Heizungstechniker bereits beauftragt ist und morgen Vormittag kommt, um das Teil definitiv auszutauschen und die Anlage neu einzustellen.\n\nDanke und viele Grüße\n\nLena Meyer\nTeamleiterin Hausverwaltung\nProHaus Management GmbH\n```"
+    },
+    "beschwerde_kunde": {
+        "typ": "E-Mail von Kunde",
+        "text": "```markdown\n**Von:** Klaus Berger (Innovatech GmbH)\n**Gesendet:** heute, 09:15 Uhr\n**An:** Lena Meyer (ProHaus Management GmbH)\n\n**Betreff:** Dringende Beschwerde: Ausfall der Heizungsanlage im 3. Stock\n\nSehr geehrte Frau Meyer,\n\nhiermit muss ich mich leider erneut über die unzureichende Funktion der Heizungsanlage in unseren Büroräumen im 3. Stock beschweren.\n\nSeit letzter Woche Montag funktioniert die Heizung nur noch sporadisch und fällt in den letzten Tagen teilweise sogar komplett aus. Die Folge sind sehr kalte Büros, was bei den aktuellen Außentemperaturen unzumutbar ist. Unsere Mitarbeiter beschweren sich zurecht, und die Arbeitsproduktivität leidet merklich. Wir befürchten zudem einen erhöhten Krankenstand, wenn dieser Zustand andauert.\n\nWir hatten das Problem bereits letzte Woche telefonisch gemeldet, woraufhin es nur eine kurzfristige Besserung gab. Die Ursache scheint also nicht behoben zu sein.\n\nWir bitten Sie dringend um eine umgehende und vor allem nachhaltige Reparatur der Heizungsanlage. Bitte teilen Sie uns bis spätestens übermorgen, [Datum in 2 Tagen], mit, welche konkreten Maßnahmen Sie wann ergreifen werden. Andernfalls müssen wir prüfen, welche weiteren Schritte uns zur Verfügung stehen.\n\nMit freundlichen Grüßen\n\nKlaus Berger\nInnovatech GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Herr Berger beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Mitarbeiter zu oft krank sind."
+                },
+                {
+                    "key": "b",
+                    "text": "die Heizung in seinen Büroräumen unzuverlässig funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Heizung im gesamten Gebäude ausgefallen ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Das Problem mit der Heizung...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "besteht seit über einer Woche."
+                },
+                {
+                    "key": "b",
+                    "text": "wurde bisher noch nicht gemeldet."
+                },
+                {
+                    "key": "c",
+                    "text": "führt dazu, dass niemand mehr arbeiten kann."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an den Kunden. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie dem Kunden gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Herrn Berger.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrter Herr Berger,').",
+            "Beziehen Sie sich auf seine Beschwerde-E-Mail vom [heutiges Datum] bezüglich der Heizungsanlage im 3. Stock.",
+            "Drücken Sie Ihr Bedauern über die anhaltenden Probleme und die Unannehmlichkeiten (kalte Büros) aus und entschuldigen Sie sich höflich.",
+            "Erklären Sie kurz die vermutete Ursache des Problems (defektes Ventil im Heizkreislauf), wie von der Teamleitung vorgegeben.",
+            "Informieren Sie ihn über die konkrete Maßnahme: Der Heizungstechniker kommt morgen Vormittag, um das defekte Teil auszutauschen und die Anlage neu einzustellen (gemäß Anweisung der Teamleitung).",
+            "Versichern Sie ihm, dass eine nachhaltige Lösung angestrebt wird und die Situation mit Priorität behandelt wird.",
+            "Wahren Sie einen professionellen, höflichen und serviceorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

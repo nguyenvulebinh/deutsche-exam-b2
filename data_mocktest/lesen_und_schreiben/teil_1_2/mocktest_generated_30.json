@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Scholz\n**Erhalten:** heute, 09:15 Uhr\n**An:** ...\n\n**Betreff:** FW: Dringende Reklamation Multifunktionsgerät OfficePro X7 - Innovatec GmbH\n\nHallo,\n\nunten stehende E-Mail von Frau Weber (Innovatec GmbH) habe ich gerade erhalten. Das ist natürlich sehr ärgerlich für die Kundin.\n\nBitte kümmern Sie sich dringend darum und antworten Sie Frau Weber höflich. Drücken Sie unser Bedauern über die Situation aus.\n\nGanz wichtig: Organisieren Sie sofort einen Technikereinsatz. Informieren Sie die Kundin in Ihrer Antwort über das weitere Vorgehen und schlagen Sie ihr einen konkreten Termin oder zumindest einen Zeitrahmen für den Technikerbesuch vor.\n\nInnovatec ist ein wichtiger Kunde, wir wollen hier schnell eine Lösung finden.\n\nDanke und viele Grüße\n\nStefan Scholz\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:58 Uhr\n**Von:** Anja Weber\n**An:** Stefan Scholz\n\n**Betreff:** Dringende Reklamation Multifunktionsgerät OfficePro X7\n\nSehr geehrter Herr Scholz,\n\nwir haben letzte Woche, am 15. Mai, das bei Ihnen bestellte Multifunktionsgerät 'OfficePro X7' erhalten und installieren lassen.\n\nLeider müssen wir Ihnen mitteilen, dass wir mit dem Gerät äußerst unzufrieden sind. Seit Montag dieser Woche treten massive Probleme auf: Es kommt zu ständigen Papierstaus, Ausdrucke weisen häufig Streifen und Schmierflecken auf und der Scanner erkennt Dokumente oft nicht zuverlässig. Ein einfacher Neustart des Geräts hat die Probleme nicht behoben.\n\nDiese Mängel führen zu einer erheblichen Störung unserer täglichen Arbeitsabläufe, verursachen Zeit- und Materialverschwendung und hindern uns daran, wichtige Kundenkorrespondenz zeitnah zu erledigen.\n\nWir erwarten eine umgehende Lösung dieses Problems. Bitte veranlassen Sie entweder eine Reparatur oder einen Austausch des Geräts. Wir bitten um einen Vorschlag für einen zeitnahen Termin für einen Technikerbesuch bei uns vor Ort.\n\nWir erwarten Ihre Rückmeldung mit einem konkreten Lösungsvorschlag bis Ende dieser Woche.\n\nMit freundlichen Grüßen\n\nAnja Weber\nBüroleitung\nInnovatec GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber beschwert sich bei Bürobedarf Wagner, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Installation des Geräts nicht fachgerecht durchgeführt wurde."
+                },
+                {
+                    "key": "b",
+                    "text": "das neu gelieferte Multifunktionsgerät viele technische Probleme aufweist."
+                },
+                {
+                    "key": "c",
+                    "text": "der Preis für das Gerät zu hoch war."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Probleme mit dem Drucker führen dazu, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Arbeitsabläufe im Büro der Kundin gestört werden."
+                },
+                {
+                    "key": "b",
+                    "text": "die Kundin das Gerät bereits zurückgeschickt hat."
+                },
+                {
+                    "key": "c",
+                    "text": "wichtige Dokumente verloren gegangen sind."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Anja Weber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich auf ihre E-Mail vom [Datum] bezüglich der Probleme mit dem Multifunktionsgerät 'OfficePro X7'.",
+            "Bestätigen Sie den Eingang ihrer Beschwerde.",
+            "Drücken Sie Ihr aufrichtiges Bedauern über die aufgetretenen technischen Probleme und die dadurch entstandenen Unannehmlichkeiten und Störungen aus.",
+            "Entschuldigen Sie sich höflich für die Situation.",
+            "Informieren Sie die Kundin, dass ein Techniker zur Überprüfung und Behebung der Probleme beauftragt wird (gemäß Anweisung der Teamleitung).",
+            "Schlagen Sie einen konkreten Termin oder ein Zeitfenster für den Technikerbesuch vor (z.B. 'morgen Vormittag', 'am [Datum] zwischen X und Y Uhr').",
+            "Erklären Sie kurz das weitere Vorgehen (z.B. 'Unser Techniker wird sich zur genauen Abstimmung kurz telefonisch melden').",
+            "Versichern Sie der Kundin, dass die schnelle Lösung des Problems hohe Priorität hat.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und serviceorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

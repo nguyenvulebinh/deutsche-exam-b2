@@ -1,0 +1,65 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Vogel\n**Erhalten:** heute, 09:45 Uhr\n**An:** ...\n\n**Betreff:** FW: Frage zur Rechnung 2023-10-582 / IT-Supportvertrag\n\nHallo,\n\ndie Mail unten von Frau Keller (Keller & Partner GmbH) habe ich gerade erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nPrüfen Sie bitte den Vertrag von Keller & Partner GmbH genau. Falls tatsächlich ein Fehler bei der Abrechnung der Techniker-Einsätze vorliegt, erklären Sie ihn bitte kurz. Sichern Sie auf jeden Fall eine schnelle Korrektur der Rechnung zu.\n\nFrau Keller ist eine wichtige Kundin, die wir nicht verlieren möchten.\n\nDanke und viele Grüße\n\nMarkus Vogel\nTeamleiter IT-Support\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 09:15 Uhr\n**Von:** Sabine Keller\n**An:** Markus Vogel\n\n**Betreff:** Frage zur Rechnung 2023-10-582 / IT-Supportvertrag\n\nSehr geehrter Herr Vogel,\n\nals langjährige Kundin Ihrer IT Solutions GmbH wenden wir uns heute mit einer Frage bezüglich unserer letzten Monatsrechnung an Sie.\nWir haben einen IT-Supportvertrag mit einer monatlichen Pauschale abgeschlossen, der auch notwendige Techniker-Einsätze vor Ort abdecken sollte. Mit dem Support selbst sind wir im Großen und Ganzen zufrieden.\n\nAuf der aktuellen Rechnung für Oktober (Rechnungsnummer 2023-10-582) wurden uns jedoch zusätzlich zur Pauschale zwei Techniker-Einsätze vom 12.10. und 25.10. berechnet. Unserer Auffassung nach sind diese Einsätze durch unseren Vertrag abgedeckt und dürften nicht separat aufgeführt werden.\n\nWir bitten Sie dringend um Klärung dieses Sachverhalts und um eine entsprechende Korrektur der Rechnung. Bitte senden Sie uns zeitnah, spätestens bis Ende nächster Woche, eine korrigierte Rechnung zu.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nSabine Keller\nKeller & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller schreibt, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...sie mit der Qualität des IT-Supports unzufrieden ist."
+                },
+                {
+                    "key": "b",
+                    "text": "...die letzte Rechnung Posten enthält, die nicht hätten berechnet werden dürfen."
+                },
+                {
+                    "key": "c",
+                    "text": "...sie ihren IT-Supportvertrag kündigen möchte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die IT-Firma soll...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "...die Techniker-Einsätze besser planen."
+                },
+                {
+                    "key": "b",
+                    "text": "...die Details des Pauschalvertrags erklären."
+                },
+                {
+                    "key": "c",
+                    "text": "...die Rechnung überprüfen und eine korrigierte Version schicken."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Sabine Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich auf ihre E-Mail und die Rechnung Nr. 2023-10-582.",
+            "Drücken Sie Ihr Bedauern über die fehlerhafte Rechnung und die entstandenen Unannehmlichkeiten höflich aus.",
+            "Bestätigen Sie, dass der Vertrag geprüft wurde (gemäß Anweisung der Teamleitung).",
+            "Erklären Sie kurz und sachlich den Grund für den Abrechnungsfehler (gemäß Anweisung der Teamleitung, z.B. 'ein interner Buchungsfehler', 'versehentliche falsche Zuordnung der Leistung').",
+            "Bestätigen Sie, dass die berechneten Techniker-Einsätze tatsächlich durch die Pauschale abgedeckt sind.",
+            "Sichern Sie die umgehende Korrektur der Rechnung zu (gemäß Anweisung der Teamleitung).",
+            "Informieren Sie, dass eine korrigierte Rechnung in Kürze zugesendet wird.",
+            "Betonen Sie, dass auf zukünftige korrekte Abrechnung geachtet wird und die Geschäftsbeziehung geschätzt wird.",
+            "Verwenden Sie durchgehend eine höfliche, formelle und kundenorientierte Sprache.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

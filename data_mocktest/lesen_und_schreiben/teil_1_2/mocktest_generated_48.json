@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Markus Weber\n**Erhalten:** heute, 09:15 Uhr\n**An:** Anna Schmidt\n\n**Betreff:** FW: Beschwerde Lieferung Nr. 7823\n\nHallo Anna,\n\ndie unten stehende Mail habe ich eben von Frau Keller erhalten. Bitte kümmern Sie sich darum und antworten Sie der Kundin höflich.\n\nErklären Sie ihr kurz die Gründe für die Probleme (z.B. hoher Krankenstand in der Logistik). Schlagen Sie eine sofortige Nachlieferung der korrekten/neuen Ware vor. Bieten Sie als kleine Entschädigung einen Rabatt auf die nächste Bestellung an.\n\nMüller & Partner ist ein wichtiger Kunde, wir wollen sie nicht verlieren.\n\nDanke und viele Grüße\n\nMarkus Weber\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** heute, 08:55 Uhr\n**Von:** Sabine Keller\n**An:** Herrn Fischer\n**Firma:** Müller & Partner GmbH\n\n**Betreff:** Beschwerde Lieferung Nr. 7823\n\nSehr geehrter Herr Fischer,\n\nhiermit möchten wir uns über die Lieferung unserer Bestellung Nr. 7823 beschweren, die wir letzte Woche bei Ihnen getätigt haben.\n\nDie Lieferung sollte eigentlich gestern bei uns eintreffen, kam jedoch erst heute Vormittag an. Diese Verzögerung war bereits sehr ärgerlich, da wir die Materialien dringend für eine wichtige Besprechung heute benötigten.\n\nZusätzlich mussten wir feststellen, dass die Lieferung fehlerhaft war. Statt der bestellten blauen Ordner wurden uns rote geliefert. Außerdem waren mehrere Packungen Kopierpapier an den Ecken aufgerissen und somit teilweise unbrauchbar.\n\nWir bitten um umgehenden Austausch der falschen Ordner gegen die korrekten blauen sowie um Ersatz für das beschädigte Kopierpapier. Bitte teilen Sie uns bis morgen Mittag mit, wie Sie das Problem lösen werden.\n\nMit freundlichen Grüßen\n\nSabine Keller\nOffice Management\nMüller & Partner GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die bestellten Materialien zu teuer waren."
+                },
+                {
+                    "key": "b",
+                    "text": "die Lieferung fehlerhaft und verspätet war."
+                },
+                {
+                    "key": "c",
+                    "text": "die Lieferung gar nicht angekommen ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Kundin erwartet, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die fehlerhafte Ware schnell ersetzt wird."
+                },
+                {
+                    "key": "b",
+                    "text": "sie ihr Geld zurückbekommt."
+                },
+                {
+                    "key": "c",
+                    "text": "die nächste Lieferung kostenlos ist."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Sabine Keller.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Keller,').",
+            "Beziehen Sie sich klar auf ihre Beschwerde-E-Mail bezüglich der Lieferung Nr. 7823.",
+            "Entschuldigen Sie sich höflich für die verspätete Lieferung, die falschen Ordner und das beschädigte Papier.",
+            "Zeigen Sie Verständnis für die entstandenen Unannehmlichkeiten, insbesondere wegen der Besprechung.",
+            "Erklären Sie kurz den Grund für die Probleme (gemäß Anweisung der Teamleitung, z.B. hoher Krankenstand).",
+            "Schlagen Sie eine sofortige Nachlieferung der korrekten blauen Ordner und des Ersatzpapiers vor (gemäß Anweisung).",
+            "Geben Sie an, wann die Ersatzlieferung erfolgen wird (z.B. morgen).",
+            "Bieten Sie einen Rabatt auf die nächste Bestellung als Entschädigung an (gemäß Anweisung).",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}

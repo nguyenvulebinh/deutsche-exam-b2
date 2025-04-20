@@ -1,0 +1,64 @@
+{
+    "beschwerde_teamleiterin": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Sabine Weber\n**Erhalten:** heute, 09:30 Uhr\n**An:** Herr Müller\n\n**Betreff:** FW: Reklamation Multifunktionsdrucker Modell XZ-5000\n\nHallo Herr Müller,\n\nanbei die Reklamation von TechSolutions GmbH, die uns gestern erreichte.\n\nBitte kümmern Sie sich darum und antworten Sie Frau Keller. Antworten Sie höflich und verständnisvoll. TechSolutions ist ein wichtiger Neukunde, den wir nicht durch solche Probleme verärgern dürfen.\n\nGanz wichtig: Bieten Sie einen kurzfristigen Technikertermin zur Überprüfung an und bestätigen Sie, dass wir das Gerät reparieren oder ggf. austauschen, falls eine Reparatur vor Ort nicht schnell möglich ist.\n\nDanke und viele Grüße\n\nSabine Weber\nTeamleiterin Service\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 10:15 Uhr\n**Von:** Maria Keller (TechSolutions GmbH)\n**An:** Herr Schmidt (BüroTech GmbH)\n\n**Betreff:** Reklamation Multifunktionsdrucker Modell XZ-5000\n\nSehr geehrter Herr Schmidt,\n\nhiermit möchte ich den Multifunktionsdrucker Modell XZ-5000 reklamieren, der am 15. Mai an uns geliefert und durch Ihre Techniker installiert wurde. Wir haben uns für Ihr Unternehmen entschieden, da Sie für schnellen Service und zuverlässige Geräte bekannt sind.\n\nLeider müssen wir nun, kurz nach der Inbetriebnahme, erhebliche Mängel feststellen. Das Gerät verursacht häufige Papierstaus, sowohl beim Drucken als auch beim Kopieren. Zudem ist die Druckqualität unzureichend – Ausdrucke weisen oft Streifen auf und die Farben wirken verblasst. Darüber hinaus ist die Scannerfunktion sehr langsam und stürzt gelegentlich ab, was einen Scanvorgang unmöglich macht.\n\nDiese Probleme stören unseren Arbeitsablauf erheblich und führen zu unnötiger Zeit- und Materialverschwendung. Wir bitten um eine umgehende Überprüfung und Reparatur des Geräts. Sollte eine Reparatur nicht kurzfristig möglich sein, erwarten wir einen Austausch des Druckers.\n\nBitte kontaktieren Sie uns bis Ende dieser Woche, um einen Servicetermin zu vereinbaren.\n\nMit freundlichen Grüßen\n\nMaria Keller\nOffice Management\nTechSolutions GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Keller beschwert sich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die Lieferung des Druckers zu spät erfolgte."
+                },
+                {
+                    "key": "b",
+                    "text": "der neue Drucker nicht einwandfrei funktioniert."
+                },
+                {
+                    "key": "c",
+                    "text": "die Installation des Druckers Probleme verursachte."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Die Firma TechSolutions erwartet,...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "dass der Kaufpreis erstattet wird."
+                },
+                {
+                    "key": "b",
+                    "text": "dass ein anderes Druckermodell geliefert wird."
+                },
+                {
+                    "key": "c",
+                    "text": "dass das Problem mit dem Drucker schnell behoben wird."
+                }
+            ],
+            "loesung": "c"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Verwenden Sie eine formelle Anrede für Frau Keller.",
+            "Beziehen Sie sich auf ihre E-Mail vom [Datum des Vortags] bezüglich der Reklamation des Druckers XZ-5000.",
+            "Bestätigen Sie den Eingang ihrer Beschwerde.",
+            "Drücken Sie Ihr Bedauern über die Probleme mit dem neuen Drucker aus und entschuldigen Sie sich höflich für die Unannehmlichkeiten.",
+            "Zeigen Sie Verständnis für die Störung des Arbeitsablaufs.",
+            "Gehen Sie kurz auf die genannten Probleme (Papierstau, Druckqualität, Scanner) ein, um zu zeigen, dass die Beschwerde verstanden wurde.",
+            "Bieten Sie einen konkreten, kurzfristigen Termin für einen Technikerbesuch an oder fragen Sie nach der Verfügbarkeit der Kundin (Umsetzung der Teamleiter-Anweisung).",
+            "Bestätigen Sie, dass das Ziel die schnelle Reparatur ist und ein Austausch erfolgen wird, falls dies nicht zeitnah möglich ist (Umsetzung der Teamleiter-Anweisung).",
+            "Versichern Sie der Kundin, dass das Problem ernst genommen wird und eine schnelle Lösung angestrebt wird.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Verwenden Sie eine formelle Grußformel."
+        ]
+    }
+}

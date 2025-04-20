@@ -1,0 +1,63 @@
+{
+    "beschwerde_teamleiter": {
+        "typ": "E-Mail von Teamleitung",
+        "text": "```markdown\n**Von:** Stefan Bauer\n**Erhalten:** heute, 09:10 Uhr\n**An:** ...\n\n**Betreff:** FW: Reklamation Bestellung #12345 - Bürostühle Kreativagentur GmbH\n\nHallo,\n\ndie unten stehende Mail von Frau Weber (Kreativagentur GmbH) habe ich eben erhalten. Bitte kümmern Sie sich umgehend darum und antworten Sie der Kundin höflich.\n\nKlären Sie bitte den sofortigen Austausch der falsch gelieferten blauen Stühle gegen die bestellten grauen. Senden Sie die fehlende Montageanleitung für die Arbeitsstühle umgehend als PDF per E-Mail an Frau Weber. Bezüglich der beiden beschädigten Stühle: Bieten Sie der Kundin entweder einen angemessenen Preisnachlass oder einen Austausch der Stühle an – sie soll bitte wählen, was ihr lieber ist.\n\nDie Kreativagentur ist ein Neukunde mit Potenzial, bitte sorgen Sie für eine schnelle und kundenfreundliche Lösung.\n\nDanke und viele Grüße\n\nStefan Bauer\nTeamleiter Kundenservice\n```"
+    },
+    "beschwerde_kundin": {
+        "typ": "E-Mail von Kundin",
+        "text": "```markdown\n**Gesendet:** gestern, 16:35 Uhr\n**Von:** Anja Weber (Kreativagentur GmbH)\n**An:** Stefan Bauer\n\n**Betreff:** Reklamation Bestellung #12345 - Lieferung Bürostühle\n\nSehr geehrter Herr Bauer,\n\nich beziehe mich auf unsere Bürostuhl-Bestellung mit der Nummer 12345, die gestern bei uns eingetroffen ist.\n\nLeider müssen wir nach dem Auspacken und teilweisen Aufbau der Stühle mehrere Punkte reklamieren:\n\n1.  **Falsche Farbe:** Für die 10 Arbeitsplätze hatten wir ergonomische Stühle Modell 'ErgoFlex' in Grau bestellt. Geliefert wurden jedoch 5 Stühle in Grau und 5 Stühle in Blau. Dies passt leider überhaupt nicht zu unserem Bürokonzept.\n2.  **Beschädigungen:** Zwei der einfacheren Stühle für unseren Besprechungsraum (Modell 'MeetingPoint') weisen deutliche Kratzer an den Stuhlbeinen auf. Wir vermuten, dass dies beim Transport passiert ist.\n3.  **Fehlende Anleitung:** Für die 'ErgoFlex'-Arbeitsstühle lag keine Montageanleitung bei. Unsere Mitarbeiter hatten Schwierigkeiten beim Zusammenbau und es hat uns unnötig Zeit gekostet.\n\nWir sind mit dieser Lieferung sehr unzufrieden, da sie uns bei der Einrichtung unserer neuen Büroräume behindert.\n\nWir bitten Sie um eine schnelle Klärung und Lösung. Konkret erwarten wir den Austausch der falsch gelieferten blauen Stühle gegen die bestellten grauen Modelle, einen Vorschlag Ihrerseits bezüglich der beschädigten Stühle sowie die Zusendung der fehlenden Montageanleitung.\n\nMit freundlichen Grüßen\n\nAnja Weber\nOffice Management\nKreativagentur GmbH\n```"
+    },
+    "aufgaben_list": [
+        {
+            "frage": "Frau Weber beschwert sich hauptsächlich, weil...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "die bestellten Stühle zu spät geliefert wurden."
+                },
+                {
+                    "key": "b",
+                    "text": "bei der Lieferung der Bürostühle mehrere Probleme aufgetreten sind."
+                },
+                {
+                    "key": "c",
+                    "text": "die Montage der Stühle zu kompliziert ist."
+                }
+            ],
+            "loesung": "b"
+        },
+        {
+            "frage": "Ein spezifisches Problem bei der Lieferung war, dass...",
+            "optionen": [
+                {
+                    "key": "a",
+                    "text": "einige Stühle eine andere Farbe hatten als bestellt."
+                },
+                {
+                    "key": "b",
+                    "text": "alle Stühle während des Transports beschädigt wurden."
+                },
+                {
+                    "key": "c",
+                    "text": "die Aufbauanleitung für alle Stuhltypen fehlte."
+                }
+            ],
+            "loesung": "a"
+        }
+    ],
+    "schreibaufgabe": {
+        "aufgaben_text": "Schreiben Sie eine E-Mail an die Kundin. Setzen Sie dabei alle Punkte Ihrer Teamleitung um.\nAchten Sie darauf, dass Sie der Kundin gegenüber eine angemessene Sprache verwenden (Anrede, Höflichkeit, formelle Sprache etc.).",
+        "check_list": [
+            "Schreiben Sie eine formelle E-Mail an Frau Anja Weber.",
+            "Verwenden Sie eine passende Anrede (z.B. 'Sehr geehrte Frau Weber,').",
+            "Beziehen Sie sich klar auf ihre Reklamations-E-Mail und die Bestellnummer #12345.",
+            "Entschuldigen Sie sich höflich und aufrichtig für alle genannten Probleme (falsche Farbe, Beschädigungen, fehlende Anleitung) und die entstandenen Unannehmlichkeiten.",
+            "Bestätigen Sie den Fehler bei den 5 blauen Stühlen und kündigen Sie den sofortigen Austausch gegen die korrekten grauen Stühle an (gemäß TL-Anweisung). Geben Sie ggf. einen Hinweis zur Terminabstimmung.",
+            "Bieten Sie für die 2 beschädigten Stühle die Wahl zwischen einem angemessenen Preisnachlass ODER einem Austausch an (gemäß TL-Anweisung). Bitten Sie Frau Weber um Mitteilung ihrer Entscheidung.",
+            "Informieren Sie Frau Weber, dass die fehlende Montageanleitung für die 'ErgoFlex'-Stühle dieser E-Mail als PDF beigefügt ist (oder nennen Sie einen alternativen Weg der Zusendung) (gemäß TL-Anweisung).",
+            "Versichern Sie ihr, dass Maßnahmen zur Verbesserung der Lieferqualität geprüft werden.",
+            "Wahren Sie durchgehend einen professionellen, höflichen und lösungsorientierten Ton.",
+            "Beenden Sie die E-Mail mit einer passenden Grußformel (z.B. 'Mit freundlichen Grüßen')."
+        ]
+    }
+}
