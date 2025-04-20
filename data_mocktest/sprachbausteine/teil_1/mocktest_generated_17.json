@@ -1,0 +1,72 @@
+{
+    "thema": "Nachbereitung eines Vorstellungsgesprächs und Übermittlung zusätzlicher Informationen",
+    "textinhalt": "Betreff: Nachbereitung Vorstellungsgespräch als Marketingassistent am 15. Mai\n\nSehr geehrte Frau Bauer,\n\nvielen Dank nochmals für das informative und angenehme Vorstellungsgespräch am vergangenen Montag. Es hat meinen positiven Eindruck von Ihrem Unternehmen bestätigt und mein Interesse an der Position als Marketingassistent weiter verstärkt.\n\n__1__ aufschlussreich fand ich unser Gespräch über die geplanten Social-Media-Kampagnen für das nächste Quartal. Ich bin __2__ sehr an der Stelle interessiert und davon überzeugt, dass meine bisherigen Erfahrungen gut zu Ihren Anforderungen passen.\n\n__3__ möchte ich Ihnen, wie besprochen, die Kontaktdaten meiner ehemaligen Vorgesetzten als Referenz zukommen lassen: Frau Hanna Schmidt, Tel. 0170-1234567. __4__ kann ich Ihnen auch gerne weitere Arbeitsproben zusenden, falls gewünscht.\n\n__5__ meiner Verfügbarkeit möchte ich bestätigen, dass ich __6__ zum 1. Juli starten könnte, wie wir es bereits kurz angesprochen hatten.\n\nIch freue mich auf eine positive Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "bereits"
+        },
+        {
+            "id": "c",
+            "content": "Besonders"
+        },
+        {
+            "id": "d",
+            "content": "bezüglich"
+        },
+        {
+            "id": "e",
+            "content": "darüber"
+        },
+        {
+            "id": "f",
+            "content": "gegebenenfalls"
+        },
+        {
+            "id": "g",
+            "content": "grundsätzlich"
+        },
+        {
+            "id": "h",
+            "content": "Hierzu"
+        },
+        {
+            "id": "i",
+            "content": "trotz"
+        },
+        {
+            "id": "j",
+            "content": "weiterhin"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

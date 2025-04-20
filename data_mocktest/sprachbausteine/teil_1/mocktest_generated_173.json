@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zur neuen Regelung für Spesenabrechnungen",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf das Rundschreiben vom 15. Mai bezüglich der neuen Richtlinien für die Abrechnung von Reisekosten und anderen Spesen. Grundsätzlich begrüße ich die Vereinheitlichung der Prozesse sehr.\n\nAllerdings sind mir bei der Durchsicht noch einige Punkte unklar geblieben. Zum Beispiel wird erwähnt, dass Belege __1__ digital eingereicht werden müssen. Gilt dies ausnahmslos für alle Arten von Belegen, __2__ gibt es hierfür Ausnahmen, beispielsweise bei Taxiquittungen ohne digitale Option?\n\n__3__ frage ich mich, __4__ welcher Frist die Abrechnungen nach einer Dienstreise spätestens erfolgen müssen. Im Schreiben selbst konnte ich dazu keine genaue Angabe finden.\n\nKönnten Sie mir __5__ kurz mitteilen, wo ich detailliertere Informationen finden kann oder an wen ich mich __6__ spezifischen Fragen wenden kann?\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "außerdem"
+        },
+        {
+            "id": "b",
+            "content": "Des Weiteren"
+        },
+        {
+            "id": "c",
+            "content": "eventuell"
+        },
+        {
+            "id": "d",
+            "content": "innerhalb"
+        },
+        {
+            "id": "e",
+            "content": "mit"
+        },
+        {
+            "id": "f",
+            "content": "nach"
+        },
+        {
+            "id": "g",
+            "content": "nun"
+        },
+        {
+            "id": "h",
+            "content": "oder"
+        },
+        {
+            "id": "i",
+            "content": "vielleicht"
+        },
+        {
+            "id": "j",
+            "content": "zu"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

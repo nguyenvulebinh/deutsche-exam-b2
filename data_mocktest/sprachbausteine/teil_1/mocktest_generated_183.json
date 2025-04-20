@@ -1,0 +1,72 @@
+{
+    "thema": "Rückfragen zum Arbeitsangebot als Projektmanager",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank für Ihr Schreiben vom 15. Mai und das damit verbundene Angebot für die Position als Projektmanager. Ich habe mich __1__ sehr darüber gefreut.\n\nDie beschriebenen Aufgaben klingen äußerst interessant und ich bin nach wie vor sehr an der Stelle interessiert. __2__ ich Ihnen meine endgültige Zusage gebe, hätte ich jedoch noch zwei kurze Fragen zu den Vertragsdetails.\n\nZum einen bezieht sich meine Frage auf den möglichen Eintrittstermin. Wäre es __3__ möglich, erst am 1. August statt wie vorgeschlagen am 15. Juli zu beginnen? Zum anderen erwähnten Sie Weiterbildungsmöglichkeiten. Könnten Sie vielleicht konkretisieren, __4__ Art von Fortbildungen üblicherweise unterstützt werden?\n\nIch wäre Ihnen dankbar, __5__ Sie mir diese Punkte kurz erläutern könnten. __6__ diese Fragen geklärt sind, kann ich Ihnen umgehend meine feste Zusage mitteilen.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Nachdem"
+        },
+        {
+            "id": "b",
+            "content": "eventuell"
+        },
+        {
+            "id": "c",
+            "content": "Sobald"
+        },
+        {
+            "id": "d",
+            "content": "wenn"
+        },
+        {
+            "id": "e",
+            "content": "natürlich"
+        },
+        {
+            "id": "f",
+            "content": "Ob"
+        },
+        {
+            "id": "g",
+            "content": "Bevor"
+        },
+        {
+            "id": "h",
+            "content": "Was"
+        },
+        {
+            "id": "i",
+            "content": "Deshalb"
+        },
+        {
+            "id": "j",
+            "content": "welche"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

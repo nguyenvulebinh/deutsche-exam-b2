@@ -1,0 +1,72 @@
+{
+    "thema": "Bitte um Verschiebung eines Vorstellungsgesprächs",
+    "textinhalt": "Betreff: Ihr Terminvorschlag für ein Vorstellungsgespräch – Kennziffer XYZ\n\nSehr geehrte Frau Meyer,\n\nherzlichen Dank für Ihre freundliche Einladung zu einem Vorstellungsgespräch am [Datum, z.B. 15. Juli], die ich heute erhalten habe. Über die Möglichkeit, mich Ihnen persönlich vorzustellen, habe ich mich sehr gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich den von Ihnen vorgeschlagenen Termin am [Datum] nicht wahrnehmen kann, __1__ ich an diesem Tag einen wichtigen Arzttermin habe, der schon __2__ längerem feststeht und sich bedauerlicherweise nicht verschieben lässt.\n\nMein Interesse an der ausgeschriebenen Stelle als [Position, z.B. Projektmanager] und an Ihrem Unternehmen ist __3__ unverändert groß.\n\n__4__ möchte ich Sie höflich fragen, ob es __5__ eine Alternative gäbe. Grundsätzlich bin ich zeitlich flexibel, insbesondere an anderen Tagen derselben Woche oder in der Folgewoche.\n\nIch wäre Ihnen sehr dankbar, wenn Sie prüfen könnten, ob ein anderer Termin passt, und bitte __6__ Ihr Verständnis für die Umstände. Über eine positive Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "deshalb"
+        },
+        {
+            "id": "c",
+            "content": "für"
+        },
+        {
+            "id": "d",
+            "content": "möglicherweise"
+        },
+        {
+            "id": "e",
+            "content": "obwohl"
+        },
+        {
+            "id": "f",
+            "content": "seit"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "um"
+        },
+        {
+            "id": "i",
+            "content": "vor"
+        },
+        {
+            "id": "j",
+            "content": "weil"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
+        }
+    ]
+}

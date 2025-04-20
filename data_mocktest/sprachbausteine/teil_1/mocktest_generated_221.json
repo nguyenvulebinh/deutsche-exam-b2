@@ -1,0 +1,72 @@
+{
+    "thema": "Email requesting clarification on a recently assigned project brief.",
+    "textinhalt": "Betreff: Rückfrage zum Projektbrief \"Kundenfeedback-Analyse\"\n\nSehr geehrte Frau Bauer,\n\nvielen Dank für die Zusendung des Projektbriefs zur Analyse des Kundenfeedbacks vom letzten Quartal. Ich habe die Unterlagen bereits gesichtet.\n\nDabei sind mir einige Punkte aufgefallen, zu __1__ ich noch Klärungsbedarf hätte, bevor ich mit der detaillierten Arbeit beginne. Es wird erwähnt, dass wir uns auf \"wesentliche Trends\" konzentrieren sollen. Könnten Sie __2__ präzisieren, was genau unter \"wesentlich\" in diesem Kontext zu verstehen ist?\n\n__3__ bin ich unsicher bezüglich der Tools, die verwendet werden sollen. Steht uns dafür eine spezielle Software zur Verfügung, __4__ sollen wir Standard-Office-Programme nutzen? __5__ wäre es hilfreich zu wissen, bis __6__ Datum die erste Rohfassung der Analyse erwartet wird.\n\nIch wäre Ihnen dankbar, wenn Sie mir hierzu kurz Auskunft geben könnten.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "Außerdem"
+        },
+        {
+            "id": "b",
+            "content": "bitte"
+        },
+        {
+            "id": "c",
+            "content": "denen"
+        },
+        {
+            "id": "d",
+            "content": "Deshalb"
+        },
+        {
+            "id": "e",
+            "content": "die"
+        },
+        {
+            "id": "f",
+            "content": "Ebenfalls"
+        },
+        {
+            "id": "g",
+            "content": "gerne"
+        },
+        {
+            "id": "h",
+            "content": "oder"
+        },
+        {
+            "id": "i",
+            "content": "welchem"
+        },
+        {
+            "id": "j",
+            "content": "welches"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

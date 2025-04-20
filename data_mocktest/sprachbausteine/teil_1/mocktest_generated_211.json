@@ -1,0 +1,72 @@
+{
+    "thema": "Vorschlag für ein Treffen bezüglich einer möglichen Kooperation",
+    "textinhalt": "Sehr geehrte Frau [Name],\n\nvielen Dank für das informative Telefongespräch letzte Woche. Wie besprochen, sehe ich großes Potenzial für eine Zusammenarbeit unserer Unternehmen im Bereich [Bereich].\n\nIch würde Ihnen __1__ gerne ein persönliches Treffen vorschlagen, __2__ die Details und möglichen Synergien genauer zu besprechen. Ich glaube, ein direkter Austausch wäre __3__ am produktivsten.\n\nWären Sie eventuell __4__ Woche verfügbar? Mir würden Dienstagvormittag oder Donnerstagnachmittag gut passen. __5__ können Sie auch gerne andere Termine vorschlagen, falls Ihnen diese nicht zusagen.\n\nBitte teilen Sie mir mit, __6__ einer der Termine für Sie passt und ob wir uns bei Ihnen oder bei uns treffen sollen. Ein Videocall wäre natürlich auch eine Option.\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "alternativ"
+        },
+        {
+            "id": "b",
+            "content": "damit"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "hierfür"
+        },
+        {
+            "id": "f",
+            "content": "kommenden"
+        },
+        {
+            "id": "g",
+            "content": "nächste"
+        },
+        {
+            "id": "h",
+            "content": "ob"
+        },
+        {
+            "id": "i",
+            "content": "trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "um"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "d"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.10., Kennziffer XYZ-123",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Oktober für die Position als Projektmanager. Ich habe mich sehr __1__ gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich diesen Termin nicht wahrnehmen kann, __2__ ich an diesem Tag einen __3__ länger geplanten, unaufschiebbaren Arzttermin habe.\n\nWäre es __4__ möglich, einen alternativen Termin zu finden? Ich stehe Ihnen flexibel zur Verfügung, __5__ in der darauffolgenden Woche, also ab dem 21. Oktober.\n\nIch bin __6__ sehr an der Position interessiert und würde mich freuen, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "obwohl"
+        },
+        {
+            "id": "b",
+            "content": "weiterhin"
+        },
+        {
+            "id": "c",
+            "content": "vielleicht"
+        },
+        {
+            "id": "d",
+            "content": "insbesondere"
+        },
+        {
+            "id": "e",
+            "content": "da"
+        },
+        {
+            "id": "f",
+            "content": "seitdem"
+        },
+        {
+            "id": "g",
+            "content": "darüber"
+        },
+        {
+            "id": "h",
+            "content": "schon"
+        },
+        {
+            "id": "i",
+            "content": "bereits"
+        },
+        {
+            "id": "j",
+            "content": "eventuell"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

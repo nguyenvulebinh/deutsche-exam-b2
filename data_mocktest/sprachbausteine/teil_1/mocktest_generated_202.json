@@ -1,0 +1,72 @@
+{
+    "thema": "Email accepting a job offer but requesting a later start date due to notice period.",
+    "textinhalt": "Betreff: Ihr Stellenangebot als Projektmanager (Ref: PM-456) - Zusage und Startdatum\n\nSehr geehrte Frau Meyer,\n\nvielen herzlichen Dank für Ihr Stellenangebot für die Position als Projektmanager und das mir entgegengebrachte Vertrauen. Ich habe mich sehr über Ihre positive Entscheidung gefreut und nehme das Angebot __1__ an.\n\n__2__ des von Ihnen vorgeschlagenen Startdatums, dem 1. August, muss ich Sie jedoch um Flexibilität bitten. __3__ ich mich aktuell noch in einem ungekündigten Arbeitsverhältnis befinde, unterliege ich einer Kündigungsfrist von drei Monaten zum Monatsende. Das bedeutet, mein frühestmöglicher Starttermin wäre der 1. September.\n\nIch hoffe sehr, dass dieser spätere Einstiegstermin für Sie __4__ möglich ist. Mein Interesse an der Position und der Mitarbeit in Ihrem Team ist __5__ sehr groß.\n\nKönnten Sie mir bitte kurz bestätigen, __6__ ein Start zum 1. September für Sie in Ordnung wäre?\n\nIch freue mich auf Ihre Rückmeldung und verbleibe\n\nmit freundlichen Grüßen\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "Bezüglich"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "Dass"
+        },
+        {
+            "id": "d",
+            "content": "gerne"
+        },
+        {
+            "id": "e",
+            "content": "grundsätzlich"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "Wegen"
+        },
+        {
+            "id": "i",
+            "content": "weiterhin"
+        },
+        {
+            "id": "j",
+            "content": "Weil"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "d"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

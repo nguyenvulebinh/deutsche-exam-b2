@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zu Weiterbildungsmöglichkeiten",
+    "textinhalt": "Sehr geehrte Frau Berger,\n\nich arbeite nun __1__ sechs Monaten als Marketingassistent in Ihrer Abteilung und möchte mein Interesse an beruflicher Weiterentwicklung zum Ausdruck bringen.\n\nInsbesondere interessiere ich mich __2__ Kurse im Bereich Projektmanagement, __3__ ich glaube, dass dies sowohl meiner persönlichen Entwicklung als auch dem Team zugutekommen würde.\n\nKönnten Sie mir bitte Informationen __4__ zukommen lassen, welche internen oder externen Weiterbildungsmaßnahmen vom Unternehmen unterstützt werden und __5__ welchen Bedingungen eine Förderung möglich ist?\n\nIch wäre Ihnen sehr __6__, wenn Sie mir entsprechende Unterlagen zusenden oder mir einen Ansprechpartner nennen könnten. Gerne stehe ich auch für ein Gespräch zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "an"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "dankbar"
+        },
+        {
+            "id": "d",
+            "content": "darüber"
+        },
+        {
+            "id": "e",
+            "content": "davon"
+        },
+        {
+            "id": "f",
+            "content": "froh"
+        },
+        {
+            "id": "g",
+            "content": "für"
+        },
+        {
+            "id": "h",
+            "content": "seit"
+        },
+        {
+            "id": "i",
+            "content": "unter"
+        },
+        {
+            "id": "j",
+            "content": "weil"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "h"
+        },
+        {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

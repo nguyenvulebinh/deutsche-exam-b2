@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zu internen Weiterbildungsmöglichkeiten",
+    "textinhalt": "Sehr geehrte Frau Bader,\n\nich arbeite nun seit über einem Jahr in der Marketingabteilung und möchte mich gerne beruflich weiterentwickeln, um unser Team noch besser unterstützen zu können.\n\nBesonders interessiere ich mich für Fortbildungen __1__ Online-Marketing und Datenanalyse. Ich habe bereits im Intranet nachgesehen, __2__ konnte dort keine Übersicht über aktuelle interne Angebote oder geförderte externe Maßnahmen finden. \n\nKönnten Sie mir vielleicht Informationen zukommen lassen, welche Möglichkeiten es generell gibt und wie der Prozess zur Anmeldung aussieht? Mich würde auch interessieren, __3__ es bestimmte Voraussetzungen oder ein festes Budget pro Mitarbeiter gibt.\n\nIch würde mich __4__ freuen, wenn wir uns kurz darüber austauschen könnten, vielleicht in der nächsten Woche? Ich bin überzeugt, dass ich durch gezielte Weiterbildung __5__ noch effektiver zu den Zielen unserer Abteilung beitragen kann.\n\nVielen Dank __6__ für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "beim"
+        },
+        {
+            "id": "c",
+            "content": "bereits"
+        },
+        {
+            "id": "d",
+            "content": "danach"
+        },
+        {
+            "id": "e",
+            "content": "gerne"
+        },
+        {
+            "id": "f",
+            "content": "im Bereich"
+        },
+        {
+            "id": "g",
+            "content": "im Voraus"
+        },
+        {
+            "id": "h",
+            "content": "ob"
+        },
+        {
+            "id": "i",
+            "content": "trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "zukünftig"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "f"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

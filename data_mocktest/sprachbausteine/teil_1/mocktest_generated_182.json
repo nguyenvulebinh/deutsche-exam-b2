@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage bezüglich einer Hospitation im Bereich Online-Marketing",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse verfolge ich die Aktivitäten Ihres Unternehmens im Bereich Online-Marketing, __1__ ich mich im Rahmen meines BWL-Studiums gerade intensiv mit diesem Thema beschäftige. __2__ würde ich gerne praktische Einblicke gewinnen und anfragen, __3__ Sie grundsätzlich die Möglichkeit einer Hospitation für Studierende anbieten.\n\nMich interessiert __4__ der Bereich Social Media Marketing. Ein Zeitraum von zwei bis vier Wochen wäre für mich ideal, __5__ des kommenden Semesters.\n\nÜber eine kurze Rückmeldung __6__, ob eine solche Hospitation denkbar wäre und wie das weitere Vorgehen aussehen würde, würde ich mich sehr freuen.\n\nMeinen Lebenslauf mit weiteren Informationen zu meiner Person finden Sie im Anhang.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "da"
+        },
+        {
+            "id": "b",
+            "content": "darauf"
+        },
+        {
+            "id": "c",
+            "content": "dazu"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "insbesondere"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "obwohl"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "während"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "a"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

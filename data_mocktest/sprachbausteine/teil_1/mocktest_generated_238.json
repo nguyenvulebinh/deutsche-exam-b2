@@ -1,0 +1,72 @@
+{
+    "thema": "Email asking for clarification on a specific task within a project.",
+    "textinhalt": "Betreff: Rückfrage zur Aufgabe XYZ im Projekt Alpha\n\nSehr geehrter Herr Müller,\n\nich beziehe mich auf die Aufgabe XYZ, die Sie mir gestern im Rahmen des Projekts Alpha zugewiesen haben.\n\nIch habe die Projektunterlagen bereits durchgesehen, __1__ sind mir einige Punkte noch unklar geblieben. Insbesondere die Anforderungen __2__ die Datenformatierung sind nicht eindeutig beschrieben. Könnten Sie mir __3__ kurz erläutern, welches Format genau erwartet wird?\n\nAlternativ wäre ich dankbar, __4__ wir uns kurz dazu austauschen könnten. Ich möchte sicherstellen, dass ich die Aufgabe korrekt bearbeite, __6__ Verzögerungen zu vermeiden.\n\n__5__ meinen anderen Aufgaben arbeite ich wie geplant weiter.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nAnna Schmidt",
+    "options": [
+        {
+            "id": "a",
+            "content": "An"
+        },
+        {
+            "id": "b",
+            "content": "an"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "falls"
+        },
+        {
+            "id": "e",
+            "content": "für"
+        },
+        {
+            "id": "f",
+            "content": "jedoch"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "um"
+        },
+        {
+            "id": "i",
+            "content": "vielleicht"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "f"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
+        }
+    ]
+}

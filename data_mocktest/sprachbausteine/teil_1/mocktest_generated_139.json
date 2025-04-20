@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Nachreichung Unterlagen – Ihre Referenz [Application ID/Job Title]",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nich beziehe mich auf Ihre E-Mail vom [Date] bezüglich meiner Bewerbung als [Job Title] und die Bitte um Nachreichung meines Abschlusszeugnisses bis zum [Deadline Date].\n\n__1__ konnte ich diese Frist nicht einhalten, da die Ausstellung des Dokuments unerwartet länger gedauert hat als von der Universität angegeben. Ich bitte __2__ die entstandene Verzögerung um Entschuldigung.\n\nAnbei übersende ich Ihnen nun das fehlende Zeugnis. Mein Interesse an der ausgeschriebenen Position ist __3__ unverändert groß, da die beschriebenen Aufgabenbereiche sehr gut zu meinen beruflichen Zielen passen.\n\nIch hoffe sehr, dass meine Bewerbung __4__ des verspäteten Eingangs des Dokuments weiterhin im Auswahlverfahren __5__ werden kann.\n\nÜber eine kurze Bestätigung des Erhalts würde ich mich freuen und sehe Ihrer Rückmeldung __6__.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "angesichts"
+        },
+        {
+            "id": "b",
+            "content": "aufgrund"
+        },
+        {
+            "id": "c",
+            "content": "außerdem"
+        },
+        {
+            "id": "d",
+            "content": "berücksichtigt"
+        },
+        {
+            "id": "e",
+            "content": "daher"
+        },
+        {
+            "id": "f",
+            "content": "entgegen"
+        },
+        {
+            "id": "g",
+            "content": "leider"
+        },
+        {
+            "id": "h",
+            "content": "nachdem"
+        },
+        {
+            "id": "i",
+            "content": "trotz"
+        },
+        {
+            "id": "j",
+            "content": "weiterhin"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

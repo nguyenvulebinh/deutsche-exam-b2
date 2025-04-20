@@ -1,0 +1,72 @@
+{
+    "thema": "Email an Projektleiter: Klärung von Aufgaben nach Meeting",
+    "textinhalt": "Betreff: Nachfrage zur Aufgabenverteilung – Projekt \"Neukundenportal\"\n\nSehr geehrter Herr Schmidt,\n\nich beziehe mich auf unsere Projektbesprechung von gestern Nachmittag zum Thema \"Neukundenportal\". Es war ein sehr produktives Meeting, aber __1__ meiner konkreten nächsten Schritte sind noch ein paar Fragen offengeblieben.\n\nSie hatten erwähnt, dass ich mich um die Erstellung der Test-Szenarien kümmern soll. War damit gemeint, dass ich __2__ die technischen als auch die benutzerseitigen Szenarien entwickeln soll, oder nur letztere? Das ist mir __3__ nicht ganz klar geworden.\n\n__4__ wäre es hilfreich zu wissen, bis __5__ Sie die erste Version dieser Szenarien benötigen. Gibt es hierfür bereits eine interne Deadline?\n\n__6__ ich diese Informationen habe, kann ich mit der detaillierten Planung beginnen.\n\nVielen Dank im Voraus für Ihre kurze Rückmeldung.\n\nMit freundlichen Grüßen\nAnna Müller",
+    "options": [
+        {
+            "id": "a",
+            "content": "Außerdem"
+        },
+        {
+            "id": "b",
+            "content": "bezüglich"
+        },
+        {
+            "id": "c",
+            "content": "entweder"
+        },
+        {
+            "id": "d",
+            "content": "leider"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "Sobald"
+        },
+        {
+            "id": "g",
+            "content": "sowohl"
+        },
+        {
+            "id": "h",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "wann"
+        },
+        {
+            "id": "j",
+            "content": "wegen"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

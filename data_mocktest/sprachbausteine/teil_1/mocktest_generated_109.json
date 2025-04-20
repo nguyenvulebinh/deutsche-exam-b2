@@ -1,0 +1,72 @@
+{
+    "thema": "Rückfrage zu einem Stellenangebot",
+    "textinhalt": "Betreff: Rückfrage zu Ihrem Stellenangebot als Projektmanager IT vom [Datum]\n\nSehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für Ihr Stellenangebot für die Position als Projektmanager IT vom [Datum] und das entgegengebrachte Vertrauen. Ich habe mich sehr über die positive Nachricht gefreut.\n\nDas Angebot ist sehr interessant für mich. Bevor ich jedoch final zusagen kann, hätte ich noch zwei kurze Rückfragen. Im Angebot ist der [Datum] als Startdatum genannt. __1__ ich bei meinem jetzigen Arbeitgeber eine Kündigungsfrist von [z.B., einem Monat zum Monatsende] einhalten muss, wollte ich fragen, __2__ es __3__ möglich wäre, erst am [späteres Datum, z.B., 1. des übernächsten Monats] zu beginnen.\n\n__4__ wird im Angebot die Mitarbeit an \"internen Optimierungsprojekten\" erwähnt. Könnten Sie __5__ vielleicht noch einige Details nennen, damit ich mir ein genaueres Bild von diesen Aufgaben machen kann?\n\nVielen Dank im Voraus für Ihre Mühe und Ihr Verständnis. Ich freue mich auf Ihre Rückmeldung, __6__ ich Ihnen meine endgültige Entscheidung zeitnah mitteilen kann.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "Außerdem"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "darauf"
+        },
+        {
+            "id": "e",
+            "content": "dass"
+        },
+        {
+            "id": "f",
+            "content": "Deshalb"
+        },
+        {
+            "id": "g",
+            "content": "eventuell"
+        },
+        {
+            "id": "h",
+            "content": "hierzu"
+        },
+        {
+            "id": "i",
+            "content": "ob"
+        },
+        {
+            "id": "j",
+            "content": "obwohl"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

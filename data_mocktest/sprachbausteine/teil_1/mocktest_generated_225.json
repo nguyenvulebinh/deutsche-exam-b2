@@ -1,0 +1,72 @@
+{
+    "thema": "Nachfrage zu Details eines Vertragsangebots",
+    "textinhalt": "Betreff: Ihr Vertragsangebot für die Position [Positionsbezeichnung] vom [Datum]\n\nSehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für die Zusendung des Vertragsangebots für die Position als [Positionsbezeichnung], __1__ das ich mich sehr gefreut habe. Ich bin nach wie vor sehr an der Stelle interessiert und möchte das Angebot grundsätzlich gerne annehmen.\n\n__2__ ich den Vertrag unterschreibe, hätte ich jedoch noch zwei kurze Fragen zu den Details, die im Angebot nicht explizit ausgeführt wurden. Zum einen wurde der flexible Arbeitsbeginn erwähnt. Wäre es __3__ möglich, erst am 15. [Monat] statt am 1. [Monat] zu beginnen?\n\nZum anderen bezieht sich meine Frage __4__ die erwähnten Zusatzleistungen. Könnten Sie mir bitte kurz erläutern, was genau unter dem Punkt „betriebliche Altersvorsorge“ zu verstehen ist __5__ welche Optionen hier bestehen?\n\nIch wäre Ihnen dankbar, __6__ Sie mir hierzu kurzfristig eine Rückmeldung geben könnten.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "auf"
+        },
+        {
+            "id": "b",
+            "content": "Bevor"
+        },
+        {
+            "id": "c",
+            "content": "bzw."
+        },
+        {
+            "id": "d",
+            "content": "daher"
+        },
+        {
+            "id": "e",
+            "content": "Nachdem"
+        },
+        {
+            "id": "f",
+            "content": "oder"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "über"
+        },
+        {
+            "id": "i",
+            "content": "wenn"
+        },
+        {
+            "id": "j",
+            "content": "worüber"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "h"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

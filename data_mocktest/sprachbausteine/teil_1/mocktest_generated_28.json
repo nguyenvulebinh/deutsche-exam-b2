@@ -1,0 +1,72 @@
+{
+    "thema": "Antwort auf Einladung zum Vorstellungsgespräch und Bitte um Klärung",
+    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai - Stelle als Marketingassistenz\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Mai um 10:00 Uhr in Ihren Räumlichkeiten, über die ich mich sehr gefreut habe.\n\nGerne bestätige ich diesen Termin und freue mich darauf, Sie und Ihr Unternehmen näher kennenzulernen.\n\nIn Ihrer E-Mail erwähnten Sie, dass ich relevante Zeugnisse mitbringen soll. __1__ wurde in unserem vorherigen Telefonat kurz angesprochen, dass auch Arbeitsproben hilfreich wären. __2__ ich mir nun etwas unsicher bin, was genau unter \"relevanten Zeugnissen\" einerseits und \"Arbeitsproben\" andererseits für diese Position zu verstehen ist, wollte ich höflich nachfragen. Handelt es sich __3__ den Zeugnissen nur um Arbeitszeugnisse oder auch um Abschluss- und Weiterbildungszertifikate? Und __4__ beziehen sich die Arbeitsproben konkret – auf frühere Projekte oder Präsentationen? __5__ Sie mir hierzu vielleicht eine kurze Präzisierung geben? \n\nIch möchte sicherstellen, dass ich alle für Sie wichtigen Unterlagen __6__ zum Gespräch mitbringe. Eine kurze Klärung wäre daher sehr hilfreich.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Außerdem"
+        },
+        {
+            "id": "b",
+            "content": "bei"
+        },
+        {
+            "id": "c",
+            "content": "Da"
+        },
+        {
+            "id": "d",
+            "content": "Könnten"
+        },
+        {
+            "id": "e",
+            "content": "mit"
+        },
+        {
+            "id": "f",
+            "content": "Obwohl"
+        },
+        {
+            "id": "g",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "vollständig"
+        },
+        {
+            "id": "i",
+            "content": "worauf"
+        },
+        {
+            "id": "j",
+            "content": "worüber"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "a"
+        },
+        {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
+        }
+    ]
+}

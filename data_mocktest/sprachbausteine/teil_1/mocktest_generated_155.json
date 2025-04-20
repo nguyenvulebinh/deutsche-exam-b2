@@ -1,0 +1,72 @@
+{
+    "thema": "E-Mail zur Klärung von Details in einem Stellenangebot vor der Zusage",
+    "textinhalt": "Betreff: Ihr Stellenangebot als Projektmanager vom 15.07.\n\nSehr geehrte Frau Müller,\n\nvielen Dank für das Stellenangebot für die Position als Projektmanager, __1__ ich mich sehr gefreut habe, sowie für das angenehme Gespräch letzte Woche. Ich bin __2__ sehr an der Position interessiert.\n\n__3__ ich das Angebot jedoch verbindlich annehmen kann, hätte ich noch zwei kurze Fragen zu den Details. Im Angebot wird der 1. September als Startdatum genannt. Wäre es eventuell auch möglich, erst am 15. September zu beginnen, __4__ ich meine aktuelle Position fristgerecht kündigen muss und noch eine Übergabe organisieren möchte?\n\n__5__ würde mich interessieren, wie die Einarbeitungsphase genau gestaltet ist. Gibt es hierfür einen festen Plan oder wird mir ein Mentor zur Seite gestellt?\n\nIch wäre Ihnen dankbar, __6__ Sie mir diese Punkte kurz erläutern könnten. Ich bitte um Ihr Verständnis für meine Nachfragen und freue mich auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Bevor"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "Deshalb"
+        },
+        {
+            "id": "d",
+            "content": "nach wie vor"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "über das"
+        },
+        {
+            "id": "h",
+            "content": "Während"
+        },
+        {
+            "id": "i",
+            "content": "wenn"
+        },
+        {
+            "id": "j",
+            "content": "Zudem"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

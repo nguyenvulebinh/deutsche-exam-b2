@@ -1,0 +1,72 @@
+{
+    "thema": "Rückfrage zu Details im Stellenangebot",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für Ihr Stellenangebot vom 15. Juli für die Position als Marketing-Assistent, über das ich mich sehr gefreut habe.\n\nBevor ich das Angebot final annehme, hätte ich noch zwei kurze Rückfragen zu den Vertragsdetails.\nIm Angebot wird ein „Zuschuss zum ÖPNV-Ticket“ erwähnt. Könnten Sie mir bitte erläutern, __1__ hoch dieser Zuschuss genau ist oder __2__ es sich um ein vollständig übernommenes Jobticket handelt?\n\n__3__ betrifft meine zweite Frage den Eintrittstermin. Im Angebot ist der 1. September genannt. __4__ ich bei meinem jetzigen Arbeitgeber eine Kündigungsfrist von sechs Wochen zum Monatsende habe, wäre ein Start am 1. September leider nicht möglich.\n\nWäre __5__ ein Beginn zum 1. Oktober __6__ denkbar?\n\nVielen Dank im Voraus für Ihre Klärung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Außerdem"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "dass"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "ebenfalls"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "was"
+        },
+        {
+            "id": "i",
+            "content": "Weil"
+        },
+        {
+            "id": "j",
+            "content": "wie"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

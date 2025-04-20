@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage Weiterbildung für Projekt 'Neukundenportal'",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich schreibe Ihnen bezüglich des neuen Projekts „Neukundenportal“, dessen Leitung mir kürzlich übertragen wurde. Ich freue mich sehr __1__ diese verantwortungsvolle Aufgabe.\n\n__2__ einer ersten Einarbeitung in die Projektziele habe ich festgestellt, dass für eine effiziente Umsetzung spezielle Kenntnisse in der CRM-Software „SalesPlus“ notwendig wären, __3__ ich bisher nur grundlegend gearbeitet habe.\n\nEine gezielte Schulung würde mir ermöglichen, die Kundeninteraktionen im Portal optimal zu gestalten und __4__ die Projektrisiken zu minimieren. __5__ bin ich überzeugt, dass sich diese Investition schnell auszahlen wird.\n\nKönnten Sie mir bitte mitteilen, __6__ interne Schulungen zu „SalesPlus“ geplant sind oder ob externe Kurse von der Firma übernommen werden?\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen,\nMarkus Weber",
+    "options": [
+        {
+            "id": "a",
+            "content": "auf"
+        },
+        {
+            "id": "b",
+            "content": "Deshalb"
+        },
+        {
+            "id": "c",
+            "content": "Nach"
+        },
+        {
+            "id": "d",
+            "content": "ob"
+        },
+        {
+            "id": "e",
+            "content": "somit"
+        },
+        {
+            "id": "f",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "g",
+            "content": "über"
+        },
+        {
+            "id": "h",
+            "content": "Wegen"
+        },
+        {
+            "id": "i",
+            "content": "wodurch"
+        },
+        {
+            "id": "j",
+            "content": "womit"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

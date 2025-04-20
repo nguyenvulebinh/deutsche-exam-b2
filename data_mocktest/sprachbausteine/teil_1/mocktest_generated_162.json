@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage Zwischenzeugnis",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich arbeite __1__ dem 1. Mai 2020 als Projektmanager in Ihrer Abteilung. Ich schreibe Ihnen heute, __2__ ich für die Bewerbung zu einem weiterführenden Zertifikatskurs im Bereich agiles Management ein qualifiziertes Zwischenzeugnis benötige.\n\nIch bitte Sie __3__ höflich um die Ausstellung dieses Dokuments, welches meine aktuellen Aufgabenbereiche und Leistungen widerspiegelt. __4__ wäre es sehr hilfreich, wenn das Zeugnis __5__ Mitte nächsten Monats fertiggestellt werden könnte, da dann die Anmeldefrist für den Kurs endet.\n\nIch weiß, dass dies zusätzlichen Aufwand für Sie bedeutet, und möchte mich bereits im Voraus __6__ Ihre Bemühungen bedanken.\n\nMit freundlichen Grüßen,\nThomas Bauer",
+    "options": [
+        {
+            "id": "a",
+            "content": "ab"
+        },
+        {
+            "id": "b",
+            "content": "bis"
+        },
+        {
+            "id": "c",
+            "content": "da"
+        },
+        {
+            "id": "d",
+            "content": "dafür"
+        },
+        {
+            "id": "e",
+            "content": "darum"
+        },
+        {
+            "id": "f",
+            "content": "Deshalb"
+        },
+        {
+            "id": "g",
+            "content": "für"
+        },
+        {
+            "id": "h",
+            "content": "seit"
+        },
+        {
+            "id": "i",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "weil"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "h"
+        },
+        {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Email an HR: Anfrage zu Weiterbildungsmöglichkeiten",
+    "textinhalt": "Betreff: Anfrage zu Weiterbildungsmöglichkeiten\n\nSehr geehrte Frau Gruber,\n\nich arbeite seit zwei Jahren als Marketingassistent in Ihrer Abteilung Vertrieb und fühle mich im Unternehmen sehr wohl. Da ich mich beruflich weiterentwickeln möchte, interessiere ich mich sehr für die internen Weiterbildungsmöglichkeiten, __1__ im Bereich Projektmanagement.\n\nKönnten Sie mir bitte Informationen __2__ zukommen lassen, welche Kurse oder Programme derzeit angeboten werden und __3__ welchen Bedingungen Mitarbeiter daran teilnehmen können? Ich habe gehört, dass neue Programme __5__ im nächsten Quartal starten.\n\nIch glaube, dass zusätzliche Qualifikationen in diesem Bereich __4__ für meine persönliche Entwicklung als auch für meine zukünftigen Aufgaben im Unternehmen von großem Nutzen wären.\n\nIch wäre Ihnen dankbar, __6__ Sie mir entsprechendes Informationsmaterial zusenden oder mir alternativ mitteilen könnten, an wen ich mich diesbezüglich wenden kann.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "besonders"
+        },
+        {
+            "id": "b",
+            "content": "darüber"
+        },
+        {
+            "id": "c",
+            "content": "davon"
+        },
+        {
+            "id": "d",
+            "content": "falls"
+        },
+        {
+            "id": "e",
+            "content": "insbesondere"
+        },
+        {
+            "id": "f",
+            "content": "möglicherweise"
+        },
+        {
+            "id": "g",
+            "content": "sowohl"
+        },
+        {
+            "id": "h",
+            "content": "unter"
+        },
+        {
+            "id": "i",
+            "content": "während"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

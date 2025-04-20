@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage bezüglich Teilzeitmöglichkeit für ausgeschriebene Vollzeitstelle",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Stellenanzeige für die Position als Projektmanager/in auf Ihrer Website gelesen.\n\nDie beschriebenen Aufgaben und Ihr Unternehmen finde ich sehr ansprechend. Die Position ist laut Anzeige als Vollzeitstelle ausgeschrieben. __1__ ich jedoch aus persönlichen Gründen aktuell nur etwa 30 Stunden pro Woche arbeiten kann, möchte ich mich __2__ erkundigen, ob __3__ auch die Möglichkeit einer Teilzeitanstellung besteht.\n\nIch bin __4__ überzeugt, dass meine Qualifikationen gut zur ausgeschriebenen Stelle passen und ich Ihr Team __5__ effektiv unterstützen könnte.\n\nKönnten Sie mir bitte mitteilen, ob eine Bewerbung __6__ diesen Umständen für Sie infrage kommt?\n\nVielen Dank im Voraus für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "Darüber"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "grundsätzlich"
+        },
+        {
+            "id": "d",
+            "content": "Deshalb"
+        },
+        {
+            "id": "e",
+            "content": "unter"
+        },
+        {
+            "id": "f",
+            "content": "davon"
+        },
+        {
+            "id": "g",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "dennoch"
+        },
+        {
+            "id": "i",
+            "content": "Obwohl"
+        },
+        {
+            "id": "j",
+            "content": "vorab"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

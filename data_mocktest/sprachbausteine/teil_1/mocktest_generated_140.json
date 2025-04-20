@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zu Details einer Stellenausschreibung",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf Ihre Stellenausschreibung für die Position als Projektmanager/-in (Referenznr. PM-123), die ich auf Ihrer Website gefunden habe. Die beschriebene Position klingt sehr interessant, __1__ ich über mehrjährige Erfahrung im agilen Projektmanagement verfüge.\n\nBesonders neugierig hat mich die Erwähnung des internen Entwicklungsprojekts „InnovateNow“ gemacht. __2__ in der Anzeige nur wenige Details dazu genannt werden, würde ich gerne etwas mehr darüber erfahren, bevor ich meine Bewerbung finalisiere.\n\nKönnten Sie mir __3__ kurz erläutern, __4__ die Hauptziele dieses Projekts sind und welche Technologien dabei hauptsächlich __5__ Einsatz kommen? Diese Informationen wären sehr hilfreich, um meine Eignung besser einschätzen und meine Unterlagen entsprechend anpassen zu können.\n\nIch bin __6__ überzeugt, dass meine Fähigkeiten und mein Engagement gut zu den Anforderungen passen würden.\n\nÜber eine kurze Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "da"
+        },
+        {
+            "id": "b",
+            "content": "darüber"
+        },
+        {
+            "id": "c",
+            "content": "davon"
+        },
+        {
+            "id": "d",
+            "content": "denn"
+        },
+        {
+            "id": "e",
+            "content": "im"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "obwohl"
+        },
+        {
+            "id": "h",
+            "content": "vielleicht"
+        },
+        {
+            "id": "i",
+            "content": "welche"
+        },
+        {
+            "id": "j",
+            "content": "zum"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "a"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

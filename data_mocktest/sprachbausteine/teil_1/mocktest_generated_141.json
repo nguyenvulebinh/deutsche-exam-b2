@@ -1,0 +1,72 @@
+{
+    "thema": "Email requesting clarification on job offer details",
+    "textinhalt": "Betreff: Ihr Vertragsangebot als Projektmanagerin - Rückfrage\n\nSehr geehrte Frau Berger,\n\nvielen Dank für die Zusendung des Vertragsangebots für die Position als Projektmanagerin und das damit verbundene Vertrauen. Ich habe mich sehr __1__ gefreut.\n\nIch bin nach wie vor sehr an der Stelle interessiert. __2__ ich das Angebot verbindlich annehme, hätte ich jedoch noch zwei kurze Rückfragen zu den Vertragsdetails.\n\nZum einen bezieht sich meine Frage auf den möglichen Eintrittstermin. Im Angebot ist der 1. August genannt. __3__ wir im Gespräch auch über den 15. Juli gesprochen hatten, wollte ich fragen, ob dieser frühere Termin eventuell auch möglich wäre.\n\nZum anderen betrifft meine Nachfrage den Urlaubsanspruch. Laut Vertrag sind es 26 Tage. Könnten Sie bitte noch einmal prüfen, __4__ die im Vorstellungsgespräch erwähnten 28 Tage vielleicht doch realisierbar sind?\n\nIch bitte um Ihr Verständnis für diese Nachfragen, __5__ diese Punkte sind für meine endgültige Entscheidung wichtig.\n\nÜber eine kurze Klärung würde ich mich freuen, __6__ ich Ihnen meine Zusage bald verbindlich geben kann.\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen\n\nAnna Müller",
+    "options": [
+        {
+            "id": "a",
+            "content": "aber"
+        },
+        {
+            "id": "b",
+            "content": "Bevor"
+        },
+        {
+            "id": "c",
+            "content": "Da"
+        },
+        {
+            "id": "d",
+            "content": "damit"
+        },
+        {
+            "id": "e",
+            "content": "darüber"
+        },
+        {
+            "id": "f",
+            "content": "dass"
+        },
+        {
+            "id": "g",
+            "content": "deswegen"
+        },
+        {
+            "id": "h",
+            "content": "ob"
+        },
+        {
+            "id": "i",
+            "content": "sondern"
+        },
+        {
+            "id": "j",
+            "content": "Während"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

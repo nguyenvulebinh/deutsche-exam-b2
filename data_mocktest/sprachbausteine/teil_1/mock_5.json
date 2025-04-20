@@ -1,0 +1,73 @@
+{
+    "thema": "Betreff: Unser Gespräch am 19.9.",
+    "textinhalt": "Sehr geehrte Frau Peters,\n\nzunächst noch einmal herzlichen Dank für das angenehme Vorstellungsgespräch in Ihrem Unternehmen.\n\nEs hat mich sehr gefreut, Sie und Ihren Kollegen Herrn Schubert kennenzulernen.\nBesonders interessant waren die Einblicke __1__ die Pläne für die Expansion. Ich würde mich sehr freuen, __2__ ich Ihr Unternehmen zukünftig unterstützen könnte.\nWie Sie wissen, bin ich derzeit __3__ in einem ungekündigten Arbeitsverhältnis und reise ab Montag kurzfristig beruflich ins Ausland. __4__ werde ich telefonisch nicht gut erreichbar sein. Ich wollte Sie nur kurz __5__ informieren, da Sie sich ja in den nächsten zwei Wochen wieder bei mir melden wollten.\nIch bin nach wie vor sehr an der Stelle interessiert und ab übernächster Woche auch wieder in Deutschland. Natürlich können Sie mich __6__ aber immer per E-Mail erreichen.\n\nIch freue mich darauf, wieder von Ihnen zu hören!\n\nMit freundlichen Grüßen\nSabrina Sturm",
+    "options": [
+      {
+        "id": "a",
+        "content": "DA"
+      },
+      {
+        "id": "b",
+        "content": "DAHER"
+      },
+      {
+        "id": "c",
+        "content": "DARÜBER"
+      },
+      {
+        "id": "d",
+        "content": "DAZWISCHEN"
+      },
+      {
+        "id": "e",
+        "content": "FÜR"
+      },
+      {
+        "id": "f",
+        "content": "IN"
+      },
+      {
+        "id": "g",
+        "content": "NOCH"
+      },
+      {
+        "id": "h",
+        "content": "SCHON"
+      },
+      {
+        "id": "i",
+        "content": "WENN"
+      },
+      {
+        "id": "j",
+        "content": "ZWISCHENZEITLICH"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "f"
+      },
+      {
+        "blank": "2",
+        "option_id": "i"
+      },
+      {
+        "blank": "3",
+        "option_id": "g"
+      },
+      {
+        "blank": "4",
+        "option_id": "b"
+      },
+      {
+        "blank": "5",
+        "option_id": "c"
+      },
+      {
+        "blank": "6",
+        "option_id": "j"
+      }
+    ]
+}
+  

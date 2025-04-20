@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage nach Informationen vor dem ersten Arbeitstag",
+    "textinhalt": "Betreff: Informationen zum Arbeitsbeginn am [Datum]\n\nSehr geehrte Frau Schmidt,\n\nich freue mich sehr __1__ meinen ersten Arbeitstag als [Position] in Ihrem Unternehmen am [Datum]. Vielen Dank nochmals für diese großartige Gelegenheit.\n\n__2__ mich optimal vorbereiten zu können, hätte ich noch ein paar kurze Fragen. Könnten Sie mir bitte mitteilen, __3__ wem ich mich am ersten Tag melden soll und __4__ es bestimmte Dokumente gibt, die ich unbedingt mitbringen muss? __5__ wäre es hilfreich zu wissen, ob es einen spezifischen Dresscode gibt.\n\nIch möchte sicherstellen, dass am ersten Tag alles reibungslos verläuft. __6__ wäre ich Ihnen für eine kurze Rückmeldung dankbar.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "auf"
+        },
+        {
+            "id": "b",
+            "content": "Außerdem"
+        },
+        {
+            "id": "c",
+            "content": "bei"
+        },
+        {
+            "id": "d",
+            "content": "Damit"
+        },
+        {
+            "id": "e",
+            "content": "Deshalb"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "über"
+        },
+        {
+            "id": "i",
+            "content": "Um"
+        },
+        {
+            "id": "j",
+            "content": "wann"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "a"
+        },
+        {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

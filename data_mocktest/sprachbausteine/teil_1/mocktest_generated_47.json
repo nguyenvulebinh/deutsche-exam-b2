@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch – Kennziffer MA-345",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank __1__ Ihre E-Mail vom 15. Juli und die Einladung zum Vorstellungsgespräch für die Position als Marketingassistent/in (Kennziffer MA-345).\n\nIch habe mich sehr __2__ gefreut und bestätige Ihnen __3__ gerne den vorgeschlagenen Termin am Dienstag, den 23. Juli, um 10:00 Uhr in Ihrem Hause.\n\nIch sehe dem Gespräch mit großem Interesse __4__. __5__ ich vorab noch bestimmte Unterlagen vorbereiten oder spezifische Informationen bereithalten, lassen Sie es mich bitte kurz wissen. __6__ bringe ich meine vollständigen Bewerbungsunterlagen zur Sicherheit nochmals mit.\n\nIch freue mich darauf, Sie persönlich kennenzulernen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Ansonsten"
+        },
+        {
+            "id": "b",
+            "content": "damit"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "entgegen"
+        },
+        {
+            "id": "e",
+            "content": "Falls"
+        },
+        {
+            "id": "f",
+            "content": "für"
+        },
+        {
+            "id": "g",
+            "content": "hiermit"
+        },
+        {
+            "id": "h",
+            "content": "nun"
+        },
+        {
+            "id": "i",
+            "content": "Sollte"
+        },
+        {
+            "id": "j",
+            "content": "über"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "f"
+        },
+        {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "a"
+        }
+    ]
+}

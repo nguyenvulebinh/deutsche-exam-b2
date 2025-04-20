@@ -1,0 +1,73 @@
+{
+    "thema": "Betreff: Meine Bewerbung vom 24.02.",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nbezugnehmend auf Ihr Stellenangebot unter der Nummer DA-501921 bei der Bundesagentur für Arbeit hatte ich mich am 24.07. bei Ihrem Unternehmen als Maschinenschlosser beworben. Den Eingang meiner Unterlagen hatte man mir auch __1__ bestätigt.\n\n__2__ sind fast fünf Wochen vergangen, doch leider habe ich __3__ heute noch keine Antwort von Ihnen erhalten. Es wäre sehr hilfreich, wenn Sie mir kurz mitteilen könnten, __4__ ich frühestens mit einer Antwort rechnen kann, da ich gerade noch von einem anderen Unternehmen auch ein interessantes Angebot erhalten habe. Eine Tätigkeit bei Ihnen würde mir jedoch mehr zusagen, allein schon __5__ der guten Erreichbarkeit des Arbeitsplatzes.\n\n__6__ möchte ich sicher sein, dass meine Bewerbung bei Ihnen nicht vergessen wurde. Über eine baldige Nachricht würde ich mich freuen.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nFreundliche Grüße\n\nValdis Jagodinskis",
+    "options": [
+      {
+        "id": "a",
+        "content": "AUFGRUND"
+      },
+      {
+        "id": "b",
+        "content": "BIS"
+      },
+      {
+        "id": "c",
+        "content": "DAHER"
+      },
+      {
+        "id": "d",
+        "content": "DARÜBER"
+      },
+      {
+        "id": "e",
+        "content": "OB"
+      },
+      {
+        "id": "f",
+        "content": "SEITDEM"
+      },
+      {
+        "id": "g",
+        "content": "SOBALD"
+      },
+      {
+        "id": "h",
+        "content": "SOFORT"
+      },
+      {
+        "id": "i",
+        "content": "WANN"
+      },
+      {
+        "id": "j",
+        "content": "ZWISCHEN"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "h"
+      },
+      {
+        "blank": "2",
+        "option_id": "f"
+      },
+      {
+        "blank": "3",
+        "option_id": "b"
+      },
+      {
+        "blank": "4",
+        "option_id": "i"
+      },
+      {
+        "blank": "5",
+        "option_id": "a"
+      },
+      {
+        "blank": "6",
+        "option_id": "c"
+      }
+    ]
+}
+  

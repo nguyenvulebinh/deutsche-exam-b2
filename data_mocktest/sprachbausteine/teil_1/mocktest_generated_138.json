@@ -1,0 +1,72 @@
+{
+    "thema": "Bitte um ein Referenzschreiben",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich hoffe, diese E-Mail findet Sie gut. Mein Name ist Max Mustermann und ich habe von März 2019 bis August 2022 __1__ Ihrer Leitung als Projektassistent bei der Beispiel GmbH gearbeitet.\n\nWie Sie sich vielleicht erinnern, war ich damals im Marketingteam tätig. Nun bewerbe ich mich auf eine neue Position in einem anderen Unternehmen. __2__ Sie meine damaligen Aufgaben und meine Arbeitsweise sehr gut kennen, wäre eine Referenz von Ihnen für meine Bewerbung __3__ wertvoll.\n\nDie Bewerbungsfrist für die neue Stelle endet bereits in drei Wochen. Ich wollte Sie __4__ frühzeitig fragen, ob es Ihnen möglich wäre, ein kurzes Schreiben für mich aufzusetzen. Gerne stelle ich Ihnen weitere Informationen zur Verfügung, __5__ dies für Sie hilfreich sein sollte.\n\nIch wäre Ihnen sehr dankbar für Ihre Unterstützung und würde mich __6__ sehr freuen. Vielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "äußerst"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "darüber"
+        },
+        {
+            "id": "e",
+            "content": "deshalb"
+        },
+        {
+            "id": "f",
+            "content": "falls"
+        },
+        {
+            "id": "g",
+            "content": "ob"
+        },
+        {
+            "id": "h",
+            "content": "Obwohl"
+        },
+        {
+            "id": "i",
+            "content": "unter"
+        },
+        {
+            "id": "j",
+            "content": "während"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "i"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Email: Antwort auf Einladung zum Vorstellungsgespräch mit Terminanpassungswunsch",
+    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am [Datum], Ref: [Referenznummer]\n\nSehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] Uhr. Ich habe mich sehr __1__ gefreut und nehme den Termin grundsätzlich gerne wahr.\n\n__2__ habe ich genau zur vorgeschlagenen Zeit bereits einen längerfristig geplanten, unaufschiebbaren Arzttermin. Es tut mir leid, dass sich diese Termine nun überschneiden.\n\nWäre es __3__ möglich, unser Gespräch am selben Tag etwas später durchzuführen? Ab 14:00 Uhr wäre ich an diesem Tag wieder voll verfügbar. __4__ das für Sie nicht einzurichten ist, stehe ich Ihnen selbstverständlich auch an anderen Tagen zur Verfügung.\n\nIch möchte __5__ betonen, dass ich großes Interesse an der Position und Ihrem Unternehmen habe und hoffe sehr __6__ Ihr Verständnis und eine alternative Lösung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "Allerdings"
+        },
+        {
+            "id": "b",
+            "content": "auf"
+        },
+        {
+            "id": "c",
+            "content": "bestimmt"
+        },
+        {
+            "id": "d",
+            "content": "darüber"
+        },
+        {
+            "id": "e",
+            "content": "davon"
+        },
+        {
+            "id": "f",
+            "content": "Deshalb"
+        },
+        {
+            "id": "g",
+            "content": "eventuell"
+        },
+        {
+            "id": "h",
+            "content": "Falls"
+        },
+        {
+            "id": "i",
+            "content": "für"
+        },
+        {
+            "id": "j",
+            "content": "nochmals"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "d"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

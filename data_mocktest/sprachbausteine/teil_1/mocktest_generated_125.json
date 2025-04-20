@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nhiermit möchte ich mich bezüglich meiner früheren Anstellung in Ihrem Unternehmen melden. Wie Sie wissen, war ich vom 01.03.2022 bis zum 31.08.2023 als Marketingassistent bei Ihnen tätig.\n\nIch habe meine Tätigkeit __1__ am 31.08.2023 beendet. __2__ wende ich mich heute an Sie mit der Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses. Ich benötige dieses Zeugnis für meine weiteren beruflichen Schritte, __3__ es bei Bewerbungen oft verlangt wird.\n\nIch bitte Sie höflich __4__, ein Zeugnis zu erstellen, das meine Aufgabenbereiche und meine Leistungen __5__ meiner Beschäftigungszeit detailliert beschreibt.\n\nIch wäre Ihnen dankbar, wenn Sie mir das Zeugnis __6__ bald zukommen lassen könnten. Sollten Sie hierfür weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "bereits"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "darum"
+        },
+        {
+            "id": "d",
+            "content": "Deshalb"
+        },
+        {
+            "id": "e",
+            "content": "erst"
+        },
+        {
+            "id": "f",
+            "content": "innerhalb"
+        },
+        {
+            "id": "g",
+            "content": "möglichst"
+        },
+        {
+            "id": "h",
+            "content": "obwohl"
+        },
+        {
+            "id": "i",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "während"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "a"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

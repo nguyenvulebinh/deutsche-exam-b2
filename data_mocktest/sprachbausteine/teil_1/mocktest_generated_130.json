@@ -1,0 +1,72 @@
+{
+    "thema": "Annahme eines Stellenangebots und Klärung von Details",
+    "textinhalt": "Betreff: Annahme Ihres Stellenangebots als Marketing Manager, Ref. MM-123\n\nSehr geehrte Frau Bauer,\n\nvielen Dank für Ihr Stellenangebot vom 15. Mai für die Position als Marketing Manager. Ich habe mich sehr __1__ gefreut und nehme Ihr Angebot hiermit gerne an. Ich freue mich __2__ auf die neue Herausforderung und die Zusammenarbeit mit dem Team in Ihrem Unternehmen.\n\nIn Ihrem Schreiben nennen Sie den 1. Juli als frühestmöglichen Eintrittstermin. Ich möchte kurz rückbestätigen, ob dies der definitive Starttermin ist, __3__ ich meine Kündigungsfrist bei meinem aktuellen Arbeitgeber korrekt einhalten kann.\n\nKönnten Sie mir __4__ mitteilen, welche Unterlagen (z.B. Sozialversicherungsausweis, Steuer-ID) ich __5__ meinem ersten Arbeitstag eventuell noch einreichen muss oder __6__ es spezifische Informationen zum Onboarding-Prozess gibt, die ich vorab wissen sollte?\n\nIch freue mich auf Ihre baldige Rückmeldung und den Start bei Ihnen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "außerdem"
+        },
+        {
+            "id": "b",
+            "content": "bereits"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "darüber"
+        },
+        {
+            "id": "e",
+            "content": "davon"
+        },
+        {
+            "id": "f",
+            "content": "deshalb"
+        },
+        {
+            "id": "g",
+            "content": "noch"
+        },
+        {
+            "id": "h",
+            "content": "ob"
+        },
+        {
+            "id": "i",
+            "content": "sodass"
+        },
+        {
+            "id": "j",
+            "content": "vor"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "d"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
+        }
+    ]
+}

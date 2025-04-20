@@ -1,0 +1,72 @@
+{
+    "thema": "Email requesting to reschedule an interview due to a prior commitment.",
+    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Juli\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Juli um 10:00 Uhr, __1__ ich mich sehr gefreut habe.\n\n__2__ muss ich Ihnen mitteilen, dass ich diesen Termin nicht wahrnehmen kann, __3__ ich an diesem Tag eine bereits länger geplante, unaufschiebbare Verpflichtung habe.\n\n__4__ bitte ich Sie höflich um Prüfung, ob ein alternativer Termin möglich wäre. Wäre es Ihnen __5__ möglich, das Gespräch auf den 16., 17. oder 18. Juli zu legen? An diesen Tagen wäre ich zeitlich flexibel.\n\nIch bin __6__ sehr an der Position interessiert und hoffe auf Ihr Verständnis und eine positive Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "da"
+        },
+        {
+            "id": "b",
+            "content": "darüber"
+        },
+        {
+            "id": "c",
+            "content": "Deshalb"
+        },
+        {
+            "id": "d",
+            "content": "eventuell"
+        },
+        {
+            "id": "e",
+            "content": "Leider"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "weiterhin"
+        },
+        {
+            "id": "i",
+            "content": "wenn"
+        },
+        {
+            "id": "j",
+            "content": "worüber"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
+        }
+    ]
+}

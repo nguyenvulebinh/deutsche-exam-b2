@@ -1,0 +1,72 @@
+{
+    "thema": "Email requesting clarification on specific points in a job offer (Start date, contract details)",
+    "textinhalt": "Betreff: Rückfrage zu Ihrem Stellenangebot als Marketingassistent vom 20.08.\n\nSehr geehrte Frau Bauer,\n\nvielen Dank für Ihr Jobangebot für die Position als Marketingassistent und das damit verbundene Vertrauen. Ich habe mich sehr über die positive Nachricht gefreut.\n\nBevor ich das Angebot final annehme, hätte ich noch ein paar kurze Fragen zu den Details, __1__ ich sichergehen kann, dass ich alles richtig verstanden habe.\n\nDa der Starttermin im Angebot __2__ als \"flexibel im nächsten Monat\" beschrieben wird, wollte ich fragen, ab wann ein Einstieg konkret möglich wäre? Außerdem wird im Vertrag __3__ hingewiesen, dass es sich um eine Befristung von einem Jahr handelt. Ist eine Verlängerung oder Übernahme __4__ prinzipiell vorgesehen?\n\nWie im Gespräch bereits erwähnt, bin ich __5__ sehr an der Position interessiert und möchte nur diese Punkte vorab klären. __6__ bitte ich um eine kurze Rückmeldung, wann es Ihnen passen würde, dies kurz zu besprechen.\n\nMit freundlichen Grüßen\n\nThomas Schmidt",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "damit"
+        },
+        {
+            "id": "c",
+            "content": "danach"
+        },
+        {
+            "id": "d",
+            "content": "darauf"
+        },
+        {
+            "id": "e",
+            "content": "denn"
+        },
+        {
+            "id": "f",
+            "content": "Deshalb"
+        },
+        {
+            "id": "g",
+            "content": "grundsätzlich"
+        },
+        {
+            "id": "h",
+            "content": "hiermit"
+        },
+        {
+            "id": "i",
+            "content": "lediglich"
+        },
+        {
+            "id": "j",
+            "content": "zuvor"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

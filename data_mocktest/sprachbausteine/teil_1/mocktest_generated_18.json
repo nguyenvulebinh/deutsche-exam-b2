@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai - Kennziffer PM-123",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Projektmanager am 15. Mai. Ich habe mich sehr __1__ gefreut.\n\nLeider habe ich genau an diesem Tag eine wichtige Abschlussprüfung, die bereits seit Längerem feststeht und nicht verschoben werden kann. __2__ ist es mir bedauerlicherweise nicht möglich, den vorgeschlagenen Termin wahrzunehmen.\n\n__3__ ich jedoch nach wie vor großes Interesse an der ausgeschriebenen Stelle und Ihrem Unternehmen habe, möchte ich Sie höflich fragen, __4__ eventuell ein alternativer Gesprächstermin gefunden werden könnte. Abgesehen vom 15. Mai bin ich __5__ in dieser und der darauffolgenden Woche zeitlich recht flexibel.\n\nIch möchte __6__ betonen, dass ich mich sehr über die Chance freuen würde, mich Ihnen persönlich vorstellen zu dürfen.\n\nVielen Dank im Voraus für Ihr Verständnis und Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "options": [
+        {
+            "id": "a",
+            "content": "ansonsten"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "dass"
+        },
+        {
+            "id": "e",
+            "content": "davon"
+        },
+        {
+            "id": "f",
+            "content": "Deshalb"
+        },
+        {
+            "id": "g",
+            "content": "nochmals"
+        },
+        {
+            "id": "h",
+            "content": "Obwohl"
+        },
+        {
+            "id": "i",
+            "content": "ob"
+        },
+        {
+            "id": "j",
+            "content": "Trotzdem"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

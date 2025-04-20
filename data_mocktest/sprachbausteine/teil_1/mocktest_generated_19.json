@@ -1,0 +1,72 @@
+{
+    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
+    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.07., Kennziffer FIN-03\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Juli um 10:00 Uhr für die Position als Finanzbuchhalter (Kennziffer FIN-03). Ich habe mich sehr über Ihre positive Rückmeldung gefreut.\n\nLeider habe ich an diesem spezifischen Vormittag bereits einen anderen, unaufschiebbaren Termin, __1__ ich eine seit längerem geplante ärztliche Untersuchung wahrnehmen muss.\n\n__2__ möchte ich Sie höflich bitten, ob wir einen alternativen Termin finden könnten.\n\nIch bin zeitlich relativ flexibel. __3__ dem 16. Juli stehe ich Ihnen gerne zur Verfügung. Wäre es beispielsweise möglich, das Gespräch in der Woche vom 19. Juli durchzuführen?\n\nMein Interesse an der Position und Ihrem Unternehmen ist __4__ groß. Die Aufgabenbereiche klingen sehr spannend.\n\n__5__ freue ich mich besonders, meine Kenntnisse im Bereich der internationalen Rechnungslegung einbringen zu können.\n\nIch hoffe auf Ihr Verständnis und wäre Ihnen dankbar, __6__ Sie mir alternative Terminvorschläge zusenden könnten.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Ab"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "Darauf"
+        },
+        {
+            "id": "d",
+            "content": "Deshalb"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "seit"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "unverändert"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

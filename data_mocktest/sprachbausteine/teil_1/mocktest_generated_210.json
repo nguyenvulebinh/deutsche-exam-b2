@@ -1,0 +1,72 @@
+{
+    "thema": "Bitte um Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich Sie höflich um die Ausstellung eines Zwischenzeugnisses für meine Tätigkeit als Projektmanager bitten. Ich bin __1__ dem 1. August 2020 in Ihrer Abteilung beschäftigt und möchte meine bisherigen Leistungen und Aufgabenbereiche gerne dokumentiert haben.\n\n__2__ ich plane, mich intern auf eine neue Position zu bewerben, die kürzlich ausgeschrieben wurde, wäre ein aktuelles Zeugnis für meine Bewerbungsunterlagen sehr wertvoll. Es würde mir helfen, meine Eignung für die angestrebte Rolle besser darzulegen.\n\nIch wäre Ihnen dankbar, __3__ das Zeugnis die üblichen Informationen zu meiner Beschäftigungsdauer, meinen Hauptverantwortlichkeiten sowie eine Beurteilung meiner Arbeit enthalten __4__. Es eilt nicht, aber ich würde mich freuen, das Dokument __5__ der nächsten vier Wochen zu erhalten, falls dies möglich ist.\n\nIch bedanke mich __6__ herzlich für Ihre Bemühungen und Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nThomas Bauer",
+    "options": [
+        {
+            "id": "a",
+            "content": "Da"
+        },
+        {
+            "id": "b",
+            "content": "danach"
+        },
+        {
+            "id": "c",
+            "content": "im Voraus"
+        },
+        {
+            "id": "d",
+            "content": "innerhalb"
+        },
+        {
+            "id": "e",
+            "content": "könnte"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "seit"
+        },
+        {
+            "id": "h",
+            "content": "sollte"
+        },
+        {
+            "id": "i",
+            "content": "während"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

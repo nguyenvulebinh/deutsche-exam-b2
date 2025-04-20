@@ -1,0 +1,72 @@
+{
+    "thema": "Nachfrage zum Stand einer Bewerbung nach längerer Wartezeit",
+    "textinhalt": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager, Kennziffer PM-123\n\nSehr geehrte Frau Bauer,\n\nam 15. März habe ich mich bei Ihnen auf die Stelle als Projektmanager (Kennziffer PM-123) beworben. Den Eingang meiner Unterlagen haben Sie mir dankenswerterweise auch __2__ bestätigt.\n\n__3__ sind nun einige Wochen vergangen, und ich habe __4__ noch keine weitere Nachricht von Ihnen erhalten.\n\n__1__ möchte ich mich höflich nach dem aktuellen Stand des Bewerbungsverfahrens erkundigen. Wäre es möglich, mir eine kurze Information zu geben, __5__ ungefähr mit einer Entscheidung zu rechnen ist?\n\nMein Interesse an dieser Position und an Ihrem Unternehmen ist __6__ sehr groß, da die Aufgabenbeschreibung genau meinen Fähigkeiten und beruflichen Zielen entspricht.\n\nÜber eine kurze Rückmeldung würde ich mich sehr freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nJan Schmidt",
+    "options": [
+        {
+            "id": "a",
+            "content": "bereits"
+        },
+        {
+            "id": "b",
+            "content": "Deshalb"
+        },
+        {
+            "id": "c",
+            "content": "Inzwischen"
+        },
+        {
+            "id": "d",
+            "content": "leider"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "Seit"
+        },
+        {
+            "id": "g",
+            "content": "sofort"
+        },
+        {
+            "id": "h",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "wann"
+        },
+        {
+            "id": "j",
+            "content": "weiterhin"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

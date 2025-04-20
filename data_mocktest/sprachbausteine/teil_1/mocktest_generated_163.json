@@ -1,0 +1,72 @@
+{
+    "thema": "Antwort auf Anfrage nach zusätzlichen Bewerbungsunterlagen",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank für Ihre E-Mail vom 15. Mai __1__ Ihrer Bitte um Zusendung meines Sprachzertifikats für Englisch.\n\nIch sende Ihnen das angeforderte Dokument __2__ mit dieser E-Mail zu. Es fehlte in meiner ursprünglichen Bewerbung, __3__ ich das offizielle Zertifikat erst letzte Woche erhalten habe.\n\nSie finden die Datei __4__ Anhang im PDF-Format.\n\n__5__ sind meine Unterlagen nun vollständig. Ich möchte bei dieser Gelegenheit nochmals mein großes Interesse an der Position als Projektmanager bekräftigen.\n\nSollten Sie weitere Informationen benötigen, stehe ich Ihnen __6__ Rückfragen jederzeit zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "anlässlich"
+        },
+        {
+            "id": "b",
+            "content": "bei"
+        },
+        {
+            "id": "c",
+            "content": "bezüglich"
+        },
+        {
+            "id": "d",
+            "content": "da"
+        },
+        {
+            "id": "e",
+            "content": "für"
+        },
+        {
+            "id": "f",
+            "content": "gerne"
+        },
+        {
+            "id": "g",
+            "content": "hoffentlich"
+        },
+        {
+            "id": "h",
+            "content": "im"
+        },
+        {
+            "id": "i",
+            "content": "leider"
+        },
+        {
+            "id": "j",
+            "content": "obwohl"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Rückfragen zu Ihrem Stellenangebot / Arbeitsvertrag",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich bedanke mich herzlich für Ihr Stellenangebot vom 15. Mai und das damit verbundene Vertrauen. Ich habe mich sehr darüber gefreut.\n\nDen beigefügten Arbeitsvertrag habe ich bereits sorgfältig durchgesehen. __1__ ich diesen jedoch unterschreibe, hätte ich noch zwei kurze Verständnisfragen.\n\nIm Angebot ist der 1. August als Startdatum genannt. __2__ es eventuell auch möglich, erst am 15. August zu beginnen? Der Grund __3__ ist meine aktuelle Kündigungsfrist, die ich einhalten muss.\n\nKönnten Sie mir __4__ bitte kurz erläutern, welche Software-Tools __5__ für die Datenanalyse im Team verwendet werden? Dies würde mir bei der Vorbereitung helfen.\n\nIch möchte abschließend betonen, __6__ ich nach wie vor großes Interesse an der Position habe und mich auf eine positive Rückmeldung Ihrerseits freue.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "außerdem"
+        },
+        {
+            "id": "b",
+            "content": "bevor"
+        },
+        {
+            "id": "c",
+            "content": "dafür"
+        },
+        {
+            "id": "d",
+            "content": "dass"
+        },
+        {
+            "id": "e",
+            "content": "deshalb"
+        },
+        {
+            "id": "f",
+            "content": "hauptsächlich"
+        },
+        {
+            "id": "g",
+            "content": "ist"
+        },
+        {
+            "id": "h",
+            "content": "nachdem"
+        },
+        {
+            "id": "i",
+            "content": "ob"
+        },
+        {
+            "id": "j",
+            "content": "wäre"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

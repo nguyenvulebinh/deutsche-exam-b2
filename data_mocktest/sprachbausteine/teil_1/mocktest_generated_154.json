@@ -1,0 +1,72 @@
+{
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Betreff: Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses\n\nSehr geehrte Frau Schmidt,\n\n__1__ Sie wissen, wird mein Arbeitsverhältnis mit der Beispiel GmbH zum 30. September 2024 auf eigenen Wunsch enden.\n\nAus diesem __2__ möchte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten. Dieses Dokument ist für meine zukünftigen Bewerbungen sehr wichtig.\n\nIch wäre Ihnen dankbar, wenn das Zeugnis nicht nur meine Aufgabenbereiche und die Dauer meiner Beschäftigung enthält, __3__ auch eine Bewertung meiner Leistungen und meines Sozialverhaltens.\n\nBitte teilen Sie mir mit, bis wann ich __4__ mit der Zusendung des Zeugnisses rechnen kann. __5__ Sie hierfür noch Informationen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank im Voraus für Ihre Bemühungen __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Als"
+        },
+        {
+            "id": "b",
+            "content": "dafür"
+        },
+        {
+            "id": "c",
+            "content": "dazu"
+        },
+        {
+            "id": "d",
+            "content": "Deshalb"
+        },
+        {
+            "id": "e",
+            "content": "ebenfalls"
+        },
+        {
+            "id": "f",
+            "content": "Grund"
+        },
+        {
+            "id": "g",
+            "content": "Sollten"
+        },
+        {
+            "id": "h",
+            "content": "sondern"
+        },
+        {
+            "id": "i",
+            "content": "ungefähr"
+        },
+        {
+            "id": "j",
+            "content": "wie"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

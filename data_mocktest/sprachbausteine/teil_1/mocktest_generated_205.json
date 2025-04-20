@@ -1,0 +1,72 @@
+{
+    "thema": "Vorschlag zur Optimierung der internen Aufgabenverfolgung",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich schreibe Ihnen bezüglich unserer aktuellen Methode zur Verfolgung von Teamaufgaben. Mir ist in letzter Zeit aufgefallen, dass wir Aufgaben hauptsächlich per E-Mail verteilen und den Fortschritt individuell rückmelden.\n\nDas funktioniert __1__ grundsätzlich gut, führt aber __2__ zu einem erhöhten E-Mail-Aufkommen und manchmal zu Unklarheiten darüber, wer gerade an welcher Teilaufgabe arbeitet, besonders bei Projekten mit mehreren Beteiligten.\n\nIch möchte __3__ vorschlagen, ein einfaches, zentrales digitales Werkzeug, beispielsweise ein gemeinsames Kanban-Board oder eine Projektmanagement-Software light, für unser Team einzuführen. __4__ könnten wir alle laufenden Aufgaben, Zuständigkeiten und Fristen transparent abbilden.\n\nIch bin überzeugt, dass dies die Übersichtlichkeit verbessern und die Abstimmungsprozesse vereinfachen würde, __5__ Missverständnisse reduziert und die Effizienz gesteigert werden kann.\n\nIch wäre Ihnen dankbar, __6__ Sie prüfen könnten, ob ein solcher Ansatz für unser Team sinnvoll wäre. Gerne stehe ich für ein Gespräch zur Verfügung, um meine Idee näher zu erläutern.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nLukas Meier",
+    "options": [
+        {
+            "id": "a",
+            "content": "Dafür"
+        },
+        {
+            "id": "b",
+            "content": "Daher"
+        },
+        {
+            "id": "c",
+            "content": "Damit"
+        },
+        {
+            "id": "d",
+            "content": "falls"
+        },
+        {
+            "id": "e",
+            "content": "immer"
+        },
+        {
+            "id": "f",
+            "content": "manchmal"
+        },
+        {
+            "id": "g",
+            "content": "sodass"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "wenn"
+        },
+        {
+            "id": "j",
+            "content": "zwar"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

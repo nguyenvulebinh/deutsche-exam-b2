@@ -1,0 +1,72 @@
+{
+    "thema": "Nachfassen nach einem Vorstellungsgespräch",
+    "textinhalt": "Betreff: Nachfrage zu meinem Vorstellungsgespräch am TT.MM.JJJJ – Stelle als [Ihre Wunschposition]\n\nSehr geehrte Frau/Sehr geehrter Herr [Name des Ansprechpartners],\n\nich möchte mich nochmals herzlich für das angenehme und informative Vorstellungsgespräch am [Datum des Gesprächs] bedanken.\n\nDas Gespräch hat mein Interesse an der Position und Ihrem Unternehmen __1__ bestätigt. Besonders gut gefallen hat mir [kurz etwas Positives erwähnen, z.B. die Beschreibung der Teamatmosphäre oder die Projektziele].\n\nSie erwähnten im Gespräch, dass Sie voraussichtlich __2__ der nächsten ein bis zwei Wochen eine Entscheidung treffen würden. __3__ ich bisher noch keine Rückmeldung erhalten habe, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nWäre es Ihnen möglich, mir kurz mitzuteilen, __4__ ich ungefähr mit einer endgültigen Rückmeldung rechnen kann?\n\nIch bin __5__ sehr motiviert, Teil Ihres Teams zu werden und glaube, dass meine Qualifikationen gut zur ausgeschriebenen Stelle passen würden. Ich freue mich __6__, bald von Ihnen zu hören.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "bereits"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "danach"
+        },
+        {
+            "id": "d",
+            "content": "darauf"
+        },
+        {
+            "id": "e",
+            "content": "erneut"
+        },
+        {
+            "id": "f",
+            "content": "innerhalb"
+        },
+        {
+            "id": "g",
+            "content": "nach wie vor"
+        },
+        {
+            "id": "h",
+            "content": "ob"
+        },
+        {
+            "id": "i",
+            "content": "Obwohl"
+        },
+        {
+            "id": "j",
+            "content": "wann"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Email an Vorgesetzte/n: Klärung einer Arbeitsaufgabe",
+    "textinhalt": "Betreff: Bitte um Klärung – Aufgabe Projektbericht Q3\n\nSehr geehrte Frau Schneider,\n\nich beziehe mich auf die Aufgabe zur Erstellung des Projektberichts für das dritte Quartal, die Sie mir heute Morgen zugewiesen haben. Ich habe die Anweisungen und die beigefügte Vorlage bereits studiert.\n\nAllerdings bin ich mir bei einem Punkt nicht ganz sicher. Es geht __1__ die genaue Definition der Kennzahl „Kundenfeedback-Index“. Sollen __2__ die Daten aus der letzten Online-Umfrage berücksichtigt werden, oder auch direktes Feedback aus E-Mails?\n\nDie Vorlage ist hier nicht ganz eindeutig. __3__ wäre ich Ihnen dankbar, wenn Sie mir kurz erläutern könnten, __4__ Datenquellen genau für diesen Index relevant sind. Vielleicht könnten wir uns kurz __5__ austauschen, __6__ Sie einen Moment Zeit haben?\n\nIch möchte sicherstellen, dass der Bericht Ihren Erwartungen entspricht.\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nPeter Klein",
+    "options": [
+        {
+            "id": "a",
+            "content": "darüber"
+        },
+        {
+            "id": "b",
+            "content": "dazu"
+        },
+        {
+            "id": "c",
+            "content": "deshalb"
+        },
+        {
+            "id": "d",
+            "content": "nur"
+        },
+        {
+            "id": "e",
+            "content": "obwohl"
+        },
+        {
+            "id": "f",
+            "content": "sobald"
+        },
+        {
+            "id": "g",
+            "content": "um"
+        },
+        {
+            "id": "h",
+            "content": "was"
+        },
+        {
+            "id": "i",
+            "content": "welche"
+        },
+        {
+            "id": "j",
+            "content": "während"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

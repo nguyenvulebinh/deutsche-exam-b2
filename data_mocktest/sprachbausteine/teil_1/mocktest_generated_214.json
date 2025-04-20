@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage bezüglich eines ergonomischen Bürostuhls",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich arbeite __1__ drei Monaten in der Abteilung Kundenservice und wende mich heute mit einer Bitte bezüglich meiner Arbeitsplatzausstattung an Sie.\n\nMein aktueller Bürostuhl ist leider nicht optimal für meine Körpergröße und führt bei längerem Sitzen zu Verspannungen. __2__ habe ich in den letzten Wochen zunehmend mit Rückenschmerzen zu kämpfen, __3__ meine Konzentration bei der Arbeit merklich beeinträchtigt wird. Ich befürchte, dass sich dies langfristig negativ auf meine Gesundheit und Leistungsfähigkeit auswirken könnte.\n\nIch möchte Sie daher höflich anfragen, __4__ es möglich wäre, meinen jetzigen Stuhl gegen ein ergonomisches Modell auszutauschen. Gerne reiche ich bei Bedarf auch ein ärztliches Attest nach, falls dies für die Prüfung notwendig sein sollte.\n\n__5__ bitte ich Sie um Prüfung meines Anliegens und um eine kurze Information, wie das weitere Vorgehen in solchen Fällen ist.\n\nVielen Dank __6__ Ihre Bemühungen und Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nAnna Schmidt",
+    "options": [
+        {
+            "id": "a",
+            "content": "daher"
+        },
+        {
+            "id": "b",
+            "content": "deshalb"
+        },
+        {
+            "id": "c",
+            "content": "für"
+        },
+        {
+            "id": "d",
+            "content": "jedoch"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "seit"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "während"
+        },
+        {
+            "id": "i",
+            "content": "wenn"
+        },
+        {
+            "id": "j",
+            "content": "wodurch"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "f"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

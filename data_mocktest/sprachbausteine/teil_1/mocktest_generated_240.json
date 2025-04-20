@@ -1,0 +1,72 @@
+{
+    "thema": "Email seeking clarification on specific points in a received job offer before acceptance.",
+    "textinhalt": "Betreff: Ihr Stellenangebot als Projektmanager - Referenznummer PM-123\n\nSehr geehrte Frau Müller,\n\nvielen Dank für die Zusendung des Vertragsangebots für die Position als Projektmanager und das angenehme Gespräch in der vergangenen Woche. Ich habe mich über Ihr positives Feedback sehr gefreut.\n\n__1__ ich das Angebot sorgfältig geprüft habe, hätte ich noch zwei kurze Fragen, __2__ ich meine endgültige Zusage geben kann. Zum einen bezieht sich meine Frage auf den Starttermin am 1. August. Wäre es eventuell möglich, diesen um zwei Wochen zu verschieben, oder gibt es __3__ keinen Spielraum?\n\nZum anderen wird im Angebot von „flexiblen Arbeitsmodellen“ gesprochen. __4__ dieser Regelung würde ich gerne Genaueres erfahren, insbesondere inwieweit mobiles Arbeiten bzw. Home-Office möglich ist.\n\nDie Klärung dieser Punkte wäre für meine finale Entscheidung sehr hilfreich. Ich bin __5__ sehr an der Position interessiert und hoffe auf Ihr Verständnis.\n\nVielen Dank __6__ für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "bevor"
+        },
+        {
+            "id": "b",
+            "content": "bezüglich"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "hierfür"
+        },
+        {
+            "id": "f",
+            "content": "im Voraus"
+        },
+        {
+            "id": "g",
+            "content": "nachdem"
+        },
+        {
+            "id": "h",
+            "content": "trotz"
+        },
+        {
+            "id": "i",
+            "content": "während"
+        },
+        {
+            "id": "j",
+            "content": "weiterhin"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

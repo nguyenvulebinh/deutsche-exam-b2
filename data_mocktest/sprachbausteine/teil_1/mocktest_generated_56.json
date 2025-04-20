@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zu einem Weiterbildungsangebot (Seminar)",
+    "textinhalt": "Betreff: Anfrage zu Ihrem Seminar \"Effektives Projektmanagement\"\n\nSehr geehrte Damen und Herren,\n\nauf Ihrer Webseite sind wir auf Ihr Seminarangebot \"Effektives Projektmanagement\" aufmerksam geworden. __1__ wir planen, mehrere Mitarbeiter unseres Teams in diesem Bereich weiterzubilden, sind wir sehr an detaillierteren Informationen interessiert.\n\nKönnten Sie uns bitte mitteilen, __2__ die nächsten Seminartermine stattfinden und welche Kosten pro Teilnehmer entstehen? __3__ wären wir dankbar für Informationen über die genauen Seminarinhalte und eventuelle Voraussetzungen für die Teilnahme. Uns interessiert __4__, ob es Mengenrabatte gibt, falls wir mehrere Mitarbeiter anmelden.\n\nBitte senden Sie uns __5__ eine detaillierte Seminarbeschreibung und die Anmeldeunterlagen zu. Für Rückfragen stehen wir Ihnen __6__ auch telefonisch unter 0123-456789 zur Verfügung.\n\nWir freuen uns auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nPersonalentwicklung\nBeispiel GmbH",
+    "options": [
+        {
+            "id": "a",
+            "content": "Außerdem"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "danach"
+        },
+        {
+            "id": "d",
+            "content": "denn"
+        },
+        {
+            "id": "e",
+            "content": "deshalb"
+        },
+        {
+            "id": "f",
+            "content": "falls"
+        },
+        {
+            "id": "g",
+            "content": "gerne"
+        },
+        {
+            "id": "h",
+            "content": "ob"
+        },
+        {
+            "id": "i",
+            "content": "trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "wann"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

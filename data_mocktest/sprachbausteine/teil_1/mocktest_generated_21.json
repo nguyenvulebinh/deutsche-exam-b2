@@ -1,0 +1,72 @@
+{
+    "thema": "Bestätigung Interviewtermin und Rückfrage zur Vorbereitung",
+    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.10., Kennziffer IT-Dev-03\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre positive Rückmeldung und die Einladung zum Vorstellungsgespräch am 15. Oktober um 10:00 Uhr für die Position als Softwareentwickler, __1__ ich mich sehr gefreut habe. Ich bestätige den Termin gerne.\n\nIch hätte __2__ eine kurze Frage zur Vorbereitung: Sollte ich neben den üblichen Unterlagen (Lebenslauf, Zeugnisse) noch etwas Bestimmtes mitbringen oder vorbereiten, __3__ Sie besonderen Wert legen?\n\nIch sehe dem Gespräch mit großem Interesse entgegen, __4__ ich davon überzeugt bin, mit meinen Qualifikationen gut zu Ihrem Team zu passen. Die Anfahrtsbeschreibung auf Ihrer Website habe ich __5__ gefunden.\n\nBitte teilen Sie mir kurz mit, __6__ ich noch weitere Informationen benötige oder etwas Spezielles vorbereiten soll.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "bereits"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "denn"
+        },
+        {
+            "id": "e",
+            "content": "lediglich"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "wenn"
+        },
+        {
+            "id": "i",
+            "content": "worauf"
+        },
+        {
+            "id": "j",
+            "content": "worüber"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

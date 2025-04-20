@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Rückfrage zu meiner Bewerbung als Projektmanager, Kennziffer PM-123 – Bitte um Feedback",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Nachricht vom 15. März bezüglich meiner Bewerbung auf die Stelle als Projektmanager (Kennziffer PM-123). Ich bedauere zu hören, dass meine Bewerbung nicht erfolgreich war, respektiere __1__ Ihre Entscheidung aber selbstverständlich.\n\nUm mich für zukünftige Bewerbungen verbessern zu können, __2__ ich Sie höflich fragen, ob Sie mir eventuell ein kurzes Feedback geben könnten. Mich würde interessieren, __3__ es spezifische Gründe für die Absage gab oder welche Qualifikationen aus Ihrer Sicht gefehlt haben.\n\nIch bin mir bewusst, dass Sie __4__ viele Bewerbungen prüfen müssen. __5__ wäre ich Ihnen für eine kurze Rückmeldung sehr dankbar, falls es Ihre Zeit erlaubt. Mein Interesse an Ihrem Unternehmen besteht __6__.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "deshalb"
+        },
+        {
+            "id": "b",
+            "content": "falls"
+        },
+        {
+            "id": "c",
+            "content": "jedoch"
+        },
+        {
+            "id": "d",
+            "content": "möchte"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "trotzdem"
+        },
+        {
+            "id": "g",
+            "content": "vermutlich"
+        },
+        {
+            "id": "h",
+            "content": "weil"
+        },
+        {
+            "id": "i",
+            "content": "weiterhin"
+        },
+        {
+            "id": "j",
+            "content": "würde"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

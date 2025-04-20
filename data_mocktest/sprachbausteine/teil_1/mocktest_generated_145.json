@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Rückfrage zu Ihrem Stellenangebot vom 15.08. / Kennziffer MA-123",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihr Stellenangebot vom 15.08. für die Position als Marketingassistent, über das ich mich sehr gefreut habe.\n\nIch habe das Angebot sorgfältig geprüft und hätte dazu noch ein paar kurze Fragen, __1__ ich meine endgültige Entscheidung treffe. Im Angebot ist als Startdatum der 1. Oktober genannt, __2__ im Gespräch jedoch der 15. September erwähnt wurde. Könnten Sie mir __3__ bitte noch bestätigen, welches Datum korrekt ist?\n\nDes Weiteren wird eine „flexible Arbeitszeitgestaltung“ erwähnt. Ich wäre Ihnen dankbar, __4__ Sie mir kurz erläutern könnten, wie diese in der Praxis aussieht, insbesondere __5__ der Kernarbeitszeiten.\n\nIch bin nach wie vor sehr an der Position interessiert und freue mich darauf, bald von Ihnen zu hören. Vielen Dank __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "als"
+        },
+        {
+            "id": "b",
+            "content": "bevor"
+        },
+        {
+            "id": "c",
+            "content": "bezüglich"
+        },
+        {
+            "id": "d",
+            "content": "daher"
+        },
+        {
+            "id": "e",
+            "content": "falls"
+        },
+        {
+            "id": "f",
+            "content": "für"
+        },
+        {
+            "id": "g",
+            "content": "hierzu"
+        },
+        {
+            "id": "h",
+            "content": "obwohl"
+        },
+        {
+            "id": "i",
+            "content": "während"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

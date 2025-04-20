@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TELC B2 - Sprachbausteine Teil 1</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .back-button {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 8px 15px;
+            background-color: #6c757d;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        .back-button:hover {
+            background-color: #5a6268;
+        }
+        
+        /* Styles for Sprachbausteine Teil 1 */
+        .reading-content {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .thema {
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .text-content {
+            margin-bottom: 20px;
+        }
+
+        /* Markdown styles */
+        .reading-content h2 {
+            color: #2c3e50;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        .reading-content h3 {
+            color: #34495e;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }
+
+        .reading-content h4 {
+            color: #3c6382;
+            margin-top: 0.8em;
+            margin-bottom: 0.4em;
+        }
+
+        .reading-content p {
+            margin-bottom: 1em;
+        }
+
+        .reading-content strong, .reading-content b {
+            font-weight: 600;
+            color: #222;
+        }
+
+        .reading-content em, .reading-content i {
+            font-style: italic;
+        }
+
+        .reading-content ul, .reading-content ol {
+            margin-left: 1.5em;
+            margin-bottom: 1em;
+        }
+
+        .reading-content li {
+            margin-bottom: 0.3em;
+        }
+
+        /* Options table */
+        .options-container {
+            margin-bottom: 30px;
+        }
+
+        .options-table {
+            width: 100%;
+            border-collapse: collapse;
+            border: none;
+        }
+
+        .options-table td {
+            width: 33.33%;
+            padding: 8px;
+            border: none;
+        }
+
+        .option-id {
+            font-weight: bold;
+            margin-right: 8px;
+        }
+
+        /* Custom styles for Sprachbausteine Teil 1 answer grid */
+        /* Note: Most grid styles come from styles.css file */
+        .answer-grid.sprachbausteine-grid {
+            /* Override grid-template-columns for our 11-column grid (1 for blanks + 10 for options a-j) */
+            grid-template-columns: 30px repeat(10, 30px) !important;
+            max-width: 550px;
+            width: fit-content;
+            margin: 0 auto;
+        }
+
+        /* Blanks in text */
+        .blank {
+            display: inline-block;
+            min-width: 30px;
+            padding: 0 5px;
+            text-align: center;
+            border: 1px dashed #007bff;
+            color: #007bff;
+            background-color: transparent;
+            border-radius: 0;
+            font-weight: normal;
+            margin: 0 2px;
+            vertical-align: middle;
+            position: relative;
+        }
+        
+        /* Results */
+        .results {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        .score {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+
+        .correct-answer {
+            color: #28a745;
+        }
+
+        .incorrect-answer {
+            color: #dc3545;
+        }
+
+        /* Buttons */
+        .buttons {
+            margin: 20px 0;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin-right: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        #finish-btn {
+            background-color: #007bff;
+            color: white;
+        }
+
+        #finish-btn:hover {
+            background-color: #0069d9;
+        }
+
+        #new-test-btn {
+            background-color: #28a745;
+            color: white;
+        }
+
+        #new-test-btn:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>TELC B2 - Sprachbausteine Teil 1</h1>
+        <a href="../index.html" class="back-button">← Zurück zur Testauswahl</a>
+    </div>
+    
+    <div id="loading" class="loading">
+        Test wird geladen...
+    </div>
+    
+    <div id="test-content" class="hidden">
+        <div class="instructions" id="instructions">
+            Lesen Sie den folgenden Text. Welche Wörter a–j passen am besten in die Lücken?
+            Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text.
+        </div>
+        
+        <div class="reading-content">
+            <div class="thema" id="thema"></div>
+            <div class="text-content" id="text-content"></div>
+        </div>
+        
+        <div class="options-container">
+            <h3>Wörter zum Einsetzen:</h3>
+            <table class="options-table" id="options-table">
+                <!-- Options will be dynamically generated here -->
+            </table>
+        </div>
+        
+        <div class="answer-grid-container">
+            <h3 class="answer-section-title">Ihre Antworten</h3>
+            <div class="answer-grid sprachbausteine-grid" id="answer-grid">
+                <!-- Grid will be dynamically generated by JavaScript -->
+            </div>
+        </div>
+        
+        <div class="buttons">
+            <button id="finish-btn">Fertig</button>
+            <button id="new-test-btn" class="hidden">Neuer Test</button>
+        </div>
+        
+        <div id="results" class="results hidden">
+            <h2>Ergebnisse</h2>
+            <div class="score" id="score"></div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>TELC B2 Test Übungsplattform | contact: <a href="mailto:nguyenvulebinh@gmail.com">nguyenbinh</a></p>
+    </footer>
+    
+    <!-- Include Marked.js for markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Import JavaScript modules -->
+    <script type="module">
+        // Set the test type parameter for the app.js module
+        window.testType = 'sprachbausteine-teil-1';
+        
+        // Add cache-busting to force browser to load fresh JavaScript
+        const timestamp = Date.now();
+        
+        // Import modules directly with cache-busting
+        import(`../js/core/utils.js?v=${timestamp}`).then(utilsModule => {
+            window.Utils = utilsModule.default;
+            
+            import(`../js/core/test-engine.js?v=${timestamp}`).then(engineModule => {
+                window.TestEngine = engineModule.default;
+                
+                import(`../js/test-types/sprachbausteine-teil-1.js?v=${timestamp}`).then(teil1Module => {
+                    window.SprachbausteineTeil1 = teil1Module.default;
+                    
+                    // Initialize the test
+                    const testEngine = new window.SprachbausteineTeil1();
+                    testEngine.initialize().catch(error => {
+                        console.error('Error initializing test engine:', error);
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html> 

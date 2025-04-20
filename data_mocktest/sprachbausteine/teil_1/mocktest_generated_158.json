@@ -1,0 +1,72 @@
+{
+    "thema": "Klärungsbedarf bei Vertragsangebot (Startdatum und Arbeitsmodell)",
+    "textinhalt": "Betreff: Ihr Vertragsangebot für die Position als Marketing Manager (Ref: MM-123)\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für die Zusendung des Vertragsangebots für die Position als Marketing Manager und für das positive Gespräch in der letzten Woche. Ich habe mich sehr über Ihr Angebot gefreut und bin __1__ sehr an der Position interessiert.\n\nIm Angebot ist als Eintrittstermin \"zum nächstmöglichen Zeitpunkt\" genannt. __2__ ich bei meinem aktuellen Arbeitgeber eine Kündigungsfrist von drei Monaten einhalten muss, wäre ich Ihnen dankbar, wenn Sie mir einen konkreten Starttermin nennen könnten, __3__ ich meine Kündigung fristgerecht einreichen kann.\n\nEin weiterer Punkt betrifft die im Angebot erwähnten \"flexiblen Arbeitsmodelle\". Könnten Sie __4__ bitte genauer erläutern, inwieweit Homeoffice-Möglichkeiten bestehen? Dies ist für meine persönliche Planung von __5__ Bedeutung.\n\nÜber eine baldige Rückmeldung __6__ dieser Punkte würde ich mich sehr freuen und stehe für Rückfragen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "besondere"
+        },
+        {
+            "id": "b",
+            "content": "bezüglich"
+        },
+        {
+            "id": "c",
+            "content": "Da"
+        },
+        {
+            "id": "d",
+            "content": "damit"
+        },
+        {
+            "id": "e",
+            "content": "mich"
+        },
+        {
+            "id": "f",
+            "content": "mir"
+        },
+        {
+            "id": "g",
+            "content": "besonderer"
+        },
+        {
+            "id": "h",
+            "content": "sodass"
+        },
+        {
+            "id": "i",
+            "content": "weiterhin"
+        },
+        {
+            "id": "j",
+            "content": "Wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "i"
+        },
+        {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

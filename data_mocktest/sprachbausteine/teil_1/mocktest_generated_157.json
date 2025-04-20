@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zu Sozialleistungen – Ihre Referenz AZ-123",
+    "textinhalt": "Sehr geehrte Frau Becker,\n\nvielen Dank für das informative Telefongespräch am vergangenen Montag bezüglich der Position als Marketingassistent (Referenz AZ-123). Mein positiver Eindruck von Ihrem Unternehmen hat sich dadurch weiter verstärkt.\n\n__1__ eine Entscheidung über eine Anstellung auch von den Rahmenbedingungen abhängt, hätte ich vorab noch ein paar kurze Fragen zu den von Ihnen erwähnten Sozialleistungen. Könnten Sie mir bitte nähere Informationen __2__ die betriebliche Altersvorsorge und das Jobticket zukommen lassen? Mich würde insbesondere interessieren, __3__ diese Leistungen allen Mitarbeitenden angeboten werden und ab welchem Zeitpunkt der Betriebszugehörigkeit ein Anspruch darauf besteht.\n\nSind __4__ noch weitere relevante Zusatzleistungen vorgesehen, wie beispielsweise Zuschüsse zur Kinderbetreuung?\n\nIch wäre Ihnen sehr dankbar, wenn Sie mir hierzu kurz Auskunft geben könnten, __5__ ich mir ein vollständiges Bild machen kann. Selbstverständlich stehe ich für ein weiteres Gespräch __6__ zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "AUCH"
+        },
+        {
+            "id": "b",
+            "content": "BEZÜGLICH"
+        },
+        {
+            "id": "c",
+            "content": "DA"
+        },
+        {
+            "id": "d",
+            "content": "DAMIT"
+        },
+        {
+            "id": "e",
+            "content": "EVENTUELL"
+        },
+        {
+            "id": "f",
+            "content": "FALLS"
+        },
+        {
+            "id": "g",
+            "content": "GERNE"
+        },
+        {
+            "id": "h",
+            "content": "INWIEWEIT"
+        },
+        {
+            "id": "i",
+            "content": "OBWOHL"
+        },
+        {
+            "id": "j",
+            "content": "ÜBER"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

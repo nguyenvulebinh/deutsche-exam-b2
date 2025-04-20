@@ -170,6 +170,10 @@ class LesenTeil2 extends TestEngine {
      * @returns {string} - Formatted HTML
      */
     formatText(text) {
+        // First clean up excessive newlines
+        let cleanedText = text.replace(/\n{3,}/g, '\n\n')  // Convert 3+ newlines to 2
+                              .replace(/([^\n])\n([^\n])/g, '$1 $2');  // Replace single newlines with spaces
+
         // Check if marked library is available
         if (typeof marked !== 'undefined') {
             try {
@@ -187,16 +191,16 @@ class LesenTeil2 extends TestEngine {
                 });
                 
                 // Use marked to parse markdown
-                return marked.parse(text);
+                return marked.parse(cleanedText);
             } catch (error) {
                 console.error('Error parsing markdown with marked:', error);
                 // Fall back to the basic parsing if marked fails
-                return this.basicMarkdownParse(text);
+                return this.basicMarkdownParse(cleanedText);
             }
         } else {
             console.warn('Marked library not found, falling back to basic parsing');
             // Fall back to basic parsing if marked isn't available
-            return this.basicMarkdownParse(text);
+            return this.basicMarkdownParse(cleanedText);
         }
     }
     

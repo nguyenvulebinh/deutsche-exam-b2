@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihr Vertragsangebot für die Position als Marketingmanager vom [Datum]",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für die Zusendung des Vertragsangebots für die Position als Marketingmanager, __1__ ich mich sehr gefreut habe. Das Angebot entspricht weitgehend meinen Vorstellungen.\n\nBevor ich den Vertrag unterschreibe, hätte ich __2__ noch zwei kurze Fragen zur Klärung. Im Angebot wird als Eintrittsdatum der 1. August genannt. Wäre es eventuell auch möglich, erst zum 15. August zu beginnen, __3__ ich meine aktuelle Position fristgerecht kündigen muss?\n\n__4__ wird im Vertrag eine \"betriebliche Weiterbildungsmöglichkeit\" erwähnt. Könnten Sie mir bitte kurz erläutern, was genau __5__ zu verstehen ist und unter welchen Bedingungen diese genutzt werden kann? Mich interessiert insbesondere, ob dies auch externe Seminare umfasst.\n\nIch bin nach wie vor sehr an der Position interessiert und würde mich freuen, bald Teil Ihres Teams zu werden, __6__ diese Punkte geklärt sind. Über eine baldige Rückmeldung wäre ich Ihnen dankbar.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "darunter"
+        },
+        {
+            "id": "d",
+            "content": "Des Weiteren"
+        },
+        {
+            "id": "e",
+            "content": "jedoch"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "sobald"
+        },
+        {
+            "id": "h",
+            "content": "über das"
+        },
+        {
+            "id": "i",
+            "content": "worüber"
+        },
+        {
+            "id": "j",
+            "content": "Zusätzlich"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "h"
+        },
+        {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

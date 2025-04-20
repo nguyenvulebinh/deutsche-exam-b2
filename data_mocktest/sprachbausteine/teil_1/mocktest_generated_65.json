@@ -1,0 +1,72 @@
+{
+    "thema": "Nachfrage zum Stand der Bewerbung nach ausbleibender Rückmeldung",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Oktober zugesandt habe. Den Eingang meiner Unterlagen haben Sie mir __1__ per E-Mail bestätigt.\n\n__2__ sind nun bereits mehrere Wochen vergangen, und ich habe bisher leider noch keine Rückmeldung bezüglich des weiteren Vorgehens erhalten.\n\nDa ich weiterhin großes Interesse an dieser Position habe, möchte ich höflich nach dem aktuellen Stand des Auswahlverfahrens fragen. Könnten Sie mir vielleicht mitteilen, __3__ ich ungefähr mit einer Entscheidung rechnen kann?\n\nDiese Information wäre für meine weitere Planung sehr hilfreich. Ich habe __4__ Verständnis, dass der Auswahlprozess Zeit in Anspruch nehmen kann, wäre __5__ für eine kurze Auskunft dankbar.\n\nIch möchte __6__ betonen, dass mein Interesse an der Mitarbeit in Ihrem Unternehmen unverändert groß ist und freue mich auf eine baldige Nachricht.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "dafür"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "dennoch"
+        },
+        {
+            "id": "e",
+            "content": "inzwischen"
+        },
+        {
+            "id": "f",
+            "content": "nochmals"
+        },
+        {
+            "id": "g",
+            "content": "ob"
+        },
+        {
+            "id": "h",
+            "content": "Seitdem"
+        },
+        {
+            "id": "i",
+            "content": "umgehend"
+        },
+        {
+            "id": "j",
+            "content": "wann"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "i"
+        },
+        {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

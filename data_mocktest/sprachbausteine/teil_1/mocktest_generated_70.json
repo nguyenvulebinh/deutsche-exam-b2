@@ -1,0 +1,72 @@
+{
+    "thema": "Bestätigung Interviewtermin und Frage zu Reisekosten",
+    "textinhalt": "Betreff: Ihr Terminvorschlag für das Vorstellungsgespräch – Marketing Manager\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Stelle als Marketing Manager am 15. Oktober um 10:00 Uhr in Ihrem Hause.\n\nIch bestätige diesen Termin gerne und freue mich sehr __1__, Sie und Ihr Unternehmen persönlich kennenzulernen.\n\n__2__ ich, wie in meinen Unterlagen erwähnt, von außerhalb anreise (mein Wohnort ist München), hätte ich eine kurze Frage __3__ der Reisekostenerstattung.\n\nKönnten Sie mir bitte mitteilen, __4__ Ihr Unternehmen üblicherweise die Fahrtkosten für Bewerber übernimmt? Dies würde mir __5__ der Planung meiner Anreise sehr helfen.\n\nIch bin __6__ sehr an der ausgeschriebenen Position interessiert und sehe dem Gespräch mit Spannung entgegen.\n\nVielen Dank im Voraus für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "bei"
+        },
+        {
+            "id": "b",
+            "content": "bezüglich"
+        },
+        {
+            "id": "c",
+            "content": "Da"
+        },
+        {
+            "id": "d",
+            "content": "darauf"
+        },
+        {
+            "id": "e",
+            "content": "darüber"
+        },
+        {
+            "id": "f",
+            "content": "dass"
+        },
+        {
+            "id": "g",
+            "content": "mit"
+        },
+        {
+            "id": "h",
+            "content": "ob"
+        },
+        {
+            "id": "i",
+            "content": "wegen"
+        },
+        {
+            "id": "j",
+            "content": "weiterhin"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "d"
+        },
+        {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Klarstellung bezüglich Umzugsunterstützung im Stellenangebot",
+    "textinhalt": "Betreff: Ihr Stellenangebot als [Position], Kennziffer [XYZ] – Rückfrage zur Umzugsunterstützung\n\nSehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für die Zusendung des Stellenangebots für die Position als [Position] mit der Kennziffer [XYZ]. Ich habe mich darüber sehr gefreut.\n\nIch bin nach wie vor sehr an der Stelle interessiert und beabsichtige, das Angebot anzunehmen. In Ihrem Angebot erwähnen Sie eine mögliche Umzugsunterstützung.\n\n__1__ ich für diese Position von [Ihre Stadt] nach [Stadt des Unternehmens] umziehen müsste, ist dieser Punkt für meine Entscheidung relevant. Könnten Sie mir bitte genauer erläutern, __2__ diese Unterstützung konkret beinhaltet? Deckt sie beispielsweise die Transportkosten, Hilfe bei der Wohnungssuche oder __3__ anderes ab?\n\nIch benötige diese Information, __4__ ich Ihnen meine endgültige Zusage geben kann. Über eine baldige Klärung __5__ würde ich mich sehr freuen. Wie bereits im Gespräch erwähnt, bin ich __6__ sehr motiviert, Ihr Team zu verstärken.\n\nFür Rückfragen stehe ich Ihnen gerne auch telefonisch zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "bevor"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "danach"
+        },
+        {
+            "id": "d",
+            "content": "darüber"
+        },
+        {
+            "id": "e",
+            "content": "etwas"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "obwohl"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "was"
+        },
+        {
+            "id": "j",
+            "content": "weiterhin"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

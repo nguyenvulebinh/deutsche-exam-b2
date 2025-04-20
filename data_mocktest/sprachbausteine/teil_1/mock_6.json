@@ -1,0 +1,73 @@
+{
+    "thema": "Betreff: Meine Bewerbung vom 27.3., Stellenzeichen JU-2022",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nvor einiger Zeit habe ich mich bei Ihnen auf die Stelle als Erzieher beworben und eine Einladung zu einem Vorstellungsgespräch am fünften Mai erhalten, __1__ ich mich sehr gefreut habe. Dürfte ich Sie __2__ bitten, das Gespräch zu verschieben, __3__ ich genau an diesem Tag meine letzte mündliche Prüfung absolvieren muss? Wenn das Gespräch nicht __4__ der Prüfungszeit stattfinden würde, sondern erst danach, wäre ich sehr dankbar. __5__ dem fünften Mai bin ich flexibel.\nAnbei schicke ich Ihnen außerdem wie telefonisch besprochen die Referenz meiner derzeitigen Praktikumsanleiterin. Das Abschlusszeugnis erhalte ich __6__ nach der mündlichen Prüfung und werde es Ihnen dann so schnell wie möglich nachreichen.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\nJonathan Spielberger",
+    "options": [
+      {
+        "id": "a",
+        "content": "AB"
+      },
+      {
+        "id": "b",
+        "content": "DEMNÄCHST"
+      },
+      {
+        "id": "c",
+        "content": "DESWEGEN"
+      },
+      {
+        "id": "d",
+        "content": "ERST"
+      },
+      {
+        "id": "e",
+        "content": "NUN"
+      },
+      {
+        "id": "f",
+        "content": "SEIT"
+      },
+      {
+        "id": "g",
+        "content": "TROTZDEM"
+      },
+      {
+        "id": "h",
+        "content": "WÄHREND"
+      },
+      {
+        "id": "i",
+        "content": "WEIL"
+      },
+      {
+        "id": "j",
+        "content": "WORÜBER"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "j"
+      },
+      {
+        "blank": "2",
+        "option_id": "c"
+      },
+      {
+        "blank": "3",
+        "option_id": "i"
+      },
+      {
+        "blank": "4",
+        "option_id": "h"
+      },
+      {
+        "blank": "5",
+        "option_id": "a"
+      },
+      {
+        "blank": "6",
+        "option_id": "d"
+      }
+    ]
+}
+  

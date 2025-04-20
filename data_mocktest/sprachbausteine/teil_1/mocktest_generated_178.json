@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihr Stellenangebot als Projektmanager (Ref: PM-123) – Klärung Eintrittstermin",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für Ihr Stellenangebot vom 15. Juli für die Position als Projektmanager und das damit entgegengebrachte Vertrauen. Ich habe mich über die Zusage sehr gefreut und möchte die Stelle gerne annehmen.\n\n__1__ bin ich mir bezüglich des genauen Eintrittstermins noch unsicher. In Ihrem Schreiben erwähnen Sie den 1. September, __2__ im vorherigen Telefonat mit Herrn Bauer war vom 15. September die Rede.\n\n__3__ ich meinen aktuellen Arbeitsvertrag fristgerecht kündigen muss, ist eine eindeutige Klärung für meine Planung sehr wichtig. Könnten Sie mir __4__ kurz bestätigen, welches Datum nun verbindlich ist?\n\nIch freue mich bereits __5__ auf die Zusammenarbeit und die neuen Aufgaben in Ihrem Team. Für Ihre baldige Rückmeldung __6__ ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "darauf"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "freundlicherweise"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "sehr"
+        },
+        {
+            "id": "h",
+            "content": "während"
+        },
+        {
+            "id": "i",
+            "content": "wäre"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "a"
+        },
+        {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

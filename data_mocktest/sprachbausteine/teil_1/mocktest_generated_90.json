@@ -1,0 +1,72 @@
+{
+    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 25. April für die Position als Projektmanager. Ich habe mich über Ihr Interesse an meiner Bewerbung sehr gefreut, __1__ ich auch großes Interesse an einer Zusammenarbeit mit Ihrem Unternehmen habe.\n\nLeider muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin am 25. April nicht wahrnehmen kann, __2__ ich an diesem Tag bereits eine längerfristig geplante, unaufschiebbare Dienstreise antreten muss.\n\n__3__ wäre meine höfliche Bitte, ob es möglich wäre, einen alternativen Gesprächstermin zu finden. Ich bin __4__ zeitlich relativ flexibel und richte mich gerne nach Ihren Möglichkeiten. Ab dem 28. April stehe ich Ihnen wieder vollständig zur Verfügung.\n\nIch bin __5__ sehr an der ausgeschriebenen Position interessiert und davon überzeugt, dass meine Qualifikationen gut zu Ihrem Anforderungsprofil passen. Über eine positive Rückmeldung und einen neuen Terminvorschlag würde ich mich sehr freuen. Sie können mich zur Abstimmung __6__ telefonisch oder per E-Mail erreichen.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nThomas Weber",
+    "options": [
+        {
+            "id": "a",
+            "content": "ansonsten"
+        },
+        {
+            "id": "b",
+            "content": "außerdem"
+        },
+        {
+            "id": "c",
+            "content": "da"
+        },
+        {
+            "id": "d",
+            "content": "darüber"
+        },
+        {
+            "id": "e",
+            "content": "deshalb"
+        },
+        {
+            "id": "f",
+            "content": "gerne"
+        },
+        {
+            "id": "g",
+            "content": "obwohl"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "weiterhin"
+        },
+        {
+            "id": "j",
+            "content": "worüber"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

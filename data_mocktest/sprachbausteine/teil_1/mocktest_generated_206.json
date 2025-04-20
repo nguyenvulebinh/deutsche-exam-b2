@@ -1,0 +1,72 @@
+{
+    "thema": "Rückfrage zum Projektbrief „Kundenanalyse Q3“",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für die Zusendung des Projektbriefs „Kundenanalyse Q3“, __1__ Sie mir gestern übergeben haben. Ich habe die Unterlagen sorgfältig durchgelesen.\n\nDas Projektziel ist mir soweit klar. __2__ habe ich noch ein paar Detailfragen, __3__ der Vorgehensweise und der Zeitplanung.\n\nIm Brief steht, dass die Rohdatenanalyse bis zum 15. des Monats abgeschlossen sein soll, __4__ der finale Bericht erst für den 30. geplant ist. Ist dieser Zeitpuffer bewusst so groß gewählt oder gibt es dazwischen noch einen Abstimmungstermin?\n\nAußerdem wird auf eine Vorlage für die Abschlusspräsentation verwiesen. Könnten Sie mir bitte kurz mitteilen, __5__ ich diese auf dem Server finden kann? Ich war mir unsicher, ob die Datei „Vorlage_Standard_2023“ die richtige ist.\n\nIch wäre Ihnen dankbar für eine kurze Klärung dieser Punkte, __6__ ich effizient mit der Arbeit beginnen kann.\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen,\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "aber"
+        },
+        {
+            "id": "b",
+            "content": "Allerdings"
+        },
+        {
+            "id": "c",
+            "content": "bezüglich"
+        },
+        {
+            "id": "d",
+            "content": "damit"
+        },
+        {
+            "id": "e",
+            "content": "das"
+        },
+        {
+            "id": "f",
+            "content": "dass"
+        },
+        {
+            "id": "g",
+            "content": "Deshalb"
+        },
+        {
+            "id": "h",
+            "content": "wegen"
+        },
+        {
+            "id": "i",
+            "content": "wie"
+        },
+        {
+            "id": "j",
+            "content": "wo"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

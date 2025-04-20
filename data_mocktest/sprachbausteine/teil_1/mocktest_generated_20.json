@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.07. - Bitte um Terminverschiebung",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Position als Projektmanager am 15. Juli um 10:00 Uhr, __1__ ich mich sehr gefreut habe.\n\nLeider muss ich Ihnen mitteilen, dass ich an diesem spezifischen Tag bereits eine unaufschiebbare Verpflichtung habe, __2__ ich einen wichtigen, lange geplanten Arzttermin wahrnehmen muss. __3__ ist es mir bedauerlicherweise nicht möglich, den von Ihnen vorgeschlagenen Termin wahrzunehmen.\n\nIch bin nach wie vor außerordentlich an der Position und Ihrem Unternehmen interessiert. __4__ es wohl möglich wäre, einen alternativen Gesprächstermin zu finden? Zeitlich wäre ich zum Beispiel __5__ dem 18. Juli wieder uneingeschränkt verfügbar.\n\nIch bitte um Ihr Verständnis für die notwendige Umplanung und hoffe auf eine positive Rückmeldung bezüglich eines neuen Termins. Ich bin __6__ sehr motiviert, Ihr Team bald persönlich kennenzulernen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "ab"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "Deshalb"
+        },
+        {
+            "id": "e",
+            "content": "Ob"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "weiterhin"
+        },
+        {
+            "id": "i",
+            "content": "Wenn"
+        },
+        {
+            "id": "j",
+            "content": "worüber"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
+        }
+    ]
+}

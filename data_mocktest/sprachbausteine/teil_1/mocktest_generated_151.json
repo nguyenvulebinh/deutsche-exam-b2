@@ -1,0 +1,72 @@
+{
+    "thema": "Rückfrage zu meinem Arbeitsvertrag - [Position Name]",
+    "textinhalt": "Sehr geehrte Frau [Mustername],\n\nvielen Dank für die Zusendung des Arbeitsvertrags für die Position als [Position Name] und das damit verbundene Vertrauen in meine Fähigkeiten. Ich habe den Vertrag sorgfältig geprüft.\n\nDabei sind mir __1__ noch ein paar Punkte unklar geblieben, zu denen ich gerne eine kurze Erläuterung hätte. Zum einen bezieht sich meine Frage __2__ die Regelung der Überstunden – ist hierfür ein Freizeitausgleich vorgesehen oder werden diese finanziell vergütet? Zum anderen steht im Vertrag unter §5 eine Klausel zur Wettbewerbsenthaltung, __3__ genaue Reichweite ich nicht ganz verstehe.\n\nDa diese Punkte für meine endgültige Zusage wichtig sind, wäre ich Ihnen dankbar, __4__ Sie mir hierzu kurzfristig Auskunft geben könnten. Ich bin __5__ sehr an der Position interessiert und möchte den Vertrag gerne zeitnah unterzeichnen.\n\nIch freue mich auf Ihre Rückmeldung und verbleibe __6__ dahin\n\nmit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "auf"
+        },
+        {
+            "id": "b",
+            "content": "weiterhin"
+        },
+        {
+            "id": "c",
+            "content": "wenn"
+        },
+        {
+            "id": "d",
+            "content": "trotzdem"
+        },
+        {
+            "id": "e",
+            "content": "dessen"
+        },
+        {
+            "id": "f",
+            "content": "bis"
+        },
+        {
+            "id": "g",
+            "content": "deren"
+        },
+        {
+            "id": "h",
+            "content": "allerdings"
+        },
+        {
+            "id": "i",
+            "content": "obwohl"
+        },
+        {
+            "id": "j",
+            "content": "über"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "h"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
+        }
+    ]
+}

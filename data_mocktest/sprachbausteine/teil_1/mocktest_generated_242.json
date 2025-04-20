@@ -1,0 +1,72 @@
+{
+    "thema": "Antrag auf Ausstellung eines Zwischenzeugnisses wegen Abteilungswechsels",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nhiermit möchte ich Sie um die Ausstellung eines qualifizierten Zwischenzeugnisses bitten.\n\nWie Sie wissen, werde ich __1__ 01.08.2024 in die Marketingabteilung wechseln. __2__ meines Wechsels benötige ich dieses Zeugnis für meine Unterlagen und als Nachweis meiner bisherigen Tätigkeiten und Leistungen in Ihrer Abteilung.\n\nIch wäre Ihnen dankbar, __3__ Sie das Zeugnis bis spätestens zum 15.07.2024 fertigstellen könnten. Besonders wichtig wäre mir, __4__ meine Erfolge im Projekt 'Kundenzufriedenheit 2023' sowie meine erweiterten Kenntnisse im Bereich CRM-Systeme erwähnt werden.\n\n__5__ Sie weitere Informationen oder Details für die Erstellung benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank im Voraus für Ihre Bemühungen __6__ Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Aufgrund"
+        },
+        {
+            "id": "b",
+            "content": "dass"
+        },
+        {
+            "id": "c",
+            "content": "Falls"
+        },
+        {
+            "id": "d",
+            "content": "ob"
+        },
+        {
+            "id": "e",
+            "content": "Sobald"
+        },
+        {
+            "id": "f",
+            "content": "sowie"
+        },
+        {
+            "id": "g",
+            "content": "und"
+        },
+        {
+            "id": "h",
+            "content": "Wegen"
+        },
+        {
+            "id": "i",
+            "content": "wenn"
+        },
+        {
+            "id": "j",
+            "content": "zum"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

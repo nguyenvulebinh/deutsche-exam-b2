@@ -1,0 +1,72 @@
+{
+    "thema": "Nachfrage zum Stand der Bewerbung nach Ablauf der Frist",
+    "textinhalt": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-123)\n\nSehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager vom 15. Oktober (Kennziffer PM-123) und die dazugehörige Eingangsbestätigung Ihres Unternehmens.\n\nIn Ihrer Bestätigungs-E-Mail wurde erwähnt, dass der Auswahlprozess __1__ bis Ende November abgeschlossen sein würde. __2__ dieser Zeitpunkt nun überschritten ist und ich weiterhin sehr an der Position interessiert bin, möchte ich mich __3__ nach dem aktuellen Stand des Bewerbungsverfahrens erkundigen.\n\nIch verstehe natürlich, dass Auswahlprozesse manchmal länger dauern können. Könnten Sie mir __4__ eine kurze Information geben, wann __5__ mit einer Entscheidung zu rechnen ist? Die ausgeschriebene Stelle entspricht __6__ meinen beruflichen Vorstellungen und Qualifikationen.\n\nÜber eine baldige Rückmeldung würde ich mich sehr freuen. Vielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Da"
+        },
+        {
+            "id": "b",
+            "content": "dennoch"
+        },
+        {
+            "id": "c",
+            "content": "Deshalb"
+        },
+        {
+            "id": "d",
+            "content": "Freundlich"
+        },
+        {
+            "id": "e",
+            "content": "genau"
+        },
+        {
+            "id": "f",
+            "content": "höflich"
+        },
+        {
+            "id": "g",
+            "content": "Sehr"
+        },
+        {
+            "id": "h",
+            "content": "ungefähr"
+        },
+        {
+            "id": "i",
+            "content": "voraussichtlich"
+        },
+        {
+            "id": "j",
+            "content": "Weil"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "i"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

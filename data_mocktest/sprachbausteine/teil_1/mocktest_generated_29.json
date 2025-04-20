@@ -1,0 +1,72 @@
+{
+    "thema": "Email responding to interview invitation, asking clarification on travel costs.",
+    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch – [Your Name] – Kennziffer [Number]\n\nSehr geehrte Frau [Musterfrau],\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als [Position] und Ihr damit verbundenes Interesse an meiner Bewerbung. Ich habe mich sehr __1__ gefreut.\n\nDer von Ihnen vorgeschlagene Termin am [Datum] um [Uhrzeit] passt mir __2__ sehr gut und ich bin nach wie vor sehr an der Stelle interessiert.\n\n__3__ ich Ihnen den Termin jedoch final bestätigen kann, hätte ich eine kurze organisatorische Frage __4__ der Anreisekosten. Da ich von [weiter entfernte Stadt] anreisen würde, wollte ich mich erkundigen, __5__ Ihr Unternehmen üblicherweise die Reisekosten für Bewerbungsgespräche übernimmt oder anteilig erstattet.\n\nDiese Information wäre für meine Planung hilfreich. __6__ diese Frage geklärt ist, gebe ich Ihnen umgehend Bescheid bezüglich meiner Teilnahme am genannten Termin.\n\nVielen Dank im Voraus für Ihre kurze Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "Bevor"
+        },
+        {
+            "id": "b",
+            "content": "bezüglich"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "dass"
+        },
+        {
+            "id": "e",
+            "content": "davon"
+        },
+        {
+            "id": "f",
+            "content": "grundsätzlich"
+        },
+        {
+            "id": "g",
+            "content": "Nachdem"
+        },
+        {
+            "id": "h",
+            "content": "ob"
+        },
+        {
+            "id": "i",
+            "content": "Sobald"
+        },
+        {
+            "id": "j",
+            "content": "wegen"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

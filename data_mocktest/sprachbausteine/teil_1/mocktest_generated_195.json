@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihre Absage für die Stelle als [Position] – Meine Bewerbung vom [Datum]",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für Ihre Nachricht vom [Datum] bezüglich meiner Bewerbung auf die Stelle als [Position]. Ich habe Ihre Absage erhalten.\n\n__1__ ich natürlich enttäuscht bin, respektiere ich Ihre Entscheidung. Mein Interesse __2__ [Firmenname] als potenziellem Arbeitgeber besteht __3__.\n\nUm mich für zukünftige Bewerbungen besser aufstellen zu können, wäre ich Ihnen sehr dankbar, __4__ Sie mir vielleicht ein kurzes Feedback geben könnten. Mich würde insbesondere interessieren, __5__ meine Qualifikationen nicht ganz den Anforderungen entsprochen haben oder woran es gelegen hat.\n\nIch bedanke mich nochmals für Ihre Zeit und Prüfung meiner Unterlagen und würde mich über eine kurze Rückmeldung freuen, __6__ es Ihre Zeit erlaubt.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "an"
+        },
+        {
+            "id": "b",
+            "content": "für"
+        },
+        {
+            "id": "c",
+            "content": "ob"
+        },
+        {
+            "id": "d",
+            "content": "obwohl"
+        },
+        {
+            "id": "e",
+            "content": "sofern"
+        },
+        {
+            "id": "f",
+            "content": "trotzdem"
+        },
+        {
+            "id": "g",
+            "content": "weiterhin"
+        },
+        {
+            "id": "h",
+            "content": "wenn"
+        },
+        {
+            "id": "i",
+            "content": "weshalb"
+        },
+        {
+            "id": "j",
+            "content": "wodurch"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "d"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

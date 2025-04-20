@@ -1,0 +1,73 @@
+{
+    "thema": "Betreff: Mein Vorstellungsgespräch am 12. Juni",
+    "textinhalt": "Sehr geehrte Frau Kiensle,\n\ndanke, dass Sie mir am 12. Juni die Chance gegeben haben, mich __1__ bei Ihnen persönlich vorzustellen. Unser Gespräch hat mir gute Einblicke in die Abläufe und das kollegiale Betriebsklima in Ihrem Haus gegeben, __2__ war ich sehr beeindruckt.\n\n__3__ gut hat mir gefallen, dass Sie den Mitarbeitenden genug Zeit geben, auch auf Menschen mit geistigen Einschränkungen angemessen einzugehen.\n\nEin wenig verunsichert hat mich Ihre Frage __4__, wie ich mir einen guten Umgang mit Seniorinnen und Senioren in Ihrer Einrichtung vorstelle. Aber __5__ bin ich mir sicher, dass ich mit meinen Erfahrungen, die ich in zwei Demenz-WGs gemacht habe, sehr gut in Ihr Team passen würde.\n\nWie gewünscht möchte ich Ihnen deshalb zurückmelden, dass ich __6__ sehr an der Stelle interessiert bin.\n\nIch hoffe auf eine positive Rückmeldung und verbleibe\n\nmit freundlichen Grüßen\n\nKarina Nowitzky",
+    "options": [
+      {
+        "id": "a",
+        "content": "AUCH"
+      },
+      {
+        "id": "b",
+        "content": "BESONDERS"
+      },
+      {
+        "id": "c",
+        "content": "DANACH"
+      },
+      {
+        "id": "d",
+        "content": "DARÜBER"
+      },
+      {
+        "id": "e",
+        "content": "DAVON"
+      },
+      {
+        "id": "f",
+        "content": "FOLGLICH"
+      },
+      {
+        "id": "g",
+        "content": "JETZT"
+      },
+      {
+        "id": "h",
+        "content": "NICHT"
+      },
+      {
+        "id": "i",
+        "content": "WEITERHIN"
+      },
+      {
+        "id": "j",
+        "content": "ZURZEIT"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "a"
+      },
+      {
+        "blank": "2",
+        "option_id": "e"
+      },
+      {
+        "blank": "3",
+        "option_id": "b"
+      },
+      {
+        "blank": "4",
+        "option_id": "c"
+      },
+      {
+        "blank": "5",
+        "option_id": "g"
+      },
+      {
+        "blank": "6",
+        "option_id": "i"
+      }
+    ]
+}
+  

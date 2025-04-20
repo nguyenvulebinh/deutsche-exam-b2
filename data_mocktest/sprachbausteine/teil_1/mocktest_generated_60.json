@@ -1,0 +1,72 @@
+{
+    "thema": "Nachsendung von Unterlagen nach einem Vorstellungsgespräch",
+    "textinhalt": "Betreff: Nachsendung Arbeitszeugnis – Ihr Gespräch am 14. März\n\nSehr geehrte Frau Schneider,\n\n__1__ unser sehr angenehmes Gespräch am 14. März möchte ich mich nochmals herzlich bedanken. Es hat meinen positiven Eindruck von Ihrem Unternehmen und der ausgeschriebenen Stelle als Projektmanager bestärkt.\n\nWie im Gespräch vereinbart, reiche ich Ihnen __2__ das Arbeitszeugnis meines letzten Arbeitgebers nach. Die Ausstellung hatte sich leider etwas verzögert, __3__ ich es Ihnen erst heute zusenden kann. Sie finden das Dokument im Anhang dieser E-Mail.\n\nIch hoffe, Ihre Unterlagen sind nun vollständig. Mein Interesse __4__ der Position ist nach unserem Gespräch unverändert hoch, und ich bin weiterhin fest davon überzeugt, __5__ meine Fähigkeiten und Erfahrungen gut zu Ihrem Team passen würden.\n\nIch freue mich __6__ eine baldige positive Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "an"
+        },
+        {
+            "id": "b",
+            "content": "auf"
+        },
+        {
+            "id": "c",
+            "content": "bezugnehmend auf"
+        },
+        {
+            "id": "d",
+            "content": "damit"
+        },
+        {
+            "id": "e",
+            "content": "dass"
+        },
+        {
+            "id": "f",
+            "content": "deshalb"
+        },
+        {
+            "id": "g",
+            "content": "für"
+        },
+        {
+            "id": "h",
+            "content": "hiermit"
+        },
+        {
+            "id": "i",
+            "content": "trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "über"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

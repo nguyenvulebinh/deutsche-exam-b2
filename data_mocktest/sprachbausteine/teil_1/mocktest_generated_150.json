@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zu Details einer Stellenausschreibung (Reisebereitschaft) vor der Bewerbung",
+    "textinhalt": "Betreff: Anfrage zur Stellenausschreibung 'Referent/in für Projektmanagement', Kennziffer PM-123\n\nSehr geehrte Damen und Herren,\n\nIhre Stellenausschreibung für die Position als Referent/in für Projektmanagement (Kennziffer PM-123) auf Ihrer Webseite habe ich mit großem Interesse gelesen. Die beschriebenen Aufgaben und Ihr Unternehmen finde ich sehr ansprechend.\n\nBevor ich meine vollständigen Bewerbungsunterlagen einreiche, hätte ich __1__ eine kurze Frage __2__ der im Anforderungsprofil genannten „Reisebereitschaft“. Könnten Sie mir bitte mitteilen, __3__ Dienstreisen für diese Position vorgesehen sind? Konkret würde mich interessieren, wie häufig und __4__ wie lange diese Reisen typischerweise dauern.\n\nDiese Information ist für meine Entscheidung wichtig, __5__ ich meine beruflichen Verpflichtungen mit meinen familiären Verantwortlichkeiten gut abstimmen muss. Abhängig von Ihrer Antwort würde ich meine Bewerbung sehr gerne vervollständigen.\n\nVielen Dank __6__ für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "bezüglich"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "im Voraus"
+        },
+        {
+            "id": "d",
+            "content": "inwieweit"
+        },
+        {
+            "id": "e",
+            "content": "jedoch"
+        },
+        {
+            "id": "f",
+            "content": "nach"
+        },
+        {
+            "id": "g",
+            "content": "ob"
+        },
+        {
+            "id": "h",
+            "content": "obwohl"
+        },
+        {
+            "id": "i",
+            "content": "trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "ungefähr"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zur internen Schulung 'Effektives Zeitmanagement'",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf die Ankündigung der internen Schulung 'Effektives Zeitmanagement', die kürzlich im Intranet veröffentlicht wurde.\n\nDas Thema ist für meine aktuellen Aufgaben sehr relevant und ich habe __1__ großes Interesse an einer Teilnahme. In der Ankündigung wird erwähnt, dass die Schulung __2__ für Mitarbeiter mit erster Führungserfahrung konzipiert ist. Könnten Sie mir bitte mitteilen, __3__ auch Mitarbeiter ohne direkte Personalverantwortung, wie ich, davon profitieren können?\n\nZudem wäre es hilfreich zu wissen, __4__ die Anmeldefrist endet und ob es eine maximale Teilnehmerzahl gibt.\n\nIch möchte meine Teilnahme gerne frühzeitig planen, __5__ ich meine Projekttermine darauf abstimmen kann. Ich wäre Ihnen dankbar, __6__ Sie mir bald antworten könnten.\n\nVielen Dank im Voraus für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "als"
+        },
+        {
+            "id": "b",
+            "content": "besonders"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "sodass"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "wann"
+        },
+        {
+            "id": "i",
+            "content": "wenn"
+        },
+        {
+            "id": "j",
+            "content": "wie"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "d"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

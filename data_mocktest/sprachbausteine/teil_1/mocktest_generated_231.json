@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zu Details einer Stellenanzeige vor Bewerbung",
+    "textinhalt": "Betreff: Anfrage zu Details der Position Marketing Manager (Ref. MM-123)\n\nSehr geehrte Frau Bauer,\n\nmit großem Interesse habe ich Ihre Stellenanzeige für die Position als Marketing Manager auf der Plattform XING gelesen. Die beschriebenen Aufgabenfelder klingen sehr vielversprechend und passen gut zu meinem Profil.\n\n__1__ ich meine Bewerbungsunterlagen finalisiere und einreiche, hätte ich noch zwei klärende Fragen __2__ die genauen Tätigkeitsbereiche. In der Anzeige wird „Projektmanagement“ erwähnt. __3__ Sie mir bitte etwas genauer erläutern, welche Art von Projekten hauptsächlich gemeint sind und wie groß der Verantwortungsbereich dabei ist?\n\n__4__ wäre es für mich hilfreich zu wissen, wie das Marketingteam __5__ strukturiert ist und aus wie vielen Personen es besteht.\n\nDiese Informationen würden mir sehr helfen, __6__ besser einschätzen zu können, ob meine Erwartungen und Qualifikationen optimal zur Position passen. Über eine kurze Rückmeldung würde ich mich sehr freuen.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "aktuell"
+        },
+        {
+            "id": "b",
+            "content": "Außerdem"
+        },
+        {
+            "id": "c",
+            "content": "Bevor"
+        },
+        {
+            "id": "d",
+            "content": "bezüglich"
+        },
+        {
+            "id": "e",
+            "content": "damit"
+        },
+        {
+            "id": "f",
+            "content": "Könnten"
+        },
+        {
+            "id": "g",
+            "content": "Nachdem"
+        },
+        {
+            "id": "h",
+            "content": "Sollten"
+        },
+        {
+            "id": "i",
+            "content": "um"
+        },
+        {
+            "id": "j",
+            "content": "wegen"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

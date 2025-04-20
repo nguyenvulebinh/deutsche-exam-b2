@@ -1,0 +1,72 @@
+{
+    "thema": "Antrag auf Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nhiermit möchte ich Sie um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten. Ich war __1__ der Zeit vom 01.03.2021 bis __2__ 31.08.2024 als Marketingassistent in Ihrem Unternehmen tätig.\n\nMein Arbeitsvertrag endete regulär zum genannten Datum. __3__ besteht mein gesetzlicher Anspruch auf ein Zeugnis. Könnten Sie mir bitte mitteilen, __4__ welcher Frist ich mit der Zusendung rechnen kann? Ich benötige das Zeugnis für meine weiteren beruflichen Schritte, __5__ es für zukünftige Bewerbungen unerlässlich ist.\n\nBitte senden Sie das Zeugnis an meine aktuelle Adresse: Musterstraße 1, 12345 Musterstadt. Ich wäre Ihnen dankbar, __6__ Sie mir kurz den Erhalt dieser E-Mail bestätigen könnten.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "da"
+        },
+        {
+            "id": "b",
+            "content": "Daher"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "innerhalb"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "seit"
+        },
+        {
+            "id": "g",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "während"
+        },
+        {
+            "id": "i",
+            "content": "wenn"
+        },
+        {
+            "id": "j",
+            "content": "zum"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "h"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
+        }
+    ]
+}

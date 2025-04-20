@@ -1,0 +1,72 @@
+{
+    "thema": "Email confirming an interview appointment and asking a logistical question",
+    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.10., Kennziffer IT-Dev-03\n\nSehr geehrte Frau Wagner,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Position als Softwareentwickler, __1__ ich mich sehr gefreut habe.\n\nGerne bestätige ich den von Ihnen vorgeschlagenen Termin am 15. Oktober um 10:00 Uhr. Ich freue mich __2__, Sie persönlich kennenzulernen.\n\nIch habe noch eine kurze Frage __3__ der Anreise: Ist es möglich, direkt am Firmengebäude zu parken, oder sollte ich __4__ öffentliche Verkehrsmittel nutzen?\n\n__5__ Sie vorab noch weitere Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch freue mich auf unser Gespräch und verbleibe __6__ dahin\n\nmit freundlichen Grüßen\n\nJonas Schmidt",
+    "options": [
+        {
+            "id": "a",
+            "content": "bezüglich"
+        },
+        {
+            "id": "b",
+            "content": "bis"
+        },
+        {
+            "id": "c",
+            "content": "darauf"
+        },
+        {
+            "id": "d",
+            "content": "darüber"
+        },
+        {
+            "id": "e",
+            "content": "eher"
+        },
+        {
+            "id": "f",
+            "content": "Falls"
+        },
+        {
+            "id": "g",
+            "content": "lieber"
+        },
+        {
+            "id": "h",
+            "content": "wegen"
+        },
+        {
+            "id": "i",
+            "content": "Wenn"
+        },
+        {
+            "id": "j",
+            "content": "worüber"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

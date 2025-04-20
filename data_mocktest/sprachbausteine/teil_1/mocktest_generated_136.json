@@ -1,0 +1,72 @@
+{
+    "thema": "Bestätigung der Teilnahme an einem internen Workshop und Frage zur Vorbereitung",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nvielen Dank für die Einladung zum internen Workshop \"Effektive Kommunikation im Team\" am kommenden Dienstag.\n\n__1__ bestätige ich gerne meine Teilnahme und freue mich auf die Veranstaltung.\n\nIch hätte __2__ noch eine kurze Frage zur Vorbereitung: In der Einladung wurde erwähnt, dass eventuell einige Artikel vorab zu lesen seien. Könnten Sie mir bitte mitteilen, __3__ dies der Fall ist und wo ich die Materialien finden kann? Ich möchte sicherstellen, __4__ ich bestmöglich vorbereitet teilnehme.\n\nKönnten Sie __5__ bitte auch noch einmal bestätigen, dass der Workshop wie geplant um 9:00 Uhr im Raum B-203 stattfindet?\n\nIch freue mich schon sehr __6__ den Workshop und den Austausch mit den Kollegen.\n\nVielen Dank im Voraus für Ihre kurze Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "auf"
+        },
+        {
+            "id": "b",
+            "content": "außerdem"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "dass"
+        },
+        {
+            "id": "e",
+            "content": "hiermit"
+        },
+        {
+            "id": "f",
+            "content": "jedoch"
+        },
+        {
+            "id": "g",
+            "content": "ob"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "über"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "a"
+        }
+    ]
+}

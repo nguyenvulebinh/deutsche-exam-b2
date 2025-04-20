@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihre Zusage für die Position als Marketingassistent",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen herzlichen Dank für Ihre Zusage für die Position als Marketingassistent und das damit verbundene Vertrauen. Ich habe mich sehr __1__ gefreut und nehme das Angebot gerne an.\n\nBezüglich des Vertragsbeginns bin ich mir __2__ etwas unsicher. Im Angebotsschreiben wird der 1. August genannt, __3__ wir im Gespräch über den 15. August gesprochen hatten. Könnten Sie bitte bestätigen, __4__ Datum korrekt ist?\n\n__5__ würde ich gerne wissen, an wen ich mich bezüglich der Einarbeitung wenden kann, __6__ ich anfange.\n\nIch sehe meiner neuen Aufgabe mit großer Erwartung entgegen und freue mich auf eine baldige Klärung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "Außerdem"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "Darüber hinaus"
+        },
+        {
+            "id": "e",
+            "content": "jedoch"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "sobald"
+        },
+        {
+            "id": "h",
+            "content": "während"
+        },
+        {
+            "id": "i",
+            "content": "welches"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "thema": "Betreff: Bewerbung als Tourismuskaufmann",
+    "textinhalt": "Sehr geehrter Herr Frenzel,\n\nauf der Internetseite Ihres Unternehmens bin ich auf das Stellenangebot „Reiseberater Südamerika“ aufmerksam geworden. __1__ Tourismuskaufmann mit chilenischen Wurzeln und ausgezeichneten Kenntnissen der Zielregionen passe ich sehr gut in Ihr Anforderungsprofil und möchte mich gern bewerben.\n\nDas Online-Bewerbungsformular habe ich auch __2__ ausgefüllt und die erforderlichen Dokumente hochgeladen, allerdings gibt es ein technisches Problem: Die Bewerbung lässt sich nicht abschicken. Jedes Mal, __3__ ich auf „Senden“ klicke, erhalte ich die Meldung „Senden fehlgeschlagen“.\n\nKann ich Ihnen meine Bewerbung in diesem Fall __4__ per E-Mail zukommen lassen – obwohl in der Stellenanzeige steht, __5__ Sie ausschließlich Online-Bewerbungen akzeptieren?\n\nIch freue mich über Ihre Rückmeldung. Sie erreichen mich telefonisch unter 0555 26 09 19 30 oder per E-Mail. Telefonisch bin ich in der Regel __6__ 8:00 und 20:00 Uhr gut erreichbar.\n\nVielen Dank.\n\nMit freundlichen Grüßen\n\nJavier Guzmán",
+    "options": [
+      {
+        "id": "a",
+        "content": "ALS"
+      },
+      {
+        "id": "b",
+        "content": "AUSNAHMSWEISE"
+      },
+      {
+        "id": "c",
+        "content": "BEREITS"
+      },
+      {
+        "id": "d",
+        "content": "DASS"
+      },
+      {
+        "id": "e",
+        "content": "EBENFALLS"
+      },
+      {
+        "id": "f",
+        "content": "VON"
+      },
+      {
+        "id": "g",
+        "content": "WENN"
+      },
+      {
+        "id": "h",
+        "content": "WOBEI"
+      },
+      {
+        "id": "i",
+        "content": "ZEITWEISE"
+      },
+      {
+        "id": "j",
+        "content": "ZWISCHEN"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "a"
+      },
+      {
+        "blank": "2",
+        "option_id": "c"
+      },
+      {
+        "blank": "3",
+        "option_id": "g"
+      },
+      {
+        "blank": "4",
+        "option_id": "b"
+      },
+      {
+        "blank": "5",
+        "option_id": "d"
+      },
+      {
+        "blank": "6",
+        "option_id": "j"
+      }
+    ]
+}
+  

@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Nachfrage zu meiner Bewerbung als Marketingassistent vom 15.08.",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Rückmeldung vom 25.08. bezüglich meiner Bewerbung als Marketingassistent. Ich bedauere sehr, dass es dieses Mal nicht geklappt hat.\n\nUm mich für zukünftige Bewerbungen besser vorbereiten zu können, wäre ich Ihnen sehr dankbar, __1__ Sie mir vielleicht ein kurzes Feedback geben könnten. Mich würde __2__ interessieren, in welchen Bereichen ich mich verbessern sollte oder __3__ meine Qualifikationen möglicherweise nicht ganz den Anforderungen entsprachen.\n\nIch verstehe natürlich, dass Sie viele Bewerbungen erhalten und dies Zeit kostet, __4__ wäre jede kurze Anmerkung für mich sehr wertvoll.\n\nIch wäre Ihnen für Ihre Unterstützung __5__ dankbar und hoffe, __6__ ich mich in Zukunft vielleicht erneut bei Ihnen bewerben darf.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "besonders"
+        },
+        {
+            "id": "b",
+            "content": "dass"
+        },
+        {
+            "id": "c",
+            "content": "dennoch"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "sehr"
+        },
+        {
+            "id": "h",
+            "content": "viel"
+        },
+        {
+            "id": "i",
+            "content": "warum"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "j"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

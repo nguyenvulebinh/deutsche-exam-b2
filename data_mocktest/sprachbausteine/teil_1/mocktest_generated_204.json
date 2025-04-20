@@ -1,0 +1,72 @@
+{
+    "thema": "Email requesting clarification on salary components and confirming the exact start date mentioned in a job offer.",
+    "textinhalt": "Betreff: Ihr Jobangebot als Marketingassistent vom 15.08. – Rückfragen\n\nSehr geehrte Frau Schneider,\n\nich bedanke mich herzlich für Ihr Jobangebot für die Position als Marketingassistent und für das freundliche Gespräch letzte Woche. Ich habe mich __1__ sehr gefreut.\n\nBevor ich Ihre Einladung annehme, hätte ich noch zwei kurze Fragen zur Klärung. __2__ des im Angebot genannten Jahresgehalts von 45.000 Euro wollte ich fragen, __3__ es sich hierbei um das reine Grundgehalt handelt oder ob eventuelle variable Anteile bereits enthalten sind.\n\nAußerdem bezieht sich meine zweite Frage auf den vorgeschlagenen Eintrittstermin, den 1. Oktober. __4__ ich bei meinem jetzigen Arbeitgeber eine Kündigungsfrist von sechs Wochen zum Monatsende einhalten muss, wäre ein Start zu diesem Datum für mich leider nur schwer realisierbar. Wäre es __5__ möglich, das Eintrittsdatum auf den 1. November zu verschieben?\n\n__6__ möchte ich betonen, dass ich großes Interesse an der Position und einer Zusammenarbeit mit Ihrem Team habe. Über eine kurze Rückmeldung zu meinen Fragen würde ich mich freuen.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Bezüglich"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "dass"
+        },
+        {
+            "id": "e",
+            "content": "deshalb"
+        },
+        {
+            "id": "f",
+            "content": "gegebenenfalls"
+        },
+        {
+            "id": "g",
+            "content": "ob"
+        },
+        {
+            "id": "h",
+            "content": "obwohl"
+        },
+        {
+            "id": "i",
+            "content": "Wegen"
+        },
+        {
+            "id": "j",
+            "content": "Weiterhin"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

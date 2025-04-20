@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihr Vertragsangebot als Marketingassistent/in vom 05.07., Rückfragen",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für die Zusendung des Vertragsangebots für die Stelle als Marketingassistent/in und das damit verbundene Vertrauen. Ich habe mich sehr gefreut und bin nach wie vor sehr an der Position interessiert.\n\n__1__ ich das Angebot final annehme, hätte ich jedoch noch zwei kurze Rückfragen __2__ einiger Punkte im Vertrag. Zum einen betrifft dies die im Angebot erwähnten „regelmäßigen Wochenendeinsätze“. Könnten Sie bitte __3__ erläutern, wie häufig diese erfahrungsgemäß anfallen? Im Vorstellungsgespräch sprachen wir ja bereits kurz __4__, dass dies nur in Ausnahmefällen nötig sei.\n\nZum anderen bezieht sich meine Frage auf die Homeoffice-Regelung. __5__ ist im Vertrag von „anteiligem Homeoffice nach Absprache“ die Rede, es wäre für meine Planung hilfreich zu wissen, ob hier eine feste Anzahl an Tagen pro Woche vorgesehen ist. Ich möchte nur sichergehen, dass wir hier ein gemeinsames Verständnis haben.\n\nIch wäre Ihnen dankbar, wenn Sie mir dazu __6__ eine kurze Rückmeldung geben könnten. \n\nVielen Dank für Ihr Verständnis und Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "bald"
+        },
+        {
+            "id": "c",
+            "content": "bevor"
+        },
+        {
+            "id": "d",
+            "content": "bezüglich"
+        },
+        {
+            "id": "e",
+            "content": "darüber"
+        },
+        {
+            "id": "f",
+            "content": "davon"
+        },
+        {
+            "id": "g",
+            "content": "genauer"
+        },
+        {
+            "id": "h",
+            "content": "nachdem"
+        },
+        {
+            "id": "i",
+            "content": "wegen"
+        },
+        {
+            "id": "j",
+            "content": "zeitnah"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

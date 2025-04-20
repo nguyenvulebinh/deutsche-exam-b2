@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zur Teilzeitmöglichkeit für eine Vollzeitstelle",
+    "textinhalt": "Betreff: Anfrage zur Teilzeitmöglichkeit – Ihre Stellenanzeige Projektmanager Digitalisierung (Ref: PMD-123)\n\nSehr geehrte Frau Müller,\n\nmit großem Interesse habe ich Ihre Stellenanzeige für den Projektmanager Digitalisierung auf Ihrer Website gelesen. Die beschriebenen Aufgaben und die Ausrichtung Ihres Unternehmens entsprechen genau meinen beruflichen Vorstellungen.\n\nIch bringe umfangreiche Erfahrungen im Projektmanagement mit, befinde mich jedoch __1__ in einer berufsbegleitenden Weiterbildung. __2__ ich momentan nur eine Tätigkeit im Umfang von ca. 25-30 Stunden pro Woche anstrebe.\n\n__3__ ich Ihnen meine vollständigen Bewerbungsunterlagen zusende, möchte ich mich daher erkundigen, __4__ für diese Position grundsätzlich auch eine Teilzeitregelung denkbar wäre.\n\nIch bin überzeugt, dass ich __5__ des reduzierten Stundenumfangs einen wertvollen Beitrag zur digitalen Transformation in Ihrem Unternehmen leisten kann.\n\nÜber eine kurze Rückmeldung __6__ wäre ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "dass"
+        },
+        {
+            "id": "b",
+            "content": "trotz"
+        },
+        {
+            "id": "c",
+            "content": "aktuell"
+        },
+        {
+            "id": "d",
+            "content": "Bevor"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "deswegen"
+        },
+        {
+            "id": "g",
+            "content": "wegen"
+        },
+        {
+            "id": "h",
+            "content": "dazu"
+        },
+        {
+            "id": "i",
+            "content": "während"
+        },
+        {
+            "id": "j",
+            "content": "Weshalb"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Email an die Personalabteilung nach Erhalt eines Jobangebots zur Klärung des Eintrittstermins",
+    "textinhalt": "Betreff: Ihr Stellenangebot als Marketing-Assistent vom 15.07. – Referenz MA-2024\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihr Jobangebot für die Position als Marketing-Assistent und das __1__ verbundene Vertrauen in meine Fähigkeiten. Ich habe mich sehr __2__ gefreut.\n\n__3__ ich Ihr Angebot formell annehme, hätte ich jedoch eine kurze Frage __4__ des genauen Eintrittsdatums. Im Angebot wird „zum nächstmöglichen Zeitpunkt“ genannt. Könnten Sie mir bitte ein konkretes Datum nennen?\n\nDiese Klärung ist für mich wichtig, __5__ ich bei meinem aktuellen Arbeitgeber eine Kündigungsfrist von einem Monat zum Monatsende einhalten muss und den Übergang sorgfältig planen möchte.\n\nIch bin __6__ sehr an der Position interessiert und sehe einer Zusammenarbeit mit Freude entgegen. Über eine baldige Rückmeldung bezüglich des Starttermins wäre ich Ihnen dankbar.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Bevor"
+        },
+        {
+            "id": "b",
+            "content": "bezüglich"
+        },
+        {
+            "id": "c",
+            "content": "da"
+        },
+        {
+            "id": "d",
+            "content": "damit"
+        },
+        {
+            "id": "e",
+            "content": "darüber"
+        },
+        {
+            "id": "f",
+            "content": "obwohl"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "während"
+        },
+        {
+            "id": "i",
+            "content": "wegen"
+        },
+        {
+            "id": "j",
+            "content": "weiterhin"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "d"
+        },
+        {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

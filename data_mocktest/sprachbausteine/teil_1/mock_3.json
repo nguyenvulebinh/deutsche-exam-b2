@@ -1,0 +1,73 @@
+{
+    "thema": "Betreff: Meine Bewerbung am 25.06. auf der Job-Messe",
+    "textinhalt": "Sehr geehrter Herr Radebrecht,\n\nim Juni hatte ich mich Ihnen auf der Job-Messe in Dresden persönlich vorgestellt und Ihnen __1__ auch meine Bewerbungsunterlagen gegeben. Nach einem intensiven Gespräch über die Tätigkeiten als Social-Media-Manager, haben Sie mir angeboten, meine Unterlagen an Ihre Marketingleiterin weiterzuleiten, __2__ ich mich sehr gefreut habe.\nLeider habe ich __3__ nichts mehr von Ihrem Unternehmen gehört und bin nun unsicher, ob die Unterlagen vielleicht verlorengegangen sind. __4__ melde ich mich schriftlich bei Ihnen und hänge meine Bewerbungsunterlagen zur Sicherheit noch einmal an.\nFür Ihr Unternehmen habe ich schon einige Ideen, __5__ Sie Ihr Online-Kundenmagazin noch interessanter machen können und mehr junge Menschen über soziale Medien erreichen.\nGerne führe ich diese in einem persönlichen Gespräch aus.\n\n__6__ ich zurzeit in keinem Beschäftigungsverhältnis stehe, bin ich zeitlich flexibel.\n\nVielen Dank im Voraus und mit freundlichen Grüßen\n\nKevin Murr",
+    "options": [
+      {
+        "id": "a",
+        "content": "DA"
+      },
+      {
+        "id": "b",
+        "content": "DABEI"
+      },
+      {
+        "id": "c",
+        "content": "DESHALB"
+      },
+      {
+        "id": "d",
+        "content": "MITTLERWEILE"
+      },
+      {
+        "id": "e",
+        "content": "OB"
+      },
+      {
+        "id": "f",
+        "content": "SEITDEM"
+      },
+      {
+        "id": "g",
+        "content": "WANN"
+      },
+      {
+        "id": "h",
+        "content": "WIE"
+      },
+      {
+        "id": "i",
+        "content": "WORAUF"
+      },
+      {
+        "id": "j",
+        "content": "WORÜBER"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "b"
+      },
+      {
+        "blank": "2",
+        "option_id": "j"
+      },
+      {
+        "blank": "3",
+        "option_id": "f"
+      },
+      {
+        "blank": "4",
+        "option_id": "c"
+      },
+      {
+        "blank": "5",
+        "option_id": "h"
+      },
+      {
+        "blank": "6",
+        "option_id": "a"
+      }
+    ]
+}
+  

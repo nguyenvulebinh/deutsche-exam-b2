@@ -1,0 +1,72 @@
+{
+    "thema": "Zusage Stellenangebot mit Rückfrage zum Eintrittstermin",
+    "textinhalt": "Betreff: Ihr Stellenangebot als Projektmanager Energieeffizienz, Kennziffer PM-E-882\n\nSehr geehrte Frau Dr. Neumann,\n\nvielen Dank für Ihr Stellenangebot vom 05. März für die Position als Projektmanager Energieeffizienz und das damit verbundene Vertrauen. Ich habe mich sehr über Ihre positive Entscheidung gefreut und nehme das Angebot hiermit gerne an.\n\nBezüglich des von Ihnen genannten Eintrittstermins am 1. April habe ich jedoch eine kurze Rückfrage. __1__ ich mich momentan noch in einem ungekündigten Arbeitsverhältnis befinde, habe ich eine vertragliche Kündigungsfrist von drei Monaten zum Quartalsende einzuhalten. __2__ wäre mein frühestmöglicher Eintrittstermin der 1. Juli.\n\nIch hoffe sehr, __3__ dieser spätere Starttermin für Ihre Planungen noch realisierbar ist. __4__ bitte ich um eine kurze Rückmeldung, ob dieser Termin für Sie passt oder ob wir __5__ eine alternative Regelung besprechen können.\n\nUnabhängig davon freue ich mich bereits sehr __6__ die neue Herausforderung und die Zusammenarbeit in Ihrem Team.\n\nMit freundlichen Grüßen\n\nThomas Müller",
+    "options": [
+        {
+            "id": "a",
+            "content": "Andernfalls"
+        },
+        {
+            "id": "b",
+            "content": "auf"
+        },
+        {
+            "id": "c",
+            "content": "Da"
+        },
+        {
+            "id": "d",
+            "content": "dass"
+        },
+        {
+            "id": "e",
+            "content": "Deshalb"
+        },
+        {
+            "id": "f",
+            "content": "eventuell"
+        },
+        {
+            "id": "g",
+            "content": "ob"
+        },
+        {
+            "id": "h",
+            "content": "Obwohl"
+        },
+        {
+            "id": "i",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "über"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

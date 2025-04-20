@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Nachreichung Unterlagen – Ihre E-Mail vom [Datum] – Bewerbung als [Job Title]",
+    "textinhalt": "Sehr geehrte Frau/Herr [Name],\n\nvielen Dank für Ihre E-Mail vom [Datum], in der Sie mich um die Nachreichung meines [Certificate Name]-Zertifikats gebeten haben.\n\nIch habe das Zertifikat nun digitalisiert und sende es Ihnen __1__ im Anhang dieser E-Mail zu. Ich hoffe, dass meine Bewerbungsunterlagen __2__ vollständig sind.\n\nDas Originalzertifikat wurde mir erst kürzlich ausgestellt, __3__ konnte ich es nicht direkt mit meiner ursprünglichen Bewerbung mitschicken. Ich bitte __4__ die kleine Verzögerung um Verständnis.\n\nIch bin nach wie vor sehr an der ausgeschriebenen Position interessiert und freue mich __5__, mich persönlich bei Ihnen vorstellen zu dürfen.\n\n__6__ Sie weitere Unterlagen benötigen, stehe ich Ihnen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "damit"
+        },
+        {
+            "id": "b",
+            "content": "darauf"
+        },
+        {
+            "id": "c",
+            "content": "deshalb"
+        },
+        {
+            "id": "d",
+            "content": "Falls"
+        },
+        {
+            "id": "e",
+            "content": "hiermit"
+        },
+        {
+            "id": "f",
+            "content": "somit"
+        },
+        {
+            "id": "g",
+            "content": "um"
+        },
+        {
+            "id": "h",
+            "content": "Wenn"
+        },
+        {
+            "id": "i",
+            "content": "weshalb"
+        },
+        {
+            "id": "j",
+            "content": "worauf"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Rückfrage zu einem Stellenangebot",
+    "textinhalt": "Betreff: Rückfrage zu Ihrem Stellenangebot als Marketing Manager vom 15.03.\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für die Zusendung des Vertragsangebots für die Position als Marketing Manager, das ich heute erhalten habe. Ich habe mich sehr __1__ gefreut.\n\n__2__ ich das Angebot jedoch formell annehme, hätte ich noch zwei kurze Fragen zu den Details. Im Angebot ist als Starttermin der 1. Mai genannt. In unserem Gespräch hatten wir __3__ auch über einen möglichen späteren Start zum 15. Mai gesprochen, falls dies organisatorisch einfacher wäre.\n\nKönnten Sie bitte kurz bestätigen, __4__ dieser spätere Termin ebenfalls realisierbar ist? __5__ war im Gespräch die Rede von der Möglichkeit, teilweise im Homeoffice zu arbeiten. Diese Option finde ich im schriftlichen Angebot nicht wieder.\n\nIch wäre Ihnen dankbar, wenn Sie mir diese Punkte kurz erläutern könnten. __6__ diese Details geklärt sind, werde ich Ihnen meine definitive Zusage gerne umgehend mitteilen. Ich bin nach wie vor sehr an der Position interessiert.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "Bevor"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "dass"
+        },
+        {
+            "id": "e",
+            "content": "davon"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "Sobald"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "Während"
+        },
+        {
+            "id": "j",
+            "content": "Zudem"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
+        }
+    ]
+}

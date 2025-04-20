@@ -1,0 +1,72 @@
+{
+    "thema": "Email nach Jobzusage: Klärung von Details (Startdatum, Unterlagen)",
+    "textinhalt": "Betreff: Ihr Stellenangebot als Projektmanager vom 15.03.\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihr Schreiben vom 15. März und das damit verbundene Stellenangebot als Projektmanager. Ich habe mich sehr __1__ gefreut und nehme das Angebot gerne an.\n\nIch freue mich __2__ auf die Zusammenarbeit und die neuen Herausforderungen in Ihrem Team.\n\n__3__ ich den Arbeitsvertrag unterzeichne, hätte ich noch zwei kurze Fragen zur Klärung einiger Details. In unserem Gespräch hatten wir den 1. Mai als möglichen Starttermin erwähnt, im Angebotsschreiben steht __4__ der 15. Mai. Könnten Sie bitte kurz bestätigen, welches Datum nun verbindlich ist?\n\nAußerdem wüsste ich gerne, __5__ Unterlagen oder Nachweise ich Ihnen idealerweise vor meinem ersten Arbeitstag zukommen lassen soll.\n\nIch wäre Ihnen dankbar, __6__ Sie mir diese Informationen bei Gelegenheit zukommen lassen könnten.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "bereits"
+        },
+        {
+            "id": "b",
+            "content": "Bevor"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "davon"
+        },
+        {
+            "id": "e",
+            "content": "deshalb"
+        },
+        {
+            "id": "f",
+            "content": "gerne"
+        },
+        {
+            "id": "g",
+            "content": "jedoch"
+        },
+        {
+            "id": "h",
+            "content": "während"
+        },
+        {
+            "id": "i",
+            "content": "welche"
+        },
+        {
+            "id": "j",
+            "content": "wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "c"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

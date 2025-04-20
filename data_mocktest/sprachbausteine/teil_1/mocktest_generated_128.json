@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Zusendung der angefragten Projektunterlagen – Entschuldigung für die Verzögerung",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf unser Telefongespräch von letzter Woche, in dem Sie um die Übersendung der detaillierten Kostenaufstellung für das Projekt „Optimierung 2024“ gebeten haben.\n\nIch möchte mich aufrichtig dafür entschuldigen, dass Sie die Unterlagen __1__ noch nicht erhalten haben. __2__ einer unerwarteten Systemwartung in unserer Buchhaltung am Montag war es mir __3__ nicht möglich, die aktuellsten Zahlen zu exportieren.\n\nDas System läuft __4__ wieder stabil und ich werde Ihnen die vollständige Kostenaufstellung __5__ morgen Vormittag per E-Mail zukommen lassen. Ich hoffe sehr, diese kurze Verzögerung bereitet Ihnen keine größeren Schwierigkeiten.\n\n__6__ Sie in der Zwischenzeit Fragen haben, erreichen Sie mich gerne telefonisch.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "options": [
+        {
+            "id": "a",
+            "content": "Aufgrund"
+        },
+        {
+            "id": "b",
+            "content": "bisher"
+        },
+        {
+            "id": "c",
+            "content": "Dennoch"
+        },
+        {
+            "id": "d",
+            "content": "Falls"
+        },
+        {
+            "id": "e",
+            "content": "inzwischen"
+        },
+        {
+            "id": "f",
+            "content": "leider"
+        },
+        {
+            "id": "g",
+            "content": "Seitdem"
+        },
+        {
+            "id": "h",
+            "content": "spätestens"
+        },
+        {
+            "id": "i",
+            "content": "Wegen"
+        },
+        {
+            "id": "j",
+            "content": "Wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}

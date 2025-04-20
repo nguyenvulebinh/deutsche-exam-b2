@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Rücknahme meiner Bewerbung als Projektmanager, Kennziffer PM-123",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich __1__ meine Bewerbung für die Stelle als Projektmanager (Kennziffer PM-123), die ich Ihnen am 10. April zugesandt habe.\n\n__2__ möchte ich meine Bewerbung zurückziehen. Der Grund dafür ist, dass ich __3__ ein anderes Stellenangebot angenommen habe, das meinen beruflichen Zielen aktuell etwas besser entspricht.\n\nIch möchte mich __4__ herzlich für Ihr Interesse an meiner Bewerbung und die Zeit, die Sie sich bereits genommen haben, bedanken. Ihr Unternehmen macht einen sehr guten Eindruck, __5__ mir diese Entscheidung nicht leichtgefallen ist.\n\nIch bitte um Verständnis für meine Situation und wünsche Ihnen viel Erfolg __6__ der weiteren Kandidatensuche.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "options": [
+        {
+            "id": "a",
+            "content": "an"
+        },
+        {
+            "id": "b",
+            "content": "auf"
+        },
+        {
+            "id": "c",
+            "content": "bei"
+        },
+        {
+            "id": "d",
+            "content": "Deswegen"
+        },
+        {
+            "id": "e",
+            "content": "für"
+        },
+        {
+            "id": "f",
+            "content": "Hiermit"
+        },
+        {
+            "id": "g",
+            "content": "inzwischen"
+        },
+        {
+            "id": "h",
+            "content": "seitdem"
+        },
+        {
+            "id": "i",
+            "content": "trotzdem"
+        },
+        {
+            "id": "j",
+            "content": "weshalb"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

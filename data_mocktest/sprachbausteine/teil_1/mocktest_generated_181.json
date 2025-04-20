@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Rückfrage nach Gespräch am 10. April / Stelle als Projektmanager",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nich möchte mich nochmals herzlich für das angenehme Vorstellungsgespräch am 10. April bedanken. Über Ihre positive Rückmeldung __1__ am Telefon habe ich mich sehr gefreut.\n\nMein guter Eindruck von der Position und Ihrem Unternehmen hat sich dadurch bestätigt. Bevor die Vertragsunterlagen erstellt werden, hätte ich noch eine kurze Nachfrage __2__ des möglichen Startdatums. Sie erwähnten, dass der Einstieg flexibel sei. Könnten Sie __3__ schon absehen, welcher Termin nun konkret vorgesehen ist?\n\nDiese Information wäre für meine weitere Planung sehr hilfreich, __4__ da ich meine Kündigungsfrist bei meinem aktuellen Arbeitgeber einhalten muss.\n\nIch möchte betonen, dass ich __5__ sehr an der Stelle interessiert bin und mich __6__ freue, bald die nächsten Schritte zu erfahren.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nAnna Klein",
+    "options": [
+        {
+            "id": "a",
+            "content": "anschließend"
+        },
+        {
+            "id": "b",
+            "content": "darauf"
+        },
+        {
+            "id": "c",
+            "content": "danach"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "hinsichtlich"
+        },
+        {
+            "id": "f",
+            "content": "insbesondere"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "vielleicht"
+        },
+        {
+            "id": "i",
+            "content": "weiterhin"
+        },
+        {
+            "id": "j",
+            "content": "bezüglich"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "a"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
+        }
+    ]
+}

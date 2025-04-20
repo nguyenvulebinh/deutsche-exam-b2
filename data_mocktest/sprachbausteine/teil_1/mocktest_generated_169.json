@@ -1,0 +1,72 @@
+{
+    "thema": "Email clarifying details mentioned in a job offer",
+    "textinhalt": "Betreff: Rückfragen zu Ihrem Vertragsangebot vom 15.07. für die Position als Projektmanager\n\nSehr geehrte Frau Meyer,\n\nvielen Dank für das Vertragsangebot für die Position als Projektmanager, das ich gestern erhalten habe. Ich habe mich sehr __1__ gefreut.\n\n__2__ ich das Angebot formell annehme, hätte ich noch zwei kurze Fragen zu den Vertragsdetails. Erstens, bezüglich des genannten Startdatums, dem 1. August: Wäre es __3__ möglich, erst am 15. August zu beginnen, __4__ ich meine dreimonatige Kündigungsfrist bei meinem aktuellen Arbeitgeber einhalten muss?\n\nZweitens, im Angebot wird eine \"leistungsorientierte Prämie\" erwähnt. Könnten Sie __5__ genauer erläutern, __6__ genau die Auszahlung dieser Prämie geknüpft ist?\n\nIch bin weiterhin sehr an der Position interessiert und hoffe auf eine baldige Klärung dieser Punkte.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "options": [
+        {
+            "id": "a",
+            "content": "Bevor"
+        },
+        {
+            "id": "b",
+            "content": "bitte"
+        },
+        {
+            "id": "c",
+            "content": "da"
+        },
+        {
+            "id": "d",
+            "content": "damit"
+        },
+        {
+            "id": "e",
+            "content": "darüber"
+        },
+        {
+            "id": "f",
+            "content": "eventuell"
+        },
+        {
+            "id": "g",
+            "content": "gerne"
+        },
+        {
+            "id": "h",
+            "content": "obwohl"
+        },
+        {
+            "id": "i",
+            "content": "vielleicht"
+        },
+        {
+            "id": "j",
+            "content": "woran"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Anfrage zu Teilnahmebedingungen für eine Konferenz",
+    "textinhalt": "Betreff: Anfrage: Teilnahmebedingungen Konferenz „Digital Future 2024“\n\nSehr geehrte Damen und Herren,\n\nwir sind __1__ auf Ihre Fachkonferenz „Digital Future 2024“ aufmerksam geworden und prüfen derzeit eine Teilnahme unseres Unternehmens.\n\n__2__ wir uns jedoch final entscheiden und anmelden, hätten wir noch einige Fragen zu den Konditionen. Uns würde interessieren, __3__ es einen Frühbucherrabatt gibt und bis wann dieser gültig ist. Könnten Sie uns __4__ Informationen zu den Kosten für einen kleinen Ausstellungsstand zukommen lassen?\n\n__5__ diese Informationen für unsere interne Budgetplanung wichtig sind, wären wir Ihnen für eine baldige Rückmeldung dankbar.\n\nVielen Dank __6__ Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nMarketing Abteilung\nBeispiel GmbH",
+    "options": [
+        {
+            "id": "a",
+            "content": "außerdem"
+        },
+        {
+            "id": "b",
+            "content": "bevor"
+        },
+        {
+            "id": "c",
+            "content": "da"
+        },
+        {
+            "id": "d",
+            "content": "deshalb"
+        },
+        {
+            "id": "e",
+            "content": "im"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "online"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "während"
+        },
+        {
+            "id": "j",
+            "content": "zusätzlich"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "g"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

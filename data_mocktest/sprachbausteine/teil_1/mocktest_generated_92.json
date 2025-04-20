@@ -1,0 +1,72 @@
+{
+    "thema": "Rückfrage zu Details nach Vorstellungsgespräch (Gleitzeit/Homeoffice)",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich möchte mich nochmals herzlich für das informative Vorstellungsgespräch am [Datum] bedanken. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen verstärkt und mein Interesse an der Position als [Job Title] weiter gefestigt.\n\nWährend unseres Gesprächs erwähnten Sie die Möglichkeit von flexiblen Arbeitszeiten (Gleitzeit) und gelegentlichem Homeoffice. __1__ dies für meine persönliche Planung relevant ist, hätte ich __2__ noch eine kurze Nachfrage. Könnten Sie bitte präzisieren, __3__ welchen Bedingungen Homeoffice möglich ist und wie die Kernarbeitszeiten im Rahmen der Gleitzeitregelung üblicherweise gehandhabt werden?\n\nIch verstehe, dass __4__ Details möglicherweise erst später final geklärt werden, __5__ wäre eine erste Einschätzung für mich sehr hilfreich.\n\nVielen Dank im Voraus für Ihre Mühe. Ich freue mich __6__, bald wieder von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "darüber"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "mit"
+        },
+        {
+            "id": "d",
+            "content": "unter"
+        },
+        {
+            "id": "e",
+            "content": "darauf"
+        },
+        {
+            "id": "f",
+            "content": "solche"
+        },
+        {
+            "id": "g",
+            "content": "deswegen"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "Weil"
+        },
+        {
+            "id": "j",
+            "content": "dazu"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "b"
+        },
+        {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Nachfassung zum Vorstellungsgespräch am [Datum] – Stelle als [Position]",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nich möchte mich nochmals herzlich für das angenehme und informative Vorstellungsgespräch am [Datum] für die Position als [Position] bedanken. Das Gespräch hat meinen positiven Eindruck von [Unternehmen] sowie mein Interesse an der ausgeschriebenen Stelle bestärkt.\n\nIn unserem Gespräch erwähnten wir kurz meinen frühestmöglichen Eintrittstermin. __1__ habe ich dabei versäumt, das genaue Datum zu nennen. __2__ diese Information für Ihre weitere Planung wichtig sein könnte, möchte ich dies hiermit nachholen: Ich stehe Ihnen aufgrund meiner aktuellen Kündigungsfrist ab dem [Datum] zur Verfügung.\n\nIch bin __3__ davon überzeugt, dass meine Qualifikationen und meine bisherigen Erfahrungen sehr gut zu den Anforderungen Ihrer Stelle passen. __4__ möchte ich mein großes Interesse an einer Zusammenarbeit erneut bekräftigen.\n\nIch freue mich __5__ eine positive Rückmeldung von Ihnen. __6__ Sie in der Zwischenzeit weitere Fragen haben oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank und mit freundlichen Grüßen\n\n[Ihr Name]",
+    "options": [
+        {
+            "id": "a",
+            "content": "auf"
+        },
+        {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "Falls"
+        },
+        {
+            "id": "d",
+            "content": "Hiermit"
+        },
+        {
+            "id": "e",
+            "content": "Leider"
+        },
+        {
+            "id": "f",
+            "content": "Obwohl"
+        },
+        {
+            "id": "g",
+            "content": "über"
+        },
+        {
+            "id": "h",
+            "content": "weiterhin"
+        },
+        {
+            "id": "i",
+            "content": "Weil"
+        },
+        {
+            "id": "j",
+            "content": "Wenn"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "e"
+        },
+        {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
+        }
+    ]
+}

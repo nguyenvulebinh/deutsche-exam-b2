@@ -104,11 +104,16 @@ class Teil2Part extends BasePart {
         
         // Display text content
         if (container.textContent) {
-            // Use the engine's formatText method to properly render markdown
+            // Use the engine's formatText method to properly render markdown and clean up newlines
             if (typeof this.engine.formatText === 'function') {
+                // The formatText method already handles newline cleanup
                 container.textContent.innerHTML = this.engine.formatText(test.text || '');
             } else {
-                container.textContent.textContent = test.text || '';
+                // Fallback to simple text display
+                // Clean up newlines first
+                const cleanedText = (test.text || '').replace(/\n{3,}/g, '\n\n')  // Convert 3+ newlines to 2
+                                                   .replace(/([^\n])\n([^\n])/g, '$1 $2');  // Replace single newlines with spaces
+                container.textContent.textContent = cleanedText;
             }
         }
         

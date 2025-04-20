@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Ihr Vertragsangebot Projektassistenz vom 15.07.",
+    "textinhalt": "Sehr geehrte Frau Becker,\n\nvielen Dank für die Zusendung des Vertragsangebots für die Position als Projektassistenz vom 15.07. Ich habe mich sehr darüber gefreut und das Angebot sorgfältig geprüft.\n\nIch bin __1__ sehr an der Position interessiert. __2__ hätte ich eine kurze Frage zum Starttermin: Im Angebot ist der 1. August genannt. Wäre es __3__ möglich, erst am 15. August zu beginnen, __4__ ich meine aktuelle Tätigkeit ordnungsgemäß übergeben möchte?\n\nDes Weiteren wird im Angebot die Mitarbeit an \"internationalen Projekten\" erwähnt. Könnten Sie mir __5__ noch ein paar mehr Details __6__ nennen, um welche Art von Projekten es sich konkret handelt?\n\nIch bin nach wie vor sehr motiviert und freue mich auf die Möglichkeit, Ihr Team zu verstärken. Über eine kurze Rückmeldung zu meinen Fragen würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMaria Rossi",
+    "options": [
+        {
+            "id": "a",
+            "content": "allerdings"
+        },
+        {
+            "id": "b",
+            "content": "da"
+        },
+        {
+            "id": "c",
+            "content": "darüber"
+        },
+        {
+            "id": "d",
+            "content": "dazu"
+        },
+        {
+            "id": "e",
+            "content": "deshalb"
+        },
+        {
+            "id": "f",
+            "content": "eventuell"
+        },
+        {
+            "id": "g",
+            "content": "gegebenenfalls"
+        },
+        {
+            "id": "h",
+            "content": "grundsätzlich"
+        },
+        {
+            "id": "i",
+            "content": "obwohl"
+        },
+        {
+            "id": "j",
+            "content": "sicherlich"
+        }
+    ],
+    "loesung": [
+        {
+            "blank": "1",
+            "option_id": "h"
+        },
+        {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
+        }
+    ]
+}
