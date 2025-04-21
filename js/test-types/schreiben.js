@@ -195,7 +195,11 @@ class Schreiben extends TestEngine {
                     .replace(/>\n>/g, '>\n>\n>') // Fix blockquote spacing
                     .replace(/\n{3,}/g, '\n\n'); // Remove excessive line breaks
                     
-                return window.marked.parse(fixedText);
+                // Convert the markdown to HTML
+                const html = window.marked.parse(fixedText);
+                
+                // Add a class to list items for better mobile styling
+                return html.replace(/<li>/g, '<li class="guidance-list-item">');
             } catch (error) {
                 console.error('Error parsing markdown:', error);
                 return text;
@@ -286,6 +290,12 @@ class Schreiben extends TestEngine {
         // Show the guidance container
         if (this.elements.guidanceContainer) {
             this.elements.guidanceContainer.style.display = 'block';
+            
+            // Add a subtle highlight animation to draw attention
+            this.elements.guidanceContainer.style.animation = 'none';
+            setTimeout(() => {
+                this.elements.guidanceContainer.style.animation = 'highlight-guidance 1s ease-in-out';
+            }, 10);
         }
         
         // Update the guidance content
@@ -298,8 +308,13 @@ class Schreiben extends TestEngine {
             
             this.elements.guidanceContent.innerHTML = this.formatText(contentWithTitle);
             
-            // Scroll to the guidance container
-            this.elements.guidanceContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            // Scroll to the guidance container with a small delay for smoother experience
+            setTimeout(() => {
+                this.elements.guidanceContainer.scrollIntoView({ 
+                    behavior: 'smooth', 
+                    block: 'start' 
+                });
+            }, 50);
         }
         
         // Update active button state
@@ -339,7 +354,7 @@ class Schreiben extends TestEngine {
                     Utils.showElement(this.elements.results);
                 }
                 
-                // Show level 3 guidance (sample solution) when finish is clicked
+                // Show level 1 guidance (tips) when finish is clicked
                 this.showGuidanceLevel(1);
                 
                 // Show the new test button

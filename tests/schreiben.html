@@ -100,15 +100,20 @@
             margin-bottom: 20px;
             border: 1px solid #ddd;
             display: none;
+            width: 100%;
+            box-sizing: border-box;
         }
         
         .guidance-header {
             display: flex;
+            flex-direction: row;
             justify-content: space-between;
             align-items: center;
             margin-bottom: 15px;
             padding-bottom: 10px;
             border-bottom: 1px solid #ddd;
+            flex-wrap: wrap;
+            gap: 10px;
         }
         
         .guidance-title {
@@ -120,6 +125,7 @@
         .guidance-buttons {
             display: flex;
             gap: 8px;
+            flex-wrap: wrap;
         }
         
         .guidance-level-btn {
@@ -130,6 +136,7 @@
             border-radius: 4px;
             cursor: pointer;
             transition: all 0.2s;
+            font-size: 14px;
         }
         
         .guidance-level-btn.active {
@@ -143,20 +150,27 @@
         
         .guidance-content {
             line-height: 1.6;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+            hyphens: auto;
         }
         
         /* Buttons styles */
         .buttons {
             margin: 20px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
         }
         
         button {
             padding: 10px 20px;
-            margin-right: 10px;
             border: none;
             border-radius: 4px;
             cursor: pointer;
             font-size: 16px;
+            min-width: 120px;
         }
         
         #finish-btn {
@@ -205,6 +219,11 @@
             margin-bottom: 0.5em;
         }
         
+        .guidance-content .guidance-list-item {
+            text-indent: -0.5em;
+            padding-left: 0.5em;
+        }
+        
         .guidance-content strong, .guidance-content b {
             font-weight: 600;
             color: #222;
@@ -247,6 +266,83 @@
             margin-top: 20px;
             border: 1px solid #ddd;
             text-align: left;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        
+        /* Mobile adjustments */
+        @media (max-width: 768px) {
+            .guidance-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .guidance-buttons {
+                width: 100%;
+                justify-content: space-between;
+                margin-top: 10px;
+            }
+            
+            .guidance-level-btn {
+                flex: 1;
+                text-align: center;
+                font-size: 12px;
+                padding: 8px 5px;
+                white-space: nowrap;
+            }
+            
+            .task-container, 
+            .writing-container, 
+            .guidance-container, 
+            .results {
+                padding: 15px;
+            }
+            
+            .guidance-content {
+                font-size: 15px;
+            }
+            
+            .guidance-content h3 {
+                font-size: 1.1em;
+            }
+            
+            .guidance-content blockquote {
+                padding: 8px 10px;
+            }
+            
+            .guidance-content ul, 
+            .guidance-content ol {
+                margin-left: 1em;
+                padding-left: 0;
+            }
+            
+            .guidance-content li {
+                margin-bottom: 0.5em;
+                margin-left: 0;
+                padding-left: 0.5em;
+            }
+            
+            .guidance-content .guidance-list-item {
+                text-indent: -0.5em;
+                padding-left: 0.5em;
+                list-style-position: inside;
+            }
+        }
+        
+        /* Animation for guidance highlight */
+        @keyframes highlight-guidance {
+            0% {
+                background-color: #fff;
+                border-color: #ddd;
+            }
+            50% {
+                background-color: #f0f7ff;
+                border-color: #b8daff;
+            }
+            100% {
+                background-color: #fff;
+                border-color: #ddd;
+            }
         }
         
         /* Hide loading by default once page has loaded */
@@ -290,9 +386,9 @@
                 <div class="guidance-header">
                     <div class="guidance-title">Hilfestellung</div>
                     <div class="guidance-buttons">
-                        <button class="guidance-level-btn" data-level="1">Stufe 1: Grundlegende Tipps</button>
-                        <button class="guidance-level-btn" data-level="2">Stufe 2: Detaillierte Hilfe</button>
-                        <button class="guidance-level-btn" data-level="3">Stufe 3: Musterlösung</button>
+                        <button class="guidance-level-btn" data-level="1">Stufe 1: Tipps</button>
+                        <button class="guidance-level-btn" data-level="2">Stufe 2: Anleitung</button>
+                        <button class="guidance-level-btn" data-level="3">Stufe 3: Beispiel</button>
                     </div>
                 </div>
                 <div id="guidance-content" class="guidance-content"></div>
@@ -345,4 +441,4 @@
         });
     </script>
 </body>
-</html> 
+</html>

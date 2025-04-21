@@ -331,15 +331,128 @@
         /* Make buttons more responsive on smaller screens */
         @media (max-width: 768px) {
             .checklist-status {
-                flex-direction: column;
-                align-items: center;
+                flex-direction: row;
+                justify-content: space-between;
+                width: 100%;
                 gap: 4px;
             }
             
             .status-button {
-                width: 100%;
+                flex: 1;
                 padding: 6px 4px;
-                font-size: 0.75em;
+                font-size: 0.7em;
+                margin: 0 2px;
+                white-space: normal;
+                height: auto;
+                min-height: 40px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+            }
+            
+            /* Enhanced mobile responsiveness for checklist table */
+            .checklist {
+                padding: 15px 10px;
+            }
+            
+            .checklist-instructions {
+                font-size: 0.85em;
+                padding: 6px 8px;
+            }
+            
+            /* Make the table responsive */
+            .checklist-table {
+                display: block;
+                width: 100%;
+                border-collapse: separate;
+                border-spacing: 0 10px;
+            }
+            
+            .checklist-table-header {
+                display: none; /* Hide table headers on mobile */
+            }
+            
+            .checklist-table tbody {
+                display: block;
+                width: 100%;
+            }
+            
+            .checklist-item {
+                display: block;
+                margin-bottom: 15px;
+                padding: 10px;
+                border: 1px solid #dee2e6;
+                border-radius: 5px;
+                box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+                background-color: #fff;
+            }
+            
+            .checklist-item td {
+                display: block;
+                width: 100%;
+                padding: 8px 5px;
+                text-align: left;
+                border: none;
+            }
+            
+            .checklist-item-text {
+                padding-right: 0;
+                margin-bottom: 8px;
+                font-weight: bold;
+                border-bottom: 1px dashed #dee2e6;
+                padding-bottom: 8px;
+            }
+            
+            .checklist-item td.checklist-item-text::before {
+                content: "Aufgabe: ";
+                font-weight: normal;
+                color: #6c757d;
+            }
+            
+            .checklist-status {
+                width: 100%;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+            
+            /* Adjust font sizes for better readability on small screens */
+            .checklist h3 {
+                font-size: 1.1em;
+            }
+            
+            .checklist-score {
+                font-size: 0.9em;
+                text-align: center;
+                padding: 12px 8px;
+                margin-top: 20px;
+                line-height: 1.5;
+            }
+            
+            /* Add more space around elements for touch targets */
+            .writing-container, .question, .email-container {
+                padding: 15px 12px;
+            }
+            
+            /* Make sure buttons are easy to tap */
+            .buttons button {
+                min-height: 44px;
+                padding: 10px 15px;
+            }
+        }
+        
+        /* For very small screens, stack buttons again */
+        @media (max-width: 350px) {
+            .checklist-status {
+                flex-direction: column;
+                gap: 6px;
+            }
+            
+            .status-button {
+                width: 100%;
+                padding: 8px 4px;
+                font-size: 0.8em;
+                min-height: 0;
             }
         }
     </style>
