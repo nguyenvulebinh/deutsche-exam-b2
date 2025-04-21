@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M5TDXH7RX5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-M5TDXH7RX5');
+    </script>
+    <title>TELC B2 - Schreiben</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .back-button {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 8px 15px;
+            background-color: #6c757d;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        .back-button:hover {
+            background-color: #5a6268;
+        }
+        
+        /* Task container styles */
+        .task-container {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+        }
+        
+        .thema-title {
+            font-weight: bold;
+            font-size: 1.3em;
+            margin-bottom: 15px;
+            color: #343a40;
+        }
+        
+        .aufgabe-content {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        
+        /* Writing area styles */
+        .writing-container {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        
+        .writing-area {
+            width: 100%;
+            min-height: 300px;
+            padding: 18px 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            font-family: 'Georgia', 'Times New Roman', serif;
+            font-size: 18px;
+            line-height: 1.8;
+            resize: vertical;
+            background-color: #fcfcfc;
+            color: #333;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+            transition: border-color 0.3s, box-shadow 0.3s;
+            letter-spacing: 0.01em;
+            box-sizing: border-box;
+        }
+        
+        .writing-area:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.1), 0 0 8px rgba(0,123,255,0.25);
+            background-color: #ffffff;
+        }
+        
+        .writing-area::placeholder {
+            color: #aaa;
+            font-style: italic;
+            font-family: 'Georgia', 'Times New Roman', serif;
+        }
+        
+        /* Guidance area styles */
+        .guidance-container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            display: none;
+        }
+        
+        .guidance-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .guidance-title {
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #343a40;
+        }
+        
+        .guidance-buttons {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .guidance-level-btn {
+            padding: 6px 12px;
+            border: 1px solid #007bff;
+            background-color: #f8f9fa;
+            color: #007bff;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .guidance-level-btn.active {
+            background-color: #007bff;
+            color: white;
+        }
+        
+        .guidance-level-btn:hover:not(.active) {
+            background-color: #e9ecef;
+        }
+        
+        .guidance-content {
+            line-height: 1.6;
+        }
+        
+        /* Buttons styles */
+        .buttons {
+            margin: 20px 0;
+        }
+        
+        button {
+            padding: 10px 20px;
+            margin-right: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        #finish-btn {
+            background-color: #007bff;
+            color: white;
+        }
+        
+        #finish-btn:hover {
+            background-color: #0069d9;
+        }
+        
+        #new-test-btn {
+            background-color: #28a745;
+            color: white;
+        }
+        
+        #new-test-btn:hover {
+            background-color: #218838;
+        }
+        
+        /* Markdown styles for guidance content */
+        .guidance-content h1, .guidance-content h2, .guidance-content h3 {
+            color: #2c3e50;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        
+        .guidance-content h3 {
+            color: #34495e;
+            font-size: 1.3em;
+            border-bottom: none;
+        }
+        
+        .guidance-content p {
+            margin-bottom: 1em;
+        }
+        
+        .guidance-content ul, .guidance-content ol {
+            margin-left: 1.5em;
+            margin-bottom: 1em;
+        }
+        
+        .guidance-content li {
+            margin-bottom: 0.5em;
+        }
+        
+        .guidance-content strong, .guidance-content b {
+            font-weight: 600;
+            color: #222;
+        }
+        
+        .guidance-content em, .guidance-content i {
+            font-style: italic;
+        }
+        
+        .guidance-content blockquote {
+            border-left: 4px solid #ddd;
+            padding: 10px 15px;
+            margin: 0 0 1em 0;
+            background-color: #f8f9fa;
+            color: #495057;
+        }
+        
+        .guidance-content a {
+            color: #3498db;
+            text-decoration: underline;
+        }
+        
+        .guidance-content a:hover {
+            color: #2980b9;
+        }
+        
+        .guidance-content code {
+            font-family: monospace;
+            background-color: #f8f9fa;
+            padding: 2px 4px;
+            border-radius: 3px;
+            color: #e83e8c;
+        }
+        
+        /* Results section styles */
+        .results {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        
+        /* Hide loading by default once page has loaded */
+        #loading.loaded {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>TELC B2 - Schreiben</h1>
+        <a href="../index.html" class="back-button">← Zurück zur Testauswahl</a>
+    </div>
+    
+    <div id="loading" class="loading">
+        Test wird geladen...
+    </div>
+    
+    <div id="test-content" class="hidden">
+        <div class="instructions" id="instructions">In Ihrer Firma können sich alle Mitarbeiterinnen und Mitarbeiter in einem Forum miteinander über Neuigkeiten austauschen. Begründen Sie Ihre Meinung und nennen Sie passende Beispiele. Gliedern Sie Ihren Text in sinnvolle Abschnitte.</div>
+        
+        <div class="task-container">
+            <div class="thema-title" id="thema"></div>
+            <div class="aufgabe-content" id="aufgabe"></div>
+        </div>
+        
+        <div class="writing-container">
+            <textarea id="writing-area" class="writing-area" placeholder="Schreiben Sie Ihren Forumsbeitrag hier..."></textarea>
+        </div>
+        
+        <div class="buttons">
+            <button id="finish-btn">Fertig</button>
+            <button id="new-test-btn" class="hidden">Neuer Test</button>
+        </div>
+        
+        <div id="results" class="results hidden">
+            <h2>Hilfe und Musterlösung</h2>
+            <p>Sie können verschiedene Hilfestellungen anzeigen, um Ihre Lösung zu vergleichen oder Ratschläge zur Aufgabenbearbeitung zu erhalten.</p>
+            
+            <div id="guidance-container" class="guidance-container">
+                <div class="guidance-header">
+                    <div class="guidance-title">Hilfestellung</div>
+                    <div class="guidance-buttons">
+                        <button class="guidance-level-btn" data-level="1">Stufe 1: Grundlegende Tipps</button>
+                        <button class="guidance-level-btn" data-level="2">Stufe 2: Detaillierte Hilfe</button>
+                        <button class="guidance-level-btn" data-level="3">Stufe 3: Musterlösung</button>
+                    </div>
+                </div>
+                <div id="guidance-content" class="guidance-content"></div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>TELC B2 Test Übungsplattform | contact: <a href="mailto:nguyenvulebinh@gmail.com">nguyenbinh</a></p>
+    </footer>
+    
+    <!-- Include Marked.js for markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Import JavaScript modules -->
+    <script type="module">
+        // Set the test type parameter for the app.js module
+        window.testType = 'schreiben';
+        
+        // Add cache-busting to force browser to load fresh JavaScript
+        const timestamp = Date.now();
+        
+        // Configure marked.js options
+        if (window.marked) {
+            window.marked.setOptions({
+                breaks: true,  // Add line breaks on single line breaks
+                gfm: true,     // Enable GitHub Flavored Markdown
+                headerIds: false, // Disable header IDs for cleaner look
+                mangle: false  // Disable escaping for header IDs
+            });
+        }
+        
+        // Import modules directly with cache-busting
+        import(`../js/core/utils.js?v=${timestamp}`).then(utilsModule => {
+            window.Utils = utilsModule.default;
+            
+            import(`../js/core/test-engine.js?v=${timestamp}`).then(engineModule => {
+                window.TestEngine = engineModule.default;
+                
+                import(`../js/test-types/schreiben.js?v=${timestamp}`).then(schreibenModule => {
+                    window.Schreiben = schreibenModule.default;
+                    
+                    // Initialize the test
+                    const testEngine = new window.Schreiben();
+                    testEngine.initialize().catch(error => {
+                        console.error('Error initializing test engine:', error);
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html> 
