@@ -1,46 +1,46 @@
 {
-    "thema": "Email: Bitte um Verschiebung eines Vorstellungsgesprächs",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch – Max Mustermann\n\nSehr geehrte Frau Schmidt,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am kommenden Dienstag, den 15. Oktober, um 10:00 Uhr. Ich habe mich sehr __1__ gefreut und bestätige weiterhin mein großes Interesse an der Position als Projektmanager.\n\n__2__ muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin nicht wahrnehmen kann, __3__ ich an diesem Tag einen lange im Voraus geplanten, unaufschiebbaren Arzttermin habe, den ich nicht verschieben kann.\n\nIch wäre Ihnen __4__ sehr dankbar, wenn wir einen alternativen Termin finden könnten. Ich möchte Sie fragen, __5__ ein Gespräch zum Beispiel in der darauffolgenden Woche möglich wäre? __6__ bin ich, abgesehen von diesem einen Vormittag, zeitlich relativ flexibel und richte mich gerne nach Ihren Vorschlägen.\n\nIch bitte um Ihr Verständnis und freue mich auf Ihre positive Rückmeldung.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer: MM-45B)",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager (Kennziffer: MM-45B), die ich Ihnen am 25. April zugesandt habe. Vielen Dank nochmals für die Eingangsbestätigung, die ich kurz __1__ erhalten habe.\n\n__2__ nun einige Wochen vergangen sind, seitdem der Bewerbungsschluss war, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, wann voraussichtlich mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist?\n\nIch bin __4__ sehr an dieser verantwortungsvollen Aufgabe in Ihrem Unternehmen interessiert und davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen der Stelle passen.\n\n__5__ die Stelle meinen beruflichen Zielen und Wünschen entspricht, wäre ich Ihnen für eine baldige Rückmeldung dankbar.\n\nFür Rückfragen stehe ich Ihnen __6__ telefonisch oder per E-Mail zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Ansonsten"
+            "content": "besonders"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "Da"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "daraufhin"
         },
         {
             "id": "d",
-            "content": "davon"
+            "content": "endlich"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "eventuell"
         },
         {
             "id": "f",
-            "content": "Leider"
+            "content": "jederzeit"
         },
         {
             "id": "g",
-            "content": "ob"
-        },
-        {
-            "id": "h",
             "content": "obwohl"
         },
         {
+            "id": "h",
+            "content": "sofort"
+        },
+        {
             "id": "i",
-            "content": "trotzdem"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "zuvor"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
             "option_id": "b"
         },
         {
-            "blank": "4",
+            "blank": "3",
             "option_id": "e"
         },
         {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "f"
         }
     ]
 }

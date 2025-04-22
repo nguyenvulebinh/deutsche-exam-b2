@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihr Vertragsangebot vom 15.07. - Marketing Manager / Rückfrage zum Eintrittsdatum",
-    "textinhalt": "Sehr geehrte Frau Meier,\n\nvielen Dank für Ihr Vertragsangebot für die Position als Marketing Manager und das damit verbundene Vertrauen. Ich habe mich sehr __1__ gefreut.\n\nGerne möchte ich das Angebot annehmen. __2__ ich den Vertrag unterschreibe, hätte ich jedoch eine kurze Frage zum Eintrittsdatum. Im Angebot ist der 1. September genannt, __3__ im Gespräch erwähnten Sie, dass ein Start eventuell auch Mitte September möglich wäre, __4__ dies für mich besser passen würde.\n\n__5__ mein aktuelles Projekt vertragsgemäß erst am 10. September endet, wäre ein Beginn am 16. September für mich ideal. Wäre dies Ihrerseits realisierbar?\n\nKönnten Sie mir __6__ kurz mitteilen, wie die Einarbeitung in den ersten Wochen üblicherweise abläuft?\n\nIch freue mich auf Ihre positive Rückmeldung und sende Ihnen den unterzeichneten Vertrag dann zeitnah zu.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 20. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\n__1__ meine Bewerbung als Marketingassistent vom 20. April dieses Jahres möchte ich mich kurz bei Ihnen melden.\n\nDa ich __2__ keine offizielle Rückmeldung zum Stand meiner Bewerbung erhalten habe, wollte ich mich auf diesem Weg höflich __3__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __4__ sehr an der ausgeschriebenen Position interessiert und davon überzeugt, dass meine Qualifikationen und meine Motivation gut zu den Anforderungen passen würden.\n\nKönnten Sie mir __5__ mitteilen, ob bereits eine engere Auswahl getroffen wurde oder wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nSollten Sie in der Zwischenzeit __6__ Informationen oder Unterlagen von mir benötigen, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ABER"
+            "content": "über"
         },
         {
             "id": "b",
-            "content": "AUF"
+            "content": "nach wie vor"
         },
         {
             "id": "c",
-            "content": "AUSSERDEM"
+            "content": "auf"
         },
         {
             "id": "d",
-            "content": "BEVOR"
+            "content": "eventuell"
         },
         {
             "id": "e",
-            "content": "DA"
+            "content": "trotzdem"
         },
         {
             "id": "f",
-            "content": "DARÜBER"
+            "content": "weitere"
         },
         {
             "id": "g",
-            "content": "FALLS"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "OBWOHL"
+            "content": "bisher"
         },
         {
             "id": "i",
-            "content": "TROTZDEM"
+            "content": "nach"
         },
         {
             "id": "j",
-            "content": "WENN"
+            "content": "bezüglich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "h"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "i"
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "f"
         }
     ]
 }

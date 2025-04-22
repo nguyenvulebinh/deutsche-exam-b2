@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihr Stellenangebot als Projektmanager (Ref: PM-123) – Klärung Eintrittstermin",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für Ihr Stellenangebot vom 15. Juli für die Position als Projektmanager und das damit entgegengebrachte Vertrauen. Ich habe mich über die Zusage sehr gefreut und möchte die Stelle gerne annehmen.\n\n__1__ bin ich mir bezüglich des genauen Eintrittstermins noch unsicher. In Ihrem Schreiben erwähnen Sie den 1. September, __2__ im vorherigen Telefonat mit Herrn Bauer war vom 15. September die Rede.\n\n__3__ ich meinen aktuellen Arbeitsvertrag fristgerecht kündigen muss, ist eine eindeutige Klärung für meine Planung sehr wichtig. Könnten Sie mir __4__ kurz bestätigen, welches Datum nun verbindlich ist?\n\nIch freue mich bereits __5__ auf die Zusammenarbeit und die neuen Aufgaben in Ihrem Team. Für Ihre baldige Rückmeldung __6__ ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Ref.-Nr. PM-123)",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich __1__ meine Bewerbung für die Stelle als Projektmanager (Ref.-Nr. PM-123), die ich Ihnen am 20. April zugesandt habe.\n\nDa seitdem bereits einige Zeit vergangen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\nIch bin nach __2__ vor sehr an dieser Position interessiert, da die Aufgabenbeschreibung und die Entwicklungsmöglichkeiten in Ihrem Unternehmen mich besonders ansprechen.\n\n__3__ meiner langjährigen Erfahrung im Projektmanagement, insbesondere im Bereich IT-Projekte, bin ich überzeugt, die Anforderungen der Stelle gut erfüllen zu können.\n\nKönnten Sie mir __4__ mitteilen, wann etwa mit einer Entscheidung oder weiteren Schritten im Bewerbungsprozess zu rechnen ist?\n\nIch möchte __5__ betonen, dass mein Interesse an einer Zusammenarbeit weiterhin groß ist.\nSelbstverständlich stehe ich Ihnen für Rückfragen __6__ zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "Aufgrund"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "eventuell"
         },
         {
             "id": "c",
-            "content": "darauf"
+            "content": "wie"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "über"
         },
         {
             "id": "e",
-            "content": "freundlicherweise"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "auf"
         },
         {
             "id": "g",
-            "content": "sehr"
+            "content": "Trotz"
         },
         {
             "id": "h",
-            "content": "während"
+            "content": "jederzeit"
         },
         {
             "id": "i",
-            "content": "wäre"
+            "content": "nochmals"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "so"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
-            "option_id": "e"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
             "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
         }
     ]
 }

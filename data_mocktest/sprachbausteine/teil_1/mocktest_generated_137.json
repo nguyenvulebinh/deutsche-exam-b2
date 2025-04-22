@@ -1,72 +1,72 @@
 {
-    "thema": "Klarstellung von Details in einem Jobangebot (Eintrittsdatum/Einarbeitung)",
-    "textinhalt": "Betreff: Ihre Zusage für die Stelle als Marketingassistent/in vom [Datum]\n\nSehr geehrte Frau Schneider,\n\nvielen herzlichen Dank für Ihre Zusage für die Stelle als Marketingassistent/in und das damit verbundene Vertrauen. Ich habe mich sehr __1__ gefreut.\n\n__2__ hätte ich noch zwei kurze Fragen zum Arbeitsvertrag, bevor ich ihn unterschrieben zurücksende.\n\nIm Angebot steht als Eintrittsdatum der 1. August. __3__ ich mich aktuell noch in einem befristeten Projekt befinde, das erst am 15. August endet, wollte ich fragen, __4__ ein späterer Einstieg, beispielsweise zum 1. September, ebenfalls möglich wäre.\n\nZudem erwähnen Sie eine strukturierte Einarbeitungsphase. Könnten Sie mir vielleicht kurz erläutern, __5__ diese Phase genau abläuft und wie lange sie dauert?\n\nIch bin __6__ sehr an der Position interessiert und hoffe, dass wir diese Punkte klären können.\n\nÜber eine baldige Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n[Your Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager, die ich Ihnen am 15. Mai über Ihr Online-Portal zugesandt habe, und für die ich dankenswerterweise eine automatische Eingangsbestätigung erhalten habe.\n\nMir ist durchaus bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungsunterlagen einige Zeit in Anspruch nehmen kann. __1__ ich jedoch seitdem keine weitere Rückmeldung erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __2__ mitteilen, wann ungefähr mit einer Entscheidung oder Informationen über die nächsten Schritte im Prozess zu rechnen ist? Mein Interesse an dieser verantwortungsvollen Position in Ihrem Unternehmen ist __3__ unverändert groß und die beschriebenen Aufgaben entsprechen genau meinen Qualifikationen und beruflichen Zielen.\n\n__4__ möchte ich nochmals betonen, dass ich für ein persönliches Gespräch kurzfristig und flexibel zur Verfügung stehe. __5__ Sie zwischenzeitlich weitere Informationen oder ergänzende Unterlagen von mir benötigen, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch würde mich sehr freuen, __6__ von Ihnen zu hören und verbleibe\n\nmit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Allerdings"
+            "content": "bald"
         },
         {
             "id": "b",
-            "content": "Da"
-        },
-        {
-            "id": "c",
-            "content": "Damit"
-        },
-        {
-            "id": "d",
-            "content": "darüber"
-        },
-        {
-            "id": "e",
             "content": "Deshalb"
         },
         {
-            "id": "f",
-            "content": "ob"
+            "id": "c",
+            "content": "eventuell"
         },
         {
-            "id": "g",
-            "content": "Obwohl"
+            "id": "d",
+            "content": "Wenn"
         },
         {
-            "id": "h",
-            "content": "Wann"
-        },
-        {
-            "id": "i",
+            "id": "e",
             "content": "weiterhin"
         },
         {
+            "id": "f",
+            "content": "Falls"
+        },
+        {
+            "id": "g",
+            "content": "Weil"
+        },
+        {
+            "id": "h",
+            "content": "Zudem"
+        },
+        {
+            "id": "i",
+            "content": "Da"
+        },
+        {
             "id": "j",
-            "content": "wie"
+            "content": "Trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "i"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "a"
         }
     ]
 }

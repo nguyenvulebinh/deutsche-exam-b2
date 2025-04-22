@@ -1,38 +1,38 @@
 {
-    "thema": "Email requesting to reschedule an interview due to a prior commitment.",
-    "textinhalt": "Betreff: Bitte um Terminverschiebung – Vorstellungsgespräch als Marketing Manager am 15. Oktober\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Position als Marketing Manager am 15. Oktober um 10:00 Uhr. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich an diesem Tag bereits eine unaufschiebbare Verpflichtung habe. Ich nehme an einer wichtigen Prüfung teil, die __3__ seit Längerem feststeht.\n\n__4__ möchte ich Sie höflich bitten, ob es möglich wäre, einen alternativen Termin zu finden. Ich bin __5__ zeitlich sehr flexibel und stehe Ihnen gerne an anderen Tagen zur Verfügung.\n\nMein Interesse an der Position ist __6__ sehr groß. Ich bedauere die Umstände und hoffe auf Ihr Verständnis.\n\nÜber einen neuen Terminvorschlag würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 25. April zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Stelle entspricht genau meinen Qualifikationen und beruflichen Zielen, __2__ bin ich nach wie vor sehr an einer Mitarbeit in Ihrem Unternehmen interessiert.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, wann voraussichtlich mit einer Entscheidung zu rechnen ist? __4__ Sie zusätzliche Informationen oder Referenzen benötigen, stehe ich Ihnen jederzeit gerne zur Verfügung.\n\nBesonders meine Erfahrungen im Online-Marketing __5__ ich gewinnbringend für Ihr Team einsetzen. Ich wäre Ihnen dankbar für eine baldige Rückmeldung und freue mich __6__, von Ihnen zu hören.\n\nMit freundlichen Grüßen,\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ansonsten"
+            "content": "darauf"
         },
         {
             "id": "b",
-            "content": "bereits"
-        },
-        {
-            "id": "c",
-            "content": "daher"
-        },
-        {
-            "id": "d",
-            "content": "damit"
-        },
-        {
-            "id": "e",
             "content": "darüber"
         },
         {
+            "id": "c",
+            "content": "deshalb"
+        },
+        {
+            "id": "d",
+            "content": "eventuell"
+        },
+        {
+            "id": "e",
+            "content": "Falls"
+        },
+        {
             "id": "f",
-            "content": "leider"
+            "content": "inzwischen"
         },
         {
             "id": "g",
-            "content": "nach wie vor"
+            "content": "könnte"
         },
         {
             "id": "h",
-            "content": "nun"
+            "content": "seitdem"
         },
         {
             "id": "i",
@@ -40,33 +40,33 @@
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "Wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
             "option_id": "f"
         },
         {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
+            "blank": "2",
             "option_id": "c"
         },
         {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "a"
         }
     ]
 }

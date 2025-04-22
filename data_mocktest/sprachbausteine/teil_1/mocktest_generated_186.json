@@ -1,72 +1,72 @@
 {
-    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiernit möchte ich Sie um die Ausstellung eines qualifizierten Arbeitszeugnisses für meine frühere Tätigkeit als Projektmanager in Ihrem Unternehmen bitten. Ich war vom 01. April 2020 bis zum 31. März 2023 bei Ihnen beschäftigt.\n\n__1__ ich mich derzeit beruflich neu orientiere und aktiv auf Stellensuche bin, benötige ich dieses Dokument __2__ für meine Bewerbungsunterlagen. Es wäre sehr hilfreich, __3__ Sie mir das Zeugnis __4__ Ende nächster Woche zukommen lassen könnten, da einige Bewerbungsfristen bald enden.\n\n__5__ bitte ich Sie um eine kurze Rückmeldung, __6__ dieser Zeitrahmen für Sie realisierbar ist oder wann ich ungefähr mit der Zusendung rechnen kann.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nThomas Bauer",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 20. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 20. April, für deren Eingangsbestätigung ich mich herzlich bedanke.\n\nDa nun einige Zeit vergangen ist, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Stelle entspricht genau meinen beruflichen Interessen und Qualifikationen, __2__ ich nach wie vor sehr an einer Mitarbeit in Ihrem Unternehmen interessiert bin.\n\nIch bin __3__ davon überzeugt, dass meine Erfahrung im internationalen Projektmanagement einen wertvollen Beitrag leisten könnte.\n\nKönnten Sie mir eventuell mitteilen, __4__ ungefähr mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Prozess Zeit __5__ Anspruch nimmt.\n\nFür Rückfragen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "als"
+            "content": "wenn"
         },
         {
             "id": "b",
-            "content": "bald"
+            "content": "jederzeit"
         },
         {
             "id": "c",
-            "content": "bis"
+            "content": "weiterhin"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "weshalb"
         },
         {
             "id": "e",
-            "content": "Daher"
+            "content": "nach"
         },
         {
             "id": "f",
-            "content": "dass"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "dringend"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "in"
         },
         {
             "id": "i",
-            "content": "Weil"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "auf"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "e"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
             "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
         }
     ]
 }

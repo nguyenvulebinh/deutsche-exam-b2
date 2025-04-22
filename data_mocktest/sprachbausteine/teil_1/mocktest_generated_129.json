@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Zusendung der angefragten Projektunterlagen – Entschuldigung für die Verzögerung",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf unser Telefongespräch von letzter Woche, in dem Sie um die Übersendung der detaillierten Kostenaufstellung für das Projekt „Optimierung 2024“ gebeten haben.\n\nIch möchte mich aufrichtig dafür entschuldigen, dass Sie die Unterlagen __1__ noch nicht erhalten haben. __2__ einer unerwarteten Systemwartung in unserer Buchhaltung am Montag war es mir __3__ nicht möglich, die aktuellsten Zahlen zu exportieren.\n\nDas System läuft __4__ wieder stabil und ich werde Ihnen die vollständige Kostenaufstellung __5__ morgen Vormittag per E-Mail zukommen lassen. Ich hoffe sehr, diese kurze Verzögerung bereitet Ihnen keine größeren Schwierigkeiten.\n\n__6__ Sie in der Zwischenzeit Fragen haben, erreichen Sie mich gerne telefonisch.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05.06.2024",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing Manager, die ich Ihnen am 05.06.2024 über Ihr Online-Portal zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, seitdem Sie den Eingang meiner Unterlagen bestätigt haben, möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __3__ meinen beruflichen Vorstellungen und Qualifikationen, und ich bin nach wie vor sehr an einer Mitarbeit in Ihrem Team interessiert.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann ungefähr mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist?\n\nSelbstverständlich stehe ich Ihnen für Rückfragen oder ein persönliches Gespräch __5__ zur Verfügung.\n\nIch wäre Ihnen dankbar, wenn Sie mir kurz mitteilen könnten, __6__ meine Bewerbung weiterhin im Prozess berücksichtigt wird.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Aufgrund"
+            "content": "wenn"
         },
         {
             "id": "b",
-            "content": "bisher"
+            "content": "jederzeit"
         },
         {
             "id": "c",
-            "content": "Dennoch"
+            "content": "nach"
         },
         {
             "id": "d",
-            "content": "Falls"
+            "content": "über"
         },
         {
             "id": "e",
-            "content": "inzwischen"
+            "content": "durchaus"
         },
         {
             "id": "f",
-            "content": "leider"
+            "content": "ob"
         },
         {
             "id": "g",
-            "content": "Seitdem"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "spätestens"
+            "content": "inzwischen"
         },
         {
             "id": "i",
-            "content": "Wegen"
+            "content": "deshalb"
         },
         {
             "id": "j",
-            "content": "Wenn"
+            "content": "eventuell"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
-            "option_id": "e"
-        },
-        {
-            "blank": "5",
             "option_id": "h"
         },
         {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "f"
         }
     ]
 }

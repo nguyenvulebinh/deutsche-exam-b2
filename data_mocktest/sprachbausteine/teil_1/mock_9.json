@@ -1,0 +1,72 @@
+{
+    "thema": "Meine Kündigung zum 31.12.20xx",
+    "textinhalt": "Sehr geehrte Frau Groß,\n\nwie Sie sicherlich wissen, habe ich zum 31.12.20xx meinen Arbeitsvertrag fristgerecht mit Ihrem Unternehmen aus gesundheitlichen Gründen gekündigt. __1__ heute wurde mir mein versprochenes Arbeitszeugnis nicht zugeschickt.\n\nIch möchte noch einmal betonen, __2__ dieses qualifizierte Arbeitszeugnis für mich relevant ist, da ich nicht nur 5 Jahre in Ihrem Unternehmen tätig war, __3__ auch an vielen Weiterbildungen sowie Seminaren teilgenommen habe. Bitte vergessen Sie nicht, meine erfolgreiche Teilnahme __4__ diesen zu bestätigen.\n\nNoch einmal möchte ich mich bei Ihnen __5__ bedanken, dass ich mich in Ihrem Unternehmen in all diesen Jahren weiterentwickeln konnte und vor allem mit meinen Kollegen eine erfolgreiche Zusammenarbeit hatte und gerne __6__ zurückblicke.\n\nIch bedanke mich im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMoritz von Hagen",
+    "options": [
+      {
+        "id": "a",
+        "content": "DARAUF"
+      },
+      {
+        "id": "b",
+        "content": "DAFÜR"
+      },
+      {
+        "id": "c",
+        "content": "BIS"
+      },
+      {
+        "id": "d",
+        "content": "ÖFTER"
+      },
+      {
+        "id": "e",
+        "content": "DASS"
+      },
+      {
+        "id": "f",
+        "content": "VOR"
+      },
+      {
+        "id": "g",
+        "content": "SONDERN"
+      },
+      {
+        "id": "h",
+        "content": "OBWOHL"
+      },
+      {
+        "id": "i",
+        "content": "AUF"
+      },
+      {
+        "id": "j",
+        "content": "AN"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "c"
+      },
+      {
+        "blank": "2",
+        "option_id": "e"
+      },
+      {
+        "blank": "3",
+        "option_id": "g"
+      },
+      {
+        "blank": "4",
+        "option_id": "j"
+      },
+      {
+        "blank": "5",
+        "option_id": "b"
+      },
+      {
+        "blank": "6",
+        "option_id": "a"
+      }
+    ]
+}

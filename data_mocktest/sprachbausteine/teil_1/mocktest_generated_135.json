@@ -1,72 +1,72 @@
 {
-    "thema": "Rückfrage zu Jobangebot",
-    "textinhalt": "Betreff: Rückfrage zu Ihrem Jobangebot als Marketingassistent/in vom 18.07.\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihr Jobangebot vom 18. Juli für die Position als Marketingassistent/in und das damit verbundene Vertrauen in meine Fähigkeiten. Ich habe mich sehr __1__ gefreut.\n\nDas Angebot ist sehr attraktiv und die beschriebenen Aufgaben reizen mich sehr. __2__, bevor ich Ihre Offerte offiziell annehmen kann, hätte ich noch zwei kurze Fragen zu den Details im beigefügten Vertragsentwurf.\n\n__3__ ist das genaue Startdatum noch nicht festgelegt. Wäre hier eventuell auch ein Beginn zum 1. September statt dem 15. August möglich? Zum anderen wollte ich nachfragen, __4__ die erwähnte Möglichkeit zum mobilen Arbeiten auch schon während der Probezeit besteht.\n\nIch bin nach wie vor sehr an der Position interessiert und __5__ auf eine baldige Klärung dieser Punkte. Über eine kurze Rückmeldung __6__ meiner Fragen würde ich mich sehr freuen.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager IT vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager IT vom 15. Mai.\n\n__1__ nun einige Wochen vergangen sind, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Position entspricht __2__ meinen Qualifikationen und beruflichen Zielen, und mein Interesse daran ist unverändert groß.\n\nIch bin nach __3__ vor sehr motiviert, mein Wissen und meine Erfahrung in Ihr Team einzubringen. Könnten Sie mir __4__ eine kurze Rückmeldung geben, wann mit einer Entscheidung zu rechnen ist?\n\n__5__ ich verstehe, dass der Auswahlprozess Zeit benötigt, wäre ich für eine kurze Information dankbar. Ich stehe Ihnen __6__ für Rückfragen oder ein weiteres Gespräch zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "Während"
         },
         {
             "id": "b",
-            "content": "bezüglich"
+            "content": "etwa"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "Obwohl"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "wie"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "Gerne"
         },
         {
             "id": "f",
-            "content": "hinsichtlich"
+            "content": "Trotzdem"
         },
         {
             "id": "g",
-            "content": "hoffe"
+            "content": "Da"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "selbstverständlich"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "genau"
         },
         {
             "id": "j",
-            "content": "Zum einen"
+            "content": "Vielleicht"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
             "option_id": "g"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
             "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
         }
     ]
 }

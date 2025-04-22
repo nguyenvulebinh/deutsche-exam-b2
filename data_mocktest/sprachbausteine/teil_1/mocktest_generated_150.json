@@ -1,72 +1,72 @@
 {
-    "thema": "Anfrage zu Details einer Stellenausschreibung (Reisebereitschaft) vor der Bewerbung",
-    "textinhalt": "Betreff: Anfrage zur Stellenausschreibung 'Referent/in für Projektmanagement', Kennziffer PM-123\n\nSehr geehrte Damen und Herren,\n\nIhre Stellenausschreibung für die Position als Referent/in für Projektmanagement (Kennziffer PM-123) auf Ihrer Webseite habe ich mit großem Interesse gelesen. Die beschriebenen Aufgaben und Ihr Unternehmen finde ich sehr ansprechend.\n\nBevor ich meine vollständigen Bewerbungsunterlagen einreiche, hätte ich __1__ eine kurze Frage __2__ der im Anforderungsprofil genannten „Reisebereitschaft“. Könnten Sie mir bitte mitteilen, __3__ Dienstreisen für diese Position vorgesehen sind? Konkret würde mich interessieren, wie häufig und __4__ wie lange diese Reisen typischerweise dauern.\n\nDiese Information ist für meine Entscheidung wichtig, __5__ ich meine beruflichen Verpflichtungen mit meinen familiären Verantwortlichkeiten gut abstimmen muss. Abhängig von Ihrer Antwort würde ich meine Bewerbung sehr gerne vervollständigen.\n\nVielen Dank __6__ für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 20. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 20. April zugesandt habe. __1__ seitdem einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie in der Ausschreibung beschriebenen Aufgaben entsprechen __2__ meinen beruflichen Zielen und Erfahrungen. Ich wäre Ihnen dankbar, wenn Sie mir __3__ mitteilen könnten, wann mit einer ersten Rückmeldung oder den nächsten Schritten zu rechnen ist.\n\nIch bin __4__ davon überzeugt, dass meine Qualifikationen und meine Motivation gut zu den Anforderungen der Stelle passen. Für ein persönliches Gespräch stehe ich Ihnen __5__ zur Verfügung.\n\nIch freue mich __6__ auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "bezüglich"
+            "content": "Eigentlich"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "kurz"
         },
         {
             "id": "c",
-            "content": "im Voraus"
+            "content": "Obwohl"
         },
         {
             "id": "d",
-            "content": "inwieweit"
+            "content": "weiterhin"
         },
         {
             "id": "e",
-            "content": "jedoch"
+            "content": "auf"
         },
         {
             "id": "f",
-            "content": "nach"
+            "content": "seitdem"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "Deshalb"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "genau"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "Über"
         },
         {
             "id": "j",
-            "content": "ungefähr"
+            "content": "selbstverständlich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "3",
-            "option_id": "d"
-        },
-        {
-            "blank": "4",
-            "option_id": "j"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "e"
         }
     ]
 }

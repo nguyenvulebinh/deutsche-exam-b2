@@ -1,56 +1,56 @@
 {
-    "thema": "Anfrage Zwischenzeugnis",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich arbeite __1__ dem 1. Mai 2020 als Projektmanager in Ihrer Abteilung. Ich schreibe Ihnen heute, __2__ ich für die Bewerbung zu einem weiterführenden Zertifikatskurs im Bereich agiles Management ein qualifiziertes Zwischenzeugnis benötige.\n\nIch bitte Sie __3__ höflich um die Ausstellung dieses Dokuments, welches meine aktuellen Aufgabenbereiche und Leistungen widerspiegelt. __4__ wäre es sehr hilfreich, wenn das Zeugnis __5__ Mitte nächsten Monats fertiggestellt werden könnte, da dann die Anmeldefrist für den Kurs endet.\n\nIch weiß, dass dies zusätzlichen Aufwand für Sie bedeutet, und möchte mich bereits im Voraus __6__ Ihre Bemühungen bedanken.\n\nMit freundlichen Grüßen,\nThomas Bauer",
+    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch als Projektmanager am 12. Juni",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank nochmals für das informative Vorstellungsgespräch am 12. Juni für die Position als Projektmanager. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ bestätigt und mein Interesse an einer Mitarbeit verstärkt.\n\nSie erwähnten, dass eine Entscheidung voraussichtlich bis Ende Juni fallen würde. Da ich nach wie vor sehr an der Position interessiert bin, möchte ich mich erkundigen, __2__ es eventuell schon Neuigkeiten zum Stand des Auswahlverfahrens gibt.\n\nFür Rückfragen stehe ich Ihnen __3__ gerne zur Verfügung.\n\nBesonders die von Ihnen beschriebenen Herausforderungen im Bereich der internationalen Teamkoordination reizen mich sehr, und ich bin überzeugt, __4__ meine Erfahrungen im agilen Projektmanagement hier wertvoll wären.\n\nIch sehe Ihrer Rückmeldung mit Spannung __5__ .\n\nSollten Sie in der Zwischenzeit __6__ weitere Unterlagen oder Informationen benötigen, lassen Sie es mich bitte wissen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "auf"
         },
         {
             "id": "b",
-            "content": "bis"
+            "content": "dass"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "entgegen"
         },
         {
             "id": "d",
-            "content": "dafür"
+            "content": "erneut"
         },
         {
             "id": "e",
-            "content": "darum"
+            "content": "jederzeit"
         },
         {
             "id": "f",
-            "content": "Deshalb"
+            "content": "noch"
         },
         {
             "id": "g",
-            "content": "für"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "seit"
+            "content": "schon"
         },
         {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "wann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "f"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "f"
         }
     ]
 }

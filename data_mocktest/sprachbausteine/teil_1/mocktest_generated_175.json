@@ -1,56 +1,56 @@
 {
-    "thema": "Nachfrage zum Stand der Bewerbung nach Ablauf der Frist",
-    "textinhalt": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-123)\n\nSehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager vom 15. Oktober (Kennziffer PM-123) und die dazugehörige Eingangsbestätigung Ihres Unternehmens.\n\nIn Ihrer Bestätigungs-E-Mail wurde erwähnt, dass der Auswahlprozess __1__ bis Ende November abgeschlossen sein würde. __2__ dieser Zeitpunkt nun überschritten ist und ich weiterhin sehr an der Position interessiert bin, möchte ich mich __3__ nach dem aktuellen Stand des Bewerbungsverfahrens erkundigen.\n\nIch verstehe natürlich, dass Auswahlprozesse manchmal länger dauern können. Könnten Sie mir __4__ eine kurze Information geben, wann __5__ mit einer Entscheidung zu rechnen ist? Die ausgeschriebene Stelle entspricht __6__ meinen beruflichen Vorstellungen und Qualifikationen.\n\nÜber eine baldige Rückmeldung würde ich mich sehr freuen. Vielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent (Kennziffer MA-451)",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nBezugnehmend __1__ meine Bewerbung vom 15. Mai für die Stelle als Marketingassistent (Kennziffer MA-451), möchte ich mich nach dem aktuellen Stand des Bewerbungsprozesses erkundigen.\n\nMein Interesse an dieser Position ist __2__ groß, da die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht. Ich verstehe selbstverständlich, dass die sorgfältige Prüfung aller Bewerbungen Zeit benötigt. __3__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, wann __4__ mit einer Entscheidung zu rechnen ist.\n\nIch bin __5__ überzeugt, dass ich mit meinen Kenntnissen im Online-Marketing einen wertvollen Beitrag für Ihr Team leisten kann.\n\nVielen Dank für Ihre Bemühungen. Für Rückfragen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMaria Rossi",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "an"
         },
         {
             "id": "b",
-            "content": "dennoch"
+            "content": "auf"
         },
         {
             "id": "c",
-            "content": "Deshalb"
+            "content": "bereits"
         },
         {
             "id": "d",
-            "content": "Freundlich"
+            "content": "Daran"
         },
         {
             "id": "e",
-            "content": "genau"
+            "content": "davon"
         },
         {
             "id": "f",
-            "content": "höflich"
+            "content": "Dennoch"
         },
         {
             "id": "g",
-            "content": "Sehr"
+            "content": "Deshalb"
         },
         {
             "id": "h",
-            "content": "ungefähr"
+            "content": "jederzeit"
         },
         {
             "id": "i",
-            "content": "voraussichtlich"
+            "content": "nach wie vor"
         },
         {
             "id": "j",
-            "content": "Weil"
+            "content": "ungefähr"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "i"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "h"
         }
     ]
 }

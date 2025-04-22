@@ -1,0 +1,72 @@
+{
+    "thema": "Nachfrage zum Stand der Bewerbung",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nam 1. September habe ich mich bei Ihrem Unternehmen in München auf die Stelle als Kundenberater im Außendienst beworben. Leider habe ich bis zum heutigen Tag __1__ Rückmeldung von Ihnen bekommen. __2__ möchte ich auf diesem Weg nachfragen, ob schon ein Antwortschreiben an mich verfasst wurde, oder meine Bewerbung __3__ in der Bearbeitung ist.\n\n__4__ Sie meine Bewerbung noch nicht bearbeitet haben, würde ich mich freuen, wenn Sie mir dies kurz mitteilen könnten und mich benachrichtigen, wann ich denn mit einer Antwort rechnen kann.\n\nMéine jetzige Firma vergibt in 3 Wochen wieder Projekte und bis __5__ sollte ich wissen, ob ich in Zukunft in Ihrem Unternehmen tätig werden kann.\n\nFalls Sie noch Unterlagen benötigen, lassen Sie mich das __6__ wissen, damit ich Ihnen diese postwendend zusenden kann.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nSunny Hoppenstedt",
+    "options": [
+      {
+        "id": "a",
+        "content": "KEINE"
+      },
+      {
+        "id": "b",
+        "content": "UMGEHEND"
+      },
+      {
+        "id": "c",
+        "content": "DAHER"
+      },
+      {
+        "id": "d",
+        "content": "DAHIN"
+      },
+      {
+        "id": "e",
+        "content": "NOCH"
+      },
+      {
+        "id": "f",
+        "content": "FALLS"
+      },
+      {
+        "id": "g",
+        "content": "VIELE"
+      },
+      {
+        "id": "h",
+        "content": "ALLE"
+      },
+      {
+        "id": "i",
+        "content": "OBWOHL"
+      },
+      {
+        "id": "j",
+        "content": "WEIL"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "a"
+      },
+      {
+        "blank": "2",
+        "option_id": "c"
+      },
+      {
+        "blank": "3",
+        "option_id": "e"
+      },
+      {
+        "blank": "4",
+        "option_id": "f"
+      },
+      {
+        "blank": "5",
+        "option_id": "d"
+      },
+      {
+        "blank": "6",
+        "option_id": "b"
+      }
+    ]
+}

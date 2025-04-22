@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihr Stellenangebot als Marketingmanagerin - Klärungsbedarf",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihr Stellenangebot als Marketingmanagerin vom 15. Mai und das damit verbundene Vertrauen in meine Fähigkeiten. Ich habe mich sehr über die positive Nachricht gefreut.\n\nBevor ich das Angebot final annehmen kann, hätte ich noch ein paar kurze Rückfragen zu den Vertragsdetails, um sicherzustellen, dass ich alles korrekt verstanden habe. Zum einen ist im Vertrag als Startdatum der 1. Juli genannt, __1__ wir im Gespräch ursprünglich den 1. August vereinbart hatten. Könnten Sie bitte bestätigen, __2__ Datum nun korrekt ist?\n\nZum anderen wird eine variable Bonuszahlung erwähnt. Könnten Sie mir bitte kurz erläutern, __3__ diese berechnet wird und an welche Ziele sie geknüpft ist? __4__ wäre für meine Planung hilfreich zu wissen.\n\n__5__ dieser offenen Punkte bin ich nach wie vor sehr an der Position interessiert und überzeugt, dass ich einen wertvollen Beitrag zu Ihrem Team leisten kann.\n\nIch wäre Ihnen dankbar, wenn Sie mir __6__ baldige Klärung zukommen lassen könnten.\n\nMit freundlichen Grüßen\nAnna Schmidt",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend __1__ meine Bewerbung als Projektmanager vom 15. Mai und Ihre Eingangsbestätigung vom 17. Mai möchte ich mich heute an Sie wenden.\n\nDa __2__ einige Wochen vergangen sind, seitdem ich von Ihnen gehört habe, möchte ich mich __3__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht nach wie vor genau meinen Vorstellungen und ich bin weiterhin sehr an einer Tätigkeit in Ihrem Unternehmen interessiert.\n\nKönnten Sie mir __4__ mitteilen, __5__ ich ungefähr mit einer Entscheidung oder weiteren Schritten rechnen kann?\n\nIch wäre Ihnen sehr dankbar, __6__ Sie mir eine kurze Rückmeldung geben könnten.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "eine"
+            "content": "an"
         },
         {
             "id": "b",
-            "content": "dass"
+            "content": "auf"
         },
         {
             "id": "c",
-            "content": "Das"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "obwohl"
+            "content": "höflich"
         },
         {
             "id": "e",
-            "content": "Trotz"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "ob"
         },
         {
             "id": "g",
-            "content": "wann"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "welches"
+            "content": "vielleicht"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "wie"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "e"
         },
         {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "j"
         }
     ]
 }

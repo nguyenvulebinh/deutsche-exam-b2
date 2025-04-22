@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch – Stelle als Projektmanager (Ref: PM-123)",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am kommenden Dienstag, den 15. März, für die Position als Projektmanager. Ich habe mich __1__ sehr gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich an diesem Tag __2__ einen wichtigen, unaufschiebbaren Termin habe, __3__ ich vor Längerem vereinbart habe und nicht verschieben kann.\n\n__4__ ist es mir bedauerlicherweise nicht möglich, den vorgeschlagenen Termin wahrzunehmen.\n\nWäre es __5__ möglich, einen alternativen Termin zu finden? Ich wäre Ihnen sehr dankbar dafür. __6__ Mittwoch, dem 16. März, stehe ich Ihnen zeitlich flexibel zur Verfügung und richte mich gerne nach Ihren Möglichkeiten.\n\nIch bin nach wie vor sehr an der Position interessiert und hoffe auf Ihr Verständnis sowie einen neuen Terminvorschlag.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 25. April für die ausgeschriebene Stelle als Marketing Manager in Ihrem Unternehmen, __1__ Eingang Sie mir kurz darauf freundlicherweise bestätigt haben.\n\nDa __2__ einige Zeit vergangen ist und ich __3__ noch keine weitere Rückmeldung zum Fortgang des Auswahlverfahrens erhalten habe, möchte ich mich auf diesem Wege höflich nach dem aktuellen Stand erkundigen.\n\n__4__ ich nach wie vor großes Interesse an dieser Position und Ihrem Unternehmen habe, wäre eine kurze Information über den weiteren Prozess für meine Planung sehr hilfreich. Wäre es Ihnen möglich, mir mitzuteilen, __5__ ungefähr mit einer Entscheidung zu rechnen ist?\n\nSollten Sie __6__ noch weitere Unterlagen oder Informationen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Ab"
+            "content": "obwohl"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "Da"
         },
         {
             "id": "c",
-            "content": "Daher"
+            "content": "gegebenenfalls"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "inzwischen"
         },
         {
             "id": "e",
-            "content": "den"
+            "content": "dessen"
         },
         {
             "id": "f",
-            "content": "nach"
+            "content": "ob"
         },
         {
             "id": "g",
-            "content": "noch"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "deren"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "bislang"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "c"
         }
     ]
 }

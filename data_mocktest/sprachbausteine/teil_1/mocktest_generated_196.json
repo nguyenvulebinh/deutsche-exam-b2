@@ -1,72 +1,72 @@
 {
-    "thema": "Anfrage zu internen Weiterbildungsmöglichkeiten",
-    "textinhalt": "Betreff: Anfrage zu internen Weiterbildungsmöglichkeiten\n\nSehr geehrte Frau Meyer,\n\nmein Kollege, Herr Schmidt aus der Marketingabteilung, hat mich kürzlich __1__ hingewiesen, dass unser Unternehmen vielfältige interne Weiterbildungen anbietet. __2__ ich bestrebt bin, meine Kompetenzen im Bereich digitales Marketing kontinuierlich zu erweitern, bin ich an diesen Angeboten sehr interessiert.\n\nKönnten Sie mir bitte mitteilen, __3__ ich eine Übersicht über die aktuell verfügbaren Kurse sowie Informationen zum Anmeldeprozess finden kann? Mich würde __4__ interessieren, ob es spezielle Programme für die Entwicklung von Social-Media-Strategien gibt.\n\nIch wäre Ihnen sehr dankbar, __5__ Sie mir entsprechende Informationen zukommen lassen oder mir einen direkten Ansprechpartner nennen könnten.\n\nVielen Dank __6__ Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\n\nAnna Müller",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung als Marketing Manager vom 05. April und Ihr freundliches Bestätigungsschreiben vom 07. April, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen vergangen sind, wollte ich nachfragen, ob Sie mir eventuell schon eine ungefähre Zeitangabe geben können, wann mit einer Entscheidung zu rechnen ist.\n\nIch bin __2__ sehr an der ausgeschriebenen Position interessiert, da die Aufgabenbeschreibung und die Entwicklungsmöglichkeiten in Ihrem Unternehmen genau meinen beruflichen Zielen entsprechen.\n\nIch verstehe __3__, dass die sorgfältige Prüfung aller Bewerbungen Zeit benötigt. __4__ eine kurze Information über den weiteren Verlauf wäre für meine persönliche Planung sehr hilfreich.\n\nSollten Sie __5__ noch weitere Unterlagen oder Informationen von mir benötigen, stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank __6__ Ihre Mühe und eine baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Da"
-        },
-        {
-            "id": "b",
-            "content": "daran"
-        },
-        {
-            "id": "c",
-            "content": "darauf"
-        },
-        {
-            "id": "d",
-            "content": "dass"
-        },
-        {
-            "id": "e",
-            "content": "im"
-        },
-        {
-            "id": "f",
-            "content": "insbesondere"
-        },
-        {
-            "id": "g",
             "content": "Obwohl"
         },
         {
+            "id": "b",
+            "content": "für"
+        },
+        {
+            "id": "c",
+            "content": "bereits"
+        },
+        {
+            "id": "d",
+            "content": "weiterhin"
+        },
+        {
+            "id": "e",
+            "content": "selbstverständlich"
+        },
+        {
+            "id": "f",
+            "content": "wegen"
+        },
+        {
+            "id": "g",
+            "content": "Dennoch"
+        },
+        {
             "id": "h",
-            "content": "wenn"
+            "content": "inzwischen"
         },
         {
             "id": "i",
-            "content": "wie"
+            "content": "wirklich"
         },
         {
             "id": "j",
-            "content": "wo"
+            "content": "eventuell"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "f"
-        },
-        {
-            "blank": "5",
             "option_id": "h"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
             "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
         }
     ]
 }

@@ -1,22 +1,22 @@
 {
-    "thema": "Bitte um Verschiebung eines Vorstellungsgesprächs",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai – Bitte um Terminverschiebung\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Mai für die Position als Marketingassistentin. Ich habe mich sehr __1__ gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich an diesem spezifischen Tag __2__ einen anderen, wichtigen Termin habe, den ich nicht kurzfristig absagen kann. Es handelt sich __3__ eine seit Längerem geplante ärztliche Untersuchung.\n\nWäre es __4__ möglich, einen alternativen Termin zu finden? Ich wäre Ihnen sehr dankbar, __5__ wir einen neuen Termin vereinbaren könnten. Zeitlich bin ich ansonsten recht flexibel, __6__ in der Woche vom 20. bis 24. Mai.\n\nIch bin nach wie vor sehr an der Position interessiert und bitte um Ihr Verständnis für die notwendige Umplanung.\n\nMit freundlichen Grüßen\n\nAnna Kowalski",
+    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch am 15. Mai als Projektmanager",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich zunächst herzlich für das informative und angenehme Vorstellungsgespräch am 15. Mai für die Position als Projektmanager bedanken. __1__ wir besprochen hatten, finde ich die strategische Neuausrichtung Ihrer Projektabteilung besonders spannend.\n\n__2__ des sehr positiven Eindrucks, den ich von Ihrem Unternehmen gewonnen habe, möchte ich mein großes Interesse an dieser Position nochmals bekräftigen. Ich bin überzeugt, dass meine Erfahrungen gut zu Ihren Anforderungen passen.\n\nSie erwähnten im Gespräch, dass eine Entscheidung voraussichtlich bis Ende Mai fallen würde. __3__ wollte ich mich kurz erkundigen, __4__ es bereits Neuigkeiten bezüglich des weiteren Auswahlverfahrens gibt oder wann ich ungefähr mit einer Rückmeldung rechnen kann.\n\n__5__ bin ich, was den möglichen Eintrittstermin angeht, relativ flexibel und stehe Ihnen für weitere Fragen jederzeit gerne zur Verfügung.\n\nIch freue mich sehr __6__ eine baldige Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "besonders"
+            "content": "Als"
         },
         {
             "id": "b",
-            "content": "davon"
+            "content": "Aufgrund"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "auf"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "Daher"
         },
         {
             "id": "e",
@@ -24,41 +24,41 @@
         },
         {
             "id": "f",
-            "content": "schon"
+            "content": "Trotz"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "Trotzdem"
         },
         {
             "id": "h",
-            "content": "um"
+            "content": "über"
         },
         {
             "id": "i",
-            "content": "bereits"
+            "content": "Wie"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "Zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
             "option_id": "i"
         },
         {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "e"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "c"
         }
     ]
 }

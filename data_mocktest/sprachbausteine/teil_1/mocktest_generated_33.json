@@ -1,6 +1,6 @@
 {
-    "thema": "Betreff: Nachfassung zum Vorstellungsgespräch am [Datum] – Stelle als [Position]",
-    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nich möchte mich nochmals herzlich für das angenehme und informative Vorstellungsgespräch am [Datum] für die Position als [Position] bedanken. Das Gespräch hat meinen positiven Eindruck von [Unternehmen] sowie mein Interesse an der ausgeschriebenen Stelle bestärkt.\n\nIn unserem Gespräch erwähnten wir kurz meinen frühestmöglichen Eintrittstermin. __1__ habe ich dabei versäumt, das genaue Datum zu nennen. __2__ diese Information für Ihre weitere Planung wichtig sein könnte, möchte ich dies hiermit nachholen: Ich stehe Ihnen aufgrund meiner aktuellen Kündigungsfrist ab dem [Datum] zur Verfügung.\n\nIch bin __3__ davon überzeugt, dass meine Qualifikationen und meine bisherigen Erfahrungen sehr gut zu den Anforderungen Ihrer Stelle passen. __4__ möchte ich mein großes Interesse an einer Zusammenarbeit erneut bekräftigen.\n\nIch freue mich __5__ eine positive Rückmeldung von Ihnen. __6__ Sie in der Zwischenzeit weitere Fragen haben oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank und mit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 15. Mai und wollte mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist bewusst, dass die sorgfältige Prüfung aller Unterlagen Zeit __1__ Anspruch nimmt.\n\n__2__ mein Interesse an der ausgeschriebenen Position sehr groß ist und die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht, wäre ich Ihnen dankbar, __3__ Sie mir eine kurze Rückmeldung zum weiteren Vorgehen geben könnten. Eventuell können Sie mir ja bereits mitteilen, __4__ in etwa mit einer Entscheidung oder einer Einladung zu einem Gespräch zu rechnen ist.\n\nIch stehe Ihnen für Rückfragen oder ein persönliches Gespräch __5__ zur Verfügung und freue mich darauf, von Ihnen zu hören.\n\nVielen Dank für Ihre Bemühungen __6__ Voraus.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
@@ -12,35 +12,35 @@
         },
         {
             "id": "c",
-            "content": "Falls"
+            "content": "gerne"
         },
         {
             "id": "d",
-            "content": "Hiermit"
+            "content": "im"
         },
         {
             "id": "e",
-            "content": "Leider"
+            "content": "in"
         },
         {
             "id": "f",
-            "content": "Obwohl"
+            "content": "jederzeit"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "weiterhin"
+            "content": "Obwohl"
         },
         {
             "id": "i",
-            "content": "Weil"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "Wenn"
+            "content": "wenn"
         }
     ],
     "loesung": [
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "d"
         }
     ]
 }

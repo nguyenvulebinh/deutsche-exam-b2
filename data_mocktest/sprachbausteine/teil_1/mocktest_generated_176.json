@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Rückfrage zu Ihrem Stellenangebot vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihr Stellenangebot für die Position als Marketingassistent vom 15. Mai und das damit verbundene Vertrauen. Ich habe mich sehr __1__ gefreut und bin nach wie vor sehr an der Position interessiert.\n\n__2__ ich das Angebot offiziell annehme, hätte ich jedoch noch zwei kurze Rückfragen. Zum einen betrifft dies den vorgeschlagenen Starttermin am 1. Juli. Wäre __3__ auch ein Beginn zum 15. Juli denkbar, da ich bei meinem aktuellen Arbeitgeber eine Kündigungsfrist einhalten muss?\n\nZum anderen wird im Angebot ein Zuschuss zum Jobticket erwähnt. Könnten Sie mir bitte noch mitteilen, __4__ hoch dieser Zuschuss genau ist oder wo ich detaillierte Informationen __5__ finden kann?\n\n__6__ Klärungsbedarf besteht oder Sie weitere Informationen benötigen, stehe ich Ihnen selbstverständlich auch gerne telefonisch zur Verfügung.\n\nIch freue mich auf Ihre baldige Rückmeldung und verbleibe\n\nmit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] vom [Date]",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung als [Job Title], die ich Ihnen am [Date] zugesandt habe.\n\n__1__ ich bisher noch keine Rückmeldung bezüglich des weiteren Vorgehens erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an der ausgeschriebenen Stelle in Ihrem Unternehmen ist __2__ sehr groß, da die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht.\n\nIch wäre Ihnen dankbar, wenn Sie mir __3__ mitteilen könnten, wann mit einer Entscheidung zu rechnen ist.\n\nFür ein persönliches Gespräch stehe ich Ihnen __4__ zur Verfügung und freue mich über eine Einladung.\n\n__5__ ich verstehe, dass ein sorgfältiger Auswahlprozess Zeit benötigt, wäre eine kurze Information über den Zeitrahmen für mich sehr hilfreich.\n\nIch bedanke mich im Voraus für Ihre Mühe und eine kurze Rückmeldung __6__ den weiteren Prozess.\n\nMit freundlichen Grüßen\n\n[Your Name]",
     "options": [
         {
             "id": "a",
-            "content": "Falls"
+            "content": "Deshalb"
         },
         {
             "id": "b",
-            "content": "davon"
+            "content": "jederzeit"
         },
         {
             "id": "c",
-            "content": "gegebenenfalls"
+            "content": "Obwohl"
         },
         {
             "id": "d",
-            "content": "wie"
+            "content": "über"
         },
         {
             "id": "e",
-            "content": "Bevor"
+            "content": "bereits"
         },
         {
             "id": "f",
-            "content": "Wenn"
+            "content": "Wann"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "nach wie vor"
         },
         {
             "id": "h",
-            "content": "dazu"
+            "content": "da"
         },
         {
             "id": "i",
-            "content": "darüber"
+            "content": "bezüglich"
         },
         {
             "id": "j",
-            "content": "Während"
+            "content": "ungefähr"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
-        },
-        {
-            "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "d"
-        },
-        {
-            "blank": "5",
             "option_id": "h"
         },
         {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "d"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Mai für die Position als Marketingmanager. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich an diesem Tag __3__ eine unaufschiebbare Verpflichtung habe, die ich nicht verschieben kann. Es handelt sich um einen lange geplanten Arzttermin.\n\nWäre es Ihnen __4__ , mir einen alternativen Termin anzubieten? Ich bin zeitlich relativ flexibel, insbesondere in der Woche __5__ dem 15. Mai. Mein Interesse an der Position und Ihrem Unternehmen ist weiterhin sehr groß und ich würde mich freuen, die Gelegenheit zu bekommen, mich persönlich bei Ihnen vorzustellen.\n\nIch bitte um Ihr Verständnis und hoffe auf einen positiven Bescheid __6__ eines neuen Termins.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend __1__ meine Bewerbung vom 15. Mai für die Stelle als Projektmanager möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __2__ einige Wochen vergangen sind und die Position für mich nach wie vor von großem Interesse ist, wäre ich Ihnen für eine kurze Information dankbar.\n\nIch habe großes Verständnis dafür, dass Auswahlprozesse Zeit benötigen. __3__ wäre es für meine weitere Planung hilfreich, __4__ Sie mir einen ungefähren Zeitrahmen nennen könnten.\n\nKönnten Sie mir eventuell mitteilen, __5__ ungefähr mit einer Entscheidung zu rechnen ist?\n\nFür Rückfragen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "an"
         },
         {
             "id": "c",
-            "content": "bezüglich"
+            "content": "auf"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "hinsichtlich"
+            "content": "jederzeit"
         },
         {
             "id": "g",
-            "content": "Jedoch"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "Leider"
+            "content": "seitdem"
         },
         {
             "id": "i",
-            "content": "möglich"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "nach"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "j"
         },
         {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "f"
         }
     ]
 }

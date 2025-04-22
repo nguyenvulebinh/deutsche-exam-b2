@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch – Kennziffer IT-Dev-03",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank für Ihre E-Mail vom 10. Mai und die Einladung zum Vorstellungsgespräch am 18. Mai um 14:00 Uhr für die Position als IT-Entwickler. Ich habe mich sehr __1__ gefreut.\n\n__2__ habe ich genau an diesem Nachmittag bereits einen unaufschiebbaren Arzttermin, __3__ ich nicht verlegen kann. Ich bitte __4__ um Ihr Verständnis für diese Situation.\n\nWäre es __5__ möglich, das Gespräch auf einen anderen Tag zu legen? Ich wäre Ihnen dankbar, wenn Sie mir alternative Terminvorschläge machen könnten. Grundsätzlich bin ich in der Woche vom 22. bis 26. Mai flexibel.\n\nIch bin __6__ sehr an der ausgeschriebenen Stelle interessiert und hoffe auf eine positive Rückmeldung Ihrerseits.\n\nMit freundlichen Grüßen\n\nThomas Schmidt",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung vom 15. Mai für die Position als Projektmanager möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch habe Verständnis dafür, dass die sorgfältige Prüfung aller Unterlagen Zeit in Anspruch nimmt. __1__ würde ich mich freuen, wenn Sie mir eine kurze Einschätzung geben könnten, __2__ ich ungefähr mit einer Rückmeldung rechnen darf.\n\nMein Interesse an dieser Stelle ist __3__ groß, __4__ die beschriebenen Aufgaben genau meinen Qualifikationen entsprechen und meinen beruflichen Interessen stark entgegenkommen. __5__ wäre ich Ihnen für eine __6__ Information über die nächsten Schritte dankbar.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "darüber"
+            "content": "WEGEN"
         },
         {
             "id": "b",
-            "content": "davon"
+            "content": "DENNOCH"
         },
         {
             "id": "c",
-            "content": "dem"
+            "content": "WENN"
         },
         {
             "id": "d",
-            "content": "den"
+            "content": "DA"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "BALD"
         },
         {
             "id": "f",
-            "content": "eventuell"
+            "content": "DESHALB"
         },
         {
             "id": "g",
-            "content": "Gerne"
+            "content": "OBWOHL"
         },
         {
             "id": "h",
-            "content": "Leider"
+            "content": "UNVERÄNDERT"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "ZEITNAHE"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "WANN"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "i"
         }
     ]
 }

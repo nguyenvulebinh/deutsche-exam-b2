@@ -1,56 +1,56 @@
 {
-    "thema": "Anfrage zur Anpassung der Arbeitszeiten nach der Probezeit",
-    "textinhalt": "Betreff: Anfrage zur Anpassung der Arbeitszeiten\n\nSehr geehrte Frau Schmidt,\n\nwie Sie wissen, endet meine Probezeit in Ihrer Abteilung Ende dieses Monats. Ich möchte diese Gelegenheit nutzen, Ihnen für die gute Einarbeitung zu danken und __1__ eine Anfrage __2__ meiner Arbeitszeiten zu stellen.\n\nAufgrund meines langen Anfahrtsweges und um private Termine besser wahrnehmen zu können, wäre es für mich eine große Erleichterung, __3__ ich meine tägliche Arbeitszeit etwas anpassen dürfte. Mein Vorschlag wäre, morgens bereits um 7:30 Uhr zu beginnen und __4__ um 16:00 Uhr Feierabend zu machen. Ich bin überzeugt, dass meine Produktivität darunter nicht leiden würde.\n\nZusätzlich würde ich gerne erfahren, __5__ grundsätzlich die Möglichkeit bestünde, nach Absprache gelegentlich einen Tag pro Woche im Homeoffice zu arbeiten. Selbstverständlich würde ich für volle Erreichbarkeit sorgen.\n\nIch wäre Ihnen dankbar, wenn wir uns __6__ kurz austauschen könnten. Für ein Gespräch stehe ich Ihnen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nAlex Müller",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai - Kennziffer PM-123",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager vom 15. Mai mit der Kennziffer PM-123. Für die Bestätigung des Eingangs meiner Unterlagen möchte ich mich bedanken.\n\n__1__ ich bisher noch keine weitere Rückmeldung erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist __2__ bewusst, dass sorgfältige Prüfungsprozesse Zeit benötigen.\n\nDie ausgeschriebene Stelle als Projektmanager entspricht __3__ genau meinen beruflichen Vorstellungen und Erfahrungen. Ich bin nach wie vor sehr daran interessiert, mein Wissen und meine Fähigkeiten in Ihrem Unternehmen einzubringen, __4__ ich überzeugt bin, einen wertvollen Beitrag leisten zu können.\n\nWäre es __5__ möglich, mir eine kurze Auskunft darüber zu geben, bis wann voraussichtlich mit einer Entscheidung oder dem nächsten Schritt im Bewerbungsprozess zu rechnen ist?\n\nFür Rückfragen stehe ich Ihnen selbstverständlich __6__ zur Verfügung und freue mich auf eine baldige Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "als"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "bezüglich"
+            "content": "jederzeit"
         },
         {
             "id": "c",
-            "content": "dafür"
+            "content": "Deshalb"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "Da"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "eventuell"
         },
         {
             "id": "f",
-            "content": "gleichzeitig"
+            "content": "Gerne"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "durchaus"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "Leider"
         },
         {
             "id": "i",
-            "content": "wegen"
+            "content": "weil"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "weiterhin"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "b"
         }
     ]
 }

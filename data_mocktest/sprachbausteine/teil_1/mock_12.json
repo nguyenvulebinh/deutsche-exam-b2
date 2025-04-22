@@ -1,0 +1,72 @@
+{
+    "thema": "Bewerbung nach Telefonat",
+    "textinhalt": "Sehr geehrte Frau Schmelzer,\n\nnach unserem freundlichen Telefonat bin ich noch überzeugter als __1__, dass ich bei Ihnen die Ausbildung zur Fachkraft für Büromanagement machen möchte.\n\nWie Sie ja wissen, fallen bei mir lange Einarbeitungszeiten weg, da ich Ihr Unternehmen __2__ kenne. __3__ meines Schülerpraktikums bei Ihnen im Hause (Abteilung 234 vom 01.07.20xx bis 30.08.20xx) arbeitete ich für das Projekt, das ich damals begleiten durfte. Es war ein voller Erfolg, wie Ihnen Frau Mohn, meine damalige Leiterin, __4__ bestätigen wird. Die Erfahrungen von damals __5__ weitere Erfahrungen würde ich gerne bei Ihnen mit Mehrwert einsetzen. Vollen Elan gibt es gratis dazu.\n\nGerne überzeuge ich Sie in einem persönlichen Gespräch __6__, dass Sie mit mir einen ebenso engagierten, wie erfahrenen Auszubildenden gewinnen.\n\nMit freundlichen Grüßen\n\nHassan Hamedi",
+    "options": [
+      {
+        "id": "a",
+        "content": "WÄHREND"
+      },
+      {
+        "id": "b",
+        "content": "DAVON"
+      },
+      {
+        "id": "c",
+        "content": "WESHALB"
+      },
+      {
+        "id": "d",
+        "content": "WÜRDEN"
+      },
+      {
+        "id": "e",
+        "content": "GERN"
+      },
+      {
+        "id": "f",
+        "content": "BEREITS"
+      },
+      {
+        "id": "g",
+        "content": "SOWIE"
+      },
+      {
+        "id": "h",
+        "content": "QUASI"
+      },
+      {
+        "id": "i",
+        "content": "ZUVOR"
+      },
+      {
+        "id": "j",
+        "content": "DAS"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "i"
+      },
+      {
+        "blank": "2",
+        "option_id": "f"
+      },
+      {
+        "blank": "3",
+        "option_id": "a"
+      },
+      {
+        "blank": "4",
+        "option_id": "e"
+      },
+      {
+        "blank": "5",
+        "option_id": "g"
+      },
+      {
+        "blank": "6",
+        "option_id": "b"
+      }
+    ]
+}

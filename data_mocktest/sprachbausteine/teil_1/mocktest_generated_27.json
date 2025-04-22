@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am [Datum] – Bitte um Terminverschiebung",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] für die Position als Projektmanager. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin nicht wahrnehmen kann. Der Grund __3__ ist eine bereits vor längerer Zeit gebuchte und nicht stornierbare private Reise, die genau auf diesen Tag fällt.\n\n__4__ möchte ich Sie höflich um einen alternativen Termin bitten. Wäre es __5__ möglich, das Gespräch in der Woche davor oder danach zu führen? Ich bin, __6__ von den Reisetagen selbst, zeitlich flexibel und nach wie vor sehr an der Position interessiert.\n\nÜber einen neuen Terminvorschlag würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager vom 25. April.\n\n__1__ nun bereits einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __2__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nIch möchte __3__ betonen, dass mein Interesse an dieser anspruchsvollen Tätigkeit in Ihrem Unternehmen unverändert groß ist. Die in der Ausschreibung genannten Aufgabenbereiche sowie die innovative Ausrichtung Ihres Unternehmens entsprechen genau meinen Vorstellungen.\n\n__4__ Sie zusätzliche Informationen oder Referenzen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung. Für ein persönliches Gespräch bin ich __5__ flexibel und richte mich gerne nach Ihren Terminvorschlägen.\n\nIch wäre Ihnen __6__ sehr dankbar für eine kurze Rückmeldung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "abgesehen"
+            "content": "OBWOHL"
         },
         {
             "id": "b",
-            "content": "dafür"
+            "content": "FALLS"
         },
         {
             "id": "c",
-            "content": "damit"
+            "content": "MÖGLICH"
         },
         {
             "id": "d",
-            "content": "danach"
+            "content": "DESHALB"
         },
         {
             "id": "e",
-            "content": "darüber"
+            "content": "ZEITLICH"
         },
         {
             "id": "f",
-            "content": "Deshalb"
+            "content": "DA"
         },
         {
             "id": "g",
-            "content": "eventuell"
+            "content": "NACH"
         },
         {
             "id": "h",
-            "content": "innerhalb"
+            "content": "EVENTUELL"
         },
         {
             "id": "i",
-            "content": "Leider"
+            "content": "TROTZDEM"
         },
         {
             "id": "j",
-            "content": "Trotzdem"
+            "content": "ZUDEM"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
             "option_id": "f"
         },
         {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "d"
         }
     ]
 }

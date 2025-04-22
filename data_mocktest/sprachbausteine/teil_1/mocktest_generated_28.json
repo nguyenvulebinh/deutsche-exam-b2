@@ -1,72 +1,72 @@
 {
-    "thema": "Antwort auf Einladung zum Vorstellungsgespräch und Bitte um Klärung",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai - Stelle als Marketingassistenz\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Mai um 10:00 Uhr in Ihren Räumlichkeiten, über die ich mich sehr gefreut habe.\n\nGerne bestätige ich diesen Termin und freue mich darauf, Sie und Ihr Unternehmen näher kennenzulernen.\n\nIn Ihrer E-Mail erwähnten Sie, dass ich relevante Zeugnisse mitbringen soll. __1__ wurde in unserem vorherigen Telefonat kurz angesprochen, dass auch Arbeitsproben hilfreich wären. __2__ ich mir nun etwas unsicher bin, was genau unter \"relevanten Zeugnissen\" einerseits und \"Arbeitsproben\" andererseits für diese Position zu verstehen ist, wollte ich höflich nachfragen. Handelt es sich __3__ den Zeugnissen nur um Arbeitszeugnisse oder auch um Abschluss- und Weiterbildungszertifikate? Und __4__ beziehen sich die Arbeitsproben konkret – auf frühere Projekte oder Präsentationen? __5__ Sie mir hierzu vielleicht eine kurze Präzisierung geben? \n\nIch möchte sicherstellen, dass ich alle für Sie wichtigen Unterlagen __6__ zum Gespräch mitbringe. Eine kurze Klärung wäre daher sehr hilfreich.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Weber,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 25. April zugesandt habe. __1__ ist nun einige Zeit vergangen, seitdem ich die Eingangsbestätigung erhalten habe.\n\nDa die Stelle mich sehr anspricht und ich die Entwicklung Ihres Unternehmens mit großem Interesse verfolge, möchte ich mein __2__ starkes Interesse an dieser Position bekräftigen.\n\n__3__ wollte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlprozesses ist. Könnten Sie mir eventuell mitteilen, __4__ mit den nächsten Schritten im Bewerbungsverfahren zu rechnen ist oder ob bereits eine Vorauswahl getroffen wurde?\n\nEine kurze Information über den Zeitrahmen, beispielsweise ob Entscheidungen __5__ der nächsten zwei bis drei Wochen zu erwarten sind, wäre für meine weitere Planung sehr hilfreich.\n\nIch wäre Ihnen für eine kurze Rückmeldung dankbar, __6__ ich entsprechend disponieren kann.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Außerdem"
+            "content": "damit"
         },
         {
             "id": "b",
-            "content": "bei"
+            "content": "wenn"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "innerhalb"
         },
         {
             "id": "d",
-            "content": "Könnten"
+            "content": "trotzdem"
         },
         {
             "id": "e",
-            "content": "mit"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "Obwohl"
+            "content": "deshalb"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "während"
         },
         {
             "id": "h",
-            "content": "vollständig"
+            "content": "um"
         },
         {
             "id": "i",
-            "content": "worauf"
+            "content": "nach wie vor"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "wann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
             "option_id": "i"
         },
         {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "a"
         }
     ]
 }

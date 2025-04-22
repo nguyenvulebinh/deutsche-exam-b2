@@ -1,52 +1,52 @@
 {
-    "thema": "Annahme eines Stellenangebots und Klärung von Details",
-    "textinhalt": "Betreff: Annahme Ihres Stellenangebots als Marketing Manager, Ref. MM-123\n\nSehr geehrte Frau Bauer,\n\nvielen Dank für Ihr Stellenangebot vom 15. Mai für die Position als Marketing Manager. Ich habe mich sehr __1__ gefreut und nehme Ihr Angebot hiermit gerne an. Ich freue mich __2__ auf die neue Herausforderung und die Zusammenarbeit mit dem Team in Ihrem Unternehmen.\n\nIn Ihrem Schreiben nennen Sie den 1. Juli als frühestmöglichen Eintrittstermin. Ich möchte kurz rückbestätigen, ob dies der definitive Starttermin ist, __3__ ich meine Kündigungsfrist bei meinem aktuellen Arbeitgeber korrekt einhalten kann.\n\nKönnten Sie mir __4__ mitteilen, welche Unterlagen (z.B. Sozialversicherungsausweis, Steuer-ID) ich __5__ meinem ersten Arbeitstag eventuell noch einreichen muss oder __6__ es spezifische Informationen zum Onboarding-Prozess gibt, die ich vorab wissen sollte?\n\nIch freue mich auf Ihre baldige Rückmeldung und den Start bei Ihnen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch als Projektmanager am 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf mein Vorstellungsgespräch für die Position als Projektmanager am 15. Mai, für das ich mich nochmals herzlich bedanken möchte.\n\n__1__ ist seit unserem Gespräch einige Zeit vergangen, __2__ möchte ich mich höflich erkundigen, __3__ ungefähr mit einer Entscheidung bezüglich der Stellenbesetzung zu rechnen ist.\n\nIch habe __4__ großes Interesse an dieser Position, __5__ das Gespräch meine positive Einschätzung des Unternehmens und der Aufgaben nur bestärkt hat.\n\nIch würde mich __6__ sehr über eine positive Rückmeldung freuen und stehe Ihnen für Rückfragen jederzeit gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "außerdem"
+            "content": "daher"
         },
         {
             "id": "b",
-            "content": "bereits"
-        },
-        {
-            "id": "c",
-            "content": "damit"
-        },
-        {
-            "id": "d",
-            "content": "darüber"
-        },
-        {
-            "id": "e",
-            "content": "davon"
-        },
-        {
-            "id": "f",
             "content": "deshalb"
         },
         {
+            "id": "c",
+            "content": "inzwischen"
+        },
+        {
+            "id": "d",
+            "content": "nach wie vor"
+        },
+        {
+            "id": "e",
+            "content": "obwohl"
+        },
+        {
+            "id": "f",
+            "content": "trotzdem"
+        },
+        {
             "id": "g",
-            "content": "noch"
+            "content": "weiterhin"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "wann"
         },
         {
             "id": "i",
-            "content": "sodass"
+            "content": "wenn"
         },
         {
             "id": "j",
-            "content": "vor"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "2",
@@ -54,11 +54,11 @@
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "a"
         }
     ]
 }

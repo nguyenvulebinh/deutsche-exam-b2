@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Einladung zum Vorstellungsgespräch am 15. Mai – Max Mustermann",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Position als Projektmanager am 15. Mai um 10:00 Uhr. Ich habe mich sehr __1__ gefreut.\n\nLeider muss ich Ihnen mitteilen, __2__ ich an diesem Termin bereits eine unaufschiebbare private Verpflichtung habe.\n\n__3__ wäre ich Ihnen sehr dankbar, wenn wir einen alternativen Termin finden könnten. Ich bin in der Woche vom 13. bis 17. Mai __4__ sehr flexibel, mit Ausnahme des Vormittags am 15. Mai.\n\n__5__ könnten wir uns vielleicht am Nachmittag des 15. Mai oder am 16. Mai treffen? Bitte teilen Sie mir mit, __6__ einer dieser Termine für Sie passend wäre.\n\nIch bin nach wie vor sehr an der Position interessiert und freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Projektmanager. Da ich __1__ keine Rückmeldung oder Eingangsbestätigung erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch möchte hiermit bestätigen, dass ich __2__ sehr an dieser Position interessiert bin. Die in der Ausschreibung genannten Aufgabenbereiche passen ausgezeichnet zu meinen Qualifikationen und beruflichen Zielen.\n\nIch wäre Ihnen dankbar, __3__ Sie mir einen kurzen Hinweis geben könnten, wann ungefähr mit einer Entscheidung oder den nächsten Schritten im Verfahren zu rechnen ist. Dies würde mir bei meiner weiteren Planung sehr helfen.\n\n__4__ Sie zusätzliche Informationen oder Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch kann Ihnen diese gerne __5__ nachreichen und freue mich __6__ Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Alternativ"
+            "content": "auf"
         },
         {
             "id": "b",
-            "content": "ansonsten"
+            "content": "bisher"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "Falls"
         },
         {
             "id": "d",
-            "content": "dass"
-        },
-        {
-            "id": "e",
-            "content": "davon"
-        },
-        {
-            "id": "f",
-            "content": "Deshalb"
-        },
-        {
-            "id": "g",
-            "content": "Jedoch"
-        },
-        {
-            "id": "h",
             "content": "ob"
         },
         {
+            "id": "e",
+            "content": "rechtzeitig"
+        },
+        {
+            "id": "f",
+            "content": "Sollten"
+        },
+        {
+            "id": "g",
+            "content": "über"
+        },
+        {
+            "id": "h",
+            "content": "umgehend"
+        },
+        {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
             "option_id": "b"
         },
         {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "a"
         }
     ]
 }

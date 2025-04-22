@@ -1,10 +1,10 @@
 {
-    "thema": "Email: Bitte um Verschiebung des Vorstellungsgesprächs",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] für die Position als [Positionsbezeichnung]. Ich habe mich sehr __1__ gefreut und bestätige hiermit mein großes Interesse an der Stelle.\n\n__2__ muss ich Ihnen jedoch mitteilen, dass ich den vorgeschlagenen Termin nicht wahrnehmen kann. __3__ ich bereits vor einigen Monaten eine längere Reise gebucht habe, die nicht mehr stornierbar ist, befinde ich mich zu diesem Zeitpunkt im Ausland.\n\nWäre es __4__ möglich, einen alternativen Termin zu finden? Ich stehe Ihnen gerne __5__ dem [Datum nach Rückkehr] wieder uneingeschränkt zur Verfügung und wäre flexibel bezüglich der genauen Uhrzeit.\n\nIch bitte um Ihr Verständnis und hoffe sehr, dass eine Verschiebung möglich ist, __6__ wir uns persönlich kennenlernen können. Über eine positive Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15.08.2023",
+    "textinhalt": "Sehr geehrte Frau Musterfrau,\n\nich beziehe mich auf meine Bewerbung vom 15.08.2023 für die ausgeschriebene Stelle als Projektmanager in Ihrem Unternehmen.\n\n__1__ sind nun einige Wochen vergangen, seit ich meine Unterlagen eingereicht habe, __2__ ich mich auf diesem Wege höflich erkundigen möchte, wie der aktuelle Stand des Auswahlverfahrens ist.\n\nIch bin nach wie vor sehr an dieser Position interessiert, __3__ die beschriebenen Aufgaben und die auf Ihrer Webseite dargestellte Unternehmensphilosophie meinen beruflichen Zielen und Qualifikationen sehr gut entsprechen.\n\nKönnten Sie mir eventuell eine kurze Auskunft geben, __4__ ungefähr mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist? Selbstverständlich habe ich Verständnis dafür, dass ein sorgfältiger Auswahlprozess Zeit benötigt.\n\nSollten Sie in der Zwischenzeit weitere Informationen oder ergänzende Dokumente von mir benötigen, stehe ich Ihnen gerne zur Verfügung und kann diese __5__ nachreichen. Ich wäre Ihnen dankbar für ein kurzes Update, __6__ ich meine weiteren Planungen entsprechend ausrichten kann.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "Obwohl"
         },
         {
             "id": "b",
@@ -12,35 +12,35 @@
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "wann"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "Seitdem"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "Während"
         },
         {
             "id": "f",
-            "content": "Deshalb"
+            "content": "umgehend"
         },
         {
             "id": "g",
-            "content": "eventuell"
+            "content": "da"
         },
         {
             "id": "h",
-            "content": "Leider"
+            "content": "Trotzdem"
         },
         {
             "id": "i",
-            "content": "Obwohl"
+            "content": "Ob"
         },
         {
             "id": "j",
-            "content": "seit"
+            "content": "weshalb"
         }
     ],
     "loesung": [
@@ -50,19 +50,19 @@
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
             "option_id": "g"
         },
         {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "f"
         },
         {
             "blank": "6",

@@ -1,30 +1,30 @@
 {
-    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
-    "textinhalt": "Sehr geehrte Frau Berghoff,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am kommenden Freitag für die Position als Projektmanager. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich an diesem spezifischen Tag bereits eine andere unaufschiebbare Verpflichtung habe, __3__ ich an einer lange vorausgeplanten Abschlussprüfung teilnehmen muss.\n\nIch wäre Ihnen __4__ sehr dankbar, wenn wir die Möglichkeit hätten, einen alternativen Termin zu finden. __5__ es Ihnen möglich ist, wäre ich beispielsweise am Montag oder Dienstag der Folgewoche verfügbar. Selbstverständlich richte ich mich aber auch gerne nach Ihren Vorschlägen.\n\nIch bin __6__ sehr an der ausgeschriebenen Stelle interessiert und hoffe auf Ihr Verständnis sowie eine positive Rückmeldung bezüglich eines neuen Termins.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Manager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing-Manager, die ich Ihnen am 25. April zugesandt habe. Den Eingang meiner Unterlagen haben Sie freundlicherweise bestätigt.\n\n__1__ nun einige Zeit vergangen ist, ohne dass ich eine weitere Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an der ausgeschriebenen Stelle ist __2__ sehr groß, da die Aufgabenbeschreibung und die Ausrichtung Ihres Unternehmens meinen beruflichen Vorstellungen und Qualifikationen stark entsprechen. __3__ die strategische Weiterentwicklung digitaler Kanäle reizt mich an der Position besonders.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wie der weitere Zeitplan aussieht oder wann __5__ mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich.\n\n__6__ bedanke ich mich bereits im Voraus für Ihre Bemühungen und verbleibe mit großem Interesse an einer positiven Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "daher"
+            "content": "bereits"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "da"
         },
         {
             "id": "d",
-            "content": "Falls"
+            "content": "daher"
         },
         {
             "id": "e",
-            "content": "Leider"
+            "content": "etwa"
         },
         {
             "id": "f",
-            "content": "Ob"
+            "content": "insbesondere"
         },
         {
             "id": "g",
@@ -36,37 +36,37 @@
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "weiterhin"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
             "option_id": "j"
         },
         {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
             "blank": "4",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "d"
         }
     ]
 }

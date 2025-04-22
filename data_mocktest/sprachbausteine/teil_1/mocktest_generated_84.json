@@ -1,72 +1,72 @@
 {
-    "thema": "Email responding positively to a job offer but requesting clarification on the exact start date.",
-    "textinhalt": "Betreff: Ihr Vertragsangebot für die Position [Position Name] - Referenz [Ref. Nr.]\n\nSehr geehrte Frau/Herr [Name],\n\nvielen herzlichen Dank für Ihr Vertragsangebot vom [Date] für die Position als [Position Name] und das mir __1__ Vertrauen. Ich habe mich sehr über Ihre positive Entscheidung gefreut.\n\n__2__ möchte ich das Angebot gerne annehmen. Die beschriebenen Aufgaben entsprechen genau meinen Vorstellungen und ich freue mich bereits sehr __3__, mein Wissen und meine Erfahrung in Ihr Team einzubringen.\n\nEine Frage hätte ich allerdings noch __4__ des Eintrittsdatums. Im Angebot ist der [Date, e.g., 1. August] genannt. Wäre es eventuell auch möglich, erst am [Later Date, e.g., 15. August] zu beginnen? Der Grund __5__ ist, dass ich meine aktuelle Position ordnungsgemäß übergeben möchte, was voraussichtlich etwas mehr Zeit in Anspruch nehmen wird.\n\nIch bin überzeugt, dass wir hierfür eine gute Lösung finden können. Bitte teilen Sie mir mit, __6__ dieser spätere Starttermin für Sie realisierbar wäre.\n\nVielen Dank im Voraus für Ihre Prüfung.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich beziehe mich auf meine Bewerbung als Marketingassistent vom 25. April und die freundliche Eingangsbestätigung Ihrerseits.\n\n__1__ sind nun mehrere Wochen vergangen, __2__ möchte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlverfahrens ist.\n\nKönnten Sie mir __3__ mitteilen, bis wann voraussichtlich mit einer Entscheidung zu rechnen ist?\n\nDie ausgeschriebene Stelle in Ihrem Unternehmen interessiert mich __4__ sehr, da die beschriebenen Aufgaben und die innovative Ausrichtung Ihrer Marketingabteilung meinen beruflichen Zielen und Qualifikationen optimal entsprechen.\n\nIch möchte __5__ sicherstellen, dass meine Bewerbung weiterhin im Prozess berücksichtigt wird.\n\n__6__ Rückfragen stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Damit"
+            "content": "SEITDEM"
         },
         {
             "id": "b",
-            "content": "darauf"
+            "content": "NUR"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "FÜR"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "INZWISCHEN"
         },
         {
             "id": "e",
-            "content": "dafür"
+            "content": "WÄHREND"
         },
         {
             "id": "f",
-            "content": "entgegengebrachte"
+            "content": "DESHALB"
         },
         {
             "id": "g",
-            "content": "Hiermit"
+            "content": "NACH WIE VOR"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "VIELLEICHT"
         },
         {
             "id": "i",
-            "content": "bezüglich"
+            "content": "ZU"
         },
         {
             "id": "j",
-            "content": "wegen"
+            "content": "TROTZDEM"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "c"
         }
     ]
 }

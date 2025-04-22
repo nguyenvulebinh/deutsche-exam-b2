@@ -1,14 +1,14 @@
 {
-    "thema": "Betreff: Ihr Stellenangebot als Marketingmanager vom 15.07. – Rückfrage zu Details",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihr Jobangebot für die Position als Marketingmanager, das ich gestern erhalten habe, und für das informative Gespräch letzte Woche. Ich freue mich sehr über die Zusage und mein Interesse an der Position ist __1__ groß.\n\n__2__ ich das Angebot formell annehme, hätte ich jedoch noch zwei kurze Fragen zu den Details, um sicherzugehen, dass ich alles richtig verstanden habe.\n\nSie erwähnten im Angebot den 1. August als mögliches Startdatum. __3__ ich aktuell noch eine Kündigungsfrist von vier Wochen zum Monatsende einhalten muss, wäre mein frühestmöglicher Starttermin der 1. September. Wäre dies für Sie ebenfalls denkbar?\n\nZweitens wurde im Gespräch kurz die Verantwortung für die Organisation von Webinaren angesprochen. Könnten Sie mir __4__ noch mitteilen, welchen ungefähren Umfang diese Aufgabe hätte und ob spezielle Softwarekenntnisse __5__ erforderlich sind?\n\nIch hoffe, diese Rückfragen stellen kein Problem dar und freue mich __6__, bald von Ihnen zu hören, um die nächsten Schritte zu besprechen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf meine Bewerbung als Marketing Manager, die ich Ihnen am 15. Mai zugesandt habe.\n\nDa ich __1__ noch keine Rückmeldung bezüglich des weiteren Vorgehens erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist __2__ bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungen Zeit in Anspruch nimmt. __3__ mein großes Interesse an dieser spezifischen Position und Ihrem Unternehmen unverändert fortbesteht, wäre ich Ihnen dennoch sehr dankbar, wenn Sie mir eine kurze Einschätzung zum weiteren Zeitplan geben könnten.\n\n__4__ die Stelle möglicherweise bereits intern oder anderweitig besetzt wurde, wäre eine kurze Benachrichtigung für meine weitere Planung ebenfalls hilfreich.\n\nIch bin __5__ davon überzeugt, dass meine Qualifikationen und meine Leidenschaft für strategisches Marketing einen wertvollen Beitrag für Ihr Team leisten können. Für Rückfragen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "obwohl"
         },
         {
             "id": "b",
-            "content": "Bevor"
+            "content": "weiterhin"
         },
         {
             "id": "c",
@@ -16,41 +16,41 @@
         },
         {
             "id": "d",
-            "content": "dafür"
+            "content": "jederzeit"
         },
         {
             "id": "e",
-            "content": "darauf"
+            "content": "trotzdem"
         },
         {
             "id": "f",
-            "content": "deshalb"
+            "content": "bisher"
         },
         {
             "id": "g",
-            "content": "eventuell"
+            "content": "Falls"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "sofort"
         },
         {
             "id": "i",
-            "content": "Während"
+            "content": "kaum"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "durchaus"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "3",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "d"
         }
     ]
 }

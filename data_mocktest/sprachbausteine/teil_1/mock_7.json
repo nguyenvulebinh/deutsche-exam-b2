@@ -1,0 +1,72 @@
+{
+  "thema": "Betreff: Meine Bewerbung vom 2. April",
+  "textinhalt": "Sehr geehrte Damen und Herren,\n\nvielen Dank für Ihre Empfangsbestätigung vom 4. April.\n\nSelbstverständlich ist mir bewusst, dass ein qualitativer Bewerbungsprozess Zeit in Anspruch nimmt. __1__ möchte ich mich gerne erkundigen, bis wann ich voraussichtlich mit einer Rückmeldung zu meiner Bewerbung rechnen kann.\n\nDarf ich Sie höflichst bitten, mir kurz Bescheid zu geben, __2__ Sie meine Bewerbung __3__ bearbeitet haben.\n\nAn einer Tätigkeit als Maurer in Ihrem Unternehmen habe ich nach wie vor großes Interesse.\n\nDa ich __4__ zwei Wochen die Sprachprüfung Deutsch für den Beruf B2 mit Erfolg abgeschlossen habe, füge ich diesem Schreiben eine Kopie meines B2-Zeugnisses bei.\n\nSollten Sie Fragen zu meinen Bewerbungsunterlagen haben, oder noch weitere Unterlagen benötigen, lassen Sie mich das bitte wissen. Diese werden dann von mir __5__ nachgereicht. __6__ meiner Fähigkeiten hoffe ich auf eine baldige Nachricht und Einladung zum Vorstellungsgespräch von Ihnen.\n\nMit freundlichen Grüßen\n\nSaad Ahmaledin",
+  "options": [
+    {
+      "id": "a",
+      "content": "WANN"
+    },
+    {
+      "id": "b",
+      "content": "DESWEGEN"
+    },
+    {
+      "id": "c",
+      "content": "AUFGRUND"
+    },
+    {
+      "id": "d",
+      "content": "AUßERDEM"
+    },
+    {
+      "id": "e",
+      "content": "INZWISCHEN"
+    },
+    {
+      "id": "f",
+      "content": "DENNOCH"
+    },
+    {
+      "id": "g",
+      "content": "DAHER"
+    },
+    {
+      "id": "h",
+      "content": "VOR"
+    },
+    {
+      "id": "i",
+      "content": "SOFORT"
+    },
+    {
+      "id": "j",
+      "content": "OB"
+    }
+  ],
+  "loesung": [
+    {
+      "blank": "1",
+      "option_id": "f"
+    },
+    {
+      "blank": "2",
+      "option_id": "j"
+    },
+    {
+      "blank": "3",
+      "option_id": "e"
+    },
+    {
+      "blank": "4",
+      "option_id": "h"
+    },
+    {
+      "blank": "5",
+      "option_id": "i"
+    },
+    {
+      "blank": "6",
+      "option_id": "c"
+    }
+  ]
+}

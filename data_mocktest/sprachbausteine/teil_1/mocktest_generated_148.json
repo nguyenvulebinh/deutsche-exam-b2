@@ -1,72 +1,72 @@
 {
-    "thema": "Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses",
-    "textinhalt": "Sehr geehrte/r Frau/Herr [Name des ehemaligen Vorgesetzten],\n\nich hoffe, es geht Ihnen gut. Wie Sie wissen, war ich vom [Startdatum] bis [Enddatum] in Ihrem Unternehmen als [Position] tätig.\n\n__1__ ich mich aktuell beruflich neu orientiere, benötige ich nun ein qualifiziertes Arbeitszeugnis. Ich wäre Ihnen sehr dankbar, __2__ Sie mir dieses ausstellen könnten.\n\nBesonders wichtig wären mir Angaben __3__ meinen konkreten Aufgabenbereichen sowie eine Bewertung meiner Leistungen und meines Sozialverhaltens. Informationen __4__ finden Sie sicher noch in meiner Personalakte.\n\nIch benötige das Zeugnis __5__ bis Ende nächsten Monats, da ich es für laufende Bewerbungsverfahren brauche.\n\nVielen Dank __6__ für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 05. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 05. April zugesandt habe.\n\n__1__ sind nun bereits mehrere Wochen vergangen, seitdem der Eingang meiner Unterlagen bestätigt wurde. Da ich bisher noch keine weitere Rückmeldung __2__ habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nWäre es Ihnen __3__ möglich, mir eine kurze Information zukommen zu lassen, bis wann etwa mit einer Entscheidung zu rechnen ist?\n\nDie Position entspricht nach wie vor genau meinen Vorstellungen und Qualifikationen, __4__ ich großes Interesse an einer Mitarbeit in Ihrem Unternehmen habe. Eine zeitnahe Rückmeldung wäre für meine weitere Planung sehr hilfreich, __5__ ich auch andere Bewerbungsprozesse verfolge.\n\nIch bedanke mich __6__ für Ihre Bemühungen und freue mich auf Ihre Antwort.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "gegebenenfalls"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "da"
         },
         {
             "id": "c",
-            "content": "dazu"
+            "content": "wirklich"
         },
         {
             "id": "d",
-            "content": "falls"
+            "content": "Inzwischen"
         },
         {
             "id": "e",
-            "content": "im Voraus"
+            "content": "weshalb"
         },
         {
             "id": "f",
-            "content": "möglichst"
+            "content": "Seitdem"
         },
         {
             "id": "g",
-            "content": "Obwohl"
+            "content": "im Voraus"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "erhalten"
         },
         {
             "id": "i",
-            "content": "wenn"
+            "content": "obwohl"
         },
         {
             "id": "j",
-            "content": "zu"
+            "content": "gehört"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "g"
         }
     ]
 }

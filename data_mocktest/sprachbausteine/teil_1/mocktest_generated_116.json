@@ -1,60 +1,60 @@
 {
-    "thema": "Antwort auf eine Einladung zum Vorstellungsgespräch mit Bitte um Terminverschiebung",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch – [Job Title]\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Stelle als [Job Title], die ich heute erhalten habe und __1__ ich mich sehr gefreut habe.\n\nLeider kann ich den von Ihnen vorgeschlagenen Termin am [Datum] nicht wahrnehmen, __2__ ich an diesem Tag bereits eine unaufschiebbare private Verpflichtung habe.\n\n__3__ möchte ich Sie höflich bitten zu prüfen, __4__ es möglich wäre, einen alternativen Termin für das Gespräch zu finden.\n\nIch wäre Ihnen sehr dankbar, wenn wir einen neuen Termin vereinbaren könnten. __5__ dem [Datum + 1 Tag] stehe ich Ihnen gerne zur Verfügung und bin zeitlich relativ flexibel.\n\nIch bin __6__ sehr an der Position in Ihrem Unternehmen interessiert und hoffe auf Ihr Verständnis.\n\nÜber eine positive Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent/-in vom 10.06.2024 - Kennziffer MA-451",
+    "textinhalt": "Sehr geehrte Frau Wagner,\n\n__1__ auf meine Bewerbung vom 10.06.2024 auf die Stelle als Marketingassistent/-in (Kennziffer MA-451) möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\nDa inzwischen einige Zeit vergangen ist und ich __2__ keine Eingangsbestätigung oder weitere Information erhalten habe, wollte ich __3__ kurz nachfragen.\nMein Interesse an dieser Position ist __4__ ungebrochen, da die Aufgabenbeschreibung sehr gut zu meinen Qualifikationen und beruflichen Zielen passt.\nIch wäre Ihnen dankbar, wenn Sie mir mitteilen könnten, __5__ Sie mir bereits eine ungefähre Auskunft über den weiteren Zeitrahmen geben können.\nFür Rückfragen stehe ich Ihnen selbstverständlich jederzeit gerne __6__ Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Ab"
+            "content": "für"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "Bezugnehmend"
         },
         {
             "id": "c",
-            "content": "deshalb"
+            "content": "wann"
         },
         {
             "id": "d",
-            "content": "ob"
-        },
-        {
-            "id": "e",
-            "content": "obwohl"
-        },
-        {
-            "id": "f",
-            "content": "trotzdem"
-        },
-        {
-            "id": "g",
             "content": "weiterhin"
         },
         {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "deshalb"
+        },
+        {
+            "id": "g",
+            "content": "bislang"
+        },
+        {
             "id": "h",
-            "content": "weil"
+            "content": "zur"
         },
         {
             "id": "i",
-            "content": "wenn"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "weil"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "h"
         }
     ]
 }

@@ -1,0 +1,72 @@
+{
+    "thema": "Kündigung zum 31.09.20xx",
+    "textinhalt": "Sehr geehrter Herr Biermann,\n\nwie Sie ja __1__ wissen, war ich vom 01.01.2004 bis 31.01.2022 bei Ihnen als Assistent der Geschäftsleitung tätig und habe fristgerecht gekündigt. __2__ meinen Umzug bedingt, musste ich leider mein Arbeitsverhältnis bei Ihnen kündigen.\n\nBitte bestätigen Sie mir __3__ den Erhalt der Kündigung schriftlich.\n\nHiermit bitte ich Sie, __4__ die Ausstellung eines qualifizierten Arbeitszeugnisses bis zum 15.03., da ich dieses bis zum 20.03. bei meinem neuen Arbeitgeber abgeben muss.\n\nDes Weiteren möchte ich mich bei Ihnen __5__ herzlich bedanken, dass ich mich nicht nur in Ihrem Unternehmen weiterentwickeln konnte, __6__ auf eine erfolgreiche Zusammenarbeit mit den Kollegen zurückblicken kann.\n\nBei Rückfragen können Sie sich gerne an mich wenden.\n\nMit freundlichen Grüßen\n\nRalf Feuerstein",
+    "options": [
+      {
+        "id": "a",
+        "content": "SICHERLICH"
+      },
+      {
+        "id": "b",
+        "content": "KEINESWEGS"
+      },
+      {
+        "id": "c",
+        "content": "PRO"
+      },
+      {
+        "id": "d",
+        "content": "UMGEHEND"
+      },
+      {
+        "id": "e",
+        "content": "NOCHMALS"
+      },
+      {
+        "id": "f",
+        "content": "SEHR"
+      },
+      {
+        "id": "g",
+        "content": "DAS"
+      },
+      {
+        "id": "h",
+        "content": "SONDERN"
+      },
+      {
+        "id": "i",
+        "content": "UM"
+      },
+      {
+        "id": "j",
+        "content": "DURCH"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "a"
+      },
+      {
+        "blank": "2",
+        "option_id": "j"
+      },
+      {
+        "blank": "3",
+        "option_id": "d"
+      },
+      {
+        "blank": "4",
+        "option_id": "i"
+      },
+      {
+        "blank": "5",
+        "option_id": "e"
+      },
+      {
+        "blank": "6",
+        "option_id": "h"
+      }
+    ]
+}

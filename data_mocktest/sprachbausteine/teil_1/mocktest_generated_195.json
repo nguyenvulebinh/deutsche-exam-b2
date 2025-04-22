@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Absage für die Stelle als [Position] – Meine Bewerbung vom [Datum]",
-    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für Ihre Nachricht vom [Datum] bezüglich meiner Bewerbung auf die Stelle als [Position]. Ich habe Ihre Absage erhalten.\n\n__1__ ich natürlich enttäuscht bin, respektiere ich Ihre Entscheidung. Mein Interesse __2__ [Firmenname] als potenziellem Arbeitgeber besteht __3__.\n\nUm mich für zukünftige Bewerbungen besser aufstellen zu können, wäre ich Ihnen sehr dankbar, __4__ Sie mir vielleicht ein kurzes Feedback geben könnten. Mich würde insbesondere interessieren, __5__ meine Qualifikationen nicht ganz den Anforderungen entsprochen haben oder woran es gelegen hat.\n\nIch bedanke mich nochmals für Ihre Zeit und Prüfung meiner Unterlagen und würde mich über eine kurze Rückmeldung freuen, __6__ es Ihre Zeit erlaubt.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage nach meinem Vorstellungsgespräch am 15. Mai als Projektmanager",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich möchte mich nochmals herzlich für das angenehme Vorstellungsgespräch am 15. Mai für die Position als Projektmanager bedanken.\n\nDas Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ bestätigt und mein Interesse an der Stelle weiter __2__. Ich bin __3__ davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen der ausgeschriebenen Position passen.\n\n__4__ möchte ich mich höflich erkundigen, wie der weitere Auswahlprozess aussieht und wann __5__ mit einer Entscheidung zu rechnen ist.\n\n__6__ Sie in der Zwischenzeit weitere Informationen oder Unterlagen benötigen sollten, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "an"
-        },
-        {
-            "id": "b",
-            "content": "für"
-        },
-        {
-            "id": "c",
-            "content": "ob"
-        },
-        {
-            "id": "d",
             "content": "obwohl"
         },
         {
-            "id": "e",
-            "content": "sofern"
+            "id": "b",
+            "content": "gestiegen"
         },
         {
-            "id": "f",
-            "content": "trotzdem"
+            "id": "c",
+            "content": "Daher"
         },
         {
-            "id": "g",
+            "id": "d",
             "content": "weiterhin"
         },
         {
+            "id": "e",
+            "content": "trotzdem"
+        },
+        {
+            "id": "f",
+            "content": "ungefähr"
+        },
+        {
+            "id": "g",
+            "content": "durchaus"
+        },
+        {
             "id": "h",
-            "content": "wenn"
+            "content": "Falls"
         },
         {
             "id": "i",
-            "content": "weshalb"
+            "content": "gesteigert"
         },
         {
             "id": "j",
-            "content": "wodurch"
+            "content": "genau"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
             "option_id": "g"
         },
         {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
+            "blank": "2",
             "option_id": "i"
         },
         {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "h"
         }
     ]
 }

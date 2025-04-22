@@ -9,10 +9,42 @@ import re
 load_dotenv()
 
 
+example_paths = [
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_1.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_2.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_3.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_4.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_5.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_6.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_7.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_8.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_9.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_10.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_11.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_12.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_13.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_14.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_15.json",
+  "data_mocktest/sprachbausteine/teil_1_refine/mock_16.json"
+]
+example_sample = []
+for path in example_paths:
+    with open(path, "r", encoding="utf-8") as f:
+        example_sample.append(json.load(f))
+
 def generate(debug=False):
     client = genai.Client(
         api_key=os.environ.get("GEMINI_API_KEY"),
     )
+
+    random.shuffle(example_sample)
+    example_for_prompt = [example_sample[i] for i in range(5)]
+
+    example_for_prompt_str = ""
+    for idx, example in enumerate(example_for_prompt):
+        example_for_prompt_str += f"Example {idx+1}:\n\n"
+        example_for_prompt_str += json.dumps(example, indent=4, ensure_ascii=False)
+        example_for_prompt_str += "\n\n-----\n\n"
 
     model = "gemini-2.5-pro-preview-03-25"
     contents = [
@@ -23,7 +55,7 @@ def generate(debug=False):
 
 The generated task will follow this sequence, reflecting the typical test presentation:
 
-1. Write a markdown to brainstorm the idea of the thema will implement (don't use thema Vorstellungsgespräch since it's already used in the example)
+1. Write a markdown to brainstorm the idea of the thema will implement
 2. Write a markdown to describe the idea of the text content (textinhalt), which part will be good to make the blank part for filling out and maybe a good part to have a distractor.
 3. Write a markdown to describe the idea of the distractor options, which can be confuse for the examinee.
 5. Output the whole task in json format as the example in the instruction"""),
@@ -35,542 +67,100 @@ The generated task will follow this sequence, reflecting the typical test presen
         system_instruction=[
             types.Part.from_text(text="""# Prompt for Designing a B2 German "Sprachbausteine" Mock Test
 
-## 1. Core Parameters
+## 1. Objective
 
-*   **Target Level:** B2 (GER / CEFR) - Focus on professional context (Beruf).
-*   **Format:** Formal Email / Letter
-*   **Number of Blanks:** 6
-*   **Number of Options:** 10 (6 correct answers + 4 distractors)
-*   **Approximate Text Length:** 100-150 words, 3-5 paragraphs.
+Generate a realistic German language test exercise in the format of "Sprachbausteine Teil 1" targeting the **B2 level** of the Common European Framework of Reference for Languages (CEFR/GER). The exercise should simulate a common professional communication scenario: **writing an email or letter to follow up on a job application**. The primary focus is on creating plausible and challenging multiple-choice options (distractors) that test common B2-level grammatical and lexical nuances.
 
-## 2. Thema (Topic)
+## 2. Input Parameters
 
-*   **Choose a specific scenario from professional communication related to job applications/work life.**
-    *   *Examples:*
-        *   Following up after sending an application (no response yet).
-        *   Responding to an interview invitation (confirming, suggesting alternative dates).
-        *   Following up after an interview (reiterating interest, providing additional info).
-        *   Inquiring about application status after a delay.
-        *   Clarifying details mentioned in a job offer or interview.
-        *   Reporting a technical problem with an online application portal.
-    *   **Selected Thema:** [Clearly state the chosen scenario, e.g., "Email requesting to reschedule an interview due to a prior commitment."]
+*   **Target Level:** B2 (GER / CEFR)
+*   **Exercise Format:** Sprachbausteine Teil 1 (Multiple-choice gap-fill)
+*   **Context:** Professional Communication - Follow-up regarding a job application (email or formal letter).
+*   **Number of Gaps:** 6
+*   **Number of Options:** 10
+*   **Focus Scenario (Choose one or combine elements):**
+    *   Inquiring about the application status after some time has passed.
+    *   Responding to a request for more information/documents.
+    *   Confirming receipt of an interview invitation / Requesting to reschedule an interview.
+    *   Expressing continued interest after an interview / Thanking for the interview.
+    *   Inquiring about a missing promised document (e.g., *Arbeitszeugnis*).
+    *   Reporting a technical issue with an online application portal.
+    *   Following up after submitting missing documents.
+    *   Inquiring about the next steps in the process.
+*   **Potential `Thema` (Subject Lines - Choose one relevant to the Focus Scenario - Or can expand the list to relevant scenario):**
+    *   Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] vom [Date]
+    *   Betreff: Meine Bewerbung als [Job Title] - Kennziffer [Reference Number]
+    *   Betreff: Rückfrage zu meiner Bewerbung vom [Date]
+    *   Betreff: Nachfrage zu meinem Vorstellungsgespräch am [Date]
+    *   Betreff: Benötigte Unterlagen für meine Bewerbung als [Job Title]
+    *   Betreff: Terminbestätigung / Terminanfrage Vorstellungsgespräch [Job Title]
+    *   Betreff: Fehlendes Arbeitszeugnis - Meine Bewerbung vom [Date]
+    *   Betreff: Problem mit Online-Bewerbung - [Your Name]
 
-## 3. Textinhalt (Content Design)
+## 3. Text Generation Guidelines
 
-*   **Draft the full text *without* blanks first.** Ensure it's a coherent, logical, and polite formal email/letter fitting the chosen Thema.
-*   **Include standard formal elements:**
-    *   Clear Subject Line (Betreff)
-    *   Formal Salutation (Sehr geehrte/r Frau/Herr [Name], Sehr geehrte Damen und Herren,)
-    *   Opening: Reference the context (Ihre Anzeige, unser Gespräch am..., Ihre Einladung zum...)
-    *   Body: State the main purpose/problem clearly. Provide concise reasons or explanations.
-    *   Closing: Express hope/request action (Ich freue mich auf..., Ich bitte um Ihr Verständnis..., Über eine baldige Nachricht würde ich mich freuen.)
-    *   Formal Closing (Mit freundlichen Grüßen)
-    *   Signature (Your Name)
-*   **Integrate opportunities for B2-level grammatical structures naturally within the text.** Focus on areas where choices are required (conjunctions, prepositions, adverbs, etc.).
+*   **Authenticity:** The text should sound like a genuine email or formal letter written in a professional German context. Use appropriate salutations (`Sehr geehrte/r Frau/Herr [Name]`, `Sehr geehrte Damen und Herren`) and closings (`Mit freundlichen Grüßen`).
+*   **Content:** The text must logically develop the chosen "Focus Scenario". It should include:
+    *   A clear reference to the previous application or contact (e.g., date, job title, interview, reference number).
+    *   The reason for writing (the follow-up action).
+    *   Relevant details (e.g., mentioning a deadline, another job offer, availability, specific document).
+    *   A polite request or statement.
+*   **Length:** The `textinhalt` (excluding salutation and closing) should be approximately **100-150 words** long **3-5 paragraphs**. This is typical for this type of communication and provides enough context for B2-level structures without being overwhelming.
+*   **B2 Complexity:**
+    *   **Vocabulary:** Use appropriate professional vocabulary related to applications, deadlines, documents, communication, interviews, etc. Avoid overly simplistic or highly specialized C1/C2 terms. Examples: `fristgerecht`, `bezugnehmend auf`, `Unterlagen`, `zeitnah`, `Rückmeldung`, `erkundigen`, `vereinbaren`, `nachreichen`, `bedauerlicherweise`, `gegebenenfalls`.
+    *   **Grammar:** Incorporate typical B2 structures: subordinate clauses (causal `weil/da`, temporal `als/wenn/während/seitdem/bis`, concessive `obwohl`, conditional `wenn/falls`, relative clauses, indirect questions `ob/wann/wie`), appropriate use of prepositions (especially two-way prepositions, prepositions governing specific cases, or those with specific meanings like `aufgrund`, `trotz`, `bezüglich`), conjunctions and connectors (adverbs like `deshalb/deswegen`, `trotzdem`, `allerdings`, `zudem`, `anschließend`; conjunctions like `sowohl...als auch`), passive voice where natural (e.g., `wurde mir mitgeteilt`), Konjunktiv II for politeness/hypothetical situations (`könnten Sie mir mitteilen`, `wäre es möglich`).
+*   **Gaps (`__1__` to `__6__`):** Place the gaps strategically to test understanding of connectors, prepositions, specific adverbs, modal particles, conjunctions, or verbs requiring specific prepositions/cases that are crucial for coherence and correctness at the B2 level.
 
-## 4. Blank Selection (Choosing Words to Remove)
+## 4. Gap & Option List Generation Guidelines (CRITICAL FOCUS)
 
-*   **Identify 6 words/short phrases to turn into blanks.**
-*   **Target specific B2 grammatical/lexical points:**
-    *   **Conjunctions:** Subordinating (weil, da, obwohl, während, als, wenn, dass, ob...) and Coordinating (aber, doch, sondern, denn...)
-    *   **Prepositions:** Those requiring specific cases (mit+D, für+A, wegen+G/D, trotz+G/D, innerhalb+G, während+G...) or used in specific contexts/collocations (Einblick *in*, Frage *nach*, interessiert *an*).
-    *   **Adverbs:** Temporal (dann, danach, inzwischen, seitdem, bereits, noch), Causal (deshalb, deswegen, daher, darum), Modal (gerne, leider, vielleicht), Concessive (trotzdem).
-    *   **Prepositional Adverbs:** darüber, darauf, davon, danach, worüber, wofür, womit... (especially when referring back to something).
-    *   **Particles/Modal Particles:** vielleicht, ja, doch (Use sparingly, often subtle).
-    *   **Context-Specific Vocabulary:** Occasionally, a noun or verb might be blanked if the context strongly implies it and distractors are possible.
-*   **List the words removed and their corresponding blank numbers (e.g., 1-6 or 46-51).**
+*   **Targeted Testing:** Each gap should test a specific grammatical or lexical point relevant to B2. Avoid gaps that test only basic A1/A2 vocabulary if other options are possible.
+*   **Correct Answers:** Select the grammatically and semantically correct word for each gap from the B2 range.
+*   **Distractor Design Strategy:** The remaining 4 options must be carefully crafted distractors. They should *not* be randomly chosen words. Design them based on the following principles, aiming for confusion if the test-taker lacks precise knowledge:
+    *   **Strategy 1: Grammatically Similar, Semantically Different:**
+        *   Include options from the **same word class** (e.g., another conjunction, another preposition, another temporal adverb) as the correct answer, but with a **meaning inappropriate** for the context.
+        *   *Example:* If the answer is the causal conjunction `weil`, a distractor could be the concessive conjunction `obwohl` or the temporal conjunction `während`.
+    *   **Strategy 2: Semantically Similar, Grammatically Different:**
+        *   Include options with a **similar meaning** to the correct answer but belonging to a **different word class** or requiring **different grammatical structures/case government**.
+        *   *Example:* If the answer is the preposition `wegen` (+ Genitive/Dativ), distractors could be the causal conjunction `weil` (requires a subordinate clause) or the causal adverb `deshalb` (requires specific sentence structure).
+        *   *Example:* If the answer is the concessive preposition `trotz` (+ Genitive/Dativ), a distractor could be `obwohl` (conjunction).
+    *   **Strategy 3: Common Learner Confusions:**
+        *   Include words frequently confused by learners at the B1/B2 level.
+        *   *Examples:* `seit` vs. `vor` (temporal), `wann` vs. `wenn` vs. `als` (temporal/conditional), `damit` vs. `um...zu` (final clauses), case confusion with prepositions (`für` + Acc vs. `wegen` + Gen/Dat vs. `dank` + Dat/Gen), modal particles (`doch`, `ja`, `wohl`, `eigentlich`), similar looking adverbs (`bereits` vs. `bereit`).
+    *   **Strategy 4: Contextual Plausibility (but Incorrect):**
+        *   Distractors should seem *somewhat plausible* in the sentence flow at first glance but be definitively wrong upon closer grammatical or semantic analysis within the specific sentence context. Avoid options that are completely nonsensical or belong to a completely unrelated topic.
+    *   **Grammatical Consistency (Distractors):** Ensure distractors generally fit the *potential* grammatical slot type (e.g., don't put a clear adjective where a connector is needed), unless exploiting Strategy 2/3.
+*   **Option List Finalization:**
+    *   The final list must contain 10 options (a-j), including the 6 correct answers and 4 well-designed distractors.
+    *   Randomize the order of options.
+    *   Ensure each option ID (a-j) is unique.
 
-## 5. Option Generation (Correct Answers and Distractors)
+## 5. Output Format
 
-*   **List the 6 Correct Answers:** These are the words removed in step 4.
-*   **Generate 4 Distractors:** These should be plausible but incorrect. Design them based on:
-    *   **Grammatical Fit, Semantic Mismatch:** Fits the sentence structure but not the meaning (e.g., using *obwohl* where *weil* is needed).
-    *   **Semantic Similarity, Grammatical Mismatch:** Similar meaning but wrong word type or case requirement (e.g., offering *trotz* when *trotzdem* is needed).
-    *   **Common Errors:** Words often confused by B2 learners (e.g., *als/wenn*, *seit/vor*, prepositions with wrong cases).
-    *   **Contextual Near Misses:** Words that almost fit or might fit another blank.
-    *   **Subtle Distinctions:** Pairs like *danach/darüber*, *deshalb/deswegen*, *seit/seitdem*.
-    *   **Avoid:** Completely unrelated words or obvious grammatical errors that make the choice too easy. Distractors should tempt the examinee who isn't reading carefully or fully understanding the grammar/context.
-*   **Final List of 10 Options:** Combine correct answers and distractors. Assign letters (a-j).
+Present the generated exercise in the following JSON format:
 
-## 6. Final Review
-
-*   Read the text with the blanks. Does it still make sense?
-*   Read the text inserting each correct answer. Does it flow correctly and mean what's intended?
-*   Consider each blank and its options. Are the distractors genuinely plausible for a B2 learner? Is there only ONE clearly correct answer for each blank based on grammar and context?
-*   Check if any option could ambiguously fit more than one blank. Adjust if necessary.
-
-## 7. Output Format (JSON)
-
-*   **Structure the final output in the requested JSON format:**
-    ```json
-    {
-      "thema": "...",
-      "textinhalt": "...", // Text with __blank_number__ placeholders
-      "options": [
-        { "id": "a", "content": "..." },
-        // ... up to j
-      ],
-      "loesung": [
-        { "blank": "blank_number_1", "option_id": "correct_letter_1" },
-        // ... up to blank 6
-      ]
-    }
-    ```
-
-Example 1:
-
+```json
 {
-    "thema": "Betreff: Meine Bewerbung vom 24.02.",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nbezugnehmend auf Ihr Stellenangebot unter der Nummer DA-501921 bei der Bundesagentur für Arbeit hatte ich mich am 24.07. bei Ihrem Unternehmen als Maschinenschlosser beworben. Den Eingang meiner Unterlagen hatte man mir auch __1__ bestätigt.\n\n__2__ sind fast fünf Wochen vergangen, doch leider habe ich __3__ heute noch keine Antwort von Ihnen erhalten. Es wäre sehr hilfreich, wenn Sie mir kurz mitteilen könnten, __4__ ich frühestens mit einer Antwort rechnen kann, da ich gerade noch von einem anderen Unternehmen auch ein interessantes Angebot erhalten habe. Eine Tätigkeit bei Ihnen würde mir jedoch mehr zusagen, allein schon __5__ der guten Erreichbarkeit des Arbeitsplatzes.\n\n__6__ möchte ich sicher sein, dass meine Bewerbung bei Ihnen nicht vergessen wurde. Über eine baldige Nachricht würde ich mich freuen.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nFreundliche Grüße\n\nValdis Jagodinskis",
-    "options": [
-      {
-        "id": "a",
-        "content": "AUFGRUND"
-      },
-      {
-        "id": "b",
-        "content": "BIS"
-      },
-      {
-        "id": "c",
-        "content": "DAHER"
-      },
-      {
-        "id": "d",
-        "content": "DARÜBER"
-      },
-      {
-        "id": "e",
-        "content": "OB"
-      },
-      {
-        "id": "f",
-        "content": "SEITDEM"
-      },
-      {
-        "id": "g",
-        "content": "SOBALD"
-      },
-      {
-        "id": "h",
-        "content": "SOFORT"
-      },
-      {
-        "id": "i",
-        "content": "WANN"
-      },
-      {
-        "id": "j",
-        "content": "ZWISCHEN"
-      }
-    ],
-    "loesung": [
-      {
-        "blank": "1",
-        "option_id": "h"
-      },
-      {
-        "blank": "2",
-        "option_id": "f"
-      },
-      {
-        "blank": "3",
-        "option_id": "b"
-      },
-      {
-        "blank": "4",
-        "option_id": "i"
-      },
-      {
-        "blank": "5",
-        "option_id": "a"
-      },
-      {
-        "blank": "6",
-        "option_id": "c"
-      }
-    ]
+  "thema": "...",
+  "textinhalt": "...", // Text with __blank_number__ placeholders
+  "options": [
+    { "id": "a", "content": "..." },
+    // ... up to j
+  ],
+  "loesung": [
+    { "blank": "blank_number_1", "option_id": "correct_letter_1" },
+    // ... up to blank 6
+  ]
 }
-  
+```
 
-Example 2:
+## 6. Quality Check
 
-{
-    "thema": "Betreff: Bewerbung als Tourismuskaufmann",
-    "textinhalt": "Sehr geehrter Herr Frenzel,\n\nauf der Internetseite Ihres Unternehmens bin ich auf das Stellenangebot "Reiseberater Südamerika" aufmerksam geworden. __1__ Tourismuskaufmann mit chilenischen Wurzeln und ausgezeichneten Kenntnissen der Zielregionen passe ich sehr gut in Ihr Anforderungsprofil und möchte mich gern bewerben.\n\nDas Online-Bewerbungsformular habe ich auch __2__ ausgefüllt und die erforderlichen Dokumente hochgeladen, allerdings gibt es ein technisches Problem: Die Bewerbung lässt sich nicht abschicken. Jedes Mal, __3__ ich auf "Senden" klicke, erhalte ich die Meldung "Senden fehlgeschlagen".\n\nKann ich Ihnen meine Bewerbung in diesem Fall __4__ per E-Mail zukommen lassen – obwohl in der Stellenanzeige steht, __5__ Sie ausschließlich Online-Bewerbungen akzeptieren?\n\nIch freue mich über Ihre Rückmeldung. Sie erreichen mich telefonisch unter 0555 26 09 19 30 oder per E-Mail. Telefonisch bin ich in der Regel __6__ 8:00 und 20:00 Uhr gut erreichbar.\n\nVielen Dank.\n\nMit freundlichen Grüßen\n\nJavier Guzmán",
-    "options": [
-      {
-        "id": "a",
-        "content": "ALS"
-      },
-      {
-        "id": "b",
-        "content": "AUSNAHMSWEISE"
-      },
-      {
-        "id": "c",
-        "content": "BEREITS"
-      },
-      {
-        "id": "d",
-        "content": "DASS"
-      },
-      {
-        "id": "e",
-        "content": "EBENFALLS"
-      },
-      {
-        "id": "f",
-        "content": "VON"
-      },
-      {
-        "id": "g",
-        "content": "WENN"
-      },
-      {
-        "id": "h",
-        "content": "WOBEI"
-      },
-      {
-        "id": "i",
-        "content": "ZEITWEISE"
-      },
-      {
-        "id": "j",
-        "content": "ZWISCHEN"
-      }
-    ],
-    "loesung": [
-      {
-        "blank": "1",
-        "option_id": "a"
-      },
-      {
-        "blank": "2",
-        "option_id": "c"
-      },
-      {
-        "blank": "3",
-        "option_id": "g"
-      },
-      {
-        "blank": "4",
-        "option_id": "b"
-      },
-      {
-        "blank": "5",
-        "option_id": "d"
-      },
-      {
-        "blank": "6",
-        "option_id": "j"
-      }
-    ]
-}
-  
+*   Review the generated text for natural flow, grammatical correctness, and B2-level appropriateness.
+*   Verify that each correct answer is indeed the only correct option.
+*   Critically evaluate the distractors: Are they genuinely plausible yet incorrect? Do they effectively test the targeted B2 challenges based on the strategies outlined above?
+*   Ensure the JSON format is correct.
 
-Example 3:
-
-{
-    "thema": "Betreff: Meine Bewerbung am 25.06. auf der Job-Messe",
-    "textinhalt": "Sehr geehrter Herr Radebrecht,\n\nim Juni hatte ich mich Ihnen auf der Job-Messe in Dresden persönlich vorgestellt und Ihnen __1__ auch meine Bewerbungsunterlagen gegeben. Nach einem intensiven Gespräch über die Tätigkeiten als Social-Media-Manager, haben Sie mir angeboten, meine Unterlagen an Ihre Marketingleiterin weiterzuleiten, __2__ ich mich sehr gefreut habe.\nLeider habe ich __3__ nichts mehr von Ihrem Unternehmen gehört und bin nun unsicher, ob die Unterlagen vielleicht verlorengegangen sind. __4__ melde ich mich schriftlich bei Ihnen und hänge meine Bewerbungsunterlagen zur Sicherheit noch einmal an.\nFür Ihr Unternehmen habe ich schon einige Ideen, __5__ Sie Ihr Online-Kundenmagazin noch interessanter machen können und mehr junge Menschen über soziale Medien erreichen.\nGerne führe ich diese in einem persönlichen Gespräch aus.\n\n__6__ ich zurzeit in keinem Beschäftigungsverhältnis stehe, bin ich zeitlich flexibel.\n\nVielen Dank im Voraus und mit freundlichen Grüßen\n\nKevin Murr",
-    "options": [
-      {
-        "id": "a",
-        "content": "DA"
-      },
-      {
-        "id": "b",
-        "content": "DABEI"
-      },
-      {
-        "id": "c",
-        "content": "DESHALB"
-      },
-      {
-        "id": "d",
-        "content": "MITTLERWEILE"
-      },
-      {
-        "id": "e",
-        "content": "OB"
-      },
-      {
-        "id": "f",
-        "content": "SEITDEM"
-      },
-      {
-        "id": "g",
-        "content": "WANN"
-      },
-      {
-        "id": "h",
-        "content": "WIE"
-      },
-      {
-        "id": "i",
-        "content": "WORAUF"
-      },
-      {
-        "id": "j",
-        "content": "WORÜBER"
-      }
-    ],
-    "loesung": [
-      {
-        "blank": "1",
-        "option_id": "b"
-      },
-      {
-        "blank": "2",
-        "option_id": "j"
-      },
-      {
-        "blank": "3",
-        "option_id": "f"
-      },
-      {
-        "blank": "4",
-        "option_id": "c"
-      },
-      {
-        "blank": "5",
-        "option_id": "h"
-      },
-      {
-        "blank": "6",
-        "option_id": "a"
-      }
-    ]
-}
-  
-
-Example 4:
-
-{
-    "thema": "Betreff: Mein Vorstellungsgespräch am 12. Juni",
-    "textinhalt": "Sehr geehrte Frau Kiensle,\n\ndanke, dass Sie mir am 12. Juni die Chance gegeben haben, mich __1__ bei Ihnen persönlich vorzustellen. Unser Gespräch hat mir gute Einblicke in die Abläufe und das kollegiale Betriebsklima in Ihrem Haus gegeben, __2__ war ich sehr beeindruckt.\n\n__3__ gut hat mir gefallen, dass Sie den Mitarbeitenden genug Zeit geben, auch auf Menschen mit geistigen Einschränkungen angemessen einzugehen.\n\nEin wenig verunsichert hat mich Ihre Frage __4__, wie ich mir einen guten Umgang mit Seniorinnen und Senioren in Ihrer Einrichtung vorstelle. Aber __5__ bin ich mir sicher, dass ich mit meinen Erfahrungen, die ich in zwei Demenz-WGs gemacht habe, sehr gut in Ihr Team passen würde.\n\nWie gewünscht möchte ich Ihnen deshalb zurückmelden, dass ich __6__ sehr an der Stelle interessiert bin.\n\nIch hoffe auf eine positive Rückmeldung und verbleibe\n\nmit freundlichen Grüßen\n\nKarina Nowitzky",
-    "options": [
-      {
-        "id": "a",
-        "content": "AUCH"
-      },
-      {
-        "id": "b",
-        "content": "BESONDERS"
-      },
-      {
-        "id": "c",
-        "content": "DANACH"
-      },
-      {
-        "id": "d",
-        "content": "DARÜBER"
-      },
-      {
-        "id": "e",
-        "content": "DAVON"
-      },
-      {
-        "id": "f",
-        "content": "FOLGLICH"
-      },
-      {
-        "id": "g",
-        "content": "JETZT"
-      },
-      {
-        "id": "h",
-        "content": "NICHT"
-      },
-      {
-        "id": "i",
-        "content": "WEITERHIN"
-      },
-      {
-        "id": "j",
-        "content": "ZURZEIT"
-      }
-    ],
-    "loesung": [
-      {
-        "blank": "1",
-        "option_id": "a"
-      },
-      {
-        "blank": "2",
-        "option_id": "e"
-      },
-      {
-        "blank": "3",
-        "option_id": "b"
-      },
-      {
-        "blank": "4",
-        "option_id": "c"
-      },
-      {
-        "blank": "5",
-        "option_id": "g"
-      },
-      {
-        "blank": "6",
-        "option_id": "i"
-      }
-    ]
-}
-  
-
-Example 5:
-
-{
-    "thema": "Betreff: Unser Gespräch am 19.9.",
-    "textinhalt": "Sehr geehrte Frau Peters,\n\nzunächst noch einmal herzlichen Dank für das angenehme Vorstellungsgespräch in Ihrem Unternehmen.\n\nEs hat mich sehr gefreut, Sie und Ihren Kollegen Herrn Schubert kennenzulernen.\nBesonders interessant waren die Einblicke __1__ die Pläne für die Expansion. Ich würde mich sehr freuen, __2__ ich Ihr Unternehmen zukünftig unterstützen könnte.\nWie Sie wissen, bin ich derzeit __3__ in einem ungekündigten Arbeitsverhältnis und reise ab Montag kurzfristig beruflich ins Ausland. __4__ werde ich telefonisch nicht gut erreichbar sein. Ich wollte Sie nur kurz __5__ informieren, da Sie sich ja in den nächsten zwei Wochen wieder bei mir melden wollten.\nIch bin nach wie vor sehr an der Stelle interessiert und ab übernächster Woche auch wieder in Deutschland. Natürlich können Sie mich __6__ aber immer per E-Mail erreichen.\n\nIch freue mich darauf, wieder von Ihnen zu hören!\n\nMit freundlichen Grüßen\nSabrina Sturm",
-    "options": [
-      {
-        "id": "a",
-        "content": "DA"
-      },
-      {
-        "id": "b",
-        "content": "DAHER"
-      },
-      {
-        "id": "c",
-        "content": "DARÜBER"
-      },
-      {
-        "id": "d",
-        "content": "DAZWISCHEN"
-      },
-      {
-        "id": "e",
-        "content": "FÜR"
-      },
-      {
-        "id": "f",
-        "content": "IN"
-      },
-      {
-        "id": "g",
-        "content": "NOCH"
-      },
-      {
-        "id": "h",
-        "content": "SCHON"
-      },
-      {
-        "id": "i",
-        "content": "WENN"
-      },
-      {
-        "id": "j",
-        "content": "ZWISCHENZEITLICH"
-      }
-    ],
-    "loesung": [
-      {
-        "blank": "1",
-        "option_id": "f"
-      },
-      {
-        "blank": "2",
-        "option_id": "i"
-      },
-      {
-        "blank": "3",
-        "option_id": "g"
-      },
-      {
-        "blank": "4",
-        "option_id": "b"
-      },
-      {
-        "blank": "5",
-        "option_id": "c"
-      },
-      {
-        "blank": "6",
-        "option_id": "j"
-      }
-    ]
-}
-  
-
-Example 6:
-
-{
-    "thema": "Betreff: Meine Bewerbung vom 27.3., Stellenzeichen JU-2022",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nvor einiger Zeit habe ich mich bei Ihnen auf die Stelle als Erzieher beworben und eine Einladung zu einem Vorstellungsgespräch am fünften Mai erhalten, __1__ ich mich sehr gefreut habe. Dürfte ich Sie __2__ bitten, das Gespräch zu verschieben, __3__ ich genau an diesem Tag meine letzte mündliche Prüfung absolvieren muss? Wenn das Gespräch nicht __4__ der Prüfungszeit stattfinden würde, sondern erst danach, wäre ich sehr dankbar. __5__ dem fünften Mai bin ich flexibel.\nAnbei schicke ich Ihnen außerdem wie telefonisch besprochen die Referenz meiner derzeitigen Praktikumsanleiterin. Das Abschlusszeugnis erhalte ich __6__ nach der mündlichen Prüfung und werde es Ihnen dann so schnell wie möglich nachreichen.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\nJonathan Spielberger",
-    "options": [
-      {
-        "id": "a",
-        "content": "AB"
-      },
-      {
-        "id": "b",
-        "content": "DEMNÄCHST"
-      },
-      {
-        "id": "c",
-        "content": "DESWEGEN"
-      },
-      {
-        "id": "d",
-        "content": "ERST"
-      },
-      {
-        "id": "e",
-        "content": "NUN"
-      },
-      {
-        "id": "f",
-        "content": "SEIT"
-      },
-      {
-        "id": "g",
-        "content": "TROTZDEM"
-      },
-      {
-        "id": "h",
-        "content": "WÄHREND"
-      },
-      {
-        "id": "i",
-        "content": "WEIL"
-      },
-      {
-        "id": "j",
-        "content": "WORÜBER"
-      }
-    ],
-    "loesung": [
-      {
-        "blank": "1",
-        "option_id": "j"
-      },
-      {
-        "blank": "2",
-        "option_id": "c"
-      },
-      {
-        "blank": "3",
-        "option_id": "i"
-      },
-      {
-        "blank": "4",
-        "option_id": "h"
-      },
-      {
-        "blank": "5",
-        "option_id": "a"
-      },
-      {
-        "blank": "6",
-        "option_id": "d"
-      }
-    ]
-}"""),
+""" + example_for_prompt_str),
         ],
     )
     output = ""
@@ -754,8 +344,10 @@ def generate_mocktest(debug=False):
 if __name__ == "__main__":
 
     # Generate more mocktests
-    num_tests = 200  # Number of tests to generate
-    start_idx = 130   # Starting index for filenames
+    num_tests = 30  # Number of tests to generate
+    shard_idx = 5
+    total_shard = 6
+    start_idx = len(example_sample) + shard_idx * num_tests  # Starting index for filenames
     idx = 0
     print(f"Generating {num_tests} mock tests...")
     
@@ -763,7 +355,7 @@ if __name__ == "__main__":
         try:
             print(f"Generating test {idx+1}/{num_tests}...")
             mocktest = generate_mocktest(debug=True)
-            output_path = f"/Users/binhnguyen/Workspaces/TELC_B2_test/data_mocktest/sprachbausteine/teil_1/mocktest_generated_{idx + start_idx}.json"
+            output_path = f"/Users/binhnguyen/Workspaces/TELC_B2_test/data_mocktest/sprachbausteine/teil_1_refine/mocktest_generated_{idx + 1 + start_idx}.json"
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(mocktest, f, indent=4, ensure_ascii=False)
             print(f"Successfully generated test {idx+1}/{num_tests}")

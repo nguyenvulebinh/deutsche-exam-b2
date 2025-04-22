@@ -1,60 +1,60 @@
 {
-    "thema": "Email nach Jobzusage: Klärung von Details (Startdatum, Unterlagen)",
-    "textinhalt": "Betreff: Ihr Stellenangebot als Projektmanager vom 15.03.\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihr Schreiben vom 15. März und das damit verbundene Stellenangebot als Projektmanager. Ich habe mich sehr __1__ gefreut und nehme das Angebot gerne an.\n\nIch freue mich __2__ auf die Zusammenarbeit und die neuen Herausforderungen in Ihrem Team.\n\n__3__ ich den Arbeitsvertrag unterzeichne, hätte ich noch zwei kurze Fragen zur Klärung einiger Details. In unserem Gespräch hatten wir den 1. Mai als möglichen Starttermin erwähnt, im Angebotsschreiben steht __4__ der 15. Mai. Könnten Sie bitte kurz bestätigen, welches Datum nun verbindlich ist?\n\nAußerdem wüsste ich gerne, __5__ Unterlagen oder Nachweise ich Ihnen idealerweise vor meinem ersten Arbeitstag zukommen lassen soll.\n\nIch wäre Ihnen dankbar, __6__ Sie mir diese Informationen bei Gelegenheit zukommen lassen könnten.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April zugesandt habe. Ich habe Verständnis dafür, dass die Prüfung aller Unterlagen einige Zeit in Anspruch nimmt. __1__ möchte ich mich höflich erkundigen, ob es bereits Neuigkeiten bezüglich des Auswahlverfahrens gibt.\n\nKönnten Sie mir eventuell mitteilen, __2__ ich ungefähr mit einer Entscheidung oder dem nächsten Schritt rechnen kann? Mein Interesse an dieser Position ist __3__ sehr groß.\n\nIch möchte auch erwähnen, dass ich __4__ kurzem einen Online-Kurs im Bereich Social Media Marketing erfolgreich abgeschlossen habe, was für diese Stelle relevant sein könnte.\n\nSollten Sie __5__ weitere Dokumente benötigen, lassen Sie es mich bitte wissen.\n\n__6__ meiner Qualifikationen und meines Engagements hoffe ich sehr auf eine positive Rückmeldung.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "AUFGRUND"
         },
         {
             "id": "b",
-            "content": "Bevor"
+            "content": "DENNOCH"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "DESHALB"
         },
         {
             "id": "d",
-            "content": "davon"
+            "content": "OB"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "SEIT"
         },
         {
             "id": "f",
-            "content": "gerne"
+            "content": "TROTZ"
         },
         {
             "id": "g",
-            "content": "jedoch"
+            "content": "VOR"
         },
         {
             "id": "h",
-            "content": "während"
+            "content": "WANN"
         },
         {
             "id": "i",
-            "content": "welche"
+            "content": "WEITERHIN"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "ZUSÄTZLICH"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "i"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "a"
         }
     ]
 }

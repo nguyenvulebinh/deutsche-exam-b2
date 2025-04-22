@@ -1,72 +1,72 @@
 {
-    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.07., Kennziffer FIN-03\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Juli um 10:00 Uhr für die Position als Finanzbuchhalter (Kennziffer FIN-03). Ich habe mich sehr über Ihre positive Rückmeldung gefreut.\n\nLeider habe ich an diesem spezifischen Vormittag bereits einen anderen, unaufschiebbaren Termin, __1__ ich eine seit längerem geplante ärztliche Untersuchung wahrnehmen muss.\n\n__2__ möchte ich Sie höflich bitten, ob wir einen alternativen Termin finden könnten.\n\nIch bin zeitlich relativ flexibel. __3__ dem 16. Juli stehe ich Ihnen gerne zur Verfügung. Wäre es beispielsweise möglich, das Gespräch in der Woche vom 19. Juli durchzuführen?\n\nMein Interesse an der Position und Ihrem Unternehmen ist __4__ groß. Die Aufgabenbereiche klingen sehr spannend.\n\n__5__ freue ich mich besonders, meine Kenntnisse im Bereich der internationalen Rechnungslegung einbringen zu können.\n\nIch hoffe auf Ihr Verständnis und wäre Ihnen dankbar, __6__ Sie mir alternative Terminvorschläge zusenden könnten.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich __1__ meine Bewerbung als Marketing Manager vom 15. Mai und wollte mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist bewusst, dass die sorgfältige Prüfung aller Unterlagen einige Zeit in Anspruch nimmt. __2__ wollte ich fragen, __3__ Sie mir eventuell schon eine ungefähre Zeitangabe geben könnten, wann mit einer Entscheidung zu rechnen ist.\n\nIch bin __4__ sehr an dieser Position interessiert, da die Aufgabenbeschreibung und die Unternehmenswerte perfekt zu meinen Qualifikationen und beruflichen Zielen passen.\n\nÜber eine baldige Rückmeldung würde ich mich sehr freuen. Für Rückfragen stehe ich Ihnen __5__ gerne zur Verfügung. Vielen Dank __6__ Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Ab"
+            "content": "deshalb"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "für"
         },
         {
             "id": "c",
-            "content": "Darauf"
+            "content": "weiterhin"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "an"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "auf"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "wann"
         },
         {
             "id": "g",
-            "content": "seit"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "selbstverständlich"
         },
         {
             "id": "i",
-            "content": "unverändert"
+            "content": "bereits"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "dennoch"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "g"
         },
         {
             "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "b"
         }
     ]
 }

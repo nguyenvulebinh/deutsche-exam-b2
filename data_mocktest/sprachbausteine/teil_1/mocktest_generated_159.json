@@ -1,52 +1,52 @@
 {
-    "thema": "Email an Vorgesetzte/n: Klärung einer Arbeitsaufgabe",
-    "textinhalt": "Betreff: Bitte um Klärung – Aufgabe Projektbericht Q3\n\nSehr geehrte Frau Schneider,\n\nich beziehe mich auf die Aufgabe zur Erstellung des Projektberichts für das dritte Quartal, die Sie mir heute Morgen zugewiesen haben. Ich habe die Anweisungen und die beigefügte Vorlage bereits studiert.\n\nAllerdings bin ich mir bei einem Punkt nicht ganz sicher. Es geht __1__ die genaue Definition der Kennzahl „Kundenfeedback-Index“. Sollen __2__ die Daten aus der letzten Online-Umfrage berücksichtigt werden, oder auch direktes Feedback aus E-Mails?\n\nDie Vorlage ist hier nicht ganz eindeutig. __3__ wäre ich Ihnen dankbar, wenn Sie mir kurz erläutern könnten, __4__ Datenquellen genau für diesen Index relevant sind. Vielleicht könnten wir uns kurz __5__ austauschen, __6__ Sie einen Moment Zeit haben?\n\nIch möchte sicherstellen, dass der Bericht Ihren Erwartungen entspricht.\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nPeter Klein",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05.06.2024",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 05. Juni übermittelt habe, und danke Ihnen für die Eingangsbestätigung.\n\nDa __1__ einige Wochen vergangen sind, möchte ich mich __2__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir vielleicht eine kurze Auskunft geben, __3__ ungefähr mit einer Entscheidung oder den nächsten Schritten zu rechnen ist?\n\nMein Interesse an dieser vielversprechenden Stelle in Ihrem Unternehmen ist __4__ sehr groß. Die beschriebenen Aufgaben entsprechen genau meinen beruflichen Erfahrungen und Zielen.\n\nSollten Sie __5__ meiner Bewerbung noch Fragen haben oder weitere Unterlagen benötigen, stehe ich Ihnen __6__ zur Verfügung.\n\nIch freue mich auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "darüber"
+            "content": "über"
         },
         {
             "id": "b",
-            "content": "dazu"
+            "content": "wann"
         },
         {
             "id": "c",
-            "content": "deshalb"
+            "content": "nach wie vor"
         },
         {
             "id": "d",
-            "content": "nur"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "obwohl"
+            "content": "ob"
         },
         {
             "id": "f",
-            "content": "sobald"
+            "content": "inzwischen"
         },
         {
             "id": "g",
-            "content": "um"
+            "content": "gerne"
         },
         {
             "id": "h",
-            "content": "was"
+            "content": "seitdem"
         },
         {
             "id": "i",
-            "content": "welche"
+            "content": "zu"
         },
         {
             "id": "j",
-            "content": "während"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "f"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "g"
         }
     ]
 }

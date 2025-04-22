@@ -1,72 +1,72 @@
 {
-    "thema": "Anfrage zu internen Weiterbildungsmöglichkeiten",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich schreibe Ihnen bezüglich der internen Weiterbildungsmöglichkeiten in unserem Unternehmen. Schon während meines Einarbeitungsprozesses wurde erwähnt, dass die berufliche Entwicklung der Mitarbeiter aktiv gefördert wird.\n\nIch persönlich interessiere mich sehr für eine Weiterbildung im Bereich Projektmanagement, __1__ ich in Zukunft gerne mehr Verantwortung bei größeren Projekten übernehmen möchte. Dies wäre sicherlich auch für meine aktuelle Tätigkeit im Team sehr nützlich.\n\n__2__ Sie mir vielleicht mitteilen, __3__ der Prozess zur Anmeldung für solche Kurse aussieht und ob es bestimmte Voraussetzungen gibt? Gibt es möglicherweise einen Kurskatalog, der __4__ des nächsten Halbjahres gültig ist?\n\nIch habe __5__ auf der Intranetseite einige Informationen gefunden, aber die genauen Schritte zur Beantragung waren mir nicht ganz klar.\n\nIch wäre Ihnen dankbar, wenn Sie mir nähere Informationen zukommen lassen oder mir einen Ansprechpartner nennen könnten. Über eine baldige Rückmeldung __6__ würde ich mich sehr freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
+    "textinhalt": "Sehr geehrte Frau Jansen,\n\n__1__ auf meine Bewerbung vom 05. April für die Position als Marketing Manager möchte ich mich kurz bei Ihnen melden. Den Eingang meiner Unterlagen hatten Sie mir dankenswerterweise bestätigt.\n\nDa nun einige Wochen vergangen sind, wollte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlverfahrens ist. Mein Interesse an dieser spannenden Tätigkeit und Ihrem Unternehmen ist __2__ sehr groß.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, __4__ eine Entscheidung über die Besetzung der Stelle getroffen wird? Dies wäre für meine weitere Planung sehr hilfreich.\n\nIch bin weiterhin fest davon überzeugt, __5__ meine Qualifikationen und meine bisherige Berufserfahrung sehr gut zu den Anforderungen der Position passen.\n\n__6__ Sie in der Zwischenzeit weitere Informationen oder Dokumente von mir benötigen, lassen Sie es mich bitte wissen. Ich stehe Ihnen dafür jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "ob"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "Falls"
         },
         {
             "id": "c",
-            "content": "damit"
+            "content": "wann"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "bereits"
         },
         {
             "id": "e",
-            "content": "innerhalb"
+            "content": "dass"
         },
         {
             "id": "f",
-            "content": "Könnten"
+            "content": "eventuell"
         },
         {
             "id": "g",
-            "content": "Müssten"
+            "content": "Obwohl"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "nach wie vor"
         },
         {
             "id": "i",
-            "content": "trotz"
+            "content": "deshalb"
         },
         {
             "id": "j",
-            "content": "wie"
+            "content": "Bezugnehmend"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
             "option_id": "j"
         },
         {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "b"
         }
     ]
 }

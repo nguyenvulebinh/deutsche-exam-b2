@@ -1,68 +1,68 @@
 {
-    "thema": "Email asking for clarification on specific points in a received job offer",
-    "textinhalt": "Betreff: Ihr Vertragsangebot für die Stelle als Projektmanager, Kennziffer PM-105\n\nSehr geehrte Frau Keller,\n\nvielen Dank für Ihr Vertragsangebot für die Stelle als Projektmanager, __1__ ich mich sehr gefreut habe. Es bestärkt meinen Wunsch, Teil Ihres Teams zu werden.\n\nIch habe den Vertrag sorgfältig durchgelesen und hätte __2__ einige Punkte noch Klärungsbedarf. Im Vertrag ist der 1. August als Startdatum genannt. __3__ wir im Gespräch jedoch den 15. August als frühestmöglichen Termin vereinbart hatten, wollte ich nachfragen, ob es sich hierbei um ein Versehen handelt.\n\nAußerdem wird eine betriebliche Altersvorsorge erwähnt. Könnten Sie mir __4__ bitte noch detailliertere Informationen zu den Konditionen und Wahlmöglichkeiten zukommen lassen?\n\nUnabhängig __5__ diesen Detailfragen freue ich mich weiterhin sehr auf die Möglichkeit, meine Fähigkeiten in Ihrem Unternehmen einzubringen. Ich wäre Ihnen dankbar, wenn Sie mir diese Punkte kurz erläutern könnten. __6__ bitte ich um eine kurze Bestätigung des korrekten Startdatums, sobald dieses geklärt ist.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April - Kennziffer MA-2024-08",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung als Marketingassistent vom 25. April (Kennziffer MA-2024-08), möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist __1__ bewusst, dass die sorgfältige Prüfung aller Unterlagen einige Zeit in Anspruch nimmt. Da __2__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, wollte ich nachfragen, ob Sie mir eventuell schon einen ungefähren Zeitrahmen für die nächsten Schritte nennen könnten.\n\nMein Interesse an der Position und an Ihrem Unternehmen ist __3__ unverändert groß. Die in der Ausschreibung genannten Aufgabenbereiche entsprechen genau meinen Qualifikationen und beruflichen Zielen, __4__ ich überzeugt bin, einen wertvollen Beitrag zu Ihrem Team leisten zu können.\n\nKönnten Sie mir __5__ mitteilen, ob bereits eine engere Auswahl getroffen wurde oder wann mit einer Entscheidung zu rechnen ist? Sollten Sie __6__ noch weitere Informationen oder Unterlagen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\nMit freundlichen Grüßen\n\n[Max Mustermann]",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "bereits"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "durchaus"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "eigentlich"
         },
         {
             "id": "d",
-            "content": "dazu"
+            "content": "eventuell"
         },
         {
             "id": "e",
-            "content": "Deshalb"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "hierzu"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "Obwohl"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "Weil"
+            "content": "weiterhin"
         },
         {
             "id": "i",
-            "content": "worüber"
+            "content": "weshalb"
         },
         {
             "id": "j",
-            "content": "Zudem"
+            "content": "zwischenzeitlich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "6",

@@ -1,72 +1,72 @@
 {
-    "thema": "Anfrage bezüglich einer Hospitation im Bereich Online-Marketing",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse verfolge ich die Aktivitäten Ihres Unternehmens im Bereich Online-Marketing, __1__ ich mich im Rahmen meines BWL-Studiums gerade intensiv mit diesem Thema beschäftige. __2__ würde ich gerne praktische Einblicke gewinnen und anfragen, __3__ Sie grundsätzlich die Möglichkeit einer Hospitation für Studierende anbieten.\n\nMich interessiert __4__ der Bereich Social Media Marketing. Ein Zeitraum von zwei bis vier Wochen wäre für mich ideal, __5__ des kommenden Semesters.\n\nÜber eine kurze Rückmeldung __6__, ob eine solche Hospitation denkbar wäre und wie das weitere Vorgehen aussehen würde, würde ich mich sehr freuen.\n\nMeinen Lebenslauf mit weiteren Informationen zu meiner Person finden Sie im Anhang.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Manager (Kennziffer MM-45B) vom 05. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing-Manager (Kennziffer MM-45B), die ich Ihnen am 05. April über Ihr Online-Portal zugesendet habe.\n\n__1__ nun bereits einige Zeit vergangen ist, seitdem ich die automatische Eingangsbestätigung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlprozesses erkundigen.\nIch bin nach wie vor sehr an dieser Position interessiert, __2__ die beschriebenen Aufgabenbereiche genau meinen Qualifikationen und beruflichen Zielen entsprechen.\n\nKönnten Sie mir __3__ eine kurze Auskunft darüber geben, wann mit den nächsten Schritten im Bewerbungsverfahren zu rechnen ist?\nIch frage auch __4__, da ich in Kürze über ein anderes Angebot entscheiden müsste, Ihre Stelle jedoch klar bevorzugen würde.\n\nFür die Zusendung weiterer Unterlagen oder ein persönliches Gespräch stehe ich Ihnen __5__ gerne zur Verfügung.\nVielen Dank __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "darauf"
+            "content": "selbstverständlich"
         },
         {
             "id": "c",
-            "content": "dazu"
-        },
-        {
-            "id": "d",
             "content": "deshalb"
         },
         {
+            "id": "d",
+            "content": "für"
+        },
+        {
             "id": "e",
-            "content": "insbesondere"
+            "content": "Seitdem"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "Da"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "Zu"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "vielleicht"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "Trotzdem"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "weil"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
-        },
-        {
-            "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
             "option_id": "f"
         },
         {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "d"
         }
     ]
 }

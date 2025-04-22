@@ -1,72 +1,72 @@
 {
-    "thema": "Email: Bitte um Verschiebung eines Vorstellungsgesprächs",
-    "textinhalt": "Betreff: Ihr Terminvorschlag für das Vorstellungsgespräch – [Position]\n\nSehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] und für das __1__ verbundene Interesse an meiner Person. Ich habe mich sehr __2__ gefreut.\n\n__3__ muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin nicht wahrnehmen kann, __4__ ich an diesem Tag bereits eine unaufschiebbare private Verpflichtung habe (einen lange geplanten Arzttermin).\n\nSelbstverständlich bin ich weiterhin sehr an der Position interessiert. Wäre es __5__, das Gespräch zu einem anderen Zeitpunkt zu führen? Ich wäre Ihnen dankbar für alternative Vorschläge.\n\n__6__ anderer Termine in derselben oder der nächsten Woche bin ich recht flexibel.\n\nIch bitte um Ihr Verständnis und freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung als Marketing Manager vom 25. April, __1__ Eingang Sie mir dankenswerterweise kurz darauf bestätigt haben.\n\n__2__ sind nun einige Wochen vergangen, seit ich von Ihnen gehört habe. Da ich __3__ sehr an dieser Position interessiert bin und die Aufgabenbeschreibung genau meinen Fähigkeiten und Interessen entspricht, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir eventuell eine kurze Auskunft geben, __4__ ungefähr mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __5__ ich die in Aussicht gestellten Projekte und die Unternehmenskultur besonders schätze.\n\nFür Rückfragen oder ein weiterführendes Gespräch stehe ich Ihnen selbstverständlich __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Jedoch"
+            "content": "ob"
         },
         {
             "id": "b",
-            "content": "Bezüglich"
+            "content": "Während"
         },
         {
             "id": "c",
-            "content": "möglich"
+            "content": "jederzeit"
         },
         {
             "id": "d",
-            "content": "damit"
+            "content": "dessen"
         },
         {
             "id": "e",
-            "content": "Trotz"
+            "content": "weiterhin"
         },
         {
             "id": "f",
-            "content": "darüber"
+            "content": "trotzdem"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "deren"
         },
         {
             "id": "h",
-            "content": "Leider"
+            "content": "Inzwischen"
         },
         {
             "id": "i",
-            "content": "darauf"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "da"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
             "option_id": "h"
         },
         {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "c"
         }
     ]
 }

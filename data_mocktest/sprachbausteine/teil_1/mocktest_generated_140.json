@@ -1,72 +1,72 @@
 {
-    "thema": "Anfrage zu Details einer Stellenausschreibung",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf Ihre Stellenausschreibung für die Position als Projektmanager/-in (Referenznr. PM-123), die ich auf Ihrer Website gefunden habe. Die beschriebene Position klingt sehr interessant, __1__ ich über mehrjährige Erfahrung im agilen Projektmanagement verfüge.\n\nBesonders neugierig hat mich die Erwähnung des internen Entwicklungsprojekts „InnovateNow“ gemacht. __2__ in der Anzeige nur wenige Details dazu genannt werden, würde ich gerne etwas mehr darüber erfahren, bevor ich meine Bewerbung finalisiere.\n\nKönnten Sie mir __3__ kurz erläutern, __4__ die Hauptziele dieses Projekts sind und welche Technologien dabei hauptsächlich __5__ Einsatz kommen? Diese Informationen wären sehr hilfreich, um meine Eignung besser einschätzen und meine Unterlagen entsprechend anpassen zu können.\n\nIch bin __6__ überzeugt, dass meine Fähigkeiten und mein Engagement gut zu den Anforderungen passen würden.\n\nÜber eine kurze Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zu meiner Bewerbung als Projektmanager (Ref. PM-123) – Gespräch am 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager (Referenznummer PM-123) und das sehr angenehme Vorstellungsgespräch, __1__ ich am 15. Mai mit Ihnen führen durfte.\nDas Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen bestärkt und mein Interesse an der Position __2__ verstärkt.\n\n__3__ nun einige Wochen vergangen sind, seitdem wir gesprochen haben, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\nKönnten Sie mir __4__ mitteilen, wann mit einer Entscheidung zu rechnen ist?\n\nIch bin nach wie vor sehr an der Stelle interessiert und davon überzeugt, dass meine Qualifikationen und meine Motivation gut zu den Anforderungen __5__ würden.\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "passen"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "eventuell"
         },
         {
             "id": "d",
-            "content": "denn"
+            "content": "Solange"
         },
         {
             "id": "e",
-            "content": "im"
+            "content": "Da"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "nochmals"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "was"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "ziemlich"
         },
         {
             "id": "i",
-            "content": "welche"
+            "content": "Falls"
         },
         {
             "id": "j",
-            "content": "zum"
+            "content": "das"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "h"
-        },
-        {
-            "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "j"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
             "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
         }
     ]
 }

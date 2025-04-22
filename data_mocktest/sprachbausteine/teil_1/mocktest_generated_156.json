@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Zusage für die Position als Marketingassistent",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen herzlichen Dank für Ihre Zusage für die Position als Marketingassistent und das damit verbundene Vertrauen. Ich habe mich sehr __1__ gefreut und nehme das Angebot gerne an.\n\nBezüglich des Vertragsbeginns bin ich mir __2__ etwas unsicher. Im Angebotsschreiben wird der 1. August genannt, __3__ wir im Gespräch über den 15. August gesprochen hatten. Könnten Sie bitte bestätigen, __4__ Datum korrekt ist?\n\n__5__ würde ich gerne wissen, an wen ich mich bezüglich der Einarbeitung wenden kann, __6__ ich anfange.\n\nIch sehe meiner neuen Aufgabe mit großer Erwartung entgegen und freue mich auf eine baldige Klärung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 25. April für die ausgeschriebene Stelle als Marketingassistent in Ihrem Unternehmen.\n\nDa ich bisher noch keine Rückmeldung erhalten habe und die Position für mich von großem Interesse ist, möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist natürlich bewusst, dass ein sorgfältiger Prozess Zeit benötigt, __1__ würde ich mich über eine kurze Information freuen, ob meine Bewerbung noch im Rennen ist.\n\nIch bin __2__ sehr motiviert, meine Fähigkeiten und Erfahrungen in Ihr Team einzubringen und sehe in der Position eine hervorragende berufliche Perspektive. Könnten Sie mir __3__ eine ungefähre Zeitangabe machen, wann mit einer Entscheidung zu rechnen ist?\n\nFür ein persönliches Vorstellungsgespräch stehe ich Ihnen __4__ zur Verfügung, um Sie von meiner Eignung zu überzeugen.\n\nIch hoffe zudem, dass meine __5__ eingereichten Unterlagen vollständig bei Ihnen eingegangen sind. Sollte noch etwas fehlen, reiche ich dies selbstverständlich umgehend nach.\n\nIch würde mich sehr __6__ eine baldige positive Nachricht von Ihnen freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "bereit"
         },
         {
             "id": "b",
-            "content": "Außerdem"
+            "content": "weiterhin"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "auf"
         },
         {
             "id": "d",
-            "content": "Darüber hinaus"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "jedoch"
+            "content": "dennoch"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "eventuell"
         },
         {
             "id": "g",
-            "content": "sobald"
+            "content": "außerdem"
         },
         {
             "id": "h",
-            "content": "während"
+            "content": "jederzeit"
         },
         {
             "id": "i",
-            "content": "welches"
+            "content": "über"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "bereits"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "i"
         }
     ]
 }

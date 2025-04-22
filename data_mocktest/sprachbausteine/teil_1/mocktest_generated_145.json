@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Rückfrage zu Ihrem Stellenangebot vom 15.08. / Kennziffer MA-123",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihr Stellenangebot vom 15.08. für die Position als Marketingassistent, über das ich mich sehr gefreut habe.\n\nIch habe das Angebot sorgfältig geprüft und hätte dazu noch ein paar kurze Fragen, __1__ ich meine endgültige Entscheidung treffe. Im Angebot ist als Startdatum der 1. Oktober genannt, __2__ im Gespräch jedoch der 15. September erwähnt wurde. Könnten Sie mir __3__ bitte noch bestätigen, welches Datum korrekt ist?\n\nDes Weiteren wird eine „flexible Arbeitszeitgestaltung“ erwähnt. Ich wäre Ihnen dankbar, __4__ Sie mir kurz erläutern könnten, wie diese in der Praxis aussieht, insbesondere __5__ der Kernarbeitszeiten.\n\nIch bin nach wie vor sehr an der Position interessiert und freue mich darauf, bald von Ihnen zu hören. Vielen Dank __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 05. Juni",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich mich __1__ dem Stand meiner Bewerbung für die Stelle als Marketingassistent erkundigen, die ich Ihnen am 05. Juni zugesandt habe.\n\nDa ich bisher noch keine Rückmeldung erhalten habe und __2__ einige Wochen vergangen sind, wollte ich höflich nachfragen.\n\nKönnten Sie mir vielleicht mitteilen, __3__ sich der Auswahlprozess aktuell befindet oder wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nMein Interesse an dieser Position ist __4__ groß, da die Aufgabenbeschreibung sehr gut zu meinen Fähigkeiten und beruflichen Zielen passt. Ich bin nach wie vor davon überzeugt, dass ich Ihr Team gut ergänzen __5__ .\n\nIch wäre Ihnen dankbar für eine kurze Rückmeldung. __6__ verbleibe ich\n\nmit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "als"
+            "content": "Bis dahin"
         },
         {
             "id": "b",
-            "content": "bevor"
+            "content": "inzwischen"
         },
         {
             "id": "c",
-            "content": "bezüglich"
+            "content": "könnte"
         },
         {
             "id": "d",
-            "content": "daher"
+            "content": "nach"
         },
         {
             "id": "e",
-            "content": "falls"
+            "content": "ob"
         },
         {
             "id": "f",
-            "content": "für"
+            "content": "seitdem"
         },
         {
             "id": "g",
-            "content": "hierzu"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "weiterhin"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "wo"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "würde"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "g"
+            "option_id": "i"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "h"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "a"
         }
     ]
 }

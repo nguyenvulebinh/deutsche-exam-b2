@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Juli – Position Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Juli für die Position als Projektmanager. Ich habe mich sehr __1__ gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich diesen Termin __2__ nicht wahrnehmen kann. Ich habe an diesem Tag eine __3__ längerfristig geplante und unaufschiebbare Verpflichtung.\n\nWäre es __4__ möglich, einen alternativen Termin zu finden? Ich bin __5__ dem 16. Juli zeitlich sehr flexibel und richte mich gerne nach Ihren Vorschlägen.\n\nMein Interesse an der Position und Ihrem Unternehmen ist __6__ groß.\n\nIch bitte um Ihr Verständnis und würde mich freuen, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 25. April zugesandt habe.\n\nDa nun einige Zeit vergangen ist, __1__ ich bisher keine Rückmeldung erhalten habe, möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position mit ihren anspruchsvollen Aufgaben im internationalen Projektmanagement entspricht nach wie vor genau meinen beruflichen Zielen und Qualifikationen, __3__ mein Interesse an einer Mitarbeit in Ihrem Unternehmen unverändert groß ist.\n\nKönnten Sie mir __4__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann ungefähr mit einer Entscheidung gerechnet werden kann?\n\nSollten Sie __5__ weitere Informationen oder Unterlagen von mir benötigen, um meine Bewerbung besser bewerten zu können, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nIch bedanke mich für Ihre Bemühungen und freue mich __6__ eine baldige positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "über"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "noch"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "davon"
-        },
-        {
-            "id": "e",
-            "content": "eventuell"
-        },
-        {
-            "id": "f",
-            "content": "leider"
-        },
-        {
-            "id": "g",
-            "content": "seit"
-        },
-        {
-            "id": "h",
             "content": "trotzdem"
         },
         {
+            "id": "e",
+            "content": "weil"
+        },
+        {
+            "id": "f",
+            "content": "auf"
+        },
+        {
+            "id": "g",
+            "content": "bereits"
+        },
+        {
+            "id": "h",
+            "content": "weshalb"
+        },
+        {
             "id": "i",
-            "content": "vielleicht"
+            "content": "nach"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "eventuell"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "f"
         }
     ]
 }

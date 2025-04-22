@@ -1,72 +1,72 @@
 {
-    "thema": "Email responding to an interview invitation and requesting to reschedule.",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.08.\n\nSehr geehrte Frau Schmidt,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15.08. um 10:00 Uhr für die Position als Marketing-Assistent. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen jedoch mitteilen, dass ich an diesem Tag bereits einen wichtigen, unaufschiebbaren Arzttermin habe, den ich leider nicht verschieben kann.\n\nIch wäre Ihnen __3__ sehr dankbar, wenn wir einen alternativen Termin finden könnten. In den __4__ Wochen bin ich zeitlich relativ flexibel. Wäre es für Sie beispielsweise möglich, das Gespräch in der Woche __5__ dem 21.08. durchzuführen?\n\nIch bin __6__ sehr an der ausgeschriebenen Position interessiert und würde mich freuen, die Gelegenheit zu bekommen, mich Ihnen persönlich vorzustellen.\n\nVielen Dank für Ihr Verständnis und Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Bewerbung als Projektmanager - Gespräch am 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich nochmals herzlich für das informative und angenehme Vorstellungsgespräch am 15. Mai bezüglich der Position als Projektmanager bedanken. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen nur __1__ und mein Interesse an dieser spannenden Aufgabe weiter verstärkt.\n\nWie besprochen, bin ich nach wie vor sehr an der Position interessiert und davon überzeugt, dass meine Erfahrungen im agilen Projektmanagement gut __4__ den Anforderungen der Stelle passen.\n\nSie erwähnten im Gespräch, dass eine Entscheidung über die Besetzung der Stelle __2__ Ende Mai fallen würde. Könnten Sie mir __3__ mitteilen, ob dieser Zeitplan noch aktuell ist und wann ich ungefähr mit einer Rückmeldung rechnen kann?\n\nSelbstverständlich stehe ich Ihnen für weitere Fragen __5__ zur Verfügung. Ich freue mich __6__ auf eine positive Nachricht von Ihnen und verbleibe\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "darauf"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "während"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "bestätigt"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "sehr"
         },
         {
             "id": "e",
-            "content": "folgende"
+            "content": "jederzeit"
         },
         {
             "id": "f",
-            "content": "folgenden"
+            "content": "mit"
         },
         {
             "id": "g",
-            "content": "Leider"
+            "content": "zu"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "gegen"
         },
         {
             "id": "i",
-            "content": "vom"
+            "content": "deshalb"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "vielleicht"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "h"
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "a"
         }
     ]
 }

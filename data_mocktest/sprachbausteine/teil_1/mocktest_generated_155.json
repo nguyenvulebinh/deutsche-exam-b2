@@ -1,72 +1,72 @@
 {
-    "thema": "E-Mail zur Klärung von Details in einem Stellenangebot vor der Zusage",
-    "textinhalt": "Betreff: Ihr Stellenangebot als Projektmanager vom 15.07.\n\nSehr geehrte Frau Müller,\n\nvielen Dank für das Stellenangebot für die Position als Projektmanager, __1__ ich mich sehr gefreut habe, sowie für das angenehme Gespräch letzte Woche. Ich bin __2__ sehr an der Position interessiert.\n\n__3__ ich das Angebot jedoch verbindlich annehmen kann, hätte ich noch zwei kurze Fragen zu den Details. Im Angebot wird der 1. September als Startdatum genannt. Wäre es eventuell auch möglich, erst am 15. September zu beginnen, __4__ ich meine aktuelle Position fristgerecht kündigen muss und noch eine Übergabe organisieren möchte?\n\n__5__ würde mich interessieren, wie die Einarbeitungsphase genau gestaltet ist. Gibt es hierfür einen festen Plan oder wird mir ein Mentor zur Seite gestellt?\n\nIch wäre Ihnen dankbar, __6__ Sie mir diese Punkte kurz erläutern könnten. Ich bitte um Ihr Verständnis für meine Nachfragen und freue mich auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent (Kennziffer MA-451)",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent (Kennziffer MA-451), __1__ ich Ihnen am 15. Mai zugesandt habe.\n\nSie hatten in Ihrer Eingangsbestätigung erwähnt, dass der Auswahlprozess voraussichtlich bis Ende Juni dauern würde. __2__ wollte ich mich höflich erkundigen, ob es bereits Neuigkeiten bezüglich meiner Bewerbung gibt.\n\nIch möchte bei dieser Gelegenheit __3__ betonen, dass mein Interesse an dieser Position und an einer Mitarbeit in Ihrem Unternehmen nach wie vor sehr groß ist.\n\nDie Aufgabenbeschreibung passt __4__ gut zu meinen Qualifikationen und bisherigen Erfahrungen im Online-Marketing.\n\nKönnten Sie mir __5__ eine kurze Information geben, wann mit einer Entscheidung zu rechnen ist?\n\nVielen Dank __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Bevor"
+            "content": "besonders"
         },
         {
             "id": "b",
-            "content": "da"
-        },
-        {
-            "id": "c",
             "content": "Deshalb"
         },
         {
+            "id": "c",
+            "content": "die"
+        },
+        {
             "id": "d",
-            "content": "nach wie vor"
+            "content": "eventuell"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "für"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "nochmals"
         },
         {
             "id": "g",
-            "content": "über das"
+            "content": "Trotzdem"
         },
         {
             "id": "h",
-            "content": "Während"
+            "content": "Wahrscheinlich"
         },
         {
             "id": "i",
-            "content": "wenn"
+            "content": "Wegen"
         },
         {
             "id": "j",
-            "content": "Zudem"
+            "content": "welche"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
-            "option_id": "a"
-        },
-        {
-            "blank": "4",
             "option_id": "b"
         },
         {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "e"
         }
     ]
 }

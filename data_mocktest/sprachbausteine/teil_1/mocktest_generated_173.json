@@ -1,72 +1,72 @@
 {
-    "thema": "Anfrage zur neuen Regelung für Spesenabrechnungen",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf das Rundschreiben vom 15. Mai bezüglich der neuen Richtlinien für die Abrechnung von Reisekosten und anderen Spesen. Grundsätzlich begrüße ich die Vereinheitlichung der Prozesse sehr.\n\nAllerdings sind mir bei der Durchsicht noch einige Punkte unklar geblieben. Zum Beispiel wird erwähnt, dass Belege __1__ digital eingereicht werden müssen. Gilt dies ausnahmslos für alle Arten von Belegen, __2__ gibt es hierfür Ausnahmen, beispielsweise bei Taxiquittungen ohne digitale Option?\n\n__3__ frage ich mich, __4__ welcher Frist die Abrechnungen nach einer Dienstreise spätestens erfolgen müssen. Im Schreiben selbst konnte ich dazu keine genaue Angabe finden.\n\nKönnten Sie mir __5__ kurz mitteilen, wo ich detailliertere Informationen finden kann oder an wen ich mich __6__ spezifischen Fragen wenden kann?\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April über Ihr Online-Portal zukommen ließ.\n\nDa __1__ einige Wochen vergangen sind, seitdem meine Bewerbung bei Ihnen eingegangen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __2__ genau meinen Vorstellungen und Qualifikationen, und ich bin nach wie vor sehr daran interessiert, mein Engagement und meine Ideen in Ihr Team einzubringen.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, wann voraussichtlich mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __4__ Ihr Unternehmen für mich von besonderem Interesse ist.\n\nIch verstehe natürlich, dass der Auswahlprozess Zeit benötigt, __5__ wäre ich für ein kurzes Update dankbar.\n\nSollten Sie __6__ Fragen haben, stehe ich Ihnen gerne jederzeit zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "außerdem"
+            "content": "obwohl"
         },
         {
             "id": "b",
-            "content": "Des Weiteren"
+            "content": "weitere"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "zumal"
         },
         {
             "id": "d",
-            "content": "innerhalb"
+            "content": "damals"
         },
         {
             "id": "e",
-            "content": "mit"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "nach"
+            "content": "eventuell"
         },
         {
             "id": "g",
-            "content": "nun"
+            "content": "nämlich"
         },
         {
             "id": "h",
-            "content": "oder"
+            "content": "dennoch"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "zu"
+            "content": "solche"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "d"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "b"
         }
     ]
 }

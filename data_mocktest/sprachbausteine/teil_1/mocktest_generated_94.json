@@ -1,60 +1,60 @@
 {
-    "thema": "Bitte um Verschiebung eines Vorstellungsgesprächs",
-    "textinhalt": "Betreff: Einladung zum Vorstellungsgespräch am 15. Mai\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre E-Mail und die Einladung zum Vorstellungsgespräch am 15. Mai. __1__ habe ich mich sehr gefreut.\n\nIch möchte den Termin sehr gerne wahrnehmen. __2__ muss ich Ihnen mitteilen, dass ich an diesem Tag bereits eine unaufschiebbare Verpflichtung habe. Es handelt sich __3__ eine wichtige Abschlussprüfung meines aktuellen Kurses, die schon seit Längerem feststeht.\n\n__4__ bitte ich Sie höflich um Prüfung, ob ein alternativer Termin möglich wäre. __5__ dem 16. Mai stehe ich Ihnen wieder flexibel zur Verfügung, beispielsweise am 16. oder 17. Mai ganztägig.\n\nIch bestätige nochmals mein großes Interesse an der Position und hoffe sehr, __6__ wir bald einen passenden Termin finden können.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Mai zugesandt habe.\n\nDa ich __1__ noch keine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Ich bin nach wie vor sehr an dieser Position interessiert, __2__ sie genau meinen Qualifikationen und beruflichen Zielen entspricht.\n\nIch bin __3__ davon überzeugt, dass meine Erfahrungen einen wertvollen Beitrag für Ihr Team leisten können. Könnten Sie mir __4__ mitteilen, wann etwa mit einer Entscheidung zu rechnen ist?\n\nFür Rückfragen stehe ich Ihnen __5__ gerne zur Verfügung.\n\nZur Sicherheit habe ich meine vollständigen Bewerbungsunterlagen dieser E-Mail __6__ beigefügt.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "bislang"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "da"
         },
         {
             "id": "c",
-            "content": "dass"
-        },
-        {
-            "id": "d",
-            "content": "davon"
-        },
-        {
-            "id": "e",
             "content": "deshalb"
         },
         {
+            "id": "d",
+            "content": "erneut"
+        },
+        {
+            "id": "e",
+            "content": "eventuell"
+        },
+        {
             "id": "f",
-            "content": "leider"
+            "content": "fest"
         },
         {
             "id": "g",
-            "content": "nach"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "selbstverständlich"
         },
         {
             "id": "i",
-            "content": "obwohl"
+            "content": "sogar"
         },
         {
             "id": "j",
-            "content": "um"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "d"
         }
     ]
 }

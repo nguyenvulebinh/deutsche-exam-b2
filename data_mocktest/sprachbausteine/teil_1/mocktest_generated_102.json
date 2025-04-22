@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai – Max Mustermann",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Mai für die Position als Projektmanager. Ich habe mich sehr __1__ gefreut.\n\n__2__ habe ich an diesem spezifischen Tag bereits eine unaufschiebbare Verpflichtung, die schon länger geplant ist.\n\nWäre es __3__ vielleicht möglich, einen alternativen Termin zu finden? Ich bin zeitlich __4__ flexibel und stehe Ihnen gerne an anderen Tagen zur Verfügung.\n\nIch möchte betonen, dass mein Interesse an der Position __5__ groß ist. Über einen Vorschlag __6__ würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 20. Mai",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung vom 20. Mai für die Stelle als Marketingassistent.\n\nDa ich __1__ noch keine Rückmeldung von Ihnen erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch möchte __2__, dass ich nach wie vor großes Interesse an dieser Position habe. Die Aufgabenbeschreibung und die Präsentation Ihres Unternehmens auf Ihrer Webseite haben mich sehr angesprochen.\n\nWäre es __3__ möglich, mir eine kurze Information zukommen zu lassen, wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __4__ ich auch andere Optionen prüfe.\n\nSollten Sie __5__ noch Fragen haben oder weitere Unterlagen benötigen, stehe ich Ihnen jederzeit gerne zur Verfügung.\n\nIch freue mich __6__ eine baldige Antwort.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "darüber"
+            "content": "auf"
         },
         {
             "id": "b",
-            "content": "davon"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "deshalb"
+            "content": "da"
         },
         {
             "id": "d",
-            "content": "gerne"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "Ihrerseits"
+            "content": "betonen"
         },
         {
             "id": "f",
-            "content": "leider"
+            "content": "über"
         },
         {
             "id": "g",
-            "content": "meinerseits"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "mittlerweile"
         },
         {
             "id": "i",
-            "content": "unverändert"
+            "content": "eventuell"
         },
         {
             "id": "j",
-            "content": "ziemlich"
+            "content": "bisher"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
-        },
-        {
-            "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
             "option_id": "j"
         },
         {
-            "blank": "5",
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
             "option_id": "i"
         },
         {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "a"
         }
     ]
 }

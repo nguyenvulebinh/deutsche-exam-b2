@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Rückfrage zu Ihrem Vertragsangebot vom [Datum des Angebots]",
-    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für die Zusendung des Arbeitsvertrags für die Position als [Positionsbezeichnung] und für das __1__ verbundene Vertrauen in meine Fähigkeiten. Ich habe mich sehr über Ihr Angebot gefreut.\n\nBeim Durchlesen des Vertrags sind mir __2__ einige Punkte aufgefallen, zu __3__ ich eine kurze Rückfrage hätte.\n\nZum Beispiel wurde im Gespräch ein Einstiegsdatum zum 1. August besprochen, __4__ im Vertrag nun der 15. August genannt wird. Könnten Sie bitte bestätigen, __5__ Datum korrekt ist?\n\nAbgesehen von diesem Punkt entsprechen die übrigen Konditionen meinen Erwartungen, und ich bin __6__ sehr an der Position interessiert.\n\nIch wäre Ihnen dankbar, wenn wir diesen Punkt kurz klären könnten, bevor ich den Vertrag unterschreibe.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer MM-451) vom 20.04.2024",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\n__1__ auf meine Bewerbung vom 20. April 2024 für die ausgeschriebene Stelle als Marketing Manager (Kennziffer MM-451) möchte ich mich heute erneut an Sie wenden.\n\nDa __2__ einige Wochen seit dem Ende der Bewerbungsfrist vergangen sind, wollte ich mich höflich erkundigen, ob es bereits Neuigkeiten zum Stand des Auswahlverfahrens gibt.\n\nIch bin __3__ sehr an dieser Position interessiert, da die Aufgabenbeschreibung und die Werte Ihres Unternehmens meinen beruflichen Vorstellungen und Qualifikationen in hohem Maße entsprechen.\n\n__4__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information zukommen lassen könnten, __5__ etwa mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist.\n\nFür eventuelle Rückfragen __6__ meiner Bewerbungsunterlagen stehe ich Ihnen selbstverständlich jederzeit gerne telefonisch oder per E-Mail zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nPeter Vogel",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
-        },
-        {
-            "id": "b",
-            "content": "damit"
-        },
-        {
-            "id": "c",
-            "content": "dass"
-        },
-        {
-            "id": "d",
-            "content": "davon"
-        },
-        {
-            "id": "e",
-            "content": "denen"
-        },
-        {
-            "id": "f",
-            "content": "die"
-        },
-        {
-            "id": "g",
-            "content": "trotzdem"
-        },
-        {
-            "id": "h",
             "content": "weiterhin"
         },
         {
+            "id": "b",
+            "content": "zu"
+        },
+        {
+            "id": "c",
+            "content": "falls"
+        },
+        {
+            "id": "d",
+            "content": "trotzdem"
+        },
+        {
+            "id": "e",
+            "content": "wann"
+        },
+        {
+            "id": "f",
+            "content": "bezugnehmend"
+        },
+        {
+            "id": "g",
+            "content": "über"
+        },
+        {
+            "id": "h",
+            "content": "daher"
+        },
+        {
             "id": "i",
-            "content": "welches"
+            "content": "inzwischen"
         },
         {
             "id": "j",
-            "content": "während"
+            "content": "seitdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "e"
-        },
-        {
-            "blank": "4",
-            "option_id": "j"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
             "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
         }
     ]
 }

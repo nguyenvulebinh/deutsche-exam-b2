@@ -1,68 +1,68 @@
 {
-    "thema": "Anfrage bezüglich Teilzeitmöglichkeit für ausgeschriebene Vollzeitstelle",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Stellenanzeige für die Position als Projektmanager/in auf Ihrer Website gelesen.\n\nDie beschriebenen Aufgaben und Ihr Unternehmen finde ich sehr ansprechend. Die Position ist laut Anzeige als Vollzeitstelle ausgeschrieben. __1__ ich jedoch aus persönlichen Gründen aktuell nur etwa 30 Stunden pro Woche arbeiten kann, möchte ich mich __2__ erkundigen, ob __3__ auch die Möglichkeit einer Teilzeitanstellung besteht.\n\nIch bin __4__ überzeugt, dass meine Qualifikationen gut zur ausgeschriebenen Stelle passen und ich Ihr Team __5__ effektiv unterstützen könnte.\n\nKönnten Sie mir bitte mitteilen, ob eine Bewerbung __6__ diesen Umständen für Sie infrage kommt?\n\nVielen Dank im Voraus für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Becker,\n\nich schreibe Ihnen __1__ meiner Bewerbung vom 25. April für die Position als Marketingmanager.\n\nDa seit meiner Bewerbung nun einige Wochen vergangen sind, möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Stelle entspricht nach wie vor genau meinen Vorstellungen und Qualifikationen, __3__ ich großes Interesse an einer Mitarbeit in Ihrem Unternehmen habe.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, __4__ wann ungefähr mit einer Entscheidung zu rechnen ist.\n\n__5__ Sie unter großem Druck stehen, den richtigen Kandidaten zu finden, habe ich natürlich Verständnis für die benötigte Zeit.\n\nIch freue mich __6__ auf eine baldige Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Darüber"
-        },
-        {
-            "id": "b",
             "content": "Da"
         },
         {
+            "id": "b",
+            "content": "nach"
+        },
+        {
             "id": "c",
-            "content": "grundsätzlich"
+            "content": "darüber"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "wegen"
         },
         {
             "id": "e",
-            "content": "unter"
+            "content": "schon"
         },
         {
             "id": "f",
-            "content": "davon"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "dennoch"
+            "content": "weshalb"
         },
         {
             "id": "i",
-            "content": "Obwohl"
+            "content": "daran"
         },
         {
             "id": "j",
-            "content": "vorab"
+            "content": "bezüglich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
             "option_id": "j"
         },
         {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "a"
         },
         {
             "blank": "6",

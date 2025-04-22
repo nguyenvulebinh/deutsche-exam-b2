@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch als Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] und Ihr Interesse an meiner Bewerbung. Ich habe mich __1__ darüber gefreut.\n\n__2__ habe ich an diesem Tag bereits einen wichtigen Arzttermin, __3__ ich nicht verschieben kann, da ich lange auf ihn gewartet habe. __4__ ist es mir bedauerlicherweise nicht möglich, den vorgeschlagenen Termin wahrzunehmen.\n\nWäre es __5__ möglich, einen alternativen Termin zu finden? Ich bin nach wie vor sehr an der Position interessiert und wäre in der Woche danach zeitlich flexibel.\n\nIch bitte um Entschuldigung für die Umstände und hoffe __6__ Ihr Verständnis. Über eine positive Rückmeldung würde ich mich freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung als Projektmanager vom 15. Mai möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ nun einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, wollte ich nachfragen, ob es bereits Neuigkeiten gibt.\n\nMein Interesse an der Position und Ihrem Unternehmen ist __2__ sehr groß, insbesondere die in der Ausschreibung genannten Entwicklungsmöglichkeiten finde ich nach wie vor sehr spannend.\n\nKönnten Sie mir __3__ mitteilen, wie der weitere Zeitplan aussieht oder __4__ mit einer Entscheidung zu rechnen ist? Über eine kurze Rückmeldung würde ich mich sehr freuen.\n\n__5__ möchte ich nochmals betonen, dass ich für Rückfragen jederzeit zur Verfügung stehe. Ich danke Ihnen __6__ für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "weiterhin"
         },
         {
             "id": "b",
-            "content": "dem"
+            "content": "wenn"
         },
         {
             "id": "c",
-            "content": "Deshalb"
+            "content": "Zudem"
         },
         {
             "id": "d",
-            "content": "den"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "Leider"
+            "content": "seitdem"
         },
         {
             "id": "f",
-            "content": "Obwohl"
+            "content": "wann"
         },
         {
             "id": "g",
-            "content": "sehr"
+            "content": "bereits"
         },
         {
             "id": "h",
-            "content": "Trotzdem"
+            "content": "eventuell"
         },
         {
             "id": "i",
-            "content": "um"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "vielleicht"
+            "content": "im Voraus"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
-        },
-        {
-            "blank": "2",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "j"
         }
     ]
 }

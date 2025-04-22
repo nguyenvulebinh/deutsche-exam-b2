@@ -1,68 +1,68 @@
 {
-    "thema": "Email requesting clarification on specific points in a job offer (Start date, contract details)",
-    "textinhalt": "Betreff: Rückfrage zu Ihrem Stellenangebot als Marketingassistent vom 20.08.\n\nSehr geehrte Frau Bauer,\n\nvielen Dank für Ihr Jobangebot für die Position als Marketingassistent und das damit verbundene Vertrauen. Ich habe mich sehr über die positive Nachricht gefreut.\n\nBevor ich das Angebot final annehme, hätte ich noch ein paar kurze Fragen zu den Details, __1__ ich sichergehen kann, dass ich alles richtig verstanden habe.\n\nDa der Starttermin im Angebot __2__ als \"flexibel im nächsten Monat\" beschrieben wird, wollte ich fragen, ab wann ein Einstieg konkret möglich wäre? Außerdem wird im Vertrag __3__ hingewiesen, dass es sich um eine Befristung von einem Jahr handelt. Ist eine Verlängerung oder Übernahme __4__ prinzipiell vorgesehen?\n\nWie im Gespräch bereits erwähnt, bin ich __5__ sehr an der Position interessiert und möchte nur diese Punkte vorab klären. __6__ bitte ich um eine kurze Rückmeldung, wann es Ihnen passen würde, dies kurz zu besprechen.\n\nMit freundlichen Grüßen\n\nThomas Schmidt",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April zugesandt habe. __1__ mittlerweile einige Wochen vergangen sind, seit die Bewerbungsfrist offiziell endete, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position in Ihrem Unternehmen ist __2__ sehr groß, da die Aufgabenbeschreibung exakt meinen Fähigkeiten und beruflichen Vorstellungen entspricht.\n\nIch wäre Ihnen sehr dankbar, __3__ Sie mir eine kurze Information zukommen lassen könnten, wann ungefähr mit einer Entscheidung oder weiteren Schritten im Prozess zu rechnen ist.\n\n__4__ ich natürlich verstehe, dass sorgfältige Auswahlprozesse Zeit benötigen, wäre eine ungefähre Zeitangabe für meine weitere Planung hilfreich.\n\nSollten Sie __5__ noch Fragen haben oder weitere Unterlagen benötigen, stehe ich Ihnen jederzeit gerne zur Verfügung.\n\nIch freue mich weiterhin __6__ eine positive Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "wenn"
         },
         {
             "id": "b",
-            "content": "damit"
+            "content": "weiterhin"
         },
         {
             "id": "c",
-            "content": "danach"
+            "content": "über"
         },
         {
             "id": "d",
-            "content": "darauf"
+            "content": "Obwohl"
         },
         {
             "id": "e",
-            "content": "denn"
-        },
-        {
-            "id": "f",
             "content": "Deshalb"
         },
         {
+            "id": "f",
+            "content": "auf"
+        },
+        {
             "id": "g",
-            "content": "grundsätzlich"
+            "content": "Da"
         },
         {
             "id": "h",
-            "content": "hiermit"
+            "content": "Trotz"
         },
         {
             "id": "i",
-            "content": "lediglich"
+            "content": "ob"
         },
         {
             "id": "j",
-            "content": "zuvor"
+            "content": "eventuell"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "j"
         },
         {
             "blank": "6",

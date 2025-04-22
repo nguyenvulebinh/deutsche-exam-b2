@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihr Terminvorschlag Vorstellungsgespräch als Projektmanager (Ref: PM-123)",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank __1__ Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Projektmanager und Ihr damit verbundenes Interesse an meiner Bewerbung.\n\nDen von Ihnen vorgeschlagenen Termin am kommenden Mittwoch, den 15. Mai um 10:00 Uhr, kann ich __2__ nicht wahrnehmen, __3__ ich an diesem Tag __4__ eine seit Längerem feststehende, unaufschiebbare ärztliche Untersuchung habe.\n\nWäre es eventuell möglich, das Gespräch zu verschieben? Ich wäre beispielsweise in der Woche __5__ sehr flexibel oder könnte Ihnen auch Termine in der übernächsten Woche anbieten. Selbstverständlich richte ich mich aber auch gerne nach Ihren Vorschlägen.\n\nIch bin __6__ sehr an der Position interessiert und würde mich außerordentlich freuen, wenn wir einen alternativen Termin finden könnten. Ich bitte um Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nThomas Schmidt",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 15. Mai und Ihre freundliche Eingangsbestätigung hierzu. __1__ nun einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __2__ genau meinen Qualifikationen und beruflichen Zielen, und mein Interesse an einer Tätigkeit in Ihrem Unternehmen ist __3__ ungebrochen.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung geben könnten, __4__ ich ungefähr mit einer Entscheidung rechnen kann.\n\n__5__ Sie in der Zwischenzeit weitere Unterlagen benötigen oder Fragen zu meiner Bewerbung haben, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nIch freue mich __6__ auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "tatsächlich"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "Obwohl"
         },
         {
             "id": "c",
-            "content": "danach"
+            "content": "auf"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "Wenn"
         },
         {
             "id": "e",
-            "content": "erst"
+            "content": "Da"
         },
         {
             "id": "f",
-            "content": "für"
-        },
-        {
-            "id": "g",
-            "content": "leider"
-        },
-        {
-            "id": "h",
-            "content": "obwohl"
-        },
-        {
-            "id": "i",
             "content": "weiterhin"
         },
         {
+            "id": "g",
+            "content": "Deshalb"
+        },
+        {
+            "id": "h",
+            "content": "Über"
+        },
+        {
+            "id": "i",
+            "content": "wann"
+        },
+        {
             "id": "j",
-            "content": "zu"
+            "content": "falls"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
             "option_id": "a"
         },
         {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "c"
         }
     ]
 }

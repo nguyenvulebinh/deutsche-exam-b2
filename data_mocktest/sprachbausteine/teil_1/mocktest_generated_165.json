@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Rückfrage zu meiner Bewerbung als Projektmanager, Kennziffer PM-123 – Bitte um Feedback",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Nachricht vom 15. März bezüglich meiner Bewerbung auf die Stelle als Projektmanager (Kennziffer PM-123). Ich bedauere zu hören, dass meine Bewerbung nicht erfolgreich war, respektiere __1__ Ihre Entscheidung aber selbstverständlich.\n\nUm mich für zukünftige Bewerbungen verbessern zu können, __2__ ich Sie höflich fragen, ob Sie mir eventuell ein kurzes Feedback geben könnten. Mich würde interessieren, __3__ es spezifische Gründe für die Absage gab oder welche Qualifikationen aus Ihrer Sicht gefehlt haben.\n\nIch bin mir bewusst, dass Sie __4__ viele Bewerbungen prüfen müssen. __5__ wäre ich Ihnen für eine kurze Rückmeldung sehr dankbar, falls es Ihre Zeit erlaubt. Mein Interesse an Ihrem Unternehmen besteht __6__.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Assistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbungsunterlagen für die Stelle als Marketing-Assistent, die ich Ihnen am 25. April __1__ habe zukommen lassen.\n\n__2__ seitdem einige Wochen vergangen sind und ich bisher keine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mein Interesse an dieser Position in Ihrem Unternehmen ist __3__ sehr stark, da die beschriebenen Aufgaben genau meinen Fähigkeiten und beruflichen Zielen entsprechen.\n\nIch wäre Ihnen dankbar, wenn Sie mir mitteilen könnten, __4__ etwa mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist. Ich bin mir bewusst, dass solche Verfahren Zeit benötigen, __5__ wäre eine kurze Information für meine weitere Planung hilfreich.\n\n__6__ stehe ich Ihnen für Rückfragen oder zur Vereinbarung eines Vorstellungsgesprächs gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Weber",
     "options": [
         {
             "id": "a",
-            "content": "deshalb"
+            "content": "obwohl"
         },
         {
             "id": "b",
-            "content": "falls"
+            "content": "da"
         },
         {
             "id": "c",
-            "content": "jedoch"
-        },
-        {
-            "id": "d",
-            "content": "möchte"
-        },
-        {
-            "id": "e",
-            "content": "ob"
-        },
-        {
-            "id": "f",
-            "content": "trotzdem"
-        },
-        {
-            "id": "g",
-            "content": "vermutlich"
-        },
-        {
-            "id": "h",
-            "content": "weil"
-        },
-        {
-            "id": "i",
             "content": "weiterhin"
         },
         {
+            "id": "d",
+            "content": "fristgerecht"
+        },
+        {
+            "id": "e",
+            "content": "Selbstverständlich"
+        },
+        {
+            "id": "f",
+            "content": "wann"
+        },
+        {
+            "id": "g",
+            "content": "deshalb"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "dennoch"
+        },
+        {
             "id": "j",
-            "content": "würde"
+            "content": "ob"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
             "option_id": "d"
         },
         {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
-            "blank": "6",
+            "blank": "5",
             "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
         }
     ]
 }

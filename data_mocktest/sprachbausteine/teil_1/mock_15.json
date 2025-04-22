@@ -1,0 +1,72 @@
+{
+    "thema": "UMSCHULUNG",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nda ich mich aus gesundheitlichen Gründen für eine berufliche Neuorientierung entscheiden musste, möchte ich mich __1__ auf Ihr Stellenangebot in der FAZ vom 07.07. für die AZUBI Stelle als Fachinformatiker-Systemintegration bewerben.\n\nDa ich schon seit geraumer Zeit nicht nur im Bekanntenkreis __2__ auch im Freundeskreis bei PC-Konfigurationen und Problemen behilflich war, fiel meine Wahl auf diese Umschulung.\n\nDie Aufgabenfelder als Fachinformatiker bereiten mir große Freude.\n__3__ meine vorhergehende berufliche Tätigkeit bin ich gewohnt, selbstständig und zuverlässig zu arbeiten. __4__ ist Verantwortung kein Fremdwort für mich. Aus Ihrem Angebot in der FAZ geht hervor, dass Sie Auszubildende aus einem Umkreis von 25 km suchen. __5__ stellt insofern kein Problem dar, da ich flexibel und zudem gewillt bin nach Frankfurt umzuziehen.\n\n__6__ sei noch anzumerken, dass eine betriebliche Umschulung von der Bundesagentur für Arbeit gefördert wird.\n\nIch hoffe sehr, Ihr Interesse geweckt zu haben und freue mich über ein persönliches Vorstellungsgespräch.\n\nMit freundlichen Grüßen\n\nF. Erhorn",
+    "options": [
+      {
+        "id": "a",
+        "content": "DIES"
+      },
+      {
+        "id": "b",
+        "content": "DES WEITEREN"
+      },
+      {
+        "id": "c",
+        "content": "ZUSÄTZLICH"
+      },
+      {
+        "id": "d",
+        "content": "AUßERDEM"
+      },
+      {
+        "id": "e",
+        "content": "DURCH"
+      },
+      {
+        "id": "f",
+        "content": "SONDERN"
+      },
+      {
+        "id": "g",
+        "content": "DESWEGEN"
+      },
+      {
+        "id": "h",
+        "content": "SELBSTVERSTÄNDLICH"
+      },
+      {
+        "id": "i",
+        "content": "HIERMIT"
+      },
+      {
+        "id": "j",
+        "content": "DAMIT"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "i"
+      },
+      {
+        "blank": "2",
+        "option_id": "f"
+      },
+      {
+        "blank": "3",
+        "option_id": "e"
+      },
+      {
+        "blank": "4",
+        "option_id": "h" 
+      },
+      {
+        "blank": "5",
+        "option_id": "a"
+      },
+      {
+        "blank": "6",
+        "option_id": "b" 
+      }
+    ]
+}

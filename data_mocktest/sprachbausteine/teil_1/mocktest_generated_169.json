@@ -1,72 +1,72 @@
 {
-    "thema": "Email clarifying details mentioned in a job offer",
-    "textinhalt": "Betreff: Rückfragen zu Ihrem Vertragsangebot vom 15.07. für die Position als Projektmanager\n\nSehr geehrte Frau Meyer,\n\nvielen Dank für das Vertragsangebot für die Position als Projektmanager, das ich gestern erhalten habe. Ich habe mich sehr __1__ gefreut.\n\n__2__ ich das Angebot formell annehme, hätte ich noch zwei kurze Fragen zu den Vertragsdetails. Erstens, bezüglich des genannten Startdatums, dem 1. August: Wäre es __3__ möglich, erst am 15. August zu beginnen, __4__ ich meine dreimonatige Kündigungsfrist bei meinem aktuellen Arbeitgeber einhalten muss?\n\nZweitens, im Angebot wird eine \"leistungsorientierte Prämie\" erwähnt. Könnten Sie __5__ genauer erläutern, __6__ genau die Auszahlung dieser Prämie geknüpft ist?\n\nIch bin weiterhin sehr an der Position interessiert und hoffe auf eine baldige Klärung dieser Punkte.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Sachbearbeiter/in im Kundenservice vom 20. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Sachbearbeiter/in im Kundenservice vom 20. April. Vielen Dank für Ihre Eingangsbestätigung.\n\n__1__ sind nun einige Wochen vergangen, daher möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir __3__ mitteilen, wann mit einer Entscheidung zu rechnen ist?\n\nIch möchte __4__ betonen, dass mein Interesse an dieser Position und an Ihrem Unternehmen weiterhin sehr groß ist. Die beschriebenen Aufgaben entsprechen genau meinen Qualifikationen und beruflichen Zielen.\n\nIch habe Verständnis dafür, dass die sorgfältige Prüfung aller Bewerbungen Zeit benötigt. __5__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung zum weiteren Vorgehen geben könnten. __6__ Sie noch weitere Informationen oder Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMaria Rossi",
     "options": [
         {
             "id": "a",
-            "content": "Bevor"
+            "content": "Seitdem"
         },
         {
             "id": "b",
-            "content": "bitte"
+            "content": "nach"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "Falls"
         },
         {
             "id": "d",
-            "content": "damit"
+            "content": "über"
         },
         {
             "id": "e",
-            "content": "darüber"
+            "content": "ungefähr"
         },
         {
             "id": "f",
-            "content": "eventuell"
+            "content": "Inzwischen"
         },
         {
             "id": "g",
-            "content": "gerne"
+            "content": "nochmals"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "Obwohl"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "Dennoch"
         },
         {
             "id": "j",
-            "content": "woran"
+            "content": "Deshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
             "option_id": "f"
         },
         {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
+            "blank": "2",
             "option_id": "b"
         },
         {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "c"
         }
     ]
 }

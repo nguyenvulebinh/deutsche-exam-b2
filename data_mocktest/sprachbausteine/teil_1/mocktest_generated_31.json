@@ -1,68 +1,68 @@
 {
-    "thema": "Email responding to an interview invitation and requesting rescheduling",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai – Terminvorschläge\n\nSehr geehrte Frau Fischer,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Mai für die Position als Projektmanager. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich an diesem spezifischen Tag bereits eine andere, unaufschiebbare Verpflichtung habe. __3__ bitte ich Sie höflich um Prüfung, ob ein alternativer Termin gefunden werden kann.\n\nWäre es Ihnen __4__ möglich, das Gespräch zu verschieben? Ich wäre beispielsweise am 16. oder 17. Mai verfügbar. __5__ diese Termine für Sie nicht passen sollten, bin ich auch offen für andere Vorschläge Ihrerseits.\n\nIch bin __6__ sehr an der Position interessiert und hoffe, dass wir einen passenden Termin finden können.\n\nVielen Dank für Ihr Verständnis und Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] vom [Date]",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nich beziehe mich auf meine Bewerbung für die Stelle als [Job Title], die ich Ihnen am [Date] zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, ohne dass ich eine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ möchte ich bei dieser Gelegenheit mein fortbestehendes Interesse an der Position bekräftigen. __3__ meiner Recherche über Ihr Unternehmen und die beschriebenen Aufgaben bin ich nach wie vor sehr von der Stelle angetan.\n\nFür ein persönliches Gespräch stehe ich Ihnen __4__ zur Verfügung und könnte auch kurzfristig einen Termin wahrnehmen.\n\nWäre es Ihnen __5__ möglich, mir eine kurze Auskunft zu geben, wann etwa mit einer Entscheidung zu rechnen ist?\n\nIch sehe Ihrer Antwort mit großem Interesse entgegen und freue mich __6__, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\n[Your Name]",
     "options": [
         {
             "id": "a",
-            "content": "damit"
+            "content": "aufgrund"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "während"
         },
         {
             "id": "c",
-            "content": "Deshalb"
+            "content": "Zudem"
         },
         {
             "id": "d",
-            "content": "Falls"
-        },
-        {
-            "id": "e",
-            "content": "Leider"
-        },
-        {
-            "id": "f",
-            "content": "Obwohl"
-        },
-        {
-            "id": "g",
             "content": "trotzdem"
         },
         {
+            "id": "e",
+            "content": "eventuell"
+        },
+        {
+            "id": "f",
+            "content": "gerne"
+        },
+        {
+            "id": "g",
+            "content": "da"
+        },
+        {
             "id": "h",
-            "content": "vielleicht"
+            "content": "über"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "auf"
         },
         {
             "id": "j",
-            "content": "Wenn"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
             "option_id": "c"
         },
         {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
             "blank": "4",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "e"
         },
         {
             "blank": "6",

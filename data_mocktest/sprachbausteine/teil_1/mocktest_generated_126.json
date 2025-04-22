@@ -1,64 +1,64 @@
 {
-    "thema": "Email asking for clarification on specific points in a received job offer",
-    "textinhalt": "Betreff: Ihr Vertragsangebot für die Stelle als Projektmanager, Kennziffer PM-105\n\nSehr geehrte Frau Keller,\n\nvielen Dank für Ihr Vertragsangebot für die Stelle als Projektmanager, __1__ ich mich sehr gefreut habe. Es bestärkt meinen Wunsch, Teil Ihres Teams zu werden.\n\nIch habe den Vertrag sorgfältig durchgelesen und hätte __2__ einige Punkte noch Klärungsbedarf. Im Vertrag ist der 1. August als Startdatum genannt. __3__ wir im Gespräch jedoch den 15. August als frühestmöglichen Termin vereinbart hatten, wollte ich nachfragen, ob es sich hierbei um ein Versehen handelt.\n\nAußerdem wird eine betriebliche Altersvorsorge erwähnt. Könnten Sie mir __4__ bitte noch detailliertere Informationen zu den Konditionen und Wahlmöglichkeiten zukommen lassen?\n\nUnabhängig __5__ diesen Detailfragen freue ich mich weiterhin sehr auf die Möglichkeit, meine Fähigkeiten in Ihrem Unternehmen einzubringen. Ich wäre Ihnen dankbar, wenn Sie mir diese Punkte kurz erläutern könnten. __6__ bitte ich um eine kurze Bestätigung des korrekten Startdatums, sobald dieses geklärt ist.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 25. April",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich __1__ meine Bewerbung als Projektmanager vom 25. April dieses Jahres.\n\nDa nun bereits einige Zeit __2__ ist, seitdem die Bewerbungsfrist endete, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch möchte __3__ betonen, dass mein Interesse an dieser Position unverändert groß ist. Die Aufgabenbeschreibung passt hervorragend zu meinen Qualifikationen und beruflichen Zielen.\n\nWäre es __4__ möglich, mir eine kurze Information zu geben, wann __5__ mit einer Entscheidung zu rechnen ist?\n\nFür Rückfragen oder ein persönliches Gespräch stehe ich Ihnen selbstverständlich __6__ zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "eventuell"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "auf"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "voraussichtlich"
         },
         {
             "id": "d",
-            "content": "dazu"
+            "content": "seitdem"
         },
         {
             "id": "e",
-            "content": "Deshalb"
+            "content": "gerne"
         },
         {
             "id": "f",
-            "content": "hierzu"
+            "content": "vergangen"
         },
         {
             "id": "g",
-            "content": "Obwohl"
+            "content": "jederzeit"
         },
         {
             "id": "h",
-            "content": "Weil"
+            "content": "über"
         },
         {
             "id": "i",
-            "content": "worüber"
+            "content": "ungefähr"
         },
         {
             "id": "j",
-            "content": "Zudem"
+            "content": "nochmals"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "a"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "g"
         }
     ]
 }

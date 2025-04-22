@@ -1,60 +1,60 @@
 {
-    "thema": "Klarstellung bezüglich Umzugsunterstützung im Stellenangebot",
-    "textinhalt": "Betreff: Ihr Stellenangebot als [Position], Kennziffer [XYZ] – Rückfrage zur Umzugsunterstützung\n\nSehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für die Zusendung des Stellenangebots für die Position als [Position] mit der Kennziffer [XYZ]. Ich habe mich darüber sehr gefreut.\n\nIch bin nach wie vor sehr an der Stelle interessiert und beabsichtige, das Angebot anzunehmen. In Ihrem Angebot erwähnen Sie eine mögliche Umzugsunterstützung.\n\n__1__ ich für diese Position von [Ihre Stadt] nach [Stadt des Unternehmens] umziehen müsste, ist dieser Punkt für meine Entscheidung relevant. Könnten Sie mir bitte genauer erläutern, __2__ diese Unterstützung konkret beinhaltet? Deckt sie beispielsweise die Transportkosten, Hilfe bei der Wohnungssuche oder __3__ anderes ab?\n\nIch benötige diese Information, __4__ ich Ihnen meine endgültige Zusage geben kann. Über eine baldige Klärung __5__ würde ich mich sehr freuen. Wie bereits im Gespräch erwähnt, bin ich __6__ sehr motiviert, Ihr Team zu verstärken.\n\nFür Rückfragen stehe ich Ihnen gerne auch telefonisch zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Vorstellungsgespräch als Marketing Manager am 12. Juni – Nachfrage zum weiteren Vorgehen",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich möchte mich nochmals herzlich für das freundliche und informative Vorstellungsgespräch am vergangenen Dienstag, den 12. Juni, für die Position als Marketing Manager bedanken.\n\nDas Gespräch hat meinen Wunsch, für [Firmenname] tätig zu werden, __1__ bestärkt. Besonders die Ausführungen zu den aktuellen Marketingstrategien fand ich sehr aufschlussreich.\n\nWie besprochen, bin ich __2__ sehr an der Stelle interessiert. __3__ möchte ich mich höflich erkundigen, ob Sie bereits abschätzen können, bis wann etwa mit einer Entscheidung im Auswahlverfahren zu rechnen ist.\n\nIch bin mir bewusst, dass ein sorgfältiger Auswahlprozess Zeit in __4__ nimmt. Sollten Sie __5__ noch weitere Informationen oder Unterlagen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich darauf, __6__ Ihnen zu hören und hoffe auf eine positive Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "bevor"
+            "content": "Anspruch"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "über"
         },
         {
             "id": "c",
-            "content": "danach"
+            "content": "Gebrauch"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "von"
         },
         {
             "id": "e",
-            "content": "etwas"
+            "content": "weiterhin"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "Trotzdem"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "zwischenzeitlich"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "Deshalb"
         },
         {
             "id": "i",
-            "content": "was"
+            "content": "eigentlich"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "nach wie vor"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "h"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "d"
         }
     ]
 }

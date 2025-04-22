@@ -1,34 +1,34 @@
 {
-    "thema": "Nachfrage zum Stand einer Bewerbung nach längerer Wartezeit",
-    "textinhalt": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager, Kennziffer PM-123\n\nSehr geehrte Frau Bauer,\n\nam 15. März habe ich mich bei Ihnen auf die Stelle als Projektmanager (Kennziffer PM-123) beworben. Den Eingang meiner Unterlagen haben Sie mir dankenswerterweise auch __2__ bestätigt.\n\n__3__ sind nun einige Wochen vergangen, und ich habe __4__ noch keine weitere Nachricht von Ihnen erhalten.\n\n__1__ möchte ich mich höflich nach dem aktuellen Stand des Bewerbungsverfahrens erkundigen. Wäre es möglich, mir eine kurze Information zu geben, __5__ ungefähr mit einer Entscheidung zu rechnen ist?\n\nMein Interesse an dieser Position und an Ihrem Unternehmen ist __6__ sehr groß, da die Aufgabenbeschreibung genau meinen Fähigkeiten und beruflichen Zielen entspricht.\n\nÜber eine kurze Rückmeldung würde ich mich sehr freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nJan Schmidt",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Ref: MM-451) vom 20. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing Manager (Ref: MM-451), die ich Ihnen am 20. April eingereicht habe.\n\n__1__ ich bisher noch keine Rückmeldung erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __2__ sehr an dieser Position interessiert und nach wie vor davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu Ihrem Anforderungsprofil passen.\n\nWäre es Ihnen __3__ möglich, mir eine kurze Auskunft darüber zu geben, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nIch frage __4__, weil eine zeitnahe Information meine weitere Planung erleichtern würde.\n\nSollten Sie in der Zwischenzeit __5__ haben oder zusätzliche Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf eine __6__ Antwort von Ihnen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "baldige"
         },
         {
             "id": "b",
-            "content": "Deshalb"
+            "content": "Da"
         },
         {
             "id": "c",
-            "content": "Inzwischen"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "leider"
+            "content": "eventuell"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "mögliche"
         },
         {
             "id": "f",
-            "content": "Seit"
+            "content": "Obwohl"
         },
         {
             "id": "g",
-            "content": "sofort"
+            "content": "Rückfragen"
         },
         {
             "id": "h",
@@ -36,11 +36,11 @@
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "Zusätzlich"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "d"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "a"
         }
     ]
 }

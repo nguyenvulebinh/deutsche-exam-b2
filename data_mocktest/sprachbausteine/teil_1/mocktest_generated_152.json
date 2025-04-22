@@ -1,72 +1,72 @@
 {
-    "thema": "Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich Sie um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten. Wie Sie wissen, war ich vom 01.03.2021 __1__ zum 31.08.2024 in Ihrem Unternehmen als Marketingassistent tätig.\n\nDa mein Arbeitsverhältnis nun beendet ist, benötige ich dieses Zeugnis für meine zukünftigen Bewerbungen. Gemäß § 109 Gewerbeordnung habe ich __2__ einen Rechtsanspruch.\n\nIch wäre Ihnen dankbar, __3__ das Zeugnis sowohl meine Aufgabenbereiche als auch meine Leistungen und mein Sozialverhalten ausführlich bewertet. __4__ Sie noch Rückfragen zu meinen Tätigkeiten haben sollten, stehe ich Ihnen __5__ gerne zur Verfügung.\n\nKönnten Sie mir bitte mitteilen, __6__ ich ungefähr mit der Zusendung des Zeugnisses rechnen kann?\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-123) vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich __1__ meine Bewerbung vom 25. April für die Stelle als Projektmanager mit der Kennziffer PM-123.\n\nDa nun bereits einige Zeit vergangen ist, __2__ ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mein Interesse an dieser verantwortungsvollen Position in Ihrem Unternehmen ist __3__ groß. Ich bin nach wie vor davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen __4__.\n\n__5__ Sie mir eventuell mitteilen könnten, wann ungefähr mit einer Entscheidung zu rechnen ist, wäre ich Ihnen sehr dankbar. Selbstverständlich stehe ich Ihnen __6__ für Rückfragen oder ein persönliches Gespräch zur Verfügung.\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "daran"
-        },
-        {
-            "id": "b",
-            "content": "wenn"
-        },
-        {
-            "id": "c",
-            "content": "wann"
-        },
-        {
-            "id": "d",
             "content": "Obwohl"
         },
         {
+            "id": "b",
+            "content": "jederzeit"
+        },
+        {
+            "id": "c",
+            "content": "auf"
+        },
+        {
+            "id": "d",
+            "content": "bereits"
+        },
+        {
             "id": "e",
-            "content": "darauf"
+            "content": "passen"
         },
         {
             "id": "f",
-            "content": "seit"
-        },
-        {
-            "id": "g",
-            "content": "ob"
-        },
-        {
-            "id": "h",
             "content": "Falls"
         },
         {
+            "id": "g",
+            "content": "möchte"
+        },
+        {
+            "id": "h",
+            "content": "nach wie vor"
+        },
+        {
             "id": "i",
-            "content": "selbstverständlich"
+            "content": "sollte"
         },
         {
             "id": "j",
-            "content": "bis"
+            "content": "über"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "e"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
             "option_id": "h"
         },
         {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "b"
         }
     ]
 }

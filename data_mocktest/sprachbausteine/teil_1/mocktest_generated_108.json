@@ -1,60 +1,60 @@
 {
-    "thema": "Bitte um Verschiebung eines Vorstellungsgesprächs",
-    "textinhalt": "Betreff: Bitte um Verschiebung des Vorstellungsgesprächs am 15. März\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Position als Projektmanager am 15. März um 10:00 Uhr. Ich habe mich sehr __1__ gefreut.\n\n__2__ habe ich an diesem Tag bereits einen wichtigen, unaufschiebbaren Arzttermin, den ich schon vor Längerem vereinbart habe und leider nicht verschieben kann. __3__ bitte ich Sie höflich um Verständnis und darum, zu prüfen, ob wir einen alternativen Termin finden könnten.\n\nIch bin __4__ sehr an der Position in Ihrem Unternehmen interessiert und wäre Ihnen dankbar, __5__ Sie mir vielleicht alternative Terminvorschläge in der gleichen oder der darauffolgenden Woche nennen könnten. __6__ wäre ich nachmittags generell flexibler als vormittags.\n\nIch hoffe auf Ihr Verständnis und freue mich auf Ihre positive Rückmeldung.\n\nMit freundlichen Grüßen\n\nMichael Schmidt",
+    "thema": "Betreff: Nachfrage nach meinem Vorstellungsgespräch am 15. Mai für die Stelle als Projektmanager",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ auf mein sehr angenehmes Vorstellungsgespräch mit Ihnen am 15. Mai für die Stelle als Projektmanager möchte ich mich nochmals herzlich bedanken. Der positive Eindruck von Ihrem Unternehmen hat sich dabei verstärkt, und ich bin __2__ sehr an dieser Position interessiert.\n\nSie erwähnten im Gespräch, dass Sie sich voraussichtlich innerhalb von zwei Wochen melden würden. __3__ möchte ich mich höflich erkundigen, ob es bereits Neuigkeiten bezüglich des Auswahlprozesses gibt oder __4__ ich ungefähr mit einer Entscheidung rechnen kann.\n\nBesonders hervorheben möchte ich nochmals meine mehrjährige Erfahrung im internationalen Projektmanagement, die meines Erachtens sehr gut __5__ den Anforderungen Ihrer Stellenausschreibung passt.\n\nIch freue mich __6__ eine baldige Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Beispielsweise"
+            "content": "wenn"
         },
         {
             "id": "b",
-            "content": "Darüber"
+            "content": "zu"
         },
         {
             "id": "c",
-            "content": "Deshalb"
+            "content": "auf"
         },
         {
             "id": "d",
-            "content": "Davon"
+            "content": "weiterhin"
         },
         {
             "id": "e",
-            "content": "Leider"
+            "content": "trotzdem"
         },
         {
             "id": "f",
-            "content": "Noch"
+            "content": "über"
         },
         {
             "id": "g",
-            "content": "Ob"
+            "content": "noch"
         },
         {
             "id": "h",
-            "content": "Trotzdem"
+            "content": "daher"
         },
         {
             "id": "i",
-            "content": "Weiterhin"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "Wenn"
+            "content": "bezugnehmend"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "2",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "f"
         }
     ]
 }

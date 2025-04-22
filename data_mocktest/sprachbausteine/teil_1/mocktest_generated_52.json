@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Marketingassistent am 15. Mai, __1__ ich mich sehr gefreut habe.\n\nLeider muss ich Ihnen mitteilen, dass ich diesen Termin nicht wahrnehmen kann. Ich möchte Sie __2__ höflich bitten, das Gespräch zu verschieben, __3__ ich genau an diesem Tag __4__ einen wichtigen, unaufschiebbaren Arzttermin habe, den ich nicht verlegen kann.\n\n__5__ dem 16. Mai stehe ich Ihnen jedoch flexibel für ein Gespräch zur Verfügung. Bitte lassen Sie mich wissen, ob ein alternativer Termin in der Woche vom 16. bis 20. Mai für Sie möglich wäre.\n\nIch bin __6__ sehr an der ausgeschriebenen Stelle interessiert und würde mich freuen, bald von Ihnen einen neuen Terminvorschlag zu erhalten.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager/-in vom 15. Mai 2024 – Kennziffer PM-2024-08",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich schreibe Ihnen __1__ meiner Bewerbung auf die Stelle als Projektmanager/-in vom 15. Mai (Kennziffer PM-2024-08), für die ich auch bereits eine Empfangsbestätigung erhalten habe.\n\nDa __2__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich __3__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist selbstverständlich bewusst, dass eine sorgfältige Prüfung aller Bewerbungen Zeit __4__. Dennoch wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, __5__ voraussichtlich mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist.\n\nIch möchte bei dieser Gelegenheit nochmals betonen, dass ich __6__ sehr an dieser Position in Ihrem Unternehmen interessiert bin und mich über die Möglichkeit eines persönlichen Gesprächs freuen würde.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMarkus Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "deshalb"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "erfordert"
         },
         {
             "id": "c",
-            "content": "da"
-        },
-        {
-            "id": "d",
-            "content": "daher"
-        },
-        {
-            "id": "e",
-            "content": "darüber"
-        },
-        {
-            "id": "f",
-            "content": "erst"
-        },
-        {
-            "id": "g",
-            "content": "obwohl"
-        },
-        {
-            "id": "h",
-            "content": "trotzdem"
-        },
-        {
-            "id": "i",
             "content": "weiterhin"
         },
         {
+            "id": "d",
+            "content": "inzwischen"
+        },
+        {
+            "id": "e",
+            "content": "wann"
+        },
+        {
+            "id": "f",
+            "content": "ob"
+        },
+        {
+            "id": "g",
+            "content": "bezüglich"
+        },
+        {
+            "id": "h",
+            "content": "seitdem"
+        },
+        {
+            "id": "i",
+            "content": "trotz"
+        },
+        {
             "id": "j",
-            "content": "worüber"
+            "content": "hiermit"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "2",
@@ -54,7 +54,7 @@
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "c"
         }
     ]
 }

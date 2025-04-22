@@ -1,72 +1,72 @@
 {
-    "thema": "Email requesting to reschedule an interview due to a prior commitment",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Oktober – Stelle als Projektmanager\n\nSehr geehrte Frau Bauer,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Oktober um 14:00 Uhr. Ich habe mich sehr __1__ gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich diesen Termin nicht wahrnehmen kann, __2__ ich an diesem Tag bereits einen seit Längerem geplanten, unaufschiebbaren Arzttermin habe.\n\nWäre es Ihnen __3__ möglich, einen alternativen Termin zu finden? Ich bin __4__ in der gesamten Woche ab dem 16. Oktober zeitlich sehr flexibel.\n\nIch bin __5__ sehr an der Position als Projektmanager in Ihrem Unternehmen interessiert und würde mich __6__ freuen, wenn wir das Gespräch zu einem anderen Zeitpunkt nachholen könnten.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage nach Vorstellungsgespräch am 15. Mai - Bewerbung als Projektmanager",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich noch einmal herzlich für das angenehme Vorstellungsgespräch am 15. Mai __1__ die Position als Projektmanager bedanken.\n\nDas Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __2__ und mein Interesse an der Stelle weiter verstärkt. Besonders die Diskussion über die agilen Projektmanagementmethoden fand ich sehr aufschlussreich, __3__ dies genau meinen Erfahrungen und Stärken entspricht.\n\nSie erwähnten, dass Sie sich __4__ Ende dieser Woche bezüglich der nächsten Schritte melden würden.\n\n__5__ Sie weitere Informationen oder Referenzen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung. Ich bin nach wie vor sehr an der Position interessiert und würde mich freuen, __6__ von Ihnen zu hören.\n\nMit freundlichen Grüßen,\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ansonsten"
+            "content": "bald"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "bestätigt"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "bis"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "da"
         },
         {
             "id": "e",
-            "content": "gerne"
+            "content": "Falls"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "für"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "innerhalb"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "Ob"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "obwohl"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "sofort"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "a"
         }
     ]
 }

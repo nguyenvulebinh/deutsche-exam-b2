@@ -1,10 +1,10 @@
 {
-    "thema": "Bitte um Verschiebung eines Vorstellungsgesprächs",
-    "textinhalt": "Betreff: Ihr Terminvorschlag für ein Vorstellungsgespräch – Kennziffer XYZ\n\nSehr geehrte Frau Meyer,\n\nherzlichen Dank für Ihre freundliche Einladung zu einem Vorstellungsgespräch am [Datum, z.B. 15. Juli], die ich heute erhalten habe. Über die Möglichkeit, mich Ihnen persönlich vorzustellen, habe ich mich sehr gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich den von Ihnen vorgeschlagenen Termin am [Datum] nicht wahrnehmen kann, __1__ ich an diesem Tag einen wichtigen Arzttermin habe, der schon __2__ längerem feststeht und sich bedauerlicherweise nicht verschieben lässt.\n\nMein Interesse an der ausgeschriebenen Stelle als [Position, z.B. Projektmanager] und an Ihrem Unternehmen ist __3__ unverändert groß.\n\n__4__ möchte ich Sie höflich fragen, ob es __5__ eine Alternative gäbe. Grundsätzlich bin ich zeitlich flexibel, insbesondere an anderen Tagen derselben Woche oder in der Folgewoche.\n\nIch wäre Ihnen sehr dankbar, wenn Sie prüfen könnten, ob ein anderer Termin passt, und bitte __6__ Ihr Verständnis für die Umstände. Über eine positive Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Muster,\n\nich beziehe mich auf meine Bewerbung als Projektmanager, die ich Ihnen am 15. Mai zugesendet habe.\n\nDa seitdem bereits einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist durchaus bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungen Zeit in Anspruch nimmt, __1__ möchte ich mein starkes Interesse an der Position bekräftigen.\n\nKönnten Sie mir eventuell eine kurze Auskunft geben, __2__ ungefähr mit einer ersten Rückmeldung oder Entscheidung zu rechnen ist? Mein Interesse an einer Mitarbeit in Ihrem Unternehmen ist __3__ sehr groß.\n\n__4__ der spannenden Projektbeschreibungen auf Ihrer Webseite bin ich überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen passen würden.\n\nSollten Sie __5__ noch weitere Unterlagen oder Informationen von mir benötigen, lasse ich Ihnen diese selbstverständlich __6__ zukommen.\n\nIch würde mich sehr über eine baldige Nachricht von Ihnen freuen.\n\nMit freundlichen Grüßen,\nMax Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "aufgrund"
         },
         {
             "id": "b",
@@ -12,35 +12,35 @@
         },
         {
             "id": "c",
-            "content": "für"
+            "content": "weiterhin"
         },
         {
             "id": "d",
-            "content": "möglicherweise"
+            "content": "wann"
         },
         {
             "id": "e",
-            "content": "obwohl"
+            "content": "ob"
         },
         {
             "id": "f",
-            "content": "seit"
+            "content": "zusätzlich"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "trotz"
         },
         {
             "id": "h",
-            "content": "um"
+            "content": "umgehend"
         },
         {
             "id": "i",
-            "content": "vor"
+            "content": "später"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "dennoch"
         }
     ],
     "loesung": [
@@ -50,19 +50,19 @@
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "6",

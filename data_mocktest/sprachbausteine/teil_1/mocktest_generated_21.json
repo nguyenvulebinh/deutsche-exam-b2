@@ -1,72 +1,72 @@
 {
-    "thema": "Bestätigung Interviewtermin und Rückfrage zur Vorbereitung",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.10., Kennziffer IT-Dev-03\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre positive Rückmeldung und die Einladung zum Vorstellungsgespräch am 15. Oktober um 10:00 Uhr für die Position als Softwareentwickler, __1__ ich mich sehr gefreut habe. Ich bestätige den Termin gerne.\n\nIch hätte __2__ eine kurze Frage zur Vorbereitung: Sollte ich neben den üblichen Unterlagen (Lebenslauf, Zeugnisse) noch etwas Bestimmtes mitbringen oder vorbereiten, __3__ Sie besonderen Wert legen?\n\nIch sehe dem Gespräch mit großem Interesse entgegen, __4__ ich davon überzeugt bin, mit meinen Qualifikationen gut zu Ihrem Team zu passen. Die Anfahrtsbeschreibung auf Ihrer Website habe ich __5__ gefunden.\n\nBitte teilen Sie mir kurz mit, __6__ ich noch weitere Informationen benötige oder etwas Spezielles vorbereiten soll.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nhiermit beziehe ich mich __1__ meine Bewerbung vom 05. April für die Stelle als Marketing Manager in Ihrem Unternehmen.\n\n__2__ ich bisher noch keine Rückmeldung erhalten habe und die Position laut Ihrer Website weiterhin ausgeschrieben ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Stelle entspricht __3__ meinen beruflichen Vorstellungen und Erfahrungen, weshalb mein Interesse daran unverändert groß ist.\n\nKönnten Sie mir __4__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann mit weiteren Informationen zu rechnen ist? Ich wäre Ihnen für eine kurze Orientierung sehr dankbar.\n\nIch bin nach wie vor sehr an der Position interessiert und stehe Ihnen für ein persönliches Gespräch __5__ zur Verfügung.\n\nIch würde mich freuen, bald __6__ Ihnen zu hören.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "an"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "auf"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "bereits"
         },
         {
             "id": "d",
-            "content": "denn"
+            "content": "Da"
         },
         {
             "id": "e",
-            "content": "lediglich"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "genau"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "jederzeit"
         },
         {
             "id": "h",
-            "content": "wenn"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "worauf"
+            "content": "vielleicht"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "von"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
             "option_id": "b"
         },
         {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "j"
         }
     ]
 }

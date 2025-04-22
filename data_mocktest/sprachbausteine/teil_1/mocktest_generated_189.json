@@ -1,72 +1,72 @@
 {
-    "thema": "Anfrage Weiterbildung für Projekt 'Neukundenportal'",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich schreibe Ihnen bezüglich des neuen Projekts „Neukundenportal“, dessen Leitung mir kürzlich übertragen wurde. Ich freue mich sehr __1__ diese verantwortungsvolle Aufgabe.\n\n__2__ einer ersten Einarbeitung in die Projektziele habe ich festgestellt, dass für eine effiziente Umsetzung spezielle Kenntnisse in der CRM-Software „SalesPlus“ notwendig wären, __3__ ich bisher nur grundlegend gearbeitet habe.\n\nEine gezielte Schulung würde mir ermöglichen, die Kundeninteraktionen im Portal optimal zu gestalten und __4__ die Projektrisiken zu minimieren. __5__ bin ich überzeugt, dass sich diese Investition schnell auszahlen wird.\n\nKönnten Sie mir bitte mitteilen, __6__ interne Schulungen zu „SalesPlus“ geplant sind oder ob externe Kurse von der Firma übernommen werden?\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen,\nMarkus Weber",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15.05.2024",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung vom 15.05.2024 für die ausgeschriebene Stelle als Projektmanager möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ ich bisher keine Rückmeldung erhalten habe, wollte ich höflich nachfragen, ob meine Unterlagen gut angekommen sind und ob sich diese noch im Prozess befinden.\n\nIch bin __2__ sehr an der Position interessiert und überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen passen.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, bis wann etwa mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Auswahlprozess Zeit __4__ nimmt.\n\n__5__ Sie weitere Informationen oder Referenzen benötigen, steche ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nIch möchte __6__ betonen, dass mein Interesse an dieser spannenden Herausforderung unverändert groß ist und freue mich auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "bereits"
         },
         {
             "id": "b",
-            "content": "Deshalb"
+            "content": "da"
         },
         {
             "id": "c",
-            "content": "Nach"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "ob"
+            "content": "eventuell"
         },
         {
             "id": "e",
-            "content": "somit"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "Trotzdem"
+            "content": "in Anspruch"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "benötigt"
         },
         {
             "id": "h",
-            "content": "Wegen"
+            "content": "nochmals"
         },
         {
             "id": "i",
-            "content": "wodurch"
+            "content": "obwohl"
         },
         {
             "id": "j",
-            "content": "womit"
+            "content": "weiterhin"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
-        },
-        {
-            "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "e"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
             "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
         }
     ]
 }

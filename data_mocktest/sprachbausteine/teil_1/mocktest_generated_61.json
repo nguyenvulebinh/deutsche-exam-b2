@@ -1,72 +1,72 @@
 {
-    "thema": "Bitte um Terminverschiebung – Vorstellungsgespräch",
-    "textinhalt": "Betreff: Bitte um Terminverschiebung – Vorstellungsgespräch am 15. Mai\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Mai für die Stelle als Projektmanager, __1__ ich mich sehr gefreut habe.\n\n__2__ habe ich an diesem Tag __3__ eine andere wichtige Verpflichtung, die ich nicht verschieben kann, __4__ ich an diesem Tag meine Abschlussprüfung habe.\n\n__5__ ist es mir nicht möglich, den vorgeschlagenen Termin wahrzunehmen. Wäre es eventuell möglich, einen neuen Termin zu vereinbaren? Flexibel wäre ich beispielsweise am 17. oder 18. Mai.\n\nIch bitte um Ihr Verständnis für die Umstände und möchte betonen, dass mein Interesse an der Position __6__ sehr groß ist. Über einen alternativen Terminvorschlag Ihrerseits würde ich mich freuen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-123) vom 10. April",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nbezugnehmend auf meine Bewerbung vom 10. April für die ausgeschriebene Stelle als Projektmanager (Kennziffer PM-123) und unser kurzes Telefongespräch am 18. April möchte ich mich höflich __1__, wie der aktuelle Stand des Auswahlverfahrens ist.\n\nDa __2__ einige Wochen vergangen sind und Sie im Telefongespräch eine Rückmeldung bis Ende April in Aussicht gestellt hatten, wollte ich nachhören.\n\nIch möchte __3__ mein großes Interesse an dieser Position bekräftigen. Die Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen entsprechen __4__ meinen Qualifikationen und beruflichen Zielen.\n\nWäre es Ihnen __5__, mir eine kurze Information zukommen zu lassen, __6__ mit einer Entscheidung gerechnet werden kann?\n\nIch freue mich auf Ihre Rückmeldung und verbleibe\n\nmit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "während"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "möglich"
         },
         {
             "id": "c",
-            "content": "Deshalb"
+            "content": "genau"
         },
         {
             "id": "d",
-            "content": "erst"
+            "content": "wann"
         },
         {
             "id": "e",
-            "content": "Leider"
+            "content": "erkundigen"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "informieren"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "über die"
+            "content": "hiermit"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "wichtig"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "inzwischen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
-        },
-        {
-            "blank": "2",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "b"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "d"
         }
     ]
 }

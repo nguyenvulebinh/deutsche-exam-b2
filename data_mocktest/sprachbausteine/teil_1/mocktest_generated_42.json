@@ -1,72 +1,72 @@
 {
-    "thema": "Email confirming interview interest but requesting to reschedule",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch – [Your Name]\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Projektmanager am kommenden Dienstag, den 15. März. Ich habe mich sehr __1__ gefreut und bestätige mein großes Interesse an der Stelle.\n\nLeider muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin nicht wahrnehmen kann, __2__ ich an diesem Tag bereits eine andere wichtige Verpflichtung habe, die ich nicht verschieben kann. Es handelt __3__ um einen seit Längerem geplanten Facharzttermin.\n\nWäre es __4__ möglich, das Gespräch auf einen anderen Tag zu verlegen? Ich wäre zum Beispiel am Mittwoch, den 16. März, oder __5__ der gesamten darauffolgenden Woche zeitlich flexibel.\n\nIch bitte um Ihr Verständnis und wäre Ihnen dankbar, __6__ Sie mir mitteilen könnten, ob einer dieser alternativen Termine für Sie passend wäre.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-451) vom 10.06.2024",
+    "textinhalt": "Sehr geehrte Frau Dr. Schneider,\n\nbezugnehmend auf meine Bewerbung vom 10.06.2024 für die ausgeschriebene Stelle als Projektmanager (Kennziffer PM-451) möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen seit dem Bewerbungsschluss vergangen sind, wollte ich nachfragen, __2__ es bereits Neuigkeiten zum weiteren Vorgehen gibt.\n\nMein Interesse an dieser verantwortungsvollen Position in Ihrem Hause ist __3__ groß, und ich bin nach wie vor davon überzeugt, mit meiner Erfahrung einen wertvollen Beitrag leisten zu können.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann ungefähr mit einer Entscheidung zu rechnen ist? Das wäre für meine weitere Planung sehr hilfreich.\n\n__5__ Sie zusätzliche Informationen oder Referenzen benötigen, lassen Sie es mich bitte wissen.\n\nIch würde mich __6__ eine baldige Rückmeldung sehr freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "ziemlich"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "weiterhin"
         },
         {
             "id": "c",
-            "content": "eventuell"
-        },
-        {
-            "id": "d",
-            "content": "innerhalb"
-        },
-        {
-            "id": "e",
-            "content": "mich"
-        },
-        {
-            "id": "f",
             "content": "ob"
         },
         {
+            "id": "d",
+            "content": "eventuell"
+        },
+        {
+            "id": "e",
+            "content": "auf"
+        },
+        {
+            "id": "f",
+            "content": "inzwischen"
+        },
+        {
             "id": "g",
-            "content": "obwohl"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "sich"
+            "content": "Falls"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "seit"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "wann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "h"
-        },
-        {
-            "blank": "4",
             "option_id": "c"
         },
         {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "g"
         }
     ]
 }

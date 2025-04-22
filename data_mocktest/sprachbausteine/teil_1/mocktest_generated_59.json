@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Juli / Bitte um Terminverschiebung",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Juli um 10:00 Uhr. Ich habe mich sehr __1__ gefreut und bin nach wie vor sehr an der Position interessiert.\n\n__2__ muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin nicht wahrnehmen kann, __3__ ich an diesem Tag einen wichtigen, bereits länger feststehenden Arzttermin habe, den ich nicht verschieben kann.\n\nIch bitte um Ihr Verständnis. Wäre es __4__ möglich, das Gespräch zu verschieben? Ich wäre Ihnen dankbar, wenn wir einen alternativen Termin finden könnten. Ab dem 16. Juli bin ich zeitlich wieder völlig flexibel. __5__ richte ich mich bei der neuen Terminfindung gerne nach Ihren Möglichkeiten.\n\nÜber eine positive Rückmeldung und einen neuen Terminvorschlag würde ich mich sehr freuen. __6__ dahin verbleibe ich\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage nach Vorstellungsgespräch als Projektmanager am 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf mein Vorstellungsgespräch am 15. Mai für die Position als Projektmanager und möchte mich nochmals für das informative und angenehme Gespräch bedanken.\n\nDas Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ bestärkt und mein großes Interesse an der ausgeschriebenen Stelle untermauert.\n\nDa nun seit dem Gespräch einige Zeit vergangen ist, wollte ich mich auf diesem Wege __2__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __3__ mitteilen, bis wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __4__ ich auch andere Bewerbungsprozesse parallel verfolge und koordinieren muss.\n\nIch bin nach wie vor sehr an der Position interessiert. Sollten Sie in der Zwischenzeit __5__ Fragen haben oder zusätzliche Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch sehe einer positiven Rückmeldung von Ihnen __6__ entgegen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Bis"
+            "content": "obwohl"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "höflich"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "bereits"
         },
         {
             "id": "d",
-            "content": "Davon"
+            "content": "weiterhin"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "da"
         },
         {
             "id": "f",
-            "content": "Jedoch"
+            "content": "zuversichtlich"
         },
         {
             "id": "g",
-            "content": "Leider"
+            "content": "weitere"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "zusätzlich"
         },
         {
             "id": "i",
-            "content": "Selbstverständlich"
+            "content": "deswegen"
         },
         {
             "id": "j",
-            "content": "Vielleicht"
+            "content": "eventuell"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "f"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "thema": "Betreff: Rücknahme meiner Bewerbung als Projektmanager, Kennziffer PM-123",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich __1__ meine Bewerbung für die Stelle als Projektmanager (Kennziffer PM-123), die ich Ihnen am 10. April zugesandt habe.\n\n__2__ möchte ich meine Bewerbung zurückziehen. Der Grund dafür ist, dass ich __3__ ein anderes Stellenangebot angenommen habe, das meinen beruflichen Zielen aktuell etwas besser entspricht.\n\nIch möchte mich __4__ herzlich für Ihr Interesse an meiner Bewerbung und die Zeit, die Sie sich bereits genommen haben, bedanken. Ihr Unternehmen macht einen sehr guten Eindruck, __5__ mir diese Entscheidung nicht leichtgefallen ist.\n\nIch bitte um Verständnis für meine Situation und wünsche Ihnen viel Erfolg __6__ der weiteren Kandidatensuche.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager/in Digitale Transformation vom 20. April 2024",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager/in Digitale Transformation, die ich Ihnen am 20. April 2024 zugesandt habe. Da ich bisher noch keine Rückmeldung __1__ habe, möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser spannenden Herausforderung bei Ihrem Unternehmen ist __2__ ungebrochen groß, __3__ die beschriebenen Aufgabenbereiche exakt meinen Erfahrungen im agilen Projektmanagement entsprechen.\n\nIch verstehe, dass der Auswahlprozess Zeit __4__ kann. __5__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Auskunft geben könnten, bis wann etwa mit einer Entscheidung zu rechnen ist.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich __6__ Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "trotzdem"
         },
         {
             "id": "b",
-            "content": "auf"
+            "content": "weiterhin"
         },
         {
             "id": "c",
@@ -16,57 +16,57 @@
         },
         {
             "id": "d",
-            "content": "Deswegen"
+            "content": "benötigt"
         },
         {
             "id": "e",
-            "content": "für"
+            "content": "da"
         },
         {
             "id": "f",
-            "content": "Hiermit"
+            "content": "Dennoch"
         },
         {
             "id": "g",
-            "content": "inzwischen"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "erhalten"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "zur"
         },
         {
             "id": "j",
-            "content": "weshalb"
+            "content": "bekommen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "h"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "g"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "i"
         }
     ]
 }

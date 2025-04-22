@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Oktober – Terminanfrage",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Oktober für die Stelle als Projektmanager, __1__ ich mich sehr gefreut habe.\n\nLeider muss ich Ihnen mitteilen, dass ich an diesem Tag bereits einen anderen, unaufschiebbaren Termin habe, __2__ ich Sie um eine Verschiebung bitten möchte. Es handelt sich um eine lange geplante ärztliche Untersuchung.\n\n__3__ dem 16. Oktober stehe ich Ihnen flexibel zur Verfügung. Bitte teilen Sie mir mit, ob ein Termin an einem anderen Tag möglich wäre.\n\nIch bin __4__ sehr an der Position und einer Zusammenarbeit mit Ihrem Unternehmen interessiert und bitte __5__ Ihr Verständnis für die Umstände. Über einen alternativen Terminvorschlag würde ich mich sehr freuen. __6__ bringe ich zum neuen Termin alle erforderlichen Unterlagen mit.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung vom 25. April für die ausgeschriebene Stelle als Marketingassistent möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, und ich mir vorstellen kann, dass Sie eine Vielzahl von Bewerbungen prüfen müssen, wollte ich mich kurz bei Ihnen melden.\n\nDie in der Stellenbeschreibung genannten Aufgaben entsprechen genau meinen Fähigkeiten und Interessen, __2__ ich mein großes Interesse an dieser Position in Ihrem Unternehmen nochmals bekräftigen möchte.\n\nIch wäre Ihnen sehr dankbar, __3__ Sie mir __6__ eine kurze Information geben könnten, wann ungefähr mit einer Entscheidung zu rechnen ist. Falls Sie in der Zwischenzeit __4__ Dokumente oder Referenzen von mir benötigen, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch sehe Ihrer Rückmeldung mit Spannung __5__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Ab"
+            "content": "auf"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "entgegen"
         },
         {
             "id": "c",
-            "content": "deswegen"
+            "content": "inzwischen"
         },
         {
             "id": "d",
-            "content": "für"
+            "content": "ob"
         },
         {
             "id": "e",
-            "content": "Selbstverständlich"
+            "content": "seitdem"
         },
         {
             "id": "f",
-            "content": "Seit"
+            "content": "trotzdem"
         },
         {
             "id": "g",
-            "content": "um"
+            "content": "vielleicht"
         },
         {
             "id": "h",
-            "content": "weiterhin"
+            "content": "weitere"
         },
         {
             "id": "i",
-            "content": "weshalb"
+            "content": "wenn"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "weshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "i"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "g"
         }
     ]
 }

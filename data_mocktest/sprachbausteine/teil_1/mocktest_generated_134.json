@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Ihr Vertragsangebot Projektassistenz vom 15.07.",
-    "textinhalt": "Sehr geehrte Frau Becker,\n\nvielen Dank für die Zusendung des Vertragsangebots für die Position als Projektassistenz vom 15.07. Ich habe mich sehr darüber gefreut und das Angebot sorgfältig geprüft.\n\nIch bin __1__ sehr an der Position interessiert. __2__ hätte ich eine kurze Frage zum Starttermin: Im Angebot ist der 1. August genannt. Wäre es __3__ möglich, erst am 15. August zu beginnen, __4__ ich meine aktuelle Tätigkeit ordnungsgemäß übergeben möchte?\n\nDes Weiteren wird im Angebot die Mitarbeit an \"internationalen Projekten\" erwähnt. Könnten Sie mir __5__ noch ein paar mehr Details __6__ nennen, um welche Art von Projekten es sich konkret handelt?\n\nIch bin nach wie vor sehr motiviert und freue mich auf die Möglichkeit, Ihr Team zu verstärken. Über eine kurze Rückmeldung zu meinen Fragen würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMaria Rossi",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Mai zugesandt habe. __1__ ich bisher noch keine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __2__ sehr an dieser Position interessiert, __3__ die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht.\n\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Auswahlprozess Zeit __5__, aber eine kurze Information über den Zeitrahmen wäre sehr hilfreich.\n\nVielen Dank __6__ Ihre Bemühungen im Voraus.\n\nMit freundlichen Grüßen\nAnna Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "über"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "vielleicht"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "trotzdem"
         },
         {
             "id": "d",
-            "content": "dazu"
+            "content": "Da"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "beansprucht"
         },
         {
             "id": "f",
-            "content": "eventuell"
-        },
-        {
-            "id": "g",
-            "content": "gegebenenfalls"
-        },
-        {
-            "id": "h",
-            "content": "grundsätzlich"
-        },
-        {
-            "id": "i",
             "content": "obwohl"
         },
         {
+            "id": "g",
+            "content": "für"
+        },
+        {
+            "id": "h",
+            "content": "nach wie vor"
+        },
+        {
+            "id": "i",
+            "content": "jedoch"
+        },
+        {
             "id": "j",
-            "content": "sicherlich"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "3",
-            "option_id": "g"
+            "option_id": "j"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "g"
         }
     ]
 }

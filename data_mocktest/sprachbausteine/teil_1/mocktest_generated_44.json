@@ -1,72 +1,72 @@
 {
-    "thema": "Terminverschiebung für Vorstellungsgespräch",
-    "textinhalt": "Betreff: Ihr Terminvorschlag für ein Vorstellungsgespräch am 15. Mai\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zu einem Vorstellungsgespräch am 15. Mai um 10:00 Uhr für die Position als Projektmanager.\n\n__1__ habe ich mich sehr gefreut. __2__ habe ich an diesem Tag bereits eine andere, unaufschiebbare Verpflichtung, die ich nicht verschieben kann.\n\n__3__ möchte ich Sie höflich bitten, __4__ es möglich wäre, einen alternativen Termin zu finden. Ich bin an den Tagen __5__ dem 15. Mai zeitlich sehr flexibel. Wäre es Ihnen beispielsweise am 16. oder 17. Mai möglich?\n\nIch bin __6__ sehr an der Position interessiert und würde mich freuen, wenn wir einen passenden Termin vereinbaren könnten.\n\nVielen Dank im Voraus für Ihr Verständnis und Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerung als Projektmanager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 25. April zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __2__ meinen Vorstellungen und Qualifikationen, und ich bin nach wie vor sehr an dieser spannenden Herausforderung interessiert. Ich bin __3__ überzeugt, dass meine Erfahrungen im Bereich agiles Projektmanagement für Ihr Team von großem Nutzen sein könnten.\n\nKönnten Sie mir __4__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann ungefähr mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Auswahlprozess Zeit __5__, und möchte keinesfalls drängen.\n\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Ab"
+            "content": "Daran"
         },
         {
             "id": "b",
-            "content": "Daher"
+            "content": "eventuell"
         },
         {
             "id": "c",
-            "content": "Darüber"
+            "content": "Falls"
         },
         {
             "id": "d",
-            "content": "Dass"
+            "content": "kostet"
         },
         {
             "id": "e",
-            "content": "Davon"
+            "content": "Da"
         },
         {
             "id": "f",
-            "content": "Leider"
+            "content": "benötigt"
         },
         {
             "id": "g",
-            "content": "nach"
+            "content": "genau"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "davon"
         },
         {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "Sobald"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "Obwohl"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
             "option_id": "g"
         },
         {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "c"
         }
     ]
 }

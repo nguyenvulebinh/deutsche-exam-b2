@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Ihre Absage vom [Datum] – Nachfrage zu meiner Bewerbung als [Position]",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nvielen Dank für Ihre Nachricht vom [Datum], __1__ Sie mir leider eine Absage für die Stelle als [Position] erteilt haben.\n\nIch habe Ihre Entscheidung zur Kenntnis genommen, __2__ ich dies natürlich sehr bedauere, da mich die ausgeschriebene Position nach wie vor stark interessiert.\n\nUm mich für zukünftige Bewerbungsverfahren besser vorbereiten zu können, wäre ich Ihnen sehr dankbar, __3__ Sie mir eventuell kurz mitteilen könnten, __4__ Aspekte meiner Bewerbung oder Qualifikationen ausschlaggebend für die Absage waren.\n\nSelbstverständlich habe ich Verständnis __5__, falls Ihnen dies aus zeitlichen Gründen nicht möglich ist. Dennoch möchte ich betonen, dass ich __6__ großes Interesse an einer Tätigkeit in Ihrem Unternehmen habe.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent vom 25. April und wollte mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ ich bisher noch keine Rückmeldung erhalten habe und weiterhin sehr an der Position interessiert bin, wäre ich Ihnen dankbar für eine kurze Information. Mir ist __3__ bewusst, dass die Prüfung von Bewerbungsunterlagen Zeit in Anspruch nimmt.\n\nKönnten Sie mir __4__ mitteilen, wann voraussichtlich mit einer Entscheidung zu rechnen ist? Ich möchte __5__ betonen, dass diese Stelle ideal zu meinen beruflichen Zielen passen würde.\n\nVielen Dank __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "als"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "dafür"
+            "content": "Für"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "etwa"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "Genau"
         },
         {
             "id": "e",
-            "content": "mit der"
+            "content": "höflich"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "selbstverständlich"
         },
         {
             "id": "g",
-            "content": "weil"
+            "content": "Da"
         },
         {
             "id": "h",
-            "content": "weiterhin"
+            "content": "Wegen"
         },
         {
             "id": "i",
-            "content": "welche"
+            "content": "Außerdem"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "nochmals"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "b"
         }
     ]
 }

@@ -1,22 +1,22 @@
 {
-    "thema": "Anfrage zu einem Weiterbildungsangebot (Seminar)",
-    "textinhalt": "Betreff: Anfrage zu Ihrem Seminar \"Effektives Projektmanagement\"\n\nSehr geehrte Damen und Herren,\n\nauf Ihrer Webseite sind wir auf Ihr Seminarangebot \"Effektives Projektmanagement\" aufmerksam geworden. __1__ wir planen, mehrere Mitarbeiter unseres Teams in diesem Bereich weiterzubilden, sind wir sehr an detaillierteren Informationen interessiert.\n\nKönnten Sie uns bitte mitteilen, __2__ die nächsten Seminartermine stattfinden und welche Kosten pro Teilnehmer entstehen? __3__ wären wir dankbar für Informationen über die genauen Seminarinhalte und eventuelle Voraussetzungen für die Teilnahme. Uns interessiert __4__, ob es Mengenrabatte gibt, falls wir mehrere Mitarbeiter anmelden.\n\nBitte senden Sie uns __5__ eine detaillierte Seminarbeschreibung und die Anmeldeunterlagen zu. Für Rückfragen stehen wir Ihnen __6__ auch telefonisch unter 0123-456789 zur Verfügung.\n\nWir freuen uns auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nPersonalentwicklung\nBeispiel GmbH",
+    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch am 15. Mai als Marketingmanager",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich nochmals herzlich für das angenehme Vorstellungsgespräch am 15. Mai __1__ der Stelle als Marketingmanager bedanken. Das Gespräch hat meinen positiven Eindruck von Innovatech GmbH __2__ und mein Interesse an der Position weiter verstärkt.\n\nIch bin nach wie vor sehr an der Mitarbeit in Ihrem Team interessiert, __3__ die besprochenen Aufgabenbereiche genau meinen Fähigkeiten und beruflichen Zielen entsprechen. Die Atmosphäre im Gespräch empfand ich __4__ sehr offen und konstruktiv.\n\nKönnten Sie mir __5__ mitteilen, wie der weitere Auswahlprozess aussieht und wann ich ungefähr mit einer Rückmeldung rechnen kann? Ich verstehe natürlich, dass solche Entscheidungen Zeit benötigen, bin aber sehr gespannt auf das Ergebnis.\n\n__6__ Sie weitere Informationen oder Unterlagen von mir benötigen sollten, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Außerdem"
+            "content": "als"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "bestätigt"
         },
         {
             "id": "c",
-            "content": "danach"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "denn"
+            "content": "da"
         },
         {
             "id": "e",
@@ -24,45 +24,45 @@
         },
         {
             "id": "f",
-            "content": "falls"
+            "content": "eventuell"
         },
         {
             "id": "g",
-            "content": "gerne"
+            "content": "Falls"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "verstärkt"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "wie"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "h"
+            "option_id": "a"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "6",

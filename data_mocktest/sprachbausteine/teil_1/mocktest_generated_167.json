@@ -1,56 +1,56 @@
 {
-    "thema": "Bitte um Klärung einer Arbeitsaufgabe",
-    "textinhalt": "Betreff: Bitte um Klärung – Aufgabe „Marktanalyse Konkurrenz“\n\nSehr geehrte Frau Meyer,\n\nvielen Dank für die Übertragung der Aufgabe zur Marktanalyse der Konkurrenzprodukte. Ich habe die grundlegenden Ziele verstanden und bereits begonnen, erste Daten zu sammeln.\n\nAllerdings bin ich mir __1__ einem Punkt noch unsicher. In Ihrer E-Mail erwähnten Sie, wir sollten uns __2__ auf die Preisstrategien konzentrieren. Soll ich __3__ die Analyse der technischen Merkmale komplett weglassen oder nur kürzer fassen?\n\nIch möchte sicherstellen, dass ich die Aufgabe __4__ nach Ihren Vorstellungen bearbeite. __5__ ich weitermache, wäre eine kurze Klärung hilfreich. Wäre es __6__ möglich, dass wir uns kurz dazu austauschen?\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zu meiner Bewerbung als Marketingassistent - Kennziffer MA-2024-112",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nbezugnehmend auf meine Bewerbung für die Stelle als Marketingassistent (Kennziffer MA-2024-112), die ich Ihnen vor etwa drei Wochen habe zukommen lassen, möchte ich mich __1__ nach dem aktuellen Stand des Auswahlprozesses erkundigen.\n\n__2__ mir bewusst ist, dass eine sorgfältige Prüfung aller Bewerbungen Zeit in Anspruch nimmt, wollte ich dennoch kurz nachfragen, da mein Interesse an dieser Position __3__ sehr groß ist.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann mit einer ersten Rückmeldung oder den nächsten Schritten im Verfahren zu rechnen ist? Eine Information über den ungefähren Zeitrahmen wäre für meine weitere Planung sehr __5__.\n\nSollten Sie __6__ noch Fragen zu meinen Unterlagen haben oder weitere Dokumente benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bei"
+            "content": "Deshalb"
         },
         {
             "id": "b",
-            "content": "bevor"
+            "content": "höflich"
         },
         {
             "id": "c",
-            "content": "besonders"
-        },
-        {
-            "id": "d",
-            "content": "danach"
-        },
-        {
-            "id": "e",
-            "content": "deshalb"
-        },
-        {
-            "id": "f",
             "content": "eventuell"
         },
         {
+            "id": "d",
+            "content": "wichtig"
+        },
+        {
+            "id": "e",
+            "content": "nach wie vor"
+        },
+        {
+            "id": "f",
+            "content": "Obwohl"
+        },
+        {
             "id": "g",
-            "content": "genau"
+            "content": "hilfreich"
         },
         {
             "id": "h",
-            "content": "hauptsächlich"
+            "content": "schnell"
         },
         {
             "id": "i",
-            "content": "Nachdem"
+            "content": "bereits"
         },
         {
             "id": "j",
-            "content": "trotzdem"
+            "content": "etwaige"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "j"
         }
     ]
 }

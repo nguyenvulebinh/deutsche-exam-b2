@@ -1,68 +1,68 @@
 {
-    "thema": "Anfrage zu Teilnahmebedingungen für eine Konferenz",
-    "textinhalt": "Betreff: Anfrage: Teilnahmebedingungen Konferenz „Digital Future 2024“\n\nSehr geehrte Damen und Herren,\n\nwir sind __1__ auf Ihre Fachkonferenz „Digital Future 2024“ aufmerksam geworden und prüfen derzeit eine Teilnahme unseres Unternehmens.\n\n__2__ wir uns jedoch final entscheiden und anmelden, hätten wir noch einige Fragen zu den Konditionen. Uns würde interessieren, __3__ es einen Frühbucherrabatt gibt und bis wann dieser gültig ist. Könnten Sie uns __4__ Informationen zu den Kosten für einen kleinen Ausstellungsstand zukommen lassen?\n\n__5__ diese Informationen für unsere interne Budgetplanung wichtig sind, wären wir Ihnen für eine baldige Rückmeldung dankbar.\n\nVielen Dank __6__ Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nMarketing Abteilung\nBeispiel GmbH",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Klein,\n\nbezugnehmend auf meine Bewerbung als Marketingmanager vom 25. April, möchte ich mich heute bei Ihnen melden. __1__ sind seit dem Einreichungsdatum einige Wochen vergangen, __2__ wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position passt __3__ gut zu meinen Qualifikationen und beruflichen Zielen, und ich bin __4__ sehr an einer Tätigkeit in Ihrem Hause interessiert.\n\nDa ich mich über den Fortgang des Bewerbungsprozesses informieren möchte, wäre ich Ihnen dankbar, wenn Sie mir kurz mitteilen könnten, __5__ mit einer Entscheidung oder den nächsten Schritten zu rechnen ist.\n\nFür Rückfragen zu meinen Unterlagen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "außerdem"
+            "content": "bereits"
         },
         {
             "id": "b",
-            "content": "bevor"
+            "content": "besonders"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "daher"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "inzwischen"
         },
         {
             "id": "e",
-            "content": "im"
+            "content": "jederzeit"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "online"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "wann"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "zusätzlich"
+            "content": "ziemlich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "6",

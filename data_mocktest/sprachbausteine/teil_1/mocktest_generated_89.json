@@ -1,68 +1,68 @@
 {
-    "thema": "Bitte um Terminverschiebung – Vorstellungsgespräch als Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Projektmanager am kommenden Dienstag, den 15. März, um 10:00 Uhr. Ich habe mich sehr darüber gefreut.\n\n__1__ muss ich Sie heute bitten, diesen Termin zu verschieben. Ich habe kurzfristig erfahren, __2__ ich genau an diesem Tag an einer verpflichtenden Weiterbildung teilnehmen muss, die bereits vor längerer Zeit angesetzt wurde. Ich bedauere die __3__ entstehenden Unannehmlichkeiten sehr.\n\nMein Interesse an der ausgeschriebenen Stelle ist __4__ unverändert groß. Wäre es __5__ möglich, einen alternativen Termin zu finden, zum Beispiel später in derselben Woche oder in der darauffolgenden? Ich wäre Ihnen sehr dankbar, __6__ Sie mir hierzu eine kurze Rückmeldung geben könnten.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nThomas Schneider",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager/-in vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nbezugnehmend __1__ meine Bewerbung vom 15. Mai für die ausgeschriebene Stelle als Projektmanager/-in und das bisherige Ausbleiben einer Rückmeldung, möchte ich mich auf diesem Wege höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie Position entspricht nach wie vor genau meinen Vorstellungen und ich bin weiterhin sehr an einer Mitarbeit in Ihrem Unternehmen interessiert.\n\nKönnten Sie mir __3__ mitteilen, __4__ ungefähr mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist? Ich verstehe natürlich, dass solche Prozesse Zeit benötigen, eine kurze Orientierung wäre jedoch sehr hilfreich.\n\nFalls Sie in der Zwischenzeit __5__ Unterlagen oder Informationen von mir benötigen, lassen Sie es mich bitte wissen. Gerne stehe ich Ihnen für Rückfragen oder ein Gespräch __6__ Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "wenn"
         },
         {
             "id": "b",
-            "content": "dadurch"
+            "content": "nach"
         },
         {
             "id": "c",
-            "content": "Danach"
+            "content": "eventuell"
         },
         {
             "id": "d",
-            "content": "dennoch"
+            "content": "für"
         },
         {
             "id": "e",
-            "content": "Deshalb"
+            "content": "auf"
         },
         {
             "id": "f",
-            "content": "Leider"
+            "content": "an"
         },
         {
             "id": "g",
-            "content": "Ob"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "weitere"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "zur"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
             "option_id": "b"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "6",

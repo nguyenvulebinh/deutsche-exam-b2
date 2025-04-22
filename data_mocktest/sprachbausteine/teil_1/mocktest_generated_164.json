@@ -1,52 +1,52 @@
 {
-    "thema": "Anfrage zur Teilzeitmöglichkeit für eine Vollzeitstelle",
-    "textinhalt": "Betreff: Anfrage zur Teilzeitmöglichkeit – Ihre Stellenanzeige Projektmanager Digitalisierung (Ref: PMD-123)\n\nSehr geehrte Frau Müller,\n\nmit großem Interesse habe ich Ihre Stellenanzeige für den Projektmanager Digitalisierung auf Ihrer Website gelesen. Die beschriebenen Aufgaben und die Ausrichtung Ihres Unternehmens entsprechen genau meinen beruflichen Vorstellungen.\n\nIch bringe umfangreiche Erfahrungen im Projektmanagement mit, befinde mich jedoch __1__ in einer berufsbegleitenden Weiterbildung. __2__ ich momentan nur eine Tätigkeit im Umfang von ca. 25-30 Stunden pro Woche anstrebe.\n\n__3__ ich Ihnen meine vollständigen Bewerbungsunterlagen zusende, möchte ich mich daher erkundigen, __4__ für diese Position grundsätzlich auch eine Teilzeitregelung denkbar wäre.\n\nIch bin überzeugt, dass ich __5__ des reduzierten Stundenumfangs einen wertvollen Beitrag zur digitalen Transformation in Ihrem Unternehmen leisten kann.\n\nÜber eine kurze Rückmeldung __6__ wäre ich Ihnen sehr dankbar.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich mich höflich nach dem Stand meiner Bewerbung für die Position als Marketing Manager erkundigen, __1__ ich Ihnen am 25. April zugesandt habe.\n\nIch habe bisher noch keine Rückmeldung bezüglich des weiteren Vorgehens erhalten und wollte __2__ nachfragen, ob der Auswahlprozess noch andauert oder bereits eine Entscheidung getroffen wurde.\n\n__3__ die ausgeschriebene Stelle sehr gut zu meinen Qualifikationen und beruflichen Interessen passt, bin ich nach wie vor sehr an dieser Möglichkeit interessiert. Die Aufgabenbereiche und die Entwicklungsperspektiven in Ihrem Unternehmen finde ich __4__ spannend.\n\nKönnten Sie mir eventuell eine kurze Auskunft geben, __5__ mit den nächsten Schritten im Bewerbungsverfahren zu rechnen ist?\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung zukommen __6__ könnten. Vielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "dass"
+            "content": "Da"
         },
         {
             "id": "b",
-            "content": "trotz"
+            "content": "lassen"
         },
         {
             "id": "c",
-            "content": "aktuell"
+            "content": "besonders"
         },
         {
             "id": "d",
-            "content": "Bevor"
+            "content": "wann"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "geben"
         },
         {
             "id": "f",
-            "content": "deswegen"
+            "content": "trotzdem"
         },
         {
             "id": "g",
-            "content": "wegen"
+            "content": "die"
         },
         {
             "id": "h",
-            "content": "dazu"
+            "content": "wenn"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "weil"
         },
         {
             "id": "j",
-            "content": "Weshalb"
+            "content": "deshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "b"
         }
     ]
 }

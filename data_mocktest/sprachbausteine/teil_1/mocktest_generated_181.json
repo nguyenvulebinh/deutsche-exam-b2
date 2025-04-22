@@ -1,38 +1,38 @@
 {
-    "thema": "Betreff: Rückfrage nach Gespräch am 10. April / Stelle als Projektmanager",
-    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nich möchte mich nochmals herzlich für das angenehme Vorstellungsgespräch am 10. April bedanken. Über Ihre positive Rückmeldung __1__ am Telefon habe ich mich sehr gefreut.\n\nMein guter Eindruck von der Position und Ihrem Unternehmen hat sich dadurch bestätigt. Bevor die Vertragsunterlagen erstellt werden, hätte ich noch eine kurze Nachfrage __2__ des möglichen Startdatums. Sie erwähnten, dass der Einstieg flexibel sei. Könnten Sie __3__ schon absehen, welcher Termin nun konkret vorgesehen ist?\n\nDiese Information wäre für meine weitere Planung sehr hilfreich, __4__ da ich meine Kündigungsfrist bei meinem aktuellen Arbeitgeber einhalten muss.\n\nIch möchte betonen, dass ich __5__ sehr an der Stelle interessiert bin und mich __6__ freue, bald die nächsten Schritte zu erfahren.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nAnna Klein",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15.08.2024",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 15. August 2024 zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, möchte ich mich __2__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser spannenden Aufgabe und Ihrem Unternehmen ist __3__ sehr groß. Die in der Stellenausschreibung beschriebenen Tätigkeiten entsprechen genau meinen Vorstellungen und Qualifikationen.\n\nKönnten Sie mir vielleicht mitteilen, __4__ ungefähr mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __5__ ich auch andere Fristen berücksichtigen muss.\n\nFür Rückfragen __6__ meinen eingereichten Unterlagen stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen und eine kurze Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "anschließend"
+            "content": "da"
         },
         {
             "id": "b",
-            "content": "darauf"
-        },
-        {
-            "id": "c",
-            "content": "danach"
-        },
-        {
-            "id": "d",
             "content": "deshalb"
         },
         {
+            "id": "c",
+            "content": "hiermit"
+        },
+        {
+            "id": "d",
+            "content": "inzwischen"
+        },
+        {
             "id": "e",
-            "content": "hinsichtlich"
+            "content": "obwohl"
         },
         {
             "id": "f",
-            "content": "insbesondere"
+            "content": "seitdem"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "wann"
         },
         {
             "id": "i",
@@ -40,33 +40,33 @@
         },
         {
             "id": "j",
-            "content": "bezüglich"
+            "content": "zu"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "h"
-        },
-        {
-            "blank": "4",
-            "option_id": "f"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "j"
         }
     ]
 }

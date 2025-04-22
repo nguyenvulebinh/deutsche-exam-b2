@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Bitte um Ausstellung eines Arbeitszeugnisses",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nhiermit möchte ich mich bezüglich meiner früheren Anstellung in Ihrem Unternehmen melden. Wie Sie wissen, war ich vom 01.03.2022 bis zum 31.08.2023 als Marketingassistent bei Ihnen tätig.\n\nIch habe meine Tätigkeit __1__ am 31.08.2023 beendet. __2__ wende ich mich heute an Sie mit der Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses. Ich benötige dieses Zeugnis für meine weiteren beruflichen Schritte, __3__ es bei Bewerbungen oft verlangt wird.\n\nIch bitte Sie höflich __4__, ein Zeugnis zu erstellen, das meine Aufgabenbereiche und meine Leistungen __5__ meiner Beschäftigungszeit detailliert beschreibt.\n\nIch wäre Ihnen dankbar, wenn Sie mir das Zeugnis __6__ bald zukommen lassen könnten. Sollten Sie hierfür weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingmanager, die ich Ihnen am 25. April über Ihr Online-Portal zugesandt habe. Den Eingang meiner Unterlagen hatten Sie mir freundlicherweise kurz __1__ per E-Mail bestätigt.\n\n__2__ seitdem einige Wochen vergangen sind, möchte ich mich auf diesem Wege höflich nach dem aktuellen Stand des Auswahlprozesses erkundigen.\n\nIch bin nach wie vor sehr an dieser Position in Ihrem Unternehmen interessiert, da die beschriebenen Aufgaben genau meinen Qualifikationen und Interessen entsprechen. __3__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, __4__ ungefähr mit einer Entscheidung zu rechnen ist.\n\nSelbstverständlich stehe ich Ihnen für eventuelle Rückfragen __5__ telefonisch oder per E-Mail zur Verfügung.\n\nIch bedanke mich für Ihre Bemühungen und freue mich auf eine __6__ Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nJulia Wagner",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "Ob"
         },
         {
             "id": "b",
-            "content": "da"
-        },
-        {
-            "id": "c",
-            "content": "darum"
-        },
-        {
-            "id": "d",
             "content": "Deshalb"
         },
         {
+            "id": "c",
+            "content": "Letzte"
+        },
+        {
+            "id": "d",
+            "content": "daraufhin"
+        },
+        {
             "id": "e",
-            "content": "erst"
+            "content": "baldige"
         },
         {
             "id": "f",
-            "content": "innerhalb"
+            "content": "Manchmal"
         },
         {
             "id": "g",
-            "content": "möglichst"
+            "content": "jederzeit"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "Obwohl"
         },
         {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "während"
+            "content": "Da"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "e"
         }
     ]
 }

@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch – Kennziffer MA-345",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank __1__ Ihre E-Mail vom 15. Juli und die Einladung zum Vorstellungsgespräch für die Position als Marketingassistent/in (Kennziffer MA-345).\n\nIch habe mich sehr __2__ gefreut und bestätige Ihnen __3__ gerne den vorgeschlagenen Termin am Dienstag, den 23. Juli, um 10:00 Uhr in Ihrem Hause.\n\nIch sehe dem Gespräch mit großem Interesse __4__. __5__ ich vorab noch bestimmte Unterlagen vorbereiten oder spezifische Informationen bereithalten, lassen Sie es mich bitte kurz wissen. __6__ bringe ich meine vollständigen Bewerbungsunterlagen zur Sicherheit nochmals mit.\n\nIch freue mich darauf, Sie persönlich kennenzulernen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April zugesandt habe.\n\nDa seitdem einige Zeit vergangen ist, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Die in Ihrer Ausschreibung beschriebenen Aufgaben entsprechen sehr gut meinen Fähigkeiten und Interessen, __2__ bin ich weiterhin äußerst motiviert, Ihr Team zu verstärken.\n\nMir ist bewusst, dass ein sorgfältiger Auswahlprozess Zeit __3__. __4__ Sie mir dennoch eine ungefähre Einschätzung geben könnten, wann mit einer Entscheidung oder den nächsten Schritten zu rechnen ist, wäre ich Ihnen sehr dankbar.\n\nFür Rückfragen oder ein persönliches Gespräch stehe ich Ihnen __5__ gerne zur Verfügung.\n\nIch würde mich über eine __6__ Rückmeldung freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Ansonsten"
+            "content": "benötigt"
         },
         {
             "id": "b",
-            "content": "damit"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "entgegen"
+            "content": "jederzeit"
         },
         {
             "id": "e",
-            "content": "Falls"
+            "content": "kurze"
         },
         {
             "id": "f",
-            "content": "für"
+            "content": "nach"
         },
         {
             "id": "g",
-            "content": "hiermit"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "nun"
+            "content": "sofort"
         },
         {
             "id": "i",
-            "content": "Sollte"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "über"
+            "content": "während"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "g"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "e"
         }
     ]
 }

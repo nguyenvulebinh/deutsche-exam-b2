@@ -1,10 +1,10 @@
 {
-    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nwie Sie wissen, endet mein Arbeitsverhältnis mit der TechSolutions GmbH zum 31. Oktober dieses Jahres.\n\nIch möchte Sie __1__ bitten, mir ein qualifiziertes Arbeitszeugnis auszustellen. __2__ ich mich bereits auf neue Positionen bewerbe, wäre ich Ihnen dankbar, wenn Sie mir das Zeugnis möglichst bald, spätestens jedoch __3__ zum Vertragsende, zukommen lassen könnten.\n\nEin qualifiziertes Zeugnis ist für meine berufliche Zukunft sehr wichtig, __4__ es potenziellen neuen Arbeitgebern meine erworbenen Fähigkeiten und Leistungen detailliert aufzeigt. Ich habe während meiner Zeit bei TechSolutions __5__ im Bereich Kundenbetreuung wertvolle Erfahrungen gesammelt.\n\nKönnten Sie mir bitte kurz mitteilen, __6__ ich ungefähr mit der Zusendung des Zeugnisses rechnen kann?\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager IT vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Projektmanager IT sowie auf Ihr Bestätigungsschreiben vom 17. Mai.\n\nDa nun einige Zeit vergangen ist, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Ich habe __2__ Verständnis dafür, dass ein sorgfältiger Auswahlprozess Zeit benötigt.\n\n__3__ die ausgeschriebene Position exakt meinen Qualifikationen und beruflichen Interessen entspricht, bin ich nach wie vor sehr an einer Zusammenarbeit interessiert. Könnten Sie mir __4__ eine kurze Auskunft geben, wann mit einer Entscheidung zu rechnen ist?\n\nIch frage nur nach, __5__ ich in Kürze über ein anderes Stellenangebot entscheiden müsste, Ihre Vakanz jedoch klar bevorzuge.\n\nSollten Sie __6__ weitere Informationen benötigen, stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bis"
+            "content": "eventuell"
         },
         {
             "id": "b",
@@ -12,57 +12,57 @@
         },
         {
             "id": "c",
-            "content": "damit"
+            "content": "über"
         },
         {
             "id": "d",
-            "content": "hiermit"
+            "content": "bereits"
         },
         {
             "id": "e",
-            "content": "insbesondere"
+            "content": "nach"
         },
         {
             "id": "f",
-            "content": "Obwohl"
+            "content": "deshalb"
         },
         {
             "id": "g",
-            "content": "seit"
+            "content": "natürlich"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "weil"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "inzwischen"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "obwohl"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "a"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "h"
         },
         {
             "blank": "6",

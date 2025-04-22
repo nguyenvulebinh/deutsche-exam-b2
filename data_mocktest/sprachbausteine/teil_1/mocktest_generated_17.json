@@ -1,46 +1,46 @@
 {
-    "thema": "Nachbereitung eines Vorstellungsgesprächs und Übermittlung zusätzlicher Informationen",
-    "textinhalt": "Betreff: Nachbereitung Vorstellungsgespräch als Marketingassistent am 15. Mai\n\nSehr geehrte Frau Bauer,\n\nvielen Dank nochmals für das informative und angenehme Vorstellungsgespräch am vergangenen Montag. Es hat meinen positiven Eindruck von Ihrem Unternehmen bestätigt und mein Interesse an der Position als Marketingassistent weiter verstärkt.\n\n__1__ aufschlussreich fand ich unser Gespräch über die geplanten Social-Media-Kampagnen für das nächste Quartal. Ich bin __2__ sehr an der Stelle interessiert und davon überzeugt, dass meine bisherigen Erfahrungen gut zu Ihren Anforderungen passen.\n\n__3__ möchte ich Ihnen, wie besprochen, die Kontaktdaten meiner ehemaligen Vorgesetzten als Referenz zukommen lassen: Frau Hanna Schmidt, Tel. 0170-1234567. __4__ kann ich Ihnen auch gerne weitere Arbeitsproben zusenden, falls gewünscht.\n\n__5__ meiner Verfügbarkeit möchte ich bestätigen, dass ich __6__ zum 1. Juli starten könnte, wie wir es bereits kurz angesprochen hatten.\n\nIch freue mich auf eine positive Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
+    "textinhalt": "Sehr geehrte Frau Hauser,\n\nich beziehe mich __1__ meine Bewerbung als Marketing Manager, die ich Ihnen am 05. April per E-Mail zugesandt habe.\n\n__2__ seitdem einige Wochen vergangen sind und ich bisher keine Rückmeldung erhalten habe, möchte ich mich heute höflich __3__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie in Ihrer Anzeige beschriebene Position entspricht __4__ genau meinen beruflichen Qualifikationen und Interessen, und ich bin weiterhin sehr motiviert, Ihr Team zu verstärken.\n\nIch habe selbstverständlich __5__ dafür, dass ein sorgfältiger Auswahlprozess Zeit benötigt. Dennoch wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, __6__ ungefähr mit einer Entscheidung oder den nächsten Schritten zu rechnen ist.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nThomas Müller",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "über"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "Da"
         },
         {
             "id": "c",
-            "content": "Besonders"
+            "content": "auf"
         },
         {
             "id": "d",
-            "content": "bezüglich"
+            "content": "Verständnis"
         },
         {
             "id": "e",
-            "content": "darüber"
+            "content": "wenn"
         },
         {
             "id": "f",
-            "content": "gegebenenfalls"
+            "content": "nach wie vor"
         },
         {
             "id": "g",
-            "content": "grundsätzlich"
+            "content": "bereits"
         },
         {
             "id": "h",
-            "content": "Hierzu"
+            "content": "wann"
         },
         {
             "id": "i",
-            "content": "trotz"
+            "content": "nach"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "obwohl"
         }
     ],
     "loesung": [
@@ -50,11 +50,11 @@
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "i"
         },
         {
             "blank": "4",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "h"
         }
     ]
 }

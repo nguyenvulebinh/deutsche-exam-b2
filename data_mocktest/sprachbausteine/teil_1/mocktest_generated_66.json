@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am [Datum]",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am [Datum] um 14:00 Uhr und Ihr Interesse an meiner Bewerbung. Ich habe mich sehr __1__ gefreut.\n\nDen Termin am [Datum] möchte ich __2__ gerne bestätigen. Allerdings beginnt um 14:00 Uhr auch eine wichtige, kurzfristig angesetzte Teambesprechung in meiner jetzigen Firma, die ich leider nicht verpassen darf.\n\nWäre es __3__ möglich, das Gespräch eine Stunde später, also um 15:00 Uhr, stattfinden zu lassen? __4__ könnte ich Ihnen auch den gesamten Vormittag desselben Tages anbieten.\n\n__5__ dieser Termin für meine berufliche Zukunft sehr wichtig ist, möchte ich sicherstellen, __6__ ich mich voll und ganz darauf konzentrieren kann. Ich hoffe sehr auf Ihre Flexibilität.\n\nBitte teilen Sie mir kurz mit, ob eine dieser Optionen für Sie passt. Selbstverständlich passe ich mich ansonsten auch gerne Ihren Vorschlägen an.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung als Marketingassistent vom 25. April, für die ich bereits eine Eingangsbestätigung erhalten habe.\n\nMir ist bewusst, dass die Prüfung aller Unterlagen Zeit benötigt. __1__ möchte ich mich höflich erkundigen, ob es bereits Neuigkeiten zum Stand meiner Bewerbung gibt. Könnten Sie mir eventuell mitteilen, __2__ voraussichtlich mit einer Entscheidung zu rechnen ist?\n\nIch bin __3__ sehr an dieser Position interessiert, da die Aufgabenbeschreibung exakt meinen Fähigkeiten und beruflichen Vorstellungen entspricht. Für Rückfragen oder ein persönliches Gespräch stehe ich Ihnen __4__ zur Verfügung.\n\n__5__ Sie zusätzliche Dokumente benötigen, lassen Sie es mich bitte wissen.\n\nVielen Dank im Voraus für eine kurze Information __6__ das weitere Vorgehen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Alternativ"
+            "content": "dennoch"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "Falls"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "jederzeit"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "ob"
         },
         {
             "id": "f",
-            "content": "eventuell"
+            "content": "Sollten"
         },
         {
             "id": "g",
-            "content": "grundsätzlich"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "Stattdessen"
+            "content": "wann"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "Weil"
+            "content": "zu"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
             "option_id": "a"
         },
         {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "g"
         }
     ]
 }

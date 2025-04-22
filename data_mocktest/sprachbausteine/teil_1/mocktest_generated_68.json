@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai - Kennziffer MKT-45",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Mai für die Stelle im Marketing (Kennziffer MKT-45). Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin am 15. Mai nicht wahrnehmen kann, __3__ ich genau an diesem Tag meine letzte, unaufschiebbare Abschlussprüfung für meine Weiterbildung absolvieren muss.\n\nWäre es __4__ möglich, das Gespräch auf einen anderen Tag zu verschieben? Ich wäre Ihnen sehr dankbar, __5__ Sie mir alternative Termine vorschlagen könnten. Ich bin __6__ dem 16. Mai zeitlich sehr flexibel.\n\nIch möchte nochmals mein großes Interesse an der Position betonen und hoffe sehr auf Ihr Verständnis und eine baldige positive Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die ausgeschriebene Stelle als Projektmanager in Ihrem Unternehmen. Ich möchte mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa nun einige Wochen vergangen sind, __2__ ich meine Unterlagen eingereicht habe, wollte ich nachfragen, ob Sie mir eventuell schon eine erste Rückmeldung geben können.\n\nDie in der Stellenausschreibung beschriebenen Aufgaben entsprechen __3__ meinen beruflichen Erfahrungen und Zielen. Ich bin nach wie vor sehr an dieser Position interessiert, __4__ ich davon überzeugt bin, mit meiner Expertise im Bereich agiles Projektmanagement einen wertvollen Beitrag leisten zu können.\n\n__5__ es Ihnen möglich wäre, mir kurz mitzuteilen, wann etwa mit einer Entscheidung zu rechnen ist, wäre ich Ihnen sehr dankbar.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich __6__ zur Verfügung und freue mich auf Ihre positive Nachricht.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
-        },
-        {
-            "id": "b",
             "content": "da"
         },
         {
+            "id": "b",
+            "content": "deshalb"
+        },
+        {
             "id": "c",
-            "content": "darüber"
+            "content": "genau"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "gerne"
         },
         {
             "id": "e",
-            "content": "Leider"
+            "content": "höflich"
         },
         {
             "id": "f",
-            "content": "nach"
+            "content": "jederzeit"
         },
         {
             "id": "g",
-            "content": "ob"
-        },
-        {
-            "id": "h",
             "content": "obwohl"
         },
         {
+            "id": "h",
+            "content": "seitdem"
+        },
+        {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "Wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "f"
         }
     ]
 }

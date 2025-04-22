@@ -1,6 +1,6 @@
 {
-    "thema": "Betreff: Einladung zum Vorstellungsgespräch – Ihre Referenz HR-123",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Marketingassistent am 15. Juli um 10:00 Uhr, __1__ ich mich sehr gefreut habe.\n\nLeider muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin am 15. Juli nicht wahrnehmen kann, __2__ ich genau an diesem Tag meine letzte mündliche Abschlussprüfung an der Universität absolvieren muss, die schon lange feststeht.\n\n__3__ ich nach wie vor sehr an der Position interessiert bin, möchte ich Sie fragen, ob es __4__ möglich wäre, einen alternativen Termin zu finden.\n\n__5__ dem 15. Juli wäre ich zeitlich sehr flexibel. Ich bitte __6__ um Ihr Verständnis für diese Situation und würde mich über einen neuen Terminvorschlag sehr freuen.\n\nMit freundlichen Grüßen\n\nKlaus Schmidt",
+    "thema": "Betreff: Vielen Dank für das Vorstellungsgespräch als Marketingmanager am 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich nochmals herzlich für das angenehme Vorstellungsgespräch am 15. Mai für die Position als Marketingmanager bedanken. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ verstärkt.\n\nIch bin nach wie vor sehr an der Stelle interessiert, __2__ die besprochenen Aufgaben und die Unternehmenskultur genau meinen Vorstellungen entsprechen.\n\nSie erwähnten im Gespräch, dass Sie sich __3__ Ende dieser Woche bezüglich der nächsten Schritte melden würden.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\n__5__ Sie weitere Informationen oder Referenzen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf Ihre baldige Rückmeldung und verbleibe __6__ freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
@@ -8,65 +8,65 @@
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "weiter"
         },
         {
             "id": "c",
-            "content": "Nach"
+            "content": "da"
         },
         {
             "id": "d",
-            "content": "daher"
+            "content": "seit"
         },
         {
             "id": "e",
-            "content": "darüber"
+            "content": "bis"
         },
         {
             "id": "f",
-            "content": "danach"
+            "content": "deswegen"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "eventuell"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "ob"
         },
         {
             "id": "i",
-            "content": "weil"
+            "content": "Falls"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "mit"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
             "option_id": "b"
         },
         {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
+            "blank": "2",
             "option_id": "c"
         },
         {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "j"
         }
     ]
 }

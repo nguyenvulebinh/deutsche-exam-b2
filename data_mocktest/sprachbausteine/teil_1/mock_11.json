@@ -1,0 +1,72 @@
+{
+    "thema": "Meine Bewerbung zum Kaufmann im Einzelhandel",
+    "textinhalt": "Sehr geehrter Herr Schuhmacher,\n\n__1__ ersten Erfahrungen im Einzelhandel, ist es mein Wunsch, mich neu zu orientieren. Dabei bin ich auf Ihr Stellenangebot gestoßen, dass genau das Richtige für mich erschien, da ich alle Voraussetzungen __2__ erfülle. Ich bin davon überzeugt, dass ich eine Bereicherung für Ihr Unternehmen wäre.\n\nBei mir ist der Kunde König und wird von mir überzeugt, dass die Produkte __3__ das Richtige für ihn sind. Ich verkaufe __4__ das, von dem ich selbst begeistert bin und da ich das von Ihren Produkten sagen kann, bin ich bei Ihnen im Verkauf genau richtig. Auch bin ich ihr bester Kunde und was kann es Besseres geben, __5__ einen guten Kunden zum Mitarbeiter zu machen.\n\nIch bin an einem langfristigen Arbeitsverhältnis interessiert. Samstags und sonntags zu arbeiten, spielt bei mir keine Rolle. Ab 01.08.20xx könnte ich in Ihrer Firma tätig werden.\n\n__6__ stehe ich Ihnen zu eventuellen Fragen über meinen Lebenslauf zur Verfügung.\n\nMit freundlichen Grüßen\n\nAlberto Gonzalez",
+    "options": [
+      {
+        "id": "a",
+        "content": "NUR"
+      },
+      {
+        "id": "b",
+        "content": "GERN"
+      },
+      {
+        "id": "c",
+        "content": "SOWIE"
+      },
+      {
+        "id": "d",
+        "content": "FÜR"
+      },
+      {
+        "id": "e",
+        "content": "NACH"
+      },
+      {
+        "id": "f",
+        "content": "AUßERDEM"
+      },
+      {
+        "id": "g",
+        "content": "ALS"
+      },
+      {
+        "id": "h",
+        "content": "DAFÜR"
+      },
+      {
+        "id": "i",
+        "content": "IN"
+      },
+      {
+        "id": "j",
+        "content": "GENAU"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "e"
+      },
+      {
+        "blank": "2",
+        "option_id": "h"
+      },
+      {
+        "blank": "3",
+        "option_id": "j"
+      },
+      {
+        "blank": "4",
+        "option_id": "a"
+      },
+      {
+        "blank": "5",
+        "option_id": "g"
+      },
+      {
+        "blank": "6",
+        "option_id": "b"
+      }
+    ]
+}

@@ -1,46 +1,46 @@
 {
-    "thema": "E-Mail mit Rückfragen zu Details in einem erhaltenen Stellenangebot",
-    "textinhalt": "Betreff: Rückfragen zu Ihrem Stellenangebot als Marketing Manager vom 15.07.\n\nSehr geehrte Frau Schneider,\n\nich bedanke mich herzlich für Ihr Stellenangebot vom 15. Juli für die Position als Marketing Manager und das sehr angenehme Gespräch in der vergangenen Woche. Ich habe mich über Ihre positive Rückmeldung sehr gefreut.\n\nBevor ich Ihre Zusage final bestätige, hätte ich noch zwei kurze Nachfragen zu den Vertragsdetails. Im Angebot ist der 1. September als Startdatum genannt. Wäre hier __1__ auch ein Beginn zum 15. September realisierbar, __2__ ich bei meinem aktuellen Arbeitgeber eine Kündigungsfrist von vier Wochen zum Monatsende einhalten muss?\n\nDes Weiteren wurde im Gespräch ein jährlicher Bonus erwähnt. Könnten Sie bitte kurz bestätigen, __3__ dieser leistungsabhängig ist oder garantiert gezahlt wird? Ich konnte __4__ keine genauen Informationen im beigefügten Vertrag finden.\n\n__5__ möchte ich sicherstellen, dass das ebenfalls besprochene Angebot eines Jobtickets weiterhin gültig ist.\n\nIch bin __6__ sehr an der Position interessiert und wäre Ihnen für eine kurze Klärung dieser Punkte dankbar. Für ein Telefonat stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank und mit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 05. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nhiermit möchte ich mich auf meine Bewerbung für die Position als Projektmanager beziehen, die ich Ihnen am 05. April zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir __2__ mitteilen, ob bereits eine engere Auswahl getroffen wurde oder wann mit einer Entscheidung zu rechnen ist?\n\nIch bin nach wie vor sehr an dieser Position interessiert, __3__ die Aufgabenbeschreibung und die Entwicklungsperspektiven in Ihrem Unternehmen meinen beruflichen Zielen und Qualifikationen sehr entsprechen. __4__ Ihrer Website wurde erwähnt, dass Rückmeldungen in der Regel innerhalb von vier Wochen erfolgen.\n\nIch verstehe natürlich, dass Auswahlprozesse Zeit benötigen, wäre __5__ für eine kurze Rückmeldung dankbar. Sollten Sie __6__ Fragen haben oder weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
     "options": [
         {
             "id": "a",
-            "content": "Außerdem"
+            "content": "laut"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "obwohl"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "noch"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "da"
         },
         {
             "id": "e",
-            "content": "dazu"
+            "content": "wegen"
         },
         {
             "id": "f",
-            "content": "eventuell"
+            "content": "inzwischen"
         },
         {
             "id": "g",
-            "content": "nach wie vor"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "eventuell"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "außerdem"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "dennoch"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
             "option_id": "h"
         },
         {
-            "blank": "4",
-            "option_id": "e"
+            "blank": "3",
+            "option_id": "d"
         },
         {
-            "blank": "5",
+            "blank": "4",
             "option_id": "a"
         },
         {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "c"
         }
     ]
 }

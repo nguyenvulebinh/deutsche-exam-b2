@@ -1,10 +1,10 @@
 {
-    "thema": "Nachfrage zu Details im Arbeitsvertrag",
-    "textinhalt": "Betreff: Nachfrage zu Ihrem Stellenangebot – Marketing Manager (Ref: MM-123)\n\nSehr geehrte Frau Schmidt,\n\nvielen Dank für Ihr Stellenangebot für die Position als Marketing Manager und das beigefügte Vertragsdokument vom 25. Oktober. Ich habe mich sehr __1__ gefreut und bin nach wie vor sehr an der Position interessiert.\n\nBeim Durchlesen des Vertrags sind mir __2__ einige Punkte aufgefallen, zu denen ich kurze Rückfragen hätte, um sicherzugehen, dass ich alles korrekt verstanden habe.\n\nIm Vertrag ist der 1. Dezember als Startdatum genannt. __3__ unserem Telefongespräch am letzten Dienstag hatten wir jedoch den 15. Dezember als mögliches Datum besprochen. War dies nur ein vorläufiger Gedanke oder ist der 15. Dezember weiterhin eine Option?\n\nAußerdem bezieht sich Punkt 4.1 auf die Verantwortung für das Budget des Social-Media-Marketings. __4__ ich mich erinnere, wurde dies im Vorstellungsgespräch nicht explizit als Teil der Kernaufgaben erwähnt. Gehört dieser Bereich fest zur ausgeschriebenen Stelle?\n\nKönnten Sie mir bitte kurz bestätigen, __5__ der Starttermin flexibel ist und ob die Budgetverantwortung tatsächlich zu meinen Aufgaben gehören wird? Ich wäre Ihnen dankbar, __6__ wir diese Punkte kurzfristig klären könnten, bevor ich den Vertrag unterzeichne.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-123) vom 15.05.2024",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager (Kennziffer PM-123), die ich Ihnen am 15.05.2024 zugesandt habe.\n\nDa ich bisher noch keine Rückmeldung zu meiner Bewerbung erhalten habe, möchte ich mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir __2__ mitteilen, wann mit einer Entscheidung zu rechnen ist?\n\nIch bin __3__ sehr an der Position interessiert und davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen passen würden. __4__ Sie von meiner Seite weitere Unterlagen oder Informationen benötigen, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch erlaube mir diese Nachfrage auch, __5__ ich in Kürze über ein anderes berufliches Angebot entscheiden müsste, Ihre ausgeschriebene Stelle jedoch klar bevorzugen würde.\n\nIch bedanke mich herzlich für Ihre Bemühungen und würde mich über eine __6__ Rückmeldung sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "Obwohl"
         },
         {
             "id": "b",
@@ -12,23 +12,23 @@
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "weiterhin"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "da"
         },
         {
             "id": "e",
-            "content": "Nach"
+            "content": "Falls"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "zeitnah"
         },
         {
             "id": "g",
-            "content": "Soweit"
+            "content": "etwa"
         },
         {
             "id": "h",
@@ -36,33 +36,33 @@
         },
         {
             "id": "i",
-            "content": "Während"
+            "content": "hiermit"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "zeitnahe"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "i"
         },
         {
             "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "e"
-        },
-        {
-            "blank": "4",
             "option_id": "g"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "6",

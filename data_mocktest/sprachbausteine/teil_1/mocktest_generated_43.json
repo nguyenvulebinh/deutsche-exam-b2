@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am [Datum]",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Projektmanagerin, die ich heute erhalten habe. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich am vorgeschlagenen Termin, dem [Datum des vorgeschlagenen Termins], __3__ einen wichtigen Arzttermin habe, den ich nicht verschieben kann. __4__ ich diesen Termin schon vor längerer Zeit vereinbart habe, ist eine Änderung meinerseits nicht möglich.\n\nWäre es Ihnen __5__ möglich, mir einen alternativen Termin anzubieten? Ich bin __6__ in dieser und der nächsten Woche zeitlich relativ flexibel und sehr daran interessiert, Ihr Unternehmen persönlich kennenzulernen.\n\nIch hoffe auf Ihr Verständnis und würde mich über einen neuen Terminvorschlag freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager/in vom 15.03.2024",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager/in, die ich Ihnen am 15.03.2024 zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir __2__ mitteilen, wann etwa mit einer Entscheidung zu rechnen ist?\n\nIch bin __3__ sehr an dieser Position interessiert, da die Aufgabenbeschreibung und Ihr Unternehmen perfekt zu meinen beruflichen Zielen und Erfahrungen passen. Da ich __4__ auch andere Bewerbungsprozesse verfolge, wäre eine zeitnahe Rückmeldung für meine weitere Planung sehr hilfreich.\n\nIch möchte nur sichergehen, dass meine Bewerbung vollständig bei Ihnen eingegangen ist und __5__ berücksichtigt wird.\n\nVielen Dank für Ihre Mühe. Über eine kurze Information __6__ ich mich sehr freuen.\n\nMit freundlichen Grüßen,\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ansonsten"
+            "content": "auch"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "weiterhin"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "obwohl"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "würde"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "da"
         },
         {
             "id": "f",
-            "content": "Jedoch"
+            "content": "bereits"
         },
         {
             "id": "g",
-            "content": "Leider"
+            "content": "sondern"
         },
         {
             "id": "h",
-            "content": "schon"
+            "content": "inzwischen"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "deshalb"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "eventuell"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "j"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "d"
         }
     ]
 }

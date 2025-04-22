@@ -1,72 +1,72 @@
 {
-    "thema": "Email an die Personalabteilung nach Erhalt eines Jobangebots zur Klärung des Eintrittstermins",
-    "textinhalt": "Betreff: Ihr Stellenangebot als Marketing-Assistent vom 15.07. – Referenz MA-2024\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihr Jobangebot für die Position als Marketing-Assistent und das __1__ verbundene Vertrauen in meine Fähigkeiten. Ich habe mich sehr __2__ gefreut.\n\n__3__ ich Ihr Angebot formell annehme, hätte ich jedoch eine kurze Frage __4__ des genauen Eintrittsdatums. Im Angebot wird „zum nächstmöglichen Zeitpunkt“ genannt. Könnten Sie mir bitte ein konkretes Datum nennen?\n\nDiese Klärung ist für mich wichtig, __5__ ich bei meinem aktuellen Arbeitgeber eine Kündigungsfrist von einem Monat zum Monatsende einhalten muss und den Übergang sorgfältig planen möchte.\n\nIch bin __6__ sehr an der Position interessiert und sehe einer Zusammenarbeit mit Freude entgegen. Über eine baldige Rückmeldung bezüglich des Starttermins wäre ich Ihnen dankbar.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager Marketing vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Projektmanager Marketing und Ihre freundliche Eingangsbestätigung vom 17. Mai.\n\nDa __1__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich __2__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position und an einer Tätigkeit in Ihrem Unternehmen ist __3__ sehr groß. Die in der Ausschreibung genannten Aufgabenbereiche entsprechen genau meinen beruflichen Erfahrungen und Zielen.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, __5__ ungefähr mit einer Entscheidung oder weiteren Schritten im Prozess zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich.\n\nFür eventuelle Rückfragen stehe ich Ihnen selbstverständlich __6__ telefonisch oder per E-Mail zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Bevor"
+            "content": "deshalb"
         },
         {
             "id": "b",
-            "content": "bezüglich"
+            "content": "jederzeit"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "eventuell"
         },
         {
             "id": "d",
-            "content": "damit"
+            "content": "ob"
         },
         {
             "id": "e",
-            "content": "darüber"
+            "content": "seitdem"
         },
         {
             "id": "f",
-            "content": "obwohl"
-        },
-        {
-            "id": "g",
             "content": "trotzdem"
         },
         {
+            "id": "g",
+            "content": "wann"
+        },
+        {
             "id": "h",
-            "content": "während"
+            "content": "weiterhin"
         },
         {
             "id": "i",
-            "content": "wegen"
+            "content": "weil"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "inzwischen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
             "option_id": "a"
         },
         {
-            "blank": "4",
-            "option_id": "b"
+            "blank": "3",
+            "option_id": "h"
         },
         {
-            "blank": "5",
+            "blank": "4",
             "option_id": "c"
         },
         {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "b"
         }
     ]
 }

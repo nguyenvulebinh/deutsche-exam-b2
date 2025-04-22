@@ -1,34 +1,34 @@
 {
-    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am [Datum]\n\nSehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] für die Position als [Job Title]. Ich habe mich sehr __1__ gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich an diesem spezifischen Tag bereits einen anderen, unaufschiebbaren Termin habe, __2__ ich eine wichtige Abschlussprüfung im Rahmen meiner Weiterbildung absolvieren muss, die seit Längerem feststeht.\n\nWäre es __3__ möglich, einen alternativen Termin zu finden? Ich wäre Ihnen sehr dankbar. Ich bin zeitlich relativ flexibel und könnte Ihnen zum Beispiel Termine in der __4__ Woche anbieten.\n\n__5__ dies für Sie organisatorisch nicht möglich sein sollte, teilen Sie mir bitte mit, welche anderen Zeitfenster Ihnen passen würden. Ich bin nach wie vor sehr an der Position interessiert und hoffe auf Ihr Verständnis sowie eine positive Rückmeldung __6__ eines neuen Termins.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer MM-451)",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nbezugnehmend auf meine Bewerbung vom 25. Mai für die ausgeschriebene Stelle als Marketing Manager (Kennziffer MM-451) möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist __1__ bewusst, dass die sorgfältige Prüfung aller Bewerbungsunterlagen eine gewisse Zeit in Anspruch nimmt. Da nun aber __2__ einige Wochen vergangen sind, seitdem die Bewerbungsfrist abgelaufen ist, wollte ich nachfragen, ob es bereits erste Neuigkeiten gibt.\n\nIch bin __3__ sehr stark an dieser Position in Ihrem Unternehmen interessiert und nach wie vor davon überzeugt, dass meine Qualifikationen und Erfahrungen sehr gut zu den Anforderungen der Stelle passen würden.\n\nKönnten Sie mir __4__ mitteilen, ob bereits absehbar ist, wann ungefähr mit einer Rückmeldung oder den nächsten Schritten im Prozess zu rechnen ist? \n\n__5__ Sie zwischenzeitlich weitere Informationen oder Unterlagen von mir benötigen sollten, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen und eine kurze Rückmeldung __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Falls"
+            "content": "ob"
         },
         {
             "id": "b",
-            "content": "nächsten"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "obwohl"
+            "content": "weiterhin"
         },
         {
             "id": "d",
-            "content": "da"
+            "content": "Falls"
         },
         {
             "id": "e",
-            "content": "bezüglich"
+            "content": "selbstverständlich"
         },
         {
             "id": "f",
-            "content": "darüber"
+            "content": "trotzdem"
         },
         {
             "id": "g",
-            "content": "vielleicht"
+            "content": "inzwischen"
         },
         {
             "id": "h",
@@ -36,37 +36,37 @@
         },
         {
             "id": "i",
-            "content": "darauffolgenden"
+            "content": "seitdem"
         },
         {
             "id": "j",
-            "content": "davon"
+            "content": "im Voraus"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "j"
         }
     ]
 }

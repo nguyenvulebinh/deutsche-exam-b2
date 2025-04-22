@@ -1,10 +1,10 @@
 {
-    "thema": "Rückfragen zu Ihrem Stellenangebot / Arbeitsvertrag",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich bedanke mich herzlich für Ihr Stellenangebot vom 15. Mai und das damit verbundene Vertrauen. Ich habe mich sehr darüber gefreut.\n\nDen beigefügten Arbeitsvertrag habe ich bereits sorgfältig durchgesehen. __1__ ich diesen jedoch unterschreibe, hätte ich noch zwei kurze Verständnisfragen.\n\nIm Angebot ist der 1. August als Startdatum genannt. __2__ es eventuell auch möglich, erst am 15. August zu beginnen? Der Grund __3__ ist meine aktuelle Kündigungsfrist, die ich einhalten muss.\n\nKönnten Sie mir __4__ bitte kurz erläutern, welche Software-Tools __5__ für die Datenanalyse im Team verwendet werden? Dies würde mir bei der Vorbereitung helfen.\n\nIch möchte abschließend betonen, __6__ ich nach wie vor großes Interesse an der Position habe und mich auf eine positive Rückmeldung Ihrerseits freue.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 10. April",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager, die ich Ihnen am 10. April zugesandt habe.\n\n__1__ sind seit dem Ende der Bewerbungsfrist nun bereits mehrere Wochen vergangen. __2__ möchte ich mich höflich bei Ihnen erkundigen, wie der aktuelle Stand des Auswahlprozesses ist und __3__ ungefähr mit einer Rückmeldung zu rechnen ist.\n\nIch bin __4__ sehr an dieser Stelle interessiert, da die Aufgabenbeschreibung und die Entwicklungsmöglichkeiten in Ihrem Unternehmen meinen beruflichen Zielen und Qualifikationen sehr gut entsprechen. Eine zeitnahe Information wäre für meine weitere Planung hilfreich, __5__ ich auch andere Optionen prüfe.\n\nKönnten Sie mir __6__ mitteilen, ob die Bewerberauswahl bereits begonnen hat oder wann die nächsten Schritte geplant sind? Für Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "außerdem"
+            "content": "allerdings"
         },
         {
             "id": "b",
@@ -12,61 +12,61 @@
         },
         {
             "id": "c",
-            "content": "dafür"
+            "content": "da"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "daher"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "eventuell"
         },
         {
             "id": "f",
-            "content": "hauptsächlich"
+            "content": "inzwischen"
         },
         {
             "id": "g",
-            "content": "ist"
-        },
-        {
-            "id": "h",
-            "content": "nachdem"
-        },
-        {
-            "id": "i",
             "content": "ob"
         },
         {
+            "id": "h",
+            "content": "obwohl"
+        },
+        {
+            "id": "i",
+            "content": "wann"
+        },
+        {
             "id": "j",
-            "content": "wäre"
+            "content": "weiterhin"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "a"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
-            "blank": "6",
+            "blank": "2",
             "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
         }
     ]
 }

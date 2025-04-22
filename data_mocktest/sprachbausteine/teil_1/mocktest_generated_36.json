@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Oktober",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Oktober, __1__ ich mich sehr gefreut habe. Die Möglichkeit, mich persönlich bei Ihnen vorzustellen, schätze ich sehr.\n\nLeider habe ich an diesem Tag bereits eine andere wichtige Verpflichtung, __2__ ich Sie bitten möchte, das Gespräch zu verschieben. Es handelt sich __3__ einen seit Längerem geplanten Arzttermin, den ich nicht kurzfristig absagen kann.\n\nWäre es __4__ möglich, einen neuen Termin zu finden? Ich bin __5__ dem 16. Oktober zeitlich sehr flexibel und richte mich gerne nach Ihren Vorschlägen.\n\nIch bin nach wie vor sehr an der Position interessiert und hoffe, __6__ eine Verschiebung kein Problem darstellt. Über einen Terminvorschlag Ihrerseits würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMaria Schmidt",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April zugesandt habe.\n\n__1__ ich bisher noch keine Rückmeldung erhalten habe und mir durchaus bewusst bin, dass Auswahlprozesse eine gewisse Zeit in Anspruch nehmen, möchte ich mich dennoch höflich nach dem aktuellen Stand des Verfahrens erkundigen.\n\nMein Interesse an dieser Position ist __2__ groß, da die beschriebenen Aufgaben sehr gut __3__ meinen Qualifikationen und beruflichen Zielen passen.\n\nWäre es Ihnen __4__ möglich, mir eine kurze Einschätzung zu geben, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\n__5__ Sie in der Zwischenzeit weitere Unterlagen oder Referenzen benötigen, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch bedanke mich __6__ Ihre Bemühungen und sehe einer baldigen Nachricht entgegen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "Falls"
         },
         {
             "id": "c",
-            "content": "dass"
+            "content": "mit"
         },
         {
             "id": "d",
-            "content": "ob"
+            "content": "Da"
         },
         {
             "id": "e",
-            "content": "seit"
+            "content": "weiterhin"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "eventuell"
         },
         {
             "id": "g",
-            "content": "um"
+            "content": "Ob"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "zu"
         },
         {
             "id": "i",
-            "content": "weshalb"
+            "content": "besonders"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "für"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "g"
-        },
-        {
-            "blank": "4",
             "option_id": "h"
         },
         {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "j"
         }
     ]
 }

@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Ihr Vertragsangebot für die Position als Projektmanager vom 15.07.",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihr Vertragsangebot vom 15. Juli für die Position als Projektmanager und das damit verbundene Vertrauen in meine Fähigkeiten. Ich habe mich sehr __1__ gefreut.\n\n__2__ ich das Angebot jedoch offiziell annehmen kann, hätte ich noch ein paar klärende Fragen zu einigen Punkten im beigefügten Dokument.\n\nZum Beispiel scheint es bei den Angaben zur wöchentlichen Arbeitszeit eine Abweichung __3__ dem zu geben, was wir im Gespräch am 10. Juli besprochen hatten. __4__ wäre es für meine Planung hilfreich, wenn Sie den genauen Starttermin nochmals bestätigen könnten, da dieser im Vertrag nicht explizit genannt wird.\n\n__5__ dieser offenen Punkte möchte ich betonen, dass mein Interesse an der Position und einer Zusammenarbeit mit Ihrem Team unverändert groß ist. Ich wäre Ihnen dankbar, wenn Sie mir hierzu __6__ eine Rückmeldung geben könnten.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 20. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich __1__ meine Bewerbung für die Stelle als Marketing Manager, die ich Ihnen am 20. April zugesandt habe.\n\n__2__ nun bereits einige Zeit vergangen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die in Ihrer Ausschreibung beschriebenen Aufgabenfelder finde ich nach wie vor äußerst spannend, __3__ mein Interesse an einer Zusammenarbeit mit Ihrem Team unverändert groß ist.\n\nIch bin __4__ davon überzeugt, dass meine mehrjährige Erfahrung im Online-Marketing __5__ meine strategische Denkweise einen wertvollen Beitrag für Ihr Unternehmen leisten können.\n\nIch wäre Ihnen dankbar, wenn Sie mir __6__ mitteilen könnten, wann ungefähr mit einer Entscheidung zu rechnen ist.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Außerdem"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "Bevor"
+            "content": "wegen"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "Da"
         },
         {
             "id": "d",
-            "content": "davon"
+            "content": "sowie"
         },
         {
             "id": "e",
-            "content": "kurzfristig"
+            "content": "trotzdem"
         },
         {
             "id": "f",
-            "content": "Trotz"
+            "content": "weiterhin"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "auf"
         },
         {
             "id": "h",
-            "content": "von"
+            "content": "bereits"
         },
         {
             "id": "i",
-            "content": "Während"
+            "content": "eventuell"
         },
         {
             "id": "j",
-            "content": "zu"
+            "content": "weshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "a"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "i"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihr Vertragsangebot für die Stelle als Marketingassistenz, Referenz MA-2024-07",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihr Vertragsangebot vom 15. Juli für die Position als Marketingassistenz, über das ich mich sehr gefreut habe. Die beschriebenen Aufgaben und das Team haben mich bereits im Gespräch überzeugt.\n\nBevor ich das Angebot final annehmen kann, hätte ich __1__ eine kurze Rückfrage bezüglich des Eintrittsdatums. Im Angebot ist der 1. September genannt, __2__ im Gespräch der 15. September erwähnt wurde. __3__ ich meine Kündigungsfrist bei meinem aktuellen Arbeitgeber einhalten muss, ist dieser Punkt für meine Planung sehr wichtig.\n\nKönnten Sie mir bitte bestätigen, __4__ das korrekte Startdatum ist? __5__ möchte ich nochmals betonen, wie sehr ich mich auf die Zusammenarbeit freue und an der Position interessiert bin.\n\nIch wäre Ihnen dankbar, wenn Sie mir __6__ kurzfristig eine Rückmeldung geben könnten, damit ich die weiteren Schritte planen kann.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Ref. MM-451) vom 20.04.2024",
+    "textinhalt": "Sehr geehrte Frau Schmidt, \n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing Manager (Ref. MM-451), die ich Ihnen am 20.04.2024 zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, ohne dass ich eine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position ist __2__ ungebrochen, da die Aufgabenbeschreibung perfekt zu meinen Qualifikationen passt. Besonders die Möglichkeit, an internationalen Kampagnen __3__, finde ich sehr reizvoll.\n\nKönnten Sie mir vielleicht mitteilen, __4__ mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist? __5__ möchte ich nochmals betonen, dass ich für Rückfragen oder ein persönliches Gespräch jederzeit gerne zur Verfügung stehe.\n\nVielen Dank für Ihre Bemühungen __6__ meiner Anfrage.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
-        },
-        {
-            "id": "b",
-            "content": "Außerdem"
-        },
-        {
-            "id": "c",
-            "content": "Da"
-        },
-        {
-            "id": "d",
-            "content": "darüber"
-        },
-        {
-            "id": "e",
-            "content": "hierzu"
-        },
-        {
-            "id": "f",
             "content": "jedoch"
         },
         {
+            "id": "b",
+            "content": "Da"
+        },
+        {
+            "id": "c",
+            "content": "wann"
+        },
+        {
+            "id": "d",
+            "content": "für"
+        },
+        {
+            "id": "e",
+            "content": "mitzuwirken"
+        },
+        {
+            "id": "f",
+            "content": "bezüglich"
+        },
+        {
             "id": "g",
-            "content": "ob"
+            "content": "deshalb"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "Zudem"
         },
         {
             "id": "i",
-            "content": "welches"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "während"
+            "content": "obwohl"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
             "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Email responding to an interview invitation and requesting to reschedule.",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am [Datum] - Terminverschiebung\n\nSehr geehrte Frau [Name],\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] für die Position als [Jobtitel]. Ich habe mich sehr __1__ Ihre positive Rückmeldung gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin nicht wahrnehmen kann, __3__ ich an diesem Tag einen seit Längerem feststehenden, unaufschiebbaren Arzttermin habe.\n\nIch bin __4__ sehr an der Position interessiert und würde mich freuen, wenn wir einen alternativen Termin finden könnten. Wäre es __5__ möglich, das Gespräch in derselben Woche an einem anderen Tag oder in der darauffolgenden Woche durchzuführen? Ich bin __6__ anderer Termine in diesem Zeitraum recht flexibel.\n\nIch bitte um Ihr Verständnis und freue mich auf Ihren Vorschlag.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung als Marketing Manager vom 25. April. __1__ nun einige Zeit vergangen ist, möchte ich mich höflich nach dem aktuellen Stand des Bewerbungsprozesses erkundigen.\n\nDie ausgeschriebene Position und die Perspektiven in Ihrem Unternehmen finde ich nach wie vor sehr spannend. Ich bin fest __2__ überzeugt, dass meine Qualifikationen gut zu den Anforderungen passen.\n\nMein Interesse an dieser Stelle ist __3__ groß.\n\nIch wäre Ihnen dankbar, __4__ Sie mir eine kurze Auskunft über den weiteren Zeitplan geben könnten. Ich habe Verständnis dafür, dass der Auswahlprozess Zeit in Anspruch nimmt. __5__ wollte ich nur kurz mein fortbestehendes Interesse signalisieren.\n\nSollten Sie __6__ weitere Informationen oder Unterlagen benötigen, lassen Sie es mich bitte wissen. Ich stehe Ihnen dafür jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "Deshalb"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "Da"
         },
         {
             "id": "d",
-            "content": "hinsichtlich"
+            "content": "unverändert"
         },
         {
             "id": "e",
-            "content": "Leider"
+            "content": "Dafür"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "zwischenzeitlich"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "Ob"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "dennoch"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "falls"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "davon"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
-        },
-        {
-            "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
-            "option_id": "j"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "j"
+        },
+        {
+            "blank": "3",
             "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
         }
     ]
 }

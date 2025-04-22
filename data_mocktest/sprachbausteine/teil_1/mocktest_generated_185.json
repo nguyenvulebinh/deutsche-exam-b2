@@ -1,52 +1,52 @@
 {
-    "thema": "Anfrage nach Informationen vor dem ersten Arbeitstag",
-    "textinhalt": "Betreff: Informationen zum Arbeitsbeginn am [Datum]\n\nSehr geehrte Frau Schmidt,\n\nich freue mich sehr __1__ meinen ersten Arbeitstag als [Position] in Ihrem Unternehmen am [Datum]. Vielen Dank nochmals für diese großartige Gelegenheit.\n\n__2__ mich optimal vorbereiten zu können, hätte ich noch ein paar kurze Fragen. Könnten Sie mir bitte mitteilen, __3__ wem ich mich am ersten Tag melden soll und __4__ es bestimmte Dokumente gibt, die ich unbedingt mitbringen muss? __5__ wäre es hilfreich zu wissen, ob es einen spezifischen Dresscode gibt.\n\nIch möchte sicherstellen, dass am ersten Tag alles reibungslos verläuft. __6__ wäre ich Ihnen für eine kurze Rückmeldung dankbar.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung vom 25. Mai - Kennziffer PRJ-58B",
+    "textinhalt": "Sehr geehrte Frau Wagner,\n\nich beziehe mich __1__ meine Bewerbung vom 25. Mai für die ausgeschriebene Stelle als Projektmanager (Kennziffer PRJ-58B).\n\nDa seit der Einreichung meiner Unterlagen nun einige Zeit vergangen ist, möchte ich mich auf diesem Weg erkundigen, ob Sie mir bereits eine erste Rückmeldung zum Stand des Auswahlverfahrens geben können. Ich bin __2__ sehr an der Position interessiert, da die beschriebenen Aufgaben und die Perspektiven in Ihrem Unternehmen meinen Qualifikationen und beruflichen Zielen in hohem Maße entsprechen.\n\nKönnten Sie mir vielleicht mitteilen, wann ungefähr __3__ einer Entscheidung zu rechnen ist oder wie die nächsten Schritte im Bewerbungsprozess geplant sind? \n\nSollten Sie __4__ weitere Informationen oder Dokumente von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung. Teilen Sie mir dies __5__ einfach kurz mit.\n\nIch freue mich __6__, bald von Ihnen zu hören und verbleibe\n\nmit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "an"
         },
         {
             "id": "b",
-            "content": "Außerdem"
+            "content": "auf"
         },
         {
             "id": "c",
-            "content": "bei"
+            "content": "darauf"
         },
         {
             "id": "d",
-            "content": "Damit"
+            "content": "darüber"
         },
         {
             "id": "e",
-            "content": "Deshalb"
+            "content": "gegebenenfalls"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "mit"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "noch"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "Um"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "dann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
             "option_id": "f"
         },
         {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "c"
         }
     ]
 }

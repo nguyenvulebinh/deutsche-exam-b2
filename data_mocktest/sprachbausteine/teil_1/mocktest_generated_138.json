@@ -1,30 +1,30 @@
 {
-    "thema": "Bitte um ein Referenzschreiben",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich hoffe, diese E-Mail findet Sie gut. Mein Name ist Max Mustermann und ich habe von März 2019 bis August 2022 __1__ Ihrer Leitung als Projektassistent bei der Beispiel GmbH gearbeitet.\n\nWie Sie sich vielleicht erinnern, war ich damals im Marketingteam tätig. Nun bewerbe ich mich auf eine neue Position in einem anderen Unternehmen. __2__ Sie meine damaligen Aufgaben und meine Arbeitsweise sehr gut kennen, wäre eine Referenz von Ihnen für meine Bewerbung __3__ wertvoll.\n\nDie Bewerbungsfrist für die neue Stelle endet bereits in drei Wochen. Ich wollte Sie __4__ frühzeitig fragen, ob es Ihnen möglich wäre, ein kurzes Schreiben für mich aufzusetzen. Gerne stelle ich Ihnen weitere Informationen zur Verfügung, __5__ dies für Sie hilfreich sein sollte.\n\nIch wäre Ihnen sehr dankbar für Ihre Unterstützung und würde mich __6__ sehr freuen. Vielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] vom [Date]",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Name] / Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Stelle als [Job Title], die ich Ihnen am [Date] habe zukommen lassen.\n\n__1__ sind seit dem Bewerbungsschluss bzw. meiner Einreichung bereits einige Wochen vergangen. __2__ möchte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlprozesses ist und ob bereits eine Vorauswahl getroffen wurde.\n\nDa ich __3__ ein anderes Stellenangebot erhalten habe, für das ich mich zeitnah entscheiden müsste, wäre eine kurze Information Ihrerseits sehr hilfreich. Könnten Sie mir bitte mitteilen, __4__ ich voraussichtlich mit einer Rückmeldung zu meiner Bewerbung rechnen kann?\n\nIch bin nach wie vor sehr an der Position in Ihrem Unternehmen interessiert, insbesondere __5__ der spannenden Aufgabenbeschreibung und des guten Rufs Ihres Hauses.\n\nSollten Sie Rückfragen __6__ meinen eingereichten Unterlagen haben oder weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne jederzeit zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "äußerst"
+            "content": "trotzdem"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "zu"
         },
         {
             "id": "c",
-            "content": "damit"
+            "content": "inzwischen"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "wann"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "wegen"
         },
         {
             "id": "f",
-            "content": "falls"
+            "content": "auch"
         },
         {
             "id": "g",
@@ -32,41 +32,41 @@
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "aufgrund"
         },
         {
             "id": "i",
-            "content": "unter"
+            "content": "seitdem"
         },
         {
             "id": "j",
-            "content": "während"
+            "content": "deshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "a"
-        },
-        {
-            "blank": "4",
-            "option_id": "e"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
-            "blank": "6",
+            "blank": "4",
             "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "b"
         }
     ]
 }

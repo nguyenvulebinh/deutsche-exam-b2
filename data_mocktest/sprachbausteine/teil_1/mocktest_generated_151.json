@@ -1,14 +1,14 @@
 {
-    "thema": "Rückfrage zu meinem Arbeitsvertrag - [Position Name]",
-    "textinhalt": "Sehr geehrte Frau [Mustername],\n\nvielen Dank für die Zusendung des Arbeitsvertrags für die Position als [Position Name] und das damit verbundene Vertrauen in meine Fähigkeiten. Ich habe den Vertrag sorgfältig geprüft.\n\nDabei sind mir __1__ noch ein paar Punkte unklar geblieben, zu denen ich gerne eine kurze Erläuterung hätte. Zum einen bezieht sich meine Frage __2__ die Regelung der Überstunden – ist hierfür ein Freizeitausgleich vorgesehen oder werden diese finanziell vergütet? Zum anderen steht im Vertrag unter §5 eine Klausel zur Wettbewerbsenthaltung, __3__ genaue Reichweite ich nicht ganz verstehe.\n\nDa diese Punkte für meine endgültige Zusage wichtig sind, wäre ich Ihnen dankbar, __4__ Sie mir hierzu kurzfristig Auskunft geben könnten. Ich bin __5__ sehr an der Position interessiert und möchte den Vertrag gerne zeitnah unterzeichnen.\n\nIch freue mich auf Ihre Rückmeldung und verbleibe __6__ dahin\n\nmit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich schreibe Ihnen __1__ meiner Bewerbung als Marketing Manager vom 15. Mai. Da nun einige Wochen vergangen sind, __2__ ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlverfahrens ist.\n\nIch bin __3__ sehr an dieser Position interessiert und überzeugt, dass meine Qualifikationen gut zu den Anforderungen passen. Ich wäre Ihnen dankbar, wenn Sie mir einen kurzen Hinweis geben könnten, __4__ ich ungefähr mit einer Rückmeldung rechnen kann.\n\nIch habe natürlich Verständnis __5__, dass der Prozess Zeit benötigt, wäre jedoch über eine kurze Wasserstandsmeldung dankbar.\n\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "bereits"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "Falls"
         },
         {
             "id": "c",
@@ -16,57 +16,57 @@
         },
         {
             "id": "d",
-            "content": "trotzdem"
+            "content": "bezüglich"
         },
         {
             "id": "e",
-            "content": "dessen"
+            "content": "wegen"
         },
         {
             "id": "f",
-            "content": "bis"
+            "content": "möchte"
         },
         {
             "id": "g",
-            "content": "deren"
+            "content": "dafür"
         },
         {
             "id": "h",
-            "content": "allerdings"
+            "content": "nach wie vor"
         },
         {
             "id": "i",
-            "content": "obwohl"
+            "content": "sollte"
         },
         {
             "id": "j",
-            "content": "über"
+            "content": "wann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "g"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "b"
         }
     ]
 }

@@ -1,68 +1,68 @@
 {
-    "thema": "Rückfrage zu Details nach Vorstellungsgespräch (Gleitzeit/Homeoffice)",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich möchte mich nochmals herzlich für das informative Vorstellungsgespräch am [Datum] bedanken. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen verstärkt und mein Interesse an der Position als [Job Title] weiter gefestigt.\n\nWährend unseres Gesprächs erwähnten Sie die Möglichkeit von flexiblen Arbeitszeiten (Gleitzeit) und gelegentlichem Homeoffice. __1__ dies für meine persönliche Planung relevant ist, hätte ich __2__ noch eine kurze Nachfrage. Könnten Sie bitte präzisieren, __3__ welchen Bedingungen Homeoffice möglich ist und wie die Kernarbeitszeiten im Rahmen der Gleitzeitregelung üblicherweise gehandhabt werden?\n\nIch verstehe, dass __4__ Details möglicherweise erst später final geklärt werden, __5__ wäre eine erste Einschätzung für mich sehr hilfreich.\n\nVielen Dank im Voraus für Ihre Mühe. Ich freue mich __6__, bald wieder von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 15.03. - Kennziffer MKTG-087",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung als Marketingmanager vom 15. März (Kennziffer: MKTG-087), für deren Bestätigung ich Ihnen danke.\n\nDa seit meiner Bewerbung nun einige Wochen vergangen sind, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Position entspricht nach wie vor genau meinen beruflichen Zielen und Qualifikationen, und mein Interesse __2__ einer Mitarbeit in Ihrem innovativen Unternehmen ist weiterhin sehr groß.\n\nKönnten Sie mir __3__ eine kurze Rückmeldung geben, __4__ ungefähr mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist? Ich habe selbstverständlich Verständnis __5__, dass ein sorgfältiger Auswahlprozess Zeit benötigt, möchte aber gern sicherstellen, dass meine Unterlagen noch aktiv berücksichtigt werden.\n\nIch stehe Ihnen __6__ für Rückfragen oder ein persönliches Gespräch zur Verfügung und freue mich darauf, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "darüber"
+            "content": "an"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "mit"
+            "content": "dafür"
         },
         {
             "id": "d",
-            "content": "unter"
+            "content": "für"
         },
         {
             "id": "e",
-            "content": "darauf"
+            "content": "jederzeit"
         },
         {
             "id": "f",
-            "content": "solche"
+            "content": "nach"
         },
         {
             "id": "g",
-            "content": "deswegen"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "wann"
         },
         {
             "id": "i",
-            "content": "Weil"
+            "content": "wenn"
         },
         {
             "id": "j",
-            "content": "dazu"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "d"
-        },
-        {
-            "blank": "4",
             "option_id": "f"
         },
         {
-            "blank": "5",
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
             "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
         },
         {
             "blank": "6",

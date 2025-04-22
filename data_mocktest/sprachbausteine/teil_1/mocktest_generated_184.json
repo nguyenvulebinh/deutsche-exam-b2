@@ -1,6 +1,6 @@
 {
-    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
-    "textinhalt": "Sehr geehrte/r Herr/Frau [Nachname],\n\n__1__ möchte ich Sie um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten, __2__ mein Arbeitsverhältnis mit [Firmenname] bekanntlich zum [Austrittsdatum] enden wird.\n\nIch war vom [Eintrittsdatum] bis zum [Austrittsdatum] als [Ihre Position] in der Abteilung [Ihre Abteilung] tätig. Für die gute Zusammenarbeit __3__ dieser Zeit möchte ich mich bereits jetzt bedanken.\n\nKönnten Sie mir bitte mitteilen, bis wann ich __4__ mit der Zusendung des Zeugnisses rechnen kann? __5__ Sie noch weitere Informationen von mir benötigen oder Rückfragen haben, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch wäre Ihnen dankbar, wenn das Zeugnis __6__ meine Aufgabenbereiche als auch eine Bewertung meiner Leistungen und meines Sozialverhaltens umfassen würde.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen,\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich schreibe Ihnen __1__ meiner Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Mai über Ihr Online-Portal zukommen ließ.\n\nDa __2__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin nach wie vor sehr an dieser Position interessiert, __3__ die beschriebenen Aufgaben und die Möglichkeit, in Ihrem Unternehmen tätig zu werden, meinen Qualifikationen und beruflichen Zielen in hohem Maße entsprechen.\n\nKönnten Sie mir __4__ eine kurze Rückmeldung geben, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nSollten Sie __5__ weitere Informationen benötigen oder ein persönliches Gespräch wünschen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe. __6__ baldigen Rückmeldung sehe ich mit Interesse entgegen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
@@ -8,65 +8,65 @@
         },
         {
             "id": "b",
-            "content": "Deshalb"
+            "content": "wegen"
         },
         {
             "id": "c",
-            "content": "Falls"
+            "content": "Einer"
         },
         {
             "id": "d",
-            "content": "hiermit"
-        },
-        {
-            "id": "e",
-            "content": "innerhalb"
-        },
-        {
-            "id": "f",
             "content": "obwohl"
         },
         {
+            "id": "e",
+            "content": "zusätzlich"
+        },
+        {
+            "id": "f",
+            "content": "bereits"
+        },
+        {
             "id": "g",
-            "content": "sowohl"
+            "content": "eventuell"
         },
         {
             "id": "h",
-            "content": "ungefähr"
+            "content": "inzwischen"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "Eine"
         },
         {
             "id": "j",
-            "content": "während"
+            "content": "bezüglich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
             "option_id": "j"
         },
         {
-            "blank": "4",
+            "blank": "2",
             "option_id": "h"
         },
         {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "c"
         }
     ]
 }

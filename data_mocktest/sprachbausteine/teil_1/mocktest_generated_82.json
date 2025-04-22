@@ -1,72 +1,72 @@
 {
-    "thema": "Email requesting to reschedule an interview due to a prior commitment.",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Mai um 10:00 Uhr für die Position als Projektmanager. Ich habe mich sehr __1__ gefreut.\n\nGrundsätzlich bestätige ich den Termin gerne. __2__ muss ich Ihnen jedoch mitteilen, dass ich genau an diesem Tag einen wichtigen, bereits länger geplanten Arzttermin habe, den ich nicht verschieben kann.\n\nWäre es __3__ möglich, das Gespräch auf einen anderen Tag zu verlegen? Ich wäre Ihnen sehr dankbar, wenn Sie mir alternative Termine vorschlagen könnten. Ich bin in der betreffenden Woche zeitlich flexibel, __4__ am Vormittag des 15. Mai.\n\nIch hoffe auf Ihr Verständnis und freue mich __5__ sehr auf die Gelegenheit, mich persönlich bei Ihnen vorzustellen. Bitte lassen Sie mich wissen, __6__ eine Verschiebung grundsätzlich machbar ist.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 15. Mai zugesandt habe. Den Eingang meiner Unterlagen hatten Sie mir freundlicherweise kurz darauf bestätigt.\n\n__1__ sind nun einige Wochen vergangen, und ich wollte mich __2__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die Position entspricht __3__ meiner Qualifikationen und meines Interesses an digitalen Marketingstrategien nach wie vor genau meinen Vorstellungen.\n\nIch bin weiterhin sehr an dieser beruflichen Herausforderung interessiert und __4__ Ihnen gerne für ein persönliches Gespräch zur Verfügung, um meine Eignung weiter zu erläutern.\n\nKönnten Sie mir vielleicht __5__ eine Rückmeldung geben, wann ungefähr mit einer Entscheidung im Bewerbungsprozess zu rechnen ist? \n\nIch würde mich __6__ eine baldige Antwort von Ihnen sehr freuen.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "außer"
+            "content": "aufgrund"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "obwohl"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "seitdem"
         },
         {
             "id": "e",
-            "content": "Leider"
+            "content": "stehe"
         },
         {
             "id": "f",
-            "content": "ob"
-        },
-        {
-            "id": "g",
             "content": "trotz"
         },
         {
+            "id": "g",
+            "content": "über"
+        },
+        {
             "id": "h",
-            "content": "trotzdem"
+            "content": "warte"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "e"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
             "option_id": "a"
         },
         {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "g"
         }
     ]
 }

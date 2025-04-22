@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Einladung zum Vorstellungsgespräch am 15.10. – Kennziffer M-123",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. Oktober um 10:00 Uhr für die Position als Marketingassistent/in. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich an diesem spezifischen Tag bereits einen anderen, unaufschiebbaren Termin wahrnehmen muss. Es handelt sich um die Abschlussprüfung eines wichtigen Weiterbildungsseminars, __3__ ich leider nicht verschieben kann.\n\nWäre es __4__ möglich, einen alternativen Termin für unser Gespräch zu finden? Ich bin an den anderen Tagen dieser Woche sowie in der Folgewoche sehr flexibel. Ich könnte __5__ am 16. oder 18. Oktober ganztägig.\n\nIch bitte um Ihr Verständnis und möchte betonen, dass ich __6__ sehr großes Interesse an der ausgeschriebenen Stelle und Ihrem Unternehmen habe. Über eine positive Rückmeldung bezüglich eines neuen Termins würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zu meinem Vorstellungsgespräch am [Datum] als [Position]",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nich beziehe mich auf mein Vorstellungsgespräch für die Position als [Job Title] am [Date], für das ich mich nochmals herzlich bedanken möchte. Das Gespräch hat meinen positiven Eindruck __1__ bestätigt und mein großes Interesse an dieser Tätigkeit weiter verstärkt.\n\nBesonders __2__ fand ich die offene Diskussion über die zukünftigen Herausforderungen im Team. Ich bin nach wie vor davon überzeugt, dass meine Fähigkeiten und Erfahrungen gut zu den Anforderungen passen __3__.\n\nDa nun seit dem Gespräch __4__ Zeit vergangen ist, wollte ich mich höflich erkundigen, ob Sie möglicherweise schon absehen können, wann mit einer Entscheidung zu rechnen ist. Mir ist __5__ bewusst, dass ein sorgfältiger Auswahlprozess Zeit benötigt.\n\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen jederzeit gerne zur Verfügung.\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "beispielsweise"
+            "content": "ansprechend"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "damit"
+            "content": "einige"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "erneut"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "etwas"
         },
         {
             "id": "f",
-            "content": "leider"
+            "content": "Falls"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "könnten"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "Obwohl"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "selbstverständlich"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "würden"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
-            "option_id": "e"
-        },
-        {
-            "blank": "5",
             "option_id": "a"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
             "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
         }
     ]
 }

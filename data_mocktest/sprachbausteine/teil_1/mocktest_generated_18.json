@@ -1,68 +1,68 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. Mai - Kennziffer PM-123",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Projektmanager am 15. Mai. Ich habe mich sehr __1__ gefreut.\n\nLeider habe ich genau an diesem Tag eine wichtige Abschlussprüfung, die bereits seit Längerem feststeht und nicht verschoben werden kann. __2__ ist es mir bedauerlicherweise nicht möglich, den vorgeschlagenen Termin wahrzunehmen.\n\n__3__ ich jedoch nach wie vor großes Interesse an der ausgeschriebenen Stelle und Ihrem Unternehmen habe, möchte ich Sie höflich fragen, __4__ eventuell ein alternativer Gesprächstermin gefunden werden könnte. Abgesehen vom 15. Mai bin ich __5__ in dieser und der darauffolgenden Woche zeitlich recht flexibel.\n\nIch möchte __6__ betonen, dass ich mich sehr über die Chance freuen würde, mich Ihnen persönlich vorstellen zu dürfen.\n\nVielen Dank im Voraus für Ihr Verständnis und Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Assistent vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing-Assistent, die ich Ihnen am 15. Mai zugesandt habe. Da ich bisher noch keine Rückmeldung __1__ Ihrerseits erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht nach wie vor genau meinen Vorstellungen und beruflichen Zielen, __2__ mein Interesse an einer Tätigkeit in Ihrem Unternehmen ungebrochen ist.\n\nKönnten Sie mir __3__ mitteilen, ob bereits eine Entscheidung getroffen wurde oder wann ungefähr mit einer Rückmeldung zu rechnen ist?\n\nIch frage auch __4__, da ich in Kürze eine Entscheidung bezüglich eines anderen Angebots treffen müsste, Ihre Stelle für mich jedoch weiterhin Priorität hat.\n\nFalls Sie __5__ weitere Informationen oder aktualisierte Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch würde mich sehr __6__ eine baldige Nachricht von Ihnen freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ansonsten"
+            "content": "auf"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "eventuell"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "noch"
         },
         {
             "id": "f",
-            "content": "Deshalb"
+            "content": "trotzdem"
         },
         {
             "id": "g",
-            "content": "nochmals"
+            "content": "über"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "von"
         },
         {
             "id": "i",
-            "content": "ob"
+            "content": "weil"
         },
         {
             "id": "j",
-            "content": "Trotzdem"
+            "content": "weshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "e"
         },
         {
             "blank": "6",

@@ -1,72 +1,72 @@
 {
-    "thema": "Antwort auf Einladung zum Vorstellungsgespräch und Bitte um Terminverschiebung",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch als [Berufsbezeichnung], Kennziffer [Nummer]\n\nSehr geehrte Frau/Herr [Nachname],\n\nvielen Dank für Ihre E-Mail und die Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] Uhr. Ich habe mich __1__ sehr gefreut.\n\nLeider habe ich __2__ an diesem Tag bereits einen seit Längerem geplanten, unaufschiebbaren Arzttermin wahrzunehmen. __3__ kann ich den vorgeschlagenen Termin bedauerlicherweise nicht einhalten.\n\nDa ich weiterhin großes Interesse an der Position und Ihrem Unternehmen habe, möchte ich anfragen, __4__ es eventuell möglich wäre, einen alternativen Termin zu finden. Zeitlich flexibel wäre ich wieder __5__ dem [Datum + 1 Tag].\n\nIch bitte __6__ Ihr Verständnis für die Umstände und würde mich freuen, bald von Ihnen zu hören, ob eine Verschiebung möglich ist.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingreferent vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ meine Bewerbung vom 25. April für die Stelle als Marketingreferent, deren Eingang Sie mir freundlicherweise bestätigt hatten, möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ nun einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, und ich weiterhin sehr an dieser Position interessiert bin, wollte ich höflich nachfragen.\n\nDie in Ihrer Ausschreibung genannten Aufgaben und Herausforderungen entsprachen __3__ genau meinen Vorstellungen und bisherigen beruflichen Erfahrungen im Online-Marketing.\n\nKönnten Sie mir __4__ mitteilen, wann etwa mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist?\n\nIch stehe Ihnen für Rückfragen oder ein weiteres Gespräch __5__ gerne zur Verfügung und bin gespannt auf die weiteren Entwicklungen.\n\nÜber eine __6__ Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "Da"
         },
         {
             "id": "b",
-            "content": "darüber"
-        },
-        {
-            "id": "c",
-            "content": "deshalb"
-        },
-        {
-            "id": "d",
-            "content": "für"
-        },
-        {
-            "id": "e",
-            "content": "genau"
-        },
-        {
-            "id": "f",
-            "content": "ob"
-        },
-        {
-            "id": "g",
-            "content": "seit"
-        },
-        {
-            "id": "h",
             "content": "trotzdem"
         },
         {
+            "id": "c",
+            "content": "jederzeit"
+        },
+        {
+            "id": "d",
+            "content": "bezugnehmend auf"
+        },
+        {
+            "id": "e",
+            "content": "zeitnahe"
+        },
+        {
+            "id": "f",
+            "content": "schnell"
+        },
+        {
+            "id": "g",
+            "content": "wirklich"
+        },
+        {
+            "id": "h",
+            "content": "eventuell"
+        },
+        {
             "id": "i",
-            "content": "um"
+            "content": "zeitnah"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "weil"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "f"
-        },
-        {
-            "blank": "5",
             "option_id": "a"
         },
         {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "e"
         }
     ]
 }

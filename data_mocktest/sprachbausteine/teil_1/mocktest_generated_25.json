@@ -1,72 +1,72 @@
 {
-    "thema": "Email requesting to reschedule an interview due to a prior commitment.",
-    "textinhalt": "Betreff: Ihr Terminvorschlag für das Vorstellungsgespräch – [Your Name]\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Mai um 10:00 Uhr für die Position als Projektmanager. __1__ habe ich mich sehr gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich diesen Termin nicht wahrnehmen kann, __2__ ich an diesem Tag bereits einen wichtigen, unaufschiebbaren Arzttermin habe, den ich nicht verschieben kann. Ich schreibe Ihnen __3__, um zu fragen, __4__ es eventuell möglich wäre, einen __5__ Termin für unser Gespräch zu finden.\n\nIch bin ansonsten zeitlich recht flexibel, insbesondere in der Woche danach. Selbstverständlich bin ich __6__ sehr an der Position und einer Zusammenarbeit mit Ihrem Unternehmen interessiert.\n\nIch bitte um Ihr Verständnis und freue mich auf Ihre Rückmeldung bezüglich einer möglichen neuen Terminvereinbarung.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung vom 15. Mai für die Position als Marketingassistentin möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist bewusst, dass ein sorgfältiger Auswahlprozess Zeit benötigt, __2__ wäre ich Ihnen dankbar für eine kurze Information, wann ich ungefähr mit einer Rückmeldung rechnen kann.\n\nKönnten Sie mir bitte mitteilen, __3__ bereits eine engere Auswahl getroffen wurde oder ob der Prozess noch andauert?\n\nMein Interesse an der Stelle ist __4__ groß, da die beschriebenen Aufgaben und Ihr Unternehmen mich sehr ansprechen.\n\n__5__ ich aktuell auch meine weiteren beruflichen Schritte plane, wäre eine kurze Auskunft über den Zeitrahmen für mich sehr hilfreich.\n\nSollten Sie __6__ noch Fragen zu meinen Unterlagen haben oder weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "alternativen"
+            "content": "dennoch"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "wann"
         },
         {
             "id": "c",
-            "content": "Darüber"
+            "content": "da"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "Davon"
+            "content": "trotz"
         },
         {
             "id": "f",
-            "content": "deshalb"
+            "content": "weiterhin"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "bereits"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "nach"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "deshalb"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "ob"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
             "option_id": "a"
         },
         {
-            "blank": "6",
+            "blank": "3",
             "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
         }
     ]
 }

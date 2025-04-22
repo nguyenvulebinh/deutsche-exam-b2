@@ -1,52 +1,52 @@
 {
-    "thema": "Antwort auf Anfrage nach zusätzlichen Bewerbungsunterlagen",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank für Ihre E-Mail vom 15. Mai __1__ Ihrer Bitte um Zusendung meines Sprachzertifikats für Englisch.\n\nIch sende Ihnen das angeforderte Dokument __2__ mit dieser E-Mail zu. Es fehlte in meiner ursprünglichen Bewerbung, __3__ ich das offizielle Zertifikat erst letzte Woche erhalten habe.\n\nSie finden die Datei __4__ Anhang im PDF-Format.\n\n__5__ sind meine Unterlagen nun vollständig. Ich möchte bei dieser Gelegenheit nochmals mein großes Interesse an der Position als Projektmanager bekräftigen.\n\nSollten Sie weitere Informationen benötigen, stehe ich Ihnen __6__ Rückfragen jederzeit zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Ref: PM-123) vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung als Projektmanager (Ref: PM-123) vom 15. Mai und Ihre freundliche Eingangsbestätigung möchte ich mich heute nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ sind nun über vier Wochen vergangen, seitdem ich meine Unterlagen eingereicht habe. Da mein Interesse an der ausgeschriebenen Position und Ihrem Unternehmen __2__ groß ist, wäre ich Ihnen dankbar für eine kurze Information über die nächsten Schritte oder den geplanten Zeitrahmen.\n\nIch frage auch deshalb an, da ich inzwischen ein anderes konkretes Jobangebot erhalten habe, welches eine zeitnahe Entscheidung meinerseits erfordert. __3__ wäre eine Einschätzung Ihrerseits, __4__ ungefähr mit einer Entscheidung zu rechnen ist, für mich sehr hilfreich, um meine weiteren Schritte planen zu können.\n\nDie Stelle in Ihrem Hause entspricht __5__ meinen beruflichen Vorstellungen und Zielen am besten, __6__ ich mich sehr über eine positive Rückmeldung freuen würde.\n\nVielen Dank für Ihr Verständnis und Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "anlässlich"
+            "content": "ob"
         },
         {
             "id": "b",
-            "content": "bei"
+            "content": "weshalb"
         },
         {
             "id": "c",
-            "content": "bezüglich"
+            "content": "jedoch"
         },
         {
             "id": "d",
-            "content": "da"
+            "content": "Deshalb"
         },
         {
             "id": "e",
-            "content": "für"
+            "content": "wann"
         },
         {
             "id": "f",
-            "content": "gerne"
+            "content": "weiterhin"
         },
         {
             "id": "g",
-            "content": "hoffentlich"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "im"
+            "content": "inzwischen"
         },
         {
             "id": "i",
-            "content": "leider"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "obwohl"
+            "content": "damit"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "2",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "b"
         }
     ]
 }

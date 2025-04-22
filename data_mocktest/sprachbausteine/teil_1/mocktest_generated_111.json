@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.10. – Bitte um Terminverschiebung",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Projektmanager am kommenden Dienstag, den 15. Oktober. Ich habe mich sehr __1__ gefreut.\n\nLeider muss ich Ihnen mitteilen, __2__ ich an diesem spezifischen Tag bereits einen wichtigen Arzttermin habe, den ich leider nicht verschieben kann. __3__ wäre meine höfliche Bitte, __4__ wir eventuell einen alternativen Termin vereinbaren könnten?\n\nZeitlich bin ich an den anderen Tagen dieser Woche, __5__ am Mittwoch oder Donnerstag, relativ flexibel. Selbstverständlich richte ich mich aber gerne nach Ihren Möglichkeiten.\n\nIch bitte __6__ Ihr Verständnis und möchte betonen, dass mein Interesse an der Position unverändert groß ist. Über einen Vorschlag für einen neuen Termin würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-0815)",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Projektmanager (Kennziffer PM-0815). Vielen Dank nochmals für die Eingangsbestätigung.\n\n__1__ nun einige Wochen seit dem Bewerbungsschluss vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie in der Ausschreibung beschriebenen Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen finde ich __2__ sehr spannend. Ich bin __3__ überzeugt, dass meine Qualifikationen und bisherigen Erfahrungen gut zu den Anforderungen der Position passen.\n\nKönnten Sie mir __4__ mitteilen, wann voraussichtlich mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist?\n\nSelbstverständlich stehe ich Ihnen für Rückfragen __5__ zur Verfügung.\n\nIch sehe einer __6__ Rückmeldung mit großem Interesse entgegen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Daher"
+            "content": "Bald"
         },
         {
             "id": "b",
-            "content": "davon"
+            "content": "Obwohl"
         },
         {
             "id": "c",
-            "content": "dass"
+            "content": "davon"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "Da"
         },
         {
             "id": "e",
-            "content": "für"
+            "content": "eventuell"
         },
         {
             "id": "f",
-            "content": "insbesondere"
+            "content": "weiterhin"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "Ziemlich"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "jederzeit"
         },
         {
             "id": "i",
-            "content": "um"
+            "content": "Daran"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "baldigen"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "a"
-        },
-        {
-            "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "j"
         }
     ]
 }

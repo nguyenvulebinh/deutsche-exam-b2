@@ -1,56 +1,56 @@
 {
-    "thema": "Email requesting to reschedule an interview due to a prior commitment.",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am [Datum] für die Stelle als [Position]\n\nSehr geehrte/r Frau/Herr [Name],\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am [Datum] um [Uhrzeit] Uhr, __1__ ich mich sehr gefreut habe. Die Position als [Position] in Ihrem Unternehmen interessiert mich außerordentlich.\n\nLeider habe ich an diesem spezifischen Tag __2__ einen anderen wichtigen Termin, den ich nicht verschieben kann. Es handelt sich __3__ eine seit Längerem geplante Prüfung im Rahmen meiner Weiterbildung.\n\n__4__ möchte ich Sie höflich fragen, ob es eventuell möglich wäre, einen alternativen Gesprächstermin zu finden. Ich bin in der Woche davor oder danach zeitlich sehr flexibel und stehe Ihnen nach Absprache gerne __5__ Verfügung.\n\nIch bin __6__ sehr an der ausgeschriebenen Stelle interessiert und hoffe auf Ihr Verständnis für meine Situation. Über einen neuen Terminvorschlag würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager - Kennziffer MM-451",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Marketing Manager (Kennziffer MM-451).\n\n__1__ ist seit dem Bewerbungsschluss nun einige Zeit vergangen, __2__ wollte ich mich höflich erkundigen, ob es bereits Neuigkeiten zum Stand des Auswahlverfahrens gibt.\n\nIch bin __3__ sehr an dieser Position interessiert, da sie meinen Qualifikationen und beruflichen Zielen hervorragend entspricht.\n\n__4__ ich meine berufliche Zukunft sorgfältig planen möchte, wäre eine kurze Information über den weiteren Zeitplan für mich sehr hilfreich. Könnten Sie mir vielleicht mitteilen, __5__ ungefähr mit einer Rückmeldung zu rechnen ist?\n\nFür Rückfragen __6__ meiner Bewerbungsunterlagen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "obwohl"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "Deshalb"
+            "content": "über"
         },
         {
             "id": "d",
-            "content": "für"
+            "content": "da"
         },
         {
             "id": "e",
-            "content": "trotzdem"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "um"
-        },
-        {
-            "id": "g",
             "content": "weiterhin"
         },
         {
+            "id": "g",
+            "content": "zu"
+        },
+        {
             "id": "h",
-            "content": "weil"
+            "content": "ob"
         },
         {
             "id": "i",
-            "content": "worüber"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "zur"
+            "content": "wann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "3",
@@ -58,7 +58,7 @@
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "5",

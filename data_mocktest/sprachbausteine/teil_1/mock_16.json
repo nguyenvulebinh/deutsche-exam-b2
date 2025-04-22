@@ -1,0 +1,72 @@
+{
+    "thema": "Online- und Präsenzseminare für Ihre Mitarbeiter",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir möchten uns mit diesem Schreiben bei Ihnen für die __1__ Zusendung der Infomaterialien bedanken. Unsere Mitarbeiter interessieren sich sowohl für die Online- als __2__ Präsenzweiterbildung.\n\nWir haben jedoch dazu __3__ ein paar Fragen. Können wir bis zu 15 Mitarbeiter für eine Online-Weiterbildung anmelden und haben Sie __4__ viel Erfahrung mit Online-Weiterbildungen sammeln können? Falls es nicht der Fall ist, würden wir lieber die Präsenzweiterbildung buchen.\n\nAufgrund der Arbeitszeiten haben unsere Mitarbeiter nur ab 17:00 Uhr Zeit, um an der Weiterbildung teilzunehmen. Wäre es möglich erst __5__ 17:30 Uhr anzufangen?\n\n__6__ möchten wir wissen, ob wir die Zahlung an Sie per Überweisung mit einer Zahlungsfrist von 30 Tagen nach Erhalt der Rechnung tätigen können?\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen und bleiben Sie gesund!\n\nHans Stromberg",
+    "options": [
+      {
+        "id": "a",
+        "content": "NOCH"
+      },
+      {
+        "id": "b",
+        "content": "GEGEN"
+      },
+      {
+        "id": "c",
+        "content": "OB"
+      },
+      {
+        "id": "d",
+        "content": "AUCH"
+      },
+      {
+        "id": "e",
+        "content": "JEDOCH"
+      },
+      {
+        "id": "f",
+        "content": "SONDERN"
+      },
+      {
+        "id": "g",
+        "content": "DESHALB"
+      },
+      {
+        "id": "h",
+        "content": "SCHON"
+      },
+      {
+        "id": "i",
+        "content": "SCHNELLE"
+      },
+      {
+        "id": "j",
+        "content": "DES WEITEREN"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "i"
+      },
+      {
+        "blank": "2",
+        "option_id": "d"
+      },
+      {
+        "blank": "3",
+        "option_id": "a"
+      },
+      {
+        "blank": "4",
+        "option_id": "h"
+      },
+      {
+        "blank": "5",
+        "option_id": "b"
+      },
+      {
+        "blank": "6",
+        "option_id": "j"
+      }
+    ]
+}

@@ -1,72 +1,72 @@
 {
-    "thema": "Bestätigung Interviewtermin und Frage zu Reisekosten",
-    "textinhalt": "Betreff: Ihr Terminvorschlag für das Vorstellungsgespräch – Marketing Manager\n\nSehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Stelle als Marketing Manager am 15. Oktober um 10:00 Uhr in Ihrem Hause.\n\nIch bestätige diesen Termin gerne und freue mich sehr __1__, Sie und Ihr Unternehmen persönlich kennenzulernen.\n\n__2__ ich, wie in meinen Unterlagen erwähnt, von außerhalb anreise (mein Wohnort ist München), hätte ich eine kurze Frage __3__ der Reisekostenerstattung.\n\nKönnten Sie mir bitte mitteilen, __4__ Ihr Unternehmen üblicherweise die Fahrtkosten für Bewerber übernimmt? Dies würde mir __5__ der Planung meiner Anreise sehr helfen.\n\nIch bin __6__ sehr an der ausgeschriebenen Position interessiert und sehe dem Gespräch mit Spannung entgegen.\n\nVielen Dank im Voraus für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Assistent (Kennziffer MA-123)",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing-Assistent (Kennziffer MA-123), die ich Ihnen am 20. April über Ihr Online-Portal zukommen ließ. Für die Eingangsbestätigung danke ich Ihnen.\n\n__1__ wollte ich mich höflich erkundigen, ob Sie mir bereits eine erste Rückmeldung zum Stand des Auswahlverfahrens geben können, da inzwischen einige Zeit vergangen ist.\n\nIch bin __2__ sehr an dieser Position interessiert, __3__ die Aufgabenbeschreibung genau meinen Fähigkeiten und beruflichen Zielen entspricht. Die Möglichkeit, in einem dynamischen Umfeld wie dem Ihren tätig zu sein, reizt mich besonders.\n\nKönnten Sie mir __4__ einen kurzen Hinweis geben, wann etwa mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist?\n\nFür Rückfragen oder ein persönliches Gespräch stehe ich Ihnen selbstverständlich __5__ zur Verfügung.\n\n__6__ Sie zusätzliche Informationen oder aktualisierte Unterlagen von mir benötigen, lassen Sie es mich bitte umgehend wissen.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bei"
+            "content": "Wenn"
         },
         {
             "id": "b",
-            "content": "bezüglich"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "Daher"
         },
         {
             "id": "d",
-            "content": "darauf"
+            "content": "vielleicht"
         },
         {
             "id": "e",
-            "content": "darüber"
+            "content": "weiterhin"
         },
         {
             "id": "f",
-            "content": "dass"
+            "content": "Während"
         },
         {
             "id": "g",
-            "content": "mit"
+            "content": "gerne"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "Falls"
         },
         {
             "id": "i",
-            "content": "wegen"
+            "content": "Trotzdem"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "da"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
             "option_id": "c"
         },
         {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "h"
         }
     ]
 }

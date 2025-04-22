@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachreichung Unterlagen – Ihre Referenz [Application ID/Job Title]",
-    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nich beziehe mich auf Ihre E-Mail vom [Date] bezüglich meiner Bewerbung als [Job Title] und die Bitte um Nachreichung meines Abschlusszeugnisses bis zum [Deadline Date].\n\n__1__ konnte ich diese Frist nicht einhalten, da die Ausstellung des Dokuments unerwartet länger gedauert hat als von der Universität angegeben. Ich bitte __2__ die entstandene Verzögerung um Entschuldigung.\n\nAnbei übersende ich Ihnen nun das fehlende Zeugnis. Mein Interesse an der ausgeschriebenen Position ist __3__ unverändert groß, da die beschriebenen Aufgabenbereiche sehr gut zu meinen beruflichen Zielen passen.\n\nIch hoffe sehr, dass meine Bewerbung __4__ des verspäteten Eingangs des Dokuments weiterhin im Auswahlverfahren __5__ werden kann.\n\nÜber eine kurze Bestätigung des Erhalts würde ich mich freuen und sehe Ihrer Rückmeldung __6__.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent (Kennziffer MA-451) vom 25. April",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung vom 25. April für die ausgeschriebene Stelle als Marketingassistent mit der Kennziffer MA-451.\n\nDa seit dem Einreichen meiner Unterlagen nun einige Wochen vergangen sind, __1__ möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Ich habe Verständnis dafür, dass die sorgfältige Prüfung aller Bewerbungen Zeit benötigt.\n\nKönnten Sie mir eventuell eine ungefähre Auskunft geben, __2__ ich voraussichtlich mit einer Rückmeldung rechnen darf?\n\nMein Interesse __3__ dieser Position in Ihrem Unternehmen ist nach wie vor sehr groß, __4__ die in der Ausschreibung genannten Aufgabenbereiche meinen Qualifikationen und beruflichen Zielen ausgezeichnet entsprechen.\n\nSollten Sie __5__ weitere Informationen oder Dokumente von mir benötigen, lassen Sie es mich bitte wissen. Ich stehe Ihnen dafür jederzeit gerne zur Verfügung.\n\nIch bedanke mich __6__ für Ihre Bemühungen und freue mich auf eine baldige Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "angesichts"
+            "content": "denn"
         },
         {
             "id": "b",
-            "content": "aufgrund"
+            "content": "wenn"
         },
         {
             "id": "c",
-            "content": "außerdem"
+            "content": "an"
         },
         {
             "id": "d",
-            "content": "berücksichtigt"
+            "content": "trotzdem"
         },
         {
             "id": "e",
-            "content": "daher"
+            "content": "im Voraus"
         },
         {
             "id": "f",
-            "content": "entgegen"
+            "content": "deshalb"
         },
         {
             "id": "g",
-            "content": "leider"
+            "content": "noch"
         },
         {
             "id": "h",
-            "content": "nachdem"
+            "content": "für"
         },
         {
             "id": "i",
-            "content": "trotz"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "da"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
             "option_id": "i"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "e"
         }
     ]
 }

@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zu meiner Bewerbung als Marketingassistent vom 15.08.",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Rückmeldung vom 25.08. bezüglich meiner Bewerbung als Marketingassistent. Ich bedauere sehr, dass es dieses Mal nicht geklappt hat.\n\nUm mich für zukünftige Bewerbungen besser vorbereiten zu können, wäre ich Ihnen sehr dankbar, __1__ Sie mir vielleicht ein kurzes Feedback geben könnten. Mich würde __2__ interessieren, in welchen Bereichen ich mich verbessern sollte oder __3__ meine Qualifikationen möglicherweise nicht ganz den Anforderungen entsprachen.\n\nIch verstehe natürlich, dass Sie viele Bewerbungen erhalten und dies Zeit kostet, __4__ wäre jede kurze Anmerkung für mich sehr wertvoll.\n\nIch wäre Ihnen für Ihre Unterstützung __5__ dankbar und hoffe, __6__ ich mich in Zukunft vielleicht erneut bei Ihnen bewerben darf.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 10. Juni 2024",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung als Marketingassistent vom 10. Juni 2024. __1__ sind nun einige Wochen vergangen, seitdem die Bewerbungsfrist abgelaufen ist, daher wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position ist nach wie vor sehr groß, __2__ die beschriebenen Aufgabenbereiche und die Ausrichtung Ihres Unternehmens meinen beruflichen Erfahrungen und Zielen sehr gut entsprechen.\n\nFür ein persönliches Gespräch, um meine Eignung weiter zu erläutern, stehe ich Ihnen __3__ zur Verfügung.\n\nKönnten Sie mir __4__ mitteilen, __5__ ungefähr mit einer Rückmeldung oder den nächsten Schritten im Prozess zu rechnen ist?\n\nSollten Sie __6__ meinen Unterlagen noch Fragen haben, erreichen Sie mich gerne telefonisch oder per E-Mail.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nPeter Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "besonders"
+            "content": "da"
         },
         {
             "id": "b",
-            "content": "dass"
+            "content": "über"
         },
         {
             "id": "c",
-            "content": "dennoch"
-        },
-        {
-            "id": "d",
-            "content": "deshalb"
-        },
-        {
-            "id": "e",
-            "content": "ob"
-        },
-        {
-            "id": "f",
             "content": "obwohl"
         },
         {
+            "id": "d",
+            "content": "eventuell"
+        },
+        {
+            "id": "e",
+            "content": "jederzeit"
+        },
+        {
+            "id": "f",
+            "content": "inzwischen"
+        },
+        {
             "id": "g",
-            "content": "sehr"
+            "content": "wann"
         },
         {
             "id": "h",
-            "content": "viel"
+            "content": "damit"
         },
         {
             "id": "i",
-            "content": "warum"
+            "content": "zu"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "bereits"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "2",
@@ -54,11 +54,11 @@
         },
         {
             "blank": "3",
-            "option_id": "i"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "i"
         }
     ]
 }

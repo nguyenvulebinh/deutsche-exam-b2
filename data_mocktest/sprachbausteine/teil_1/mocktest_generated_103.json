@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch – Marketingassistenz",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für Ihre E-Mail und die Einladung zum Vorstellungsgespräch für die Position als Marketingassistenz. Ich habe mich sehr __1__ gefreut.\n\nGerne bestätige ich mein großes Interesse an der Stelle. __2__ muss ich Ihnen jedoch mitteilen, dass ich den von Ihnen vorgeschlagenen Termin am kommenden Dienstag um 10:00 Uhr nicht wahrnehmen kann, __3__ ich an diesem Tag eine bereits länger geplante, unaufschiebbare Verpflichtung habe.\n\nWäre es eventuell möglich, einen __4__ Termin zu finden? Ich bin an den anderen Tagen dieser Woche __5__ in der gesamten darauffolgenden Woche zeitlich sehr flexibel und richte mich gerne nach Ihren Möglichkeiten.\n\n__6__ hoffe ich sehr auf Ihr Verständnis und würde mich freuen, bald von Ihnen einen neuen Terminvorschlag zu erhalten.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager - Kennziffer PM-2024-A7",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager (Kennziffer PM-2024-A7), die ich Ihnen am 15. Mai habe zukommen lassen.\n\n__1__ nun bereits einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Das damals geführte Telefonat mit Herrn Schneider hat mein Interesse an der Position __2__ bestärkt.\n\nIch bin nach wie vor sehr an dieser herausfordernden Tätigkeit interessiert und __3__ überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen passen.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wie der weitere Zeitplan aussieht? Ich bin mir bewusst, dass Auswahlprozesse Zeit benötigen, __5__ wäre ich für eine kurze Rückmeldung dankbar.\n\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "alternativen"
+            "content": "freundlicherweise"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "Da"
         },
         {
             "id": "c",
-            "content": "Daher"
+            "content": "obwohl"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "Falls"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "nochmals"
         },
         {
             "id": "f",
-            "content": "Deshalb"
+            "content": "während"
         },
         {
             "id": "g",
-            "content": "Jedoch"
+            "content": "dennoch"
         },
         {
             "id": "h",
-            "content": "Leider"
+            "content": "damit"
         },
         {
             "id": "i",
-            "content": "sowie"
+            "content": "deshalb"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "davon"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "d"
         }
     ]
 }

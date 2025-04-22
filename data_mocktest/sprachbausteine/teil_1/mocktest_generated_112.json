@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15. März – Bitte um Terminverschiebung",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. März für die Position als Projektmanager. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin am 15. März nicht wahrnehmen kann, __3__ ich an diesem Tag eine wichtige, unaufschiebbare Prüfung ablegen muss, die bereits seit Längerem feststeht.\n\nWäre es __4__ möglich, das Gespräch auf einen anderen Tag zu verschieben? Zeitlich bin ich __5__ sehr flexibel und richte mich gerne nach Ihren Vorschlägen. Ich stehe Ihnen gerne __6__ dem 16. März zur Verfügung.\n\nIch hoffe sehr auf Ihr Verständnis und freue mich auf eine positive Rückmeldung bezüglich eines Alternativtermins.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nbezugnehmend auf meine Bewerbung als Marketingmanager vom 25. April und unser anschließendes kurzes Telefonat am 2. Mai, möchte ich mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __2__ einige Zeit vergangen ist und ich bisher keine Rückmeldung erhalten habe, wollte ich höflich nachfragen. Ich bin nach wie vor sehr __3__ an dieser Position interessiert, da die beschriebenen Aufgabenbereiche meinen Qualifikationen und beruflichen Zielen sehr gut entsprechen.\n\n__4__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, wann etwa mit einer Entscheidung zu rechnen ist. Sollten Sie __5__ noch weitere Unterlagen oder Informationen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch freue mich __6__ auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ab"
+            "content": "auf"
         },
         {
             "id": "b",
-            "content": "ansonsten"
+            "content": "dabei"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "daran"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "Deshalb"
         },
         {
             "id": "e",
-            "content": "davon"
-        },
-        {
-            "id": "f",
-            "content": "denn"
-        },
-        {
-            "id": "g",
             "content": "eventuell"
         },
         {
+            "id": "f",
+            "content": "hiermit"
+        },
+        {
+            "id": "g",
+            "content": "inzwischen"
+        },
+        {
             "id": "h",
-            "content": "Leider"
+            "content": "seitdem"
         },
         {
             "id": "i",
-            "content": "nach"
+            "content": "Trotzdem"
         },
         {
             "id": "j",
-            "content": "trotzdem"
+            "content": "über"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "g"
         },
         {
             "blank": "3",
@@ -58,11 +58,11 @@
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "6",

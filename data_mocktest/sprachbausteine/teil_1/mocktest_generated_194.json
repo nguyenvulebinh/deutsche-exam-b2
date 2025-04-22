@@ -1,60 +1,60 @@
 {
-    "thema": "Anfrage zu internen Weiterbildungsmöglichkeiten",
-    "textinhalt": "Sehr geehrte Frau Bader,\n\nich arbeite nun seit über einem Jahr in der Marketingabteilung und möchte mich gerne beruflich weiterentwickeln, um unser Team noch besser unterstützen zu können.\n\nBesonders interessiere ich mich für Fortbildungen __1__ Online-Marketing und Datenanalyse. Ich habe bereits im Intranet nachgesehen, __2__ konnte dort keine Übersicht über aktuelle interne Angebote oder geförderte externe Maßnahmen finden. \n\nKönnten Sie mir vielleicht Informationen zukommen lassen, welche Möglichkeiten es generell gibt und wie der Prozess zur Anmeldung aussieht? Mich würde auch interessieren, __3__ es bestimmte Voraussetzungen oder ein festes Budget pro Mitarbeiter gibt.\n\nIch würde mich __4__ freuen, wenn wir uns kurz darüber austauschen könnten, vielleicht in der nächsten Woche? Ich bin überzeugt, dass ich durch gezielte Weiterbildung __5__ noch effektiver zu den Zielen unserer Abteilung beitragen kann.\n\nVielen Dank __6__ für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Ref: MM-451)",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing Manager (Ref: MM-451), die ich Ihnen am 15. Mai zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, seitdem die Bewerbungsfrist abgelaufen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin nach wie vor __2__ an der Position interessiert, da mich die beschriebenen Aufgaben und Ihr Unternehmen sehr ansprechen.\n\n__3__ ich mich auch auf andere Stellen beworben habe, ist diese Position bei Ihnen weiterhin meine bevorzugte Wahl. Ich befinde mich derzeit __4__ in einem anderen Bewerbungsprozess, bei dem bald eine Entscheidung ansteht.\n\n__5__ wäre es für meine Planung sehr hilfreich, wenn Sie mir eine kurze Information geben könnten, wann ungefähr mit einer Entscheidung zu rechnen ist.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich gerne __6__ Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "wegen"
         },
         {
             "id": "b",
-            "content": "beim"
-        },
-        {
-            "id": "c",
-            "content": "bereits"
-        },
-        {
-            "id": "d",
-            "content": "danach"
-        },
-        {
-            "id": "e",
-            "content": "gerne"
-        },
-        {
-            "id": "f",
-            "content": "im Bereich"
-        },
-        {
-            "id": "g",
-            "content": "im Voraus"
-        },
-        {
-            "id": "h",
-            "content": "ob"
-        },
-        {
-            "id": "i",
             "content": "trotzdem"
         },
         {
+            "id": "c",
+            "content": "obwohl"
+        },
+        {
+            "id": "d",
+            "content": "besonders"
+        },
+        {
+            "id": "e",
+            "content": "allerdings"
+        },
+        {
+            "id": "f",
+            "content": "während"
+        },
+        {
+            "id": "g",
+            "content": "deshalb"
+        },
+        {
+            "id": "h",
+            "content": "kaum"
+        },
+        {
+            "id": "i",
+            "content": "inzwischen"
+        },
+        {
             "id": "j",
-            "content": "zukünftig"
+            "content": "zur"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "i"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "c"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "j"
         }
     ]
 }

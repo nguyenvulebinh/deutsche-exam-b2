@@ -1,52 +1,52 @@
 {
-    "thema": "Nachfrage zum Stand der Bewerbung nach ausbleibender Rückmeldung",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Oktober zugesandt habe. Den Eingang meiner Unterlagen haben Sie mir __1__ per E-Mail bestätigt.\n\n__2__ sind nun bereits mehrere Wochen vergangen, und ich habe bisher leider noch keine Rückmeldung bezüglich des weiteren Vorgehens erhalten.\n\nDa ich weiterhin großes Interesse an dieser Position habe, möchte ich höflich nach dem aktuellen Stand des Auswahlverfahrens fragen. Könnten Sie mir vielleicht mitteilen, __3__ ich ungefähr mit einer Entscheidung rechnen kann?\n\nDiese Information wäre für meine weitere Planung sehr hilfreich. Ich habe __4__ Verständnis, dass der Auswahlprozess Zeit in Anspruch nehmen kann, wäre __5__ für eine kurze Auskunft dankbar.\n\nIch möchte __6__ betonen, dass mein Interesse an der Mitarbeit in Ihrem Unternehmen unverändert groß ist und freue mich auf eine baldige Nachricht.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer MM-451) vom 20.04.2024",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager (Kennziffer MM-451), welche ich Ihnen am 20. April 2024 habe zukommen lassen.\n\nDa nun __1__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser verantwortungsvollen Aufgabe und __2__ der Möglichkeit, meine Fähigkeiten in Ihrem renommierten Unternehmen einzubringen, ist __3__ groß. Ich bin __4__ davon überzeugt, dass meine Qualifikationen und meine bisherige Berufserfahrung gut zu den Anforderungen der Stelle passen.\n\nIch wäre Ihnen sehr dankbar, __5__ Sie mir eine kurze Rückmeldung geben könnten, wann ungefähr mit einer Entscheidung zu rechnen ist.\n\nFür ein persönliches Gespräch stehe ich Ihnen __6__ zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "fest"
         },
         {
             "id": "b",
-            "content": "dafür"
+            "content": "wenn"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "seitdem"
         },
         {
             "id": "d",
-            "content": "dennoch"
+            "content": "jederzeit"
         },
         {
             "id": "e",
-            "content": "inzwischen"
+            "content": "manchmal"
         },
         {
             "id": "f",
-            "content": "nochmals"
+            "content": "für"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "inzwischen"
         },
         {
             "id": "h",
-            "content": "Seitdem"
+            "content": "an"
         },
         {
             "id": "i",
-            "content": "umgehend"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "weiterhin"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "g"
         },
         {
             "blank": "2",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "d"
         }
     ]
 }

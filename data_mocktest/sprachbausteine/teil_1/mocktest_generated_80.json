@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch als Marketingassistenz - [Ihr Name]",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank __1__ Ihre positive Rückmeldung auf meine Bewerbung und für die Einladung zum Vorstellungsgespräch am 15. Oktober um 10:00 Uhr. Ich habe mich über Ihr Interesse sehr gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich den vorgeschlagenen Termin nicht wahrnehmen kann, __3__ ich an diesem Tag bereits einen seit Langem geplanten, wichtigen Geschäftstermin habe, den ich nicht verschieben kann.\n\nIch wäre Ihnen daher sehr dankbar, wenn wir __4__ einen alternativen Termin finden könnten. Zeitlich flexibel wäre ich __5__ in der Woche danach, insbesondere am 22. oder 23. Oktober. Selbstverständlich richte ich mich aber auch gerne nach Ihren Möglichkeiten.\n\nIch bin __6__ sehr an der Position interessiert und hoffe auf Ihr Verständnis. Über einen neuen Terminvorschlag würde ich mich freuen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Manager vom 05. März",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich __1__ meine Bewerbung für die ausgeschriebene Stelle als Marketing-Manager, die ich Ihnen am 05. März über Ihr Online-Portal übermittelt habe.\n\n__2__ nun einige Zeit vergangen ist, wollte ich mich höflich __3__ dem aktuellen Stand des Bewerbungsprozesses erkundigen.\n\nIch bin nach wie vor sehr an dieser Position interessiert, da sie ideal meinen Qualifikationen und beruflichen Zielen entspricht. Selbstverständlich ist mir bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungen Zeit __4__.\n\nKönnten Sie mir __5__ mitteilen, __6__ ungefähr mit einer Entscheidung oder dem nächsten Schritt im Verfahren zu rechnen ist?\n\nFür Rückfragen stehe ich Ihnen selbstverständlich jederzeit zur Verfügung. Vielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "beispielsweise"
+            "content": "Da"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "kostet"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "auf"
         },
         {
             "id": "d",
-            "content": "für"
+            "content": "wenn"
         },
         {
             "id": "e",
-            "content": "Gerne"
+            "content": "nach"
         },
         {
             "id": "f",
-            "content": "Leider"
+            "content": "über"
         },
         {
             "id": "g",
-            "content": "nach wie vor"
+            "content": "benötigt"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "Obwohl"
         },
         {
             "id": "i",
-            "content": "sicherlich"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "über"
+            "content": "eventuell"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
             "option_id": "c"
         },
         {
-            "blank": "5",
+            "blank": "2",
             "option_id": "a"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
             "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
         }
     ]
 }

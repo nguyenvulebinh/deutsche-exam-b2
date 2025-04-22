@@ -1,0 +1,72 @@
+{
+    "thema": "Kündigung des Ausbildungsvertrages",
+    "textinhalt": "Sehr geehrte Frau Ceylan,\n\nhiermit möchten wir Ihnen, den mit Ihnen am 01.08.20xx geschlossenen Ausbildungsvertrag zur Zahnmedizinischen Fachangestellten kündigen.\n\nDer Grund für diese vorzeitige Kündigung ist:\n\n__1__ mit Ihnen abgeschlossene Ausbildungsvertrag vom 01.08. __2__ in § 4 die Regelung, dass der Arbeitsbeginn um 07.30 Uhr ist. __3__ sind Sie am 03.08. erst um 07.40 Uhr an Ihrer Arbeitsstelle erschienen. Am 18.08. fanden Sie sich __4__ um 07.37 Uhr dort ein. Am 01.09. sind Sie um 07.44 Uhr an Ihre Arbeitsstelle gekommen.\n\nHierfür haben Sie in unserem Gespräch am 05.09. an dem die Zeugen Horst Hallhuber und Monika Zweig teilgenommen haben, keine Entschuldigung angegeben und sind am 10.10. wieder zu spät gekommen.\n\nDa wir __5__ unserer Arbeitsabläufe auf ein pünktliches Erscheinen unserer Auszubildenden angewiesen sind, beanstanden wir dieses Verhalten __6__ ausdrücklich.\n\nAus den oben angegebenen Gründen müssen wir den Ausbildungsvertrag zum 31.01. aufheben.\n\nMit freundlichen Grüßen\n\nDaniel Klarsen",
+    "options": [
+      {
+        "id": "a",
+        "content": "TROTZ"
+      },
+      {
+        "id": "b",
+        "content": "DEM"
+      },
+      {
+        "id": "c",
+        "content": "DER"
+      },
+      {
+        "id": "d",
+        "content": "ERST"
+      },
+      {
+        "id": "e",
+        "content": "GLEICHWOHL"
+      },
+      {
+        "id": "f",
+        "content": "ENTHÄLT"
+      },
+      {
+        "id": "g",
+        "content": "WEGEN"
+      },
+      {
+        "id": "h",
+        "content": "AUFGRUND"
+      },
+      {
+        "id": "i",
+        "content": "BEKOMMT"
+      },
+      {
+        "id": "j",
+        "content": "HIERMIT"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "c"
+      },
+      {
+        "blank": "2",
+        "option_id": "f"
+      },
+      {
+        "blank": "3",
+        "option_id": "e"
+      },
+      {
+        "blank": "4",
+        "option_id": "d"
+      },
+      {
+        "blank": "5",
+        "option_id": "h"
+      },
+      {
+        "blank": "6",
+        "option_id": "j"
+      }
+    ]
+}

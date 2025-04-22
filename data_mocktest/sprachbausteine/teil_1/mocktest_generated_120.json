@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Einladung zum Vorstellungsgespräch am 15. Mai / Kennziffer MKT-456",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. Mai um 10:00 Uhr für die Position als Marketingassistent. Ich habe mich sehr __1__ gefreut.\n\n__2__ muss ich Ihnen mitteilen, dass ich an diesem spezifischen Vormittag bereits eine unaufschiebbare Verpflichtung habe. Es handelt sich um meine Abschlussprüfung im Fach Projektmanagement, __3__ ich mich seit Monaten intensiv vorbereite.\n\n__4__ bitte ich Sie höflich um Prüfung, ob es möglich wäre, einen alternativen Termin für unser Gespräch zu finden. __5__ dem 16. Mai stehe ich Ihnen zeitlich flexibel zur Verfügung und richte mich gerne nach Ihren Vorschlägen.\n\nIch bin __6__ sehr an der ausgeschriebenen Position interessiert und überzeugt, dass meine Qualifikationen gut zu Ihrem Anforderungsprofil passen.\n\nIch hoffe auf Ihr Verständnis und eine positive Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung vom 15. Mai für die Position als Projektmanager möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ nun bereits einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, wollte ich höflich nachfragen.\nIch bin nach wie vor sehr an dieser Position interessiert, __2__ mich die in der Ausschreibung beschriebenen Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen besonders ansprechen.\n\nEine zeitnahe Information über den weiteren Verlauf wäre für mich sehr hilfreich, __3__ ich in Kürze eine Entscheidung bezüglich einer anderen Stelle treffen muss.\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nIch verstehe selbstverständlich, dass der Auswahlprozess Zeit benötigt, __5__ wäre ich für eine kurze Zwischeninformation dankbar.\n\nVielen Dank im Voraus für Ihre Bemühungen und eine __6__ Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Ab"
+            "content": "baldige"
         },
         {
             "id": "b",
-            "content": "auf die"
+            "content": "damit"
         },
         {
             "id": "c",
-            "content": "Darüber"
+            "content": "Da"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "Für die"
+            "content": "Deshalb"
         },
         {
             "id": "f",
-            "content": "Leider"
+            "content": "eventuell"
         },
         {
             "id": "g",
-            "content": "Nach"
-        },
-        {
-            "id": "h",
             "content": "Obwohl"
         },
         {
+            "id": "h",
+            "content": "schnelle"
+        },
+        {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "Während"
         },
         {
             "id": "j",
-            "content": "Weiterhin"
+            "content": "weil"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "a"
         }
     ]
 }

@@ -1,38 +1,38 @@
 {
-    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
-    "textinhalt": "Betreff: Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses\n\nSehr geehrte Frau Schmidt,\n\n__1__ Sie wissen, wird mein Arbeitsverhältnis mit der Beispiel GmbH zum 30. September 2024 auf eigenen Wunsch enden.\n\nAus diesem __2__ möchte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten. Dieses Dokument ist für meine zukünftigen Bewerbungen sehr wichtig.\n\nIch wäre Ihnen dankbar, wenn das Zeugnis nicht nur meine Aufgabenbereiche und die Dauer meiner Beschäftigung enthält, __3__ auch eine Bewertung meiner Leistungen und meines Sozialverhaltens.\n\nBitte teilen Sie mir mit, bis wann ich __4__ mit der Zusendung des Zeugnisses rechnen kann. __5__ Sie hierfür noch Informationen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank im Voraus für Ihre Bemühungen __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz vom 20. April",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketingassistenz, die ich Ihnen am 20. April zugesandt habe und für die ich dankend eine Eingangsbestätigung erhalten habe.\n\nDa __1__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist selbstverständlich bewusst, dass ein sorgfältiger Prozess Zeit benötigt, __2__ wäre ich Ihnen für eine kurze Rückmeldung dankbar.\n\nIch möchte bei dieser Gelegenheit betonen, dass mein Interesse an dieser spannenden Stelle und an der Arbeit bei [Firmenname] __3__ sehr groß ist. Die in der Ausschreibung genannten Aufgabenbereiche entsprechen genau meinen Qualifikationen und beruflichen Zielen.\n\nKönnten Sie mir __4__ mitteilen, wann mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist? Jede Information hierzu wäre für meine weitere Planung hilfreich.\n\n__5__ Sie zusätzliche Informationen oder Referenzen benötigen, stelle ich Ihnen diese gerne kurzfristig zur Verfügung. Einer positiven Nachricht sehe ich __6__ entgegen.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Als"
+            "content": "dennoch"
         },
         {
             "id": "b",
-            "content": "dafür"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "dazu"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "gerne"
         },
         {
             "id": "e",
-            "content": "ebenfalls"
+            "content": "gespannt"
         },
         {
             "id": "f",
-            "content": "Grund"
+            "content": "inzwischen"
         },
         {
             "id": "g",
-            "content": "Sollten"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "sondern"
+            "content": "seitdem"
         },
         {
             "id": "i",
@@ -40,21 +40,21 @@
         },
         {
             "id": "j",
-            "content": "wie"
+            "content": "weiterhin"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
             "option_id": "f"
         },
         {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "j"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "e"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Rückfrage zu einem Stellenangebot",
-    "textinhalt": "Betreff: Ihr Stellenangebot als Marketingmanager, Referenz MM-2024-08 – Rückfrage\n\nSehr geehrte Frau Bauer,\n\nvielen herzlichen Dank für Ihr Stellenangebot vom 15. Juli für die Position als Marketingmanager und das damit entgegengebrachte Vertrauen. Ich habe mich sehr darüber gefreut.\n\nIch bin nach wie vor sehr an der Position interessiert. __1__ hätte ich noch zwei kurze Fragen, __2__ ich das Angebot final annehmen kann.\n\nZum einen betrifft meine Frage den Starttermin. Im Angebot ist der 1. September genannt. Wäre es __3__ möglich, erst am 15. September zu beginnen? Der Grund dafür ist die Kündigungsfrist bei meinem jetzigen Arbeitgeber.\n\nZum anderen wurde im Gespräch kurz das Thema „betriebliche Weiterbildung“ erwähnt. Könnten Sie mir bitte noch kurz __4__, welche konkreten Möglichkeiten es __5__ in Ihrer Firma gibt?\n\nIch wäre Ihnen dankbar, wenn Sie mir diese Punkte kurzfristig klären könnten. Für ein kurzes Telefonat stehe ich __6__ ebenfalls zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nich schreibe Ihnen bezüglich meiner Bewerbung als Projektmanager, die ich Ihnen am 15. Mai zugesandt habe.\n\nDa nun einige Wochen __1__ sind, ohne dass ich diesbezüglich eine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir bitte mitteilen, __2__ ich ungefähr mit einer Entscheidung oder zumindest einer Zwischeninformation rechnen kann?\n\nDies wäre für meine weitere Planung sehr hilfreich, __3__ ich auch andere Bewerbungsprozesse parallel verfolge und bald Entscheidungen treffen muss.\n\nIch möchte __4__ betonen, dass mein Interesse an dieser Position und an Ihrem Unternehmen unverändert groß ist. Die in der Ausschreibung genannten Aufgabenbereiche passen __5__ zu meinen Qualifikationen und beruflichen Zielen.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung geben könnten. __6__ stehe ich Ihnen für Rückfragen jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "da"
         },
         {
             "id": "b",
-            "content": "bevor"
+            "content": "ebenfalls"
         },
         {
             "id": "c",
-            "content": "bestätigen"
+            "content": "hervorragend"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "nochmals"
         },
         {
             "id": "e",
-            "content": "diesbezüglich"
+            "content": "ob"
         },
         {
             "id": "f",
-            "content": "erläutern"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "eventuell"
+            "content": "Selbstverständlich"
         },
         {
             "id": "h",
-            "content": "selbstverständlich"
+            "content": "vergangen"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "während"
+            "content": "besonders"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "g"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "g"
         }
     ]
 }

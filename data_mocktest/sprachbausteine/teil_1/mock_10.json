@@ -1,0 +1,72 @@
+{
+    "thema": "Betreff: Meine Bewerbung vom 28.07.20xx",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich bedanke mich ganz herzlich für Ihre freundliche Mail vom 30.07.20xx.\n__1__ sind seit dem Bewerbungsschluss einige Wochen vergangen. __2__ möchte ich mich auf diesem Weg erkundigen, wann und wie der Auswahlprozess weitergehen wird.\n\nNach wie vor bin ich an der Stelle als Baugeräteführer in Ihrem Unternehmen interessiert und würde mich sehr über eine baldige und positive Rückmeldung freuen.\n\nDa ich __3__ noch von einem anderen Unternehmen ein interessantes Angebot erhalten habe, wäre es sehr hilfreich, wenn Sie mir kurz mitteilen könnten, __4__ ich frühestens mit einer Antwort rechnen kann. __5__ der guten Erreichbarkeit würde mir die Tätigkeit bei Ihrem Unternehmen besser zusagen.\n\nIch möchte nur sichergehen, dass meine Bewerbung nicht vergessen wurde.\nFür Fragen __6__ meinen Bewerbungsunterlagen stehe ich Ihnen gerne per E-Mail oder telefonisch unter 0712345xxx zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMohamed Soto",
+    "options": [
+      {
+        "id": "a",
+        "content": "INZWISCHEN"
+      },
+      {
+        "id": "b",
+        "content": "DAHER"
+      },
+      {
+        "id": "c",
+        "content": "OB"
+      },
+      {
+        "id": "d",
+        "content": "WANN"
+      },
+      {
+        "id": "e",
+        "content": "AUCH"
+      },
+      {
+        "id": "f",
+        "content": "ÜBER"
+      },
+      {
+        "id": "g",
+        "content": "TROTZ"
+      },
+      {
+        "id": "h",
+        "content": "AUFGRUND"
+      },
+      {
+        "id": "i",
+        "content": "DA"
+      },
+      {
+        "id": "j",
+        "content": "ZU"
+      }
+    ],
+    "loesung": [
+      {
+        "blank": "1",
+        "option_id": "a"
+      },
+      {
+        "blank": "2",
+        "option_id": "b"
+      },
+      {
+        "blank": "3",
+        "option_id": "e"
+      },
+      {
+        "blank": "4",
+        "option_id": "d"
+      },
+      {
+        "blank": "5",
+        "option_id": "h"
+      },
+      {
+        "blank": "6",
+        "option_id": "j"
+      }
+    ]
+}

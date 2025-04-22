@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Ihr Terminvorschlag für ein Vorstellungsgespräch – [Ihr Name]",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Marketing-Assistent am kommenden Dienstag, den 15. März, um 10:00 Uhr. Ich habe mich sehr __1__ gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich diesen Termin nicht wahrnehmen kann, __2__ ich an diesem Tag einen bereits lange geplanten, unaufschiebbaren Arzttermin habe. Ich bitte um Ihr Verständnis.\n\n__3__ wäre ich an den beiden Folgetagen, also am Mittwoch, den 16. März, oder Donnerstag, den 17. März, zeitlich sehr flexibel. Wäre es __4__ möglich, das Gespräch an einem dieser Tage nachzuholen?\n\nIch bin __5__ sehr an der Position in Ihrem Unternehmen interessiert und würde mich freuen, wenn wir einen alternativen Termin finden __6__.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager Marketing vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nhiermit möchte ich mich __1__ meine Bewerbung als Projektmanager Marketing vom 15. Mai beziehen. Sie hatten mir den Eingang meiner Unterlagen dankenswerterweise kurz darauf bestätigt.\n\n__2__ nun bereits einige Wochen vergangen sind, seit ich von Ihnen gehört habe, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an der ausgeschriebenen Position ist __3__ meiner relevanten Erfahrung im internationalen Projektmanagement ungebrochen.\n\nIch wäre Ihnen daher dankbar, wenn Sie mir mitteilen könnten, wann __4__ mit einer Entscheidung oder den nächsten Schritten zu rechnen ist.\n\n__5__ Sie weiteren Informationsbedarf haben oder ein Gespräch wünschen, stehe ich Ihnen __6__ zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Allerdings"
+            "content": "auf"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "trotz"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "Da"
         },
         {
             "id": "d",
-            "content": "davon"
+            "content": "jederzeit"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "Ob"
         },
         {
             "id": "f",
-            "content": "könnten"
+            "content": "für"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "aufgrund"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "Falls"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "Obwohl"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "etwa"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
             "option_id": "a"
         },
         {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "j"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "d"
         }
     ]
 }

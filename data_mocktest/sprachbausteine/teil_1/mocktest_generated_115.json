@@ -1,56 +1,56 @@
 {
-    "thema": "Bitte um Terminverschiebung für ein Vorstellungsgespräch",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am [Datum] für die Position als [Position]. Über die Einladung habe ich mich sehr gefreut.\n\n__1__ muss ich Ihnen mitteilen, __2__ ich an diesem Tag __3__ einen anderen, unaufschiebbaren Termin habe. Es handelt sich __4__ eine wichtige Prüfung an meiner Weiterbildungsakademie, die ich nicht verschieben kann.\n\n__5__ möchte ich Sie höflich bitten, __6__ es möglich wäre, einen alternativen Termin zu finden. Zeitlich bin ich ansonsten sehr flexibel und stehe Ihnen gerne an anderen Tagen zur Verfügung.\n\nMein Interesse an der Position ist weiterhin sehr groß. Ich bitte um Ihr Verständnis und würde mich freuen, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz (Kennziffer MA-451)",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Position als Marketingassistenz mit der Kennziffer MA-451.\n\n__1__ ist nun einige Zeit vergangen, __2__ ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen möchte.\n\nMein Interesse __3__ dieser spannenden Position und an Ihrem Unternehmen ist nach wie vor sehr groß.\n\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer Entscheidung oder den nächsten Schritten zu rechnen ist? Eine kurze Information dazu wäre für meine weitere Planung sehr hilfreich.\n\n__5__ ich mich derzeit in keiner anderen laufenden Bewerbungsphase befinde, bin ich zeitlich sehr flexibel, was einen möglichen Gesprächtermin angeht.\n\nFür Rückfragen oder die Zusendung weiterer Unterlagen stehe ich Ihnen __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Absender]",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "an"
         },
         {
             "id": "b",
-            "content": "daher"
+            "content": "obwohl"
         },
         {
             "id": "c",
-            "content": "dass"
+            "content": "gerne"
         },
         {
             "id": "d",
-            "content": "leider"
+            "content": "da"
         },
         {
             "id": "e",
-            "content": "noch"
+            "content": "weshalb"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "vielleicht"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "für"
         },
         {
             "id": "i",
-            "content": "um"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "vielleicht"
+            "content": "inzwischen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "c"
         }
     ]
 }

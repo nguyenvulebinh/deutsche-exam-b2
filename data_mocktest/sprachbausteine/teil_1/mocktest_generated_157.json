@@ -1,56 +1,56 @@
 {
-    "thema": "Anfrage zu Sozialleistungen – Ihre Referenz AZ-123",
-    "textinhalt": "Sehr geehrte Frau Becker,\n\nvielen Dank für das informative Telefongespräch am vergangenen Montag bezüglich der Position als Marketingassistent (Referenz AZ-123). Mein positiver Eindruck von Ihrem Unternehmen hat sich dadurch weiter verstärkt.\n\n__1__ eine Entscheidung über eine Anstellung auch von den Rahmenbedingungen abhängt, hätte ich vorab noch ein paar kurze Fragen zu den von Ihnen erwähnten Sozialleistungen. Könnten Sie mir bitte nähere Informationen __2__ die betriebliche Altersvorsorge und das Jobticket zukommen lassen? Mich würde insbesondere interessieren, __3__ diese Leistungen allen Mitarbeitenden angeboten werden und ab welchem Zeitpunkt der Betriebszugehörigkeit ein Anspruch darauf besteht.\n\nSind __4__ noch weitere relevante Zusatzleistungen vorgesehen, wie beispielsweise Zuschüsse zur Kinderbetreuung?\n\nIch wäre Ihnen sehr dankbar, wenn Sie mir hierzu kurz Auskunft geben könnten, __5__ ich mir ein vollständiges Bild machen kann. Selbstverständlich stehe ich für ein weiteres Gespräch __6__ zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. Mai",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 25. Mai für die ausgeschriebene Stelle als Marketingmanager, __1__ Eingang Sie mir dankenswerterweise bereits bestätigt haben.\n\n__2__ nun einige Wochen vergangen sind, ohne dass ich eine weitere Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __3__ sehr an dieser Position interessiert, da die beschriebenen Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen genau meinen Vorstellungen entsprechen.\n\nKönnten Sie mir __4__ mitteilen, bis wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere berufliche Planung sehr hilfreich.\n\nIch habe Verständnis dafür, dass ein sorgfältiger Auswahlprozess Zeit __5__, würde mich aber __6__ über eine kurze Information zum weiteren Verlauf freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nAnna Petrova",
     "options": [
         {
             "id": "a",
-            "content": "AUCH"
+            "content": "bereits"
         },
         {
             "id": "b",
-            "content": "BEZÜGLICH"
+            "content": "Da"
         },
         {
             "id": "c",
-            "content": "DA"
+            "content": "dennoch"
         },
         {
             "id": "d",
-            "content": "DAMIT"
+            "content": "deren"
         },
         {
             "id": "e",
-            "content": "EVENTUELL"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "FALLS"
+            "content": "dessen"
         },
         {
             "id": "g",
-            "content": "GERNE"
+            "content": "eventuell"
         },
         {
             "id": "h",
-            "content": "INWIEWEIT"
+            "content": "nach wie vor"
         },
         {
             "id": "i",
-            "content": "OBWOHL"
+            "content": "Obwohl"
         },
         {
             "id": "j",
-            "content": "ÜBER"
+            "content": "benötigt"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "c"
         }
     ]
 }

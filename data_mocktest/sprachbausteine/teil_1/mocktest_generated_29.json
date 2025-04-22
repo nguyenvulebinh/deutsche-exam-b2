@@ -1,72 +1,72 @@
 {
-    "thema": "Email responding to interview invitation, asking clarification on travel costs.",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch – [Your Name] – Kennziffer [Number]\n\nSehr geehrte Frau [Musterfrau],\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als [Position] und Ihr damit verbundenes Interesse an meiner Bewerbung. Ich habe mich sehr __1__ gefreut.\n\nDer von Ihnen vorgeschlagene Termin am [Datum] um [Uhrzeit] passt mir __2__ sehr gut und ich bin nach wie vor sehr an der Stelle interessiert.\n\n__3__ ich Ihnen den Termin jedoch final bestätigen kann, hätte ich eine kurze organisatorische Frage __4__ der Anreisekosten. Da ich von [weiter entfernte Stadt] anreisen würde, wollte ich mich erkundigen, __5__ Ihr Unternehmen üblicherweise die Reisekosten für Bewerbungsgespräche übernimmt oder anteilig erstattet.\n\nDiese Information wäre für meine Planung hilfreich. __6__ diese Frage geklärt ist, gebe ich Ihnen umgehend Bescheid bezüglich meiner Teilnahme am genannten Termin.\n\nVielen Dank im Voraus für Ihre kurze Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 05. Juni",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend __1__ meine Bewerbung vom 05. Juni auf die Position als Projektmanager möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ ich bisher keine Rückmeldung erhalten habe und die in der Ausschreibung genannte Frist für eine erste Rückmeldung bereits verstrichen ist, wollte ich nachfragen, ob meine Unterlagen vollständig eingegangen sind und bearbeitet werden.\n\nIch bin __3__ sehr an dieser Position und einer Tätigkeit in Ihrem Unternehmen interessiert, da die Aufgabenbeschreibung und die Werte Ihres Unternehmens meinen Vorstellungen und Qualifikationen stark entsprechen.\n\nKönnten Sie mir __4__ mitteilen, __5__ ungefähr mit einer Entscheidung oder zumindest einer Information über die nächsten Schritte im Bewerbungsprozess zu rechnen ist? Dieses Wissen wäre für meine weitere Planung hilfreich.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich jederzeit zur Verfügung.\n\nVielen Dank __6__ Ihre Bemühungen im Voraus.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Bevor"
+            "content": "An"
         },
         {
             "id": "b",
-            "content": "bezüglich"
+            "content": "Ob"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "Da"
         },
         {
             "id": "d",
-            "content": "dass"
+            "content": "weiterhin"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "eventuell"
         },
         {
             "id": "f",
-            "content": "grundsätzlich"
+            "content": "Wegen"
         },
         {
             "id": "g",
-            "content": "Nachdem"
+            "content": "auf"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "Obwohl"
         },
         {
             "id": "i",
-            "content": "Sobald"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "wegen"
+            "content": "für"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "j"
         }
     ]
 }

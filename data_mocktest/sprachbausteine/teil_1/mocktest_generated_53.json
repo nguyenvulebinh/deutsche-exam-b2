@@ -1,52 +1,52 @@
 {
-    "thema": "Email confirming an interview appointment and asking a logistical question",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am 15.10., Kennziffer IT-Dev-03\n\nSehr geehrte Frau Wagner,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Position als Softwareentwickler, __1__ ich mich sehr gefreut habe.\n\nGerne bestätige ich den von Ihnen vorgeschlagenen Termin am 15. Oktober um 10:00 Uhr. Ich freue mich __2__, Sie persönlich kennenzulernen.\n\nIch habe noch eine kurze Frage __3__ der Anreise: Ist es möglich, direkt am Firmengebäude zu parken, oder sollte ich __4__ öffentliche Verkehrsmittel nutzen?\n\n__5__ Sie vorab noch weitere Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch freue mich auf unser Gespräch und verbleibe __6__ dahin\n\nmit freundlichen Grüßen\n\nJonas Schmidt",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15.03.",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 15. März dieses Jahres. __1__ ich bisher noch keine detaillierte Rückmeldung bezüglich des weiteren Verlaufs erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position ist __2__ sehr groß, da die in der Ausschreibung beschriebenen Aufgaben und die innovative Ausrichtung Ihres Unternehmens mich nach wie vor besonders ansprechen.\n\nIch verstehe selbstverständlich, dass ein sorgfältiger Auswahlprozess Zeit __3__. __4__ wäre eine kurze Information über den ungefähren Zeitrahmen oder die nächsten Schritte für meine weitere Planung sehr hilfreich.\n\nKönnten Sie mir __5__ mitteilen, wann mit einer Entscheidung zu rechnen ist? Ich wäre Ihnen ebenso dankbar, __6__ Sie mir einen kurzen Zwischenstand geben könnten.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bezüglich"
+            "content": "obwohl"
         },
         {
             "id": "b",
-            "content": "bis"
+            "content": "eventuell"
         },
         {
             "id": "c",
-            "content": "darauf"
+            "content": "weiterhin"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "trotzdem"
         },
         {
             "id": "e",
-            "content": "eher"
+            "content": "da"
         },
         {
             "id": "f",
-            "content": "Falls"
+            "content": "benötigt"
         },
         {
             "id": "g",
-            "content": "lieber"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "wegen"
+            "content": "bietet"
         },
         {
             "id": "i",
-            "content": "Wenn"
+            "content": "wenn"
         },
         {
             "id": "j",
-            "content": "worüber"
+            "content": "deshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "e"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "a"
-        },
-        {
-            "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
-            "blank": "6",
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
             "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
         }
     ]
 }

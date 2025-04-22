@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Zusendung der angefragten Projektunterlagen – Entschuldigung für die Verzögerung",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf unser Telefongespräch von letzter Woche, in dem Sie um die Übersendung der detaillierten Kostenaufstellung für das Projekt „Optimierung 2024“ gebeten haben.\n\nIch möchte mich aufrichtig dafür entschuldigen, dass Sie die Unterlagen __1__ noch nicht erhalten haben. __2__ einer unerwarteten Systemwartung in unserer Buchhaltung am Montag war es mir __3__ nicht möglich, die aktuellsten Zahlen zu exportieren.\n\nDas System läuft __4__ wieder stabil und ich werde Ihnen die vollständige Kostenaufstellung __5__ morgen Vormittag per E-Mail zukommen lassen. Ich hoffe sehr, diese kurze Verzögerung bereitet Ihnen keine größeren Schwierigkeiten.\n\n__6__ Sie in der Zwischenzeit Fragen haben, erreichen Sie mich gerne telefonisch.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] - Kennziffer [Reference Number]",
+    "textinhalt": "Sehr geehrte Frau Musterfrau,\n\nich beziehe mich auf meine Bewerbung vom [Datum] für die Stelle als [Job Title] mit der Kennziffer [Kennziffer]. Den Eingang meiner Unterlagen hatten Sie freundlicherweise am [Datum] bestätigt.\n\n__1__ sind nun einige Wochen vergangen, und ich möchte mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position __2__ für mich nach wie vor von großem Interesse, insbesondere da die beschriebenen Aufgabenbereiche sehr gut __3__ meinen Qualifikationen und bisherigen Erfahrungen passen.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann ungefähr mit einer Entscheidung __5__ ist?\n\nSollten Sie __6__ weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Aufgrund"
+            "content": "bleibt"
         },
         {
             "id": "b",
-            "content": "bisher"
+            "content": "gegebenenfalls"
         },
         {
             "id": "c",
-            "content": "Dennoch"
+            "content": "ist"
         },
         {
             "id": "d",
-            "content": "Falls"
+            "content": "mit"
         },
         {
             "id": "e",
-            "content": "inzwischen"
-        },
-        {
-            "id": "f",
-            "content": "leider"
-        },
-        {
-            "id": "g",
             "content": "Seitdem"
         },
         {
+            "id": "f",
+            "content": "ebenfalls"
+        },
+        {
+            "id": "g",
+            "content": "vielleicht"
+        },
+        {
             "id": "h",
-            "content": "spätestens"
+            "content": "Während"
         },
         {
             "id": "i",
-            "content": "Wegen"
+            "content": "zu"
         },
         {
             "id": "j",
-            "content": "Wenn"
+            "content": "zu rechnen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "b"
         }
     ]
 }

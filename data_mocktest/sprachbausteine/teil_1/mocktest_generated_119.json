@@ -1,60 +1,60 @@
 {
-    "thema": "Email requesting to reschedule an interview due to a prior commitment.",
-    "textinhalt": "Betreff: Ihre Einladung zum Vorstellungsgespräch am TT.MM.JJJJ\n\nSehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15.03. um 10:00 Uhr und für das freundliche Telefonat heute Morgen. Ich habe mich sehr __1__ gefreut.\n\nIch würde den Termin sehr gerne wahrnehmen. Leider habe ich an diesem Tag bereits einen wichtigen, unaufschiebbaren Arzttermin, den ich nicht verschieben kann. __2__ möchte ich Sie höflich bitten, __3__ wir einen alternativen Termin finden könnten.\n\nWäre es __4__ möglich, das Gespräch am 16.03. oder 17.03. zu führen? __5__ bin ich in dieser Woche nachmittags generell flexibel. Bitte teilen Sie mir mit, welche Termine Ihnen passen würden.\n\nIch freue mich auf Ihre positive Rückmeldung und __6__, Sie bald persönlich kennenzulernen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich schreibe Ihnen __1__ meiner Bewerbung als Marketingassistent vom 15. Mai. __2__ seit meiner Einreichung nun einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __3__ genau meinen beruflichen Vorstellungen und Erfahrungen. Besonders die Möglichkeit, im Bereich Social Media Marketing mitzuwirken, reizt mich sehr.\n\nIch wäre Ihnen dankbar, wenn Sie mir mitteilen könnten, __4__ ungefähr mit einer Entscheidung zu rechnen ist. Eine zeitnahe Information wäre für meine weitere Planung sehr __5__.\n\nSelbstverständlich stehe ich Ihnen für Rückfragen oder ein persönliches Gespräch __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "ansonsten"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "außerdem"
+            "content": "hilfreich"
         },
         {
             "id": "c",
-            "content": "darauf"
+            "content": "wegen"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "Da"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "jederzeit"
         },
         {
             "id": "f",
-            "content": "deshalb"
+            "content": "bezüglich"
         },
         {
             "id": "g",
-            "content": "beispielsweise"
+            "content": "wann"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "bereits"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "ob"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "nach wie vor"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
             "option_id": "f"
         },
         {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "j"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "e"
         }
     ]
 }

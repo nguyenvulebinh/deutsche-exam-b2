@@ -1,68 +1,68 @@
 {
-    "thema": "Betreff: Ihre Einladung zum Vorstellungsgespräch als Projektmanager am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre E-Mail und die Einladung zum Vorstellungsgespräch für die Position als Projektmanager am 15. Mai um 10:00 Uhr. Ich habe mich __1__ sehr gefreut und möchte den Termin grundsätzlich gerne wahrnehmen.\n\nAllerdings habe ich genau an diesem Vormittag einen wichtigen Arzttermin, __2__ ich leider nicht verschieben kann. Dieser Termin stand schon seit Längerem fest.\n\nWäre es Ihnen __3__ möglich, das Gespräch vielleicht eine Stunde später, also um 11:00 Uhr, oder am Nachmittag zu führen? Alternativ stehe ich Ihnen am Folgetag, dem 16. Mai, __4__ zur Verfügung.\n\nIch bin __5__ sehr an der Position interessiert und davon überzeugt, dass meine Qualifikationen gut zu den Anforderungen passen. \n\nIch bitte um Ihr Verständnis und wäre Ihnen dankbar für eine kurze Rückmeldung, __6__ eine der vorgeschlagenen Alternativen für Sie passt.\n\nVielen Dank im Voraus für Ihre Flexibilität.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz vom 20. April",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich nehme __1__ auf meine Bewerbung vom 20. April für die Stelle als Marketingassistenz sowie auf Ihre freundliche Eingangsbestätigung.\n\n__2__ nun einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist durchaus bewusst, dass eine sorgfältige Prüfung Zeit __3__ nimmt.\n\n__4__ würde ich mich über eine kurze Information freuen, ob Sie bereits absehen können, wann etwa mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist.\n\nMein Interesse an dieser Position und Ihrem Unternehmen ist __5__ sehr groß, da die beschriebenen Aufgaben und das Arbeitsumfeld meinen beruflichen Zielen und Qualifikationen außerordentlich gut entsprechen.\n\nFür eventuelle Rückfragen oder ein persönliches Gespräch stehe ich Ihnen selbstverständlich __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "darüber"
+            "content": "Obwohl"
         },
         {
             "id": "b",
-            "content": "dass"
+            "content": "weiterhin"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "Bezug"
         },
         {
             "id": "d",
-            "content": "dem"
+            "content": "gerne"
         },
         {
             "id": "e",
-            "content": "den"
+            "content": "in Anspruch"
         },
         {
             "id": "f",
-            "content": "deshalb"
+            "content": "Deshalb"
         },
         {
             "id": "g",
-            "content": "jederzeit"
+            "content": "Da"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "jederzeit"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "Trotzdem"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "Rücksicht"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
             "option_id": "g"
         },
         {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "6",
