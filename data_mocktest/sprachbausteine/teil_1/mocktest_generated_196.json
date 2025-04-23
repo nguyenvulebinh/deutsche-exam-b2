@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung als Marketing Manager vom 05. April und Ihr freundliches Bestätigungsschreiben vom 07. April, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen vergangen sind, wollte ich nachfragen, ob Sie mir eventuell schon eine ungefähre Zeitangabe geben können, wann mit einer Entscheidung zu rechnen ist.\n\nIch bin __2__ sehr an der ausgeschriebenen Position interessiert, da die Aufgabenbeschreibung und die Entwicklungsmöglichkeiten in Ihrem Unternehmen genau meinen beruflichen Zielen entsprechen.\n\nIch verstehe __3__, dass die sorgfältige Prüfung aller Bewerbungen Zeit benötigt. __4__ eine kurze Information über den weiteren Verlauf wäre für meine persönliche Planung sehr hilfreich.\n\nSollten Sie __5__ noch weitere Unterlagen oder Informationen von mir benötigen, stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank __6__ Ihre Mühe und eine baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zum Stand des Bewerbungsverfahrens",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Nachname],\n\nich hoffe, diese E-Mail findet Sie gut. Ich möchte mich nochmals herzlich für das angenehme und informative Vorstellungsgespräch am [Datum] für die Position als [Positionsname] bedanken.\n\n__1__ sind nun einige Tage vergangen, und mein positives Bild von der Aufgabe und Ihrem Unternehmen hat sich weiter verfestigt. Ich bin nach wie vor sehr an der Stelle interessiert und überzeugt, dass meine Qualifikationen gut passen würden. __2__ möchte ich besonders die von Ihnen beschriebenen Entwicklungsmöglichkeiten hervorheben, die mich sehr ansprechen.\n\nIch schreibe Ihnen heute, um mich höflich nach dem aktuellen Stand des Auswahlverfahrens zu erkundigen. Könnten Sie mir __3__ des weiteren Zeitplans eine kurze Auskunft geben? Diese Information wäre für meine weitere Planung sehr hilfreich, __4__ ich auch ein anderes Angebot prüfe, aber Ihre Stelle klar bevorzuge.\n\nIch würde mich freuen, __5__ bald von Ihnen zu hören. __6__ Sie weitere Unterlagen oder Informationen von mir benötigen, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "bezüglich"
         },
         {
             "id": "b",
-            "content": "für"
+            "content": "da"
         },
         {
             "id": "c",
-            "content": "bereits"
+            "content": "dabei"
         },
         {
             "id": "d",
-            "content": "weiterhin"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "selbstverständlich"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "wegen"
-        },
-        {
-            "id": "g",
-            "content": "Dennoch"
-        },
-        {
-            "id": "h",
             "content": "inzwischen"
         },
         {
+            "id": "g",
+            "content": "möglichst"
+        },
+        {
+            "id": "h",
+            "content": "obwohl"
+        },
+        {
             "id": "i",
-            "content": "wirklich"
+            "content": "seitdem"
         },
         {
             "id": "j",
-            "content": "eventuell"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "e"
         }
     ]
 }

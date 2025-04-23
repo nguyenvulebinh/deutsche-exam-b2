@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-123) vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich __1__ meine Bewerbung vom 25. April für die Stelle als Projektmanager mit der Kennziffer PM-123.\n\nDa nun bereits einige Zeit vergangen ist, __2__ ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mein Interesse an dieser verantwortungsvollen Position in Ihrem Unternehmen ist __3__ groß. Ich bin nach wie vor davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen __4__.\n\n__5__ Sie mir eventuell mitteilen könnten, wann ungefähr mit einer Entscheidung zu rechnen ist, wäre ich Ihnen sehr dankbar. Selbstverständlich stehe ich Ihnen __6__ für Rückfragen oder ein persönliches Gespräch zur Verfügung.\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Erinnerung: Ausstehende Informationen Projekt Alpha",
+    "textinhalt": "Sehr geehrter Herr Meier,\n\nich schreibe Ihnen bezüglich des Projekts Alpha. Wir hatten vereinbart, dass Sie uns die benötigten Marktdaten bis Ende letzter Woche zukommen lassen.\n\nLeider haben wir diese Informationen __1__ noch nicht erhalten. Dies verzögert unsere weitere Planung erheblich, __2__ die Analyse dieser Daten die Grundlage für die nächsten Projektschritte bildet.\n\nKönnten Sie uns bitte mitteilen, __3__ es Schwierigkeiten bei der Zusammenstellung der Daten gibt oder wann wir mit der Zusendung rechnen können?\n\nBitte lassen Sie uns wissen, falls Unterstützung unsererseits benötigt wird. Wir können __4__ gerne einen kurzen Telefontermin vereinbaren, um offene Fragen zu klären.\n\nWir wären Ihnen dankbar, wenn Sie uns die Unterlagen __5__ zusenden könnten, idealerweise bis spätestens übermorgen, den 15. März.\n\nWir hoffen __6__ eine baldige positive Rückmeldung und verbleiben\n\nmit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
-        },
-        {
-            "id": "b",
-            "content": "jederzeit"
-        },
-        {
-            "id": "c",
             "content": "auf"
         },
         {
+            "id": "b",
+            "content": "bald"
+        },
+        {
+            "id": "c",
+            "content": "bislang"
+        },
+        {
             "id": "d",
-            "content": "bereits"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "passen"
+            "content": "gegebenenfalls"
         },
         {
             "id": "f",
-            "content": "Falls"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "möchte"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "nach wie vor"
+            "content": "umgehend"
         },
         {
             "id": "i",
-            "content": "sollte"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "über"
+            "content": "zumal"
         }
     ],
     "loesung": [
@@ -50,11 +50,11 @@
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "g"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "a"
         }
     ]
 }

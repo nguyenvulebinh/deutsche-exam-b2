@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Becker,\n\nich schreibe Ihnen __1__ meiner Bewerbung vom 25. April für die Position als Marketingmanager.\n\nDa seit meiner Bewerbung nun einige Wochen vergangen sind, möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Stelle entspricht nach wie vor genau meinen Vorstellungen und Qualifikationen, __3__ ich großes Interesse an einer Mitarbeit in Ihrem Unternehmen habe.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, __4__ wann ungefähr mit einer Entscheidung zu rechnen ist.\n\n__5__ Sie unter großem Druck stehen, den richtigen Kandidaten zu finden, habe ich natürlich Verständnis für die benötigte Zeit.\n\nIch freue mich __6__ auf eine baldige Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Antrag auf Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf mein früheres Arbeitsverhältnis als Marketingassistent in Ihrer Abteilung, welches am 30. April dieses Jahres endete. __1__ ich das Unternehmen verlassen habe, benötige ich nun ein qualifiziertes Arbeitszeugnis für meine weiteren beruflichen Schritte.\n\nIch möchte Sie __2__ höflich um die zeitnahe Ausstellung dieses wichtigen Dokuments bitten. Gemäß §109 der Gewerbeordnung besteht ein rechtlicher Anspruch auf ein Zeugnis, und ich benötige __3__ das „qualifizierte“ Arbeitszeugnis, das auch Angaben zu Leistung und Sozialverhalten enthält.\n\nIch wäre Ihnen sehr dankbar, wenn Sie mir das Zeugnis __4__ zukommen lassen könnten, da einige Bewerbungsfristen bevorstehen. Meine aktuelle Postanschrift finden Sie am Ende dieser E-Mail.\n\n__5__ eine persönliche Abholung für Sie einfacher sein sollte, lassen Sie es mich bitte wissen. Teilen Sie mir __6__ auch gerne mit, ob Sie von meiner Seite noch Informationen oder Unterlagen benötigen.\n\nVielen Dank für Ihre Bemühungen im Voraus.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nMusterstraße 1, 12345 Musterstadt",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "bald"
         },
         {
             "id": "b",
-            "content": "nach"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "darüber"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "wegen"
+            "content": "inzwischen"
         },
         {
             "id": "e",
-            "content": "schon"
+            "content": "nämlich"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "seitdem"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "selbstverständlich"
         },
         {
             "id": "h",
-            "content": "weshalb"
+            "content": "sogar"
         },
         {
             "id": "i",
-            "content": "daran"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "bezüglich"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "g"
         }
     ]
 }

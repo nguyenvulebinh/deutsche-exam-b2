@@ -1,26 +1,26 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] - Kennziffer [Reference Number]",
-    "textinhalt": "Sehr geehrte Frau Musterfrau,\n\nich beziehe mich auf meine Bewerbung vom [Datum] für die Stelle als [Job Title] mit der Kennziffer [Kennziffer]. Den Eingang meiner Unterlagen hatten Sie freundlicherweise am [Datum] bestätigt.\n\n__1__ sind nun einige Wochen vergangen, und ich möchte mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position __2__ für mich nach wie vor von großem Interesse, insbesondere da die beschriebenen Aufgabenbereiche sehr gut __3__ meinen Qualifikationen und bisherigen Erfahrungen passen.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann ungefähr mit einer Entscheidung __5__ ist?\n\nSollten Sie __6__ weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\n__1__ möchte ich Sie um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten. Mein Arbeitsverhältnis in der Abteilung Kundenservice endet bekanntlich zum 30. September dieses Jahres.\n\nIch benötige ein qualifiziertes Zeugnis, __2__ dieses eine detaillierte Beurteilung meiner Leistungen und meines Sozialverhaltens enthält, was für meine weiteren Bewerbungen von großer Bedeutung ist.\n\n__3__ wäre ich Ihnen dankbar, wenn Sie mir das Zeugnis möglichst bis Mitte September zukommen lassen könnten. Ich benötige es relativ zeitnah __4__ einiger anstehender Bewerbungsfristen bei potenziellen neuen Arbeitgebern.\n\nKönnten Sie mir bitte __5__ kurz bestätigen, ob dieser Zeitrahmen für Sie realisierbar ist? Sollten Ihrerseits noch Rückfragen bestehen oder Informationen fehlen, reiche ich diese selbstverständlich gerne __6__ nach.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
     "options": [
         {
             "id": "a",
-            "content": "bleibt"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "gegebenenfalls"
+            "content": "aufgrund"
         },
         {
             "id": "c",
-            "content": "ist"
+            "content": "außerdem"
         },
         {
             "id": "d",
-            "content": "mit"
+            "content": "da"
         },
         {
             "id": "e",
-            "content": "Seitdem"
+            "content": "damit"
         },
         {
             "id": "f",
@@ -28,45 +28,45 @@
         },
         {
             "id": "g",
-            "content": "vielleicht"
+            "content": "hiermit"
         },
         {
             "id": "h",
-            "content": "Während"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "zu"
+            "content": "umgehend"
         },
         {
             "id": "j",
-            "content": "zu rechnen"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
             "option_id": "g"
         },
         {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "i"
         }
     ]
 }

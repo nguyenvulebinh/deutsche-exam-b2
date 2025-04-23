@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent/in vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent/in, die ich Ihnen am 25. April zugesandt habe, und für deren Empfangsbestätigung ich danke.\n\nLeider habe ich bisher keine weitere Rückmeldung erhalten. __1__ möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin nach wie vor sehr an dieser Position interessiert, __2__ die Aufgabenbeschreibung und die Entwicklungsmöglichkeiten in Ihrem Unternehmen genau meinen Vorstellungen entsprechen. Ich bin überzeugt, dass ich mit meiner Erfahrung im Online-Marketing einen wertvollen Beitrag leisten könnte.\n\nIch verstehe, dass der Auswahlprozess Zeit benötigt. Wäre es __3__ möglich, mir einen ungefähren Zeitrahmen zu nennen, __4__ mit einer Entscheidung gerechnet werden kann?\n\nSollten Sie __5__ weitere Informationen oder Unterlagen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich __6__ eine baldige Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nAnna Müller",
+    "thema": "Bestätigung Details Kundenbesuch am 14. Mai",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nwie Sie wissen, erwarten wir am kommenden Dienstag, den 14. Mai, wichtige Kunden zu einer ganztägigen Präsentation in unserem Hause. __1__ möchte ich mich kurz bei Ihnen erkundigen, ob alle Vorbereitungen planmäßig verlaufen.\n\nKönnen Sie bitte bestätigen, dass der große Konferenzraum (Raum 3.05) für den gesamten Tag für uns gebucht ist? __2__ bitte ich um Bestätigung, dass das Catering gemäß unserer Absprache (Kaffee/Tee am Morgen, Mittagessen, Nachmittagssnack) bestellt wurde.\n\nBezüglich der technischen Ausstattung: Der Beamer und das Flipchart sollten bereits im Raum sein. __3__ benötigen wir noch ein zusätzliches Mikrofon für Fragen aus dem Publikum – könnten Sie das bitte prüfen und organisieren?\n\nEine letzte Frage betrifft die Parkmöglichkeiten für unsere Gäste. Können Sie mir __4__ mitteilen, ob für die drei angemeldeten Fahrzeuge Besucherparkplätze reserviert werden können und wie die Anmeldung an der Rezeption abläuft?\n\nIch wäre Ihnen dankbar, wenn Sie mir diese Punkte __5__ bis Montagnachmittag bestätigen könnten. __6__ müsste ich alternative Regelungen treffen, was ich gerne vermeiden würde.\n\nVielen Dank für Ihre Unterstützung!\n\nMit freundlichen Grüßen\n\nMarkus Weber",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "wann"
+            "content": "andernfalls"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "daher"
         },
         {
             "id": "d",
-            "content": "auf"
+            "content": "daraufhin"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "ferner"
         },
         {
             "id": "f",
-            "content": "Über"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "noch"
+            "content": "hierzu"
         },
         {
             "id": "h",
-            "content": "Wenn"
+            "content": "somit"
         },
         {
             "id": "i",
-            "content": "Deshalb"
+            "content": "spätestens"
         },
         {
             "id": "j",
-            "content": "Trotzdem"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
-        },
-        {
-            "blank": "2",
             "option_id": "c"
         },
         {
-            "blank": "3",
+            "blank": "2",
             "option_id": "e"
         },
         {
-            "blank": "4",
-            "option_id": "b"
+            "blank": "3",
+            "option_id": "f"
         },
         {
-            "blank": "5",
+            "blank": "4",
             "option_id": "g"
         },
         {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "b"
         }
     ]
 }

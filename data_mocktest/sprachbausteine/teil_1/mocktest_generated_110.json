@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 25. April zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Stelle entspricht genau meinen Qualifikationen und beruflichen Zielen, __2__ bin ich nach wie vor sehr an einer Mitarbeit in Ihrem Unternehmen interessiert.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, wann voraussichtlich mit einer Entscheidung zu rechnen ist? __4__ Sie zusätzliche Informationen oder Referenzen benötigen, stehe ich Ihnen jederzeit gerne zur Verfügung.\n\nBesonders meine Erfahrungen im Online-Marketing __5__ ich gewinnbringend für Ihr Team einsetzen. Ich wäre Ihnen dankbar für eine baldige Rückmeldung und freue mich __6__, von Ihnen zu hören.\n\nMit freundlichen Grüßen,\n\nMax Mustermann",
+    "thema": "Anhaltende Probleme mit der Projektmanagement-Software",
+    "textinhalt": "Sehr geehrte Damen und Herren des IT-Supports,\n\nwir wenden uns bezüglich eines anhaltenden Problems mit der Projektmanagement-Software „ProjektPilot“ (Ticket #789123) an Sie. Die Software wurde kürzlich aktualisiert, __1__ treten seitdem vermehrt Abstürze auf, insbesondere beim Speichern von Projektplänen.\n\nMehrere Kollegen haben bereits Datenverluste __2__ dieser Abstürze gemeldet. Dies führt zu erheblichem Zeitverlust und gefährdet die Einhaltung unserer Projektfristen, __3__ eine zuverlässige Funktion der Software für unsere tägliche Arbeit essenziell ist.\n\nWir haben das Problem bereits vor zwei Wochen gemeldet, und obwohl temporäre Workarounds vorgeschlagen wurden, bieten diese keine dauerhafte Lösung. Wir bitten Sie __4__ um eine gründliche Untersuchung der Ursache. Es ist notwendig, dass die Software stabil läuft.\n\nWir müssen Sie __5__ auf die Dringlichkeit hinweisen, da wichtige Meilensteine bevorstehen. Der aktuelle Zustand ist __6__ nicht länger tragbar für einen effizienten Arbeitsablauf.\n\nWir erwarten Ihre Rückmeldung bezüglich der nächsten Schritte zur Fehlerbehebung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "darauf"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "darüber"
+            "content": "obwohl"
         },
         {
             "id": "c",
-            "content": "deshalb"
+            "content": "erneut"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "folglich"
         },
         {
             "id": "e",
-            "content": "Falls"
+            "content": "hierfür"
         },
         {
             "id": "f",
-            "content": "inzwischen"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "könnte"
+            "content": "infolge"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "wegen"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "wieder"
         },
         {
             "id": "j",
-            "content": "Wenn"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "d"
         }
     ]
 }

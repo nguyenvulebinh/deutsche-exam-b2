@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 25. April zugesandt habe.\n\nDa nun einige Zeit vergangen ist, __1__ ich bisher keine Rückmeldung erhalten habe, möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position mit ihren anspruchsvollen Aufgaben im internationalen Projektmanagement entspricht nach wie vor genau meinen beruflichen Zielen und Qualifikationen, __3__ mein Interesse an einer Mitarbeit in Ihrem Unternehmen unverändert groß ist.\n\nKönnten Sie mir __4__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann ungefähr mit einer Entscheidung gerechnet werden kann?\n\nSollten Sie __5__ weitere Informationen oder Unterlagen von mir benötigen, um meine Bewerbung besser bewerten zu können, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nIch bedanke mich für Ihre Bemühungen und freue mich __6__ eine baldige positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zur Unterstützung bei Weiterbildung",
+    "textinhalt": "Sehr geehrte Frau Klein,\n\nich schreibe Ihnen bezüglich der Möglichkeiten zur beruflichen Weiterbildung in unserem Unternehmen. Ich bin sehr an einer Vertiefung meiner Kenntnisse im Bereich Projektmanagement interessiert und __1__ bitte ich um Informationen zu den internen Richtlinien und dem Antragsverfahren für Weiterbildungsmaßnahmen.\n\nIch habe bereits einen vielversprechenden Kurs bei der IHK gefunden, der im nächsten Quartal beginnt. Könnten Sie mir bitte mitteilen, __2__ welcher Frist ein Antrag auf Kostenübernahme oder Freistellung eingereicht werden muss? Mich würde auch interessieren, __3__ die geplante Weiterbildung thematisch zur aktuellen Tätigkeit passt, ob dann eine finanzielle Unterstützung generell gewährt wird.\n\n__4__ wäre es für mich relevant zu wissen, __5__ das Unternehmen Mitarbeiter bei solchen Qualifizierungen konkret unterstützt – beispielsweise durch vollständige oder teilweise Übernahme der Kursgebühren oder durch bezahlte Freistellung.\n\nIch wäre Ihnen dankbar, wenn Sie mir entsprechende Unterlagen oder einen Link zu den relevanten Informationen im Intranet zukommen lassen könnten. Ich freue mich __6__ Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "über"
-        },
-        {
-            "id": "b",
-            "content": "noch"
-        },
-        {
-            "id": "c",
-            "content": "deshalb"
-        },
-        {
-            "id": "d",
-            "content": "trotzdem"
-        },
-        {
-            "id": "e",
-            "content": "weil"
-        },
-        {
-            "id": "f",
             "content": "auf"
         },
         {
+            "id": "b",
+            "content": "außerhalb"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "dennoch"
+        },
+        {
+            "id": "e",
+            "content": "falls"
+        },
+        {
+            "id": "f",
+            "content": "hiermit"
+        },
+        {
             "id": "g",
-            "content": "bereits"
+            "content": "innerhalb"
         },
         {
             "id": "h",
-            "content": "weshalb"
+            "content": "sofern"
         },
         {
             "id": "i",
-            "content": "nach"
+            "content": "wodurch"
         },
         {
             "id": "j",
-            "content": "eventuell"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "g"
         },
         {
             "blank": "3",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "a"
         }
     ]
 }

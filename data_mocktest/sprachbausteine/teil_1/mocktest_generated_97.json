@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 10. Juni 2024",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung als Marketingassistent vom 10. Juni 2024. __1__ sind nun einige Wochen vergangen, seitdem die Bewerbungsfrist abgelaufen ist, daher wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position ist nach wie vor sehr groß, __2__ die beschriebenen Aufgabenbereiche und die Ausrichtung Ihres Unternehmens meinen beruflichen Erfahrungen und Zielen sehr gut entsprechen.\n\nFür ein persönliches Gespräch, um meine Eignung weiter zu erläutern, stehe ich Ihnen __3__ zur Verfügung.\n\nKönnten Sie mir __4__ mitteilen, __5__ ungefähr mit einer Rückmeldung oder den nächsten Schritten im Prozess zu rechnen ist?\n\nSollten Sie __6__ meinen Unterlagen noch Fragen haben, erreichen Sie mich gerne telefonisch oder per E-Mail.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nPeter Schmidt",
+    "thema": "Anfrage: Feedback zum Praktikum",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich hoffe, diese E-Mail findet Sie gut. Mein Praktikum in Ihrer Abteilung Marketing ist nun seit zwei Wochen abgeschlossen, und ich möchte mich nochmals herzlich für die wertvollen Erfahrungen bedanken.\n\nDie Zeit bei Ihnen war sehr lehrreich, __1__ möchte ich Sie um ein Feedback zu meiner Leistung und meiner Entwicklung während des Praktikums bitten. Dieses Feedback wäre für meine berufliche Orientierung und zukünftige Bewerbungen äußerst hilfreich.\n\n__2__ ich mein Praktikum bei Ihnen beendet habe, habe ich bereits begonnen, meine Bewerbungsunterlagen für eine Junior-Position zu überarbeiten. Ein qualifiziertes Feedback von Ihnen wäre __3__ meiner Eignung für solche Positionen besonders wertvoll.\n\nIch wäre Ihnen dankbar, wenn wir uns kurz austauschen könnten. Ein persönliches Gespräch wäre ideal. __4__ wäre ich auch für ein kurzes schriftliches Feedback sehr dankbar, falls Ihre Zeit knapp ist. Bitte lassen Sie mich wissen, was Ihnen am besten passt, __5__ ich mich entsprechend darauf einstellen kann.\n\nFür Rückfragen stehe ich Ihnen __6__ zur Verfügung.\n\nVielen Dank im Voraus für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "abgesehen"
         },
         {
             "id": "b",
-            "content": "über"
+            "content": "alternativ"
         },
         {
             "id": "c",
-            "content": "obwohl"
+            "content": "dennoch"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "jederzeit"
+            "content": "folglich"
         },
         {
             "id": "f",
-            "content": "inzwischen"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "wann"
+            "content": "jederzeit"
         },
         {
             "id": "h",
-            "content": "damit"
+            "content": "nachdem"
         },
         {
             "id": "i",
-            "content": "zu"
+            "content": "sodass"
         },
         {
             "id": "j",
-            "content": "bereits"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "e"
-        },
-        {
-            "blank": "4",
             "option_id": "d"
         },
         {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "g"
         }
     ]
 }

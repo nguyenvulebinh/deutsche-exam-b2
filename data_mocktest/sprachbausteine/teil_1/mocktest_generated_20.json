@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Ref: MM-2024-05)",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die ausgeschriebene Stelle als Marketing Manager (Ref: MM-2024-05).\n\nMir ist bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungen Zeit __1__ nimmt. Da nun jedoch einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position und Ihrem Unternehmen ist nach wie vor sehr groß, __2__ mich die innovativen Projekte im Bereich nachhaltiges Marketing besonders ansprechen. __3__ habe ich kürzlich einen Online-Kurs zu SEO-Optimierung erfolgreich abgeschlossen, was für die ausgeschriebene Stelle sicher von Vorteil ist.\n\nKönnten Sie mir __4__ mitteilen, ob bereits absehbar ist, wann mit einer ersten Rückmeldung oder einer Einladung zu einem Gespräch zu rechnen ist? Selbstverständlich stehe ich Ihnen für Rückfragen __5__ zur Verfügung.\n\nIch würde mich sehr __6__ eine baldige Nachricht von Ihnen freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Klärungsbedarf bei aktueller Rechnung",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf Ihre aktuelle Rechnung, die wir kürzlich erhalten haben. Wir haben die Rechnung geprüft, __1__ müssen wir feststellen, dass die aufgeführten Beträge nicht vollständig mit unseren Erwartungen übereinstimmen.\n\n__2__ unseres Rahmenvertrags hatten wir abweichende Konditionen für die wiederkehrenden Serviceleistungen vereinbart. Die aktuelle Rechnung scheint diese Anpassungen nicht zu berücksichtigen. Wir bitten Sie daher um eine Überprüfung der Berechnungsgrundlage.\n\n__3__ sich herausstellt, dass ein Fehler vorliegt, bitten wir um eine zeitnahe Korrektur und Zusendung einer neuen Rechnung. Dies ist für unsere interne Buchhaltung wichtig, __4__ wir die Zahlung korrekt verbuchen und fristgerecht anweisen können.\n\nBitte teilen Sie uns __5__ mit, wie Sie weiter verfahren werden. __6__ möchten wir anfragen, ob die vereinbarten Konditionen zukünftig automatisch korrekt angewendet werden können, um solche Unstimmigkeiten zu vermeiden.\n\nVielen Dank für Ihre Kooperation.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Firma]",
     "options": [
         {
             "id": "a",
-            "content": "weshalb"
-        },
-        {
-            "id": "b",
-            "content": "in Anspruch"
-        },
-        {
-            "id": "c",
-            "content": "seitdem"
-        },
-        {
-            "id": "d",
-            "content": "jederzeit"
-        },
-        {
-            "id": "e",
-            "content": "über"
-        },
-        {
-            "id": "f",
             "content": "allerdings"
         },
         {
+            "id": "b",
+            "content": "anstatt"
+        },
+        {
+            "id": "c",
+            "content": "damit"
+        },
+        {
+            "id": "d",
+            "content": "deswegen"
+        },
+        {
+            "id": "e",
+            "content": "falls"
+        },
+        {
+            "id": "f",
+            "content": "ferner"
+        },
+        {
             "id": "g",
-            "content": "auf"
+            "content": "gemäß"
         },
         {
             "id": "h",
-            "content": "inzwischen"
+            "content": "ob"
         },
         {
             "id": "i",
-            "content": "deshalb"
+            "content": "umgehend"
         },
         {
             "id": "j",
-            "content": "vielleicht"
+            "content": "worin"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
             "option_id": "a"
         },
         {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "f"
         }
     ]
 }

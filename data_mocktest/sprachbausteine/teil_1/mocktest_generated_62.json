@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer MM-456) vom 10.05.2024",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich __1__ meine Bewerbung als Marketing Manager (Kennziffer MM-456), die ich Ihnen am 10.05.2024 zugesandt habe.\n\n__2__ seitdem bereits einige Wochen vergangen sind und ich bisher keine Rückmeldung __3__ habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mein Interesse an dieser Position ist __4__ sehr groß.\n\nEine zeitnahe Information wäre für meine weitere Planung hilfreich, __5__ Ihre Stelle für mich nach wie vor die attraktivste Option darstellt.\n\n__6__ Sie zusätzliche Unterlagen oder Auskünfte benötigen sollten, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf eine baldige Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu Details des neuen Job-Bike Angebots",
+    "textinhalt": "Sehr geehrte Damen und Herren der Personalabteilung,\n\nmit großem Interesse habe ich Ihre Mitteilung über das neue Job-Bike Angebot zur Kenntnis genommen. Das klingt nach einer attraktiven Möglichkeit für die Mitarbeitenden.\n\nIch erwäge ernsthaft, dieses Angebot zu nutzen, __1__ hätte ich vor einer endgültigen Entscheidung noch einige Detailfragen. __2__ der ersten Informationsbroschüre ist von verschiedenen Fahrradtypen die Rede. Gilt das Angebot für alle Arten von Fahrrädern, einschließlich E-Bikes und Lastenrädern?\n\nWeiterhin würde ich gerne wissen, __3__ wir an einen bestimmten Anbieter oder Fahrradhändler gebunden sind oder freie Wahl haben. Ist auch geklärt, mit welchen __4__ anfallenden Zusatzkosten für Versicherung oder Wartung zu rechnen ist?\n\nDa die Anmeldefrist bald beginnt, __5__ wäre eine baldige Klärung dieser Punkte hilfreich für meine Planung. __6__ bitte ich um Information, wo genau der Prozess zur Beantragung beschrieben ist.\n\nVielen Dank für Ihre Auskunft.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ein Mitarbeiter]",
     "options": [
         {
             "id": "a",
-            "content": "Ob"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "gegeben"
+            "content": "falls"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "folglich"
         },
         {
             "id": "d",
-            "content": "auf"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "Deshalb"
+            "content": "gemäß"
         },
         {
             "id": "f",
-            "content": "Falls"
+            "content": "laut"
         },
         {
             "id": "g",
-            "content": "Da"
+            "content": "nämlich"
         },
         {
             "id": "h",
-            "content": "erhalten"
+            "content": "ob"
         },
         {
             "id": "i",
-            "content": "an"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "Obwohl"
+            "content": "überdies"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "f"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "j"
         }
     ]
 }

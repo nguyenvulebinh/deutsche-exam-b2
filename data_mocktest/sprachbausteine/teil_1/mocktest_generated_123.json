@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager Marketing vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Keller,\n\nhiermit möchte ich mich __1__ meine Bewerbung als Projektmanager Marketing vom 15. Mai beziehen. Sie hatten mir den Eingang meiner Unterlagen dankenswerterweise kurz darauf bestätigt.\n\n__2__ nun bereits einige Wochen vergangen sind, seit ich von Ihnen gehört habe, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an der ausgeschriebenen Position ist __3__ meiner relevanten Erfahrung im internationalen Projektmanagement ungebrochen.\n\nIch wäre Ihnen daher dankbar, wenn Sie mir mitteilen könnten, wann __4__ mit einer Entscheidung oder den nächsten Schritten zu rechnen ist.\n\n__5__ Sie weiteren Informationsbedarf haben oder ein Gespräch wünschen, stehe ich Ihnen __6__ zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Nachfrage bezüglich IT-Ausstattung für Projekt XY",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nich schreibe Ihnen bezüglich meiner IT-Anfrage vom 15. Mai (Ticket-Nr. T789-A) für das Projekt XY. Könnten Sie mir bitte mitteilen, wie der aktuelle Stand der Bearbeitung ist? Ich frage nach, da __1__ die Projektstart-Deadline näher rückt.\n\nWir benötigen die beantragte Analyse-Software dringend bis Ende nächster Woche. __2__ könnten wir die ersten wichtigen Projektschritte nicht termingerecht durchführen.\n\n__3__ die ursprünglich angefragte Softwarelizenz aktuell nicht verfügbar sein sollte, möchte ich fragen, ob es alternative Tools mit vergleichbarer Funktionalität gibt, die kurzfristig bereitgestellt werden könnten? Wir benötigen __4__ eine Lösung, die große Datensätze effizient verarbeiten kann.\n\nIch wäre Ihnen dankbar für eine kurze Rückmeldung, insbesondere __5__ der Verfügbarkeit und der geschätzten Bereitstellungszeit.\n\nFür Rückfragen oder eine kurze Besprechung stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\nPeter Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "danach"
         },
         {
             "id": "b",
-            "content": "trotz"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "jederzeit"
+            "content": "hinsichtlich"
         },
         {
             "id": "e",
-            "content": "Ob"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "für"
+            "content": "jederzeit"
         },
         {
             "id": "g",
-            "content": "aufgrund"
+            "content": "nämlich"
         },
         {
             "id": "h",
-            "content": "Falls"
+            "content": "Seitdem"
         },
         {
             "id": "i",
-            "content": "Obwohl"
+            "content": "Sobald"
         },
         {
             "id": "j",
-            "content": "etwa"
+            "content": "Wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "f"
         }
     ]
 }

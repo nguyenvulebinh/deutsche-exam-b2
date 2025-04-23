@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April - Kennziffer MA-2024-08",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung als Marketingassistent vom 25. April (Kennziffer MA-2024-08), möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist __1__ bewusst, dass die sorgfältige Prüfung aller Unterlagen einige Zeit in Anspruch nimmt. Da __2__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, wollte ich nachfragen, ob Sie mir eventuell schon einen ungefähren Zeitrahmen für die nächsten Schritte nennen könnten.\n\nMein Interesse an der Position und an Ihrem Unternehmen ist __3__ unverändert groß. Die in der Ausschreibung genannten Aufgabenbereiche entsprechen genau meinen Qualifikationen und beruflichen Zielen, __4__ ich überzeugt bin, einen wertvollen Beitrag zu Ihrem Team leisten zu können.\n\nKönnten Sie mir __5__ mitteilen, ob bereits eine engere Auswahl getroffen wurde oder wann mit einer Entscheidung zu rechnen ist? Sollten Sie __6__ noch weitere Informationen oder Unterlagen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\nMit freundlichen Grüßen\n\n[Max Mustermann]",
+    "thema": "Antrag auf Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich wende mich heute mit der Bitte um Ausstellung eines Zwischenzeugnisses an Sie. __1__ ich nun seit vier Jahren als Projektmanager in der IT-Abteilung tätig bin, benötige ich eine aktuelle formelle Bewertung meiner bisherigen Leistungen und meines Sozialverhaltens im Unternehmen.\n\nDer Anlass für meine Anfrage ist meine geplante Bewerbung für eine interne Weiterbildungsmaßnahme zum Senior Projektleiter. Die Bewerbungsunterlagen müssen bis Ende nächsten Monats eingereicht werden, __2__ ich Sie höflich um eine zeitnahe Erstellung des Zeugnisses bitten möchte. Es wäre ideal, wenn mir das Dokument __3__ der nächsten drei Wochen vorliegen würde.\n\nIch wäre Ihnen dankbar, wenn im Zeugnis insbesondere meine Verantwortung für das erfolgreiche Projekt \"AlphaGo Live\" sowie meine Führungsqualitäten Erwähnung finden könnten. __4__ können wir uns kurz abstimmen, welche Aspekte besonders relevant sind. Ich möchte sicherstellen, dass das Zeugnis meine Entwicklung und Kompetenzen umfassend darstellt, __5__ meine Eignung für die angestrebte Weiterbildung klar hervorgeht.\n\nFür die Bereitstellung weiterer Informationen stehe ich Ihnen __6__ gerne zur Verfügung und danke Ihnen im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "dabei"
         },
         {
             "id": "b",
-            "content": "durchaus"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "eigentlich"
-        },
-        {
-            "id": "d",
             "content": "eventuell"
         },
         {
+            "id": "d",
+            "content": "gegebenenfalls"
+        },
+        {
             "id": "e",
-            "content": "inzwischen"
+            "content": "innerhalb"
         },
         {
             "id": "f",
-            "content": "obwohl"
-        },
-        {
-            "id": "g",
             "content": "seitdem"
         },
         {
-            "id": "h",
-            "content": "weiterhin"
+            "id": "g",
+            "content": "selbstverständlich"
         },
         {
-            "id": "i",
+            "id": "h",
             "content": "weshalb"
         },
         {
+            "id": "i",
+            "content": "wodurch"
+        },
+        {
             "id": "j",
-            "content": "zwischenzeitlich"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
             "option_id": "h"
         },
         {
-            "blank": "4",
-            "option_id": "i"
+            "blank": "3",
+            "option_id": "e"
         },
         {
-            "blank": "5",
+            "blank": "4",
             "option_id": "d"
         },
         {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "g"
         }
     ]
 }

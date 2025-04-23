@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich schreibe Ihnen __1__ meiner Bewerbung als Marketing Manager vom 15. Mai. Da nun einige Wochen vergangen sind, __2__ ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlverfahrens ist.\n\nIch bin __3__ sehr an dieser Position interessiert und überzeugt, dass meine Qualifikationen gut zu den Anforderungen passen. Ich wäre Ihnen dankbar, wenn Sie mir einen kurzen Hinweis geben könnten, __4__ ich ungefähr mit einer Rückmeldung rechnen kann.\n\nIch habe natürlich Verständnis __5__, dass der Prozess Zeit benötigt, wäre jedoch über eine kurze Wasserstandsmeldung dankbar.\n\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zu Besprechungsprotokoll und nächsten Schritten",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf unsere gestrige Besprechung zum Projekt \"Neukundenakquise Q4\". Vielen Dank nochmals für die produktive Runde.\n\nUm sicherzustellen, dass alle Teilnehmer auf dem gleichen Stand sind, wollte ich höflich um die Zusendung des Besprechungsprotokolls bitten. __1__ der vereinbarten Zuständigkeiten habe ich mir notiert, dass Herr Schmidt die Marktanalyse übernimmt. Ich selbst werde __2__ den ersten Entwurf für die Präsentationsunterlagen erstellen.\n\n__3__ wurde besprochen, dass die IT-Abteilung prüft, ob die CRM-Software angepasst werden muss. __4__ es hierzu Rückfragen vonseiten der IT gibt, lassen Sie es mich bitte wissen.\n\nKönnten Sie mir das Protokoll bitte __5__ zukommen lassen? Ich würde gerne meine Notizen abgleichen und sicherstellen, dass ich alle Aktionspunkte korrekt erfasst habe, bevor ich mit der Ausarbeitung beginne. Eventuelle Unklarheiten könnten sich dann direkt __6__ klären lassen.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "Falls"
+            "content": "bald"
         },
         {
             "id": "c",
-            "content": "wenn"
+            "content": "betreffend"
         },
         {
             "id": "d",
-            "content": "bezüglich"
+            "content": "daraus"
         },
         {
             "id": "e",
-            "content": "wegen"
+            "content": "daraufhin"
         },
         {
             "id": "f",
-            "content": "möchte"
+            "content": "falls"
         },
         {
             "id": "g",
-            "content": "dafür"
+            "content": "wenn"
         },
         {
             "id": "h",
-            "content": "nach wie vor"
+            "content": "wegen"
         },
         {
             "id": "i",
-            "content": "sollte"
+            "content": "zeitnah"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "h"
-        },
-        {
-            "blank": "4",
             "option_id": "j"
         },
         {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "d"
         }
     ]
 }

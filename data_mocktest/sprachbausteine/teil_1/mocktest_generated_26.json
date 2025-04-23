@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung als Marketing Manager vom 25. April. __1__ nun einige Zeit vergangen ist, möchte ich mich höflich nach dem aktuellen Stand des Bewerbungsprozesses erkundigen.\n\nDie ausgeschriebene Position und die Perspektiven in Ihrem Unternehmen finde ich nach wie vor sehr spannend. Ich bin fest __2__ überzeugt, dass meine Qualifikationen gut zu den Anforderungen passen.\n\nMein Interesse an dieser Stelle ist __3__ groß.\n\nIch wäre Ihnen dankbar, __4__ Sie mir eine kurze Auskunft über den weiteren Zeitplan geben könnten. Ich habe Verständnis dafür, dass der Auswahlprozess Zeit in Anspruch nimmt. __5__ wollte ich nur kurz mein fortbestehendes Interesse signalisieren.\n\nSollten Sie __6__ weitere Informationen oder Unterlagen benötigen, lassen Sie es mich bitte wissen. Ich stehe Ihnen dafür jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage: Verspätete Lieferung Büromaterial",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung Nr. 4711 vom 15. Mai für Büromaterialien. Die Lieferung wurde uns für den 22. Mai zugesagt. __1__ haben wir den 5. Juni erreicht, und die Ware ist immer noch nicht eingetroffen.\n\nWir benötigen die bestellten Artikel __2__ für unsere laufenden Projekte. Der Mangel an Material führt bereits zu Verzögerungen, __3__ wir Sie um eine sofortige Klärung der Situation bitten müssen.\n\nKönnen Sie uns bitte umgehend mitteilen, wo sich die Lieferung befindet und wann wir definitiv mit der Zustellung rechnen können? __4__ eine Lieferung in den nächsten zwei Tagen nicht garantiert werden kann, sehen wir uns gezwungen, die Bestellung zu stornieren.\n\nWir erwarten Ihre Rückmeldung __5__ bis spätestens morgen Mittag, damit wir entsprechend planen können. Bitte informieren Sie uns auch __6__, ob möglicherweise nur eine Teillieferung unterwegs ist.\n\nVielen Dank für Ihr Verständnis und Ihre rasche Bearbeitung.\n\nMit freundlichen Grüßen\n\n[Abteilung Einkauf / Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "darüber"
         },
         {
             "id": "b",
-            "content": "Deshalb"
+            "content": "dringend"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "jedoch"
         },
         {
             "id": "d",
-            "content": "unverändert"
+            "content": "inzwischen"
         },
         {
             "id": "e",
-            "content": "Dafür"
+            "content": "schnell"
         },
         {
             "id": "f",
-            "content": "zwischenzeitlich"
+            "content": "seitdem"
         },
         {
             "id": "g",
-            "content": "Ob"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "dennoch"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "falls"
+            "content": "weil"
         },
         {
             "id": "j",
-            "content": "davon"
+            "content": "weshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
             "option_id": "d"
         },
         {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "a"
         }
     ]
 }

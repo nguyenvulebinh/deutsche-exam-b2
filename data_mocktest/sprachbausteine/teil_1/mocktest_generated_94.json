@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Mai zugesandt habe.\n\nDa ich __1__ noch keine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Ich bin nach wie vor sehr an dieser Position interessiert, __2__ sie genau meinen Qualifikationen und beruflichen Zielen entspricht.\n\nIch bin __3__ davon überzeugt, dass meine Erfahrungen einen wertvollen Beitrag für Ihr Team leisten können. Könnten Sie mir __4__ mitteilen, wann etwa mit einer Entscheidung zu rechnen ist?\n\nFür Rückfragen stehe ich Ihnen __5__ gerne zur Verfügung.\n\nZur Sicherheit habe ich meine vollständigen Bewerbungsunterlagen dieser E-Mail __6__ beigefügt.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zur neuen Weiterbildungsrichtlinie",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich schreibe Ihnen bezüglich der neuen Richtlinie zur Mitarbeiterweiterbildung, die letzte Woche vorgestellt wurde. Ich finde die erweiterten Möglichkeiten zur Förderung sehr positiv.\n\n__1__ habe ich noch einige Fragen zur konkreten Anwendung, insbesondere was externe Kurse betrifft. Könnten Sie bitte klären, __2__ Online-Seminare generell förderfähig sind oder ob dies von Thema und Anbieter abhängt?\n\nDie Richtlinie erwähnt notwendige Nachweise. Muss man diese bereits __3__ mit dem Antrag einreichen oder erst nach einer grundsätzlichen Zusage? __4__ interessiert mich, ob es feste Obergrenzen für die Kostenübernahme pro Mitarbeiter und Jahr gibt.\n\nDa ich plane, bald einen spezifischen Kurs zu besuchen, wäre es hilfreich zu wissen, wie __5__ über Anträge entschieden wird.\n\nIch füge diesem Schreiben __6__ einer Kursbeschreibung bereits ein vorläufiges Angebot bei, um meine Anfrage zu konkretisieren.\n\nVielen Dank für Ihre Unterstützung und Klärung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bislang"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "gleichfalls"
         },
         {
             "id": "c",
-            "content": "deshalb"
+            "content": "inwiefern"
         },
         {
             "id": "d",
-            "content": "erneut"
+            "content": "kurzfristig"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "mittels"
         },
         {
             "id": "f",
-            "content": "fest"
+            "content": "nämlich"
         },
         {
             "id": "g",
-            "content": "seitdem"
+            "content": "sofort"
         },
         {
             "id": "h",
-            "content": "selbstverständlich"
+            "content": "vorab"
         },
         {
             "id": "i",
-            "content": "sogar"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "trotzdem"
+            "content": "weshalb"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
-            "option_id": "e"
-        },
-        {
-            "blank": "5",
             "option_id": "h"
         },
         {
-            "blank": "6",
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
+            "blank": "5",
             "option_id": "d"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
         }
     ]
 }

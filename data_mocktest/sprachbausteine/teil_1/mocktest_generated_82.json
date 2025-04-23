@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 15. Mai zugesandt habe. Den Eingang meiner Unterlagen hatten Sie mir freundlicherweise kurz darauf bestätigt.\n\n__1__ sind nun einige Wochen vergangen, und ich wollte mich __2__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die Position entspricht __3__ meiner Qualifikationen und meines Interesses an digitalen Marketingstrategien nach wie vor genau meinen Vorstellungen.\n\nIch bin weiterhin sehr an dieser beruflichen Herausforderung interessiert und __4__ Ihnen gerne für ein persönliches Gespräch zur Verfügung, um meine Eignung weiter zu erläutern.\n\nKönnten Sie mir vielleicht __5__ eine Rückmeldung geben, wann ungefähr mit einer Entscheidung im Bewerbungsprozess zu rechnen ist? \n\nIch würde mich __6__ eine baldige Antwort von Ihnen sehr freuen.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Klärung von Projektanforderungen",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nvielen Dank für die Zusendung der ersten Anforderungen für das Projekt „Neukundenportal“. Ich habe die Unterlagen bereits durchgesehen und die Hauptziele sind soweit klar.\n\n__1__ einiger spezifischer Punkte im Lastenheft (Abschnitt 3.2) habe ich __2__ noch einige Fragen, um sicherzustellen, dass wir Ihre Erwartungen vollständig erfüllen. Insbesondere bei den technischen Schnittstellen und den Anforderungen an die Barrierefreiheit benötige ich detailliertere Informationen.\n\nKönnten Sie diese Punkte bitte noch präzisieren, __3__ wir Missverständnisse vermeiden und den Entwicklungsaufwand korrekt einschätzen können?\n\n__4__ wäre ein kurzes Telefonat nächste Woche hilfreich, um die offenen Fragen direkt zu klären. Bitte lassen Sie mich wissen, __5__ Ihnen ein Gespräch am Dienstagvormittag oder Mittwochnachmittag möglich wäre.\n\n__6__ senden Sie mir die ergänzenden Informationen gerne auch schriftlich zu, falls Ihnen das lieber ist.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "aufgrund"
+            "content": "ansonsten"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "obwohl"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "seitdem"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "stehe"
+            "content": "jedoch"
         },
         {
             "id": "f",
-            "content": "trotz"
+            "content": "nämlich"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "warte"
+            "content": "wegen"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "weil"
         },
         {
             "id": "j",
-            "content": "zeitnah"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
             "option_id": "b"
         },
         {
-            "blank": "3",
-            "option_id": "a"
-        },
-        {
-            "blank": "4",
+            "blank": "2",
             "option_id": "e"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "a"
         }
     ]
 }

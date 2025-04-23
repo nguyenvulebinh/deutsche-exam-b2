@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent (Kennziffer MA-451)",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent (Kennziffer MA-451), __1__ ich Ihnen am 15. Mai zugesandt habe.\n\nSie hatten in Ihrer Eingangsbestätigung erwähnt, dass der Auswahlprozess voraussichtlich bis Ende Juni dauern würde. __2__ wollte ich mich höflich erkundigen, ob es bereits Neuigkeiten bezüglich meiner Bewerbung gibt.\n\nIch möchte bei dieser Gelegenheit __3__ betonen, dass mein Interesse an dieser Position und an einer Mitarbeit in Ihrem Unternehmen nach wie vor sehr groß ist.\n\nDie Aufgabenbeschreibung passt __4__ gut zu meinen Qualifikationen und bisherigen Erfahrungen im Online-Marketing.\n\nKönnten Sie mir __5__ eine kurze Information geben, wann mit einer Entscheidung zu rechnen ist?\n\nVielen Dank __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Position als Marketingmanager am kommenden Freitag, den [Datum], um 10:00 Uhr.\n\nIch muss Ihnen __1__ mitteilen, dass ich diesen Termin nicht wahrnehmen kann. Gestern Nachmittag wurde __2__ eine dringende und unaufschiebbare Dienstreise für die gesamte nächste Woche angesetzt, an der ich teilnehmen muss. Ich bitte höflich um Entschuldigung für die kurzfristige Absage und die damit verbundenen Unannehmlichkeiten, die __3__ dieser Dienstreise entstehen.\n\nIch bin __4__ weiterhin außerordentlich an der Position interessiert und würde mich sehr freuen, wenn wir das Gespräch zu einem späteren Zeitpunkt nachholen könnten.\n\nIch werde mich __5__ ich von der Reise zurück bin, voraussichtlich am [Datum + ca. 8 Tage], wieder bei Ihnen melden, um mögliche neue Termine zu besprechen. __6__ wäre ich Ihnen dankbar, wenn Sie mir bereits jetzt mitteilen könnten, ob es in der darauffolgenden Woche alternative Zeitfenster gäbe.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "besonders"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Deshalb"
+            "content": "alternativ"
         },
         {
             "id": "c",
-            "content": "die"
+            "content": "aufgrund"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "für"
+            "content": "kurzfristig"
         },
         {
             "id": "f",
-            "content": "nochmals"
+            "content": "leider"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "sobald"
         },
         {
             "id": "h",
-            "content": "Wahrscheinlich"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "Wegen"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "welche"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "f"
+            "option_id": "c"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "b"
         }
     ]
 }

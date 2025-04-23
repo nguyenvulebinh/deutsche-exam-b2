@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Klein,\n\nbezugnehmend auf meine Bewerbung als Marketingmanager vom 25. April, möchte ich mich heute bei Ihnen melden. __1__ sind seit dem Einreichungsdatum einige Wochen vergangen, __2__ wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position passt __3__ gut zu meinen Qualifikationen und beruflichen Zielen, und ich bin __4__ sehr an einer Tätigkeit in Ihrem Hause interessiert.\n\nDa ich mich über den Fortgang des Bewerbungsprozesses informieren möchte, wäre ich Ihnen dankbar, wenn Sie mir kurz mitteilen könnten, __5__ mit einer Entscheidung oder den nächsten Schritten zu rechnen ist.\n\nFür Rückfragen zu meinen Unterlagen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Antrag auf Arbeitszeugnis",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich Sie höflich um die Ausstellung meines qualifizierten Arbeitszeugnisses bitten. Wie Sie wissen, endete mein Arbeitsverhältnis als Projektmanager in Ihrer Abteilung zum 30. April dieses Jahres.\n\nIch war vom 1. Mai 2020 bis zum 30. April 2024 in Ihrem Unternehmen tätig; __1__ meiner Zeit dort konnte ich wertvolle Erfahrungen sammeln und zum Erfolg mehrerer Projekte beitragen. Ich benötige das Zeugnis nun zeitnah, __2__ meiner anstehenden Bewerbungen für neue berufliche Positionen.\n\nIch bin mir durchaus bewusst, dass die Erstellung eines detaillierten Zeugnisses sorgfältige Arbeit erfordert und die Personalabteilung aktuell sicher stark ausgelastet ist. __3__ ist eine baldige Zusendung für meine weitere Karriereplanung von großer Bedeutung.\n\n__4__ wäre ich Ihnen sehr verbunden, wenn im Zeugnis explizit auf meine Verantwortlichkeiten im Bereich Kundenakquise und Budgetverwaltung und die damit verbundenen Erfolge eingegangen werden könnte.\n\nKönnten Sie mir bitte eine kurze Information zukommen lassen, __5__ welcher Frist ich mit der Fertigstellung des Dokuments rechnen kann? Es besteht ja ein gesetzlicher Anspruch auf ein Zeugnis nach Beendigung des Arbeitsverhältnisses, __6__ ich mich zur Not berufen müsste, dies jedoch möglichst vermeiden möchte.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nThomas Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "aufgrund"
         },
         {
             "id": "b",
-            "content": "besonders"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "daher"
+            "content": "binnen"
         },
         {
             "id": "d",
-            "content": "inzwischen"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "jederzeit"
+            "content": "ferner"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "hingegen"
         },
         {
             "id": "g",
-            "content": "seitdem"
+            "content": "innerhalb"
         },
         {
             "id": "h",
-            "content": "wann"
+            "content": "während"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "ziemlich"
+            "content": "worauf"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "h"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
             "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
         }
     ]
 }

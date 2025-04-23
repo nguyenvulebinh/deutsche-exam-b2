@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
-    "textinhalt": "Sehr geehrte Frau Jansen,\n\n__1__ auf meine Bewerbung vom 05. April für die Position als Marketing Manager möchte ich mich kurz bei Ihnen melden. Den Eingang meiner Unterlagen hatten Sie mir dankenswerterweise bestätigt.\n\nDa nun einige Wochen vergangen sind, wollte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlverfahrens ist. Mein Interesse an dieser spannenden Tätigkeit und Ihrem Unternehmen ist __2__ sehr groß.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, __4__ eine Entscheidung über die Besetzung der Stelle getroffen wird? Dies wäre für meine weitere Planung sehr hilfreich.\n\nIch bin weiterhin fest davon überzeugt, __5__ meine Qualifikationen und meine bisherige Berufserfahrung sehr gut zu den Anforderungen der Position passen.\n\n__6__ Sie in der Zwischenzeit weitere Informationen oder Dokumente von mir benötigen, lassen Sie es mich bitte wissen. Ich stehe Ihnen dafür jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich hoffe, diese E-Mail findet Sie gut. Wie Sie wissen, war ich vom 01.03.2022 bis zum 31.08.2023 als Marketingassistent in Ihrer Abteilung bei der Beispiel GmbH tätig.\n\nDa ich mich aktuell in mehreren Bewerbungsprozessen befinde, benötige ich nun ein qualifiziertes Arbeitszeugnis. __1__ wende ich mich heute mit dieser Bitte an Sie. Ich blicke positiv auf meine Zeit bei der Beispiel GmbH zurück, __2__ der ich wertvolle Erfahrungen sammeln konnte, insbesondere im Bereich Online-Marketing.\n\nIch wäre Ihnen sehr dankbar, wenn das Zeugnis nicht nur meine Aufgaben beschreibt, sondern __3__ auch eine detaillierte Beurteilung meiner Leistungen und meines Sozialverhaltens enthält.\n\nBitte lassen Sie mich wissen, __4__ Sie zusätzliche Informationen von meiner Seite benötigen, um das Zeugnis zu erstellen. Gerne stehe ich __5__ für Rückfragen oder zur Lieferung weiterer Details zur Verfügung.\n\nIch wäre Ihnen dankbar, wenn Sie mir das Zeugnis __6__ zukommen lassen könnten, da einige Bewerbungsfristen näher rücken.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen,\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ob"
+            "content": "dabei"
         },
         {
             "id": "b",
-            "content": "Falls"
-        },
-        {
-            "id": "c",
-            "content": "wann"
-        },
-        {
-            "id": "d",
-            "content": "bereits"
-        },
-        {
-            "id": "e",
-            "content": "dass"
-        },
-        {
-            "id": "f",
-            "content": "eventuell"
-        },
-        {
-            "id": "g",
-            "content": "Obwohl"
-        },
-        {
-            "id": "h",
-            "content": "nach wie vor"
-        },
-        {
-            "id": "i",
             "content": "deshalb"
         },
         {
+            "id": "c",
+            "content": "hierzu"
+        },
+        {
+            "id": "d",
+            "content": "idealerweise"
+        },
+        {
+            "id": "e",
+            "content": "obwohl"
+        },
+        {
+            "id": "f",
+            "content": "sofern"
+        },
+        {
+            "id": "g",
+            "content": "trotzdem"
+        },
+        {
+            "id": "h",
+            "content": "wegen"
+        },
+        {
+            "id": "i",
+            "content": "während"
+        },
+        {
             "id": "j",
-            "content": "Bezugnehmend"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "j"
         }
     ]
 }

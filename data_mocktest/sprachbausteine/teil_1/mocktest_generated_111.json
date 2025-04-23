@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-0815)",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Projektmanager (Kennziffer PM-0815). Vielen Dank nochmals für die Eingangsbestätigung.\n\n__1__ nun einige Wochen seit dem Bewerbungsschluss vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie in der Ausschreibung beschriebenen Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen finde ich __2__ sehr spannend. Ich bin __3__ überzeugt, dass meine Qualifikationen und bisherigen Erfahrungen gut zu den Anforderungen der Position passen.\n\nKönnten Sie mir __4__ mitteilen, wann voraussichtlich mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist?\n\nSelbstverständlich stehe ich Ihnen für Rückfragen __5__ zur Verfügung.\n\nIch sehe einer __6__ Rückmeldung mit großem Interesse entgegen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich Projektanforderungen XYZ",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für die Zusendung der Projektanforderungen für das Projekt XYZ vom 15. März. Nach sorgfältiger Prüfung haben wir noch einige Punkte, zu denen wir um Klärung bitten möchten.\n\nIm Anforderungskatalog wird spezielle Analysesoftware erwähnt. __1__ wir diese selbst lizenzieren müssen, bitten wir um entsprechende Informationen zu den Spezifikationen und möglichen Kostenrahmen, da dies in unserem Angebot berücksichtigt werden müsste.\n\nAbschnitt 4 beschreibt die Notwendigkeit einer finalen Kundenfreigabe für Konzept A, bevor mit der Umsetzung B begonnen werden kann. __2__ kann Phase B erst starten, nachdem Phase A vollständig abgeschlossen und abgenommen ist. Ist diese zeitliche Abhängigkeit korrekt interpretiert?\n\nDes Weiteren wird im Dokument von \"kontinuierlicher Abstimmung\" gesprochen. Wir verstehen darunter nicht tägliche Meetings, __3__ regelmäßige wöchentliche Updates und bei Bedarf anberaumte Besprechungen. Passt das zu Ihrer Vorstellung?\n\n__4__ Anhang C ist die Deadline für das Gesamtprojekt der 30. November. Dies erscheint uns ambitioniert, insbesondere bei der genannten Abhängigkeit von Phase A und B.\n\nFür die Ergebnisberichte werden drei verschiedene Abteilungen als Empfänger genannt. Sollen die Berichte für alle Abteilungen __5__ erstellt werden, oder sollen die spezifischen Ergebnisse __6__ an die betreffende Abteilung nach Abschluss eines relevanten Arbeitspakets kommuniziert werden?\n\nWir wären Ihnen dankbar, wenn Sie uns zu diesen Punkten eine kurze Rückmeldung geben könnten.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Bald"
+            "content": "demnach"
         },
         {
             "id": "b",
-            "content": "Obwohl"
+            "content": "falls"
         },
         {
             "id": "c",
-            "content": "davon"
+            "content": "gemäß"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "gleichzeitig"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "jeweils"
         },
         {
             "id": "f",
-            "content": "weiterhin"
+            "content": "laut"
         },
         {
             "id": "g",
-            "content": "Ziemlich"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "jederzeit"
+            "content": "somit"
         },
         {
             "id": "i",
-            "content": "Daran"
+            "content": "sondern"
         },
         {
             "id": "j",
-            "content": "baldigen"
+            "content": "vielmehr"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "e"
         }
     ]
 }

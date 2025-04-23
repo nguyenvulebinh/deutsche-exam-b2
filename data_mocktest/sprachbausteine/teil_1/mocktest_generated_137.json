@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager, die ich Ihnen am 15. Mai über Ihr Online-Portal zugesandt habe, und für die ich dankenswerterweise eine automatische Eingangsbestätigung erhalten habe.\n\nMir ist durchaus bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungsunterlagen einige Zeit in Anspruch nehmen kann. __1__ ich jedoch seitdem keine weitere Rückmeldung erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __2__ mitteilen, wann ungefähr mit einer Entscheidung oder Informationen über die nächsten Schritte im Prozess zu rechnen ist? Mein Interesse an dieser verantwortungsvollen Position in Ihrem Unternehmen ist __3__ unverändert groß und die beschriebenen Aufgaben entsprechen genau meinen Qualifikationen und beruflichen Zielen.\n\n__4__ möchte ich nochmals betonen, dass ich für ein persönliches Gespräch kurzfristig und flexibel zur Verfügung stehe. __5__ Sie zwischenzeitlich weitere Informationen oder ergänzende Unterlagen von mir benötigen, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch würde mich sehr freuen, __6__ von Ihnen zu hören und verbleibe\n\nmit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich interner Weiterbildung \"Effektive Teamleitung\"",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich schreibe Ihnen bezüglich der internen Weiterbildung „Effektive Teamleitung“, die kürzlich im Intranet angekündigt wurde. Ich beziehe mich __1__ die dortigen Informationen und habe großes Interesse an einer Teilnahme.\n\nBevor ich mich anmelde, möchte ich fragen, __2__ noch freie Plätze verfügbar sind und ob es spezielle Voraussetzungen für die Teilnahme gibt. Könnten Sie mir __3__ bitte mitteilen, an welchen genauen Tagen und zu welchen Uhrzeiten die Schulung stattfindet? Laut Ankündigung ist die Anmeldung __4__ bis zum 15. des nächsten Monats möglich.\n\n__5__ ich in naher Zukunft voraussichtlich eine Teamleitungsfunktion in unserer Abteilung übernehmen werde, halte ich die Inhalte dieser Weiterbildung für äußerst relevant für meine berufliche Entwicklung. Ich wäre Ihnen sehr dankbar, __6__ Sie mir detailliertere Informationen oder ein Programm zukommen lassen könnten.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "bald"
+            "content": "an"
         },
         {
             "id": "b",
-            "content": "Deshalb"
+            "content": "auf"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "außerdem"
         },
         {
             "id": "d",
-            "content": "Wenn"
+            "content": "da"
         },
         {
             "id": "e",
-            "content": "weiterhin"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "Falls"
+            "content": "erst"
         },
         {
             "id": "g",
-            "content": "Weil"
+            "content": "falls"
         },
         {
             "id": "h",
-            "content": "Zudem"
+            "content": "nur"
         },
         {
             "id": "i",
-            "content": "Da"
+            "content": "ob"
         },
         {
             "id": "j",
-            "content": "Trotzdem"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "j"
         }
     ]
 }

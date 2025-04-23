@@ -1,72 +1,72 @@
 {
-    "thema": "Nachfrage zum Stand meiner Bewerbung als Marketing-Assistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich __1__ meine Bewerbung für die Stelle als Marketing-Assistent vom 25. April und möchte mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist bewusst, dass die sorgfältige Prüfung aller Unterlagen einige Zeit in Anspruch nimmt. __2__ wollte ich höflich nachfragen, ob Sie mir eventuell schon eine ungefähre Zeitangabe geben können, bis wann mit einer Entscheidung zu rechnen ist.\n\nIch möchte __3__ betonen, dass mein Interesse an dieser Position und an Ihrem Unternehmen unverändert groß ist. Die in der Ausschreibung genannten Aufgabenbereiche entsprechen genau meinen Fähigkeiten, __4__ ich überzeugt bin, einen wertvollen Beitrag für Ihr Marketing-Team leisten zu können.\n\nFalls Sie __5__ Informationen oder Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch freue mich __6__, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "thema": "Bitte um Verschiebung Vorstellungsgespräch",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch für die Position als Marketing Manager am TT.MM.JJJJ um HH:MM Uhr. Ich habe mich sehr darüber gefreut.\n\n__1__ muss ich Sie jedoch bitten, diesen Termin zu verschieben. __2__ eines kurzfristig eingetretenen, unaufschiebbaren privaten Termins ist es mir unmöglich, ihn wahrzunehmen. Ich bitte hierfür um Ihr Verständnis.\n\nIch bin __3__ weiterhin sehr an der Position und einer Zusammenarbeit mit Ihrem Unternehmen interessiert und hoffe, dass eine Verschiebung möglich ist.\n\nWäre es eventuell möglich, das Gespräch in der darauffolgenden Woche nachzuholen? __4__ Ihnen dies zeitlich passt, wäre ich Ihnen dankbar, wenn Sie mir alternative Terminvorschläge zusenden könnten.\n\n__5__ könnten wir auch gerne kurz telefonieren, um einen passenden neuen Termin abzustimmen. __6__ bin ich in der nächsten Woche, insbesondere an den Nachmittagen, recht flexibel.\n\nIch freue mich auf Ihre positive Rückmeldung.\n\nMit freundlichen Grüßen,\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "darauf"
+            "content": "alternativ"
         },
         {
             "id": "b",
-            "content": "an"
+            "content": "Aufgrund"
         },
         {
             "id": "c",
-            "content": "Dennoch"
+            "content": "bedauerlicherweise"
         },
         {
             "id": "d",
-            "content": "Schon"
+            "content": "bereits"
         },
         {
             "id": "e",
-            "content": "weitere"
+            "content": "damit"
         },
         {
             "id": "f",
-            "content": "auf"
+            "content": "gleichwohl"
         },
         {
             "id": "g",
-            "content": "Deshalb"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "nochmals"
+            "content": "stattdessen"
         },
         {
             "id": "i",
-            "content": "Weil"
+            "content": "weshalb"
         },
         {
             "id": "j",
-            "content": "weshalb"
+            "content": "Zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
             "option_id": "c"
         },
         {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "j"
         }
     ]
 }

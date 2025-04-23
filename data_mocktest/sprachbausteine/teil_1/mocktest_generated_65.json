@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer MM-451) vom 20.04.2024",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager (Kennziffer MM-451), welche ich Ihnen am 20. April 2024 habe zukommen lassen.\n\nDa nun __1__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser verantwortungsvollen Aufgabe und __2__ der Möglichkeit, meine Fähigkeiten in Ihrem renommierten Unternehmen einzubringen, ist __3__ groß. Ich bin __4__ davon überzeugt, dass meine Qualifikationen und meine bisherige Berufserfahrung gut zu den Anforderungen der Stelle passen.\n\nIch wäre Ihnen sehr dankbar, __5__ Sie mir eine kurze Rückmeldung geben könnten, wann ungefähr mit einer Entscheidung zu rechnen ist.\n\nFür ein persönliches Gespräch stehe ich Ihnen __6__ zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Anfrage bezüglich Elternzeit und interner Prozess",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nwie Sie wissen, erwarten meine Frau und ich Nachwuchs. __1__ möchte ich mich frühzeitig über die Modalitäten zur Beantragung von Elternzeit in unserem Unternehmen informieren.\n\nKönnten Sie mir bitte mitteilen, __2__ es neben der gesetzlichen Meldefrist von sieben Wochen vor Antritt eventuell interne Fristen oder bevorzugte Zeiträume für die Einreichung des Antrags gibt? Mich interessiert auch, welche Unterlagen genau benötigt werden, __3__ ich sicherstellen möchte, dass mein Antrag vollständig und korrekt ist.\n\n__4__ wäre es hilfreich zu wissen, ob ein bestimmtes internes Formular verwendet werden muss oder ob ein formloses Schreiben ausreicht. Da ich derzeit in das Projekt „Alpha“ involviert bin, würde ich gerne erfahren, welche Informationen __5__ für eine reibungslose Übergabe meiner Aufgaben benötigt werden.\n\nSobald ich die notwendigen Informationen von Ihnen erhalten habe, werde ich die entsprechenden Schritte einleiten und den Antrag vorbereiten. __6__ können wir gerne einen Termin für ein kurzes Gespräch vereinbaren, um Details zu klären.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nThomas Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "fest"
+            "content": "anschließend"
         },
         {
             "id": "b",
-            "content": "wenn"
+            "content": "danach"
         },
         {
             "id": "c",
-            "content": "seitdem"
+            "content": "dennoch"
         },
         {
             "id": "d",
-            "content": "jederzeit"
+            "content": "hierfür"
         },
         {
             "id": "e",
-            "content": "manchmal"
+            "content": "infolgedessen"
         },
         {
             "id": "f",
-            "content": "für"
+            "content": "inwiefern"
         },
         {
             "id": "g",
-            "content": "inzwischen"
+            "content": "nämlich"
         },
         {
             "id": "h",
-            "content": "an"
+            "content": "überdies"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "b"
         }
     ]
 }

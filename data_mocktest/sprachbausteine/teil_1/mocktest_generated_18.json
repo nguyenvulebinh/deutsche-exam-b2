@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Assistent vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing-Assistent, die ich Ihnen am 15. Mai zugesandt habe. Da ich bisher noch keine Rückmeldung __1__ Ihrerseits erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht nach wie vor genau meinen Vorstellungen und beruflichen Zielen, __2__ mein Interesse an einer Tätigkeit in Ihrem Unternehmen ungebrochen ist.\n\nKönnten Sie mir __3__ mitteilen, ob bereits eine Entscheidung getroffen wurde oder wann ungefähr mit einer Rückmeldung zu rechnen ist?\n\nIch frage auch __4__, da ich in Kürze eine Entscheidung bezüglich eines anderen Angebots treffen müsste, Ihre Stelle für mich jedoch weiterhin Priorität hat.\n\nFalls Sie __5__ weitere Informationen oder aktualisierte Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch würde mich sehr __6__ eine baldige Nachricht von Ihnen freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Antrag auf Verschiebung Training „Zeitmanagement“",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nhiermit beziehe ich mich auf meine Anmeldung für das interne Training „Zeitmanagement“ am kommenden Freitag, den 24. Mai, __1__ ich eine Bestätigung erhalten habe.\n\nLeider muss ich meine Teilnahme für diesen Termin absagen, da __2__ ein unaufschiebbarer und wichtiger Kundentermin vereinbart wurde, der meine Anwesenheit zwingend erfordert. Ich bitte die kurzfristige Absage zu entschuldigen.\n\n__3__ ich an diesem spezifischen Datum verhindert bin, ist mein Interesse an diesem Seminar ungebrochen, da die Inhalte für meine tägliche Arbeit von großer Relevanz sind. Daher möchte ich höflich __4__ alternativen Terminen für dieses Training anfragen.\n\nGibt es möglicherweise eine Warteliste für zukünftige Durchführungen? Oder wäre es __5__ möglich, die Seminarunterlagen zu erhalten, um mich eigenständig vorzubereiten oder Inhalte nachzuarbeiten?\n\nIch wäre Ihnen für Informationen zu alternativen Teilnahmemöglichkeiten __6__ dankbar und hoffe auf Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nAnna Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "äußerst"
         },
         {
             "id": "b",
-            "content": "bereits"
-        },
-        {
-            "id": "c",
-            "content": "deshalb"
-        },
-        {
-            "id": "d",
             "content": "eventuell"
         },
         {
+            "id": "c",
+            "content": "gegebenenfalls"
+        },
+        {
+            "id": "d",
+            "content": "kurzfristig"
+        },
+        {
             "id": "e",
-            "content": "noch"
+            "content": "nach"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "Obwohl"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "trotzdem"
         },
         {
             "id": "h",
-            "content": "von"
+            "content": "über"
         },
         {
             "id": "i",
-            "content": "weil"
+            "content": "weshalb"
         },
         {
             "id": "j",
-            "content": "weshalb"
+            "content": "wofür"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
-        },
-        {
-            "blank": "2",
             "option_id": "j"
         },
         {
-            "blank": "3",
+            "blank": "2",
             "option_id": "d"
         },
         {
-            "blank": "4",
-            "option_id": "c"
+            "blank": "3",
+            "option_id": "f"
         },
         {
-            "blank": "5",
+            "blank": "4",
             "option_id": "e"
         },
         {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "a"
         }
     ]
 }

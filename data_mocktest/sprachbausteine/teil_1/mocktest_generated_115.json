@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz (Kennziffer MA-451)",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Position als Marketingassistenz mit der Kennziffer MA-451.\n\n__1__ ist nun einige Zeit vergangen, __2__ ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen möchte.\n\nMein Interesse __3__ dieser spannenden Position und an Ihrem Unternehmen ist nach wie vor sehr groß.\n\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer Entscheidung oder den nächsten Schritten zu rechnen ist? Eine kurze Information dazu wäre für meine weitere Planung sehr hilfreich.\n\n__5__ ich mich derzeit in keiner anderen laufenden Bewerbungsphase befinde, bin ich zeitlich sehr flexibel, was einen möglichen Gesprächtermin angeht.\n\nFür Rückfragen oder die Zusendung weiterer Unterlagen stehe ich Ihnen __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Absender]",
+    "thema": "Betreff: Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nwie Sie wissen, wird mein Arbeitsverhältnis mit der TechSolutions GmbH zum 31. August 2024 enden. __1__ bitte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses.\n\nIch benötige dieses Zeugnis __2__ meiner weiteren beruflichen Bewerbungen und wäre Ihnen dankbar, wenn es mir __3__ zum 15. August 2024 vorliegen könnte. Mir ist bewusst, dass die Personalabteilung derzeit stark ausgelastet ist, __4__ die Erstellung eines qualifizierten Zeugnisses zeitaufwendig sein kann.\n\nIch bitte __5__ um ein Zeugnis, das detailliert auf meine Aufgabenbereiche (Projektmanagement, Kundenbetreuung) und meine Leistungen eingeht.\n\n__6__ Sie weitere Informationen oder Unterlagen von meiner Seite benötigen, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "bis"
         },
         {
             "id": "b",
-            "content": "obwohl"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "gerne"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "da"
+            "content": "insbesondere"
         },
         {
             "id": "e",
-            "content": "weshalb"
+            "content": "nämlich"
         },
         {
             "id": "f",
-            "content": "vielleicht"
+            "content": "trotzdem"
         },
         {
             "id": "g",
-            "content": "seitdem"
+            "content": "wegen"
         },
         {
             "id": "h",
-            "content": "für"
+            "content": "wenngleich"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "wenn"
         },
         {
             "id": "j",
-            "content": "inzwischen"
+            "content": "zwecks"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "e"
+            "option_id": "j"
         },
         {
             "blank": "3",
@@ -58,7 +58,7 @@
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "h"
         },
         {
             "blank": "5",

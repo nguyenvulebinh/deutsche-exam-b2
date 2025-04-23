@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\n__1__ auf meine Bewerbung für die Stelle als Projektmanager vom 25. April möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ nun bereits einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, wollte ich nachfragen, ob Sie __3__ schon absehen können, wann mit einer Entscheidung zu rechnen ist.\n\nIch bin __4__ sehr an dieser Position interessiert, da sowohl die beschriebenen Aufgaben als auch die Entwicklungsmöglichkeiten in Ihrem Unternehmen meinen Qualifikationen und beruflichen Zielen sehr entsprechen.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung __5__ den weiteren Zeitplan geben könnten.\nFür Rückfragen stehe ich Ihnen selbstverständlich __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage zu internem Seminar „Effektive Teamleitung“",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich schreibe Ihnen bezüglich des internen Weiterbildungsseminars „Effektive Teamleitung“, das kürzlich im Intranet ausgeschrieben wurde. Die Beschreibung klingt sehr vielversprechend und ich habe großes Interesse an einer Teilnahme.\n\nDie allgemeinen Informationen waren sehr hilfreich, __1__ habe ich noch einige spezifische Fragen. Könnten Sie mir bitte nähere Auskünfte __2__ der erforderlichen Vorkenntnisse oder der primären Zielgruppe geben? In der Beschreibung war dies nicht eindeutig ersichtlich.\n\nWeiterhin wäre es für meine Planung wichtig zu wissen, __3__ die genauen Termine und Uhrzeiten festgelegt sind. Müssen __4__ für die Anmeldung spezielle Formulare ausgefüllt oder Nachweise eingereicht werden?\n\nDa ich für die Teilnahme __5__ die Zustimmung meines Vorgesetzten benötige, wäre ich Ihnen dankbar, wenn Sie mir die gewünschten Informationen möglichst __6__ zukommen lassen könnten.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "weiterhin"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Immer noch"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "dazu"
         },
         {
             "id": "d",
-            "content": "über"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "jederzeit"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "Bezugnehmend"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "Obwohl"
+            "content": "hierfür"
         },
         {
             "id": "h",
-            "content": "Zu"
+            "content": "sobald"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "Bezüglich"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
-            "option_id": "a"
-        },
-        {
-            "blank": "5",
             "option_id": "d"
         },
         {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "j"
         }
     ]
 }

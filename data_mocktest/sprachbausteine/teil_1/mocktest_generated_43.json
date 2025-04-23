@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager/in vom 15.03.2024",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager/in, die ich Ihnen am 15.03.2024 zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir __2__ mitteilen, wann etwa mit einer Entscheidung zu rechnen ist?\n\nIch bin __3__ sehr an dieser Position interessiert, da die Aufgabenbeschreibung und Ihr Unternehmen perfekt zu meinen beruflichen Zielen und Erfahrungen passen. Da ich __4__ auch andere Bewerbungsprozesse verfolge, wäre eine zeitnahe Rückmeldung für meine weitere Planung sehr hilfreich.\n\nIch möchte nur sichergehen, dass meine Bewerbung vollständig bei Ihnen eingegangen ist und __5__ berücksichtigt wird.\n\nVielen Dank für Ihre Mühe. Über eine kurze Information __6__ ich mich sehr freuen.\n\nMit freundlichen Grüßen,\n\nMax Mustermann",
+    "thema": "Bitte um Klärung einiger Punkte zur Projektaufgabe",
+    "textinhalt": "Sehr geehrte Frau Jansen,\n\nvielen Dank für die Zusendung der detaillierten Aufgabenbeschreibung für das Projekt \"Neukundenakquise Online\" am vergangenen Freitag. Ich habe die Unterlagen sorgfältig durchgelesen.\n\nEinige Punkte erscheinen mir noch nicht ganz eindeutig, __1__ wende ich mich heute mit einer Bitte um Klärung an Sie. Meine Fragen beziehen sich __2__ auf den Abschnitt zur Zeitplanung für die Marktanalyse. Es ist angegeben, dass diese „zeitnah“ erfolgen soll. __3__ ich mit der konkreten Ressourcenzuweisung beginne, wäre es für mich sehr hilfreich zu wissen, ob hierfür ein genauerer Zeitrahmen, z.B. innerhalb der nächsten zwei Wochen, vorgesehen ist.\n\nUm hier präzise planen zu können und Missverständnisse zu vermeiden, bitte ich __4__ um eine kurze Präzisierung dieses Punktes.\n\nIch stehe Ihnen __5__ auch gerne für ein kurzes Telefonat zur Verfügung, um dies und eventuelle weitere Fragen schnell zu besprechen. __6__ könnten wir sicherstellen, dass alle Anforderungen klar sind und das Projekt effizient gestartet werden kann.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auch"
+            "content": "bevor"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "danach"
         },
         {
             "id": "c",
-            "content": "obwohl"
+            "content": "darum"
         },
         {
             "id": "d",
-            "content": "würde"
-        },
-        {
-            "id": "e",
-            "content": "da"
-        },
-        {
-            "id": "f",
-            "content": "bereits"
-        },
-        {
-            "id": "g",
-            "content": "sondern"
-        },
-        {
-            "id": "h",
-            "content": "inzwischen"
-        },
-        {
-            "id": "i",
             "content": "deshalb"
         },
         {
+            "id": "e",
+            "content": "gegebenenfalls"
+        },
+        {
+            "id": "f",
+            "content": "hauptsächlich"
+        },
+        {
+            "id": "g",
+            "content": "insbesondere"
+        },
+        {
+            "id": "h",
+            "content": "somit"
+        },
+        {
+            "id": "i",
+            "content": "trotzdem"
+        },
+        {
             "id": "j",
-            "content": "eventuell"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
             "option_id": "a"
         },
         {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "h"
         }
     ]
 }

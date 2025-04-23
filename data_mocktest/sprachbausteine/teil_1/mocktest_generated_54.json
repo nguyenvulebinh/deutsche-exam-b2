@@ -1,14 +1,14 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nbezugnehmend __1__ meine Bewerbung vom 25. April für die Stelle als Marketingassistent möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __2__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, und die Position meinen beruflichen Zielen und Qualifikationen __3__ entspricht, bin ich nach wie vor sehr an dieser Möglichkeit interessiert.\n\nIch verstehe selbstverständlich, dass der Auswahlprozess Zeit benötigt. __4__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung geben könnten, __5__ mit einer Entscheidung zu rechnen ist.\n\nSollten Sie __6__ weitere Informationen oder Dokumente von mir benötigen, stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Ausstellung meines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf das Ende meines Arbeitsverhältnisses in Ihrer Abteilung zum 30. September dieses Jahres und möchte Sie hiermit höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten.\n\nDa ich mich derzeit aktiv auf neue Positionen bewerbe, ist dieses Dokument für meine Unterlagen unerlässlich. Mehrere potenzielle Arbeitgeber erwarten ein solches Zeugnis, __1__ bitte ich um eine entsprechende Bearbeitung. __2__ besteht gemäß §109 GewO ein gesetzlicher Anspruch auf ein schriftliches Zeugnis bei Beendigung eines Arbeitsverhältnisses.\n\nIch bitte Sie, mir das Zeugnis an meine aktuelle Adresse (Musterweg 5, 12345 Beispielstadt) zu senden, __3__ per Einschreiben, um den sicheren Erhalt zu gewährleisten.\n\nFür Rückfragen __4__ des Inhalts oder notwendiger Angaben stehe ich Ihnen gerne telefonisch (0123-456789) oder per E-Mail zur Verfügung. Ich hoffe auf eine positive Rückmeldung und die Zusendung des Zeugnisses __5__.\n\nDie Erstellung eines detaillierten Zeugnisses erfordert sicherlich einigen Aufwand. __6__ bedanke ich mich bereits im Voraus herzlich für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "besonders"
         },
         {
             "id": "b",
-            "content": "auf"
+            "content": "demnächst"
         },
         {
             "id": "c",
@@ -16,37 +16,37 @@
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "genau"
+            "content": "hinsichtlich"
         },
         {
             "id": "f",
-            "content": "gleich"
+            "content": "nämlich"
         },
         {
             "id": "g",
-            "content": "noch"
+            "content": "trotzdem"
         },
         {
             "id": "h",
-            "content": "nun"
+            "content": "überdies"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "vorzugsweise"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "e"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "c"
         }
     ]
 }

@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Vorstellungsgespräch als Marketing Manager am 12. Juni – Nachfrage zum weiteren Vorgehen",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich möchte mich nochmals herzlich für das freundliche und informative Vorstellungsgespräch am vergangenen Dienstag, den 12. Juni, für die Position als Marketing Manager bedanken.\n\nDas Gespräch hat meinen Wunsch, für [Firmenname] tätig zu werden, __1__ bestärkt. Besonders die Ausführungen zu den aktuellen Marketingstrategien fand ich sehr aufschlussreich.\n\nWie besprochen, bin ich __2__ sehr an der Stelle interessiert. __3__ möchte ich mich höflich erkundigen, ob Sie bereits abschätzen können, bis wann etwa mit einer Entscheidung im Auswahlverfahren zu rechnen ist.\n\nIch bin mir bewusst, dass ein sorgfältiger Auswahlprozess Zeit in __4__ nimmt. Sollten Sie __5__ noch weitere Informationen oder Unterlagen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich darauf, __6__ Ihnen zu hören und hoffe auf eine positive Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Beschwerde wegen verzögerter Seminarunterlagen",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nhiermit beziehen wir uns auf das von uns am 15. Mai gebuchte Firmenseminar \"Effektives Zeitmanagement\" (Buchungsnummer: SZ-2024-45B), das am 10. Juni stattfinden soll. Die Buchung wurde Ihrerseits bestätigt.\n\n__1__ müssen wir leider feststellen, dass die versprochenen Seminarunterlagen, die uns __2__ von sieben Werktagen nach Buchung zugesendet werden sollten, bis heute nicht eingetroffen sind. Diese Verzögerung ist äußerst bedauerlich, __3__ unsere Mitarbeiter sich ohne die Materialien nicht angemessen auf das Seminar vorbereiten können. Mehrfache telefonische Nachfragen unsererseits blieben bisher unbeantwortet.\n\nWir bitten Sie __4__ um Klärung des Sachverhalts und um Zusendung der vollständigen Unterlagen bis spätestens Ende dieser Woche. Sollten Sie __5__ keine verbindliche Aussage treffen können oder die Unterlagen nicht rechtzeitig liefern, sehen wir uns gezwungen, nach alternativen Lösungen zu suchen.\n\n__6__ benötigen wir eine Bestätigung, ob der Seminartermin unter diesen Umständen überhaupt gehalten werden kann. Wir erwarten Ihre Rückmeldung bis morgen, den 31. Mai.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "Anspruch"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "über"
+            "content": "bald"
         },
         {
             "id": "c",
-            "content": "Gebrauch"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "von"
+            "content": "dazu"
         },
         {
             "id": "e",
-            "content": "weiterhin"
+            "content": "deswegen"
         },
         {
             "id": "f",
-            "content": "Trotzdem"
+            "content": "folglich"
         },
         {
             "id": "g",
-            "content": "zwischenzeitlich"
+            "content": "innerhalb"
         },
         {
             "id": "h",
-            "content": "Deshalb"
+            "content": "sodass"
         },
         {
             "id": "i",
-            "content": "eigentlich"
+            "content": "umgehend"
         },
         {
             "id": "j",
-            "content": "nach wie vor"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "a"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "f"
         }
     ]
 }

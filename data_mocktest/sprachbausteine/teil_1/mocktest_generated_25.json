@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung vom 15. Mai für die Position als Marketingassistentin möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist bewusst, dass ein sorgfältiger Auswahlprozess Zeit benötigt, __2__ wäre ich Ihnen dankbar für eine kurze Information, wann ich ungefähr mit einer Rückmeldung rechnen kann.\n\nKönnten Sie mir bitte mitteilen, __3__ bereits eine engere Auswahl getroffen wurde oder ob der Prozess noch andauert?\n\nMein Interesse an der Stelle ist __4__ groß, da die beschriebenen Aufgaben und Ihr Unternehmen mich sehr ansprechen.\n\n__5__ ich aktuell auch meine weiteren beruflichen Schritte plane, wäre eine kurze Auskunft über den Zeitrahmen für mich sehr hilfreich.\n\nSollten Sie __6__ noch Fragen zu meinen Unterlagen haben oder weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zum Prozess der Elternzeitbeantragung",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich schreibe Ihnen, da ich plane, bald Elternzeit zu beantragen und einige Fragen zum korrekten Vorgehen habe. Ich habe die Informationen im Mitarbeiterportal bereits studiert, __1__ sind für mich noch einige Punkte unklar geblieben.\n\nDie Berechnung der Fristen erscheint mir komplex, insbesondere bezüglich der Aufteilung der Elternzeit. Ich wäre Ihnen dankbar, wenn Sie mir diesbezüglich weiterhelfen könnten. __2__ wende ich mich direkt an Sie, um Missverständnisse zu vermeiden.\n\n__3__ bin ich unsicher, welche spezifischen Formulare neben dem Hauptantrag eingereicht werden müssen; im Portal wird ein Zusatzdokument erwähnt, das ich jedoch nicht finden kann. Könnten Sie mir mitteilen, wo genau dieses Dokument verfügbar ist oder ob es eventuell veraltet ist?\n\nEine weitere wichtige Frage betrifft die Möglichkeit, __4__ der Elternzeit in Teilzeit zu arbeiten. Gibt es hierfür spezielle Regelungen oder Antragsverfahren, die ich beachten muss? Ich möchte sicherstellen, dass ich alles korrekt berücksichtige, __5__ ich den Antrag final einreiche.\n\nKönnten Sie mir bitte zeitnah eine Rückmeldung geben, damit ich den Antrag __6__ und fristgerecht stellen kann?\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "dennoch"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "wann"
+            "content": "bevor"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "daher"
         },
         {
             "id": "d",
-            "content": "gegebenenfalls"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "trotz"
+            "content": "innerhalb"
         },
         {
             "id": "f",
-            "content": "weiterhin"
+            "content": "ordnungsgemäß"
         },
         {
             "id": "g",
-            "content": "bereits"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "nach"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "deshalb"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "ob"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "f"
         }
     ]
 }

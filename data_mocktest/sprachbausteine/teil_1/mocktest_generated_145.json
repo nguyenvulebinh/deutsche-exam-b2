@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 05. Juni",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich mich __1__ dem Stand meiner Bewerbung für die Stelle als Marketingassistent erkundigen, die ich Ihnen am 05. Juni zugesandt habe.\n\nDa ich bisher noch keine Rückmeldung erhalten habe und __2__ einige Wochen vergangen sind, wollte ich höflich nachfragen.\n\nKönnten Sie mir vielleicht mitteilen, __3__ sich der Auswahlprozess aktuell befindet oder wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nMein Interesse an dieser Position ist __4__ groß, da die Aufgabenbeschreibung sehr gut zu meinen Fähigkeiten und beruflichen Zielen passt. Ich bin nach wie vor davon überzeugt, dass ich Ihr Team gut ergänzen __5__ .\n\nIch wäre Ihnen dankbar für eine kurze Rückmeldung. __6__ verbleibe ich\n\nmit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Terminverschiebung – Projektbesprechung XY",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf unseren vereinbarten Termin für die Projektbesprechung XY am kommenden Freitag, den [Datum], um 10:00 Uhr.\n\nLeider muss ich diesen Termin __1__ eines kurzfristig angesetzten, dringenden Kundentermins absagen, der nicht verschoben werden kann. __2__ bitte ich um Ihr Verständnis und um eine Verschiebung unseres Treffens.\n\nIch habe __3__ in meinem Kalender nach alternativen Zeiten gesucht. Wäre es Ihnen möglich, sich __4__ am Montagnachmittag, dem [Datum], oder Dienstagmorgen, dem [Datum], zu treffen?\n\nBitte teilen Sie mir __5__ mit, ob einer dieser Termine für Sie passt oder schlagen Sie __6__ einen anderen Zeitpunkt vor, falls Ihnen diese Vorschläge nicht zusagen.\n\nVielen Dank für Ihre Flexibilität.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Absender]",
     "options": [
         {
             "id": "a",
-            "content": "Bis dahin"
+            "content": "ansonsten"
         },
         {
             "id": "b",
-            "content": "inzwischen"
+            "content": "aufgrund"
         },
         {
             "id": "c",
-            "content": "könnte"
+            "content": "bereits"
         },
         {
             "id": "d",
-            "content": "nach"
+            "content": "daher"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "gegebenenfalls"
         },
         {
             "id": "f",
-            "content": "seitdem"
+            "content": "später"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "stattdessen"
         },
         {
             "id": "h",
-            "content": "weiterhin"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "wo"
+            "content": "umgehend"
         },
         {
             "id": "j",
-            "content": "würde"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
             "option_id": "b"
         },
         {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
             "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "e"
         }
     ]
 }

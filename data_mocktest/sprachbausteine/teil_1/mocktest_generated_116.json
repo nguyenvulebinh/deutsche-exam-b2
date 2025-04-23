@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent/-in vom 10.06.2024 - Kennziffer MA-451",
-    "textinhalt": "Sehr geehrte Frau Wagner,\n\n__1__ auf meine Bewerbung vom 10.06.2024 auf die Stelle als Marketingassistent/-in (Kennziffer MA-451) möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\nDa inzwischen einige Zeit vergangen ist und ich __2__ keine Eingangsbestätigung oder weitere Information erhalten habe, wollte ich __3__ kurz nachfragen.\nMein Interesse an dieser Position ist __4__ ungebrochen, da die Aufgabenbeschreibung sehr gut zu meinen Qualifikationen und beruflichen Zielen passt.\nIch wäre Ihnen dankbar, wenn Sie mir mitteilen könnten, __5__ Sie mir bereits eine ungefähre Auskunft über den weiteren Zeitrahmen geben können.\nFür Rückfragen stehe ich Ihnen selbstverständlich jederzeit gerne __6__ Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n[Ihr Name]",
+    "thema": "Anfrage bezüglich Auftragsstatus und Liefertermin",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung Nr. 4711 vom 15. Mai. Die Lieferung der darin enthaltenen Komponenten war __1__ für den 5. Juni zugesagt.\n\nDieser Termin ist nun leider verstrichen, ohne dass wir eine Benachrichtigung über eine mögliche Verzögerung erhalten hätten. __2__ benötigen wir die bestellten Komponenten dringend für unsere laufende Produktion, da ein weiterer Verzug zu erheblichen Problemen führen würde.\n\nKönnten Sie uns bitte mitteilen, wie der aktuelle Status der Lieferung __3__ ist? Wir bitten zudem um eine verbindliche Auskunft __4__ des neuen, zu erwartenden Lieferdatums.\n\nWir müssen unsere Produktionsplanung dringend aktualisieren. Sollten wir von Ihnen keine zeitnahe und verlässliche Zusage erhalten können, müssten wir uns __5__ nach alternativen Lieferanten umsehen.\n\nWir bitten __6__ um Ihre Rückmeldung und hoffen auf eine baldige Klärung.\n\nMit freundlichen Grüßen\n\n[Name / Abteilung Einkauf]",
     "options": [
         {
             "id": "a",
-            "content": "für"
+            "content": "andernfalls"
         },
         {
             "id": "b",
-            "content": "Bezugnehmend"
+            "content": "anstatt"
         },
         {
             "id": "c",
-            "content": "wann"
+            "content": "bereits"
         },
         {
             "id": "d",
-            "content": "weiterhin"
-        },
-        {
-            "id": "e",
-            "content": "ob"
-        },
-        {
-            "id": "f",
             "content": "deshalb"
         },
         {
+            "id": "e",
+            "content": "eigentlich"
+        },
+        {
+            "id": "f",
+            "content": "hinsichtlich"
+        },
+        {
             "id": "g",
-            "content": "bislang"
+            "content": "inzwischen"
         },
         {
             "id": "h",
-            "content": "zur"
-        },
-        {
-            "id": "i",
             "content": "trotzdem"
         },
         {
+            "id": "i",
+            "content": "umgehend"
+        },
+        {
             "id": "j",
-            "content": "weil"
+            "content": "ursprünglich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
             "option_id": "d"
         },
         {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "i"
         }
     ]
 }

@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Projektmanager. Da ich __1__ keine Rückmeldung oder Eingangsbestätigung erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch möchte hiermit bestätigen, dass ich __2__ sehr an dieser Position interessiert bin. Die in der Ausschreibung genannten Aufgabenbereiche passen ausgezeichnet zu meinen Qualifikationen und beruflichen Zielen.\n\nIch wäre Ihnen dankbar, __3__ Sie mir einen kurzen Hinweis geben könnten, wann ungefähr mit einer Entscheidung oder den nächsten Schritten im Verfahren zu rechnen ist. Dies würde mir bei meiner weiteren Planung sehr helfen.\n\n__4__ Sie zusätzliche Informationen oder Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch kann Ihnen diese gerne __5__ nachreichen und freue mich __6__ Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Klärung einiger Projektdetails",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nvielen Dank für die Übermittlung der Projektunterlagen für das neue Marketingkonzept \"Frühlingserwachen\". Ich habe die Dokumente bereits gesichtet und finde das Projekt sehr spannend. __1__ sind bei der ersten Durchsicht noch einige Fragen aufgetaucht, die ich gerne klären würde, bevor ich tiefer in die Detailplanung einsteige.\n\nZum einen bin ich mir unsicher __2__ der genauen Definition der primären Zielgruppe. Die Unterlagen erwähnen sowohl junge Familien als auch Senioren. Könnten Sie präzisieren, welche Gruppe Priorität hat, __3__ der Kampagnenentwicklung? Das ist wichtig für die Tonalität und Kanalauswahl.\n\n__4__ bitte ich um Information, ob es bereits einen festgelegten Budgetrahmen für externe Dienstleister (z.B. Grafikdesign, Druck) gibt. Eine frühzeitige Kenntnis darüber wäre für die realistische Planung unerlässlich. Wären Sie __5__ bereit, das Budget bei Bedarf leicht anzupassen?\n\nIch wäre Ihnen dankbar, wenn wir kurzfristig __6__ sprechen könnten. Vielleicht passt es Ihnen ja morgen Vormittag? Ansonsten schlagen Sie gerne einen anderen Termin vor.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nAnna Meyer",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "bezüglich"
         },
         {
             "id": "b",
-            "content": "bisher"
+            "content": "darüber"
         },
         {
             "id": "c",
-            "content": "Falls"
+            "content": "deswegen"
         },
         {
             "id": "d",
-            "content": "ob"
+            "content": "ferner"
         },
         {
             "id": "e",
-            "content": "rechtzeitig"
+            "content": "gegebenenfalls"
         },
         {
             "id": "f",
-            "content": "Sollten"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "umgehend"
+            "content": "sonst"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "a"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "b"
         }
     ]
 }

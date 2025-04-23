@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 05.06.2024",
-    "textinhalt": "Sehr geehrte Frau Keller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 05.06.2024.\n\n__1__ nun bereits einige Wochen vergangen sind, ohne dass ich eine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __2__ mitteilen, __3__ ich ungefähr mit einer Entscheidung rechnen kann?\n\nIch möchte __4__ betonen, dass mein Interesse an dieser Position bei Ihnen unverändert groß ist, da die beschriebenen Aufgaben sehr gut zu meinen Qualifikationen und beruflichen Zielen passen.\n\nSollten Sie __5__ Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nÜber eine __6__ Antwort würde ich mich sehr freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Klärung – Projekt 'Alpha'",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nich beziehe mich auf unser gestriges Kick-off-Meeting zum Projekt 'Alpha'. Vielen Dank nochmals für die Vorstellung der Projektziele.\n\nDas Meeting war sehr informativ, __1__ sind für mich einige Punkte bezüglich der nächsten Schritte unklar geblieben. __2__ möchte ich Sie __3__ um eine kurze Klärung bitten, insbesondere __4__ der genauen Aufgabenverteilung im Team für die Marktanalyse. Mir ist nicht ganz klar geworden, wer hierfür die Federführung übernimmt.\n\n__5__ ich über die Aufgaben nachdenke, bin ich unsicher, wie ich meine eigenen Kapazitäten am besten einplanen soll. Eine klare Zuweisung würde mir sehr helfen, effizient weiterzuarbeiten.\n\nWäre es möglich, dass wir uns dazu kurz telefonisch austauschen? Ich stehe Ihnen flexibel zur Verfügung und passe mich gerne Ihrem Zeitplan an. __6__ könnten wir dies auch schnell per E-Mail klären, falls Ihnen das lieber ist.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMaria Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "baldige"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "dennoch"
         },
         {
             "id": "c",
-            "content": "hiermit"
+            "content": "gegebenenfalls"
         },
         {
             "id": "d",
-            "content": "kurz"
+            "content": "hiermit"
         },
         {
             "id": "e",
-            "content": "noch"
+            "content": "hinsichtlich"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "seitdem"
         },
         {
             "id": "g",
-            "content": "Obwohl"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "wann"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "weitere"
+            "content": "weshalb"
         },
         {
             "id": "j",
-            "content": "zeitnahe"
+            "content": "wodurch"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "e"
         },
         {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "c"
         }
     ]
 }

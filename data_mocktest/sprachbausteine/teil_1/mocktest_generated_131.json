@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager Marketing vom 15. Mai",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung als Projektmanager Marketing vom 15. Mai.\n__1__ sind seitdem mehrere Wochen vergangen, und ich möchte mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\nMein Interesse an der Position ist __2__ sehr groß, da die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht.\nIch wäre Ihnen dankbar, wenn Sie mir mitteilen könnten, __3__ ungefähr mit einer Rückmeldung zu rechnen ist.\nDiese Information wäre für meine weitere Planung sehr hilfreich, __4__ ich auch andere Optionen prüfe.\n__5__ möchte ich nochmals betonen, dass die Stelle bei Ihnen meine bevorzugte Wahl darstellt.\nIch würde mich __6__ eine baldige Nachricht von Ihnen sehr freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Name des Bewerbers / der Bewerberin]",
+    "thema": "Betreff: Update zu Ihrer Supportanfrage Nr. 884-B (Softwareproblem X)",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nwir beziehen uns auf Ihre Supportanfrage Nr. 884-B vom [Datum] bezüglich des Problems mit Software X und verstehen Ihre Nachfrage bezüglich der Bearbeitungsdauer. Wir hatten ursprünglich eine schnellere Lösung prognostiziert, __1__ haben sich bei der Detailanalyse unerwartete technische Komplexitäten gezeigt. Wir bitten die dadurch entstandene Verzögerung zu entschuldigen.\n\nDie Verzögerung ist __2__ dieser unvorhergesehenen Schwierigkeiten eingetreten, die eine tiefgreifendere Untersuchung erfordern als zunächst angenommen. Wir haben __3__ unsere erfahrensten Spezialisten für dieses Modul hinzugezogen, um den Prozess zu beschleunigen.\n\nWir prüfen derzeit einen möglichen Workaround, der Ihnen die Nutzung der Kernfunktionen vorübergehend ermöglichen könnte. Dieser Workaround behebt das Problem nicht vollständig, __4__ könnte er Ihre Arbeitsabläufe bis zur finalen Lösung unterstützen. Wir würden Ihnen die Details dazu separat zukommen lassen, falls gewünscht.\n\nBitte teilen Sie uns mit, ob Sie an diesem temporären Workaround interessiert sind. Sie können uns __5__ auch direkt unter [Telefonnummer] erreichen, um alternative Übergangslösungen zu besprechen.\n\nWir arbeiten mit Hochdruck an der Fehlerbehebung und werden Sie __6__ über den Fortschritt informieren, spätestens jedoch bis [Datum + 3 Tage].\n\nVielen Dank für Ihre Geduld und Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nIhr IT-Support Team",
     "options": [
         {
             "id": "a",
-            "content": "Auf"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "Ob"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "Inzwischen"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "da"
+            "content": "infolge"
         },
         {
             "id": "f",
-            "content": "über"
+            "content": "insofern"
         },
         {
             "id": "g",
-            "content": "wann"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "Zudem"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "Seitdem"
+            "content": "zeitnah"
         },
         {
             "id": "j",
-            "content": "Obwohl"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
             "option_id": "g"
         },
         {
-            "blank": "4",
+            "blank": "2",
             "option_id": "e"
         },
         {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "i"
         }
     ]
 }

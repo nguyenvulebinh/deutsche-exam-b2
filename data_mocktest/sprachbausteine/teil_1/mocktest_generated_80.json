@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Manager vom 05. März",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich __1__ meine Bewerbung für die ausgeschriebene Stelle als Marketing-Manager, die ich Ihnen am 05. März über Ihr Online-Portal übermittelt habe.\n\n__2__ nun einige Zeit vergangen ist, wollte ich mich höflich __3__ dem aktuellen Stand des Bewerbungsprozesses erkundigen.\n\nIch bin nach wie vor sehr an dieser Position interessiert, da sie ideal meinen Qualifikationen und beruflichen Zielen entspricht. Selbstverständlich ist mir bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungen Zeit __4__.\n\nKönnten Sie mir __5__ mitteilen, __6__ ungefähr mit einer Entscheidung oder dem nächsten Schritt im Verfahren zu rechnen ist?\n\nFür Rückfragen stehe ich Ihnen selbstverständlich jederzeit zur Verfügung. Vielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich schreibe Ihnen bezüglich meines Anliegens, ein Zwischenzeugnis zu erhalten. __1__ beantrage ich die Ausstellung eines qualifizierten Zwischenzeugnisses.\n\nIch bin nun __2__ seit über sieben Jahren in meiner Position als Projektmanager im Marketingteam tätig. __3__ möchte ich meine bisherigen Leistungen und Entwicklungen gerne offiziell dokumentiert haben, auch im Hinblick auf mögliche zukünftige interne Weiterentwicklungsmöglichkeiten.\n\nIch bitte um Verständnis für diesen Wunsch, __4__ die sorgfältige Erstellung eines solchen Dokuments natürlich Zeit beansprucht. Dennoch ist mir dieses Zeugnis aus den genannten Gründen sehr wichtig.\n\nIch bitte darum, dass das Zeugnis eine umfassende Bewertung meiner Tätigkeiten und Leistungen enthält, __5__ einer bloßen Auflistung meiner Aufgabenbereiche. Besonders wichtig wären mir die Erwähnung meiner Verantwortung im Projekt X und der erfolgreichen Einführung der Y-Kampagne.\n\nSollten Sie weitere Informationen von mir benötigen oder Rückfragen haben, stehe ich Ihnen __6__ gerne für ein kurzes Gespräch zur Verfügung.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMaximilian Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "anstatt"
         },
         {
             "id": "b",
-            "content": "kostet"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "auf"
+            "content": "bereits"
         },
         {
             "id": "d",
-            "content": "wenn"
+            "content": "dabei"
         },
         {
             "id": "e",
-            "content": "nach"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "über"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "benötigt"
+            "content": "hiermit"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "eventuell"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "f"
         }
     ]
 }

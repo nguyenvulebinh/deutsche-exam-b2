@@ -1,42 +1,42 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz vom 10. April",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich beziehe mich auf meine Bewerbung als Marketingassistenz vom 10. April dieses Jahres. Da inzwischen einige Wochen __1__ sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Stelle entspricht __2__ genau meinen beruflichen Vorstellungen und Qualifikationen, weshalb mein Interesse an einer Tätigkeit in Ihrem Unternehmen unverändert groß ist.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, ob der Auswahlprozess noch andauert oder wann __4__ mit einer Entscheidung zu rechnen ist?\n\n__5__ weitere Unterlagen von meiner Seite benötigt werden, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch danke Ihnen __6__ für Ihre Bemühungen und freue mich auf eine baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Klärung – Präsentation Projekt Alpha",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank nochmals für das produktive Meeting gestern zu Projekt Alpha. Wir haben viele Aspekte besprochen, __1__ bin ich mir bezüglich der genauen Definition der Zielgruppe für die Abschlusspräsentation noch etwas unsicher.\n\nSie erwähnten kurz ein spezifisches Template, __2__ wir die Struktur diskutierten. Könnten Sie mir dieses bitte zukommen lassen? Ich benötige es __3__ für die Erstellung des ersten Entwurfs.\n\n__4__ wäre es hilfreich zu wissen, ob ich die Marktanalyse ausschließlich __5__ der internen Umfrageergebnisse darstellen soll, oder ob auch externe Datenquellen erwartet werden.\n\nIch möchte sicherstellen, dass die Präsentation alle Anforderungen erfüllt und könnte den Fokus __6__ noch anpassen, sobald die Zielgruppe und Datenbasis final geklärt sind.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "anhand"
         },
         {
             "id": "b",
-            "content": "eventuell"
+            "content": "bevor"
         },
         {
             "id": "c",
-            "content": "Falls"
+            "content": "dafür"
         },
         {
             "id": "d",
-            "content": "im Voraus"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "nach wie vor"
+            "content": "ferner"
         },
         {
             "id": "f",
-            "content": "Ob"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "ungefähr"
+            "content": "hierfür"
         },
         {
             "id": "h",
-            "content": "vergangen"
+            "content": "sicherlich"
         },
         {
             "id": "i",
-            "content": "vorbei"
+            "content": "trotzdem"
         },
         {
             "id": "j",
@@ -46,27 +46,27 @@
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "i"
         },
         {
             "blank": "2",
-            "option_id": "e"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
             "option_id": "g"
         },
         {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "f"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 05. Juni",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend __1__ meine Bewerbung vom 05. Juni auf die Position als Projektmanager möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ ich bisher keine Rückmeldung erhalten habe und die in der Ausschreibung genannte Frist für eine erste Rückmeldung bereits verstrichen ist, wollte ich nachfragen, ob meine Unterlagen vollständig eingegangen sind und bearbeitet werden.\n\nIch bin __3__ sehr an dieser Position und einer Tätigkeit in Ihrem Unternehmen interessiert, da die Aufgabenbeschreibung und die Werte Ihres Unternehmens meinen Vorstellungen und Qualifikationen stark entsprechen.\n\nKönnten Sie mir __4__ mitteilen, __5__ ungefähr mit einer Entscheidung oder zumindest einer Information über die nächsten Schritte im Bewerbungsprozess zu rechnen ist? Dieses Wissen wäre für meine weitere Planung hilfreich.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich jederzeit zur Verfügung.\n\nVielen Dank __6__ Ihre Bemühungen im Voraus.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu Ihrer Software ProjectFlow Suite",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir sind auf Ihrer Webseite auf Ihre Softwarelösung „ProjectFlow Suite“ aufmerksam geworden und prüfen derzeit verschiedene Tools zur Optimierung unseres internen Projektmanagements. __1__ bitten wir Sie um detailliertere Informationen zu diesem Produkt.\n\nKönnten Sie uns __2__ der „ProjectFlow Suite“ bitte umfassende Unterlagen zusenden? Uns interessieren __3__ die Module für Teamkollaboration und Reporting. Welche spezifischen Funktionen bieten diese?\n\nWeiterhin ist für uns entscheidend, ob eine Integration in unsere bestehende ERP-Systemlandschaft möglich ist. Bitte teilen Sie uns mit, __4__ Ihre Software entsprechende Schnittstellen anbietet und welche technischen Voraussetzungen __5__ zu beachten sind. Gibt es die Möglichkeit einer kostenlosen Testversion oder einer Live-Demo?\n\nZuletzt benötigen wir Angaben zu Ihren Lizenz- und Preismodellen sowie den verfügbaren Support-Optionen. Da unsere Projektplanung zeitkritisch ist, wären wir Ihnen für eine Rückmeldung __6__ sehr dankbar.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Ihre Firma]",
     "options": [
         {
             "id": "a",
-            "content": "An"
+            "content": "baldmöglichst"
         },
         {
             "id": "b",
-            "content": "Ob"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "dabei"
         },
         {
             "id": "d",
-            "content": "weiterhin"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "insbesondere"
         },
         {
             "id": "f",
-            "content": "Wegen"
+            "content": "nämlich"
         },
         {
             "id": "g",
-            "content": "auf"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "sofern"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "für"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
-        },
-        {
-            "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
             "option_id": "d"
         },
         {
-            "blank": "4",
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
             "option_id": "e"
         },
         {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "a"
         }
     ]
 }

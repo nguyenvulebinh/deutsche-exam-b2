@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] vom [Date]",
-    "textinhalt": "Sehr geehrte/r Frau/Herr [Name] / Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Stelle als [Job Title], die ich Ihnen am [Date] habe zukommen lassen.\n\n__1__ sind seit dem Bewerbungsschluss bzw. meiner Einreichung bereits einige Wochen vergangen. __2__ möchte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlprozesses ist und ob bereits eine Vorauswahl getroffen wurde.\n\nDa ich __3__ ein anderes Stellenangebot erhalten habe, für das ich mich zeitnah entscheiden müsste, wäre eine kurze Information Ihrerseits sehr hilfreich. Könnten Sie mir bitte mitteilen, __4__ ich voraussichtlich mit einer Rückmeldung zu meiner Bewerbung rechnen kann?\n\nIch bin nach wie vor sehr an der Position in Ihrem Unternehmen interessiert, insbesondere __5__ der spannenden Aufgabenbeschreibung und des guten Rufs Ihres Hauses.\n\nSollten Sie Rückfragen __6__ meinen eingereichten Unterlagen haben oder weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne jederzeit zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Klärung: Feedback zum Bericht XYZ",
+    "textinhalt": "Sehr geehrte/r Frau/Herr [Manager Name],\n\nvielen Dank für Ihr schnelles Feedback __1__ meines Berichts XYZ vom [Datum]. Ihre Anmerkungen sind generell sehr hilfreich und zeigen mir wichtige Verbesserungspotenziale auf.\n\nIch habe die Kommentare sorgfältig durchgelesen. Bei den meisten Punkten ist mir klar, was zu tun ist, __2__ bei Ihrer Anmerkung zu Abschnitt 3 („fehlende strategische Ausrichtung“) bin ich mir nicht ganz sicher, was genau gemeint ist. Könnten Sie mir __3__ erläutern, welche Aspekte hier noch stärker herausgearbeitet werden sollen? Eine kurze Präzisierung wäre sehr hilfreich, __4__ ich die Überarbeitung zielgerichtet und effizient vornehmen kann.\n\nIch habe __5__ begonnen, die anderen Punkte entsprechend Ihren Vorschlägen anzupassen und plane, Ihnen die überarbeitete Version zukommen zu lassen, __6__ ich Ihre Klärung zu Abschnitt 3 erhalten habe.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\n[Your Name]",
     "options": [
         {
             "id": "a",
-            "content": "trotzdem"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "zu"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "inzwischen"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "wann"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "wegen"
+            "content": "dennoch"
         },
         {
             "id": "f",
-            "content": "auch"
+            "content": "eigentlich"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "konkret"
         },
         {
             "id": "h",
-            "content": "aufgrund"
+            "content": "sobald"
         },
         {
             "id": "i",
-            "content": "seitdem"
+            "content": "solange"
         },
         {
             "id": "j",
-            "content": "deshalb"
+            "content": "trotz"
         }
     ],
     "loesung": [
@@ -50,11 +50,11 @@
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "f"
+            "option_id": "g"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "h"
         }
     ]
 }

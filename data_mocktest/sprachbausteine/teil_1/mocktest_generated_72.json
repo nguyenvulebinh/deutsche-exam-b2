@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager vom 25. April dieses Jahres und möchte mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ ich bisher keine Rückmeldung erhalten habe, wollte ich sicherstellen, dass meine Unterlagen vollständig bei Ihnen eingegangen sind. Die ausgeschriebene Position entspricht __2__ meinen beruflichen Zielen und Qualifikationen, und ich bin nach wie vor sehr an einer Tätigkeit in Ihrem Unternehmen interessiert.\n\nKönnten Sie mir __3__ mitteilen, ob der Auswahlprozess noch andauert oder wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __4__ ich mich auch auf andere Stellen beworben habe.\n\nSelbstverständlich stehe ich Ihnen __5__ für ein Vorstellungsgespräch zur Verfügung.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung geben __6__.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Bestätigung und Fragen zur internen Schulung",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank für die Einladung zur internen Schulung „Effektive Teamkommunikation“ am 15. und 16. dieses Monats. Gerne bestätige ich meine Teilnahme.\n\nIn der Einladung werden Vorbereitungsmaterialien erwähnt. __1__ konnte ich diese bisher nicht im Intranet finden. Könnten Sie mir bitte mitteilen, wo genau die Unterlagen hinterlegt sind?\n\n__2__ würde mich interessieren, ob spezielle Software __3__ des Workshops benötigt wird, die ich eventuell vorab installieren müsste. Diese Information wäre für meine technische Vorbereitung hilfreich.\n\nIch habe am zweiten Schulungstag (16.) vormittags einen unaufschiebbaren Arzttermin. Wäre es ausnahmsweise möglich, die erste Stunde zu verpassen, __4__ ich den versäumten Inhalt eigenständig nacharbeite?\n\nBitte teilen Sie mir kurz mit, __5__ diese Vorgehensweise für Sie akzeptabel ist. Die benötigten Vorbereitungsmaterialien bräuchte ich __6__, um mich angemessen vorbereiten zu können.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Deshalb"
+            "content": "baldmöglichst"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "deswegen"
         },
         {
             "id": "d",
-            "content": "genau"
+            "content": "falls"
         },
         {
             "id": "e",
-            "content": "jederzeit"
+            "content": "ferner"
         },
         {
             "id": "f",
-            "content": "Können"
+            "content": "ob"
         },
         {
             "id": "g",
-            "content": "könnten"
+            "content": "solange"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "Während"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "zumal"
+            "content": "worauf"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "j"
-        },
-        {
-            "blank": "5",
             "option_id": "e"
         },
         {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "b"
         }
     ]
 }

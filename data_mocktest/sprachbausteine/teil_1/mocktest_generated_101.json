@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend __1__ meine Bewerbung vom 25. April für die ausgeschriebene Stelle als Marketingmanager möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin mir bewusst, dass die sorgfältige Prüfung aller Unterlagen einige Zeit __2__ nimmt.\n\n__3__ ich weiterhin sehr an dieser Position interessiert bin und glaube, mit meinen Qualifikationen gut in Ihr Team zu passen, wäre ich Ihnen für eine kurze Rückmeldung dankbar.\n\nKönnten Sie mir __4__ mitteilen, wann etwa mit einer Entscheidung zu rechnen ist?\n\nSollten Sie __5__ noch Fragen zu meinen Unterlagen haben oder weitere Dokumente benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch sehe Ihrer Antwort mit großem Interesse __6__.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfrage zu Projektanweisungen vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für die Zusendung der detaillierten Projektanweisungen vom 15. Mai für das neue Marketingprojekt \"Sommerkampagne 2024\". Ich habe die Unterlagen erhalten, __1__ sind mir bei der Durchsicht einige Punkte noch nicht ganz klar geworden.\n\nDie allgemeinen Projektziele und der Zeitrahmen sind verständlich dargelegt. Unklarheiten bestehen __2__ bei den Abschnitten zur Budgetzuweisung und den spezifischen Reporting-Anforderungen. Ich möchte sichergehen, dass ich alles korrekt verstanden habe, __3__ möchte ich ungern mit unvollständigen Informationen starten und möglicherweise Fehler machen.\n\nKönnten Sie mir diese Punkte bitte kurz erläutern, __4__ ich effizient und zielgerichtet mit der Arbeit beginnen kann?\n\nIch wäre Ihnen dankbar, wenn wir __5__ einen kurzen Telefontermin vereinbaren könnten, vielleicht 10-15 Minuten. Hätten Sie eventuell morgen Vormittag oder am frühen Nachmittag Zeit für ein Gespräch __6__ meiner Fragen? Alternativ stehe ich auch für ein kurzes Treffen in Ihrem Büro zur Verfügung.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Anspruch"
+            "content": "damit"
         },
         {
             "id": "c",
-            "content": "auf"
+            "content": "ebenfalls"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "folglich"
         },
         {
             "id": "e",
-            "content": "entgegen"
+            "content": "hinsichtlich"
         },
         {
             "id": "f",
-            "content": "eventuell"
+            "content": "insbesondere"
         },
         {
             "id": "g",
-            "content": "gegenüber"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "in Anspruch"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "zwischenzeitlich"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "3",
@@ -58,7 +58,7 @@
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "5",

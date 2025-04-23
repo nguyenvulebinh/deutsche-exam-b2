@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 25. April für die ausgeschriebene Stelle als Marketingassistent in Ihrem Unternehmen.\n\nDa ich bisher noch keine Rückmeldung erhalten habe und die Position für mich von großem Interesse ist, möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist natürlich bewusst, dass ein sorgfältiger Prozess Zeit benötigt, __1__ würde ich mich über eine kurze Information freuen, ob meine Bewerbung noch im Rennen ist.\n\nIch bin __2__ sehr motiviert, meine Fähigkeiten und Erfahrungen in Ihr Team einzubringen und sehe in der Position eine hervorragende berufliche Perspektive. Könnten Sie mir __3__ eine ungefähre Zeitangabe machen, wann mit einer Entscheidung zu rechnen ist?\n\nFür ein persönliches Vorstellungsgespräch stehe ich Ihnen __4__ zur Verfügung, um Sie von meiner Eignung zu überzeugen.\n\nIch hoffe zudem, dass meine __5__ eingereichten Unterlagen vollständig bei Ihnen eingegangen sind. Sollte noch etwas fehlen, reiche ich dies selbstverständlich umgehend nach.\n\nIch würde mich sehr __6__ eine baldige positive Nachricht von Ihnen freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich Projektdetails \"Kundenportal Plus\"",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf das neue Projekt \"Kundenportal Plus\", für das ich kürzlich eingeteilt wurde. Vielen Dank für diese interessante Aufgabe. __1__ möchte ich sicherstellen, dass ich die ersten Schritte korrekt angehe.\n\nIch habe die Projektbeschreibung und die bisherigen Protokolle durchgesehen. __2__ sind mir einige Punkte bezüglich der unmittelbaren Prioritäten noch nicht ganz klar.\n\nKönnten Sie bitte präzisieren, __3__ die Integration der bestehenden Kundendatenbank bereits in Phase 1 erfolgen soll? Die Dokumentation ist hierzu nicht eindeutig. __4__ wäre es hilfreich zu wissen, ob es bereits Absprachen mit dem IT-Support bezüglich der technischen Infrastruktur gibt.\n\nIch bin __5__ dabei, einen detaillierten Arbeitsplan zu entwerfen, würde diesen aber gerne finalisieren, sobald die offenen Fragen geklärt sind. __6__ könnten wir uns dazu kurzfristig für 15-20 Minuten austauschen?\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "bereit"
+            "content": "bereits"
         },
         {
             "id": "b",
-            "content": "weiterhin"
-        },
-        {
-            "id": "c",
-            "content": "auf"
-        },
-        {
-            "id": "d",
-            "content": "deshalb"
-        },
-        {
-            "id": "e",
             "content": "dennoch"
         },
         {
+            "id": "c",
+            "content": "gegebenenfalls"
+        },
+        {
+            "id": "d",
+            "content": "inwieweit"
+        },
+        {
+            "id": "e",
+            "content": "nämlich"
+        },
+        {
             "id": "f",
-            "content": "eventuell"
+            "content": "somit"
         },
         {
             "id": "g",
-            "content": "außerdem"
+            "content": "trotz"
         },
         {
             "id": "h",
-            "content": "jederzeit"
+            "content": "während"
         },
         {
             "id": "i",
-            "content": "über"
+            "content": "zudem"
         },
         {
             "id": "j",
-            "content": "bereits"
+            "content": "zunächst"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "j"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "h"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "c"
         }
     ]
 }

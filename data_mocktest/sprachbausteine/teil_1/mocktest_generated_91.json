@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nhiermit beziehe ich mich __1__ meine Bewerbung vom 15. Mai für die ausgeschriebene Stelle als Projektmanager in Ihrem Unternehmen.\n\nDa __2__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mein Interesse an dieser Position und an der Arbeit in Ihrem Team ist __3__ sehr groß.\n\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer ersten Rückmeldung oder einer Entscheidung bezüglich der nächsten Schritte zu rechnen ist? Das würde mir bei meiner weiteren Planung sehr helfen.\n\nSollten Sie __5__ zusätzliche Informationen oder Dokumente von mir benötigen, lassen Sie es mich bitte wissen. Ich stehe Ihnen dafür gerne zur Verfügung.\n\nIch bedanke mich im Voraus für Ihre Bemühungen und sehe Ihrer baldigen Antwort __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zu Terminanfrage Projekt X",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine E-Mail von letzter Woche möchte ich mich nochmals wegen eines Termins für die Besprechung des Projekts X melden. __1__ habe ich leider noch keine Rückmeldung von Ihnen erhalten.\n\nDas Projekt tritt nun in eine kritische Phase ein, __2__ sind noch einige wichtige Punkte ungeklärt, die wir dringend besprechen müssten. Ich möchte Sie bitten, mir einige Terminvorschläge für diese Woche oder Anfang nächster Woche zu nennen, __3__ wir die nächsten Schritte rechtzeitig planen können.\n\nKönnten Sie mir __4__ des benötigten Budgets bereits vorab einige Informationen zukommen lassen? Dies würde die Besprechung effizienter gestalten. Teilen Sie mir bitte auch mit, ob Sie ein Online-Meeting bevorzugen oder __5__ ein persönliches Treffen in Ihrem Büro möglich wäre.\n\nIch bitte um eine __6__ Rückmeldung, da die Zeit drängt.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "bereit"
+            "content": "bisher"
         },
         {
             "id": "c",
-            "content": "eigentlich"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "entgegen"
-        },
-        {
-            "id": "e",
             "content": "eventuell"
         },
         {
+            "id": "e",
+            "content": "gegebenenfalls"
+        },
+        {
             "id": "f",
-            "content": "inzwischen"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "noch"
+            "content": "sodass"
         },
         {
             "id": "h",
-            "content": "seitdem"
-        },
-        {
-            "id": "i",
             "content": "trotzdem"
         },
         {
+            "id": "i",
+            "content": "umgehend"
+        },
+        {
             "id": "j",
-            "content": "weiterhin"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "i"
         }
     ]
 }

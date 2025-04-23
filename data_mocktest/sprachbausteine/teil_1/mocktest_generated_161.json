@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf meine Bewerbung als Marketing Manager, die ich Ihnen am 15. Mai zugesandt habe.\n\nDa ich __1__ noch keine Rückmeldung bezüglich des weiteren Vorgehens erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist __2__ bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungen Zeit in Anspruch nimmt. __3__ mein großes Interesse an dieser spezifischen Position und Ihrem Unternehmen unverändert fortbesteht, wäre ich Ihnen dennoch sehr dankbar, wenn Sie mir eine kurze Einschätzung zum weiteren Zeitplan geben könnten.\n\n__4__ die Stelle möglicherweise bereits intern oder anderweitig besetzt wurde, wäre eine kurze Benachrichtigung für meine weitere Planung ebenfalls hilfreich.\n\nIch bin __5__ davon überzeugt, dass meine Qualifikationen und meine Leidenschaft für strategisches Marketing einen wertvollen Beitrag für Ihr Team leisten können. Für Rückfragen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zur Rechnung Nr. 4711 – Projekt Website-Relaunch",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nwir beziehen uns auf Ihre Rechnung Nr. 4711 für das Projekt „Website-Relaunch“, datiert vom 15. Mai 2024.\n\n__1__ unserer internen Prüfung dieser Rechnung sind uns einige Unklarheiten aufgefallen. Insbesondere betrifft dies die aufgeführten Stunden für die Backend-Entwicklung. __2__ scheint es eine Abweichung zu den im Angebot vereinbarten Kontingenten zu geben.\n\nWir hatten eine Obergrenze von 80 Stunden vereinbart. __3__ bitten wir um eine detaillierte Aufschlüsselung der tatsächlich geleisteten Stunden, um die Differenz nachvollziehen zu können.\n\nAuch die Kosten für die Lizenz des CMS-Plugins erscheinen uns höher als __4__ besprochen. Könnten Sie bitte prüfen, ob hier der korrekte Preis angesetzt wurde?\n\n__5__ möchten wir anfragen, ob die Reisekosten für den initialen Workshop separat abgerechnet werden, da diese auf der aktuellen Rechnung nicht explizit ausgewiesen sind.\n\nWir bitten um eine __6__ Klärung dieser Punkte, damit wir die Zahlung fristgerecht veranlassen können.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "anlässlich"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "aufgrund"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "dabei"
         },
         {
             "id": "d",
-            "content": "jederzeit"
+            "content": "demnach"
         },
         {
             "id": "e",
-            "content": "trotzdem"
+            "content": "dennoch"
         },
         {
             "id": "f",
-            "content": "bisher"
+            "content": "eigentlich"
         },
         {
             "id": "g",
-            "content": "Falls"
+            "content": "hierbei"
         },
         {
             "id": "h",
-            "content": "sofort"
+            "content": "ursprünglich"
         },
         {
             "id": "i",
-            "content": "kaum"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "durchaus"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
             "option_id": "g"
         },
         {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "j"
         }
     ]
 }

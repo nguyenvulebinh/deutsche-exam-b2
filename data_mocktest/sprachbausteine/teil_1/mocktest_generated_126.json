@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich __1__ meine Bewerbung als Projektmanager vom 25. April dieses Jahres.\n\nDa nun bereits einige Zeit __2__ ist, seitdem die Bewerbungsfrist endete, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch möchte __3__ betonen, dass mein Interesse an dieser Position unverändert groß ist. Die Aufgabenbeschreibung passt hervorragend zu meinen Qualifikationen und beruflichen Zielen.\n\nWäre es __4__ möglich, mir eine kurze Information zu geben, wann __5__ mit einer Entscheidung zu rechnen ist?\n\nFür Rückfragen oder ein persönliches Gespräch stehe ich Ihnen selbstverständlich __6__ zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage bezüglich Details zum Seminar \"Effektives Zeitmanagement\"",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf Ihre Bestätigungs-E-Mail bezüglich meiner Anmeldung zum Seminar \"Effektives Zeitmanagement\" am 15. November. Vielen Dank hierfür.\n\nIn der Bestätigung konnte ich __1__ keine genaue Angabe zum Seminarraum finden. Könnten Sie mir bitte mitteilen, wo genau im Firmengebäude das Seminar stattfinden wird?\n\nDes Weiteren würde ich gerne wissen, __2__ eine spezifische Vorbereitung von den Teilnehmern erwartet wird, beispielsweise das Lesen bestimmter Unterlagen vorab.\n\nEine weitere Frage betrifft die Seminarunterlagen selbst: Werden diese den Teilnehmern __3__ zur Verfügung gestellt oder erst während des Seminars verteilt? Ich frage dies, __4__ ich mich gerne optimal vorbereiten möchte und die Materialien dafür hilfreich wären.\n\nIch habe Verständnis dafür, falls einige Details __5__ noch nicht final feststehen. Dennoch wäre ich Ihnen dankbar, wenn Sie mir die Informationen zukommen lassen könnten, sobald sie verfügbar sind.\n\nIch bedanke mich __6__ im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "eventuell"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "auf"
+            "content": "danach"
         },
         {
             "id": "c",
-            "content": "voraussichtlich"
+            "content": "dahingehend"
         },
         {
             "id": "d",
-            "content": "seitdem"
+            "content": "möglicherweise"
         },
         {
             "id": "e",
-            "content": "gerne"
+            "content": "nämlich"
         },
         {
             "id": "f",
-            "content": "vergangen"
+            "content": "nochmals"
         },
         {
             "id": "g",
-            "content": "jederzeit"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "sofern"
         },
         {
             "id": "i",
-            "content": "ungefähr"
+            "content": "vorab"
         },
         {
             "id": "j",
-            "content": "nochmals"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
             "option_id": "a"
         },
         {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "f"
         }
     ]
 }

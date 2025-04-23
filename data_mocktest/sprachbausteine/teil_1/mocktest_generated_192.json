@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich __1__ meine Bewerbung für die Stelle als Marketing Manager, die ich Ihnen am 20. April zugesandt habe.\n\n__2__ nun bereits einige Zeit vergangen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die in Ihrer Ausschreibung beschriebenen Aufgabenfelder finde ich nach wie vor äußerst spannend, __3__ mein Interesse an einer Zusammenarbeit mit Ihrem Team unverändert groß ist.\n\nIch bin __4__ davon überzeugt, dass meine mehrjährige Erfahrung im Online-Marketing __5__ meine strategische Denkweise einen wertvollen Beitrag für Ihr Unternehmen leisten können.\n\nIch wäre Ihnen dankbar, wenn Sie mir __6__ mitteilen könnten, wann ungefähr mit einer Entscheidung zu rechnen ist.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich hoffe, diese E-Mail findet Sie gut. Ich beziehe mich auf meine frühere Tätigkeit als Marketingassistent in Ihrer Abteilung, welche am 31. Mai dieses Jahres endete.\n\n__1__ möchte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten. Ich benötige dieses Dokument für meine weiteren beruflichen Schritte und Bewerbungen, __2__ ich meine Qualifikationen und Erfahrungen angemessen nachweisen kann.\n\nIch bin mir bewusst, dass die Erstellung Zeit in Anspruch nimmt, __3__ wäre ich Ihnen sehr dankbar, wenn das Zeugnis innerhalb der nächsten drei Wochen fertiggestellt werden könnte.\n\nKönnten Sie mir __4__ kurz bestätigen, an welche Postanschrift das Dokument gesendet wird? Meine aktuelle Adresse lautet: Musterstraße 1, 12345 Musterstadt.\n\n__5__ des Inhalts hätte ich eine kleine Bitte: Wäre es möglich, meine besonderen Erfolge im Projekt XY kurz zu erwähnen? Ich wäre Ihnen dankbar für eine kurze Rückmeldung, __6__ das Zeugnis zur Abholung bereitliegt oder versandt wurde.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "wegen"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "sowie"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "trotzdem"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "weiterhin"
+            "content": "falls"
         },
         {
             "id": "g",
-            "content": "auf"
+            "content": "hiermit"
         },
         {
             "id": "h",
-            "content": "bereits"
+            "content": "jedoch"
         },
         {
             "id": "i",
-            "content": "eventuell"
+            "content": "sobald"
         },
         {
             "id": "j",
-            "content": "weshalb"
+            "content": "während"
         }
     ],
     "loesung": [
@@ -50,19 +50,19 @@
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "6",

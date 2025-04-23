@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachgang zu meinem Vorstellungsgespräch am 15. Mai als Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich möchte mich nochmals herzlich für das angenehme Vorstellungsgespräch am 15. Mai für die Position als Projektmanager bedanken. Es war sehr aufschlussreich und hat meinen positiven Eindruck von der Innovatech GmbH __1__ verstärkt.\n\nBesonders gefallen hat mir die Beschreibung der anstehenden Projekte, __2__ ich meine Erfahrungen im Bereich agiles Management gut einbringen könnte.\n\n__3__ unseres Gesprächs bin ich noch überzeugter davon, dass meine Qualifikationen und meine Motivation gut zu den Anforderungen der Stelle und zu Ihrem Team passen.\n\nIch bin __4__ sehr an der Position interessiert und wäre erfreut, bald von Ihnen zu hören.\n\n__5__ Sie mir vielleicht mitteilen, bis wann etwa mit einer Entscheidung zu rechnen ist?\n\nIch stehe Ihnen für weitere Fragen __6__ zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfrage und Alternativvorschlag für Besprechungstermin",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihren Terminvorschlag für die Projektbesprechung „Neukundenportal“ am kommenden Donnerstag um 10:00 Uhr. Ich schätze Ihre Initiative sehr.\n\n__1__ kann ich an diesem Termin leider nicht teilnehmen, da ich zu dieser Zeit bereits einen unaufschiebbaren Kundentermin habe. Dies bedauere ich sehr, __2__ der Dringlichkeit des Projekts.\n\nIch möchte Ihnen __3__ folgende alternative Zeiten vorschlagen: Mittwoch, 14:00 Uhr oder Freitag, 09:00 Uhr. Beide Termine liegen außerhalb meiner regulären Projekt-Jour-Fixes. __4__ passt Ihnen einer dieser Termine besser?\n\nEs wäre hilfreich, wenn wir __5__ die aktuelle Budgetübersicht erhalten könnten, damit wir diese in der Besprechung berücksichtigen können.\n\n__6__ könnten wir sicherstellen, dass alle relevanten Informationen vorliegen und die Besprechung maximal effizient verläuft. Bitte geben Sie mir kurz Bescheid, ob einer der Alternativtermine für Sie möglich ist.\n\nMit freundlichen Grüßen,\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Aufgrund"
+            "content": "ansonsten"
         },
         {
             "id": "b",
-            "content": "dennoch"
+            "content": "deswegen"
         },
         {
             "id": "c",
-            "content": "in die"
+            "content": "ersatzweise"
         },
         {
             "id": "d",
-            "content": "jederzeit"
+            "content": "gleichwohl"
         },
         {
             "id": "e",
-            "content": "kaum"
+            "content": "infolge"
         },
         {
             "id": "f",
-            "content": "Könnten"
+            "content": "möglicherweise"
         },
         {
             "id": "g",
-            "content": "nachhaltig"
+            "content": "somit"
         },
         {
             "id": "h",
-            "content": "Während"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "vorab"
         },
         {
             "id": "j",
-            "content": "worin"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "g"
         }
     ]
 }

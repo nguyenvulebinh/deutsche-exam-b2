@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Sachbearbeiter/in im Kundenservice vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Sachbearbeiter/in im Kundenservice vom 20. April. Vielen Dank für Ihre Eingangsbestätigung.\n\n__1__ sind nun einige Wochen vergangen, daher möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir __3__ mitteilen, wann mit einer Entscheidung zu rechnen ist?\n\nIch möchte __4__ betonen, dass mein Interesse an dieser Position und an Ihrem Unternehmen weiterhin sehr groß ist. Die beschriebenen Aufgaben entsprechen genau meinen Qualifikationen und beruflichen Zielen.\n\nIch habe Verständnis dafür, dass die sorgfältige Prüfung aller Bewerbungen Zeit benötigt. __5__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung zum weiteren Vorgehen geben könnten. __6__ Sie noch weitere Informationen oder Unterlagen von mir benötigen, lassen Sie es mich bitte wissen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMaria Rossi",
+    "thema": "Anfrage Arbeitszeugnis nach Austritt",
+    "textinhalt": "Sehr geehrter Herr Klein,\n\nich hoffe, diese E-Mail findet Sie gut. Wie Sie sich vielleicht erinnern, war ich vom 01.03.2021 bis zum 31.08.2023 als Marketingassistentin in Ihrer Abteilung tätig.\n\n__1__ bewerbe ich mich auf neue Positionen im Bereich Online-Marketing, __2__ ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten möchte. Dieses Dokument ist für meine weiteren Bewerbungsverfahren sehr wichtig.\n\nIch wäre Ihnen dankbar, wenn Sie mir das Zeugnis __3__ der nächsten drei Wochen, also bis spätestens 15. Dezember, zukommen lassen könnten. Ich weiß, die Frist ist relativ kurz, __4__ benötige ich das Dokument dringend für eine konkrete Bewerbungsfrist am 18. Dezember.\n\nMeine Aufgaben umfassten damals die Betreuung der Social-Media-Kanäle und die Erstellung von Newslettern. __5__ finden Sie zur Sicherheit nochmals meine aktuelle Postanschrift im Anhang, falls sich Ihre Unterlagen geändert haben. Bitte geben Sie mir kurz Bescheid, __6__ das Zeugnis versandfertig ist.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMaria Rossi",
     "options": [
         {
             "id": "a",
-            "content": "Seitdem"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "nach"
+            "content": "freilich"
         },
         {
             "id": "c",
-            "content": "Falls"
+            "content": "innerhalb"
         },
         {
             "id": "d",
-            "content": "über"
+            "content": "inzwischen"
         },
         {
             "id": "e",
-            "content": "ungefähr"
+            "content": "seitdem"
         },
         {
             "id": "f",
-            "content": "Inzwischen"
+            "content": "sobald"
         },
         {
             "id": "g",
-            "content": "nochmals"
+            "content": "somit"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "Dennoch"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "Deshalb"
+            "content": "weshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "f"
         }
     ]
 }

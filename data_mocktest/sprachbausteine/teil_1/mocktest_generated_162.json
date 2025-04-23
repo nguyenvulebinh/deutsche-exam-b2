@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch als Projektmanager am 12. Juni",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank nochmals für das informative Vorstellungsgespräch am 12. Juni für die Position als Projektmanager. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ bestätigt und mein Interesse an einer Mitarbeit verstärkt.\n\nSie erwähnten, dass eine Entscheidung voraussichtlich bis Ende Juni fallen würde. Da ich nach wie vor sehr an der Position interessiert bin, möchte ich mich erkundigen, __2__ es eventuell schon Neuigkeiten zum Stand des Auswahlverfahrens gibt.\n\nFür Rückfragen stehe ich Ihnen __3__ gerne zur Verfügung.\n\nBesonders die von Ihnen beschriebenen Herausforderungen im Bereich der internationalen Teamkoordination reizen mich sehr, und ich bin überzeugt, __4__ meine Erfahrungen im agilen Projektmanagement hier wertvoll wären.\n\nIch sehe Ihrer Rückmeldung mit Spannung __5__ .\n\nSollten Sie in der Zwischenzeit __6__ weitere Unterlagen oder Informationen benötigen, lassen Sie es mich bitte wissen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich interner Weiterbildung",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich schreibe Ihnen, da ich mich sehr für interne Weiterbildungsmöglichkeiten in unserem Unternehmen interessiere, __1__ ich meine Kompetenzen im Bereich digitales Marketing erweitern und mich somit effektiver in neue Projekte einbringen kann. Ich habe die allgemeine Kursübersicht im Intranet bereits eingesehen.\n\n__2__ dort viele interessante Grundlagenkurse angeboten werden, konnte ich keine spezifische Fortbildung zum Thema „SEO-Optimierung für Fortgeschrittene“ finden. Mein Teamleiter, Herr Bauer, unterstützt meinen Wunsch nach einer Vertiefung __3__ dieses speziellen Fachgebiets ausdrücklich.\n\nKönnten Sie mir bitte Auskunft geben, ob __4__ bereits eine solche spezialisierte interne Schulung existiert oder ob zukünftig eine geplant ist? Alternativ wäre ich auch an Informationen über externe Schulungsanbieter interessiert, mit denen das Unternehmen kooperiert. __5__ wären Informationen zu den Anmeldeformalitäten und den notwendigen Voraussetzungen sehr hilfreich.\n\nIch wäre Ihnen dankbar, wenn Sie mir die entsprechenden Details zukommen lassen könnten, __6__ entsprechende Plätze verfügbar sind oder eine solche Maßnahme realisierbar ist.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "dass"
+            "content": "damit"
         },
         {
             "id": "c",
-            "content": "entgegen"
+            "content": "daraufhin"
         },
         {
             "id": "d",
-            "content": "erneut"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "jederzeit"
+            "content": "hierfür"
         },
         {
             "id": "f",
-            "content": "noch"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "schon"
+            "content": "sofern"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "b"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "h"
         }
     ]
 }

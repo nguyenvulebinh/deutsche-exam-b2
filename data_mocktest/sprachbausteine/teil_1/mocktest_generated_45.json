@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung vom 15. Mai für die Position als Projektmanager möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch habe Verständnis dafür, dass die sorgfältige Prüfung aller Unterlagen Zeit in Anspruch nimmt. __1__ würde ich mich freuen, wenn Sie mir eine kurze Einschätzung geben könnten, __2__ ich ungefähr mit einer Rückmeldung rechnen darf.\n\nMein Interesse an dieser Stelle ist __3__ groß, __4__ die beschriebenen Aufgaben genau meinen Qualifikationen entsprechen und meinen beruflichen Interessen stark entgegenkommen. __5__ wäre ich Ihnen für eine __6__ Information über die nächsten Schritte dankbar.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Anfrage zu Details der internen Weiterbildung \"Effektive Teamführung\"",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf die Ankündigung der internen Weiterbildung „Effektive Teamführung“ im Intranet und möchte mein großes Interesse an einer Teilnahme bekunden.\n\nBevor ich mich verbindlich anmelde, hätte ich einige Fragen. Könnten Sie mir bitte mitteilen, __1__ spezifische Vorkenntnisse oder eine bestimmte Position im Unternehmen vorausgesetzt werden?\n\nWeiterhin bitte ich um Informationen __2__ des Anmeldeverfahrens und einer eventuellen Frist. In der Ankündigung wurde erwähnt, dass die Teilnehmerzahl begrenzt ist, __3__ möchte ich meine Anmeldung möglichst bald einreichen.\n\nIst für die Teilnahme __4__ die Zustimmung meines direkten Vorgesetzten erforderlich? Ich habe parallel ein wichtiges Projekt mit einer nahenden Deadline, __5__ halte ich die Inhalte dieser Weiterbildung für meine berufliche Entwicklung für sehr wertvoll.\n\nKönnten Sie mir __6__ bitte zeitnah eine Rückmeldung geben?\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nKlaus Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "WEGEN"
+            "content": "bezüglich"
         },
         {
             "id": "b",
-            "content": "DENNOCH"
+            "content": "deswegen"
         },
         {
             "id": "c",
-            "content": "WENN"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "DA"
+            "content": "gleichwohl"
         },
         {
             "id": "e",
-            "content": "BALD"
+            "content": "hierzu"
         },
         {
             "id": "f",
-            "content": "DESHALB"
+            "content": "nachträglich"
         },
         {
             "id": "g",
-            "content": "OBWOHL"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "UNVERÄNDERT"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "ZEITNAHE"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "WANN"
+            "content": "vorab"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "e"
         }
     ]
 }

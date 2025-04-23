@@ -1,26 +1,26 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich __1__ meine Bewerbung vom 05. April für die Position als Marketing Manager.\n\n__2__ ich bisher keine Rückmeldung erhalten habe und weiterhin sehr an dieser Stelle interessiert bin, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, wann mit einer Entscheidung zu rechnen ist? Die in Ihrer Anzeige beschriebenen Aufgaben finde ich nach wie vor äußerst spannend und glaube, __4__ meine Qualifikationen gut zu Ihrem Anforderungsprofil passen.\n\nIch bin __5__ sehr motiviert, mein Fachwissen und meine Erfahrung in Ihr Team einzubringen. __6__ weitere Auskünfte oder ein Gespräch stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nÜber eine baldige Rückmeldung würde ich mich sehr freuen.\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zum Status meines Weiterbildungsantrags",
+    "textinhalt": "Sehr geehrte Frau Richter,\n\nich schreibe Ihnen bezüglich meines Antrags auf Genehmigung für den Kurs „Projektmanagement für Fortgeschrittene“, den ich bereits am 3. April eingereicht habe.\n\nMittlerweile sind einige Wochen vergangen, __1__ ich habe bisher keine finale Rückmeldung zum Stand der Genehmigung erhalten. Ich verstehe natürlich, dass derzeit viele Anfragen bearbeitet werden müssen. __2__ möchte ich höflich nachfragen, ob es bereits Neuigkeiten gibt oder ob von meiner Seite noch Informationen benötigt werden.\n\n__3__ der nahenden Anmeldefrist für den Kurs (Ende nächster Woche) wäre eine baldige Klärung für mich sehr hilfreich. Könnten Sie mir __4__ mitteilen, mit welcher Bearbeitungszeit ich ungefähr rechnen kann?\n\nIch wäre Ihnen dankbar, wenn Sie prüfen könnten, __5__ mein Antrag noch in Bearbeitung ist oder ob bereits eine Entscheidung getroffen wurde. Die Inhalte des Kurses sind für meine aktuellen Projekte sehr relevant, __6__ erhoffe ich mir wichtige Impulse für meine tägliche Arbeit.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "dass"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Obwohl"
+            "content": "angesichts"
         },
         {
             "id": "c",
-            "content": "Für"
+            "content": "bestimmt"
         },
         {
             "id": "d",
-            "content": "auf"
+            "content": "davor"
         },
         {
             "id": "e",
-            "content": "Zu"
+            "content": "deshalb"
         },
         {
             "id": "f",
@@ -28,45 +28,45 @@
         },
         {
             "id": "g",
-            "content": "Da"
+            "content": "folglich"
         },
         {
             "id": "h",
-            "content": "weiterhin"
+            "content": "hierzu"
         },
         {
             "id": "i",
-            "content": "ob"
+            "content": "inwieweit"
         },
         {
             "id": "j",
-            "content": "Weil"
+            "content": "trotz"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
             "option_id": "a"
         },
         {
-            "blank": "5",
+            "blank": "2",
             "option_id": "h"
         },
         {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "g"
         }
     ]
 }

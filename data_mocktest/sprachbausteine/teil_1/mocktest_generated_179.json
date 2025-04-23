@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 15. Mai (Kennziffer MA-456)",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent (Kennziffer MA-456), die ich Ihnen am 15. Mai zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mein Interesse an dieser Position in Ihrem Unternehmen ist nach wie vor sehr groß, __2__ die beschriebenen Aufgaben genau meinen Fähigkeiten und beruflichen Vorstellungen entsprechen.\n\nIch möchte Sie __3__ bitten, mir eine kurze Orientierung zu geben, da ich in Kürze eine Entscheidung bezüglich eines anderen Angebots treffen muss und Ihre Stelle klar bevorzuge. Wäre es Ihnen möglich, mir __4__ mitzuteilen, wann mit einer Entscheidung zu rechnen ist?\n\nIch möchte __5__ betonen, wie motiviert ich bin, Teil Ihres Teams zu werden. Sollten Sie weitere Unterlagen benötigen, lasse ich Ihnen diese __6__ zukommen.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Absage Ihrerseits – Bitte um Feedback",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nvielen Dank für Ihre E-Mail vom 15. Oktober und die damit verbundene Information bezüglich meiner Bewerbung als Projektmanager. Ich nehme Ihre Entscheidung zur Kenntnis, möchte __1__ meine Enttäuschung nicht verbergen, da die Position meinen Qualifikationen und Interessen sehr entsprochen hätte.\n\nKonstruktives Feedback ist für meine berufliche Weiterentwicklung sehr wertvoll. __2__ schreibe ich Ihnen heute mit der Bitte um eine kurze Erläuterung, welche Aspekte ausschlaggebend für Ihre Entscheidung waren?\n\nMein Interesse an der Mustermann GmbH, __3__ ihrer innovativen Projekte im Bereich erneuerbare Energien, bleibt weiterhin bestehen. Das Gespräch mit Ihnen empfand ich als sehr aufschlussreich und positiv. Wäre es __4__ möglich, meine Bewerbungsunterlagen für zukünftige Vakanzen aufzubewahren?\n\nIch wäre Ihnen dankbar, wenn Sie prüfen könnten, __5__ es aktuell oder in naher Zukunft andere passende Stellen in Ihrem Unternehmen gibt. Ich bin flexibel und offen __6__ alternative Positionen, bei denen mein Profil von Nutzen sein könnte.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Deshalb"
+            "content": "bezüglich"
         },
         {
             "id": "b",
-            "content": "Obwohl"
+            "content": "dennoch"
         },
         {
             "id": "c",
-            "content": "ungefähr"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "falls"
         },
         {
             "id": "e",
-            "content": "nochmals"
+            "content": "für"
         },
         {
             "id": "f",
-            "content": "umgehend"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "Wegen"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "Bereits"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "lediglich"
+            "content": "weshalb"
         },
         {
             "id": "j",
-            "content": "Da"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
             "option_id": "c"
         },
         {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "e"
         }
     ]
 }

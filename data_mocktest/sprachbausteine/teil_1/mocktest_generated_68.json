@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die ausgeschriebene Stelle als Projektmanager in Ihrem Unternehmen. Ich möchte mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa nun einige Wochen vergangen sind, __2__ ich meine Unterlagen eingereicht habe, wollte ich nachfragen, ob Sie mir eventuell schon eine erste Rückmeldung geben können.\n\nDie in der Stellenausschreibung beschriebenen Aufgaben entsprechen __3__ meinen beruflichen Erfahrungen und Zielen. Ich bin nach wie vor sehr an dieser Position interessiert, __4__ ich davon überzeugt bin, mit meiner Expertise im Bereich agiles Projektmanagement einen wertvollen Beitrag leisten zu können.\n\n__5__ es Ihnen möglich wäre, mir kurz mitzuteilen, wann etwa mit einer Entscheidung zu rechnen ist, wäre ich Ihnen sehr dankbar.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich __6__ zur Verfügung und freue mich auf Ihre positive Nachricht.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zum Lieferstatus Bestellung #XYZ-789",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung #XYZ-789 vom 05. April 2024. Die ursprünglich vereinbarte Lieferfrist für diese Bestellung war der 25. April 2024.\n\n__1__ haben wir die Lieferung bis heute nicht erhalten. __2__ wir die bestellten Komponenten dringend für unsere laufende Produktion benötigen, verursacht diese Verzögerung nun erhebliche Schwierigkeiten in unserem Betriebsablauf.\n\nWir möchten Sie __3__ höflich bitten, uns den aktuellen Status unserer Bestellung mitzuteilen und uns über die Gründe für die Verzögerung zu informieren. Können Sie uns bitte __4__ einen neuen, verbindlichen Liefertermin nennen?\n\n__5__ Sie derzeit keinen genauen Liefertermin zusagen können, bitten wir um eine entsprechende Mitteilung und mögliche Alternativvorschläge. Wir benötigen diese Informationen __6__, um unsere Produktionsplanung entsprechend anpassen zu können.\n\nWir danken Ihnen für Ihr Verständnis und erwarten Ihre zeitnahe Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Ihre Firma]",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "baldmöglichst"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "da"
         },
         {
             "id": "c",
-            "content": "genau"
+            "content": "denn"
         },
         {
             "id": "d",
-            "content": "gerne"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "höflich"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "jederzeit"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "sofort"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "unbedingt"
         },
         {
             "id": "j",
-            "content": "Wenn"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "i"
         }
     ]
 }

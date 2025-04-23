@@ -1,38 +1,38 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Assistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing-Assistent, die ich Ihnen am 25. April zugesandt habe. Ich habe Verständnis dafür, dass die sorgfältige Prüfung der eingegangenen Unterlagen einige Zeit __1__ nimmt.\n\n__2__ seit meiner Bewerbung nun bereits mehrere Wochen vergangen sind und ich bisher keine weitere Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __3__ mitteilen, bis wann ungefähr mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist?\n\nMein Interesse an dieser abwechslungsreichen Tätigkeit und an Ihrem Unternehmen ist __4__ sehr groß. Ich bin __5__ überzeugt, dass meine Qualifikationen und meine bisherige Erfahrung gut zu den Anforderungen der ausgeschriebenen Stelle passen würden.\n\nFür ein persönliches Vorstellungsgespräch stehe ich Ihnen __6__ gerne zur Verfügung, um Sie von meiner Motivation und Eignung zu überzeugen.\n\nVielen Dank für Ihre Bemühungen im Voraus.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am 15. August um 10:00 Uhr für die Position als Projektmanagerin.\n\n__1__ möchte ich Ihnen für die Berücksichtigung meiner Bewerbung und die Einladung danken. __2__ muss ich Sie jedoch bitten, den vorgeschlagenen Termin zu verschieben. __3__ ich an diesem Tag einen unaufschiebbaren ärztlichen Termin wahrnehmen muss, der bereits seit Längerem feststand, ist es mir nicht möglich, zu kommen.\n\nWäre es Ihnen eventuell möglich, mir einen alternativen Termin __4__ der Kalenderwoche 34 oder 35 anzubieten? Ich bin in diesem Zeitraum zeitlich relativ flexibel. __5__ bitte ich höflich um Ihr Verständnis für die Umstände.\n\nIch bin __6__ sehr an der Position in Ihrem Unternehmen interessiert und hoffe sehr, dass eine Verschiebung möglich ist und wir bald einen neuen Termin finden können.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nAnja Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
-        },
-        {
-            "id": "b",
-            "content": "eventuell"
-        },
-        {
-            "id": "c",
-            "content": "Anspruch"
-        },
-        {
-            "id": "d",
             "content": "Da"
         },
         {
+            "id": "b",
+            "content": "Daher"
+        },
+        {
+            "id": "c",
+            "content": "Damit"
+        },
+        {
+            "id": "d",
+            "content": "Dennoch"
+        },
+        {
             "id": "e",
-            "content": "nach wie vor"
+            "content": "Innerhalb"
         },
         {
             "id": "f",
-            "content": "Bestimmt"
+            "content": "Leider"
         },
         {
             "id": "g",
-            "content": "Daran"
+            "content": "Obwohl"
         },
         {
             "id": "h",
-            "content": "davon"
+            "content": "Trotzdem"
         },
         {
             "id": "i",
@@ -40,21 +40,21 @@
         },
         {
             "id": "j",
-            "content": "jederzeit"
+            "content": "Zunächst"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "d"
         }
     ]
 }

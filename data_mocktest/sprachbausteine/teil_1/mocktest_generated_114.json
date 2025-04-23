@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Keller,\n\nich schreibe Ihnen __1__ meiner Bewerbung als Projektmanager, die ich Ihnen am 25. April über Ihr Online-Portal zukommen ließ. Da inzwischen einige Zeit vergangen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser verantwortungsvollen Position in Ihrem Hause ist __2__ sehr groß. Die Möglichkeit, innovative Projekte im Bereich erneuerbare Energien zu leiten, reizt mich außerordentlich, __3__ ich überzeugt bin, meine Erfahrung im agilen Projektmanagement gewinnbringend einsetzen zu können.\n\nMir ist selbstverständlich bewusst, dass ein sorgfältiger Auswahlprozess Zeit benötigt. __4__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Auskunft geben könnten, __5__ ungefähr mit einer nächsten Rückmeldung oder einer Entscheidung zu rechnen ist.\n\nIch danke Ihnen für Ihre Mühe und sehe Ihrer Antwort __6__ entgegen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zu erforderlichen Einstellungsunterlagen",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nvielen Dank für die Zusendung der Liste mit den erforderlichen Einstellungsunterlagen und die Informationen zum Onboarding-Prozess. Ich habe die Unterlagen sorgfältig durchgesehen und die meisten Punkte sind klar. __1__ habe ich dazu noch einige spezifische Fragen, um sicherzustellen, dass ich alles korrekt vorbereite.\n\nBezüglich des polizeilichen Führungszeugnisses war mir nicht ganz klar, __2__ dieses für meine Position im Marketing relevant ist, da es sich nicht um eine sicherheitsempfindliche Tätigkeit handelt. Könnten Sie dies bitte kurz erläutern?\n\nDes Weiteren bin ich unsicher bezüglich des Gesundheitszeugnisses. Wäre es möglich, __3__ des offiziellen Zeugnisses vom Gesundheitsamt vorerst eine einfache ärztliche Bescheinigung über meine gesundheitliche Eignung einzureichen?\n\nMeine Steueridentifikationsnummer hatte ich, soweit ich mich erinnere, bereits bei meiner Bewerbung angegeben. Ich bin mir nicht sicher, ob ich diese erneut übermitteln muss, __4__ ich dies schon getan habe. __5__ wüsste ich gerne, ob ich am ersten Arbeitstag die Originaldokumente mitbringen soll oder __6__ Kopien zunächst ausreichen.\n\nIch wäre Ihnen dankbar, wenn Sie mir hierzu eine kurze Rückmeldung geben könnten. Für Rückfragen stehe ich selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen,\nAnna Müller",
     "options": [
         {
             "id": "a",
-            "content": "ob"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "wegen"
+            "content": "inwiefern"
         },
         {
             "id": "d",
-            "content": "weshalb"
+            "content": "nachdem"
         },
         {
             "id": "e",
-            "content": "trotzdem"
+            "content": "seitdem"
         },
         {
             "id": "f",
-            "content": "erwartungsvoll"
+            "content": "statt"
         },
         {
             "id": "g",
-            "content": "wann"
+            "content": "trotz"
         },
         {
             "id": "h",
-            "content": "gern"
+            "content": "während"
         },
         {
             "id": "i",
-            "content": "dennoch"
+            "content": "wodurch"
         },
         {
             "id": "j",
-            "content": "bezüglich"
+            "content": "zusätzlich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "e"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "h"
         }
     ]
 }

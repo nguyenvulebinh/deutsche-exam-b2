@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15. April",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nbezugnehmend auf meine Bewerbung als Marketing Manager vom 15. April und Ihr Bestätigungsschreiben vom 17. April möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen vergangen sind und ich __2__ noch keine weitere Rückmeldung erhalten habe, wäre ich Ihnen dankbar, wenn Sie mir eine kurze Auskunft __3__ den weiteren Zeitplan geben könnten.\n\nIch bin __4__ sehr an der Position interessiert und würde mich freuen, bald von Ihnen zu hören. Dies wäre für mich besonders hilfreich, __5__ ich in Kürze eine Entscheidung bezüglich eines anderen Angebots treffen muss.\n\nIch verstehe natürlich, dass der Auswahlprozess Zeit in Anspruch __6__, aber eine kurze Information wäre sehr geschätzt.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zu unserer Bestellung Nr. 4712",
+    "textinhalt": "Sehr geehrte Damen und Herren von Bürobedarf Schnell,\n\nwir beziehen uns auf unsere Bestellung Nr. 4712 vom 15. dieses Monats. Die Lieferung der Spezialdruckerpatronen (Artikelnummer 88B) war für den 22. angekündigt. __1__ ist diese Lieferung bei uns noch nicht eingetroffen.\n\nWir benötigen diese Patronen __2__ sehr dringend, da sie für den Ausdruck wichtiger Präsentationsunterlagen für ein Kundengespräch am kommenden Freitag unerlässlich sind. __3__ wir vollstes Verständnis für mögliche Lieferengpässe in der aktuellen Zeit haben, sind wir auf diese Lieferung angewiesen.\n\nKönnten Sie uns bitte mitteilen, __4__ eine Lieferung noch in dieser Woche möglich ist? Wir bitten __5__ um eine Rückmeldung bezüglich des aktuellen Status und des voraussichtlichen Liefertermins.\n\nSollte die Lieferung der bestellten Patronen __6__ der nächsten 48 Stunden nicht möglich sein, müssten wir alternative Lösungen prüfen.\n\nVielen Dank für Ihre rasche Klärung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "weiterhin"
+            "content": "damit"
         },
         {
             "id": "b",
-            "content": "erst"
+            "content": "innerhalb"
         },
         {
             "id": "c",
-            "content": "über"
+            "content": "jedoch"
         },
         {
             "id": "d",
-            "content": "nimmt"
+            "content": "mittlerweile"
         },
         {
             "id": "e",
-            "content": "inzwischen"
+            "content": "nämlich"
         },
         {
             "id": "f",
-            "content": "deshalb"
+            "content": "ob"
         },
         {
             "id": "g",
-            "content": "seitdem"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "bisher"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "da"
+            "content": "umgehend"
         },
         {
             "id": "j",
-            "content": "zu"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "4",
-            "option_id": "a"
+            "option_id": "f"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "b"
         }
     ]
 }

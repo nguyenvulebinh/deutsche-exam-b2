@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Vielen Dank für das Vorstellungsgespräch als Marketingmanager am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich nochmals herzlich für das angenehme Vorstellungsgespräch am 15. Mai für die Position als Marketingmanager bedanken. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ verstärkt.\n\nIch bin nach wie vor sehr an der Stelle interessiert, __2__ die besprochenen Aufgaben und die Unternehmenskultur genau meinen Vorstellungen entsprechen.\n\nSie erwähnten im Gespräch, dass Sie sich __3__ Ende dieser Woche bezüglich der nächsten Schritte melden würden.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\n__5__ Sie weitere Informationen oder Referenzen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf Ihre baldige Rückmeldung und verbleibe __6__ freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Antrag auf Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nhiermit möchte ich __1__ der geplanten Übernahme neuer Verantwortungsbereiche in der IT-Abteilung ab dem 1. Oktober um die Ausstellung eines Zwischenzeugnisses bitten.\n\nDa ich __2__ neue Aufgaben übernehmen werde, ist es mir wichtig, meine bisherigen Leistungen und Erfahrungen in meiner aktuellen Position als Softwareentwickler formal dokumentieren zu lassen, __3__ diese vor dem Wechsel klar festgehalten sind.\n\nIch stelle Ihnen __4__ gerne eine detaillierte Aufstellung meiner wichtigsten Projekte und Tätigkeitsfelder der letzten vier Jahre zur Verfügung. Bitte teilen Sie mir mit, ob Sie darüber hinaus spezifische Informationen benötigen. Könnten Sie mich bitte auch kurz __5__ des üblichen Vorgehens und der zu erwartenden Bearbeitungszeit informieren?\n\nIch wäre Ihnen dankbar, wenn Sie mir __6__ eine Rückmeldung geben könnten, wann ich ungefähr mit dem Zeugnis rechnen kann.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nThomas Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "aufgrund"
         },
         {
             "id": "b",
-            "content": "weiter"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "seit"
+            "content": "demnächst"
         },
         {
             "id": "e",
-            "content": "bis"
-        },
-        {
-            "id": "f",
-            "content": "deswegen"
-        },
-        {
-            "id": "g",
             "content": "eventuell"
         },
         {
+            "id": "f",
+            "content": "hinsichtlich"
+        },
+        {
+            "id": "g",
+            "content": "selbstverständlich"
+        },
+        {
             "id": "h",
-            "content": "ob"
+            "content": "sodass"
         },
         {
             "id": "i",
-            "content": "Falls"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "mit"
+            "content": "umgehend"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "4",
@@ -62,7 +62,7 @@
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "f"
         },
         {
             "blank": "6",

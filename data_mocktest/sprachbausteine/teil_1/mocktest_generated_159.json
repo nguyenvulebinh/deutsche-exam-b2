@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05.06.2024",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 05. Juni übermittelt habe, und danke Ihnen für die Eingangsbestätigung.\n\nDa __1__ einige Wochen vergangen sind, möchte ich mich __2__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir vielleicht eine kurze Auskunft geben, __3__ ungefähr mit einer Entscheidung oder den nächsten Schritten zu rechnen ist?\n\nMein Interesse an dieser vielversprechenden Stelle in Ihrem Unternehmen ist __4__ sehr groß. Die beschriebenen Aufgaben entsprechen genau meinen beruflichen Erfahrungen und Zielen.\n\nSollten Sie __5__ meiner Bewerbung noch Fragen haben oder weitere Unterlagen benötigen, stehe ich Ihnen __6__ zur Verfügung.\n\nIch freue mich auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage bezüglich meines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nmein Arbeitsverhältnis in Ihrer Abteilung ist, wie Sie wissen, am 31.07. dieses Jahres ausgelaufen. Ich schreibe Ihnen heute, um die Ausstellung eines qualifizierten Arbeitszeugnisses zu beantragen.\n\nIch benötige dieses Dokument relativ zeitnah für meine weiteren Bewerbungsaktivitäten. __1__ wäre ich Ihnen dankbar, wenn Sie mir einen ungefähren Zeitrahmen für die Erstellung nennen könnten. Ich bin mir bewusst, dass dies einige Zeit in Anspruch nehmen kann, __2__ ist eine aussagekräftige Bewertung für meine berufliche Zukunft sehr wichtig.\n\nSollten Sie __3__ Fragen haben oder spezifische Informationen von mir benötigen, beispielsweise zu meinen Projekterfolgen, stehe ich gerne zur Verfügung. Ich wäre bereit, Ihnen __4__ der nächsten Woche Stichpunkte zu meinen Tätigkeiten zukommen zu lassen.\n\n__5__ möchte ich Sie bitten, das Zeugnis nach Fertigstellung an meine bei Ihnen hinterlegte Privatanschrift zu senden. Bitte teilen Sie mir __6__ kurz mit, ob Sie von meiner Seite noch etwas benötigen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "über"
+            "content": "dagegen"
         },
         {
             "id": "b",
-            "content": "wann"
+            "content": "diesbezüglich"
         },
         {
             "id": "c",
-            "content": "nach wie vor"
+            "content": "gegebenenfalls"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "gleichwohl"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "hingegen"
         },
         {
             "id": "f",
-            "content": "inzwischen"
+            "content": "infolgedessen"
         },
         {
             "id": "g",
-            "content": "gerne"
+            "content": "innerhalb"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "überdies"
         },
         {
             "id": "i",
-            "content": "zu"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "trotzdem"
+            "content": "wodurch"
         }
     ],
     "loesung": [
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "c"
         }
     ]
 }

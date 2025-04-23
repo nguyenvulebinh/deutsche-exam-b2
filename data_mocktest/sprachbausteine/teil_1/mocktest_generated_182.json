@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Manager (Kennziffer MM-45B) vom 05. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing-Manager (Kennziffer MM-45B), die ich Ihnen am 05. April über Ihr Online-Portal zugesendet habe.\n\n__1__ nun bereits einige Zeit vergangen ist, seitdem ich die automatische Eingangsbestätigung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlprozesses erkundigen.\nIch bin nach wie vor sehr an dieser Position interessiert, __2__ die beschriebenen Aufgabenbereiche genau meinen Qualifikationen und beruflichen Zielen entsprechen.\n\nKönnten Sie mir __3__ eine kurze Auskunft darüber geben, wann mit den nächsten Schritten im Bewerbungsverfahren zu rechnen ist?\nIch frage auch __4__, da ich in Kürze über ein anderes Angebot entscheiden müsste, Ihre Stelle jedoch klar bevorzugen würde.\n\nFür die Zusendung weiterer Unterlagen oder ein persönliches Gespräch stehe ich Ihnen __5__ gerne zur Verfügung.\nVielen Dank __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Rückfrage zum Besprechungsprotokoll Projekt Alpha",
+    "textinhalt": "Sehr geehrter Herr Lang,\n\nvielen Dank für die Zusendung des Besprechungsprotokolls zum Projekt Alpha von gestern. Ich habe es aufmerksam gelesen.\n\nDie meisten Punkte sind klar dargestellt. Ich habe jedoch eine Rückfrage zu Punkt 4 (\"Aufgabenverteilung Team B\"). Laut Protokoll soll mein Team die Datenanalyse bis zum 15. des Monats abschließen. __1__ erinnere ich mich, dass auch eine Abstimmung mit Team C als notwendig erachtet wurde.\n\n__2__ findet sich dazu kein konkreter Vermerk im Protokoll, wer diese Abstimmung initiiert oder bis wann sie erfolgen soll.\n\n__3__ der vorliegenden Notizen allein bin ich unsicher bezüglich des genauen Vorgehens. Ich möchte sicherstellen, dass wir hier im Zeitplan bleiben und alle Abhängigkeiten berücksichtigen, __4__ wir mit der Hauptanalyse beginnen.\n\nKönnten Sie diesen Punkt bitte __5__ kurz präzisieren? Ein kurzer Anruf wäre eventuell am effizientesten.\n\nIch danke Ihnen im Voraus __6__ Ihre Hilfe und Klärung.\n\nMit freundlichen Grüßen\n\nAnna Bauer",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "anhand"
         },
         {
             "id": "b",
-            "content": "selbstverständlich"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "deshalb"
+            "content": "bevor"
         },
         {
             "id": "d",
-            "content": "für"
+            "content": "dafür"
         },
         {
             "id": "e",
-            "content": "Seitdem"
+            "content": "deswegen"
         },
         {
             "id": "f",
-            "content": "Da"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "Zu"
+            "content": "nachdem"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "unbedingt"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "a"
         },
         {
             "blank": "4",
@@ -62,7 +62,7 @@
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "i"
         },
         {
             "blank": "6",

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketingassistenz, die ich Ihnen am 20. April zugesandt habe und für die ich dankend eine Eingangsbestätigung erhalten habe.\n\nDa __1__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist selbstverständlich bewusst, dass ein sorgfältiger Prozess Zeit benötigt, __2__ wäre ich Ihnen für eine kurze Rückmeldung dankbar.\n\nIch möchte bei dieser Gelegenheit betonen, dass mein Interesse an dieser spannenden Stelle und an der Arbeit bei [Firmenname] __3__ sehr groß ist. Die in der Ausschreibung genannten Aufgabenbereiche entsprechen genau meinen Qualifikationen und beruflichen Zielen.\n\nKönnten Sie mir __4__ mitteilen, wann mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist? Jede Information hierzu wäre für meine weitere Planung hilfreich.\n\n__5__ Sie zusätzliche Informationen oder Referenzen benötigen, stelle ich Ihnen diese gerne kurzfristig zur Verfügung. Einer positiven Nachricht sehe ich __6__ entgegen.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\n__1__ mein Arbeitsverhältnis in Ihrem Unternehmen offiziell am 31. August dieses Jahres geendet hat, möchte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten. Mir ist bewusst, dass die Personalabteilung derzeit stark ausgelastet ist.\n\n__2__ ist dieses Dokument für meine weiteren Bewerbungen essenziell. Ich wäre Ihnen __3__ dankbar, wenn im Zeugnis meine Hauptaufgabenbereiche, wie die Leitung des Projekts \"Alpha\" und die erfolgreiche Einführung der neuen CRM-Software, detailliert beschrieben werden könnten. Diese Erfahrungen sind für meine angestrebte Position besonders relevant.\n\n__4__ der genauen Formulierungen oder falls Sie weitere Informationen zu meinen Tätigkeiten benötigen, stehe ich Ihnen selbstverständlich jederzeit für ein kurzes Gespräch zur Verfügung. __5__ wäre ich Ihnen verbunden, wenn Sie mir mitteilen könnten, ob das Zeugnis per Post an meine hinterlegte Adresse gesendet oder zur Abholung bereitgestellt wird.\n\nIch bitte um Ihr Verständnis für meine Nachfrage und wäre Ihnen dankbar, wenn Sie mir eine Rückmeldung geben könnten, wann ich __6__ mit dem Erhalt des Zeugnisses rechnen kann.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "dennoch"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "anstatt"
         },
         {
             "id": "c",
-            "content": "falls"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "gerne"
+            "content": "daher"
         },
         {
             "id": "e",
-            "content": "gespannt"
+            "content": "dennoch"
         },
         {
             "id": "f",
-            "content": "inzwischen"
+            "content": "insbesondere"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "möglichst"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "nämlich"
         },
         {
             "id": "i",
-            "content": "ungefähr"
+            "content": "seitdem"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
             "option_id": "i"
         },
         {
-            "blank": "5",
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
             "option_id": "c"
         },
         {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "g"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent (Kennziffer MA-451)",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nBezugnehmend __1__ meine Bewerbung vom 15. Mai für die Stelle als Marketingassistent (Kennziffer MA-451), möchte ich mich nach dem aktuellen Stand des Bewerbungsprozesses erkundigen.\n\nMein Interesse an dieser Position ist __2__ groß, da die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht. Ich verstehe selbstverständlich, dass die sorgfältige Prüfung aller Bewerbungen Zeit benötigt. __3__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, wann __4__ mit einer Entscheidung zu rechnen ist.\n\nIch bin __5__ überzeugt, dass ich mit meinen Kenntnissen im Online-Marketing einen wertvollen Beitrag für Ihr Team leisten kann.\n\nVielen Dank für Ihre Bemühungen. Für Rückfragen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMaria Rossi",
+    "thema": "Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich hoffe, diese E-Mail findet Sie gut. Ich beziehe mich auf mein früheres Arbeitsverhältnis als Marketingassistent in Ihrer Abteilung, welches am 31. August dieses Jahres endete.\n\n__1__ ich mich aktuell auf neue Stellen bewerbe und dafür aussagekräftige Unterlagen benötige, möchte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten.\n\nKönnten Sie mir bitte eine Einschätzung geben, wie lange die Erstellung dauern wird? Ich frage __2__ an, da ich das Dokument für anstehende Bewerbungsfristen benötige und hoffe, dass __3__ alle notwendigen Leistungsbeurteilungen und Tätigkeitsbeschreibungen aus meiner Personalakte vorliegen.\n\nIch gehe davon aus, dass das Zeugnis innerhalb von drei Wochen fertiggestellt werden kann, __4__ Ihrerseits keine unerwarteten Verzögerungen eintreten.\n\n__5__ möchte ich Sie bitten, das fertige Dokument an meine nach wie vor aktuelle Adresse zu senden: Musterstraße 12, 12345 Musterstadt. Sollten Sie __6__ des Inhalts oder meiner spezifischen Aufgabenbereiche noch Rückfragen haben, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank im Voraus für Ihre Mühe und Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "bald"
         },
         {
             "id": "b",
-            "content": "auf"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "bereits"
+            "content": "dazu"
         },
         {
             "id": "d",
-            "content": "Daran"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "davon"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "Dennoch"
+            "content": "ferner"
         },
         {
             "id": "g",
-            "content": "Deshalb"
+            "content": "hierfür"
         },
         {
             "id": "h",
-            "content": "jederzeit"
+            "content": "nun"
         },
         {
             "id": "i",
-            "content": "nach wie vor"
+            "content": "vorausgesetzt"
         },
         {
             "id": "j",
-            "content": "ungefähr"
+            "content": "weil"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
             "option_id": "j"
         },
         {
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "b"
         }
     ]
 }

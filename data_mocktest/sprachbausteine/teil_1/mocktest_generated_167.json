@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zu meiner Bewerbung als Marketingassistent - Kennziffer MA-2024-112",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nbezugnehmend auf meine Bewerbung für die Stelle als Marketingassistent (Kennziffer MA-2024-112), die ich Ihnen vor etwa drei Wochen habe zukommen lassen, möchte ich mich __1__ nach dem aktuellen Stand des Auswahlprozesses erkundigen.\n\n__2__ mir bewusst ist, dass eine sorgfältige Prüfung aller Bewerbungen Zeit in Anspruch nimmt, wollte ich dennoch kurz nachfragen, da mein Interesse an dieser Position __3__ sehr groß ist.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann mit einer ersten Rückmeldung oder den nächsten Schritten im Verfahren zu rechnen ist? Eine Information über den ungefähren Zeitrahmen wäre für meine weitere Planung sehr __5__.\n\nSollten Sie __6__ noch Fragen zu meinen Unterlagen haben oder weitere Dokumente benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung Teilnahme Schulung & Rückfrage",
+    "textinhalt": "Sehr geehrte Frau Meier,\n\nvielen Dank für die Einladung zur verpflichtenden Schulung „Effektives Zeitmanagement“ am 10. Juni. __1__ bestätige ich meine Teilnahme an diesem wichtigen Termin. Ich bin mir der Bedeutung dieser Weiterbildung für unsere Abteilung bewusst.\n\n__2__ habe ich eine kurze Rückfrage zum Ablauf. In der Agenda ist ein Modul zu „Priorisierungstechniken“ von 14:00 bis 15:00 Uhr aufgeführt. Ich habe __3__ der parallel laufenden Projektphase Bedenken, ob ich mich für diese volle Stunde wie erforderlich konzentrieren kann. Könnten Sie mir bitte mitteilen, __4__ eine flexible Handhabung dieses Moduls (z.B. spätere Teilnahme, Nacharbeiten) vorgesehen ist?\n\nIch habe die bereitgestellten Unterlagen __5__ durchgesehen, konnte aber keine spezifischen Informationen hierzu finden. Da die Projektphase sehr intensiv ist, wäre eine Klärung hilfreich. Ich möchte __6__ betonen, dass ich die Schulung ansonsten planmäßig und vollständig absolvieren werde.\n\nVielen Dank für Ihre Unterstützung und Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Deshalb"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "höflich"
-        },
-        {
-            "id": "c",
-            "content": "eventuell"
-        },
-        {
-            "id": "d",
-            "content": "wichtig"
-        },
-        {
-            "id": "e",
-            "content": "nach wie vor"
-        },
-        {
-            "id": "f",
-            "content": "Obwohl"
-        },
-        {
-            "id": "g",
-            "content": "hilfreich"
-        },
-        {
-            "id": "h",
-            "content": "schnell"
-        },
-        {
-            "id": "i",
             "content": "bereits"
         },
         {
+            "id": "c",
+            "content": "bezüglich"
+        },
+        {
+            "id": "d",
+            "content": "damit"
+        },
+        {
+            "id": "e",
+            "content": "dennoch"
+        },
+        {
+            "id": "f",
+            "content": "hiermit"
+        },
+        {
+            "id": "g",
+            "content": "hinsichtlich"
+        },
+        {
+            "id": "h",
+            "content": "inwiefern"
+        },
+        {
+            "id": "i",
+            "content": "trotzdem"
+        },
+        {
             "id": "j",
-            "content": "etwaige"
+            "content": "weshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
             "option_id": "f"
         },
         {
-            "blank": "3",
-            "option_id": "e"
+            "blank": "2",
+            "option_id": "a"
         },
         {
-            "blank": "4",
+            "blank": "3",
             "option_id": "c"
         },
         {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "e"
         }
     ]
 }

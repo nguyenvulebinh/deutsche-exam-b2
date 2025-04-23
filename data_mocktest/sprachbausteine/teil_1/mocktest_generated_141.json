@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage nach Vorstellungsgespräch als Projektmanager am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich noch einmal herzlich für das angenehme Vorstellungsgespräch am 15. Mai für die Position als Projektmanager bedanken. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ und mein Interesse an der Stelle weiter verstärkt.\n\nSie erwähnten im Gespräch, dass eine Entscheidung voraussichtlich __2__ Ende Mai fallen würde. Da dieser Zeitpunkt nun näher rückt, wollte ich mich höflich __3__ erkundigen, ob es bereits Neuigkeiten bezüglich des Auswahlverfahrens gibt.\n\nIch bin nach wie vor sehr an der Position interessiert und davon überzeugt, dass meine Fähigkeiten und Erfahrungen gut zu den Anforderungen __4__. __5__ Sie weitere Informationen oder Referenzen von mir benötigen, stehe ich Ihnen selbstverständlich __6__ zur Verfügung.\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu Lieferverzögerung – Büromaterial",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung Nr. 4711-B vom 15. Mai bezüglich der Lieferung von 50 Bürostühlen Modell \"ErgoFlex\". Laut Ihrer Auftragsbestätigung vom 16. Mai sollte die Lieferung spätestens am 30. Mai erfolgen.\n\nWir haben die Bestätigung erhalten, __1__ ist die Ware __2__ nicht bei uns eingetroffen. Dies stellt uns vor erhebliche Probleme. Wir benötigen die Stühle __3__ dringend für die Ausstattung unseres neuen Projektteams, das am 10. Juni seine Arbeit aufnehmen soll.\n\n__4__ bitten wir Sie um eine umgehende Information über den aktuellen Lieferstatus. __5__ der knappen Zeitplanung benötigen wir eine verlässliche Aussage, wann wir mit der Lieferung rechnen können.\n\nBitte teilen Sie uns schnellstmöglich einen neuen, verbindlichen Liefertermin mit. __6__ sehen wir uns gezwungen, alternative Beschaffungswege zu prüfen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "passen"
+            "content": "andernfalls"
         },
         {
             "id": "c",
-            "content": "seit"
+            "content": "angesichts"
         },
         {
             "id": "d",
-            "content": "Falls"
+            "content": "außerdem"
         },
         {
             "id": "e",
-            "content": "gerne"
+            "content": "bislang"
         },
         {
             "id": "f",
-            "content": "deshalb"
+            "content": "dennoch"
         },
         {
             "id": "g",
-            "content": "jederzeit"
+            "content": "deswegen"
         },
         {
             "id": "h",
-            "content": "bestätigt"
+            "content": "folglich"
         },
         {
             "id": "i",
-            "content": "danach"
+            "content": "nämlich"
         },
         {
             "id": "j",
-            "content": "bis"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "e"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "b"
         }
     ]
 }

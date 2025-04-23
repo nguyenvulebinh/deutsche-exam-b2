@@ -1,10 +1,10 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Mai zugesandt habe. Da __1__ einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __2__ sehr an der Position interessiert und davon überzeugt, dass meine Qualifikationen gut zu den Anforderungen passen.\n\nKönnten Sie mir __3__ mitteilen, wann ungefähr mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Auswahlprozess Zeit benötigt, __4__ wäre ich für eine kurze Rückmeldung dankbar.\n\nSollten Sie __5__ meiner Unterlagen noch Fragen haben oder zusätzliche Informationen benötigen, stehe ich Ihnen gerne zur Verfügung. Ich freue mich __6__ eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen,\n\nMax Mustermann",
+    "thema": "Anfrage zu Sozialleistungen und Weiterbildung",
+    "textinhalt": "Sehr geehrte Frau Meier,\n\nich beziehe mich auf das Arbeitsangebot vom 15. Mai für die Position als Marketingassistent und freue mich sehr auf meinen Start am 1. Juli.\n\nIm Vorstellungsgespräch wurden einige Sozialleistungen kurz erwähnt. Ich hätte __1__ der betrieblichen Altersvorsorge noch einige Detailfragen. Könnten Sie mir bitte erläutern, welche Optionen hier genau bestehen?\n\n__2__ würde mich interessieren, ob und in welcher Form es einen Zuschuss zu den Fahrtkosten gibt, da mein Arbeitsweg relativ lang ist.\n\nIch bin auch sehr an Weiterbildungsmöglichkeiten interessiert. Könnten Sie mir Informationen zukommen lassen, welche internen oder externen Schulungen gefördert werden, __3__ ich meine Kenntnisse gezielt erweitern kann? Ich möchte mich __4__ schon jetzt über mögliche relevante Kurse informieren.\n\nIch verstehe, dass die Einarbeitung Zeit braucht, __5__ wäre ich dankbar, wenn ich zumindest die grundlegenden Informationen zu diesen Punkten vorab erhalten könnte.\n\nBitte senden Sie mir die entsprechenden Unterlagen oder nennen Sie mir einen Ansprechpartner __6__ zu.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "außerdem"
         },
         {
             "id": "b",
@@ -12,61 +12,61 @@
         },
         {
             "id": "c",
-            "content": "dennoch"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "obwohl"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "seitdem"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "trotzdem"
+            "content": "insofern"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "ob"
         },
         {
             "id": "i",
-            "content": "wegen"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "umgehend"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "d"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
-            "blank": "6",
+            "blank": "2",
             "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
         }
     ]
 }

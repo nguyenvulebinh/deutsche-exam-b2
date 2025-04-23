@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage nach Vorstellungsgespräch als Projektmanager am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf mein Vorstellungsgespräch am 15. Mai für die Position als Projektmanager und möchte mich nochmals für das informative und angenehme Gespräch bedanken.\n\nDas Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ bestärkt und mein großes Interesse an der ausgeschriebenen Stelle untermauert.\n\nDa nun seit dem Gespräch einige Zeit vergangen ist, wollte ich mich auf diesem Wege __2__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __3__ mitteilen, bis wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __4__ ich auch andere Bewerbungsprozesse parallel verfolge und koordinieren muss.\n\nIch bin nach wie vor sehr an der Position interessiert. Sollten Sie in der Zwischenzeit __5__ Fragen haben oder zusätzliche Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch sehe einer positiven Rückmeldung von Ihnen __6__ entgegen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Klärung: Anforderungen Projekt 'Alpha'",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank für das informative Meeting gestern bezüglich des neuen Projekts „Alpha“. Ich habe die Hauptziele gut verstanden und bin motiviert, loszulegen.\n\n__1__ ich die übergeordneten Ziele nachvollziehen kann, sind mir einige Details noch nicht ganz klar geworden, die für die praktische Umsetzung wichtig sind. __2__ möchte ich Sie um eine kurze Präzisierung bitten, bevor ich mit der Detailplanung beginne.\n\nDies betrifft zum einen die genaue Definition der Zielgruppe und zum anderen die spezifischen Reporting-Anforderungen, __3__ derer wir im Meeting nur kurz gesprochen haben. Könnten Sie mir __4__ einige Beispiele für frühere Reports zukommen lassen oder die Erwartungen nochmals kurz schriftlich zusammenfassen?\n\nSobald diese Punkte geklärt sind, kann ich einen detaillierten Zeitplan erstellen und Ihnen diesen zur Freigabe vorlegen. __5__ könnten wir dann die Ressourcen final zuweisen. Ich würde vorschlagen, dass wir die offenen Punkte kurz besprechen. __6__ kann ich die Ergebnisse protokollieren und an das Team weiterleiten.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Your Name Placeholder]",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "anschließend"
         },
         {
             "id": "b",
-            "content": "höflich"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "bereits"
+            "content": "daraufhin"
         },
         {
             "id": "d",
-            "content": "weiterhin"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "da"
+            "content": "gegebenenfalls"
         },
         {
             "id": "f",
-            "content": "zuversichtlich"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "weitere"
+            "content": "laut"
         },
         {
             "id": "h",
-            "content": "zusätzlich"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "deswegen"
+            "content": "sobald"
         },
         {
             "id": "j",
-            "content": "eventuell"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "h"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "a"
         }
     ]
 }

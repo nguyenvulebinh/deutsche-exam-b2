@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] vom [Date]",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung als [Job Title], die ich Ihnen am [Date] zugesandt habe.\n\n__1__ ich bisher noch keine Rückmeldung bezüglich des weiteren Vorgehens erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an der ausgeschriebenen Stelle in Ihrem Unternehmen ist __2__ sehr groß, da die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht.\n\nIch wäre Ihnen dankbar, wenn Sie mir __3__ mitteilen könnten, wann mit einer Entscheidung zu rechnen ist.\n\nFür ein persönliches Gespräch stehe ich Ihnen __4__ zur Verfügung und freue mich über eine Einladung.\n\n__5__ ich verstehe, dass ein sorgfältiger Auswahlprozess Zeit benötigt, wäre eine kurze Information über den Zeitrahmen für mich sehr hilfreich.\n\nIch bedanke mich im Voraus für Ihre Mühe und eine kurze Rückmeldung __6__ den weiteren Prozess.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "thema": "Rückmeldung zum neuen Zeiterfassungssystem",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank für die Möglichkeit, Feedback zu dem neuen digitalen Zeiterfassungssystem zu geben, das seit Monatsbeginn im Einsatz ist.\n\n__1__ finde ich das System benutzerfreundlich und die Weboberfläche modern gestaltet. Die grundsätzliche Erfassung der Kommt- und Geht-Zeiten funktioniert einwandfrei.\n\n__2__ habe ich festgestellt, dass die Zuordnung von Arbeitsstunden zu spezifischen Projekten oder Kostenstellen manchmal umständlich ist. Dies liegt __3__ der verschachtelten Menüstruktur, die eine schnelle Eingabe erschwert. Besonders bei mehreren kleinen Aufgaben pro Tag führt dies zu einem merklichen Zeitaufwand.\n\nIch würde vorschlagen, die Projektzuweisung zu vereinfachen, __4__ vielleicht eine Favoritenliste für häufig genutzte Projekte eingeführt wird. Das wäre eine große Hilfe, __5__ die tägliche Erfassung effizienter gestaltet werden kann.\n\nGerne stehe ich für ein weiterführendes Gespräch zur Verfügung und erläutere meine Punkte __6__ auch detaillierter.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Deshalb"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "jederzeit"
+            "content": "aufgrund"
         },
         {
             "id": "c",
-            "content": "Obwohl"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "über"
+            "content": "erstens"
         },
         {
             "id": "e",
-            "content": "bereits"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "Wann"
+            "content": "grundsätzlich"
         },
         {
             "id": "g",
-            "content": "nach wie vor"
+            "content": "hierzu"
         },
         {
             "id": "h",
-            "content": "da"
+            "content": "sodass"
         },
         {
             "id": "i",
-            "content": "bezüglich"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "ungefähr"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "g"
         }
     ]
 }

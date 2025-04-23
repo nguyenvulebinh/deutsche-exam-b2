@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die ausgeschriebene Stelle als Marketingassistenz in Ihrem Unternehmen.\n\nIch habe selbstverständlich Verständnis dafür, dass ein sorgfältiger Auswahlprozess einige Zeit in Anspruch nehmen kann. __1__ möchte ich mich nach über einem Monat Wartezeit höflich nach dem aktuellen Stand des Bewerbungsverfahrens erkundigen.\n\nKönnten Sie mir eventuell mitteilen, __2__ ungefähr mit einer Entscheidung oder zumindest einer Rückmeldung bezüglich der nächsten Schritte zu rechnen ist?\n\nMein Interesse an dieser Position ist __3__ ungebrochen, da die Aufgabenbeschreibung exakt meinen Fähigkeiten und beruflichen Zielen entspricht. Ich bin überzeugt, Ihr Team gut ergänzen zu können.\n\nFür ein persönliches Gespräch oder ein Online-Interview stehe ich Ihnen __4__ zur Verfügung, um meine Motivation und Qualifikation näher zu erläutern.\n\nWäre es __5__ möglich, mir eine kurze Information zukommen zu lassen, ob die Stelle bereits besetzt wurde oder das Verfahren noch andauert? Über eine baldige positive Nachricht würde ich mich __6__ sehr freuen.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Ausstellung eines Praktikumszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich hoffe, diese E-Mail findet Sie gut.\n\nmein Praktikum im Marketingbereich Ihres Unternehmens ist __1__ einige Wochen her, und ich möchte mich nochmals herzlich für die wertvollen Einblicke und Erfahrungen bedanken.\n\nDa ich mich aktuell auf verschiedene Stellen bewerbe, ist ein qualifiziertes Praktikumszeugnis für meine Unterlagen sehr wichtig. __2__ wende ich mich heute an Sie mit der Bitte um Ausstellung eines solchen Zeugnisses. Ich wäre Ihnen dankbar, wenn darin __3__ meine Tätigkeiten im Projektmanagement und bei der Marktanalyse erwähnt werden könnten, da diese für meine angestrebte Berufsrichtung besonders relevant sind.\n\nKönnten Sie mir bitte mitteilen, __4__ ich ungefähr mit der Zusendung des Zeugnisses rechnen kann?\n\nSollte es einen standardisierten Prozess __5__ Ihrer internen Richtlinien geben, folgen Sie diesem bitte einfach. Ich stehe __6__ für Rückfragen oder zur Bereitstellung weiterer Informationen, die Sie benötigen könnten, gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "dennoch"
+            "content": "deshalb"
         },
         {
             "id": "b",
-            "content": "jederzeit"
+            "content": "gegebenenfalls"
         },
         {
             "id": "c",
-            "content": "obwohl"
+            "content": "gemäß"
         },
         {
             "id": "d",
-            "content": "bereit"
+            "content": "hauptsächlich"
         },
         {
             "id": "e",
-            "content": "weiterhin"
+            "content": "insbesondere"
         },
         {
             "id": "f",
-            "content": "vielleicht"
+            "content": "laut"
         },
         {
             "id": "g",
-            "content": "wann"
+            "content": "nun"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "auf"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "deshalb"
+            "content": "wie"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "a"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "b"
         }
     ]
 }

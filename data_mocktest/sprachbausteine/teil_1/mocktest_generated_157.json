@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 25. Mai für die ausgeschriebene Stelle als Marketingmanager, __1__ Eingang Sie mir dankenswerterweise bereits bestätigt haben.\n\n__2__ nun einige Wochen vergangen sind, ohne dass ich eine weitere Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __3__ sehr an dieser Position interessiert, da die beschriebenen Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen genau meinen Vorstellungen entsprechen.\n\nKönnten Sie mir __4__ mitteilen, bis wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere berufliche Planung sehr hilfreich.\n\nIch habe Verständnis dafür, dass ein sorgfältiger Auswahlprozess Zeit __5__, würde mich aber __6__ über eine kurze Information zum weiteren Verlauf freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nAnna Petrova",
+    "thema": "Rückfragen zu Ihrem Stellenangebot AZ-123",
+    "textinhalt": "Sehr geehrte Frau Dr. Meier,\n\nvielen Dank für die Zusendung des Arbeitsvertrags für die Position als Projektmanager (Kennziffer AZ-123) und das damit verbundene Vertrauen. Ich möchte Ihnen __1__ für das positive Gespräch in der letzten Woche danken.\n\nIch habe die Unterlagen __2__ erhalten und sorgfältig durchgelesen. Mein Interesse an der Position ist nach wie vor sehr groß. Allerdings habe ich noch ein paar Punkte, zu denen ich um Klärung bitten möchte, bevor ich den Vertrag unterzeichnen kann. __3__ wäre ich Ihnen dankbar, wenn Sie mir kurz erläutern könnten, ob der im Vertrag genannte Starttermin am 1. August fix ist oder ob hier ein gewisser Spielraum besteht, da meine aktuelle Kündigungsfrist eventuell eine kleine Überschneidung verursachen könnte.\n\n__4__ bitte ich um eine genauere Information zur variablen Gehaltskomponente. Im Vertrag wird diese erwähnt, aber die genauen Kriterien für die Bonus-Auszahlung sind nicht detailliert aufgeführt. Könnten Sie mir hierzu eventuell weitere Details zukommen lassen?\n\nDiese Klärungen sind für meine finale Entscheidung und Planung wichtig. __5__ bitte ich um Ihr Verständnis für diese Nachfragen. __6__ weitere Fragen meinerseits aufkommen sollten, würde ich mich gegebenenfalls nochmals bei Ihnen melden.\n\nVielen Dank für Ihre Mühe. Ich freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "dahingehend"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "deswegen"
         },
         {
             "id": "c",
-            "content": "dennoch"
+            "content": "ebenso"
         },
         {
             "id": "d",
-            "content": "deren"
+            "content": "erneut"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "gleichfalls"
         },
         {
             "id": "f",
-            "content": "dessen"
+            "content": "insofern"
         },
         {
             "id": "g",
-            "content": "eventuell"
+            "content": "inzwischen"
         },
         {
             "id": "h",
-            "content": "nach wie vor"
+            "content": "nämlich"
         },
         {
             "id": "i",
-            "content": "Obwohl"
+            "content": "sofern"
         },
         {
             "id": "j",
-            "content": "benötigt"
+            "content": "somit"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "i"
         }
     ]
 }

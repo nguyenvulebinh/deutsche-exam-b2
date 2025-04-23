@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15.05.2024",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung vom 15.05.2024 für die ausgeschriebene Stelle als Projektmanager möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ ich bisher keine Rückmeldung erhalten habe, wollte ich höflich nachfragen, ob meine Unterlagen gut angekommen sind und ob sich diese noch im Prozess befinden.\n\nIch bin __2__ sehr an der Position interessiert und überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen passen.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, bis wann etwa mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Auswahlprozess Zeit __4__ nimmt.\n\n__5__ Sie weitere Informationen oder Referenzen benötigen, steche ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nIch möchte __6__ betonen, dass mein Interesse an dieser spannenden Herausforderung unverändert groß ist und freue mich auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu internen Weiterbildungsmöglichkeiten",
+    "textinhalt": "Sehr geehrte Damen und Herren der Personalabteilung,\n\nich schreibe Ihnen bezüglich der internen Weiterbildungsmöglichkeiten, die kürzlich im Intranet vorgestellt wurden. Generell bin ich sehr an meiner beruflichen Weiterentwicklung interessiert und prüfe daher regelmäßig die angebotenen Kurse.\n\nBesonders aufgefallen ist mir der Kurs „Excel für Fortgeschrittene“. Könnten Sie mir bitte mitteilen, __1__ es spezielle Vorkenntnisse oder Zulassungsbedingungen für diesen Kurs gibt? Meine aktuellen Aufgaben erfordern immer häufiger komplexe Datenanalysen, __2__ dieser Kurs für mich äußerst relevant wäre.\n\nIch wäre Ihnen dankbar, wenn Sie mir auch Informationen darüber geben könnten, wann die nächsten Termine __3__ stattfinden werden. Gibt es bereits eine Planung für das kommende Quartal?\n\nKönnten Sie mir __4__ auch Details zum Anmeldeverfahren zukommen lassen? Mich würde insbesondere interessieren, ob es eine Warteliste gibt oder feste Anmeldefristen beachtet werden müssen. Ich frage auch, da ich in den nächsten Monaten in ein wichtiges Projekt eingebunden sein werde. Ist eine Teilnahme __5__ voller Projektverantwortung überhaupt realistisch?\n\nIch hoffe auf baldige und hilfreiche Informationen. __6__ bedanke ich mich im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nAnna Bauer",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "darüber"
         },
         {
             "id": "b",
-            "content": "da"
-        },
-        {
-            "id": "c",
             "content": "deshalb"
         },
         {
+            "id": "c",
+            "content": "hierzu"
+        },
+        {
             "id": "d",
-            "content": "eventuell"
+            "content": "jedenfalls"
         },
         {
             "id": "e",
-            "content": "falls"
+            "content": "ob"
         },
         {
             "id": "f",
-            "content": "in Anspruch"
+            "content": "trotz"
         },
         {
             "id": "g",
-            "content": "benötigt"
+            "content": "voraussichtlich"
         },
         {
             "id": "h",
-            "content": "nochmals"
+            "content": "weil"
         },
         {
             "id": "i",
-            "content": "obwohl"
+            "content": "wenn"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "c"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "d"
         }
     ]
 }

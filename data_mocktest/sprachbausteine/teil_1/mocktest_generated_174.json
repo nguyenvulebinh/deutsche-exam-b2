@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent vom 25. April und wollte mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ ich bisher noch keine Rückmeldung erhalten habe und weiterhin sehr an der Position interessiert bin, wäre ich Ihnen dankbar für eine kurze Information. Mir ist __3__ bewusst, dass die Prüfung von Bewerbungsunterlagen Zeit in Anspruch nimmt.\n\nKönnten Sie mir __4__ mitteilen, wann voraussichtlich mit einer Entscheidung zu rechnen ist? Ich möchte __5__ betonen, dass diese Stelle ideal zu meinen beruflichen Zielen passen würde.\n\nVielen Dank __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Klärungsbedarf zur betrieblichen Altersvorsorge",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich schreibe Ihnen bezüglich der betrieblichen Altersvorsorge. Vielen Dank für die informative Präsentation am vergangenen Dienstag und die bereitgestellten Unterlagen.\n\nIch habe die Dokumente __1__ nun durchgesehen und bin etwas verunsichert, da einige Punkte von den mündlichen Erläuterungen abzuweichen scheinen. In den Unterlagen steht beispielsweise, dass der Arbeitgeber maximal 15% zuzahlt, __2__ in der Präsentation von bis zu 20% die Rede war.\n\nEine eindeutige Klärung dieser Details ist für meine Entscheidungsfindung sehr wichtig, __3__ möchte ich die für mich passendste Option wählen können.\n\nKönnten Sie mir mitteilen, ob es eventuell aktualisierte Dokumente gibt, __4__ ob ein kurzes persönliches Gespräch zur Klärung möglich wäre?\n\nIch wäre Ihnen dankbar, wenn ich __5__ der nächsten zwei Wochen eine Rückmeldung erhalten könnte, da ich meine Entscheidung bald treffen muss.\n\nIch möchte sichergehen, dass ich alle Konditionen korrekt verstanden habe, __6__ ich einen Vertrag abschließe.\n\nVielen Dank für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nThomas Müller",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "bevor"
         },
         {
             "id": "b",
-            "content": "Für"
+            "content": "beziehungsweise"
         },
         {
             "id": "c",
-            "content": "etwa"
+            "content": "daher"
         },
         {
             "id": "d",
-            "content": "Genau"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "höflich"
+            "content": "innerhalb"
         },
         {
             "id": "f",
-            "content": "selbstverständlich"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "Da"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "Wegen"
+            "content": "seit"
         },
         {
             "id": "i",
-            "content": "Außerdem"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "nochmals"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
             "option_id": "f"
         },
         {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
+            "blank": "2",
             "option_id": "j"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
             "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
+            "blank": "6",
+            "option_id": "a"
         }
     ]
 }

@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Assistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbungsunterlagen für die Stelle als Marketing-Assistent, die ich Ihnen am 25. April __1__ habe zukommen lassen.\n\n__2__ seitdem einige Wochen vergangen sind und ich bisher keine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mein Interesse an dieser Position in Ihrem Unternehmen ist __3__ sehr stark, da die beschriebenen Aufgaben genau meinen Fähigkeiten und beruflichen Zielen entsprechen.\n\nIch wäre Ihnen dankbar, wenn Sie mir mitteilen könnten, __4__ etwa mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist. Ich bin mir bewusst, dass solche Verfahren Zeit benötigen, __5__ wäre eine kurze Information für meine weitere Planung hilfreich.\n\n__6__ stehe ich Ihnen für Rückfragen oder zur Vereinbarung eines Vorstellungsgesprächs gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Weber",
+    "thema": "Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\n__1__ beantrage ich die Ausstellung eines qualifizierten Arbeitszeugnisses für meine Tätigkeit als Projektmanager bei Ihnen vom 01.03.2021 bis zum 31.08.2023.\n\nIch bitte explizit um ein *qualifiziertes* Zeugnis, __2__ dieses eine detaillierte Beschreibung und Bewertung meiner Leistungen enthält, was für meine weitere berufliche Entwicklung von großer Bedeutung ist.\n\nIch wäre Ihnen dankbar, wenn Sie mir das Dokument __3__ bis zum 15. Oktober zukommen lassen könnten, __4__ ich es für eine wichtige Bewerbung fristgerecht einreichen muss. Der potenzielle neue Arbeitgeber erwartet die vollständigen Unterlagen bis Ende Oktober.\n\n__5__ Sie für die Erstellung des Zeugnisses noch spezifische Informationen zu meinen damaligen Projekten oder detaillierte Aufgabenbeschreibungen benötigen, stehe ich Ihnen selbstverständlich gerne kurzfristig zur Verfügung. __6__ möchte ich mich noch einmal für die stets gute und vertrauensvolle Zusammenarbeit während meiner Anstellung bedanken.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "denn"
         },
         {
             "id": "b",
-            "content": "da"
+            "content": "deswegen"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "ferner"
         },
         {
             "id": "d",
-            "content": "fristgerecht"
+            "content": "hiermit"
         },
         {
             "id": "e",
-            "content": "Selbstverständlich"
+            "content": "innerhalb"
         },
         {
             "id": "f",
-            "content": "wann"
+            "content": "nämlich"
         },
         {
             "id": "g",
-            "content": "deshalb"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "spätestens"
         },
         {
             "id": "i",
-            "content": "dennoch"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "ob"
+            "content": "zumal"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "a"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "c"
         }
     ]
 }

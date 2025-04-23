@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April zugesandt habe.\n\nDa seitdem einige Zeit vergangen ist, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Die in Ihrer Ausschreibung beschriebenen Aufgaben entsprechen sehr gut meinen Fähigkeiten und Interessen, __2__ bin ich weiterhin äußerst motiviert, Ihr Team zu verstärken.\n\nMir ist bewusst, dass ein sorgfältiger Auswahlprozess Zeit __3__. __4__ Sie mir dennoch eine ungefähre Einschätzung geben könnten, wann mit einer Entscheidung oder den nächsten Schritten zu rechnen ist, wäre ich Ihnen sehr dankbar.\n\nFür Rückfragen oder ein persönliches Gespräch stehe ich Ihnen __5__ gerne zur Verfügung.\n\nIch würde mich über eine __6__ Rückmeldung freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich interner Weiterbildung „Projektmanagement“",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich schreibe Ihnen bezüglich der kürzlich angekündigten internen Weiterbildung zum Thema „Projektmanagement“. Das Thema interessiert mich sehr, da ich meine Kenntnisse in diesem Bereich gerne vertiefen möchte.\n\nIch verfüge bereits über grundlegende Erfahrungen im Projektmanagement aus meiner früheren Tätigkeit, __1__ ich mir nicht sicher bin, ob diese Vorkenntnisse für das Seminar ausreichen oder ob spezifische Grundlagen vorausgesetzt werden. Könnten Sie mir hierzu bitte nähere Informationen zukommen lassen?\n\nDie Ausschreibung erwähnt eine begrenzte Teilnehmerzahl. __2__ möchte ich mich erkundigen, wie das genaue Anmeldeverfahren aussieht und ob eine Registrierung __3__ der nächsten zwei Wochen erfolgen muss. Ich möchte sicherstellen, dass ich alle Fristen einhalte.\n\nEine weitere Frage betrifft den Zeitplan. Am zweiten Seminartag habe ich einen unaufschiebbaren privaten Termin am späten Nachmittag. Wäre es __4__ möglich, an diesem Tag etwa eine Stunde früher zu gehen, oder ist die durchgehende Anwesenheit zwingend erforderlich? Selbstverständlich würde ich versäumte Inhalte eigenständig nacharbeiten. Ich bin sehr __5__ interessiert, an diesem Seminar teilzunehmen.\n\n__6__ wäre ich Ihnen dankbar, wenn Sie mir mitteilen könnten, ob vorbereitende Materialien zur Verfügung gestellt werden.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "benötigt"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "damit"
         },
         {
             "id": "c",
-            "content": "falls"
+            "content": "daran"
         },
         {
             "id": "d",
-            "content": "jederzeit"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "kurze"
+            "content": "gegebenenfalls"
         },
         {
             "id": "f",
-            "content": "nach"
+            "content": "innerhalb"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "obwohl"
         },
         {
             "id": "h",
-            "content": "sofort"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "trotz"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "während"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
-            "option_id": "a"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "d"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
             "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
         }
     ]
 }

@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager Marketing vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Projektmanager Marketing und Ihre freundliche Eingangsbestätigung vom 17. Mai.\n\nDa __1__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich __2__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position und an einer Tätigkeit in Ihrem Unternehmen ist __3__ sehr groß. Die in der Ausschreibung genannten Aufgabenbereiche entsprechen genau meinen beruflichen Erfahrungen und Zielen.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, __5__ ungefähr mit einer Entscheidung oder weiteren Schritten im Prozess zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich.\n\nFür eventuelle Rückfragen stehe ich Ihnen selbstverständlich __6__ telefonisch oder per E-Mail zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Anfrage zum aktuellen Stand – Projekt Alpha",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nwir beziehen uns auf unser gemeinsames „Projekt Alpha“, für das der ursprüngliche Liefertermin der 30. November war. __1__ bitten wir um eine kurze Information zum aktuellen Bearbeitungsstand, da wir bisher noch keine finale Bestätigung erhalten haben.\n\nWir verstehen, dass unvorhergesehene Herausforderungen auftreten können. __2__ ist die Einhaltung des Zeitplans für uns sehr wichtig, da nachfolgende Prozessschritte direkt davon abhängen. Eine weitere Verzögerung hätte zur Folge, dass auch interne Folgetermine nicht eingehalten werden können, __3__ die gesamte Projektplanung gefährdet wäre.\n\nKönnten Sie uns bitte mitteilen, ob die Ergebnisse noch __4__ geliefert werden können? __5__ wären wir dankbar für eine kurze Einschätzung, wann wir spätestens mit den finalen Unterlagen rechnen dürfen. Bitte informieren Sie uns umgehend, __6__ es Schwierigkeiten gibt, bei denen wir eventuell unterstützen könnten.\n\nVielen Dank für Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "deshalb"
+            "content": "dennoch"
         },
         {
             "id": "b",
-            "content": "jederzeit"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "diesbezüglich"
         },
         {
             "id": "d",
-            "content": "ob"
+            "content": "ferner"
         },
         {
             "id": "e",
-            "content": "seitdem"
+            "content": "fristgerecht"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "wann"
+            "content": "pünktlich"
         },
         {
             "id": "h",
-            "content": "weiterhin"
+            "content": "sofern"
         },
         {
             "id": "i",
-            "content": "weil"
+            "content": "weshalb"
         },
         {
             "id": "j",
-            "content": "inzwischen"
+            "content": "wodurch"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "h"
         }
     ]
 }

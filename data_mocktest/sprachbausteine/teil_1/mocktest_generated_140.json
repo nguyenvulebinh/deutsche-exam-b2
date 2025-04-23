@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zu meiner Bewerbung als Projektmanager (Ref. PM-123) – Gespräch am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager (Referenznummer PM-123) und das sehr angenehme Vorstellungsgespräch, __1__ ich am 15. Mai mit Ihnen führen durfte.\nDas Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen bestärkt und mein Interesse an der Position __2__ verstärkt.\n\n__3__ nun einige Wochen vergangen sind, seitdem wir gesprochen haben, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\nKönnten Sie mir __4__ mitteilen, wann mit einer Entscheidung zu rechnen ist?\n\nIch bin nach wie vor sehr an der Stelle interessiert und davon überzeugt, dass meine Qualifikationen und meine Motivation gut zu den Anforderungen __5__ würden.\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Ausstellung meines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich schreibe Ihnen bezüglich meiner früheren Anstellung als Marketingassistentin in Ihrem Unternehmen, die am 31. August dieses Jahres endete. __1__ bitte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses.\n\nIch benötige dieses Dokument für meine weiteren beruflichen Schritte und wäre Ihnen dankbar, wenn Sie es mir __2__ der nächsten vier Wochen zukommen lassen könnten.\n\nBei der Erstellung des Zeugnisses würde ich mich freuen, wenn Sie __3__ auf meine Tätigkeiten im Projekt \"Neukunden-werben-Neukunden\" eingehen könnten. Dieses Projekt war für meine Entwicklung sehr prägend, __4__ ich eigenverantwortlich die Social-Media-Kampagne konzipieren und umsetzen durfte.\n\nKönnten Sie mir bitte mitteilen, __5__ eine Zusendung des Zeugnisses auch in digitaler Form als PDF möglich wäre? Dies würde den Bewerbungsprozess bei anderen Firmen erheblich erleichtern. Bitte teilen Sie mir __6__ auch mit, ob Sie hierfür noch weitere Informationen von meiner Seite benötigen.\n\nMeine aktuelle Postanschrift lautet: Musterstraße 12, 12345 Musterstadt.\n\nVielen Dank für Ihre Bemühungen im Voraus.\n\nMit freundlichen Grüßen\n\nAnna Müller",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "binnen"
         },
         {
             "id": "b",
-            "content": "passen"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "deswegen"
         },
         {
             "id": "d",
-            "content": "Solange"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "Da"
+            "content": "innerhalb"
         },
         {
             "id": "f",
-            "content": "nochmals"
+            "content": "insbesondere"
         },
         {
             "id": "g",
-            "content": "was"
+            "content": "inwiefern"
         },
         {
             "id": "h",
-            "content": "ziemlich"
+            "content": "nämlich"
         },
         {
             "id": "i",
-            "content": "Falls"
+            "content": "wobei"
         },
         {
             "id": "j",
-            "content": "das"
+            "content": "wodurch"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
-            "option_id": "f"
-        },
-        {
-            "blank": "3",
-            "option_id": "e"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
             "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
         }
     ]
 }

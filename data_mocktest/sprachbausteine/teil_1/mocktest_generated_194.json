@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Ref: MM-451)",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing Manager (Ref: MM-451), die ich Ihnen am 15. Mai zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, seitdem die Bewerbungsfrist abgelaufen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin nach wie vor __2__ an der Position interessiert, da mich die beschriebenen Aufgaben und Ihr Unternehmen sehr ansprechen.\n\n__3__ ich mich auch auf andere Stellen beworben habe, ist diese Position bei Ihnen weiterhin meine bevorzugte Wahl. Ich befinde mich derzeit __4__ in einem anderen Bewerbungsprozess, bei dem bald eine Entscheidung ansteht.\n\n__5__ wäre es für meine Planung sehr hilfreich, wenn Sie mir eine kurze Information geben könnten, wann ungefähr mit einer Entscheidung zu rechnen ist.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich gerne __6__ Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung Eingang Ihrer Bewerbungsunterlagen",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nhiermit bestätigen wir Ihnen den Eingang Ihrer Bewerbungsunterlagen für die Position als Projektmanager (Referenznummer PM-123), die uns __1__ erreicht haben. Vielen Dank für Ihr Interesse an unserem Unternehmen.\n\nWir haben eine sehr hohe Anzahl an Bewerbungen erhalten. __2__ bitten wir um Ihr Verständnis, dass die sorgfältige Prüfung aller Dokumente einige Zeit in Anspruch nehmen wird. Wir sind bemüht, den Auswahlprozess so effizient wie möglich zu gestalten.\n\nSie können davon ausgehen, dass wir uns __3__ der nächsten drei Wochen bei Ihnen melden werden, um Ihnen den weiteren Verlauf des Bewerbungsverfahrens mitzuteilen. Eine gründliche Prüfung liegt uns am Herzen, __4__ möchten wir sicherstellen, jedem Kandidaten gerecht zu werden.\n\nSollte Ihre Bewerbung in die engere Auswahl kommen, werden wir Sie __5__ zu einem persönlichen Gespräch einladen. Sie erhalten __6__ dann eine gesonderte Benachrichtigung per E-Mail.\n\nBis dahin bitten wir Sie um etwas Geduld.\n\nMit freundlichen Grüßen\n\nIhre Personalabteilung\nSchmidt & Partner GmbH",
     "options": [
         {
             "id": "a",
-            "content": "wegen"
-        },
-        {
-            "id": "b",
-            "content": "trotzdem"
-        },
-        {
-            "id": "c",
-            "content": "obwohl"
-        },
-        {
-            "id": "d",
-            "content": "besonders"
-        },
-        {
-            "id": "e",
             "content": "allerdings"
         },
         {
+            "id": "b",
+            "content": "binnen"
+        },
+        {
+            "id": "c",
+            "content": "dennoch"
+        },
+        {
+            "id": "d",
+            "content": "deswegen"
+        },
+        {
+            "id": "e",
+            "content": "hierüber"
+        },
+        {
             "id": "f",
-            "content": "während"
+            "content": "kürzlich"
         },
         {
             "id": "g",
-            "content": "deshalb"
+            "content": "nämlich"
         },
         {
             "id": "h",
-            "content": "kaum"
+            "content": "sofort"
         },
         {
             "id": "i",
-            "content": "inzwischen"
+            "content": "umgehend"
         },
         {
             "id": "j",
-            "content": "zur"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "e"
         }
     ]
 }

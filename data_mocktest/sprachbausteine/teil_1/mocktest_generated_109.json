@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Ref: MM-45B) vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager (Ref: MM-45B), die ich Ihnen am 20. April zugesandt habe.\n\n__1__ seitdem bereits einige Wochen vergangen sind und ich bisher keine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position ist __2__ sehr groß, insbesondere da die in der Ausschreibung genannten Aufgaben im Bereich Social Media Marketing genau meinen Erfahrungen entsprechen.\n\nDa ich mich auch in anderen Bewerbungsverfahren befinde, wäre eine zeitnahe Information über die nächsten Schritte für meine weitere Planung __3__ hilfreich.\n\nWäre es Ihnen __4__ möglich, mir eine kurze Einschätzung zu geben, wann etwa mit einer Entscheidung oder einer Einladung zu rechnen ist?\n\n__5__ Sie zusätzliche Unterlagen oder Referenzen benötigen, stehe ich Ihnen selbstverständlich zur Verfügung. Bitte teilen Sie mir __6__ mit, welche Dokumente das wären.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nAnna Meyer",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Neumann,\n\nmein Arbeitsverhältnis in Ihrer Abteilung Marketing endete bekanntlich zum 31. Juli dieses Jahres. __1__ sind nun mehrere Wochen vergangen, und ich benötige für meine weiteren beruflichen Schritte dringend mein qualifiziertes Arbeitszeugnis.\n\nIch bin mir bewusst, dass die Erstellung eines solchen Dokuments Zeit in Anspruch nimmt. Mein Anspruch darauf ist jedoch gesetzlich verankert. __2__ bitte ich Sie höflich um die zeitnahe Ausstellung und Zusendung des Zeugnisses.\n\nIch weiß, dass die Personalabteilung derzeit viele Anfragen bearbeitet. __3__ wäre ich Ihnen sehr verbunden, wenn Sie prüfen könnten, wie der aktuelle Stand meines Vorgangs ist, da ich das Zeugnis für Bewerbungsfristen benötige.\n\nKönnten Sie mir bitte eine kurze Rückmeldung geben, wann ich ungefähr mit dem Erhalt rechnen kann? __4__ es unerwartete Verzögerungen geben sollte, wäre ich für eine kurze Benachrichtigung dankbar.\n\nIch hätte zudem eine kurze Nachfrage __5__ der genauen Formulierung meiner Verantwortlichkeiten im Projekt 'X', um sicherzustellen, dass diese korrekt wiedergegeben werden. Die relevanten Notizen dazu hatte ich __6__ vor meinem Austritt an Herrn Schmidt übergeben.\n\nBitte senden Sie das fertige Arbeitszeugnis an meine aktuelle Adresse: [Musterstraße 1, 12345 Musterstadt].\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "kaum"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "Falls"
+            "content": "darum"
         },
         {
             "id": "d",
-            "content": "gegebenenfalls"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "da"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "falls"
         },
         {
             "id": "g",
-            "content": "äußerst"
+            "content": "hinsichtlich"
         },
         {
             "id": "h",
-            "content": "eventuell"
+            "content": "seitdem"
         },
         {
             "id": "i",
-            "content": "deswegen"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "bereits"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
-            "option_id": "g"
-        },
-        {
-            "blank": "4",
             "option_id": "h"
         },
         {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "b"
         }
     ]
 }

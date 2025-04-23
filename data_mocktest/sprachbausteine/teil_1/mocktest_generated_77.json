@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager - Kennziffer MM-451",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Marketing Manager (Kennziffer MM-451).\n\n__1__ ist seit dem Bewerbungsschluss nun einige Zeit vergangen, __2__ wollte ich mich höflich erkundigen, ob es bereits Neuigkeiten zum Stand des Auswahlverfahrens gibt.\n\nIch bin __3__ sehr an dieser Position interessiert, da sie meinen Qualifikationen und beruflichen Zielen hervorragend entspricht.\n\n__4__ ich meine berufliche Zukunft sorgfältig planen möchte, wäre eine kurze Information über den weiteren Zeitplan für mich sehr hilfreich. Könnten Sie mir vielleicht mitteilen, __5__ ungefähr mit einer Rückmeldung zu rechnen ist?\n\nFür Rückfragen __6__ meiner Bewerbungsunterlagen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Klärungsbedarf bezüglich Rechnung Nr. 4711-B",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir bestätigen den Eingang Ihrer Rechnung Nr. 4711-B vom [Datum, z.B. 15.11.2023], vielen Dank dafür. Bei der Prüfung der Rechnung sind uns einige Punkte aufgefallen, die wir gerne klären möchten, bevor wir die Zahlung veranlassen.\n\n__1__ der Position \"Beratungsleistung Phase II\" bitten wir um eine detailliertere Aufschlüsselung der abgerechneten Stunden. Die allgemeine Beschreibung ist für unsere interne Zuordnung nicht ausreichend. Die übrigen Posten der Rechnung sind nachvollziehbar, __2__ benötigen wir für die genannte Position weitere Informationen.\n\nKönnten Sie uns __3__ bitte die entsprechenden Zeitnachweise oder Tätigkeitsberichte zukommen lassen? Ohne diese Belege kann unsere Buchhaltung die Rechnung leider nicht freigeben, __4__ bitten wir um Ihr Verständnis und Ihre Mithilfe.\n\nWir werden die Überweisung veranlassen, __5__ wir die Klärung von Ihnen erhalten haben. Um Verzögerungen im Zahlungsprozess zu vermeiden, wären wir Ihnen dankbar, wenn Sie uns die benötigten Unterlagen __6__ zusenden könnten.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "über"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "da"
+            "content": "folglich"
         },
         {
             "id": "e",
-            "content": "inzwischen"
+            "content": "hierzu"
         },
         {
             "id": "f",
-            "content": "weiterhin"
+            "content": "sobald"
         },
         {
             "id": "g",
-            "content": "zu"
+            "content": "trotz"
         },
         {
             "id": "h",
-            "content": "ob"
+            "content": "umgehend"
         },
         {
             "id": "i",
-            "content": "trotzdem"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
             "option_id": "b"
         },
         {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
             "blank": "3",
-            "option_id": "f"
+            "option_id": "e"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "h"
         }
     ]
 }

@@ -1,68 +1,68 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Keller,\n\nich __1__ mich auf meine Bewerbung für die Stelle als Projektmanager vom 15. Mai dieses Jahres.\n__2__ nun seitdem einige Wochen vergangen sind, ohne dass ich eine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\nIch bin nach wie vor sehr an dieser Position in Ihrem Unternehmen interessiert und möchte mein Interesse hiermit __3__ bekräftigen.\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich.\nSollten Sie in der Zwischenzeit zusätzliche Unterlagen oder Informationen von mir benötigen, stehe ich Ihnen __5__ zur Verfügung.\nIch freue mich auf Ihre __6__ Rückmeldung und verbleibe\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung Workshop-Teilnahme und Fragen",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nhiermit bestätige ich meine verbindliche Teilnahme am Workshop \"Effektive Teamkommunikation\" am [Datum]. Vielen Dank für die Einladung und die professionelle Organisation dieses wichtigen Termins.\n\nIch habe noch einige klärende Fragen zur Vorbereitung, um optimal teilnehmen zu können. Werden die Workshop-Materialien __1__ digital als auch in gedruckter Form zur Verfügung gestellt, oder sollen wir eigene Notizmittel wie Laptops oder Blöcke mitbringen? Es wäre sehr hilfreich, dies __2__ zu wissen, um entsprechend vorbereitet zu sein. Muss vielleicht sogar __3__ des Workshops spezifische Software auf unseren Firmenlaptops installiert werden, die wir noch nicht nutzen?\n\nEine weitere Frage habe ich __4__ des genauen Veranstaltungsortes innerhalb des Hauptgebäudes. Im ursprünglichen Memo war dies nicht spezifiziert. Könnten Sie mir bitte die genaue Raumnummer und Etage mitteilen?\n\nDie Agenda erwähnt einen interaktiven Praxisteil am Nachmittag, was ich sehr begrüße. __5__ wäre es gut zu verstehen, ob dieser Teil individuelle Vorarbeiten oder das Lesen bestimmter Dokumente erfordert, damit wir alle den größtmöglichen Nutzen daraus ziehen können. Wird es __6__ nach dem Praxisteil noch eine kurze Feedbackrunde oder eine Zusammenfassung der wichtigsten Ergebnisse geben?\n\nVielen Dank im Voraus für Ihre baldige Rückmeldung und Unterstützung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "baldige"
+            "content": "anschließend"
         },
         {
             "id": "b",
-            "content": "beziehe"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "darüber"
         },
         {
             "id": "d",
-            "content": "erneut"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "gerne"
+            "content": "entweder"
         },
         {
             "id": "f",
-            "content": "jederzeit"
+            "content": "insofern"
         },
         {
             "id": "g",
-            "content": "Obwohl"
+            "content": "rechtzeitig"
         },
         {
             "id": "h",
-            "content": "Seit"
+            "content": "sowohl"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "zeitnahe"
+            "content": "zuvor"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "h"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "6",

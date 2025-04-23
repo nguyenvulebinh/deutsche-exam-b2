@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung als Marketing Manager vom 25. April, __1__ Eingang Sie mir dankenswerterweise kurz darauf bestätigt haben.\n\n__2__ sind nun einige Wochen vergangen, seit ich von Ihnen gehört habe. Da ich __3__ sehr an dieser Position interessiert bin und die Aufgabenbeschreibung genau meinen Fähigkeiten und Interessen entspricht, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir eventuell eine kurze Auskunft geben, __4__ ungefähr mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __5__ ich die in Aussicht gestellten Projekte und die Unternehmenskultur besonders schätze.\n\nFür Rückfragen oder ein weiterführendes Gespräch stehe ich Ihnen selbstverständlich __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich hoffe, diese E-Mail findet Sie gut. Ich schreibe Ihnen bezüglich meines früheren Arbeitsverhältnisses als Marketingassistent in Ihrer Abteilung, welches __1__ am 30. September letzten Jahres endete.\n\nFür meine weiteren beruflichen Schritte benötige ich nun ein qualifiziertes Arbeitszeugnis. Ich wäre Ihnen dankbar, wenn Sie mir dieses ausstellen könnten. Von besonderem Interesse wären detaillierte Ausführungen __2__ meiner Aufgaben im Bereich Social Media Management und der Organisation von Kundenveranstaltungen.\n\nIch verstehe, dass Ihr Terminkalender voll ist und die Erstellung eines Zeugnisses Zeit erfordert. __3__ wäre ich Ihnen für eine zeitnahe Bearbeitung sehr verbunden, da ich das Dokument für laufende Bewerbungsverfahren benötige. Könnten Sie bitte __4__ Sorge tragen, dass alle relevanten Leistungs- und Verhaltensaspekte berücksichtigt werden?\n\nIch wäre Ihnen dankbar, wenn Sie mir das Zeugnis __5__ der nächsten drei Wochen per Post zukommen lassen könnten. Meine aktuelle Anschrift finden Sie __6__ am Ende dieser E-Mail aufgeführt.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe und Unterstützung.\n\nMit freundlichen Grüßen,\n\nMax Mustermann\nMusterstraße 1\n12345 Musterstadt\nmax.mustermann@email.com",
     "options": [
         {
             "id": "a",
-            "content": "ob"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "Während"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "jederzeit"
+            "content": "binnen"
         },
         {
             "id": "d",
-            "content": "dessen"
+            "content": "dafür"
         },
         {
             "id": "e",
-            "content": "weiterhin"
+            "content": "damit"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "ebenfalls"
         },
         {
             "id": "g",
-            "content": "deren"
+            "content": "hinsichtlich"
         },
         {
             "id": "h",
-            "content": "Inzwischen"
+            "content": "jedoch"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "solange"
         },
         {
             "id": "j",
-            "content": "zumal"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "f"
         }
     ]
 }

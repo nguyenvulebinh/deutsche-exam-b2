@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Wagner,\n\n__1__ auf meine Bewerbung vom 20. April für die Position als Marketing Manager möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__3__ nun bereits einige Wochen seit dem Einreichen meiner Unterlagen vergangen sind, wollte ich nachfragen, ob es bereits Neuigkeiten gibt.\n\nIch möchte __4__ betonen, dass ich weiterhin großes Interesse an dieser spannenden Position in Ihrem Unternehmen habe. Ich bin __5__ überzeugt, dass meine Qualifikationen und langjährigen Erfahrungen im Online-Marketing gut zu den genannten Anforderungen passen.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung geben könnten, __6__ ungefähr mit einer Entscheidung zu rechnen ist.\n\nÜber eine positive Nachricht würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Klärung der Projektanweisungen",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nich beziehe mich auf die Projektanweisungen für das Projekt X-123, die wir gestern erhalten haben. Ich habe versucht, die nächsten Schritte __1__ der beigefügten Dokumentation zu planen, aber einige Punkte sind mir noch unklar geblieben. __2__ wende ich mich heute an Sie mit der Bitte um Klärung.\n\nInsbesondere bin ich unsicher bezüglich der Deadline für Teilaufgabe B. __3__ ist mir die genaue Zuständigkeit für die Ressourcenbeschaffung nicht ganz klar.\n\n__4__ eine kurze E-Mail-Klärung nicht ausreicht, wäre ich Ihnen dankbar für ein kurzes Gespräch nächste Woche. Wir könnten uns dann __5__ auch die Schnittstellen zu Abteilung Y genauer ansehen.\n\nIch wäre Ihnen für eine baldige Rückmeldung dankbar und freue mich __6__, von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "über"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "anhand"
         },
         {
             "id": "c",
-            "content": "bezüglich"
+            "content": "außerdem"
         },
         {
             "id": "d",
-            "content": "wann"
+            "content": "dafür"
         },
         {
             "id": "e",
-            "content": "wenn"
+            "content": "darauf"
         },
         {
             "id": "f",
-            "content": "nochmals"
+            "content": "deshalb"
         },
         {
             "id": "g",
-            "content": "bezugnehmend"
+            "content": "falls"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "gegebenenfalls"
         },
         {
             "id": "i",
-            "content": "nach"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "davon"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
             "option_id": "b"
         },
         {
-            "blank": "4",
+            "blank": "2",
             "option_id": "f"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "e"
         }
     ]
 }

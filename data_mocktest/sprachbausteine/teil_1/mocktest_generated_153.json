@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-123) vom 15.05.2024",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager (Kennziffer PM-123), die ich Ihnen am 15.05.2024 zugesandt habe.\n\nDa ich bisher noch keine Rückmeldung zu meiner Bewerbung erhalten habe, möchte ich mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir __2__ mitteilen, wann mit einer Entscheidung zu rechnen ist?\n\nIch bin __3__ sehr an der Position interessiert und davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen passen würden. __4__ Sie von meiner Seite weitere Unterlagen oder Informationen benötigen, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch erlaube mir diese Nachfrage auch, __5__ ich in Kürze über ein anderes berufliches Angebot entscheiden müsste, Ihre ausgeschriebene Stelle jedoch klar bevorzugen würde.\n\nIch bedanke mich herzlich für Ihre Bemühungen und würde mich über eine __6__ Rückmeldung sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich schreibe Ihnen __1__ meines ehemaligen Arbeitsverhältnisses als Projektmanager bei der Innovatech GmbH, welches am 31. Mai 2024 endete. Für meine weiteren beruflichen Schritte und anstehende Bewerbungen benötige ich nun ein qualifiziertes Arbeitszeugnis.\n\n__2__ wäre ich Ihnen sehr verbunden, wenn Sie die Ausstellung dieses wichtigen Dokuments veranlassen könnten. Da ich mich bereits aktiv bewerbe und teilweise kurzfristige Fristen einhalten muss, bitte ich höflich um eine Zusendung __3__.\n\n__4__ eine postalische Zustellung an meine aktuelle Adresse erfolgen soll, bestätigen Sie mir dies bitte kurz. Alternativ bin ich auch mit einer digitalen Version im PDF-Format einverstanden. Meine aktuelle Anschrift lautet: Musterstraße 12, 12345 Musterstadt. __5__ bitte ich Sie zu überprüfen, ob diese Adresse korrekt in Ihren Systemen hinterlegt ist.\n\nIch sehe Ihrer zeitnahen Rückmeldung und der Zusendung des Zeugnisses mit Interesse __6__.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "damit"
+            "content": "baldmöglichst"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "da"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "Falls"
+            "content": "entgegen"
         },
         {
             "id": "f",
-            "content": "zeitnah"
+            "content": "falls"
         },
         {
             "id": "g",
-            "content": "etwa"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "sofort"
         },
         {
             "id": "i",
-            "content": "hiermit"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "zeitnahe"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
-        },
-        {
-            "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
             "option_id": "c"
         },
         {
-            "blank": "4",
-            "option_id": "e"
-        },
-        {
-            "blank": "5",
+            "blank": "2",
             "option_id": "d"
         },
         {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "e"
         }
     ]
 }

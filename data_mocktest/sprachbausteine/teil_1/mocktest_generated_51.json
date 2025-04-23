@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch am 15. Mai als Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf mein Vorstellungsgespräch am 15. Mai für die Position als Projektmanager und möchte mich nochmals herzlich für das __1__ und informative Gespräch bedanken.\n\nDas Gespräch hat meinen Wunsch, für Ihr Unternehmen tätig zu werden, __2__ bestärkt.\n\nIm Gespräch erwähnten Sie, dass eine Entscheidung __3__ Ende Mai fallen sollte. __4__ ich bisher noch keine Rückmeldung erhalten habe, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __5__ mitteilen, wann mit einer endgültigen Entscheidung zu rechnen ist?\n\nIch bin nach wie vor sehr an der Position interessiert und stehe Ihnen für __6__ Fragen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zu Aufgaben nach Projektbesprechung",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf unsere Projektbesprechung zum Thema „Optimierung Kundenservice“ vom vergangenen Dienstag. Das Meeting war sehr produktiv und hat eine gute Übersicht über die nächsten Schritte gegeben. __1__ sind für mich noch einige Punkte bezüglich meiner konkreten Aufgaben unklar geblieben.\n\nInsbesondere __2__ der Verantwortung für die wöchentlichen Statusberichte an die Geschäftsleitung hätte ich eine Frage. Im Meeting wurde erwähnt, dass ich diese übernehme, aber im Protokollentwurf ist Herr Lang dafür vorgesehen. Könnten Sie bitte kurz bestätigen, wer final zuständig ist?\n\nIch erinnere mich, dass Sie die Notwendigkeit betonten, das Feedback der Pilotkunden kontinuierlich einzuholen, __3__ die Entwicklungsabteilung an den Anpassungen arbeitet. Ist hier eine parallele Abstimmung vorgesehen?\n\n__4__ wäre es hilfreich zu wissen, bis wann genau die Analyse der Altdaten abgeschlossen sein muss, da dies den Start meiner Hauptaufgabe beeinflusst.\n\nDie Gesamtdauer des Projekts ist ambitioniert angesetzt. __5__ ist es wichtig, dass alle anfänglichen Unklarheiten rasch beseitigt werden, um effizient starten zu können.\n\nIch wäre Ihnen sehr dankbar, wenn Sie mir hierzu __6__ eine kurze Rückmeldung geben könnten.\n\nVielen Dank und freundliche Grüße\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "gegen"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "weitere"
+            "content": "ferner"
         },
         {
             "id": "c",
-            "content": "Obwohl"
+            "content": "folglich"
         },
         {
             "id": "d",
-            "content": "angenehme"
+            "content": "hinsichtlich"
         },
         {
             "id": "e",
-            "content": "bis"
+            "content": "seitdem"
         },
         {
             "id": "f",
-            "content": "deutlich"
+            "content": "somit"
         },
         {
             "id": "g",
-            "content": "Da"
+            "content": "trotzdem"
         },
         {
             "id": "h",
-            "content": "einige"
+            "content": "unverzüglich"
         },
         {
             "id": "i",
-            "content": "eventuell"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "kaum"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "e"
-        },
-        {
-            "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
-            "blank": "6",
+            "blank": "4",
             "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "h"
         }
     ]
 }

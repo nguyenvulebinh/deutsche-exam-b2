@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung als Marketing Manager vom 25. April und möchte mein __1__ Interesse an dieser Position erneut bestätigen.\n\n__2__ nun einige Zeit vergangen ist, seit ich meine Unterlagen bei Ihnen eingereicht habe, wollte ich mich höflich nach dem aktuellen Stand des Bewerbungsprozesses erkundigen. Mir ist __3__ bewusst, dass die sorgfältige Prüfung aller Kandidaten Zeit in Anspruch nimmt.\n\n__4__ wäre ich Ihnen sehr dankbar, wenn Sie mir eine kurze Rückmeldung geben könnten, wann __5__ mit einer Entscheidung oder den nächsten Schritten im Auswahlverfahren zu rechnen ist.\n\nIch bin nach wie vor sehr motiviert, Ihr Team zu verstärken und stehe Ihnen __6__ für ein Vorstellungsgespräch zur Verfügung.\n\nVielen Dank für Ihre Bemühungen und Ihr Verständnis.\n\nMit freundlichen Grüßen\n\nPeter Schmidt",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine frühere Tätigkeit als Projektmanager in Ihrem Unternehmen, die ich vom 01. Juni 2021 bis zum 31. Mai 2024 ausgeübt habe. Wie Sie wissen, bin ich __1__ seit einigen Monaten nicht mehr für die TechSolutions GmbH tätig.\n\n__2__ benötige ich nun für meine weiteren beruflichen Schritte ein qualifiziertes Arbeitszeugnis. Ich wäre Ihnen sehr dankbar, wenn Sie die Ausstellung veranlassen könnten. __3__ des genauen Inhalts und der erforderlichen Formalitäten eines qualifizierten Zeugnisses habe ich vollstes Vertrauen in Ihre Personalabteilung.\n\nSollten Sie __4__ noch zusätzliche Informationen von meiner Seite benötigen, beispielsweise zu spezifischen Projektabschlüssen oder besonderen Verantwortlichkeiten, stehe ich Ihnen __5__ gerne zur Verfügung.\n\nIch bitte Sie höflich um eine kurze Rückmeldung, wann ich ungefähr mit der Fertigstellung des Dokuments rechnen kann. Bitte senden Sie mir das Zeugnis, __6__ es verfügbar ist, an meine unten angeführte aktuelle Postanschrift.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMarkus Weber\nHauptstraße 15\n54321 Neustadt",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "bereit"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "dennoch"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "dafür"
         },
         {
             "id": "e",
-            "content": "durchaus"
+            "content": "dennoch"
         },
         {
             "id": "f",
-            "content": "jederzeit"
+            "content": "hierfür"
         },
         {
             "id": "g",
-            "content": "ungefähr"
+            "content": "selbstverständlich"
         },
         {
             "id": "h",
-            "content": "unverändertes"
+            "content": "sobald"
         },
         {
             "id": "i",
-            "content": "voraussichtlich"
+            "content": "solange"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
             "option_id": "e"
         },
         {
-            "blank": "4",
+            "blank": "3",
             "option_id": "c"
         },
         {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "h"
         }
     ]
 }

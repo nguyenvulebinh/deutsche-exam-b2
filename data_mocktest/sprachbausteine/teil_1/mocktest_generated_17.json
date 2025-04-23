@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
-    "textinhalt": "Sehr geehrte Frau Hauser,\n\nich beziehe mich __1__ meine Bewerbung als Marketing Manager, die ich Ihnen am 05. April per E-Mail zugesandt habe.\n\n__2__ seitdem einige Wochen vergangen sind und ich bisher keine Rückmeldung erhalten habe, möchte ich mich heute höflich __3__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie in Ihrer Anzeige beschriebene Position entspricht __4__ genau meinen beruflichen Qualifikationen und Interessen, und ich bin weiterhin sehr motiviert, Ihr Team zu verstärken.\n\nIch habe selbstverständlich __5__ dafür, dass ein sorgfältiger Auswahlprozess Zeit benötigt. Dennoch wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, __6__ ungefähr mit einer Entscheidung oder den nächsten Schritten zu rechnen ist.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nThomas Müller",
+    "thema": "Antwort auf Ihre Reklamation: Lieferverzug",
+    "textinhalt": "Sehr geehrter Herr Baumann,\n\nwir beziehen uns auf Ihre E-Mail vom 15. März bezüglich der Verzögerung Ihrer Bestellung Nr. 789123 und bedauern die entstandenen Unannehmlichkeiten sehr.\n\nDie Verzögerung ist __1__ unerwarteter Engpässe bei unserem Logistikpartner entstanden, die außerhalb unserer direkten Kontrolle lagen. Wir arbeiten __2__ mit Hochdruck daran, den Rückstand aufzuholen. Laut aktuellen Informationen wird Ihre Sendung voraussichtlich übermorgen bei Ihnen eintreffen.\n\nWir verstehen Ihren Ärger über die verspätete Lieferung. Als Entschuldigung möchten wir Ihnen __3__ die Versandkosten für diese Bestellung vollständig erstatten. __4__ erhalten Sie einen Gutschein über 15% Rabatt für Ihren nächsten Einkauf bei uns. Dieser Gutschein ist sechs Monate gültig.\n\nDer Gutscheincode lautet KUNDE2024. Sie können ihn bei Ihrer nächsten Online-Bestellung einlösen, __5__ der Mindestbestellwert von 50 Euro erreicht wird. Die Erstattung der Versandkosten erfolgt __6__ automatisch auf das von Ihnen genutzte Zahlungsmittel innerhalb der nächsten 3-5 Werktage.\n\nWir hoffen auf Ihr Verständnis und würden uns freuen, Sie bald wieder als zufriedenen Kunden begrüßen zu dürfen.\n\nMit freundlichen Grüßen\n\nIhr Kundenservice-Team",
     "options": [
         {
             "id": "a",
-            "content": "über"
+            "content": "aktuell"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "dennoch"
         },
         {
             "id": "c",
-            "content": "auf"
+            "content": "derzeit"
         },
         {
             "id": "d",
-            "content": "Verständnis"
+            "content": "folglich"
         },
         {
             "id": "e",
-            "content": "wenn"
+            "content": "infolge"
         },
         {
             "id": "f",
-            "content": "nach wie vor"
+            "content": "selbstverständlich"
         },
         {
             "id": "g",
-            "content": "bereits"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "wann"
+            "content": "somit"
         },
         {
             "id": "i",
-            "content": "nach"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "obwohl"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
-            "option_id": "f"
-        },
-        {
-            "blank": "5",
             "option_id": "d"
         },
         {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "f"
         }
     ]
 }

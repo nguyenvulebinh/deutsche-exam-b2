@@ -1,38 +1,38 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager IT vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Stelle als Projektmanager IT sowie auf Ihr Bestätigungsschreiben vom 17. Mai.\n\nDa nun einige Zeit vergangen ist, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Ich habe __2__ Verständnis dafür, dass ein sorgfältiger Auswahlprozess Zeit benötigt.\n\n__3__ die ausgeschriebene Position exakt meinen Qualifikationen und beruflichen Interessen entspricht, bin ich nach wie vor sehr an einer Zusammenarbeit interessiert. Könnten Sie mir __4__ eine kurze Auskunft geben, wann mit einer Entscheidung zu rechnen ist?\n\nIch frage nur nach, __5__ ich in Kürze über ein anderes Stellenangebot entscheiden müsste, Ihre Vakanz jedoch klar bevorzuge.\n\nSollten Sie __6__ weitere Informationen benötigen, stehe ich Ihnen gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Ihre Beschwerde bezüglich Bestellung XYZ-123",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Nachricht vom [Datum], in der Sie uns auf die Verzögerung Ihrer Bestellung XYZ-123 aufmerksam gemacht haben. Wir bedauern die entstandenen Unannehmlichkeiten sehr.\n\nDie Verzögerung ist auf unerwartete Engpässe bei unserem Logistikpartner zurückzuführen, __1__ wir leider erst kurzfristig informiert wurden. Wir verstehen Ihren Ärger darüber.\n\nWir können Ihnen mitteilen, dass Ihre Sendung __2__ unser Lager verlassen hat und sich nun auf dem Weg zu Ihnen befindet. Die Sendungsverfolgungsnummer lautet [Nummer].\n\nAls kleine Entschädigung für die Wartezeit möchten wir Ihnen einen Gutschein im Wert von 10 € anbieten. Sie können diesen __3__ bei Ihrer nächsten Bestellung einlösen. Bitte beachten Sie, dass der Gutschein __4__ für Produkte aus unserem Standardsortiment gültig ist.\n\nWir hoffen __5__, dass Sie mit der Ware zufrieden sein werden und uns als Kundin erhalten bleiben. __6__ Sie weitere Fragen zum Status Ihrer Lieferung oder zur Einlösung des Gutscheins haben, steht Ihnen unser Kundenservice gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nIhr [Firmenname] Team",
     "options": [
         {
             "id": "a",
-            "content": "eventuell"
+            "content": "ausschließlich"
         },
         {
             "id": "b",
-            "content": "Da"
-        },
-        {
-            "id": "c",
-            "content": "über"
-        },
-        {
-            "id": "d",
             "content": "bereits"
         },
         {
+            "id": "c",
+            "content": "da"
+        },
+        {
+            "id": "d",
+            "content": "dafür"
+        },
+        {
             "id": "e",
-            "content": "nach"
+            "content": "darüber"
         },
         {
             "id": "f",
-            "content": "deshalb"
+            "content": "dennoch"
         },
         {
             "id": "g",
-            "content": "natürlich"
+            "content": "deswegen"
         },
         {
             "id": "h",
-            "content": "weil"
+            "content": "falls"
         },
         {
             "id": "i",
@@ -46,15 +46,15 @@
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "h"
         }
     ]
 }

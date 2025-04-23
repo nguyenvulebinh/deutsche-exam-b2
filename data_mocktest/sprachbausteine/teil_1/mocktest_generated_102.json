@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 20. Mai",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung vom 20. Mai für die Stelle als Marketingassistent.\n\nDa ich __1__ noch keine Rückmeldung von Ihnen erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch möchte __2__, dass ich nach wie vor großes Interesse an dieser Position habe. Die Aufgabenbeschreibung und die Präsentation Ihres Unternehmens auf Ihrer Webseite haben mich sehr angesprochen.\n\nWäre es __3__ möglich, mir eine kurze Information zukommen zu lassen, wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __4__ ich auch andere Optionen prüfe.\n\nSollten Sie __5__ noch Fragen haben oder weitere Unterlagen benötigen, stehe ich Ihnen jederzeit gerne zur Verfügung.\n\nIch freue mich __6__ eine baldige Antwort.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfrage zu Projektmeeting 'Alpha'",
+    "textinhalt": "Sehr geehrte/r Herr/Frau Schmidt,\n\nvielen Dank nochmals für das informative Projektmeeting 'Alpha' gestern. Die Hauptziele und nächsten Schritte sind mir im Großen und Ganzen klar geworden, __1__ habe ich noch eine spezifische Rückfrage zu einem der besprochenen Punkte.\n\nMeine Frage bezieht sich __2__ der Frist für die Einreichung der ersten Entwürfe. Im Protokoll steht der 15. des Monats, ich meine mich aber an eine Diskussion über eine mögliche Verschiebung zu erinnern.\n\n__3__ ich sichergehen möchte, von Anfang an mit dem korrekten Zeitplan zu arbeiten, bitte ich hier um eine kurze Bestätigung. Eine klare Fristsetzung ist wichtig, __4__ spätere Unstimmigkeiten im Team vermieden werden können.\n\n__5__ könnten Sie mir kurz mitteilen, ob der 15. definitiv als Deadline gilt? Alternativ wäre ich auch dankbar für einen Verweis auf die entsprechende Stelle im aktualisierten Projektplan, falls dieser bereits vorliegt.\n\n__6__ wäre es hilfreich zu wissen, an wen ich mich bei technischen Fragen zur verwendeten Projektmanagement-Software wenden kann.\n\nVielen Dank für Ihre kurze Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "trotz"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "da"
-        },
-        {
-            "id": "d",
             "content": "deshalb"
         },
         {
+            "id": "d",
+            "content": "da"
+        },
+        {
             "id": "e",
-            "content": "betonen"
+            "content": "jedoch"
         },
         {
             "id": "f",
-            "content": "über"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "möglicherweise"
         },
         {
             "id": "h",
-            "content": "mittlerweile"
+            "content": "nämlich"
         },
         {
             "id": "i",
-            "content": "eventuell"
+            "content": "sobald"
         },
         {
             "id": "j",
-            "content": "bisher"
+            "content": "wodurch"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
             "blank": "3",
-            "option_id": "i"
+            "option_id": "d"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "b"
         }
     ]
 }

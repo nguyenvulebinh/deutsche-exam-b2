@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich mich höflich nach dem Stand meiner Bewerbung für die Position als Marketing Manager erkundigen, __1__ ich Ihnen am 25. April zugesandt habe.\n\nIch habe bisher noch keine Rückmeldung bezüglich des weiteren Vorgehens erhalten und wollte __2__ nachfragen, ob der Auswahlprozess noch andauert oder bereits eine Entscheidung getroffen wurde.\n\n__3__ die ausgeschriebene Stelle sehr gut zu meinen Qualifikationen und beruflichen Interessen passt, bin ich nach wie vor sehr an dieser Möglichkeit interessiert. Die Aufgabenbereiche und die Entwicklungsperspektiven in Ihrem Unternehmen finde ich __4__ spannend.\n\nKönnten Sie mir eventuell eine kurze Auskunft geben, __5__ mit den nächsten Schritten im Bewerbungsverfahren zu rechnen ist?\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung zukommen __6__ könnten. Vielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zur Terminverschiebung Kick-off-Meeting Projekt Nova",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf unsere Vereinbarung bezüglich des Kick-off-Meetings für das Projekt Nova am kommenden Donnerstag.\n\nIch schreibe Ihnen heute, da ich diesen Termin __1__ verschieben muss. Ein anderer wichtiger, __2__ anberaumter interner Vorgang erfordert meine unbedingte Anwesenheit an diesem Tag.\n\n__3__ bitte ich Sie höflich um Verständnis für die Umstände und die späte Mitteilung. __4__ möchte ich betonen, dass das Projekt Nova für mich weiterhin höchste Priorität hat und ich sehr an einem baldigen Start interessiert bin.\n\nWäre es Ihnen __5__ möglich, einen Alternativtermin in der darauffolgenden Woche zu finden? Ich könnte Ihnen beispielsweise den Dienstag oder den Mittwoch anbieten.\n\nLassen Sie mich bitte wissen, ob einer dieser Termine für Sie passen würde. __6__ bin ich auch für andere Vorschläge Ihrerseits offen, falls diese beiden Tage ungünstig sein sollten.\n\nIch danke Ihnen für Ihr Verständnis und Ihre Flexibilität.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "bedauerlicherweise"
         },
         {
             "id": "b",
-            "content": "lassen"
+            "content": "dennoch"
         },
         {
             "id": "c",
-            "content": "besonders"
+            "content": "deswegen"
         },
         {
             "id": "d",
-            "content": "wann"
+            "content": "eigentlich"
         },
         {
             "id": "e",
-            "content": "geben"
+            "content": "folglich"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "die"
+            "content": "gleichwohl"
         },
         {
             "id": "h",
-            "content": "wenn"
+            "content": "infolgedessen"
         },
         {
             "id": "i",
-            "content": "weil"
+            "content": "kurzfristig"
         },
         {
             "id": "j",
-            "content": "deshalb"
+            "content": "sofort"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
             "option_id": "a"
         },
         {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "g"
         }
     ]
 }

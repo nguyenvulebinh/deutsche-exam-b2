@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15.03.",
-    "textinhalt": "Sehr geehrte Frau Keller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 15. März dieses Jahres. __1__ ich bisher noch keine detaillierte Rückmeldung bezüglich des weiteren Verlaufs erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position ist __2__ sehr groß, da die in der Ausschreibung beschriebenen Aufgaben und die innovative Ausrichtung Ihres Unternehmens mich nach wie vor besonders ansprechen.\n\nIch verstehe selbstverständlich, dass ein sorgfältiger Auswahlprozess Zeit __3__. __4__ wäre eine kurze Information über den ungefähren Zeitrahmen oder die nächsten Schritte für meine weitere Planung sehr hilfreich.\n\nKönnten Sie mir __5__ mitteilen, wann mit einer Entscheidung zu rechnen ist? Ich wäre Ihnen ebenso dankbar, __6__ Sie mir einen kurzen Zwischenstand geben könnten.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung Terminvorschlag Vorstellungsgespräch",
+    "textinhalt": "Sehr geehrte Frau Dr. Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am 15. März um 10:00 Uhr und den Terminvorschlag.\n\nDer Termin liegt zwar recht kurzfristig, __1__ bestätige ich Ihnen diesen sehr gerne. Ich freue mich auf das persönliche Kennenlernen.\n\nKönnten Sie mir bitte mitteilen, ob ich spezielle Unterlagen, wie zum Beispiel Arbeitszeugnisse oder Zertifikate, __2__ mitbringen soll? Ich möchte sicherstellen, dass ich alles Notwendige parat habe.\n\nIch plane meine Anreise so, dass ich __3__ bei Ihnen im Büro eintreffe, voraussichtlich gegen 9:45 Uhr.\n\n__4__ wäre es hilfreich zu wissen, mit welcher ungefähren Dauer für das Gespräch zu rechnen ist. Das hilft mir __5__, meine weiteren Termine an diesem Tag besser zu organisieren.\n\nBitte informieren Sie mich, __6__ sich an der Planung noch etwas ändern sollte. Ansonsten sehe ich dem vereinbarten Termin mit großem Interesse entgegen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "dabei"
         },
         {
             "id": "b",
-            "content": "eventuell"
+            "content": "Dafür"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "Danach"
         },
         {
             "id": "d",
-            "content": "trotzdem"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "da"
+            "content": "Deswegen"
         },
         {
             "id": "f",
-            "content": "benötigt"
+            "content": "Ferner"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "Frühzeitig"
         },
         {
             "id": "h",
-            "content": "bietet"
+            "content": "gegebenenfalls"
         },
         {
             "id": "i",
-            "content": "wenn"
+            "content": "hierzu"
         },
         {
             "id": "j",
-            "content": "deshalb"
+            "content": "rechtzeitig"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
             "option_id": "j"
         },
         {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "h"
         }
     ]
 }

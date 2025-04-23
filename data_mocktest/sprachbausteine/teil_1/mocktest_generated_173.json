@@ -1,22 +1,22 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April über Ihr Online-Portal zukommen ließ.\n\nDa __1__ einige Wochen vergangen sind, seitdem meine Bewerbung bei Ihnen eingegangen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __2__ genau meinen Vorstellungen und Qualifikationen, und ich bin nach wie vor sehr daran interessiert, mein Engagement und meine Ideen in Ihr Team einzubringen.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, wann voraussichtlich mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __4__ Ihr Unternehmen für mich von besonderem Interesse ist.\n\nIch verstehe natürlich, dass der Auswahlprozess Zeit benötigt, __5__ wäre ich für ein kurzes Update dankbar.\n\nSollten Sie __6__ Fragen haben, stehe ich Ihnen gerne jederzeit zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage zum Stellenangebot und Arbeitsbeginn",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich bedanke mich herzlich für Ihr Stellenangebot für die Position als Marketing Manager vom [Datum des Angebots] und für das angenehme Gespräch in der vergangenen Woche. Ich habe mich über Ihre positive Rückmeldung sehr gefreut.\n\nGrundsätzlich möchte ich die Stelle sehr gerne annehmen. Es gibt jedoch einen Punkt, den ich vorab klären muss: Ich habe __1__ bei meinem aktuellen Arbeitgeber eine Kündigungsfrist von drei Monaten zum Quartalsende einzuhalten. Der in Ihrem Angebot vorgeschlagene Starttermin am 1. September könnte daher etwas zu früh sein.\n\nWäre, __2__ der frühere Termin nicht realisierbar ist, auch eine Einstellung zum 1. Oktober denkbar? Eine kurze Rückmeldung __3__ wäre für meine weiteren Planungen sehr wichtig.\n\nKönnten Sie mir außerdem mitteilen, wann ich mit dem offiziellen Arbeitsvertrag rechnen kann? Ich würde diesen gerne in Ruhe prüfen und Ihnen __4__ meine verbindliche Zusage zukommen lassen.\n\nIch möchte __5__ betonen, wie sehr ich mich auf die Zusammenarbeit und die neuen Herausforderungen in Ihrem Unternehmen freue. Einer baldigen Klärung der offenen Punkte sehe ich __6__ mit großem Interesse entgegen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "anschließend"
         },
         {
             "id": "b",
-            "content": "weitere"
+            "content": "demnach"
         },
         {
             "id": "c",
-            "content": "zumal"
+            "content": "diesbezüglich"
         },
         {
             "id": "d",
-            "content": "damals"
+            "content": "hingegen"
         },
         {
             "id": "e",
@@ -24,45 +24,45 @@
         },
         {
             "id": "f",
-            "content": "eventuell"
-        },
-        {
-            "id": "g",
             "content": "nämlich"
         },
         {
+            "id": "g",
+            "content": "nochmals"
+        },
+        {
             "id": "h",
-            "content": "dennoch"
+            "content": "sofern"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "unterdessen"
         },
         {
             "id": "j",
-            "content": "solche"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
             "option_id": "f"
         },
         {
-            "blank": "4",
+            "blank": "2",
+            "option_id": "h"
+        },
+        {
+            "blank": "3",
             "option_id": "c"
         },
         {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "g"
         },
         {
             "blank": "6",

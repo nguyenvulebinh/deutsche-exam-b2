@@ -1,22 +1,22 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung vom 25. Mai - Kennziffer PRJ-58B",
-    "textinhalt": "Sehr geehrte Frau Wagner,\n\nich beziehe mich __1__ meine Bewerbung vom 25. Mai für die ausgeschriebene Stelle als Projektmanager (Kennziffer PRJ-58B).\n\nDa seit der Einreichung meiner Unterlagen nun einige Zeit vergangen ist, möchte ich mich auf diesem Weg erkundigen, ob Sie mir bereits eine erste Rückmeldung zum Stand des Auswahlverfahrens geben können. Ich bin __2__ sehr an der Position interessiert, da die beschriebenen Aufgaben und die Perspektiven in Ihrem Unternehmen meinen Qualifikationen und beruflichen Zielen in hohem Maße entsprechen.\n\nKönnten Sie mir vielleicht mitteilen, wann ungefähr __3__ einer Entscheidung zu rechnen ist oder wie die nächsten Schritte im Bewerbungsprozess geplant sind? \n\nSollten Sie __4__ weitere Informationen oder Dokumente von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung. Teilen Sie mir dies __5__ einfach kurz mit.\n\nIch freue mich __6__, bald von Ihnen zu hören und verbleibe\n\nmit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu Details Inhouse-Seminar Projektmanagement",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvor Kurzem wurde das neue Inhouse-Seminar zum Thema Projektmanagement angekündigt. Die erste Ankündigung enthielt nur wenige Details, __1__ bin ich sehr an einer Teilnahme interessiert.\n\n__2__ bitte ich Sie um Zusendung weiterer Informationen, da ich meine berufliche Weiterbildung planen möchte.\n\nKönnten Sie mir bitte die genauen Termine und eine detailliertere Übersicht der Inhalte mitteilen? __3__ wäre es hilfreich zu wissen, wie das Anmeldeverfahren abläuft. Bitte informieren Sie mich auch über __4__ bestehende Teilnahmevoraussetzungen.\n\nIch wäre Ihnen dankbar, wenn Sie mir die Unterlagen bald zukommen lassen könnten, __5__ ich meine Entscheidung treffen und mich gegebenenfalls anmelden kann. Besonders Informationen __6__ der genauen Kosten und der Verbindlichkeit der Anmeldung wären wichtig.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "auf"
+            "content": "dabei"
         },
         {
             "id": "c",
-            "content": "darauf"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "daraufhin"
         },
         {
             "id": "e",
@@ -24,11 +24,11 @@
         },
         {
             "id": "f",
-            "content": "mit"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "noch"
+            "content": "obwohl"
         },
         {
             "id": "h",
@@ -36,25 +36,25 @@
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "dann"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "h"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "f"
+            "option_id": "j"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "f"
         }
     ]
 }

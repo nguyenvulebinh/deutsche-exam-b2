@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Keller,\n\nich schreibe Ihnen bezüglich meiner Bewerbung als Projektmanager, die ich Ihnen am 15. Mai zugesandt habe.\n\nDa nun einige Wochen __1__ sind, ohne dass ich diesbezüglich eine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir bitte mitteilen, __2__ ich ungefähr mit einer Entscheidung oder zumindest einer Zwischeninformation rechnen kann?\n\nDies wäre für meine weitere Planung sehr hilfreich, __3__ ich auch andere Bewerbungsprozesse parallel verfolge und bald Entscheidungen treffen muss.\n\nIch möchte __4__ betonen, dass mein Interesse an dieser Position und an Ihrem Unternehmen unverändert groß ist. Die in der Ausschreibung genannten Aufgabenbereiche passen __5__ zu meinen Qualifikationen und beruflichen Zielen.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung geben könnten. __6__ stehe ich Ihnen für Rückfragen jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfrage zu Anweisungen für Projekt X",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nvielen Dank für Ihre E-Mail vom Vormittag mit den detaillierten Anweisungen für das neue Marketingprojekt (Projekt X). Ich habe die Aufgabenstellung sorgfältig durchgelesen, __1__ ist mir ein Punkt noch nicht ganz klar geworden.\n\nEs geht um den Abschnitt zur Zielgruppenanalyse. Meine Frage bezieht sich __2__ der Definition der \"Sekundärzielgruppe\". Die Beschreibung scheint teilweise von unseren üblichen Kriterien abzuweichen. __3__ möchte ich sichergehen, dass ich Ihre Vorgabe korrekt interpretiere, bevor ich mit diesem Teil beginne.\n\nKönnten Sie mir bitte erläutern, welche spezifischen Merkmale hier ausschlaggebend sein sollen? __4__ ich von einer falschen Annahme ausgehe, könnte dies spätere Analyseschritte negativ beeinflussen. Eine kurze Klarstellung wäre __5__ sehr hilfreich.\n\nIch bitte um eine __6__ Rückmeldung, damit ich die Analyse zeitgerecht abschließen kann.\n\nVielen Dank für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nMax Müller",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "bezüglich"
         },
         {
             "id": "b",
-            "content": "ebenfalls"
+            "content": "dafür"
         },
         {
             "id": "c",
-            "content": "hervorragend"
+            "content": "danach"
         },
         {
             "id": "d",
-            "content": "nochmals"
+            "content": "demnach"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "dennoch"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "falls"
         },
         {
             "id": "g",
-            "content": "Selbstverständlich"
+            "content": "solange"
         },
         {
             "id": "h",
-            "content": "vergangen"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "umgehend"
         },
         {
             "id": "j",
-            "content": "besonders"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
             "option_id": "a"
         },
         {
-            "blank": "4",
+            "blank": "3",
             "option_id": "d"
         },
         {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "i"
         }
     ]
 }

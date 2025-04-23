@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage nach meinem Vorstellungsgespräch am 15. Mai für die Stelle als Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ auf mein sehr angenehmes Vorstellungsgespräch mit Ihnen am 15. Mai für die Stelle als Projektmanager möchte ich mich nochmals herzlich bedanken. Der positive Eindruck von Ihrem Unternehmen hat sich dabei verstärkt, und ich bin __2__ sehr an dieser Position interessiert.\n\nSie erwähnten im Gespräch, dass Sie sich voraussichtlich innerhalb von zwei Wochen melden würden. __3__ möchte ich mich höflich erkundigen, ob es bereits Neuigkeiten bezüglich des Auswahlprozesses gibt oder __4__ ich ungefähr mit einer Entscheidung rechnen kann.\n\nBesonders hervorheben möchte ich nochmals meine mehrjährige Erfahrung im internationalen Projektmanagement, die meines Erachtens sehr gut __5__ den Anforderungen Ihrer Stellenausschreibung passt.\n\nIch freue mich __6__ eine baldige Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Erinnerung: Bitte um Ausstellung Arbeitszeugnis",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf mein Arbeitsverhältnis, das am 31. März endete, und meine damalige Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses.\n\n__1__ ist dieses bisher leider nicht bei mir eingegangen, obwohl die gesetzliche Frist zur Ausstellung bald endet. __2__ sind mehrere Wochen vergangen, und ich benötige das Zeugnis dringend für meine weiteren Bewerbungsaktivitäten. __3__ der bevorstehenden Bewerbungsfristen bei potenziellen neuen Arbeitgebern ist die zeitnahe Zusendung für mich von großer Bedeutung.\n\nIch bitte Sie __4__ um die Zusendung des qualifizierten Arbeitszeugnisses an meine hinterlegte Adresse. Könnten Sie bitte auch __5__ denken, meine speziellen Projektleitungsaufgaben im IT-Bereich detailliert aufzuführen, wie wir es besprochen hatten? Ich benötige diese detaillierte Beschreibung, __6__ potenzielle Arbeitgeber sich ein genaues Bild meiner Fähigkeiten machen können.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "wenn"
+            "content": "angesichts"
         },
         {
             "id": "b",
-            "content": "zu"
+            "content": "damit"
         },
         {
             "id": "c",
-            "content": "auf"
+            "content": "daran"
         },
         {
             "id": "d",
-            "content": "weiterhin"
+            "content": "darauf"
         },
         {
             "id": "e",
-            "content": "trotzdem"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "über"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "noch"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "daher"
+            "content": "sodass"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "bezugnehmend"
+            "content": "umgehend"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
-            "option_id": "h"
-        },
-        {
-            "blank": "4",
             "option_id": "i"
         },
         {
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "b"
         }
     ]
 }

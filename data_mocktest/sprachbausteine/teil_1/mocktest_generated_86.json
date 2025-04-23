@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April - Kennziffer MA-2024-08",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung vom 25. April für die Stelle als Marketingassistent (Kennziffer MA-2024-08), möchte ich mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ nun einige Wochen seit dem Bewerbungsschluss vergangen sind, hoffe ich auf Ihr Verständnis für meine Nachfrage.\n\nIch möchte bei dieser Gelegenheit nochmals mein anhaltendes und großes Interesse __3__ dieser Position bekräftigen. Die in der Ausschreibung genannten Aufgaben reizen mich sehr und ich bin überzeugt, die Anforderungen gut erfüllen __4__ .\n\nKönnten Sie mir __5__ mitteilen, wann ungefähr mit einer Entscheidung oder weiteren Schritten im Bewerbungsprozess zu rechnen ist?\n\nVielen Dank __6__ für Ihre Mühe und eine kurze Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage Zusatzinformationen Weiterbildung Projektmanagement",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nIhre Ankündigung der Weiterbildung „Zertifizierte/r Projektmanager/in (IHK)“ auf Ihrer Webseite hat mein großes Interesse geweckt. Die generellen Inhalte und Ziele des Kurses klingen vielversprechend. __1__ fehlen mir für eine endgültige Entscheidung noch einige spezifische Details.\n\nKönnten Sie mir bitte mitteilen, __2__ der detaillierte Stundenplan mit den genauen Modulzeiten veröffentlicht wird? Ich muss dies mit meinen aktuellen beruflichen Verpflichtungen abstimmen. Des Weiteren wäre es hilfreich zu wissen, welche Unterlagen genau __3__ erforderlich sind, um sich anzumelden.\n\nIch prüfe derzeit auch Möglichkeiten der finanziellen Förderung. Müsste ich __4__ einen Antrag auf Bildungsgutschein stellen, oder bieten Sie alternative Finanzierungsmodelle an? Relevant ist für mich außerdem, __5__ welcher Frist die Anmeldung eingegangen sein muss.\n\nIch habe großes Interesse an einer Teilnahme, __6__ eine Förderung bewilligt wird, und wäre Ihnen für eine baldige Klärung dieser Punkte sehr dankbar.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Da"
-        },
-        {
-            "id": "b",
-            "content": "für"
-        },
-        {
-            "id": "c",
-            "content": "können"
-        },
-        {
-            "id": "d",
-            "content": "Obwohl"
-        },
-        {
-            "id": "e",
-            "content": "an"
-        },
-        {
-            "id": "f",
-            "content": "deshalb"
-        },
-        {
-            "id": "g",
-            "content": "eventuell"
-        },
-        {
-            "id": "h",
-            "content": "im Voraus"
-        },
-        {
-            "id": "i",
             "content": "dafür"
         },
         {
+            "id": "b",
+            "content": "falls"
+        },
+        {
+            "id": "c",
+            "content": "gegebenenfalls"
+        },
+        {
+            "id": "d",
+            "content": "hierfür"
+        },
+        {
+            "id": "e",
+            "content": "innerhalb"
+        },
+        {
+            "id": "f",
+            "content": "nichtsdestotrotz"
+        },
+        {
+            "id": "g",
+            "content": "sobald"
+        },
+        {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "vorausgesetzt"
+        },
+        {
             "id": "j",
-            "content": "hiermit"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "i"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April zugesandt habe. Ich habe Verständnis dafür, dass die Prüfung aller Unterlagen einige Zeit in Anspruch nimmt. __1__ möchte ich mich höflich erkundigen, ob es bereits Neuigkeiten bezüglich des Auswahlverfahrens gibt.\n\nKönnten Sie mir eventuell mitteilen, __2__ ich ungefähr mit einer Entscheidung oder dem nächsten Schritt rechnen kann? Mein Interesse an dieser Position ist __3__ sehr groß.\n\nIch möchte auch erwähnen, dass ich __4__ kurzem einen Online-Kurs im Bereich Social Media Marketing erfolgreich abgeschlossen habe, was für diese Stelle relevant sein könnte.\n\nSollten Sie __5__ weitere Dokumente benötigen, lassen Sie es mich bitte wissen.\n\n__6__ meiner Qualifikationen und meines Engagements hoffe ich sehr auf eine positive Rückmeldung.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "thema": "Aktuelle Störungen der Projektmanagement-Software",
+    "textinhalt": "Sehr geehrte Kolleginnen und Kollegen,\n\nwie Ihnen __1__ nicht entgangen sein dürfte, gibt es in den letzten Tagen vermehrt technische Störungen bei unserer Projektmanagement-Software. Wir verstehen, dass dies Ihre tägliche Arbeit beeinträchtigt, __2__ Planung und Dokumentation erschwert werden.\n\nUnser IT-Team arbeitet bereits intensiv daran, die Ursachen zu identifizieren und zu beheben, __3__ die volle Funktionalität schnellstmöglich wiederherzustellen. Eine erste Analyse der Serverprotokolle läuft, __4__ konnte die genaue Fehlerquelle noch nicht eindeutig lokalisiert werden.\n\nWir gehen davon aus, __5__ der nächsten 48 Stunden eine genauere Einschätzung der Lage und der voraussichtlichen Lösungsdauer geben zu können. Bitte prüfen Sie bis dahin __6__, ob essenzielle Daten eventuell lokal zwischengespeichert werden können, um Datenverlust bei erneuten Ausfällen vorzubeugen.\n\nWir bitten um Ihr Verständnis und Ihre Geduld.\n\nMit freundlichen Grüßen\n\nIhre IT-Abteilung",
     "options": [
         {
             "id": "a",
-            "content": "AUFGRUND"
+            "content": "bekanntlich"
         },
         {
             "id": "b",
-            "content": "DENNOCH"
+            "content": "innerhalb"
         },
         {
             "id": "c",
-            "content": "DESHALB"
+            "content": "jedoch"
         },
         {
             "id": "d",
-            "content": "OB"
+            "content": "mehrmals"
         },
         {
             "id": "e",
-            "content": "SEIT"
+            "content": "offenbar"
         },
         {
             "id": "f",
-            "content": "TROTZ"
+            "content": "trotzdem"
         },
         {
             "id": "g",
-            "content": "VOR"
+            "content": "um"
         },
         {
             "id": "h",
-            "content": "WANN"
+            "content": "während"
         },
         {
             "id": "i",
-            "content": "WEITERHIN"
+            "content": "weshalb"
         },
         {
             "id": "j",
-            "content": "ZUSÄTZLICH"
+            "content": "wodurch"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
             "option_id": "j"
         },
         {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "d"
         }
     ]
 }

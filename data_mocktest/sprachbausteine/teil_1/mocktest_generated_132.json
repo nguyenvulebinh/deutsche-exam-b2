@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz (Kennziffer MA-2024-XYZ) vom 10. Juni",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nbezugnehmend auf meine Bewerbung vom 10. Juni für die Position als Marketingassistenz (Kennziffer MA-2024-XYZ) und Ihre freundliche Eingangsbestätigung möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen vergangen sind, wäre ich Ihnen dankbar, wenn Sie mir eine kurze Auskunft geben könnten.\n\nKönnten Sie mir __2__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann __3__ mit einer Entscheidung zu rechnen ist?\n\nIch möchte __4__ betonen, dass mein Interesse an dieser vielseitigen Aufgabe in Ihrem Unternehmen unverändert groß ist.\n\n__5__ meiner bisherigen Erfahrungen im Online-Marketing bin ich überzeugt, die Anforderungen der Stelle gut erfüllen zu können.\n\nSollten Sie __6__ weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Max Mustermann]",
+    "thema": "Anfrage: Benötigte Informationen für betriebliche Altersvorsorge",
+    "textinhalt": "Sehr geehrte Damen und Herren der Personalabteilung,\n\nich beziehe mich auf die kürzlich bereitgestellten Informationen zur betrieblichen Altersvorsorge (bAV) über Ihren Partner „SicherVorsorgen GmbH“. Ich möchte diese gerne in Anspruch nehmen.\n\nDie Anmeldung bei „SicherVorsorgen GmbH“ erfordert einige spezifische Angaben, die mir aktuell nicht vollständig vorliegen. __1__ wende ich mich an Sie mit der Bitte um Unterstützung. __2__ benötige ich meine aktuelle Sozialversicherungsnummer sowie eine Bestätigung meines Bruttojahresgehalts für das vergangene Jahr.\n\nDiese Angaben sind wichtig, __3__ der Anmeldefrist am 30. dieses Monats. Ich möchte sicherstellen, dass alle Unterlagen korrekt und pünktlich eingereicht werden, __4__ meine Anmeldung reibungslos bearbeitet werden kann.\n\n__5__ Sie mir diese Informationen nicht direkt zusenden können, teilen Sie mir __6__ mit, an welche Stelle im Unternehmen ich mich alternativ wenden kann oder wo ich die benötigten Daten selbst einsehen kann.\n\nVielen Dank für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "eventuell"
+            "content": "aufgrund"
         },
         {
             "id": "b",
-            "content": "seitdem"
+            "content": "dagegen"
         },
         {
             "id": "c",
-            "content": "Aufgrund"
+            "content": "daher"
         },
         {
             "id": "d",
-            "content": "darüber"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "hiermit"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "inzwischen"
+            "content": "freundlicherweise"
         },
         {
             "id": "g",
-            "content": "Wegen"
+            "content": "hierfür"
         },
         {
             "id": "h",
-            "content": "diesbezüglich"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "etwa"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "e"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "f"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 10. April",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager, die ich Ihnen am 10. April zugesandt habe.\n\n__1__ sind seit dem Ende der Bewerbungsfrist nun bereits mehrere Wochen vergangen. __2__ möchte ich mich höflich bei Ihnen erkundigen, wie der aktuelle Stand des Auswahlprozesses ist und __3__ ungefähr mit einer Rückmeldung zu rechnen ist.\n\nIch bin __4__ sehr an dieser Stelle interessiert, da die Aufgabenbeschreibung und die Entwicklungsmöglichkeiten in Ihrem Unternehmen meinen beruflichen Zielen und Qualifikationen sehr gut entsprechen. Eine zeitnahe Information wäre für meine weitere Planung hilfreich, __5__ ich auch andere Optionen prüfe.\n\nKönnten Sie mir __6__ mitteilen, ob die Bewerberauswahl bereits begonnen hat oder wann die nächsten Schritte geplant sind? Für Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu Details des Management-Seminars",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf Ihr Rundschreiben bezüglich des Management-Seminars „Effektive Teamführung“ im kommenden Quartal und möchte mich __1__ erkundigen.\n\nDas Seminar klingt äußerst vielversprechend. __2__ ich bereits über einige Jahre Führungserfahrung verfüge, bin ich stets an Weiterbildung interessiert, um meine Kompetenzen zu erweitern. Könnten Sie mir bitte mitteilen, ob spezifische Vorkenntnisse offiziell vorausgesetzt werden?\n\nDes Weiteren interessiert mich der Kostenrahmen. Sind die Seminarunterlagen __3__ der Verpflegung während der Veranstaltung im Preis inbegriffen, oder fallen hierfür zusätzliche Gebühren an? __4__ wäre es hilfreich zu wissen, ob eine Ratenzahlung möglich ist.\n\nDa ich meine Jahresplanung bald abschließen muss, wäre ich Ihnen dankbar, wenn Sie mir diese Informationen __5__ zukommen lassen könnten. __6__ hängt meine endgültige Entscheidung von den genauen Konditionen ab.\n\nVielen Dank für Ihre Mühe.\nMit freundlichen Grüßen\nMarkus Weber",
     "options": [
         {
             "id": "a",
@@ -8,65 +8,65 @@
         },
         {
             "id": "b",
-            "content": "bevor"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "dagegen"
         },
         {
             "id": "d",
-            "content": "daher"
+            "content": "darauf"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "einschließlich"
         },
         {
             "id": "f",
-            "content": "inzwischen"
+            "content": "neben"
         },
         {
             "id": "g",
-            "content": "ob"
-        },
-        {
-            "id": "h",
             "content": "obwohl"
         },
         {
+            "id": "h",
+            "content": "trotzdem"
+        },
+        {
             "id": "i",
-            "content": "wann"
+            "content": "vorab"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "weil"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
             "option_id": "d"
         },
         {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
             "blank": "3",
-            "option_id": "i"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "a"
         }
     ]
 }

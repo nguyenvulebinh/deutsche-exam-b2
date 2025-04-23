@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerung als Projektmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 25. April zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __2__ meinen Vorstellungen und Qualifikationen, und ich bin nach wie vor sehr an dieser spannenden Herausforderung interessiert. Ich bin __3__ überzeugt, dass meine Erfahrungen im Bereich agiles Projektmanagement für Ihr Team von großem Nutzen sein könnten.\n\nKönnten Sie mir __4__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann ungefähr mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Auswahlprozess Zeit __5__, und möchte keinesfalls drängen.\n\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Problem mit Projektmanagement-Software \"ProPlan\"",
+    "textinhalt": "Sehr geehrte Damen und Herren des IT-Supports,\n\nwir wenden uns an Sie bezüglich eines wiederkehrenden Problems mit der Projektmanagement-Software \"ProPlan\". __1__ das letzte Update Anfang des Monats installiert wurde, stürzt die Anwendung häufig ab, insbesondere beim Speichern von größeren Projektdateien.\n\nDies führt zu erheblichem Zeitverlust, __2__ das Sichern von Arbeitsfortschritten oft fehlschlägt oder nur nach mehreren Versuchen gelingt. Einfache Neustarts der Software wurden bereits versucht; __3__ bringt dies meist nur eine kurzfristige Besserung.\n\nWir bitten Sie daher um Prüfung des Problems. Könnten Sie uns mitteilen, __4__ es sich hierbei um einen bekannten Fehler handelt und __5__ wir mit einer Behebung rechnen können?\n\nWir wären Ihnen dankbar, wenn Sie die Angelegenheit untersuchen und uns über die nächsten Schritte informieren könnten. __6__ bestätigen Sie kurz den Erhalt dieser Nachricht.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nAbteilung Projektentwicklung",
     "options": [
         {
             "id": "a",
-            "content": "Daran"
+            "content": "bitte"
         },
         {
             "id": "b",
-            "content": "eventuell"
+            "content": "hingegen"
         },
         {
             "id": "c",
-            "content": "Falls"
+            "content": "insofern"
         },
         {
             "id": "d",
-            "content": "kostet"
+            "content": "nachdem"
         },
         {
             "id": "e",
-            "content": "Da"
+            "content": "seitdem"
         },
         {
             "id": "f",
-            "content": "benötigt"
+            "content": "wann"
         },
         {
             "id": "g",
-            "content": "genau"
+            "content": "wenn"
         },
         {
             "id": "h",
-            "content": "davon"
+            "content": "weshalb"
         },
         {
             "id": "i",
-            "content": "Sobald"
+            "content": "wodurch"
         },
         {
             "id": "j",
-            "content": "Obwohl"
+            "content": "zumal"
         }
     ],
     "loesung": [
@@ -50,15 +50,15 @@
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "c"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "a"
         }
     ]
 }

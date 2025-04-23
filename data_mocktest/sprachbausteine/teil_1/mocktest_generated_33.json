@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 15. Mai und wollte mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist bewusst, dass die sorgfältige Prüfung aller Unterlagen Zeit __1__ Anspruch nimmt.\n\n__2__ mein Interesse an der ausgeschriebenen Position sehr groß ist und die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht, wäre ich Ihnen dankbar, __3__ Sie mir eine kurze Rückmeldung zum weiteren Vorgehen geben könnten. Eventuell können Sie mir ja bereits mitteilen, __4__ in etwa mit einer Entscheidung oder einer Einladung zu einem Gespräch zu rechnen ist.\n\nIch stehe Ihnen für Rückfragen oder ein persönliches Gespräch __5__ zur Verfügung und freue mich darauf, von Ihnen zu hören.\n\nVielen Dank für Ihre Bemühungen __6__ Voraus.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nhiermit möchte ich Sie um die Ausstellung eines Zwischenzeugnisses bitten. Ich bin seit dem 01.03.2021 als Projektmanager in Ihrer Abteilung tätig.\n\nWie Sie wissen, wird mein Vorgesetzter, Herr Schmidt, das Unternehmen __1__ Monatsende verlassen. __2__ ist es mir wichtig, eine Beurteilung meiner bisherigen Tätigkeit zu erhalten, die noch von ihm verfasst wird. Ich wäre Ihnen dankbar, wenn das Zeugnis möglichst __3__ seinem Weggang erstellt werden könnte, damit seine direkte Bewertung einfließen kann.\n\nIch bitte __4__ um eine umfassende Bewertung meiner Leistungen und meines Sozialverhaltens während meiner Zeit unter Herrn Schmidts Leitung. Könnten Sie mir __5__ mitteilen, wie lange die Bearbeitung in der Regel dauert und an wen ich mich bei Fragen wenden kann?\n\nFür Rückfragen oder zur Bereitstellung weiterer Informationen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "dafür"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "darum"
         },
         {
             "id": "c",
-            "content": "gerne"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "im"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "in"
+            "content": "nach"
         },
         {
             "id": "f",
-            "content": "jederzeit"
+            "content": "selbstverständlich"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "sofort"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "vor"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "zum"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
             "option_id": "j"
         },
         {
-            "blank": "4",
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
             "option_id": "i"
         },
         {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "f"
         }
     ]
 }

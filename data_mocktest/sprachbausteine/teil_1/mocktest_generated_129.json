@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05.06.2024",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing Manager, die ich Ihnen am 05.06.2024 über Ihr Online-Portal zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, seitdem Sie den Eingang meiner Unterlagen bestätigt haben, möchte ich mich höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __3__ meinen beruflichen Vorstellungen und Qualifikationen, und ich bin nach wie vor sehr an einer Mitarbeit in Ihrem Team interessiert.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann ungefähr mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist?\n\nSelbstverständlich stehe ich Ihnen für Rückfragen oder ein persönliches Gespräch __5__ zur Verfügung.\n\nIch wäre Ihnen dankbar, wenn Sie mir kurz mitteilen könnten, __6__ meine Bewerbung weiterhin im Prozess berücksichtigt wird.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage Teilnahme an internem Workshop",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich schreibe Ihnen bezüglich des internen Workshops \"Effektives Zeitmanagement\", dessen Ankündigung ich __1__ im Intranet gesehen habe. Ich habe großes Interesse daran teilzunehmen, __2__ noch Plätze verfügbar sind und meine Teilnahme mit meinen aktuellen Projektaufgaben vereinbar ist.\n\nDas Thema ist für meine derzeitige Tätigkeit sehr relevant. Wir stehen __3__ im Team vor der Herausforderung, mehrere Projekte parallel mit knappen Fristen zu koordinieren. __4__ würde mich interessieren, ob für den Workshop spezielle Vorkenntnisse, beispielsweise im Umgang mit bestimmter Projektmanagement-Software, erforderlich sind.\n\nKönnten Sie mir bitte Informationen zu den Anmeldemodalitäten zukommen lassen, __5__ zum Anmeldeschluss und dem genauen Verfahren?\n\nVielen Dank __6__ für Ihre Bemühungen und Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "wenn"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "jederzeit"
+            "content": "deswegen"
         },
         {
             "id": "c",
-            "content": "nach"
+            "content": "falls"
         },
         {
             "id": "d",
-            "content": "über"
+            "content": "insbesondere"
         },
         {
             "id": "e",
-            "content": "durchaus"
+            "content": "kürzlich"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "manchmal"
         },
         {
             "id": "g",
-            "content": "seitdem"
+            "content": "nämlich"
         },
         {
             "id": "h",
-            "content": "inzwischen"
+            "content": "ob"
         },
         {
             "id": "i",
-            "content": "deshalb"
+            "content": "überdies"
         },
         {
             "id": "j",
-            "content": "eventuell"
+            "content": "vorab"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "g"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "j"
         }
     ]
 }

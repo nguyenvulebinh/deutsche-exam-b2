@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Petersen,\n\nhiermit beziehe ich mich __1__ meine Bewerbung als Marketing-Manager vom 25. April.\n\nDa nun einige Zeit vergangen ist, __2__ ich bisher eine Rückmeldung von Ihnen erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Position interessiert mich __3__ sehr, da die beschriebenen Aufgaben gut zu meinen Qualifikationen passen.\n\nKönnten Sie mir __4__ mitteilen, wann mit einer Entscheidung zu rechnen ist? Selbstverständlich stehe ich Ihnen __5__ für ein persönliches Gespräch zur Verfügung.\n\n__6__ freue ich mich auf eine baldige Antwort.\n\nMit freundlichen Grüßen,\n[Ihr Name]",
+    "thema": "Klärungsbedarf bezüglich Rechnung RE-2024-589",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf Ihre Rechnung RE-2024-589 vom 15. Mai 2024. __1__ unseres Servicevertrags vom 10. Januar 2024 hätten die monatlichen Kosten 500 € betragen sollen.\n\nDie aktuelle Rechnung weist __2__ einen Betrag von 650 € aus. Wir hatten dies bereits am 20. Mai telefonisch mit Herrn Müller aus Ihrer Buchhaltung besprochen. __3__ wurde uns eine Prüfung und zeitnahe Korrektur zugesagt. Leider haben wir bis heute keine berichtigte Rechnung erhalten.\n\nWir bitten Sie __4__, die Angelegenheit zu prüfen und uns eine korrigierte Rechnung zukommen zu lassen. __5__ sehen wir uns gezwungen, die Zahlung vorerst zurückzuhalten, bis die Unstimmigkeit geklärt ist.\n\nZur Verdeutlichung fügen wir diesem Schreiben eine Kopie des relevanten Vertragsauszugs bei, __6__ dessen die vereinbarten Konditionen klar ersichtlich sind. Wir bitten um Ihre Rückmeldung innerhalb der nächsten sieben Werktage.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Firma]",
     "options": [
         {
             "id": "a",
-            "content": "vielleicht"
+            "content": "ansonsten"
         },
         {
             "id": "b",
-            "content": "Daher"
+            "content": "daraufhin"
         },
         {
             "id": "c",
-            "content": "jederzeit"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "an"
+            "content": "erneut"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "gemäß"
         },
         {
             "id": "f",
-            "content": "auf"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "nach wie vor"
+            "content": "laut"
         },
         {
             "id": "h",
-            "content": "trotzdem"
+            "content": "mithilfe"
         },
         {
             "id": "i",
-            "content": "obwohl"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "ohne dass"
+            "content": "wieder"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
             "option_id": "g"
         },
         {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "h"
         }
     ]
 }

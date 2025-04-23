@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend __1__ meine Bewerbung vom 15. Mai für die Stelle als Projektmanager möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __2__ einige Wochen vergangen sind und die Position für mich nach wie vor von großem Interesse ist, wäre ich Ihnen für eine kurze Information dankbar.\n\nIch habe großes Verständnis dafür, dass Auswahlprozesse Zeit benötigen. __3__ wäre es für meine weitere Planung hilfreich, __4__ Sie mir einen ungefähren Zeitrahmen nennen könnten.\n\nKönnten Sie mir eventuell mitteilen, __5__ ungefähr mit einer Entscheidung zu rechnen ist?\n\nFür Rückfragen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Stellungnahme zu Ihrer Beschwerde vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nwir bestätigen den Eingang Ihrer E-Mail vom 15. Mai bezüglich Ihrer Erfahrungen mit unserem Kundenservice und bedauern sehr, dass Sie Anlass zur Beschwerde hatten. Wir nehmen Ihr Anliegen ernst, __1__ Kundenzufriedenheit für uns oberste Priorität hat.\n\nWir haben den Vorfall __2__ intern geprüft. Es scheint ein Missverständnis bei der Terminabsprache gegeben zu haben, __3__ Ihnen leider zusätzliche Unannehmlichkeiten entstanden sind. Dies entspricht keinesfalls unserem Servicestandard.\n\nWir möchten uns __4__ in aller Form für die entstandenen Probleme entschuldigen. Als Zeichen unseres Bedauerns bieten wir Ihnen einen Gutschein über 20 € für Ihre nächste Inanspruchnahme unserer Dienstleistungen an. Diesen senden wir Ihnen in Kürze per Post zu, __5__ Sie uns Ihre aktuelle Postanschrift kurz bestätigen.\n\nWir hoffen sehr, dass Sie uns die Gelegenheit geben, Sie __6__ wieder von der Qualität unseres Services überzeugen zu können.\n\nMit freundlichen Grüßen\n\nIhr Serviceteam\n[Unternehmen XYZ]",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "da"
         },
         {
             "id": "b",
-            "content": "an"
+            "content": "hoffentlich"
         },
         {
             "id": "c",
-            "content": "auf"
-        },
-        {
-            "id": "d",
-            "content": "deshalb"
-        },
-        {
-            "id": "e",
             "content": "inzwischen"
         },
         {
+            "id": "d",
+            "content": "künftig"
+        },
+        {
+            "id": "e",
+            "content": "neulich"
+        },
+        {
             "id": "f",
-            "content": "jederzeit"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "selbstverständlich"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "sofern"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "weshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
             "option_id": "a"
         },
         {
-            "blank": "4",
+            "blank": "2",
+            "option_id": "c"
+        },
+        {
+            "blank": "3",
             "option_id": "j"
         },
         {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "d"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager/in Digitale Transformation vom 20. April 2024",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager/in Digitale Transformation, die ich Ihnen am 20. April 2024 zugesandt habe. Da ich bisher noch keine Rückmeldung __1__ habe, möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser spannenden Herausforderung bei Ihrem Unternehmen ist __2__ ungebrochen groß, __3__ die beschriebenen Aufgabenbereiche exakt meinen Erfahrungen im agilen Projektmanagement entsprechen.\n\nIch verstehe, dass der Auswahlprozess Zeit __4__ kann. __5__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Auskunft geben könnten, bis wann etwa mit einer Entscheidung zu rechnen ist.\n\nFür Rückfragen stehe ich Ihnen selbstverständlich __6__ Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "thema": "Klärungsbedarf Projekt 'Neukundenportal'",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für das informative Meeting gestern zum neuen Projekt 'Neukundenportal'. Das übergeordnete Ziel und die grundlegende Strategie sind mir klar geworden. __1__ habe ich noch einige Detailfragen zu den technischen Spezifikationen, die ich gerne klären würde.\n\nKonkret bin ich unsicher, __2__ die Zwei-Faktor-Authentifizierung (2FA) verpflichtend ist oder nur eine optionale Zusatzfunktion darstellt. Ist diese Funktion __3__ der bereits besprochenen SSO-Integration (Single Sign-On) zu implementieren? Das Lastenheft scheint hierzu nicht eindeutig zu sein.\n\nSollte die 2FA-Anforderung verpflichtend sein, hätte das erhebliche Auswirkungen auf den Entwicklungsaufwand. __4__ wäre eine zeitnahe Klärung wichtig, um den Zeitplan realistisch einschätzen zu können. __5__ bitte ich Sie um eine kurze Rückmeldung oder ein kurzes Gespräch, sobald es Ihre Zeit erlaubt.\n\nWären Sie eventuell __6__ für einen 15-minütigen Austausch in den nächsten Tagen verfügbar?\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "trotzdem"
+            "content": "außer"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "bei"
+            "content": "deswegen"
         },
         {
             "id": "d",
-            "content": "benötigt"
+            "content": "falls"
         },
         {
             "id": "e",
-            "content": "da"
+            "content": "folglich"
         },
         {
             "id": "f",
-            "content": "Dennoch"
+            "content": "hierfür"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "erhalten"
+            "content": "neben"
         },
         {
             "id": "i",
-            "content": "zur"
+            "content": "ob"
         },
         {
             "id": "j",
-            "content": "bekommen"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "e"
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "f"
         }
     ]
 }

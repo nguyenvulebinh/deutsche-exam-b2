@@ -1,34 +1,34 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing-Manager, die ich Ihnen am 25. April zugesandt habe. Den Eingang meiner Unterlagen haben Sie freundlicherweise bestätigt.\n\n__1__ nun einige Zeit vergangen ist, ohne dass ich eine weitere Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an der ausgeschriebenen Stelle ist __2__ sehr groß, da die Aufgabenbeschreibung und die Ausrichtung Ihres Unternehmens meinen beruflichen Vorstellungen und Qualifikationen stark entsprechen. __3__ die strategische Weiterentwicklung digitaler Kanäle reizt mich an der Position besonders.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wie der weitere Zeitplan aussieht oder wann __5__ mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich.\n\n__6__ bedanke ich mich bereits im Voraus für Ihre Bemühungen und verbleibe mit großem Interesse an einer positiven Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung der Teilnahme an Pflichtschulung",
+    "textinhalt": "Sehr geehrte Frau Keller,\n\nich beziehe mich auf Ihre E-Mail von letzter Woche, in der Sie über die bevorstehende obligatorische IT-Sicherheitsschulung informierten. __1__ bestätige ich meine Teilnahme am geplanten Termin, dem 15. März um 10:00 Uhr.\n\nIch habe die Einladung und die Agenda __2__ erhalten und zur Kenntnis genommen. Die Inhalte erscheinen sehr relevant für unsere tägliche Arbeit. __3__ habe ich eine kurze Frage bezüglich der Vorbereitung: Gibt es spezifische Materialien, die wir vorab durchgehen sollten?\n\nDie Schulung findet ja __4__ der regulären Arbeitszeit statt. Ich habe meine Termine entsprechend angepasst. __5__ ist es mir wichtig, auf dem neuesten Stand der Sicherheitsrichtlinien zu sein, um Risiken effektiv zu minimieren.\n\n__6__ möchte ich anfragen, ob für die Teilnahme spezielle Software-Installationen auf unseren Laptops notwendig sind. Eine kurze Information hierzu wäre hilfreich.\n\nVielen Dank für die Organisation.\n\nMit freundlichen Grüßen,\nMax Müller",
     "options": [
         {
             "id": "a",
-            "content": "bereits"
+            "content": "bald"
         },
         {
             "id": "b",
-            "content": "bezüglich"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "hiermit"
         },
         {
             "id": "d",
-            "content": "daher"
+            "content": "innerhalb"
         },
         {
             "id": "e",
-            "content": "etwa"
+            "content": "jedoch"
         },
         {
             "id": "f",
-            "content": "insbesondere"
+            "content": "jetzt"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "kürzlich"
         },
         {
             "id": "h",
@@ -40,7 +40,7 @@
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "zudem"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
-            "option_id": "b"
-        },
-        {
-            "blank": "5",
             "option_id": "e"
         },
         {
-            "blank": "6",
+            "blank": "4",
             "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
+            "blank": "6",
+            "option_id": "j"
         }
     ]
 }

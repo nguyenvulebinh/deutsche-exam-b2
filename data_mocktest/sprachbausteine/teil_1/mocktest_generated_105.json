@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf meine Bewerbung vom 25. April für die ausgeschriebene Stelle als Marketingassistent möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, und ich mir vorstellen kann, dass Sie eine Vielzahl von Bewerbungen prüfen müssen, wollte ich mich kurz bei Ihnen melden.\n\nDie in der Stellenbeschreibung genannten Aufgaben entsprechen genau meinen Fähigkeiten und Interessen, __2__ ich mein großes Interesse an dieser Position in Ihrem Unternehmen nochmals bekräftigen möchte.\n\nIch wäre Ihnen sehr dankbar, __3__ Sie mir __6__ eine kurze Information geben könnten, wann ungefähr mit einer Entscheidung zu rechnen ist. Falls Sie in der Zwischenzeit __4__ Dokumente oder Referenzen von mir benötigen, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch sehe Ihrer Rückmeldung mit Spannung __5__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich meiner geplanten Elternzeit",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich schreibe Ihnen bezüglich meiner geplanten Elternzeit im Anschluss an die Geburt meines Kindes, dessen erwarteter Geburtstermin der 15. August ist. Ich beabsichtige, die Elternzeit direkt nach dem Mutterschutz anzutreten und möchte den Antrag __1__ wie möglich nach der Geburt einreichen.\n\nIch habe die Informationen auf der internen Webseite bereits gelesen, __2__ habe ich noch eine spezifische Frage __3__ der erforderlichen Nachweise. Neben dem offiziellen Antragsformular, welche zusätzlichen Dokumente sind genau notwendig? Gibt es eine interne Checkliste, die ich __4__ nutzen kann?\n\nIch möchte sicherstellen, dass alle Unterlagen korrekt und __5__ eingereicht werden, um Verzögerungen zu vermeiden. Könnten Sie mir bitte mitteilen, ob es interne Fristen gibt, die über die gesetzliche Sieben-Wochen-Frist hinausgehen?\n\n__6__ wäre ich dankbar, wenn Sie mir kurz bestätigen könnten, an welche Abteilung oder Person der Antrag genau adressiert werden muss.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "entgegen"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "inzwischen"
+            "content": "dazu"
         },
         {
             "id": "d",
-            "content": "ob"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "seitdem"
+            "content": "ferner"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "hierfür"
         },
         {
             "id": "g",
-            "content": "vielleicht"
+            "content": "rechtzeitig"
         },
         {
             "id": "h",
-            "content": "weitere"
+            "content": "sobald"
         },
         {
             "id": "i",
-            "content": "wenn"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "weshalb"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
             "option_id": "h"
         },
         {
-            "blank": "5",
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
             "option_id": "b"
         },
         {
-            "blank": "6",
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
             "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
         }
     ]
 }

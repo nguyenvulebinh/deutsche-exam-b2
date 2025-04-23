@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-451) vom 10.06.2024",
-    "textinhalt": "Sehr geehrte Frau Dr. Schneider,\n\nbezugnehmend auf meine Bewerbung vom 10.06.2024 für die ausgeschriebene Stelle als Projektmanager (Kennziffer PM-451) möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen seit dem Bewerbungsschluss vergangen sind, wollte ich nachfragen, __2__ es bereits Neuigkeiten zum weiteren Vorgehen gibt.\n\nMein Interesse an dieser verantwortungsvollen Position in Ihrem Hause ist __3__ groß, und ich bin nach wie vor davon überzeugt, mit meiner Erfahrung einen wertvollen Beitrag leisten zu können.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wann ungefähr mit einer Entscheidung zu rechnen ist? Das wäre für meine weitere Planung sehr hilfreich.\n\n__5__ Sie zusätzliche Informationen oder Referenzen benötigen, lassen Sie es mich bitte wissen.\n\nIch würde mich __6__ eine baldige Rückmeldung sehr freuen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung und Details zum Workshop Projektmanagement",
+    "textinhalt": "Sehr geehrte Teilnehmerinnen und Teilnehmer,\n\nwir freuen uns auf den bevorstehenden Workshop „Projektmanagement Grundlagen“ mit Ihnen am kommenden Dienstag, den 14. Mai, von 9:00 bis 17:00 Uhr.\n\nHiermit möchten wir letzte Details __1__ des Veranstaltungsortes klären. Der Workshop war ursprünglich für Raum A geplant; __2__ mussten wir kurzfristig auf Raum B ausweichen, der sich direkt nebenan befindet und technisch gleichwertig ausgestattet ist. Wir bitten um Ihr Verständnis für diese kleine Änderung.\n\nDie detaillierte Agenda sowie vorbereitende Materialien erhalten Sie __3__ in einer separaten E-Mail bis spätestens Ende dieser Woche. Eine Erstattung der Verpflegungspauschale ist möglich, __4__ Sie Ihre Teilnahme bis Montagabend über den Link im Intranet bestätigen.\n\nWir stellen Ihnen alle notwendigen Schreibmaterialien und ein digitales Handout __5__ zur Verfügung. Die Kosten __6__ sind bereits durch Ihre Abteilungsbudgets gedeckt, es entstehen Ihnen also keine zusätzlichen Gebühren.\n\nSollten Sie vorab Fragen haben, stehen wir Ihnen gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nIhre Personalentwicklung",
     "options": [
         {
             "id": "a",
-            "content": "ziemlich"
+            "content": "anschließend"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "ob"
+            "content": "danach"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "auf"
+            "content": "hierfür"
         },
         {
             "id": "f",
-            "content": "inzwischen"
+            "content": "selbstverständlich"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "Falls"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "seit"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
             "option_id": "b"
         },
         {
-            "blank": "4",
+            "blank": "2",
             "option_id": "d"
         },
         {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "e"
         }
     ]
 }

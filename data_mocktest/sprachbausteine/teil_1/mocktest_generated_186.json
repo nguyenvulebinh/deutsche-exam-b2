@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 20. April, für deren Eingangsbestätigung ich mich herzlich bedanke.\n\nDa nun einige Zeit vergangen ist, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Stelle entspricht genau meinen beruflichen Interessen und Qualifikationen, __2__ ich nach wie vor sehr an einer Mitarbeit in Ihrem Unternehmen interessiert bin.\n\nIch bin __3__ davon überzeugt, dass meine Erfahrung im internationalen Projektmanagement einen wertvollen Beitrag leisten könnte.\n\nKönnten Sie mir eventuell mitteilen, __4__ ungefähr mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Prozess Zeit __5__ Anspruch nimmt.\n\nFür Rückfragen stehe ich Ihnen __6__ gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Betreff: Rückmeldung zu Ihrer Servicemeldung vom 15.08.",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre Nachricht vom 15. August bezüglich der Wartungsarbeiten an Ihrer Heizungsanlage. Wir bedauern sehr, dass Sie mit dem Ergebnis nicht vollständig zufrieden waren.\n\nWir haben Ihr Anliegen __2__ geprüft. Die Arbeiten wurden zwar von einem erfahrenen Techniker durchgeführt, __1__ müssen wir einräumen, dass die abschließende Reinigung nicht unseren üblichen Standards entsprach. Dies war ärgerlich und wir bitten um Entschuldigung.\n\n__3__ unseren Wartungsprotokollen wurden alle technischen Prüfungen korrekt durchgeführt; die Anlage selbst funktioniert einwandfrei. Das Problem beschränkte sich __6__ auf die Endreinigung.\n\nAls Wiedergutmachung bieten wir Ihnen an, dass ein Mitarbeiter kurzfristig vorbeikommt und die Reinigung __5__ kostenfrei für Sie nachholt. Bitte teilen Sie uns mit, wann es Ihnen passen würde, __4__ wir dies schnellstmöglich organisieren können.\n\nWir hoffen, Sie bald wieder von unserer Servicequalität überzeugen zu können.\n\nMit freundlichen Grüßen\n\nIhr Service-Team Haustechnik GmbH",
     "options": [
         {
             "id": "a",
-            "content": "wenn"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "jederzeit"
+            "content": "damit"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "dennoch"
         },
         {
             "id": "d",
-            "content": "weshalb"
+            "content": "eigentlich"
         },
         {
             "id": "e",
-            "content": "nach"
+            "content": "gemäß"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "inzwischen"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "sodass"
         },
         {
             "id": "h",
-            "content": "in"
+            "content": "selbstverständlich"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "tatsächlich"
         },
         {
             "id": "j",
-            "content": "auf"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "b"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "i"
         }
     ]
 }

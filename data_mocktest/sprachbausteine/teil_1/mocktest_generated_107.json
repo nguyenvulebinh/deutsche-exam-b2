@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung vom 15. Mai für die Stelle als Marketing Manager möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ nun bereits einige Wochen seit dem Bewerbungsschluss vergangen sind, wollte ich höflich nachfragen, ob es möglicherweise schon Neuigkeiten gibt.\n\nIch bin nach wie vor sehr an dieser Position interessiert, __2__ die in der Ausschreibung beschriebenen Aufgabenbereiche genau meinen Qualifikationen und beruflichen Zielen entsprechen. Mir ist __3__ bewusst, dass ein sorgfältiger Auswahlprozess Zeit benötigt.\n\n__4__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information zukommen lassen könnten, bis wann etwa mit einer Entscheidung oder den nächsten Schritten im Verfahren zu rechnen ist.\n\nIch stehe Ihnen __5__ für ein persönliches Gespräch zur Verfügung und freue mich darauf, von Ihnen zu hören.\n\nVielen Dank im Voraus für Ihre Bemühungen __6__ dieser Angelegenheit.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Antrag auf Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ beantrage ich die Ausstellung eines qualifizierten Zwischenzeugnisses über meine bisherige Tätigkeit als Projektmanager in Ihrer Abteilung. Ich bin seit dem 01.04.2019 in Ihrem Unternehmen beschäftigt.\n\nIch benötige dieses Dokument, __2__ ich meine nächsten Karriereschritte sorgfältig planen möchte und hierfür eine aktuelle Leistungsbeurteilung hilfreich wäre. Das Zeugnis sollte __3__ meiner Hauptaufgabenbereiche auch eine Bewertung meiner Sozialkompetenzen enthalten.\n\n__4__ bitte ich darum, dass auch meine erfolgreich abgeschlossenen Projekte der letzten zwei Jahre erwähnt werden. Eine detaillierte Liste dieser Projekte kann ich Ihnen bei Bedarf gerne zukommen lassen.\n\nIch wäre Ihnen sehr dankbar, wenn Sie mir das Zwischenzeugnis __5__ der nächsten vier Wochen ausstellen könnten. Sollte dieser Zeitrahmen nicht realisierbar sein, teilen Sie mir bitte mit, wann ich __6__ damit rechnen kann.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMarkus Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "Deshalb"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "jederzeit"
+            "content": "baldmöglichst"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "selbstverständlich"
+            "content": "da"
         },
         {
             "id": "e",
-            "content": "für"
+            "content": "damit"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "hiermit"
         },
         {
             "id": "g",
-            "content": "Dennoch"
+            "content": "innerhalb"
         },
         {
             "id": "h",
-            "content": "in"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "bald"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
             "option_id": "d"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "j"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "b"
         }
     ]
 }

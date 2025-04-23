@@ -1,30 +1,30 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ meine Bewerbung als Projektmanager vom 15. Mai möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ seit meiner Bewerbung nun einige Zeit vergangen ist, wollte ich mich __3__ erkundigen, ob Sie mir eventuell schon eine erste Rückmeldung geben können. Ich bin __4__ sehr an dieser Position interessiert und nach wie vor davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu Ihrem Anforderungsprofil passen.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Information __5__ den weiteren Verlauf des Bewerbungsprozesses zukommen lassen könnten. Für meine weitere Planung wäre es hilfreich zu wissen, __6__ Sie bereits eine engere Auswahl getroffen haben oder wann ungefähr mit einer Entscheidung zu rechnen ist.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Beschwerde bezüglich Seminar 'Effektives Zeitmanagement'",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nhiermit möchte ich mich auf das Seminar „Effektives Zeitmanagement“ beziehen, das ich am 15. und 16. Mai besucht habe. __1__ der Seminarbeschreibung auf Ihrer Webseite hatte ich spezifische Inhalte, insbesondere zu Projektmanagement-Tools, erwartet, die leider nicht behandelt wurden.\n\nDie angekündigten Module zu agilen Techniken kamen gar nicht zur Sprache. __2__ wurden hauptsächlich sehr allgemeine Zeitmanagement-Prinzipien wiederholt, die den meisten Teilnehmern bereits grundlegend bekannt waren. __3__ war der praktische Nutzen des Seminars für meine aktuelle berufliche Tätigkeit leider deutlich geringer als erhofft. Dies wurde mir bereits __4__ des zweiten Seminartages immer deutlicher bewusst.\n\nIch möchte Sie daher höflich bitten, meine Enttäuschung zur Kenntnis zu nehmen und eine faire Lösung zu prüfen. Konkret könnte ich mir eine anteilige Rückerstattung der Seminargebühren oder alternativ den Zugang zu spezifischen Online-Modulen zu den fehlenden Themen vorstellen. __5__ bitte ich um Prüfung meiner Vorschläge und eine Stellungnahme Ihrerseits.\n\nIch wäre Ihnen dankbar, wenn Sie mir __6__ eine Rückmeldung geben könnten, wie Sie in dieser Angelegenheit weiter verfahren möchten.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "dafür"
         },
         {
             "id": "b",
-            "content": "bezugnehmend auf"
-        },
-        {
-            "id": "c",
-            "content": "deshalb"
-        },
-        {
-            "id": "d",
             "content": "hinsichtlich"
         },
         {
+            "id": "c",
+            "content": "hierzu"
+        },
+        {
+            "id": "d",
+            "content": "infolgedessen"
+        },
+        {
             "id": "e",
-            "content": "kurz"
+            "content": "somit"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "stattdessen"
         },
         {
             "id": "g",
@@ -32,15 +32,15 @@
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "umgehend"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
@@ -50,11 +50,11 @@
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "j"
         }
     ]
 }

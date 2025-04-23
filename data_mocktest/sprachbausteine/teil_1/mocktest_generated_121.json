@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager Marketing vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager Marketing, die ich Ihnen am 15. Mai zugesandt habe (Kennziffer PM-MKT-08).\n\n__1__ ich bisher noch keine Rückmeldung bezüglich des weiteren Verlaufs des Auswahlverfahrens erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand erkundigen.\n\nMir ist durchaus bewusst, dass die sorgfältige Prüfung einer Vielzahl von Bewerbungen Zeit in Anspruch nimmt. __2__ möchte ich mein anhaltend starkes Interesse an dieser Position bekräftigen, da sie meinen Qualifikationen und beruflichen Zielen in hohem Maße entspricht.\n\nWäre es Ihnen __3__ möglich, mir eine kurze Auskunft darüber zu geben, wann ungefähr mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist?\n\n__4__ Sie in der Zwischenzeit zusätzliche Informationen oder ergänzende Unterlagen von mir benötigen, __5__ Sie mich dies bitte jederzeit gerne wissen. Ich stehe Ihnen für Rückfragen selbstverständlich zur Verfügung.\n\nIch danke Ihnen __6__ für Ihre Zeit und Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfrage zu Aufgaben im Projekt Alpha",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf unsere Projektbesprechung vom vergangenen Dienstag bezüglich des Projekts Alpha. Ich habe die allgemeinen Ziele und den Zeitrahmen gut verstanden, habe __1__ noch ein paar Detailfragen zu meinen spezifischen Aufgaben.\n\nDie Erstellung der Marktanalyse wurde als dringend eingestuft. Könnten Sie bitte präzisieren, welche Software __2__ verwendet werden soll? Die Lizenz für Tool X ist bei mir letzte Woche abgelaufen.\n\n__3__ Herr Schmidt laut Plan ebenfalls an Konkurrenzanalysen arbeitet, möchte ich sicherstellen, dass wir hier keine Doppelarbeit leisten. Vielleicht könnten wir unsere Teilbereiche kurz abgrenzen?\n\nFür die Zusammenfassung der ersten Ergebnisse wurde das Ende der KW 48 genannt. Gilt diese Frist auch für die interne Präsentation oder muss diese __4__ der ersten drei Tage dieser Woche erfolgen?\n\nIch wäre dankbar für eine kurze schriftliche Klärung. __5__ könnten wir auch kurz telefonieren, falls das für Sie einfacher ist.\n\nEine klare Aufgabenstellung ist für die effiziente Bearbeitung sehr wichtig, __6__ bitte ich um Ihr zeitnahes Feedback, auch wenn ich verstehe, dass Sie momentan sehr beschäftigt sind.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "möglich"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "lassen"
+            "content": "binnen"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "folglich"
         },
         {
             "id": "d",
-            "content": "im Voraus"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "Obwohl"
+            "content": "hierfür"
         },
         {
             "id": "f",
-            "content": "Deshalb"
+            "content": "innerhalb"
         },
         {
             "id": "g",
-            "content": "können"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "Falls"
+            "content": "obgleich"
         },
         {
             "id": "i",
-            "content": "Dennoch"
+            "content": "wofür"
         },
         {
             "id": "j",
-            "content": "eventuell"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "e"
         },
         {
             "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
             "option_id": "h"
         },
         {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "c"
         }
     ]
 }

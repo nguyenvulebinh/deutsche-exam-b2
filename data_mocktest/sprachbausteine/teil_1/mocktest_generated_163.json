@@ -1,68 +1,68 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Ref: PM-123) vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung als Projektmanager (Ref: PM-123) vom 15. Mai und Ihre freundliche Eingangsbestätigung möchte ich mich heute nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ sind nun über vier Wochen vergangen, seitdem ich meine Unterlagen eingereicht habe. Da mein Interesse an der ausgeschriebenen Position und Ihrem Unternehmen __2__ groß ist, wäre ich Ihnen dankbar für eine kurze Information über die nächsten Schritte oder den geplanten Zeitrahmen.\n\nIch frage auch deshalb an, da ich inzwischen ein anderes konkretes Jobangebot erhalten habe, welches eine zeitnahe Entscheidung meinerseits erfordert. __3__ wäre eine Einschätzung Ihrerseits, __4__ ungefähr mit einer Entscheidung zu rechnen ist, für mich sehr hilfreich, um meine weiteren Schritte planen zu können.\n\nDie Stelle in Ihrem Hause entspricht __5__ meinen beruflichen Vorstellungen und Zielen am besten, __6__ ich mich sehr über eine positive Rückmeldung freuen würde.\n\nVielen Dank für Ihr Verständnis und Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfrage zu Projektanforderungen",
+    "textinhalt": "Sehr geehrter Herr Bauer,\n\nvielen Dank nochmals für das informative Meeting heute Vormittag bezüglich des neuen Marketingprojekts \"Frühlingserwachen\". Ich habe mir dazu bereits einige Gedanken gemacht.\n\n__1__ möchte ich mich mit ein paar kurzen Rückfragen an Sie wenden, um sicherzustellen, dass ich alle Anforderungen korrekt verstanden habe.\n\nEs gab __2__ unserer Besprechung eine kurze Diskussion über die genaue Zielgruppe. Könnten Sie bitte präzisieren, ob der Fokus primär auf Bestandskunden oder auch auf der Neukundengewinnung liegen soll?\n\nDas übergeordnete Ziel ist mir klar, __3__ bin ich mir bezüglich des zugewiesenen Budgets noch unsicher. Ist der im ersten Entwurf genannte Rahmen fix oder gibt es hier noch Spielraum?\n\nIch bin mir auch nicht ganz sicher, __4__ wir für die Social-Media-Kampagne ausschließlich die internen Grafiktools nutzen sollen oder ob externe Agenturen hinzugezogen werden dürfen.\n\n__5__ wäre es hilfreich zu wissen, bis wann eine erste Konzeptskizze erwartet wird. Im Protokoll fand ich dazu leider keine eindeutige Angabe.\n\nSobald diese Punkte geklärt sind, kann ich __6__ mit der detaillierten Ausarbeitung beginnen.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nAnna Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "ob"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "weshalb"
+            "content": "daraufhin"
         },
         {
             "id": "c",
-            "content": "jedoch"
+            "content": "daher"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "ferner"
         },
         {
             "id": "e",
-            "content": "wann"
+            "content": "folglich"
         },
         {
             "id": "f",
-            "content": "weiterhin"
+            "content": "ob"
         },
         {
             "id": "g",
-            "content": "seitdem"
+            "content": "trotzdem"
         },
         {
             "id": "h",
-            "content": "inzwischen"
+            "content": "wann"
         },
         {
             "id": "i",
-            "content": "trotz"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "damit"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "6",

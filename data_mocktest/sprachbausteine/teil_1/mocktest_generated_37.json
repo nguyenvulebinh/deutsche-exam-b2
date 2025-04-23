@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum aktuellen Stand meiner Bewerbung als Marketingassistent vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schmidt, \n\nbezugnehmend auf meine Bewerbung als Marketingassistent vom 15. Mai möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen, __1__ seitdem bereits einige Wochen vergangen sind.\n\nMir ist durchaus bewusst, dass ein sorgfältiger Auswahlprozess Zeit in __2__ nimmt.\n\nDennoch wäre ich Ihnen sehr dankbar, __3__ Sie mir vielleicht eine kurze Information geben könnten, wann etwa mit einer Entscheidung zu rechnen ist.\n\nIch möchte __4__ nochmals betonen, dass mein Interesse an dieser Position und an einer Mitarbeit in Ihrem Unternehmen weiterhin sehr groß ist.\n\nSollten Sie __5__ Unterlagen oder Informationen von mir benötigen, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nIch freue mich __6__ Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfragen zum Arbeitsangebot als Marketing Manager",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für die rasche Zusendung des Arbeitsvertrags für die Position als Marketing Manager und das damit verbundene Vertrauen. Ich freue mich sehr über das Angebot und habe die Unterlagen detailliert geprüft.\n\nGrundsätzlich bin ich mit den vorgeschlagenen Konditionen einverstanden, __1__ haben sich beim Durchlesen noch einige Fragen ergeben, die ich gerne vorab klären würde. Zum einen bezieht sich meine Frage auf den genauen Verantwortungsbereich. Könnten Sie bitte __2__ unseres Gesprächs vom letzten Dienstag nochmals präzisieren, welche Projekte initial Priorität haben werden?\n\nDes Weiteren interessiert mich der Onboarding-Prozess. Gibt es einen strukturierten Einarbeitungsplan für die ersten Wochen und ist __3__ eine spezielle Produktschulung vorgesehen? Bezüglich der Benefits wird ein Firmenwagen erwähnt, __4__ die Reisetätigkeit 20% übersteigt. Zählt hierzu ausschließlich die Reisetätigkeit zu Kunden oder auch Fahrten zwischen verschiedenen Unternehmensstandorten?\n\nDa ich zeitnah eine Entscheidung treffen muss, wäre eine baldige Klärung dieser Punkte für mich sehr hilfreich. __5__ bitte ich um Ihr Verständnis für meine detaillierten Nachfragen.\n\nIch wäre Ihnen dankbar, wenn Sie mir __6__ eine kurze Rückmeldung geben könnten oder wir alternativ kurz telefonieren.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "andere"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Anspruch"
+            "content": "anhand"
         },
         {
             "id": "c",
-            "content": "auf"
+            "content": "anschließend"
         },
         {
             "id": "d",
-            "content": "da"
+            "content": "aufgrund"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "deswegen"
         },
         {
             "id": "f",
-            "content": "hiermit"
+            "content": "falls"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "hierzu"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "jedoch"
         },
         {
             "id": "i",
-            "content": "weitere"
+            "content": "sofern"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "somit"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "f"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "g"
         }
     ]
 }

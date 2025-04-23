@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager IT vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager IT vom 15. Mai.\n\n__1__ nun einige Wochen vergangen sind, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Position entspricht __2__ meinen Qualifikationen und beruflichen Zielen, und mein Interesse daran ist unverändert groß.\n\nIch bin nach __3__ vor sehr motiviert, mein Wissen und meine Erfahrung in Ihr Team einzubringen. Könnten Sie mir __4__ eine kurze Rückmeldung geben, wann mit einer Entscheidung zu rechnen ist?\n\n__5__ ich verstehe, dass der Auswahlprozess Zeit benötigt, wäre ich für eine kurze Information dankbar. Ich stehe Ihnen __6__ für Rückfragen oder ein weiteres Gespräch zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\nMax Mustermann",
+    "thema": "Nachfrage zur Genehmigung meiner Weiterbildung",
+    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich schreibe Ihnen bezüglich meines Antrags auf Genehmigung für die Weiterbildung „Projektmanagement Grundlagen“, den ich am 15. letzten Monats eingereicht habe.\n\n__1__ hieß es, dass über solche Anträge innerhalb von zwei Wochen entschieden wird. Leider habe ich bis heute noch keine Rückmeldung erhalten. Ich möchte höflich nach dem aktuellen Stand fragen, __2__ die Anmeldefrist für den Kurs bereits nächste Woche Freitag endet.\n\nKönnten Sie mir bitte mitteilen, __3__ es liegt, dass mein Antrag noch nicht bearbeitet wurde? Die Inhalte dieser Weiterbildung wären __4__ für meine aktuellen Projekte sehr hilfreich und würden es mir ermöglichen, effizienter zu arbeiten.\n\nIch benötige die Genehmigung bald, __5__ ich mich noch rechtzeitig für den Kurs anmelden kann.\n\nIch wäre Ihnen dankbar, wenn Sie mir __6__ eine Rückmeldung geben könnten.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Während"
+            "content": "damit"
         },
         {
             "id": "b",
-            "content": "etwa"
+            "content": "denn"
         },
         {
             "id": "c",
-            "content": "Obwohl"
+            "content": "deswegen"
         },
         {
             "id": "d",
-            "content": "wie"
+            "content": "eigentlich"
         },
         {
             "id": "e",
-            "content": "Gerne"
+            "content": "gerade"
         },
         {
             "id": "f",
-            "content": "Trotzdem"
+            "content": "sodass"
         },
         {
             "id": "g",
-            "content": "Da"
+            "content": "umgehend"
         },
         {
             "id": "h",
-            "content": "selbstverständlich"
+            "content": "ursprünglich"
         },
         {
             "id": "i",
-            "content": "genau"
+            "content": "weshalb"
         },
         {
             "id": "j",
-            "content": "Vielleicht"
+            "content": "woran"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "h"
         },
         {
             "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
-            "option_id": "d"
-        },
-        {
-            "blank": "4",
             "option_id": "b"
         },
         {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "g"
         }
     ]
 }

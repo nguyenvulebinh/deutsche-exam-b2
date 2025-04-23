@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] vom [Date]",
-    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nich beziehe mich auf meine Bewerbung für die Stelle als [Job Title], die ich Ihnen am [Date] zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, ohne dass ich eine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ möchte ich bei dieser Gelegenheit mein fortbestehendes Interesse an der Position bekräftigen. __3__ meiner Recherche über Ihr Unternehmen und die beschriebenen Aufgaben bin ich nach wie vor sehr von der Stelle angetan.\n\nFür ein persönliches Gespräch stehe ich Ihnen __4__ zur Verfügung und könnte auch kurzfristig einen Termin wahrnehmen.\n\nWäre es Ihnen __5__ möglich, mir eine kurze Auskunft zu geben, wann etwa mit einer Entscheidung zu rechnen ist?\n\nIch sehe Ihrer Antwort mit großem Interesse entgegen und freue mich __6__, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\n[Your Name]",
+    "thema": "Rückfragen zum Arbeitsangebot als Marketing Manager",
+    "textinhalt": "Sehr geehrte Frau Dr. Neumann,\n\nvielen Dank für das Arbeitsangebot für die Position als Marketing Manager, das ich gestern erhalten habe, sowie für das aufschlussreiche Gespräch in der vergangenen Woche. Ich freue mich sehr über Ihr Vertrauen und bin nach wie vor stark an dieser spannenden Herausforderung interessiert.\n\n__1__ hätte ich vor meiner endgültigen Zusage noch einige Punkte, zu denen ich um Klärung bitten möchte. Im Angebot wird der 1. September als Startdatum genannt. Wäre hier eine geringfügige Verschiebung auf den 15. September möglich, __2__ ich Mitte September eine seit langem geplante, wichtige familiäre Verpflichtung habe?\n\nIm Gespräch erwähnten Sie kurz eine mögliche Bonusstruktur. Könnten Sie mir __3__ bitte genauere Informationen zukommen lassen, wie diese gestaltet ist und an welche Ziele sie geknüpft ist?\n\nZuletzt bitte ich um eine Präzisierung __4__ des Umfangs der erwarteten internationalen Reisetätigkeit. Dies ist für meine persönliche Planung relevant.\n\n__5__ dieser offenen Fragen möchte ich nochmals betonen, wie sehr mich die Position und die Perspektiven in Ihrem Unternehmen reizen. Eine zeitnahe Rückmeldung zu diesen Punkten wäre für meine Entscheidungsfindung sehr hilfreich, __6__ bitte ich Sie um eine baldige Antwort.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "aufgrund"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "während"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "Zudem"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "trotzdem"
-        },
-        {
-            "id": "e",
-            "content": "eventuell"
-        },
-        {
-            "id": "f",
-            "content": "gerne"
-        },
-        {
-            "id": "g",
             "content": "da"
         },
         {
+            "id": "e",
+            "content": "daher"
+        },
+        {
+            "id": "f",
+            "content": "dazu"
+        },
+        {
+            "id": "g",
+            "content": "dennoch"
+        },
+        {
             "id": "h",
-            "content": "über"
+            "content": "jedoch"
         },
         {
             "id": "i",
-            "content": "auf"
+            "content": "obwohl"
         },
         {
             "id": "j",
-            "content": "wegen"
+            "content": "trotz"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
-        },
-        {
-            "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
             "option_id": "a"
         },
         {
-            "blank": "4",
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
             "option_id": "f"
         },
         {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "e"
         }
     ]
 }

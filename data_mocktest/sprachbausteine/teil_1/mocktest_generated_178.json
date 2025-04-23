@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Ref.-Nr. PM-123)",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich __1__ meine Bewerbung für die Stelle als Projektmanager (Ref.-Nr. PM-123), die ich Ihnen am 20. April zugesandt habe.\n\nDa seitdem bereits einige Zeit vergangen ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\nIch bin nach __2__ vor sehr an dieser Position interessiert, da die Aufgabenbeschreibung und die Entwicklungsmöglichkeiten in Ihrem Unternehmen mich besonders ansprechen.\n\n__3__ meiner langjährigen Erfahrung im Projektmanagement, insbesondere im Bereich IT-Projekte, bin ich überzeugt, die Anforderungen der Stelle gut erfüllen zu können.\n\nKönnten Sie mir __4__ mitteilen, wann etwa mit einer Entscheidung oder weiteren Schritten im Bewerbungsprozess zu rechnen ist?\n\nIch möchte __5__ betonen, dass mein Interesse an einer Zusammenarbeit weiterhin groß ist.\nSelbstverständlich stehe ich Ihnen für Rückfragen __6__ zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Ausstellung meines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\n__1__ meines zum TT.MM.JJJJ beendeten Arbeitsverhältnisses als [Ihre Position] in Ihrer Abteilung [Name der Abteilung, falls relevant] möchte ich Sie __2__ um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten.\n\nIch wäre Ihnen dankbar, wenn Sie mir das Zeugnis __3__ der nächsten vier Wochen zukommen lassen könnten. Bitte senden Sie es per Post an meine aktuelle Adresse: [Ihre Straße und Hausnummer], [Ihre PLZ und Stadt]. Ich benötige das Dokument zeitnah, __4__ ich es meinen zukünftigen Bewerbungsunterlagen beifügen kann.\n\nSollte der Postweg nicht möglich sein, informieren Sie mich bitte kurz per E-Mail. __5__, gehe ich davon aus, dass die Zusendung postalisch erfolgt. Meine Kontaktdaten (Telefon, E-Mail) liegen Ihnen ja __6__ aus meiner Personalakte vor.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Aufgrund"
+            "content": "andernfalls"
         },
         {
             "id": "b",
-            "content": "eventuell"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "wie"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "über"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "daraufhin"
         },
         {
             "id": "f",
-            "content": "auf"
+            "content": "deshalb"
         },
         {
             "id": "g",
-            "content": "Trotz"
+            "content": "hiermit"
         },
         {
             "id": "h",
-            "content": "jederzeit"
+            "content": "innerhalb"
         },
         {
             "id": "i",
-            "content": "nochmals"
+            "content": "sobald"
         },
         {
             "id": "j",
-            "content": "so"
+            "content": "trotz"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
             "option_id": "c"
         },
         {
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
             "blank": "3",
-            "option_id": "a"
+            "option_id": "h"
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "i"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "b"
         }
     ]
 }

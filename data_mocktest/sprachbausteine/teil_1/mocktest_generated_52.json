@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager/-in vom 15. Mai 2024 – Kennziffer PM-2024-08",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich schreibe Ihnen __1__ meiner Bewerbung auf die Stelle als Projektmanager/-in vom 15. Mai (Kennziffer PM-2024-08), für die ich auch bereits eine Empfangsbestätigung erhalten habe.\n\nDa __2__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich __3__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist selbstverständlich bewusst, dass eine sorgfältige Prüfung aller Bewerbungen Zeit __4__. Dennoch wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, __5__ voraussichtlich mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist.\n\nIch möchte bei dieser Gelegenheit nochmals betonen, dass ich __6__ sehr an dieser Position in Ihrem Unternehmen interessiert bin und mich über die Möglichkeit eines persönlichen Gesprächs freuen würde.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMarkus Schmidt",
+    "thema": "Bestätigung Teilnahme Workshop & Rückfragen",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\n__1__ bestätige ich Ihnen meine Teilnahme am obligatorischen Workshop \"Effektive Teamkommunikation\" am kommenden Freitag, den 25. Oktober. Ich freue mich bereits auf die Inhalte und den Austausch mit den Kollegen.\n\n__2__ habe ich an diesem Vormittag einen wichtigen, unaufschiebbaren Kundentermin, der bereits vor Bekanntgabe des Workshop-Termins vereinbart wurde. Wäre es eventuell möglich, dass ich erst gegen Mittag, ca. 12:30 Uhr, dazustoße?\n\nKönnten Sie mir bitte __3__ mitteilen, ob es spezifische Materialien oder Aufgaben gibt, die zur Vorbereitung auf den Workshop notwendig sind? Ich möchte gerne gut vorbereitet teilnehmen und wäre dankbar für Informationen, __4__ eine solche Vorbereitung erwartet wird und welche Themenbereiche sie gegebenenfalls abdeckt.\n\n__5__ eine Teilnahme meinerseits erst ab Mittag genehmigt wird, würde ich die verpassten Inhalte selbstverständlich eigenständig nacharbeiten. Bitte geben Sie mir kurz Bescheid, ob dies eine gangbare Lösung ist. __6__ werde ich meine Planung für den Tag entsprechend organisieren.\n\nVielen Dank im Voraus für Ihr Verständnis und Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "deshalb"
+            "content": "daraufhin"
         },
         {
             "id": "b",
-            "content": "erfordert"
+            "content": "dennoch"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "hiermit"
         },
         {
             "id": "d",
-            "content": "inzwischen"
+            "content": "inwiefern"
         },
         {
             "id": "e",
-            "content": "wann"
+            "content": "obwohl"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "sofern"
         },
         {
             "id": "g",
-            "content": "bezüglich"
+            "content": "somit"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "stattdessen"
         },
         {
             "id": "i",
-            "content": "trotz"
+            "content": "vorab"
         },
         {
             "id": "j",
-            "content": "hiermit"
+            "content": "weshalb"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
             "option_id": "b"
         },
         {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "d"
+        },
+        {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "a"
         }
     ]
 }

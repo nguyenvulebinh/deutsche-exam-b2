@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Kennziffer PM-123) vom 10. April",
-    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nbezugnehmend auf meine Bewerbung vom 10. April für die ausgeschriebene Stelle als Projektmanager (Kennziffer PM-123) und unser kurzes Telefongespräch am 18. April möchte ich mich höflich __1__, wie der aktuelle Stand des Auswahlverfahrens ist.\n\nDa __2__ einige Wochen vergangen sind und Sie im Telefongespräch eine Rückmeldung bis Ende April in Aussicht gestellt hatten, wollte ich nachhören.\n\nIch möchte __3__ mein großes Interesse an dieser Position bekräftigen. Die Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen entsprechen __4__ meinen Qualifikationen und beruflichen Zielen.\n\nWäre es Ihnen __5__, mir eine kurze Information zukommen zu lassen, __6__ mit einer Entscheidung gerechnet werden kann?\n\nIch freue mich auf Ihre Rückmeldung und verbleibe\n\nmit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Zusammenfassung und nächste Schritte – Teammeeting XYZ",
+    "textinhalt": "Sehr geehrte Kolleginnen und Kollegen,\n\nich beziehe mich auf unser Teammeeting vom vergangenen Montag, in dem wir die Einführung der neuen Projektmanagement-Software beschlossen haben. Das Protokoll wurde bereits versandt.\n\n__1__ gibt es beim geplanten Lizenzkauf aktuell eine unerwartete Verzögerung. Diese besteht __2__ technischer Probleme mit der Online-Bestellplattform des Anbieters, die derzeit gewartet wird.\n\nIch habe __3__ mit unserer IT-Abteilung Rücksprache gehalten. Sie prüfen alternative Beschaffungswege, __4__ wir die Software wie geplant bis Ende des Monats implementieren können.\n\n__5__ es zu weiteren nennenswerten Verzögerungen kommen sollte, werde ich Sie selbstverständlich umgehend informieren. __6__ bitte ich alle Beteiligten, die bereits definierten vorbereitenden Aufgaben (z.B. Datenmigration vorbereiten, Schulungsbedarf melden) wie im Zeitplan vorgesehen fortzusetzen.\n\nVielen Dank für Ihr Verständnis und Ihre Mitarbeit.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Teamleiter Name]",
     "options": [
         {
             "id": "a",
-            "content": "während"
+            "content": "Allerdings"
         },
         {
             "id": "b",
-            "content": "möglich"
+            "content": "Aufgrund"
         },
         {
             "id": "c",
-            "content": "genau"
+            "content": "Außerdem"
         },
         {
             "id": "d",
-            "content": "wann"
+            "content": "Damit"
         },
         {
             "id": "e",
-            "content": "erkundigen"
+            "content": "Deswegen"
         },
         {
             "id": "f",
-            "content": "informieren"
+            "content": "Inzwischen"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "Jedoch"
         },
         {
             "id": "h",
-            "content": "hiermit"
+            "content": "Obwohl"
         },
         {
             "id": "i",
-            "content": "wichtig"
+            "content": "Sofern"
         },
         {
             "id": "j",
-            "content": "inzwischen"
+            "content": "Trotz"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "h"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
             "option_id": "d"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
         }
     ]
 }

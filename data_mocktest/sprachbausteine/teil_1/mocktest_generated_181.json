@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15.08.2024",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 15. August 2024 zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, möchte ich mich __2__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser spannenden Aufgabe und Ihrem Unternehmen ist __3__ sehr groß. Die in der Stellenausschreibung beschriebenen Tätigkeiten entsprechen genau meinen Vorstellungen und Qualifikationen.\n\nKönnten Sie mir vielleicht mitteilen, __4__ ungefähr mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist? Diese Information wäre für meine weitere Planung sehr hilfreich, __5__ ich auch andere Fristen berücksichtigen muss.\n\nFür Rückfragen __6__ meinen eingereichten Unterlagen stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen und eine kurze Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage zu Service-Anpassungen nach Beratung",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für das informative Beratungsgespräch am vergangenen Dienstag zu Ihrem Servicepaket „Effizienz Plus“. Wir sind grundsätzlich sehr interessiert, dieses in unserer Marketingabteilung einzuführen.\n\nWir haben __1__ jedoch noch einige spezifische Fragen zur Anpassbarkeit. Könnten Sie uns bitte erläutern, __2__ die Reporting-Funktionen an unsere internen Kennzahlensysteme angepasst werden können? Dies ist für uns ein kritischer Punkt, __3__ wir gesetzliche Berichtspflichten erfüllen müssen, die spezielle Formate erfordern.\n\n__4__ benötigen wir die Möglichkeit, eigene Templates für die Kundenkommunikation zu integrieren. Ihre Standardvorlagen sind gut, __5__ passen sie nicht hundertprozentig zu unserer Corporate Identity.\n\nKönnten Sie uns bitte auch Informationen __6__ der Implementierungsdauer und des dafür notwendigen Supports zukommen lassen?\n\nWir freuen uns auf Ihre Rückmeldung und hoffen auf eine baldige Klärung dieser Punkte.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Firmenname]",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "dazu"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "ferner"
         },
         {
             "id": "c",
-            "content": "hiermit"
+            "content": "gleichwohl"
         },
         {
             "id": "d",
-            "content": "inzwischen"
+            "content": "hierzu"
         },
         {
             "id": "e",
-            "content": "obwohl"
+            "content": "hinsichtlich"
         },
         {
             "id": "f",
-            "content": "seitdem"
+            "content": "inwiefern"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "wann"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "wodurch"
         },
         {
             "id": "j",
-            "content": "zu"
+            "content": "zumal"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "i"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "c"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "e"
         }
     ]
 }

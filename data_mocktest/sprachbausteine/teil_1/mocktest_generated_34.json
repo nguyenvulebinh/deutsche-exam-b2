@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer MM-451)",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nbezugnehmend auf meine Bewerbung vom 25. Mai für die ausgeschriebene Stelle als Marketing Manager (Kennziffer MM-451) möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMir ist __1__ bewusst, dass die sorgfältige Prüfung aller Bewerbungsunterlagen eine gewisse Zeit in Anspruch nimmt. Da nun aber __2__ einige Wochen vergangen sind, seitdem die Bewerbungsfrist abgelaufen ist, wollte ich nachfragen, ob es bereits erste Neuigkeiten gibt.\n\nIch bin __3__ sehr stark an dieser Position in Ihrem Unternehmen interessiert und nach wie vor davon überzeugt, dass meine Qualifikationen und Erfahrungen sehr gut zu den Anforderungen der Stelle passen würden.\n\nKönnten Sie mir __4__ mitteilen, ob bereits absehbar ist, wann ungefähr mit einer Rückmeldung oder den nächsten Schritten im Prozess zu rechnen ist? \n\n__5__ Sie zwischenzeitlich weitere Informationen oder Unterlagen von mir benötigen sollten, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen und eine kurze Rückmeldung __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Bitte um Feedback zur Projektpräsentation vom 15. Mai",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich hoffe, diese E-Mail findet Sie gut.\n\nIch schreibe Ihnen __1__ meiner Projektpräsentation zum Thema „Effizienzsteigerung im Kundenservice“ vom vergangenen Dienstag, dem 15. Mai. Ich habe die Präsentation __2__ noch einmal reflektiert und würde mich sehr über Ihr ehrliches Feedback freuen.\n\nKonstruktive Rückmeldungen sind für meine berufliche Weiterentwicklung sehr wichtig, __3__ ich meine Präsentationsfähigkeiten und die inhaltliche Aufbereitung zukünftig verbessern kann. Besonders Ihre Einschätzung zur Klarheit der Argumentation und zur Verständlichkeit der vorgeschlagenen Maßnahmen wäre für mich wertvoll.\n\nIch bin mir bewusst, dass Ihr Zeitplan sehr eng ist. __4__ wäre ich Ihnen dankbar, wenn Sie sich kurz Zeit für ein paar Anmerkungen nehmen könnten – sei es per E-Mail oder in einem kurzen Gespräch. Feedback ist für mich __5__ besonders hilfreich, wenn es konkrete Verbesserungsvorschläge enthält. Aber natürlich freue ich mich auch über positive Rückmeldungen oder __6__ über Hinweise, was gut angekommen ist.\n\nBitte lassen Sie mich wissen, ob und wann Sie Gelegenheit für ein kurzes Feedback hätten.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "ob"
+            "content": "anschließend"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "danach"
         },
         {
             "id": "d",
-            "content": "Falls"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "selbstverständlich"
+            "content": "insofern"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "inzwischen"
+            "content": "sogar"
         },
         {
             "id": "h",
-            "content": "eventuell"
+            "content": "somit"
         },
         {
             "id": "i",
-            "content": "seitdem"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "im Voraus"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
             "option_id": "d"
         },
         {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "g"
         }
     ]
 }

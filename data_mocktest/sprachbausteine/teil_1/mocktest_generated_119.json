@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich schreibe Ihnen __1__ meiner Bewerbung als Marketingassistent vom 15. Mai. __2__ seit meiner Einreichung nun einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __3__ genau meinen beruflichen Vorstellungen und Erfahrungen. Besonders die Möglichkeit, im Bereich Social Media Marketing mitzuwirken, reizt mich sehr.\n\nIch wäre Ihnen dankbar, wenn Sie mir mitteilen könnten, __4__ ungefähr mit einer Entscheidung zu rechnen ist. Eine zeitnahe Information wäre für meine weitere Planung sehr __5__.\n\nSelbstverständlich stehe ich Ihnen für Rückfragen oder ein persönliches Gespräch __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Nachfrage zum Stand unseres Projektvorschlags",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ unseres Projektvorschlags „Optimierung der internen Logistik“, den wir Ihnen am 15. Mai übermittelt haben, möchten wir uns nach dem aktuellen Bearbeitungsstand erkundigen.\n\nFür unsere weitere Planung wäre eine zeitnahe Rückmeldung sehr hilfreich. __2__ bitten wir Sie höflich um eine kurze Information, wann wir ungefähr mit einer Entscheidung rechnen können. Wir verstehen selbstverständlich, dass Sie derzeit viele Projekte prüfen.\n\n__3__ hoffen wir auf Ihr Verständnis für unsere Nachfrage, da die Implementierung dieses Projekts für uns von strategischer Bedeutung ist. __4__ möchten wir anfragen, __5__ Sie eventuell noch zusätzliche Informationen oder Unterlagen von unserer Seite benötigen.\n\n__6__ stehen wir Ihnen jederzeit gerne zur Verfügung. Teilen Sie uns einfach mit, was benötigt wird.\n\nWir danken Ihnen im Voraus für Ihre Bemühungen und sehen Ihrer Antwort mit Interesse entgegen.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Firma]",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "Dabei"
         },
         {
             "id": "b",
-            "content": "hilfreich"
+            "content": "Deswegen"
         },
         {
             "id": "c",
-            "content": "wegen"
+            "content": "Hierfür"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "Hinsichtlich"
         },
         {
             "id": "e",
-            "content": "jederzeit"
+            "content": "Nachdem"
         },
         {
             "id": "f",
-            "content": "bezüglich"
-        },
-        {
-            "id": "g",
-            "content": "wann"
-        },
-        {
-            "id": "h",
-            "content": "bereits"
-        },
-        {
-            "id": "i",
             "content": "ob"
         },
         {
+            "id": "g",
+            "content": "Obwohl"
+        },
+        {
+            "id": "h",
+            "content": "Trotzdem"
+        },
+        {
+            "id": "i",
+            "content": "Wegen"
+        },
+        {
             "id": "j",
-            "content": "nach wie vor"
+            "content": "Zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
             "option_id": "d"
         },
         {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
+            "blank": "2",
             "option_id": "b"
         },
         {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "c"
         }
     ]
 }

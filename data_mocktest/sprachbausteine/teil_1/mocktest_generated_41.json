@@ -1,72 +1,72 @@
 {
-    "thema": "Nachfrage zu meinem Vorstellungsgespräch am [Datum] als [Position]",
-    "textinhalt": "Sehr geehrte/r Frau/Herr [Name],\n\nich beziehe mich auf mein Vorstellungsgespräch für die Position als [Job Title] am [Date], für das ich mich nochmals herzlich bedanken möchte. Das Gespräch hat meinen positiven Eindruck __1__ bestätigt und mein großes Interesse an dieser Tätigkeit weiter verstärkt.\n\nBesonders __2__ fand ich die offene Diskussion über die zukünftigen Herausforderungen im Team. Ich bin nach wie vor davon überzeugt, dass meine Fähigkeiten und Erfahrungen gut zu den Anforderungen passen __3__.\n\nDa nun seit dem Gespräch __4__ Zeit vergangen ist, wollte ich mich höflich erkundigen, ob Sie möglicherweise schon absehen können, wann mit einer Entscheidung zu rechnen ist. Mir ist __5__ bewusst, dass ein sorgfältiger Auswahlprozess Zeit benötigt.\n\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen jederzeit gerne zur Verfügung.\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Nachfrage zum Stand unseres Angebots",
+    "textinhalt": "Sehr geehrte Frau Dr. Keller,\n\nwir beziehen uns auf unser Angebot vom 15. Mai bezüglich der Projektentwicklung „Neustart Digital“, das wir Ihnen fristgerecht zugesandt haben. __1__ sind nun einige Wochen vergangen, und wir möchten uns höflich nach dem aktuellen Stand erkundigen.\n\n__2__ wir unsere internen Ressourcen und Kapazitäten für das kommende Quartal planen müssen, wäre eine kurze Rückmeldung für uns sehr hilfreich. Wir wären Ihnen dankbar, wenn Sie uns mitteilen könnten, __3__ bereits eine Vorentscheidung getroffen wurde oder wann wir ungefähr mit einer Rückmeldung rechnen können.\n\nSollten sich Ihrerseits Fragen ergeben haben, stehen wir Ihnen selbstverständlich gerne zur Verfügung, insbesondere __4__ der Details der vorgeschlagenen Implementierungsphasen. Wir sind hier flexibel und offen für Anpassungen.\n\n__5__ möchten wir unser starkes Interesse an einer Zusammenarbeit bekräftigen. Das Projekt passt ideal zu unserer strategischen Ausrichtung.\n\nIhrer baldigen Antwort sehen wir mit Interesse __6__.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Firmenname]",
     "options": [
         {
             "id": "a",
-            "content": "ansprechend"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "daher"
         },
         {
             "id": "c",
-            "content": "einige"
+            "content": "danach"
         },
         {
             "id": "d",
-            "content": "erneut"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "etwas"
+            "content": "entgegen"
         },
         {
             "id": "f",
-            "content": "Falls"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "könnten"
+            "content": "inzwischen"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "neben"
         },
         {
             "id": "i",
-            "content": "selbstverständlich"
+            "content": "ob"
         },
         {
             "id": "j",
-            "content": "würden"
+            "content": "wann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
-            "blank": "6",
+            "blank": "4",
             "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "e"
         }
     ]
 }

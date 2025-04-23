@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage nach meinem Vorstellungsgespräch am 15. Mai als Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich möchte mich nochmals herzlich für das angenehme Vorstellungsgespräch am 15. Mai für die Position als Projektmanager bedanken.\n\nDas Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __1__ bestätigt und mein Interesse an der Stelle weiter __2__. Ich bin __3__ davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen der ausgeschriebenen Position passen.\n\n__4__ möchte ich mich höflich erkundigen, wie der weitere Auswahlprozess aussieht und wann __5__ mit einer Entscheidung zu rechnen ist.\n\n__6__ Sie in der Zwischenzeit weitere Informationen oder Unterlagen benötigen sollten, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nwie Sie wissen, endet mein Arbeitsverhältnis mit der TechSolutions GmbH zum 31. Oktober dieses Jahres. __1__ meines bevorstehenden Austritts möchte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten.\n\nIch benötige dieses Dokument für meine zukünftigen Bewerbungsunterlagen, __2__ wäre ich Ihnen dankbar, wenn Sie die Erstellung zeitnah veranlassen könnten.\n\nIch bitte __3__ um ein *qualifiziertes* Zeugnis, das neben den Tätigkeitsbeschreibungen auch eine Bewertung meiner Leistungen und meines Sozialverhaltens enthält. __4__ Sie zur detaillierten Beschreibung meiner Projekte oder Aufgaben Rückfragen haben, stehe ich Ihnen gerne für ein kurzes Gespräch zur Verfügung.\n\nKönnten Sie mir __5__ eine kurze Auskunft geben, mit welcher Bearbeitungszeit ich ungefähr rechnen muss?\n\nIch bedanke mich __6__ jetzt für Ihre Mühe und Unterstützung in dieser Angelegenheit.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "ausschließlich"
         },
         {
             "id": "b",
-            "content": "gestiegen"
+            "content": "ausdrücklich"
         },
         {
             "id": "c",
-            "content": "Daher"
+            "content": "bereits"
         },
         {
             "id": "d",
-            "content": "weiterhin"
+            "content": "daher"
         },
         {
             "id": "e",
-            "content": "trotzdem"
+            "content": "diesbezüglich"
         },
         {
             "id": "f",
-            "content": "ungefähr"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "durchaus"
+            "content": "laut"
         },
         {
             "id": "h",
-            "content": "Falls"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "gesteigert"
+            "content": "sofern"
         },
         {
             "id": "j",
-            "content": "genau"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
-            "option_id": "d"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "c"
         }
     ]
 }

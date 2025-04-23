@@ -1,10 +1,10 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Muster,\n\nich beziehe mich auf meine Bewerbung als Projektmanager, die ich Ihnen am 15. Mai zugesendet habe.\n\nDa seitdem bereits einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist durchaus bewusst, dass die sorgfältige Prüfung zahlreicher Bewerbungen Zeit in Anspruch nimmt, __1__ möchte ich mein starkes Interesse an der Position bekräftigen.\n\nKönnten Sie mir eventuell eine kurze Auskunft geben, __2__ ungefähr mit einer ersten Rückmeldung oder Entscheidung zu rechnen ist? Mein Interesse an einer Mitarbeit in Ihrem Unternehmen ist __3__ sehr groß.\n\n__4__ der spannenden Projektbeschreibungen auf Ihrer Webseite bin ich überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen passen würden.\n\nSollten Sie __5__ noch weitere Unterlagen oder Informationen von mir benötigen, lasse ich Ihnen diese selbstverständlich __6__ zukommen.\n\nIch würde mich sehr über eine baldige Nachricht von Ihnen freuen.\n\nMit freundlichen Grüßen,\nMax Schmidt",
+    "thema": "Reklamation Lieferung vom 15.08.2024 - Bestellnr. B45-2024",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nam 15. August 2024 erhielten wir die Lieferung zu unserer Bestellung B45-2024. Die Zustellung erfolgte pünktlich, __1__ mussten wir bei der Überprüfung der Ware erhebliche Mängel feststellen.\n\nEin großer Teil der gelieferten Glasvasen (Artikel Nr. GV-08) weist deutliche Sprünge und Absplitterungen auf. __2__ dieser Beschädigungen sind die Vasen für den Weiterverkauf unbrauchbar. __3__ fehlte bei der Lieferung der ebenfalls bestellte Artikel Ständer ST-03 vollständig, obwohl er auf dem Lieferschein aufgeführt ist.\n\nWir benötigen die bestellte Ware dringend für eine bevorstehende Veranstaltung. __4__ bitten wir Sie um eine schnelle Klärung dieser Angelegenheit. Bitte teilen Sie uns __5__ mit, wie Sie gedenken, das Problem zu lösen – bevorzugt wäre eine Ersatzlieferung der beschädigten und fehlenden Artikel.\n\nWir bitten um Ihre Rückmeldung innerhalb der nächsten fünf Werktage. __6__ sehen wir uns gezwungen, vom Kaufvertrag zurückzutreten und gegebenenfalls weitere rechtliche Schritte zu prüfen.\n\nMit freundlichen Grüßen,\n\n[Ihr Name / Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "aufgrund"
+            "content": "ansonsten"
         },
         {
             "id": "b",
@@ -12,19 +12,19 @@
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "gleichwohl"
         },
         {
             "id": "d",
-            "content": "wann"
+            "content": "obwohl"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "sodass"
         },
         {
             "id": "f",
-            "content": "zusätzlich"
+            "content": "sofort"
         },
         {
             "id": "g",
@@ -36,37 +36,37 @@
         },
         {
             "id": "i",
-            "content": "später"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "dennoch"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
             "option_id": "c"
         },
         {
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
             "blank": "4",
-            "option_id": "a"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "a"
         }
     ]
 }

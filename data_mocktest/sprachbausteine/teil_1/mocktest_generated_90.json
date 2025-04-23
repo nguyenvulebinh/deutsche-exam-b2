@@ -1,68 +1,68 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 10. April",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent vom 10. April und bedanke mich für die Eingangsbestätigung.\n\n__1__ sind seit dem Bewerbungsschluss nun einige Wochen vergangen, __2__ wollte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlverfahrens ist.\n\nIch bin __3__ sehr an dieser Position interessiert, da die Aufgabenbeschreibung genau meinen Fähigkeiten und beruflichen Zielen entspricht. Die Möglichkeit, in einem dynamischen Team wie Ihrem zu arbeiten, reizt mich besonders.\n\n__4__ Sie mir eventuell eine kurze Rückmeldung geben, bis wann ungefähr mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Prozess Zeit braucht, eine ungefähre Zeitangabe wäre jedoch sehr hilfreich für meine weitere Planung.\n\n__5__ zusätzliche Informationen oder Unterlagen von meiner Seite benötigt werden, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nFür Rückfragen erreichen Sie mich __6__ telefonisch oder per E-Mail.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Verschiebung Vorstellungsgespräch Projektmanager",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch am Dienstag, den 15. August, um 14:00 Uhr bezüglich der Stelle als Projektmanager.\n\n__1__ muss ich Ihnen mitteilen, dass ich diesen Termin nicht wahrnehmen kann. __2__ eines kurzfristig anberaumten, unaufschiebbaren Arzttermins bin ich an diesem Nachmittag leider verhindert. Ich bedauere die dadurch entstehenden Unannehmlichkeiten sehr.\n\n__3__ wäre ich Ihnen außerordentlich dankbar, wenn wir das Gespräch auf einen anderen Tag verlegen könnten. Ich bin nach wie vor sehr an der Position interessiert. __4__ ich meine genaue Verfügbarkeit für die Folgewoche kenne, melde ich mich umgehend mit konkreten Terminvorschlägen bei Ihnen.\n\nIch bitte höflich um Ihr Verständnis __5__ und hoffe sehr, dass eine Verschiebung möglich ist. Über eine positive Rückmeldung würde ich mich freuen und hoffe, __6__ von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Falls"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "inzwischen"
+            "content": "aufgrund"
         },
         {
             "id": "c",
-            "content": "jederzeit"
+            "content": "bald"
         },
         {
             "id": "d",
-            "content": "Könnten"
+            "content": "dafür"
         },
         {
             "id": "e",
-            "content": "Müssten"
-        },
-        {
-            "id": "f",
-            "content": "obwohl"
-        },
-        {
-            "id": "g",
-            "content": "seitdem"
-        },
-        {
-            "id": "h",
             "content": "deshalb"
         },
         {
-            "id": "i",
+            "id": "f",
+            "content": "leider"
+        },
+        {
+            "id": "g",
+            "content": "sobald"
+        },
+        {
+            "id": "h",
             "content": "trotzdem"
         },
         {
+            "id": "i",
+            "content": "wegen"
+        },
+        {
             "id": "j",
-            "content": "weiterhin"
+            "content": "wenn"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "a"
+            "option_id": "d"
         },
         {
             "blank": "6",

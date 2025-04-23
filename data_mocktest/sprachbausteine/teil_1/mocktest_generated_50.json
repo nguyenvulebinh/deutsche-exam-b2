@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage nach Vorstellungsgespräch am 15. Mai - Bewerbung als Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich noch einmal herzlich für das angenehme Vorstellungsgespräch am 15. Mai __1__ die Position als Projektmanager bedanken.\n\nDas Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen __2__ und mein Interesse an der Stelle weiter verstärkt. Besonders die Diskussion über die agilen Projektmanagementmethoden fand ich sehr aufschlussreich, __3__ dies genau meinen Erfahrungen und Stärken entspricht.\n\nSie erwähnten, dass Sie sich __4__ Ende dieser Woche bezüglich der nächsten Schritte melden würden.\n\n__5__ Sie weitere Informationen oder Referenzen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung. Ich bin nach wie vor sehr an der Position interessiert und würde mich freuen, __6__ von Ihnen zu hören.\n\nMit freundlichen Grüßen,\n\nMax Mustermann",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nhiermit möchte ich __1__ meiner früheren Tätigkeit als Marketing Manager in Ihrer Abteilung Vertrieb & Marketing vom 01.04.2021 bis zum 31.10.2023 um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten.\n\n__2__ ich mich derzeit aktiv auf neue Stellen bewerbe, ist ein aktuelles und aussagekräftiges Zeugnis für meine Unterlagen unerlässlich. Ich wäre Ihnen dankbar, wenn Sie mir ein sogenanntes qualifiziertes Arbeitszeugnis ausstellen könnten, das __3__ auch Angaben zu meiner Leistung und meinem Sozialverhalten enthält.\n\nKönnten Sie mir __4__ mitteilen, wie lange die Bearbeitung voraussichtlich dauern wird? Sollte der Postweg längere Zeit in Anspruch nehmen, wäre ich __5__ auch bereit, das Dokument nach Terminvereinbarung persönlich bei Ihnen im Büro abzuholen.\n\nIch bedanke mich im Voraus herzlich für Ihre Mühe und Unterstützung __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "bald"
+            "content": "alternativ"
         },
         {
             "id": "b",
-            "content": "bestätigt"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "bis"
-        },
-        {
-            "id": "d",
             "content": "da"
         },
         {
+            "id": "d",
+            "content": "dafür"
+        },
+        {
             "id": "e",
-            "content": "Falls"
+            "content": "dennoch"
         },
         {
             "id": "f",
-            "content": "für"
+            "content": "ebenfalls"
         },
         {
             "id": "g",
-            "content": "innerhalb"
+            "content": "eventuell"
         },
         {
             "id": "h",
-            "content": "Ob"
+            "content": "insbesondere"
         },
         {
             "id": "i",
-            "content": "obwohl"
+            "content": "nämlich"
         },
         {
             "id": "j",
-            "content": "sofort"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
             "option_id": "b"
         },
         {
-            "blank": "3",
-            "option_id": "d"
-        },
-        {
-            "blank": "4",
+            "blank": "2",
             "option_id": "c"
         },
         {
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "d"
         }
     ]
 }

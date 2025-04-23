@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing-Assistent (Kennziffer MA-123)",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing-Assistent (Kennziffer MA-123), die ich Ihnen am 20. April über Ihr Online-Portal zukommen ließ. Für die Eingangsbestätigung danke ich Ihnen.\n\n__1__ wollte ich mich höflich erkundigen, ob Sie mir bereits eine erste Rückmeldung zum Stand des Auswahlverfahrens geben können, da inzwischen einige Zeit vergangen ist.\n\nIch bin __2__ sehr an dieser Position interessiert, __3__ die Aufgabenbeschreibung genau meinen Fähigkeiten und beruflichen Zielen entspricht. Die Möglichkeit, in einem dynamischen Umfeld wie dem Ihren tätig zu sein, reizt mich besonders.\n\nKönnten Sie mir __4__ einen kurzen Hinweis geben, wann etwa mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist?\n\nFür Rückfragen oder ein persönliches Gespräch stehe ich Ihnen selbstverständlich __5__ zur Verfügung.\n\n__6__ Sie zusätzliche Informationen oder aktualisierte Unterlagen von mir benötigen, lassen Sie es mich bitte umgehend wissen.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage fehlende Dokumentation zur Lieferung XYZ",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\n__1__ wir am 20. Juni Ihre Lieferung (Bestellnr. L-458-2B) erhalten haben, konnten wir die Vollständigkeit der gelieferten Hardwarekomponenten bestätigen. Alles scheint physisch korrekt angekommen zu sein.\n\n__2__ müssen wir feststellen, dass die zugehörigen technischen Handbücher sowie die Software-Lizenzzertifikate fehlen. Diese Dokumente sind für die Inbetriebnahme und die interne Abnahme unerlässlich. __3__ bitten wir Sie höflich um die umgehende Nachsendung.\n\nWir benötigen insbesondere die detaillierten Installationsanleitungen __4__ der Steuerungssoftware und des Wartungsprotokolls. Ohne diese können unsere Techniker die Integration nicht abschließen.\n\n__5__ eine elektronische Übermittlung dieser Dokumente per E-Mail nicht möglich ist, geben Sie uns bitte Bescheid, damit wir eine alternative Zustellung per Post vereinbaren können.\n\nWir bitten Sie, uns __6__ eine Rückmeldung zu geben und die fehlenden Unterlagen bis spätestens Ende der Kalenderwoche 26 zukommen zu lassen.\n\nVielen Dank für Ihre Kooperation.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "Wenn"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "Daher"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "vielleicht"
+            "content": "falls"
         },
         {
             "id": "e",
-            "content": "weiterhin"
+            "content": "ob"
         },
         {
             "id": "f",
-            "content": "Während"
+            "content": "seitdem"
         },
         {
             "id": "g",
-            "content": "gerne"
+            "content": "trotzdem"
         },
         {
             "id": "h",
-            "content": "Falls"
+            "content": "über"
         },
         {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "weil"
         },
         {
             "id": "j",
-            "content": "da"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "j"
         }
     ]
 }

@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Klein,\n\n__1__ meine Bewerbung als Marketingassistent vom 25. April möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nEs sind __2__ einige Wochen vergangen, seitdem ich meine Unterlagen bei Ihnen eingereicht habe. Ich bin __3__ sehr an der ausgeschriebenen Position interessiert, da die beschriebenen Aufgaben und Ihr Unternehmen außerordentlich gut zu meinem Profil passen.\n\n__4__ es für meine weitere berufliche Planung wichtig wäre, eine zeitliche Einschätzung zu haben, wollte ich fragen, __5__ ungefähr mit einer Rückmeldung oder einer Entscheidung zu rechnen ist.\n\nFür Rückfragen __6__ meiner Bewerbung oder zu meiner Person stehe ich Ihnen selbstverständlich jederzeit gerne telefonisch oder per E-Mail zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich interner Weiterbildungsmaßnahmen",
+    "textinhalt": "Sehr geehrte Frau Kleinert,\n\nich schreibe Ihnen bezüglich der auf der Firmenwebseite vorgestellten Möglichkeiten zur beruflichen Weiterbildung. Ich habe die allgemeinen Informationen dazu gelesen, __1__ ergeben sich für mich noch einige spezifische Fragen zum genauen Ablauf.\n\nKönnten Sie mir bitte Auskunft __2__ der Antragsfristen für das nächste Quartal geben? __3__ wäre es für mich wichtig zu erfahren, welche internen Genehmigungsschritte notwendig sind, bevor man sich anmelden kann.\n\nAktuell bin ich stark in das Projekt \"Alpha\" eingebunden, __4__ ich großes Interesse an dem Seminar \"Effektives Zeitmanagement\" hätte, das im kommenden Monat angeboten wird. Könnten Sie mir bitte mitteilen, __5__ dies meine Teilnahmemöglichkeit beeinflusst? Ich möchte sichergehen, bevor ich einen formalen Antrag stelle. Können Sie mir abschließend sagen, wo ich die detaillierten Teilnahmevoraussetzungen __6__ nachlesen kann?\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "inzwischen"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "Über"
+            "content": "etwa"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "falls"
         },
         {
             "id": "e",
-            "content": "bezugnehmend auf"
+            "content": "genau"
         },
         {
             "id": "f",
-            "content": "Wegen"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "wann"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "zu"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "nach wie vor"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "Ob"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "j"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "i"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "h"
+            "option_id": "e"
         }
     ]
 }

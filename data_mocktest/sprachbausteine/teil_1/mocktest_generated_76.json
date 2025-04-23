@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch am 15. Mai als Projektmanager",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich zunächst herzlich für das informative und angenehme Vorstellungsgespräch am 15. Mai für die Position als Projektmanager bedanken. __1__ wir besprochen hatten, finde ich die strategische Neuausrichtung Ihrer Projektabteilung besonders spannend.\n\n__2__ des sehr positiven Eindrucks, den ich von Ihrem Unternehmen gewonnen habe, möchte ich mein großes Interesse an dieser Position nochmals bekräftigen. Ich bin überzeugt, dass meine Erfahrungen gut zu Ihren Anforderungen passen.\n\nSie erwähnten im Gespräch, dass eine Entscheidung voraussichtlich bis Ende Mai fallen würde. __3__ wollte ich mich kurz erkundigen, __4__ es bereits Neuigkeiten bezüglich des weiteren Auswahlverfahrens gibt oder wann ich ungefähr mit einer Rückmeldung rechnen kann.\n\n__5__ bin ich, was den möglichen Eintrittstermin angeht, relativ flexibel und stehe Ihnen für weitere Fragen jederzeit gerne zur Verfügung.\n\nIch freue mich sehr __6__ eine baldige Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Reklamation bezüglich Ihrer Lieferung AZ-745-B",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir beziehen uns auf unsere Bestellung Nr. 745-B vom 15. Februar, die uns am 28. Februar geliefert wurde. Es handelt sich um die Spezial-Fräsmaschine Typ FX-2000.\n\nWir haben die Maschine gemäß der Anleitung installiert. __1__ mussten wir feststellen, dass sie bereits __2__ nach der ersten Inbetriebnahme erhebliche Mängel aufweist. Der Fräskopf arbeitet unpräzise und die Steuerung reagiert nur sporadisch. __3__ steht unsere Produktion in diesem Bereich momentan still, was zu erheblichen Verzögerungen führt.\n\nWir bitten Sie um eine umgehende Prüfung des Problems. Wir benötigen eine schnelle Lösung, __4__ in Form einer Reparatur vor Ort durch einen Ihrer Techniker. Bitte veranlassen Sie die notwendigen Schritte und informieren Sie uns über das weitere Vorgehen __5__ der nächsten drei Werktage.\n\n__6__ sehen wir uns gezwungen, vom Kaufvertrag zurückzutreten und Schadensersatz für den Produktionsausfall zu prüfen. Wir vertrauen jedoch auf eine zeitnahe und zufriedenstellende Regelung.\n\nMit freundlichen Grüßen\n\n[Name / Firma]",
     "options": [
         {
             "id": "a",
-            "content": "Als"
+            "content": "andernfalls"
         },
         {
             "id": "b",
-            "content": "Aufgrund"
+            "content": "deswegen"
         },
         {
             "id": "c",
-            "content": "auf"
+            "content": "infolgedessen"
         },
         {
             "id": "d",
-            "content": "Daher"
+            "content": "innerhalb"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "jedoch"
         },
         {
             "id": "f",
-            "content": "Trotz"
+            "content": "kaum"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "neulich"
         },
         {
             "id": "h",
-            "content": "über"
+            "content": "ohnehin"
         },
         {
             "id": "i",
-            "content": "Wie"
+            "content": "seitens"
         },
         {
             "id": "j",
-            "content": "Zudem"
+            "content": "vorzugsweise"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "i"
-        },
-        {
-            "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
-            "option_id": "d"
-        },
-        {
-            "blank": "4",
             "option_id": "e"
         },
         {
-            "blank": "5",
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
             "option_id": "j"
         },
         {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "a"
         }
     ]
 }

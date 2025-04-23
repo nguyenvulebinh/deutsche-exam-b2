@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Ref.-Nr. PM-123) vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich __1__ meine Bewerbung vom 15. Mai für die ausgeschriebene Stelle als Projektmanager (Ref.-Nr. PM-123).\n\nDa __2__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __3__ sehr an dieser Position interessiert, __4__ sie ideal zu meinen Qualifikationen und beruflichen Zielen passt und ich glaube, Ihr Team gut ergänzen zu können.\n\nWäre es Ihnen möglich, mir eine kurze Auskunft zu geben, __5__ ungefähr mit einer Rückmeldung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist?\n\nFür eventuelle Rückfragen oder ein persönliches Gespräch stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMarkus Weber",
+    "thema": "Antrag auf Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich arbeite nun seit über vier Jahren als Projektmanager in Ihrer Abteilung und möchte Sie __1__ um die Ausstellung eines Zwischenzeugnisses bitten.\n\nIch benötige dieses Dokument zeitnah, __2__ ich mich für eine externe Weiterbildung im Bereich Leadership bewerben kann, die meine berufliche Entwicklung fördern würde. Die Bewerbungsfrist endet bereits am 30. September dieses Jahres, daher wäre ich Ihnen sehr dankbar, wenn ich das Zeugnis __3__ bis Mitte September erhalten könnte.\n\n__4__ stehe ich Ihnen für ein kurzes Gespräch zur Verfügung, um eventuelle Fragen zu klären oder spezifische Aspekte meiner Tätigkeit hervorzuheben, die im Zeugnis erwähnt werden sollen.\n\n__5__ möchte ich anmerken, dass ich stets bemüht war, meine Projekte erfolgreich und termingerecht abzuschließen. Ich bitte Sie, das Zeugnis in digitaler Form auszustellen, __6__ dies für das Online-Bewerbungsportal der Weiterbildungsinstitution notwendig ist.\n\nVielen Dank im Voraus für Ihre Bemühungen und Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "wann"
+            "content": "damit"
         },
         {
             "id": "b",
-            "content": "an"
+            "content": "deswegen"
         },
         {
             "id": "c",
-            "content": "da"
+            "content": "erst"
         },
         {
             "id": "d",
-            "content": "ob"
+            "content": "hiermit"
         },
         {
             "id": "e",
-            "content": "auf"
-        },
-        {
-            "id": "f",
-            "content": "weiterhin"
-        },
-        {
-            "id": "g",
-            "content": "obwohl"
-        },
-        {
-            "id": "h",
-            "content": "inzwischen"
-        },
-        {
-            "id": "i",
             "content": "selbstverständlich"
         },
         {
+            "id": "f",
+            "content": "sodass"
+        },
+        {
+            "id": "g",
+            "content": "sofern"
+        },
+        {
+            "id": "h",
+            "content": "sofort"
+        },
+        {
+            "id": "i",
+            "content": "spätestens"
+        },
+        {
             "id": "j",
-            "content": "bereits"
+            "content": "zusätzlich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
-            "option_id": "c"
-        },
-        {
-            "blank": "5",
             "option_id": "a"
         },
         {
-            "blank": "6",
+            "blank": "3",
             "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
         }
     ]
 }

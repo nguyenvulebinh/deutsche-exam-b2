@@ -1,14 +1,14 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager (Ref: PM-2024-A7) vom 25. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager (Ref: PM-2024-A7), die ich Ihnen am 25. Mai zugesandt habe. Den Eingang meiner Unterlagen hatten Sie mir dankenswerterweise __1__ bestätigt.\n\n__2__ sind nun einige Wochen vergangen, und ich wollte mich höflich erkundigen, ob es bereits Neuigkeiten zum Auswahlverfahren gibt.\n\nIch bin nach wie vor sehr an dieser Position interessiert, __3__ die beschriebenen Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen genau meinen Vorstellungen und Qualifikationen entsprechen. Meine Erfahrungen im Bereich agiles Projektmanagement könnten __4__ einen wertvollen Beitrag leisten.\n\nKönnten Sie mir __5__ eine kurze Auskunft geben, wann mit einer Entscheidung zu rechnen ist? Ich stehe Ihnen für Rückfragen __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Klärung der Zahlungsbedingungen Ihrer Rechnung Nr. 4812",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nwir beziehen uns auf Ihre Rechnung Nr. 4812 vom 15. November bezüglich unserer Bestellung Nr. B-987. Wir haben die Rechnung erhalten und geprüft.\n\nDie aufgeführten Positionen und Beträge sind korrekt, __1__ weichen die angegebenen Zahlungsbedingungen von unserer ursprünglichen Vereinbarung ab. __2__ unseres Rahmenvertrags vom 1. März dieses Jahres gilt für alle Lieferungen ein Zahlungsziel von 30 Tagen netto. Auf der aktuellen Rechnung ist __3__ eine Zahlungsfrist von nur 14 Tagen vermerkt.\n\n__4__ bitten wir Sie um Überprüfung der angegebenen Frist. Zudem ist auf der Rechnung kein Skontoabzug erwähnt, __5__ dieser mit 2% bei Zahlung innerhalb von 10 Tagen ebenfalls vereinbart war. Dies führt dazu, dass wir die Zahlung noch nicht anweisen können, __6__ unsere interne Rechnungsprüfung feste Bearbeitungszyklen hat und korrekte Angaben benötigt.\n\nBitte senden Sie uns gegebenenfalls eine korrigierte Rechnung zu. Vielen Dank für Ihr Verständnis und Ihre Bemühungen um eine rasche Klärung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "eventuell"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "jederzeit"
+            "content": "damit"
         },
         {
             "id": "c",
@@ -16,27 +16,27 @@
         },
         {
             "id": "d",
-            "content": "inzwischen"
+            "content": "folglich"
         },
         {
             "id": "e",
-            "content": "bereits"
+            "content": "gemäß"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "sicherlich"
+            "content": "laut"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "trotzdem"
         },
         {
             "id": "j",
@@ -46,27 +46,27 @@
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
             "option_id": "g"
         },
         {
-            "blank": "5",
+            "blank": "3",
             "option_id": "a"
         },
         {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "j"
         }
     ]
 }

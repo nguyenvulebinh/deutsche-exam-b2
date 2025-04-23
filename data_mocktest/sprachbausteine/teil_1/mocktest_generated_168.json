@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Ref: MM-451) vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing Manager (Ref: MM-451), die ich Ihnen am 20. April eingereicht habe.\n\n__1__ ich bisher noch keine Rückmeldung erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __2__ sehr an dieser Position interessiert und nach wie vor davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu Ihrem Anforderungsprofil passen.\n\nWäre es Ihnen __3__ möglich, mir eine kurze Auskunft darüber zu geben, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nIch frage __4__, weil eine zeitnahe Information meine weitere Planung erleichtern würde.\n\nSollten Sie in der Zwischenzeit __5__ haben oder zusätzliche Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch freue mich auf eine __6__ Antwort von Ihnen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Bitte um Ausstellung meines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nmein Arbeitsverhältnis in Ihrer Abteilung endet zum 31. August dieses Jahres. __1__ bitte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses. Mein gesetzlicher Anspruch darauf ist Ihnen __2__ bekannt.\n\nIch wäre Ihnen dankbar, wenn das Zeugnis detailliert auf meine Hauptaufgabenbereiche eingehen könnte, insbesondere auf die Projektleitung für \"X\" und die Kundenbetreuung im Sektor Y. __3__ wäre eine Erwähnung meiner Fortbildung im Bereich Z wünschenswert.\n\nSollten Sie __4__ Rückfragen zu meinen Tätigkeiten haben oder weitere Informationen benötigen, stehe ich Ihnen gerne zur Verfügung.\n\nIch bitte um eine Bestätigung, wann ich mit der Zusendung des Zeugnisses rechnen kann, idealerweise __5__ nach meinem Austrittsdatum. Haben Sie __6__ bereits einen Zeitplan?\n\nVielen Dank für Ihre Bemühungen im Voraus.\n\nMit freundlichen Grüßen\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "baldige"
+            "content": "daher"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "gegebenenfalls"
         },
         {
             "id": "c",
-            "content": "deshalb"
+            "content": "hierzu"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "nämlich"
         },
         {
             "id": "e",
-            "content": "mögliche"
+            "content": "obwohl"
         },
         {
             "id": "f",
-            "content": "Obwohl"
+            "content": "selbstverständlich"
         },
         {
             "id": "g",
-            "content": "Rückfragen"
+            "content": "trotzdem"
         },
         {
             "id": "h",
-            "content": "Trotzdem"
+            "content": "umgehend"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "Zusätzlich"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "i"
+            "option_id": "f"
         },
         {
             "blank": "3",
-            "option_id": "d"
+            "option_id": "j"
         },
         {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "b"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "c"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\n__1__ meine Bewerbung als Marketingassistent vom 20. April dieses Jahres möchte ich mich kurz bei Ihnen melden.\n\nDa ich __2__ keine offizielle Rückmeldung zum Stand meiner Bewerbung erhalten habe, wollte ich mich auf diesem Weg höflich __3__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __4__ sehr an der ausgeschriebenen Position interessiert und davon überzeugt, dass meine Qualifikationen und meine Motivation gut zu den Anforderungen passen würden.\n\nKönnten Sie mir __5__ mitteilen, ob bereits eine engere Auswahl getroffen wurde oder wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nSollten Sie in der Zwischenzeit __6__ Informationen oder Unterlagen von mir benötigen, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zur neuen Reisekostenabrechnung",
+    "textinhalt": "Sehr geehrte Frau Meier,\n\nich hoffe, diese Nachricht erreicht Sie gut. Ich schreibe Ihnen bezüglich der Reisekostenabrechnung für meine Dienstreise nach München vom 10. bis 12. Juni. Ich habe gehört, dass kürzlich ein neues Online-System für die Einreichung eingeführt wurde. __1__ bin ich mir unsicher bezüglich des genauen Vorgehens.\n\nKönnten Sie mir bitte erläutern, __2__ dieses neue System bereits für alle Abteilungen verbindlich ist und ob die Einreichung nun ausschließlich digital erfolgen muss?\n\nDarüber hinaus wäre ich Ihnen dankbar, wenn Sie mir die geltende Frist für die Einreichung mitteilen könnten. Müssen die Reisekostenbelege __3__ einer bestimmten Wochenanzahl nach Reiseende vorgelegt werden? Ich möchte sicherstellen, dass ich alle Termine einhalte.\n\nErfolgt die Einreichung nun __4__ dieses neuen Online-Portals, oder gibt es alternative Wege, wie z.B. per E-Mail oder über das Intranet?\n\nIch wäre Ihnen sehr verbunden, wenn Sie mir __5__ eine kurze Anleitung oder einen Link zu den aktuellen Richtlinien zukommen lassen könnten. __6__ wäre es hilfreich zu wissen, ob Originalbelege weiterhin physisch eingereicht werden müssen oder ob qualitativ hochwertige Scans ausreichend sind.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nThomas Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "über"
+            "content": "Anstatt"
         },
         {
             "id": "b",
-            "content": "nach wie vor"
+            "content": "Folglich"
         },
         {
             "id": "c",
-            "content": "auf"
+            "content": "Innerhalb"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "Inwieweit"
         },
         {
             "id": "e",
-            "content": "trotzdem"
+            "content": "Mittels"
         },
         {
             "id": "f",
-            "content": "weitere"
+            "content": "Seit"
         },
         {
             "id": "g",
-            "content": "seitdem"
+            "content": "Sodass"
         },
         {
             "id": "h",
-            "content": "bisher"
+            "content": "Trotz"
         },
         {
             "id": "i",
-            "content": "nach"
+            "content": "Zeitnah"
         },
         {
             "id": "j",
-            "content": "bezüglich"
+            "content": "Zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
             "option_id": "b"
         },
         {
-            "blank": "5",
+            "blank": "2",
             "option_id": "d"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "j"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die ausgeschriebene Stelle als Marketingmanager vom 25. April dieses Jahres sowie auf Ihre Eingangsbestätigung vom 27. April.\n\n__1__ seitdem nun einige Zeit vergangen ist, möchte ich mich höflich erkundigen, ob es bereits Neuigkeiten bezüglich des Auswahlverfahrens gibt. Ich bin nach wie vor sehr an dieser Position interessiert, __2__ die in der Ausschreibung genannten Aufgabenbereiche und die strategische Ausrichtung Ihres Unternehmens mein besonderes Interesse geweckt haben.\n\nMir ist bewusst, dass ein sorgfältiger Auswahlprozess Zeit in Anspruch nimmt. __3__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Einschätzung geben könnten, __4__ ungefähr mit den nächsten Schritten oder einer Entscheidung zu rechnen ist.\n\nSollten Sie in der Zwischenzeit weitere Unterlagen oder Informationen von mir benötigen, stelle ich Ihnen diese selbstverständlich __5__ zur Verfügung.\n\nIch freue mich weiterhin sehr __6__ eine positive Rückmeldung von Ihnen und verbleibe\n\nmit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Betreff: Nachfrage zur Präsentation CRM-System",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nvielen Dank für die informative Präsentation zum neuen CRM-System gestern Nachmittag. Ich fand die Vorstellung der Kernfunktionen sehr hilfreich und würde die Inhalte gerne nachbereiten. Könnten Sie mir bitte die gezeigten Folien zukommen lassen?\n\nSie erwähnten auch die Möglichkeit der Datenmigration aus unserem Altsystem. __1__ hätte ich eine kurze Nachfrage. Ich habe zwar verstanden, dass eine Migration prinzipiell möglich ist, __2__ sind mir die dafür notwendigen Schritte noch nicht ganz klar, insbesondere __3__ der erforderlichen Datenaufbereitung unsererseits. Wäre es möglich, dass Sie uns diesen Punkt nochmals kurz erläutern oder weiterführende Unterlagen senden?\n\n__4__ wäre es für unsere interne Planung sehr hilfreich zu wissen, bis wann wir ungefähr mit einem finalen Zeitplan für die Systemeinführung rechnen können.\n\nDa die weitere Planung hiervon abhängt, wären wir Ihnen dankbar, wenn Sie uns __5__ informieren könnten. Könnten Sie uns die angefragten Informationen und Unterlagen idealerweise __6__ der nächsten Woche zukommen lassen?\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "Deshalb"
+            "content": "danach"
         },
         {
             "id": "d",
-            "content": "gerne"
+            "content": "dazu"
         },
         {
             "id": "e",
-            "content": "Obwohl"
+            "content": "dennoch"
         },
         {
             "id": "f",
-            "content": "Über"
+            "content": "hinsichtlich"
         },
         {
             "id": "g",
-            "content": "wann"
+            "content": "innerhalb"
         },
         {
             "id": "h",
-            "content": "weil"
+            "content": "sofort"
         },
         {
             "id": "i",
-            "content": "Wenn"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "Dennoch"
+            "content": "umgehend"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
             "option_id": "d"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
             "option_id": "a"
+        },
+        {
+            "blank": "5",
+            "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "g"
         }
     ]
 }

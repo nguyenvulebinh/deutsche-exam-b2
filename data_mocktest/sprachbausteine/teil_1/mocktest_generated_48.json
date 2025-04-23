@@ -1,22 +1,22 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung vom 15. Mai für die Stelle als Marketingassistent, die auf Ihrer Webseite ausgeschrieben war, schreibe ich Ihnen.\n\nDa __1__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin nach wie vor sehr an dieser Position interessiert. __2__ möchte ich Ihnen transparent mitteilen, dass ich inzwischen ein anderes Jobangebot erhalten habe. Dieses Angebot ist zwar attraktiv, __3__ würde ich eine Tätigkeit in Ihrem renommierten Unternehmen aufgrund der spannenden Aufgabenbeschreibung klar bevorzugen.\n\nKönnten Sie mir __4__ eine Auskunft geben, bis wann ungefähr mit einer Entscheidung zu rechnen ist? Eine baldige Rückmeldung wäre sehr hilfreich, da ich dem anderen Unternehmen bis Ende nächster Woche Bescheid geben muss.\n\nSelbstverständlich stehe ich Ihnen __5__ für Rückfragen zur Verfügung.\n\nIch würde mich freuen, __6__ von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich meines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nmein Arbeitsverhältnis in Ihrer Abteilung endete zum 31. August dieses Jahres. __1__ sind bereits einige Wochen vergangen, und ich möchte mich nun bezüglich meines Arbeitszeugnisses an Sie wenden.\n\nIch benötige ein qualifiziertes Arbeitszeugnis, das meine Leistungen und mein Verhalten detailliert beschreibt. __2__ bitte ich Sie um die Ausstellung eines entsprechenden Dokuments. Mein Anspruch __3__ eines solchen Zeugnisses ergibt sich aus §109 der Gewerbeordnung.\n\nKönnten Sie mir bitte mitteilen, __4__ ich mit der Zusendung des Zeugnisses rechnen kann? Ich benötige das Dokument relativ zeitnah für meine weiteren Bewerbungsaktivitäten. Ich bitte Sie __5__ um Verständnis für meine Nachfrage bezüglich des Zeitrahmens.\n\n__6__ Sie weitere Informationen oder Unterlagen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "allerdings"
+            "content": "aufgrund"
         },
         {
             "id": "b",
-            "content": "bald"
+            "content": "falls"
         },
         {
             "id": "c",
-            "content": "demnächst"
+            "content": "folglich"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "hierfür"
         },
         {
             "id": "e",
@@ -24,23 +24,23 @@
         },
         {
             "id": "f",
-            "content": "jederzeit"
-        },
-        {
-            "id": "g",
             "content": "seitdem"
         },
         {
-            "id": "h",
+            "id": "g",
             "content": "trotzdem"
         },
         {
+            "id": "h",
+            "content": "wann"
+        },
+        {
             "id": "i",
-            "content": "vielleicht"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "Zudem"
+            "content": "wenn"
         }
     ],
     "loesung": [
@@ -50,7 +50,7 @@
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "3",
@@ -58,11 +58,11 @@
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "6",

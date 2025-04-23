@@ -1,64 +1,64 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Ref. MM-451) vom 20.04.2024",
-    "textinhalt": "Sehr geehrte Frau Schmidt, \n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketing Manager (Ref. MM-451), die ich Ihnen am 20.04.2024 zugesandt habe.\n\n__1__ nun einige Wochen vergangen sind, ohne dass ich eine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position ist __2__ ungebrochen, da die Aufgabenbeschreibung perfekt zu meinen Qualifikationen passt. Besonders die Möglichkeit, an internationalen Kampagnen __3__, finde ich sehr reizvoll.\n\nKönnten Sie mir vielleicht mitteilen, __4__ mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist? __5__ möchte ich nochmals betonen, dass ich für Rückfragen oder ein persönliches Gespräch jederzeit gerne zur Verfügung stehe.\n\nVielen Dank für Ihre Bemühungen __6__ meiner Anfrage.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfragen zur Teilnahme am Seminar \"Effektives Projektmanagement\"",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nvielen Dank für die Zusage zu meiner Teilnahme am Seminar \"Effektives Projektmanagement\" vom 15. bis 17. November. Ich freue mich bereits sehr darauf.\n\nBevor ich meine Reise final buche, hätte ich noch ein paar kurze praktische Fragen. Könnten Sie mir bitte mitteilen, __1__ spezielle Vorbereitungen notwendig sind oder ob alle benötigten Unterlagen vor Ort zur Verfügung gestellt werden?\n\nIch plane meine Anreise für den Vormittag des ersten Seminartages. Könnten Sie mir __2__ den genauen Beginn der Veranstaltung am 15. November bestätigen? Das wäre für die Wahl meiner Zugverbindung hilfreich.\n\nDa ich nicht ortskundig bin, wäre eine Information hilfreich, ob es empfehlenswerte Hotels __3__ des Veranstaltungsortes gibt.\n\nIch benötige diese Angaben __4__ der Reise- und Unterkunftsplanung.\n\nSollte eine telefonische Klärung einfacher sein, erreichen Sie mich unter 0176 / 12345678. Ich bin flexibel, __5__ es für Sie passt.\n\nVielen Dank im Voraus für Ihre Unterstützung. __6__ erhalten ich die Informationen noch in dieser Woche.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "jedoch"
-        },
-        {
-            "id": "b",
-            "content": "Da"
-        },
-        {
-            "id": "c",
-            "content": "wann"
-        },
-        {
-            "id": "d",
-            "content": "für"
-        },
-        {
-            "id": "e",
-            "content": "mitzuwirken"
-        },
-        {
-            "id": "f",
-            "content": "bezüglich"
-        },
-        {
-            "id": "g",
             "content": "deshalb"
         },
         {
+            "id": "b",
+            "content": "idealerweise"
+        },
+        {
+            "id": "c",
+            "content": "innerhalb"
+        },
+        {
+            "id": "d",
+            "content": "insbesondere"
+        },
+        {
+            "id": "e",
+            "content": "ob"
+        },
+        {
+            "id": "f",
+            "content": "solange"
+        },
+        {
+            "id": "g",
+            "content": "unweit"
+        },
+        {
             "id": "h",
-            "content": "Zudem"
+            "content": "wenn"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "worauf"
         },
         {
             "id": "j",
-            "content": "obwohl"
+            "content": "zwecks"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
             "option_id": "e"
         },
         {
+            "blank": "2",
+            "option_id": "d"
+        },
+        {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
             "blank": "4",
-            "option_id": "c"
+            "option_id": "j"
         },
         {
             "blank": "5",
@@ -66,7 +66,7 @@
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "b"
         }
     ]
 }

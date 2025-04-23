@@ -1,30 +1,30 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung vom 15. Mai für die Position als Projektmanager möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ nun bereits einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, wollte ich höflich nachfragen.\nIch bin nach wie vor sehr an dieser Position interessiert, __2__ mich die in der Ausschreibung beschriebenen Aufgaben und die Entwicklungsmöglichkeiten in Ihrem Unternehmen besonders ansprechen.\n\nEine zeitnahe Information über den weiteren Verlauf wäre für mich sehr hilfreich, __3__ ich in Kürze eine Entscheidung bezüglich einer anderen Stelle treffen muss.\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nIch verstehe selbstverständlich, dass der Auswahlprozess Zeit benötigt, __5__ wäre ich für eine kurze Zwischeninformation dankbar.\n\nVielen Dank im Voraus für Ihre Bemühungen und eine __6__ Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage: Terminverschiebung Projektmeeting",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf unser geplantes Projektmeeting am kommenden Donnerstag um 10:00 Uhr. __1__ muss ich Sie bitten, diesen Termin zu verschieben.\n\nDer Grund hierfür ist, dass __2__ kurzfristig ein äußerst dringender Kundentermin für denselben Vormittag angesetzt wurde, den ich wahrnehmen muss. Ich bedauere die Umstände sehr.\n\n__3__ dieses unvorhergesehenen Terminkonflikts ist es mir leider nicht möglich, am ursprünglichen Meeting teilzunehmen.\n\n__4__ könnte ich Ihnen den Freitagnachmittag (ab 14:00 Uhr) oder den darauffolgenden Montagmorgen (bis 11:00 Uhr) anbieten. __5__ einer dieser Termine für Sie passen sollte, wäre ich Ihnen dankbar.\n\nBitte geben Sie mir kurz Bescheid, ob einer der Vorschläge für Sie möglich ist oder ob wir eine andere Lösung finden sollen. __6__ wäre ich für eine baldige Rückmeldung dankbar.\n\nMit freundlichen Grüßen\nMax Müller",
     "options": [
         {
             "id": "a",
-            "content": "baldige"
+            "content": "Alternativ"
         },
         {
             "id": "b",
-            "content": "damit"
+            "content": "aufgrund"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "bedauerlicherweise"
         },
         {
             "id": "d",
-            "content": "dennoch"
+            "content": "Diesbezüglich"
         },
         {
             "id": "e",
-            "content": "Deshalb"
+            "content": "Jedoch"
         },
         {
             "id": "f",
-            "content": "eventuell"
+            "content": "nämlich"
         },
         {
             "id": "g",
@@ -32,15 +32,15 @@
         },
         {
             "id": "h",
-            "content": "schnelle"
+            "content": "Sodass"
         },
         {
             "id": "i",
-            "content": "Während"
+            "content": "Sofern"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "Wegen"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
             "option_id": "f"
         },
         {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
             "blank": "5",
-            "option_id": "d"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "d"
         }
     ]
 }

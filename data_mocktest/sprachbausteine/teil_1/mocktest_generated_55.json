@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung als Marketingassistent vom 15. Mai.\n\n__6__ ich nach sorgfältiger Prüfung der Stellenanzeige und weiterer Recherche zu Ihrem Unternehmen davon überzeugt bin, dass meine Qualifikationen und Erfahrungen sehr gut zu den Anforderungen passen, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin nach wie vor sehr an der Position interessiert, insbesondere an den angeführten Möglichkeiten zur Mitgestaltung von Online-Marketingkampagnen.\n\nDa ich mich derzeit auch in anderen Bewerbungsprozessen __2__, wäre eine zeitnahe Information über den weiteren Verlauf für meine Planung sehr hilfreich. Könnten Sie mir __3__ mitteilen, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nFalls Sie __4__ weitere Unterlagen oder Informationen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch würde mich sehr __5__ eine positive Rückmeldung freuen.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Nachfrage: Bereitstellung der Analysedaten für Q3-Bericht",
+    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich schreibe Ihnen __1__ meiner Anfrage vom letzten Montag bezüglich der Verkaufsstatistiken für das dritte Quartal. Diese Daten werden dringend für den anstehenden Q3-Bericht benötigt.\n\nKönnten Sie mir bitte ein kurzes Update geben, wann ich mit der Bereitstellung rechnen kann? Der Abgabetermin für den Bericht rückt näher, __2__ die Geschäftsleitung die finalen Zahlen bis Ende dieser Woche erwartet. Ich muss die Analyse __3__ abschließen können.\n\n__4__ die Daten bei Ihnen eingegangen sind, kann ich mit der Auswertung beginnen. Bitte lassen Sie mich wissen, falls es Schwierigkeiten gibt oder __5__ Unterstützung von meiner Seite benötigt wird, um den Prozess zu beschleunigen.\n\nIch bedanke mich __6__ im Voraus für Ihre Bemühungen und hoffe auf eine zeitnahe Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Platzhalter]",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "bald"
         },
         {
             "id": "b",
-            "content": "noch"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "wegen"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "nochmals"
         },
         {
             "id": "f",
-            "content": "über"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "befinde"
+            "content": "sobald"
         },
         {
             "id": "h",
-            "content": "Weil"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "schon"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "nach"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "g"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "e"
         }
     ]
 }

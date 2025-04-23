@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend __1__ meine Bewerbung als Projektmanager vom 15. Mai und Ihre Eingangsbestätigung vom 17. Mai möchte ich mich heute an Sie wenden.\n\nDa __2__ einige Wochen vergangen sind, seitdem ich von Ihnen gehört habe, möchte ich mich __3__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht nach wie vor genau meinen Vorstellungen und ich bin weiterhin sehr an einer Tätigkeit in Ihrem Unternehmen interessiert.\n\nKönnten Sie mir __4__ mitteilen, __5__ ich ungefähr mit einer Entscheidung oder weiteren Schritten rechnen kann?\n\nIch wäre Ihnen sehr dankbar, __6__ Sie mir eine kurze Rückmeldung geben könnten.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\nMax Mustermann",
+    "thema": "Anfrage zur Klärung der Reisekostenabrechnung RK-2024-117",
+    "textinhalt": "Sehr geehrte Damen und Herren der Buchhaltung,\n\nbezugnehmend auf meine Reisekostenabrechnung Nr. RK-2024-117 vom 15.11.2024 für die Dienstreise nach Frankfurt (10.-12.11.2024), hätte ich eine Frage bezüglich der Erstattung der Hotelkosten.\n\nBei der Prüfung der Abrechnung ist mir aufgefallen, dass der erstattete Betrag von dem auf der Rechnung ausgewiesenen Betrag abweicht. Könnten Sie bitte kurz überprüfen, __1__ dieser Unterschied zustande kommt? Zur Verdeutlichung habe ich die Hotelrechnung sowie meine ursprüngliche Einreichung __2__ beigefügt.\n\nDie __3__ getroffene Vereinbarung mit meiner Abteilung sah eine vollständige Übernahme der Kosten für Hotels bis zu 150€ pro Nacht vor. Das von mir gewählte Hotel lag mit 145€ pro Nacht innerhalb dieses Rahmens. Ich verstehe, dass es eventuell interne Regelungen gibt, __4__ wäre ich für eine kurze Erläuterung der Differenz dankbar.\n\nIch wäre Ihnen sehr verbunden, __5__ Sie die Angelegenheit prüfen und mir eine Rückmeldung geben könnten. __6__ Rückfragen meinerseits notwendig sein, stehe ich Ihnen selbstverständlich telefonisch oder per E-Mail zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "anbei"
         },
         {
             "id": "b",
-            "content": "auf"
+            "content": "beiliegend"
         },
         {
             "id": "c",
-            "content": "falls"
+            "content": "jedoch"
         },
         {
             "id": "d",
-            "content": "höflich"
+            "content": "obwohl"
         },
         {
             "id": "e",
-            "content": "inzwischen"
+            "content": "sollten"
         },
         {
             "id": "f",
-            "content": "ob"
+            "content": "ursprünglich"
         },
         {
             "id": "g",
-            "content": "seitdem"
+            "content": "wenn"
         },
         {
             "id": "h",
-            "content": "vielleicht"
+            "content": "weshalb"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "wie"
         },
         {
             "id": "j",
-            "content": "wenn"
+            "content": "zunächst"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "e"
-        },
-        {
-            "blank": "3",
-            "option_id": "d"
-        },
-        {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "f"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "e"
         }
     ]
 }

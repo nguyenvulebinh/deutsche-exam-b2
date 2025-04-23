@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 05. April",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nhiermit beziehe ich mich __1__ meine Bewerbung vom 05. April für die Stelle als Marketing Manager in Ihrem Unternehmen.\n\n__2__ ich bisher noch keine Rückmeldung erhalten habe und die Position laut Ihrer Website weiterhin ausgeschrieben ist, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Stelle entspricht __3__ meinen beruflichen Vorstellungen und Erfahrungen, weshalb mein Interesse daran unverändert groß ist.\n\nKönnten Sie mir __4__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann mit weiteren Informationen zu rechnen ist? Ich wäre Ihnen für eine kurze Orientierung sehr dankbar.\n\nIch bin nach wie vor sehr an der Position interessiert und stehe Ihnen für ein persönliches Gespräch __5__ zur Verfügung.\n\nIch würde mich freuen, bald __6__ Ihnen zu hören.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage: Details zur verpflichtenden Software-Schulung",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nich beziehe mich auf Ihre E-Mail von letzter Woche bezüglich der Einführung der neuen Software „ProjektFlow“ und der damit verbundenen verpflichtenden Schulung für alle Mitarbeiter der Abteilung.\n\nBevor ich meine Teilnahme fest zusagen kann, hätte ich dazu noch ein paar Fragen. Die Schulungstage sind zwar angegeben, aber es wird nicht erwähnt, wie lange die Sitzungen __1__ dauern werden. Sind das jeweils Vor- oder Ganztagesschulungen?\n\nAußerdem wüsste ich gerne, ob die im Plan genannten Termine __2__ die einzig verfügbaren sind, oder ob es eventuell Auswahlmöglichkeiten gibt. Ich möchte mich auch __3__ den technischen Voraussetzungen erkundigen: Muss bestimmte Software vorab auf unseren Rechnern installiert sein?\n\nIch frage dies auch, da ich an einem der vorgeschlagenen Nachmittage __4__ bereits einen wichtigen, externen Kundentermin habe, der sich nur schwer verschieben lässt. Könnten Sie mir daher bitte mitteilen, __5__ es möglicherweise alternative Schulungstermine oder Online-Module geben wird?\n\nIch benötige diese Informationen relativ dringend, um meine Arbeitswoche und meine Projektdeadlines entsprechend planen zu können. Ich wäre Ihnen dankbar, wenn Sie mir __6__ kurzfristig eine Rückmeldung geben könnten.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Your Name/Employee Name]",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "AUSSCHLIESSLICH"
         },
         {
             "id": "b",
-            "content": "auf"
+            "content": "DAZU"
         },
         {
             "id": "c",
-            "content": "bereits"
+            "content": "DESHALB"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "FALLS"
         },
         {
             "id": "e",
-            "content": "deshalb"
+            "content": "JEDOCH"
         },
         {
             "id": "f",
-            "content": "genau"
+            "content": "JEWEILS"
         },
         {
             "id": "g",
-            "content": "jederzeit"
+            "content": "NACH"
         },
         {
             "id": "h",
-            "content": "obwohl"
+            "content": "OB"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "ÜBER"
         },
         {
             "id": "j",
-            "content": "von"
+            "content": "WÄHREND"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
             "option_id": "f"
         },
         {
-            "blank": "4",
-            "option_id": "i"
+            "blank": "2",
+            "option_id": "a"
         },
         {
-            "blank": "5",
+            "blank": "3",
             "option_id": "g"
         },
         {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "b"
         }
     ]
 }

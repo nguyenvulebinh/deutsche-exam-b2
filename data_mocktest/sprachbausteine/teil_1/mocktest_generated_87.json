@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung vom 25. April für die ausgeschriebene Stelle als Marketing Manager in Ihrem Unternehmen, __1__ Eingang Sie mir kurz darauf freundlicherweise bestätigt haben.\n\nDa __2__ einige Zeit vergangen ist und ich __3__ noch keine weitere Rückmeldung zum Fortgang des Auswahlverfahrens erhalten habe, möchte ich mich auf diesem Wege höflich nach dem aktuellen Stand erkundigen.\n\n__4__ ich nach wie vor großes Interesse an dieser Position und Ihrem Unternehmen habe, wäre eine kurze Information über den weiteren Prozess für meine Planung sehr hilfreich. Wäre es Ihnen möglich, mir mitzuteilen, __5__ ungefähr mit einer Entscheidung zu rechnen ist?\n\nSollten Sie __6__ noch weitere Unterlagen oder Informationen von mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Antrag auf Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nmein Arbeitsverhältnis bei Ihnen in der Entwicklungsabteilung endete zum 30. April dieses Jahres. __1__ ist nun einige Zeit vergangen, und ich benötige für meine weiteren beruflichen Schritte ein formelles Arbeitszeugnis.\n\nIch möchte Sie __2__ höflich bitten, mir dieses Dokument auszustellen. Ich wäre Ihnen dankbar, wenn das Zeugnis detaillierte Angaben zu meinen Aufgabenbereichen und Leistungen enthalten könnte, insbesondere __3__ meiner Mitarbeit am Projekt 'Phoenix'.\n\n__4__ hätte ich gerne ein qualifiziertes Arbeitszeugnis, das auch eine Beurteilung meines Sozialverhaltens und meiner Teamfähigkeit beinhaltet. Könnten Sie mir bitte mitteilen, mit welcher Bearbeitungszeit ich ungefähr rechnen muss? Eine Zusendung __5__ der nächsten vier Wochen wäre für meine Planungen sehr hilfreich.\n\nBitte senden Sie das Zeugnis an meine aktuelle Postanschrift: Musterweg 5, 67890 Beispielstadt. Für Ihre Bemühungen __6__ bedanke ich mich bereits jetzt herzlich.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "obwohl"
+            "content": "dafür"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "falls"
         },
         {
             "id": "c",
-            "content": "gegebenenfalls"
+            "content": "hinsichtlich"
         },
         {
             "id": "d",
-            "content": "inzwischen"
+            "content": "hiermit"
         },
         {
             "id": "e",
-            "content": "dessen"
+            "content": "innerhalb"
         },
         {
             "id": "f",
-            "content": "ob"
-        },
-        {
-            "id": "g",
             "content": "seitdem"
         },
         {
+            "id": "g",
+            "content": "somit"
+        },
+        {
             "id": "h",
-            "content": "deren"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "vorzugsweise"
         },
         {
             "id": "j",
-            "content": "bislang"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "f"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "c"
         },
         {
             "blank": "4",
-            "option_id": "b"
-        },
-        {
-            "blank": "5",
             "option_id": "i"
         },
         {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "a"
         }
     ]
 }

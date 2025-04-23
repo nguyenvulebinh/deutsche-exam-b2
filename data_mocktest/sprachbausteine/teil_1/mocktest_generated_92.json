@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 15.03. - Kennziffer MKTG-087",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nich beziehe mich auf meine Bewerbung als Marketingmanager vom 15. März (Kennziffer: MKTG-087), für deren Bestätigung ich Ihnen danke.\n\nDa seit meiner Bewerbung nun einige Wochen vergangen sind, möchte ich mich höflich __1__ dem aktuellen Stand des Auswahlverfahrens erkundigen. Die ausgeschriebene Position entspricht nach wie vor genau meinen beruflichen Zielen und Qualifikationen, und mein Interesse __2__ einer Mitarbeit in Ihrem innovativen Unternehmen ist weiterhin sehr groß.\n\nKönnten Sie mir __3__ eine kurze Rückmeldung geben, __4__ ungefähr mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist? Ich habe selbstverständlich Verständnis __5__, dass ein sorgfältiger Auswahlprozess Zeit benötigt, möchte aber gern sicherstellen, dass meine Unterlagen noch aktiv berücksichtigt werden.\n\nIch stehe Ihnen __6__ für Rückfragen oder ein persönliches Gespräch zur Verfügung und freue mich darauf, bald von Ihnen zu hören.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Antrag auf Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nhiermit möchte ich Sie um die Ausstellung eines Zwischenzeugnisses bitten. Ich bin seit nunmehr vier Jahren als Marketing Manager in Ihrer Abteilung tätig.\n\nDa ich eine interne Weiterentwicklung im Bereich Teamleitung anstrebe, benötige ich eine aktuelle und detaillierte Leistungsbeurteilung für meine Bewerbungsunterlagen. __1__ wende ich mich mit dieser Bitte an Sie. Ich habe __2__ mehrere Kampagnen erfolgreich geleitet und maßgeblich zur Steigerung unserer Online-Präsenz beigetragen. __3__ habe ich im letzten Jahr die Einarbeitung von zwei neuen Teammitgliedern übernommen und sie erfolgreich ins Team integriert.\n\nIch wäre Ihnen dankbar, wenn im Zeugnis __4__ meine Erfolge im Bereich Projektmanagement und meine ersten Erfahrungen in der Teamführung positiv hervorgehoben werden könnten. Dieses Dokument ist primär für meine interne Bewerbung gedacht, __5__ aber auch wertvoll für meine persönlichen Unterlagen.\n\nKönnten Sie mir bitte mitteilen, wie der übliche Prozess für die Ausstellung eines solchen Zeugnisses abläuft und mit welchem Zeitrahmen ich ungefähr rechnen kann? Für Rückfragen __6__ stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen und Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "an"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "bereits"
+            "content": "ausschließlich"
         },
         {
             "id": "c",
-            "content": "dafür"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "für"
+            "content": "diesbezüglich"
         },
         {
             "id": "e",
-            "content": "jederzeit"
+            "content": "gegebenenfalls"
         },
         {
             "id": "f",
-            "content": "nach"
+            "content": "insbesondere"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "inzwischen"
         },
         {
             "id": "h",
-            "content": "wann"
+            "content": "jedoch"
         },
         {
             "id": "i",
-            "content": "wenn"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "zeitnah"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
             "option_id": "e"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
         }
     ]
 }

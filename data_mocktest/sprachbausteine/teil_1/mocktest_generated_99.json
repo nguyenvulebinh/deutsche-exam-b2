@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent (Kennziffer MA-451) vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nbezugnehmend auf meine Bewerbung vom 20. April für die Stelle als Marketingassistent (Kennziffer MA-451) und die daraufhin erhaltene Eingangsbestätigung möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __1__ einige Wochen vergangen sind, wollte ich höflich nachfragen. Mein Interesse an dieser Position ist __2__ sehr groß, __5__ die Aufgabenbeschreibung und die Werte Ihres Unternehmens meinen beruflichen Zielen und Vorstellungen genau entsprechen.\n\nKönnten Sie mir __3__ mitteilen, ob bereits eine engere Auswahl getroffen wurde oder wann ungefähr mit einer Entscheidung zu rechnen ist? __4__ Sie weitere Informationen oder Unterlagen von mir benötigen, lassen Sie es mich bitte wissen. Ich stehe Ihnen gerne zur Verfügung.\n\nVielen Dank __6__ Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nThomas Weber",
+    "thema": "Bitte um Klärung – Projekt Alpha",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf unser Gespräch von gestern Nachmittag bezüglich des neuen Projekts \"Alpha\" und die mir zugewiesenen Aufgaben. Vielen Dank nochmals für die Einführung.\n\nEs gab bei der Besprechung einen Punkt bezüglich der Ressourcenplanung, den ich nicht ganz eindeutig verstanden habe, __1__ bitte ich Sie um eine kurze Klärung, um Missverständnisse zu vermeiden. Insbesondere die Zuteilung des Entwicklerteams scheint mir noch nicht final festgelegt, __2__ sich die Zeitplanung verschieben könnte.\n\nDie allgemeine Projektbeschreibung ist sehr hilfreich, __3__ fehlen mir noch Informationen zu den spezifischen Reporting-Anforderungen und den genauen Fristen für die einzelnen Meilensteine. __4__ wäre es gut zu wissen, ob die Präsentation für das Management bereits im System terminiert ist.\n\nKönnten wir die Priorisierung der nächsten Schritte __5__ der Dringlichkeit der Kundenanfragen vornehmen? Das würde mir helfen, die Aufgaben effizienter zu strukturieren.\n\nIch wäre Ihnen dankbar, wenn Sie mir hierzu kurzfristig Rückmeldung geben könnten. Ich kann mit der detaillierten Ausarbeitung meines Teilbereichs beginnen, __6__ diese Fragen geklärt sind.\n\nFür ein kurzes klärendes Gespräch stehe ich selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen,\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "anhand"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "falls"
+            "content": "ferner"
         },
         {
             "id": "e",
-            "content": "für"
+            "content": "insofern"
         },
         {
             "id": "f",
-            "content": "inzwischen"
+            "content": "mittels"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "sobald"
         },
         {
             "id": "h",
-            "content": "seitdem"
-        },
-        {
-            "id": "i",
             "content": "trotzdem"
         },
         {
+            "id": "i",
+            "content": "wodurch"
+        },
+        {
             "id": "j",
-            "content": "weiterhin"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "j"
+            "option_id": "i"
         },
         {
             "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "d"
-        },
-        {
-            "blank": "5",
             "option_id": "a"
         },
         {
+            "blank": "4",
+            "option_id": "j"
+        },
+        {
+            "blank": "5",
+            "option_id": "b"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "g"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai - Kennziffer PM-123",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Position als Projektmanager vom 15. Mai mit der Kennziffer PM-123. Für die Bestätigung des Eingangs meiner Unterlagen möchte ich mich bedanken.\n\n__1__ ich bisher noch keine weitere Rückmeldung erhalten habe, möchte ich mich heute höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist __2__ bewusst, dass sorgfältige Prüfungsprozesse Zeit benötigen.\n\nDie ausgeschriebene Stelle als Projektmanager entspricht __3__ genau meinen beruflichen Vorstellungen und Erfahrungen. Ich bin nach wie vor sehr daran interessiert, mein Wissen und meine Fähigkeiten in Ihrem Unternehmen einzubringen, __4__ ich überzeugt bin, einen wertvollen Beitrag leisten zu können.\n\nWäre es __5__ möglich, mir eine kurze Auskunft darüber zu geben, bis wann voraussichtlich mit einer Entscheidung oder dem nächsten Schritt im Bewerbungsprozess zu rechnen ist?\n\nFür Rückfragen stehe ich Ihnen selbstverständlich __6__ zur Verfügung und freue mich auf eine baldige Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung Seminarteilnahme und Nachfragen",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nvielen Dank für Ihre E-Mail und die Zusage für das Seminar \"Effektives Projektmanagement\" vom 15. bis 16. November. __1__ bestätige ich Ihnen meine verbindliche Teilnahme.\n\nIch freue mich bereits sehr auf die Veranstaltung und die neuen Impulse für meine Arbeit. Gibt es Materialien, die __2__ zur Verfügung gestellt werden, __3__ ich mich optimal vorbereiten kann? Das wäre sehr hilfreich.\n\n__4__ wäre ich Ihnen dankbar, wenn Sie mir den detaillierten Zeitplan zukommen lassen könnten. Mich interessiert insbesondere, wann die Seminartage genau beginnen und enden und wann Pausen vorgesehen sind, damit ich meine An- und Abreise __5__ planen kann.\n\nIch habe das Anmeldeformular, wie gewünscht, ausgefüllt und unterschrieben. Sie finden es __6__ im Anhang dieser E-Mail.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "anbei"
         },
         {
             "id": "b",
-            "content": "jederzeit"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "Deshalb"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "ebenso"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "hiermit"
         },
         {
             "id": "f",
-            "content": "Gerne"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "durchaus"
+            "content": "rechtzeitig"
         },
         {
             "id": "h",
-            "content": "Leider"
+            "content": "sobald"
         },
         {
             "id": "i",
-            "content": "weil"
+            "content": "vorab"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "e"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "i"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
             "option_id": "b"
+        },
+        {
+            "blank": "5",
+            "option_id": "g"
+        },
+        {
+            "blank": "6",
+            "option_id": "a"
         }
     ]
 }

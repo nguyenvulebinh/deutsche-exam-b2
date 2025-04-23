@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April zugesandt habe. __1__ mittlerweile einige Wochen vergangen sind, seit die Bewerbungsfrist offiziell endete, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position in Ihrem Unternehmen ist __2__ sehr groß, da die Aufgabenbeschreibung exakt meinen Fähigkeiten und beruflichen Vorstellungen entspricht.\n\nIch wäre Ihnen sehr dankbar, __3__ Sie mir eine kurze Information zukommen lassen könnten, wann ungefähr mit einer Entscheidung oder weiteren Schritten im Prozess zu rechnen ist.\n\n__4__ ich natürlich verstehe, dass sorgfältige Auswahlprozesse Zeit benötigen, wäre eine ungefähre Zeitangabe für meine weitere Planung hilfreich.\n\nSollten Sie __5__ noch Fragen haben oder weitere Unterlagen benötigen, stehe ich Ihnen jederzeit gerne zur Verfügung.\n\nIch freue mich weiterhin __6__ eine positive Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anforderung eines qualifizierten Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Beschäftigung als Projektmanager in Ihrer Abteilung vom 01.03.2020 bis zum 31.08.2023. __1__ bitte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses. Dieses wird für meine weiteren beruflichen Schritte und Bewerbungen benötigt.\n\nIch wäre Ihnen dankbar, wenn im Zeugnis meine Leistungen __2__ der erfolgreich abgeschlossenen Projekte \"Alpha\" und \"Beta\" besonders gewürdigt würden. Diese Projekte führten zu einer nachweislichen Effizienzsteigerung von 15%. __3__ wäre es hilfreich, meine Rolle bei der Einführung des neuen CRM-Systems zu erwähnen, was eine erhebliche Verbesserung der Kundendatenverwaltung zur Folge hatte.\n\nDie Projektleitung für \"Alpha\" war zeitweise sehr herausfordernd, __4__ konnten wir das Projekt dank guter Teamarbeit termingerecht abschließen. Ich benötige das Zeugnis möglichst bis Ende des nächsten Monats, __5__ ich es meiner Bewerbung für eine neue Position beilegen kann.\n\nBitte teilen Sie mir __6__ mit, ob dieser Zeitrahmen für Sie realisierbar ist oder ob Sie noch weitere Informationen von mir benötigen.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "wenn"
+            "content": "anhand"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "aufgrund"
         },
         {
             "id": "c",
-            "content": "über"
+            "content": "außerdem"
         },
         {
             "id": "d",
-            "content": "Obwohl"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "Deshalb"
+            "content": "des Weiteren"
         },
         {
             "id": "f",
-            "content": "auf"
+            "content": "gleichwohl"
         },
         {
             "id": "g",
-            "content": "Da"
+            "content": "hiermit"
         },
         {
             "id": "h",
-            "content": "Trotz"
+            "content": "kurzfristig"
         },
         {
             "id": "i",
-            "content": "ob"
+            "content": "sodass"
         },
         {
             "id": "j",
-            "content": "eventuell"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "b"
-        },
-        {
-            "blank": "3",
             "option_id": "a"
         },
         {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "h"
         }
     ]
 }

@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. März",
-    "textinhalt": "Sehr geehrte Frau Kleinert,\n\nich beziehe mich auf meine Bewerbung vom 25. März für die ausgeschriebene Stelle als Marketingmanager in Ihrem Unternehmen und möchte mich für die automatische Eingangsbestätigung bedanken.\n\n__1__ seitdem bereits einige Wochen vergangen sind und die in der Ausschreibung genannte Frist abgelaufen ist, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position ist __2__ sehr groß. Die beschriebenen Aufgaben, __3__ mich aufgrund meiner bisherigen Erfahrungen besonders ansprechen, passen hervorragend zu meinen beruflichen Zielen.\n\n__4__ ich natürlich verstehe, dass ein sorgfältiger Auswahlprozess Zeit benötigt, wäre ich Ihnen dennoch dankbar für eine kurze Information, __5__ ungefähr mit einer Rückmeldung zu rechnen ist.\n\n__6__ eventuelle Rückfragen oder ein persönliches Gespräch stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Your Name]",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nhiermit nehme ich Bezug auf meine frühere Anstellung als Marketingassistent in Ihrem Unternehmen im Zeitraum vom 01.04.2021 bis zum 31.03.2024. Wie Sie wissen, habe ich das Unternehmen auf eigenen Wunsch verlassen, um mich beruflich neu zu orientieren.\n\n__1__ bitte ich Sie höflich um die Ausstellung eines qualifizierten Arbeitszeugnisses. Ich benötige dieses Dokument für meine weiteren Bewerbungsunterlagen, __2__ sich potenzielle neue Arbeitgeber ein umfassendes Bild von meinen bisherigen Tätigkeiten und Leistungen machen können.\n\n__3__ wäre ich Ihnen dankbar, wenn im Zeugnis wie üblich sowohl meine Aufgabenbereiche und Leistungen als auch mein Sozialverhalten bewertet werden. __4__ der genauen Inhalte und Formulierungen verlasse ich mich selbstverständlich auf die Einhaltung der gesetzlichen Vorgaben und branchenüblichen Standards.\n\nIch bitte um eine Zusendung des Zeugnisses an meine aktuelle Postadresse, die Ihnen bereits vorliegen sollte, und hoffe, dass meine Anfrage __5__ bearbeitet wird.\n\nSollten Sie Rückfragen haben oder zusätzliche Informationen benötigen, stehe ich Ihnen __6__ gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Was"
+            "content": "Bezüglich"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "Damit"
         },
         {
             "id": "c",
-            "content": "für"
+            "content": "Daher"
         },
         {
             "id": "d",
-            "content": "Obwohl"
+            "content": "Ferner"
         },
         {
             "id": "e",
-            "content": "Immer"
+            "content": "Jedoch"
         },
         {
             "id": "f",
-            "content": "wann"
+            "content": "Obwohl"
         },
         {
             "id": "g",
-            "content": "Trotzdem"
+            "content": "Selbstverständlich"
         },
         {
             "id": "h",
-            "content": "Da"
+            "content": "Sodass"
         },
         {
             "id": "i",
-            "content": "Wenn"
+            "content": "Wegen"
         },
         {
             "id": "j",
-            "content": "die"
+            "content": "Zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "c"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
             "option_id": "d"
         },
         {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
             "blank": "5",
-            "option_id": "f"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "g"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Bauer,\n\nbezugnehmend auf meine Bewerbung als Marketingmanager vom 25. April und unser anschließendes kurzes Telefonat am 2. Mai, möchte ich mich __1__ nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDa __2__ einige Zeit vergangen ist und ich bisher keine Rückmeldung erhalten habe, wollte ich höflich nachfragen. Ich bin nach wie vor sehr __3__ an dieser Position interessiert, da die beschriebenen Aufgabenbereiche meinen Qualifikationen und beruflichen Zielen sehr gut entsprechen.\n\n__4__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, wann etwa mit einer Entscheidung zu rechnen ist. Sollten Sie __5__ noch weitere Unterlagen oder Informationen von mir benötigen, lassen Sie es mich bitte wissen.\n\nIch freue mich __6__ auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung Gespräch Marketingkooperation",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nBezug nehmend auf unser Telefonat von gestern Nachmittag möchte ich __1__ meiner Notizen die besprochenen Punkte für unsere mögliche Marketingkooperation kurz zusammenfassen.\n\nWir waren uns einig, dass eine gemeinsame Social-Media-Kampagne für beide Seiten vorteilhaft wäre. __2__ sprachen wir über die Möglichkeit, ein gemeinsames Webinar für unsere Kunden anzubieten. Hierzu müssten wir noch klären, __3__ die technischen Voraussetzungen auf beiden Seiten kompatibel sind.\n\nDie geschätzten Kosten für die Kampagne belaufen sich ersten Schätzungen zufolge auf ca. 5.000 Euro pro Unternehmen. __4__ wäre eine detaillierte Budgetplanung der nächste wichtige Schritt. Könnten Sie mir bitte mitteilen, ob Ihr Team die benötigten Zahlen __5__ der nächsten zwei Wochen zusammenstellen kann?\n\nWir stehen für Rückfragen __6__ gerne zur Verfügung und freuen uns auf Ihre positive Rückmeldung sowie die weiteren Schritte.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "auf"
+            "content": "anhand"
         },
         {
             "id": "b",
-            "content": "dabei"
+            "content": "außerdem"
         },
         {
             "id": "c",
-            "content": "daran"
+            "content": "demnach"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "falls"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "ferner"
         },
         {
             "id": "f",
-            "content": "hiermit"
+            "content": "innerhalb"
         },
         {
             "id": "g",
-            "content": "inzwischen"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "selbstverständlich"
         },
         {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "wegen"
         },
         {
             "id": "j",
-            "content": "über"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "d"
-        },
-        {
-            "blank": "5",
             "option_id": "e"
         },
         {
+            "blank": "3",
+            "option_id": "g"
+        },
+        {
+            "blank": "4",
+            "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "f"
+        },
+        {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "h"
         }
     ]
 }

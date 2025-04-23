@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich schreibe Ihnen __1__ meiner Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Mai über Ihr Online-Portal zukommen ließ.\n\nDa __2__ einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin nach wie vor sehr an dieser Position interessiert, __3__ die beschriebenen Aufgaben und die Möglichkeit, in Ihrem Unternehmen tätig zu werden, meinen Qualifikationen und beruflichen Zielen in hohem Maße entsprechen.\n\nKönnten Sie mir __4__ eine kurze Rückmeldung geben, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nSollten Sie __5__ weitere Informationen benötigen oder ein persönliches Gespräch wünschen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe. __6__ baldigen Rückmeldung sehe ich mit Interesse entgegen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückfrage zu Besprechungspunkten",
+    "textinhalt": "Sehr geehrter Herr Bauer,\n\nich beziehe mich auf unsere gestrige Projektbesprechung zum Thema „Optimierung der internen Prozesse“. Das Meeting war sehr produktiv und hat viele wichtige Punkte angesprochen. __1__ sind bei mir im Nachgang noch ein paar Fragen aufgetaucht, die ich gerne klären würde.\n\n__2__ meiner Notizen haben wir über die Einführung einer neuen Software gesprochen. Könnten Sie mir bitte mitteilen, __3__ hierzu bereits eine Entscheidung getroffen wurde? Ich konnte dies meinen Aufzeichnungen nicht eindeutig entnehmen.\n\nFalls ja, würde ich gerne die nächsten Schritte verstehen. Sie erwähnten ein internes Dokument, das den Implementierungsplan beschreibt. Ich benötige die Informationen __4__ für die Planung der notwendigen Schulungen in meiner Abteilung.\n\nKönnten Sie mir das Dokument zukommen lassen? Ich wäre Ihnen dankbar, wenn Sie __5__ auch kurz mitteilen könnten, wer als Hauptansprechpartner für die Softwareeinführung vorgesehen ist.\n\n__6__ ist eine baldige Klärung dieser Punkte möglich, damit wir die nächsten Schritte zeitnah einleiten können.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nAnna Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "da"
+            "content": "anschließend"
         },
         {
             "id": "b",
-            "content": "wegen"
+            "content": "damit"
         },
         {
             "id": "c",
-            "content": "Einer"
+            "content": "dazu"
         },
         {
             "id": "d",
-            "content": "obwohl"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "zusätzlich"
+            "content": "gemäß"
         },
         {
             "id": "f",
-            "content": "bereits"
+            "content": "hoffentlich"
         },
         {
             "id": "g",
-            "content": "eventuell"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "inzwischen"
+            "content": "ob"
         },
         {
             "id": "i",
-            "content": "Eine"
+            "content": "sicherlich"
         },
         {
             "id": "j",
-            "content": "bezüglich"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "j"
-        },
-        {
-            "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "a"
-        },
-        {
-            "blank": "4",
             "option_id": "g"
         },
         {
-            "blank": "5",
+            "blank": "2",
             "option_id": "e"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "h"
+        },
+        {
+            "blank": "4",
             "option_id": "c"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
         }
     ]
 }

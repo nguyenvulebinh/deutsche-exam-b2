@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Weber,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 25. April zugesandt habe. __1__ ist nun einige Zeit vergangen, seitdem ich die Eingangsbestätigung erhalten habe.\n\nDa die Stelle mich sehr anspricht und ich die Entwicklung Ihres Unternehmens mit großem Interesse verfolge, möchte ich mein __2__ starkes Interesse an dieser Position bekräftigen.\n\n__3__ wollte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlprozesses ist. Könnten Sie mir eventuell mitteilen, __4__ mit den nächsten Schritten im Bewerbungsverfahren zu rechnen ist oder ob bereits eine Vorauswahl getroffen wurde?\n\nEine kurze Information über den Zeitrahmen, beispielsweise ob Entscheidungen __5__ der nächsten zwei bis drei Wochen zu erwarten sind, wäre für meine weitere Planung sehr hilfreich.\n\nIch wäre Ihnen für eine kurze Rückmeldung dankbar, __6__ ich entsprechend disponieren kann.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage: Details zur internen Weiterbildung „Projektmanagement Basics“",
+    "textinhalt": "Sehr geehrte Damen und Herren der Personalabteilung,\n\nmit großem Interesse habe ich die Ankündigung der internen Weiterbildung „Projektmanagement Basics“ in unserem Intranet zur Kenntnis genommen. Das Thema ist für meine aktuelle Position sehr relevant und ich würde mein Wissen gerne vertiefen.\n\n__1__ begrüße ich diese Weiterbildungsmöglichkeit sehr, andererseits sind mir einige organisatorische Details noch unklar. __2__ bitte ich Sie um Zusendung weiterer Informationen.\n\nKönnten Sie mir bitte mitteilen, __3__ welcher Frist die Anmeldung erfolgen muss? Des Weiteren wüsste ich gerne, __4__ welchen Online-Formulars oder welcher E-Mail-Adresse die Registrierung durchgeführt wird. Ich werde mich anmelden, __5__ ich diese Details erhalten habe.\n\nBitte informieren Sie mich auch über __6__ notwendige Vorkenntnisse oder Zertifikate, die für die Teilnahme erforderlich sind.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "damit"
+            "content": "außerdem"
         },
         {
             "id": "b",
-            "content": "wenn"
+            "content": "außerhalb"
         },
         {
             "id": "c",
-            "content": "innerhalb"
+            "content": "einerseits"
         },
         {
             "id": "d",
-            "content": "trotzdem"
+            "content": "gegebenenfalls"
         },
         {
             "id": "e",
-            "content": "inzwischen"
+            "content": "innerhalb"
         },
         {
             "id": "f",
-            "content": "deshalb"
+            "content": "insofern"
         },
         {
             "id": "g",
-            "content": "während"
+            "content": "mithilfe"
         },
         {
             "id": "h",
-            "content": "um"
+            "content": "seitens"
         },
         {
             "id": "i",
-            "content": "nach wie vor"
+            "content": "sobald"
         },
         {
             "id": "j",
-            "content": "wann"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
-            "option_id": "j"
-        },
-        {
-            "blank": "5",
             "option_id": "c"
         },
         {
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "e"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "i"
+        },
+        {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "d"
         }
     ]
 }

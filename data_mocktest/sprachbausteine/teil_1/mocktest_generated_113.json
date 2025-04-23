@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer MM-451) vom 20.04.2024",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\n__1__ auf meine Bewerbung vom 20. April 2024 für die ausgeschriebene Stelle als Marketing Manager (Kennziffer MM-451) möchte ich mich heute erneut an Sie wenden.\n\nDa __2__ einige Wochen seit dem Ende der Bewerbungsfrist vergangen sind, wollte ich mich höflich erkundigen, ob es bereits Neuigkeiten zum Stand des Auswahlverfahrens gibt.\n\nIch bin __3__ sehr an dieser Position interessiert, da die Aufgabenbeschreibung und die Werte Ihres Unternehmens meinen beruflichen Vorstellungen und Qualifikationen in hohem Maße entsprechen.\n\n__4__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information zukommen lassen könnten, __5__ etwa mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist.\n\nFür eventuelle Rückfragen __6__ meiner Bewerbungsunterlagen stehe ich Ihnen selbstverständlich jederzeit gerne telefonisch oder per E-Mail zur Verfügung.\n\nVielen Dank für Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\nPeter Vogel",
+    "thema": "Anfrage zur Reisekostenrichtlinie",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich wende mich an Sie bezüglich meiner bevorstehenden Dienstreise nach Berlin vom 15. bis 17. Mai. Ich habe die allgemeine Reisekostenrichtlinie Ihres Unternehmens bereits sorgfältig durchgelesen, __1__ sind mir bei der Planung einige Punkte noch unklar geblieben, insbesondere bezüglich der Übernachtungskosten.\n\n__2__ einer parallel stattfindenden großen Fachmesse in Berlin scheinen die Preise für Hotels der üblichen Kategorie deutlich höher zu sein als im Leitfaden angegeben. Könnten Sie mir bitte __3__ mitteilen, ob unter diesen Umständen eine Überschreitung des Standardlimits für Hotelkosten genehmigt werden kann?\n\nIch benötige diese Information relativ zeitnah, __4__ ich die notwendigen Buchungen bald abschließen muss. Könnten Sie mir außerdem mitteilen, welche Nachweise __5__ genau erforderlich sind, falls eine Ausnahme genehmigt wird? Reicht beispielsweise ein Hinweis auf die Messe aus?\n\nBitte senden Sie mir __6__ auch das entsprechende Antragsformular für Ausnahmegenehmigungen zu, sofern eines benötigt wird.\n\nVielen Dank im Voraus für Ihre Hilfe und Klärung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "weiterhin"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "zu"
+            "content": "aufgrund"
         },
         {
             "id": "c",
-            "content": "falls"
+            "content": "dafür"
         },
         {
             "id": "d",
-            "content": "trotzdem"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "wann"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "bezugnehmend"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "hierfür"
         },
         {
             "id": "h",
-            "content": "daher"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "inzwischen"
+            "content": "vorab"
         },
         {
             "id": "j",
-            "content": "seitdem"
+            "content": "wegen"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "i"
-        },
-        {
-            "blank": "3",
             "option_id": "a"
         },
         {
+            "blank": "2",
+            "option_id": "b"
+        },
+        {
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
             "blank": "4",
-            "option_id": "h"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "b"
+            "option_id": "f"
         }
     ]
 }

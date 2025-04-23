@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung als Marketingassistent vom 25. April, für die ich bereits eine Eingangsbestätigung erhalten habe.\n\nMir ist bewusst, dass die Prüfung aller Unterlagen Zeit benötigt. __1__ möchte ich mich höflich erkundigen, ob es bereits Neuigkeiten zum Stand meiner Bewerbung gibt. Könnten Sie mir eventuell mitteilen, __2__ voraussichtlich mit einer Entscheidung zu rechnen ist?\n\nIch bin __3__ sehr an dieser Position interessiert, da die Aufgabenbeschreibung exakt meinen Fähigkeiten und beruflichen Vorstellungen entspricht. Für Rückfragen oder ein persönliches Gespräch stehe ich Ihnen __4__ zur Verfügung.\n\n__5__ Sie zusätzliche Dokumente benötigen, lassen Sie es mich bitte wissen.\n\nVielen Dank im Voraus für eine kurze Information __6__ das weitere Vorgehen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Beschwerde: Defekter Bürodrucker (Modell XYZ)",
+    "textinhalt": "Sehr geehrte Damen und Herren des IT-Supports,\n\nwir schreiben Ihnen bezüglich des neuen Bürodruckers (Modell XYZ), der am vergangenen Montag in unserer Abteilung installiert wurde.\n\n__1__ wir die Installationsanleitung genau befolgt und alle Verbindungen überprüft haben, lässt sich das Gerät nicht in Betrieb nehmen. Es zeigt durchgehend eine Fehlermeldung an, die __2__ der beiliegenden Dokumentation nicht erklärt wird. Das ist äußerst problematisch, da wir für unsere täglichen Aufgaben dringend auf einen funktionierenden Drucker angewiesen sind.\n\nWir bitten Sie __3__ um Unterstützung. Wäre es möglich, dass ein Techniker das Gerät überprüft? __4__ eine Reparatur vor Ort nicht möglich ist, benötigen wir einen schnellen Austausch des Druckers. Wir haben __5__ bereits versucht, die Standard-Fehlerbehebungsschritte durchzuführen, leider ohne Erfolg.\n\nBitte teilen Sie uns __6__ mit, wann wir mit einer Lösung rechnen können. Für Rückfragen stehen wir Ihnen selbstverständlich zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "dennoch"
+            "content": "ebenfalls"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "gemäß"
         },
         {
             "id": "c",
-            "content": "Falls"
+            "content": "hierbei"
         },
         {
             "id": "d",
-            "content": "jederzeit"
+            "content": "jedoch"
         },
         {
             "id": "e",
-            "content": "ob"
+            "content": "laut"
         },
         {
             "id": "f",
-            "content": "Sollten"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "wann"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "zu"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "a"
-        },
-        {
-            "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "i"
-        },
-        {
-            "blank": "4",
-            "option_id": "d"
-        },
-        {
-            "blank": "5",
             "option_id": "f"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "e"
+        },
+        {
+            "blank": "3",
+            "option_id": "j"
+        },
+        {
+            "blank": "4",
             "option_id": "g"
+        },
+        {
+            "blank": "5",
+            "option_id": "c"
+        },
+        {
+            "blank": "6",
+            "option_id": "a"
         }
     ]
 }

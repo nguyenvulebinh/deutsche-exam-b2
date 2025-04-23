@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. März",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 25. März zugesandt habe.\n\n__1__ ist nun einige Zeit vergangen, __2__ möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir eventuell eine kurze Auskunft geben, in welcher Phase sich der Prozess befindet?\n\nMein Interesse __3__ der ausgeschriebenen Stelle und an Ihrem Unternehmen ist nach wie vor sehr groß. Ich bin weiterhin davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen der Position passen.\n\nIch hoffe, meine Unterlagen sind vollständig bei Ihnen eingegangen. __4__ Sie zusätzliche Informationen oder Dokumente von meiner Seite benötigen, lassen Sie es mich bitte wissen. Ich stehe Ihnen dafür gerne zur Verfügung.\n\nIch wäre Ihnen dankbar für eine kurze Rückmeldung __5__ des weiteren Vorgehens.\n\nVielen Dank im Voraus __6__ Ihre Zeit und Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage zu internen Weiterbildungsmöglichkeiten",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich schreibe Ihnen bezüglich der internen Weiterbildungsmöglichkeiten, insbesondere des Kurses „Projektmanagement Grundlagen“, der im Intranet erwähnt wird. Ich habe großes Interesse daran teilzunehmen.\n\n__1__ die allgemeine Kursbeschreibung online verfügbar ist, konnte ich keine detaillierten Informationen zum offiziellen Anmeldeprozess finden. Es scheint unterschiedliche Aussagen dazu zu geben. __2__ möchte ich Sie bitten, mir kurz zu erläutern, wie die formelle Anmeldung abläuft und wo ich die verbindlichen Richtlinien finde.\n\nIm Intranet steht, man benötige die Zustimmung des Vorgesetzten. Gibt es __3__ noch weitere Voraussetzungen oder Unterlagen, die eingereicht werden müssen, beispielsweise Nachweise über bisherige Projekterfahrungen?\n\nIch würde meine Unterlagen gerne zeitnah vorbereiten. Könnten Sie mir __4__ mitteilen, bis wann eine Anmeldung für den nächsten Kursdurchgang möglich ist? Ich benötige diese Information, __5__ ich meine Teilnahme realistisch planen und alle Dokumente rechtzeitig zusammenstellen kann.\n\nSobald ich alle notwendigen Informationen habe, werde ich meine Anmeldung __6__ den geltenden Vorgaben einreichen.\n\nVielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "AN"
+            "content": "damit"
         },
         {
             "id": "b",
-            "content": "BEZÜGLICH"
+            "content": "deswegen"
         },
         {
             "id": "c",
-            "content": "DESHALB"
+            "content": "ferner"
         },
         {
             "id": "d",
-            "content": "FALLS"
+            "content": "gemäß"
         },
         {
             "id": "e",
-            "content": "FÜR"
+            "content": "laut"
         },
         {
             "id": "f",
-            "content": "INZWISCHEN"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "OBWOHL"
+            "content": "sodass"
         },
         {
             "id": "h",
-            "content": "TROTZDEM"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "ÜBER"
+            "content": "unbedingt"
         },
         {
             "id": "j",
-            "content": "WEIL"
+            "content": "vielleicht"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "a"
-        },
-        {
-            "blank": "4",
-            "option_id": "d"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "i"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "d"
         }
     ]
 }

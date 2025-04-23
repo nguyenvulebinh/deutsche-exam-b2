@@ -1,60 +1,60 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 20. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager, die ich Ihnen am 20. April zugesandt habe. __1__ seitdem einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie in der Ausschreibung beschriebenen Aufgaben entsprechen __2__ meinen beruflichen Zielen und Erfahrungen. Ich wäre Ihnen dankbar, wenn Sie mir __3__ mitteilen könnten, wann mit einer ersten Rückmeldung oder den nächsten Schritten zu rechnen ist.\n\nIch bin __4__ davon überzeugt, dass meine Qualifikationen und meine Motivation gut zu den Anforderungen der Stelle passen. Für ein persönliches Gespräch stehe ich Ihnen __5__ zur Verfügung.\n\nIch freue mich __6__ auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage: Details zum Seminar \"Effektives Projektmanagement\"",
+    "textinhalt": "Sehr geehrte Frau Meier,\n\nich schreibe Ihnen __1__ unseres kurzen Gesprächs am Rande der Betriebsversammlung letzte Woche bezüglich des Seminars \"Effektives Projektmanagement\". Das Thema interessiert mich sehr und passt gut zu meinen aktuellen Aufgaben.\n\nIch habe verstanden, dass das Seminar intern angeboten wird, __2__ fehlen mir noch einige konkrete Informationen, um meine Teilnahme final planen zu können. Könnten Sie mir bitte mitteilen, wann genau das Seminar stattfindet und welche Kosten __3__ für die Teilnahme anfallen?\n\nDie Genehmigung meines Vorgesetzten hängt von diesen Details ab. __4__ bitte ich um möglichst baldige Zusendung der relevanten Unterlagen oder eines Links, __5__ diese verfügbar sind.\n\nKönnten Sie mir __6__ noch mitteilen, ob es eine maximale Teilnehmerzahl gibt und bis wann eine verbindliche Anmeldung erfolgen muss?\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Eigentlich"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "kurz"
+            "content": "anlässlich"
         },
         {
             "id": "c",
-            "content": "Obwohl"
+            "content": "aufgrund"
         },
         {
             "id": "d",
-            "content": "weiterhin"
+            "content": "demzufolge"
         },
         {
             "id": "e",
-            "content": "auf"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "seitdem"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "Deshalb"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "genau"
+            "content": "sobald"
         },
         {
             "id": "i",
-            "content": "Über"
+            "content": "überdies"
         },
         {
             "id": "j",
-            "content": "selbstverständlich"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "a"
         },
         {
             "blank": "3",
-            "option_id": "b"
+            "option_id": "f"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "i"
         }
     ]
 }

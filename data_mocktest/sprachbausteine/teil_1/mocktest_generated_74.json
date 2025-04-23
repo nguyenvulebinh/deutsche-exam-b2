@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistenz vom 20. April",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich nehme __1__ auf meine Bewerbung vom 20. April für die Stelle als Marketingassistenz sowie auf Ihre freundliche Eingangsbestätigung.\n\n__2__ nun einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist durchaus bewusst, dass eine sorgfältige Prüfung Zeit __3__ nimmt.\n\n__4__ würde ich mich über eine kurze Information freuen, ob Sie bereits absehen können, wann etwa mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist.\n\nMein Interesse an dieser Position und Ihrem Unternehmen ist __5__ sehr groß, da die beschriebenen Aufgaben und das Arbeitsumfeld meinen beruflichen Zielen und Qualifikationen außerordentlich gut entsprechen.\n\nFür eventuelle Rückfragen oder ein persönliches Gespräch stehe ich Ihnen selbstverständlich __6__ zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage bezüglich Rechnung Nr. 4812-B",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nwir schreiben Ihnen __1__ Ihrer Rechnung Nr. 4812-B vom 15. Mai dieses Jahres, welche wir letzte Woche erhalten haben.\n\nDen aufgeführten Gesamtbetrag haben wir __2__ am 20. Mai auf Ihr Geschäftskonto überwiesen. __3__ mussten wir bei der detaillierten Prüfung der Rechnungspositionen feststellen, dass die Kosten für die „Expresslieferung“ doppelt berechnet wurden. Dies scheint ein Versehen zu sein.\n\nWir bitten um eine zeitnahe Überprüfung dieses Sachverhalts. Eine korrekte Buchung ist uns nur mit einer fehlerfreien Rechnung möglich, weshalb wir __4__ um eine schnelle Klärung bitten. Bitte senden Sie uns __5__ die korrigierte Rechnung per E-Mail zu, nachdem Sie den Fehler verifiziert haben.\n\nBitte teilen Sie uns auch mit, ob __6__ eine Gutschrift über den zu viel berechneten Betrag erstellt wird oder ob die korrigierte Rechnung den ursprünglichen Betrag entsprechend reduziert. Eine Kopie der beanstandeten Rechnung finden Sie zur Referenz im Anhang.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "anhand"
         },
         {
             "id": "b",
-            "content": "weiterhin"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "Bezug"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "gerne"
+            "content": "dafür"
         },
         {
             "id": "e",
-            "content": "in Anspruch"
+            "content": "deshalb"
         },
         {
             "id": "f",
-            "content": "Deshalb"
+            "content": "gegebenenfalls"
         },
         {
             "id": "g",
-            "content": "Da"
+            "content": "hierfür"
         },
         {
             "id": "h",
-            "content": "jederzeit"
+            "content": "sobald"
         },
         {
             "id": "i",
-            "content": "Trotzdem"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "Rücksicht"
+            "content": "wenn"
         }
     ],
     "loesung": [
@@ -50,23 +50,23 @@
         },
         {
             "blank": "2",
-            "option_id": "g"
-        },
-        {
-            "blank": "3",
-            "option_id": "e"
-        },
-        {
-            "blank": "4",
-            "option_id": "i"
-        },
-        {
-            "blank": "5",
             "option_id": "b"
         },
         {
-            "blank": "6",
+            "blank": "3",
+            "option_id": "i"
+        },
+        {
+            "blank": "4",
+            "option_id": "g"
+        },
+        {
+            "blank": "5",
             "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "f"
         }
     ]
 }

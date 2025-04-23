@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 15. Mai und Ihre freundliche Eingangsbestätigung hierzu. __1__ nun einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position entspricht __2__ genau meinen Qualifikationen und beruflichen Zielen, und mein Interesse an einer Tätigkeit in Ihrem Unternehmen ist __3__ ungebrochen.\n\nIch wäre Ihnen dankbar, wenn Sie mir eine kurze Rückmeldung geben könnten, __4__ ich ungefähr mit einer Entscheidung rechnen kann.\n\n__5__ Sie in der Zwischenzeit weitere Unterlagen benötigen oder Fragen zu meiner Bewerbung haben, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nIch freue mich __6__ auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Antrag auf Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit bitte ich Sie um die Ausstellung eines qualifizierten Zwischenzeugnisses. Ich benötige dieses Dokument relativ dringend, __1__ ich mich auf eine interne Stelle bewerben möchte, deren Bewerbungsfrist bald endet.\n\nEs ist mir wichtig, dass es sich __2__ um ein *qualifiziertes* Zeugnis handelt, das detailliert auf meine Aufgabenbereiche und Leistungen eingeht. Das Zeugnis sollte meine Tätigkeiten seit meinem Eintritt in das Unternehmen am [Datum] umfassen.\n\nKönnten Sie mir bitte mitteilen, wie lange die übliche Bearbeitungszeit ist? Ich wäre Ihnen sehr dankbar, wenn ich das Zeugnis __3__ der nächsten zwei Wochen erhalten könnte. Die Bewerbungsfrist endet __4__ bereits am [Datum in ca. 2 Wochen], weshalb ich unter Zeitdruck stehe.\n\nBitte achten Sie __5__ besonders auf die detaillierte Beschreibung meiner Projektmanagement-Aufgaben und der erfolgreich abgeschlossenen Projekte. __6__ Rückfragen zu meinen Tätigkeiten oder zur Formulierung bestehen, stehe ich Ihnen selbstverständlich jederzeit für ein Gespräch zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "tatsächlich"
+            "content": "da"
         },
         {
             "id": "b",
-            "content": "Obwohl"
+            "content": "dagegen"
         },
         {
             "id": "c",
-            "content": "auf"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "Wenn"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "Da"
+            "content": "hierbei"
         },
         {
             "id": "f",
-            "content": "weiterhin"
+            "content": "innerhalb"
         },
         {
             "id": "g",
-            "content": "Deshalb"
+            "content": "insbesondere"
         },
         {
             "id": "h",
-            "content": "Über"
+            "content": "nämlich"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "sollte"
         },
         {
             "id": "j",
-            "content": "falls"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "g"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "i"
         }
     ]
 }

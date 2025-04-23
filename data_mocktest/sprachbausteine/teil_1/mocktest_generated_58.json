@@ -1,52 +1,52 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager (Kennziffer: MM-45B)",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager (Kennziffer: MM-45B), die ich Ihnen am 25. April zugesandt habe. Vielen Dank nochmals für die Eingangsbestätigung, die ich kurz __1__ erhalten habe.\n\n__2__ nun einige Wochen vergangen sind, seitdem der Bewerbungsschluss war, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __3__ eine kurze Auskunft geben, wann voraussichtlich mit einer Entscheidung oder dem nächsten Schritt im Prozess zu rechnen ist?\n\nIch bin __4__ sehr an dieser verantwortungsvollen Aufgabe in Ihrem Unternehmen interessiert und davon überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen der Stelle passen.\n\n__5__ die Stelle meinen beruflichen Zielen und Wünschen entspricht, wäre ich Ihnen für eine baldige Rückmeldung dankbar.\n\nFür Rückfragen stehe ich Ihnen __6__ telefonisch oder per E-Mail zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich Lieferverzug Bestellung #XYZ",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nwir beziehen uns auf unsere Bestellung #XYZ vom 15. Mai bezüglich der Lieferung von 500 Einheiten des Bauteils Typ C-40. __1__ möchten wir uns nach dem aktuellen Lieferstatus erkundigen, da der vereinbarte Liefertermin der 1. Juni war.\n\nDiese Komponenten sind für den Start unserer neuen Produktionslinie essenziell, und jede Verzögerung hat direkte Auswirkungen __2__ unseren Projektzeitplan. Wir haben __3__ bis heute weder die Ware noch eine Information über eine mögliche Verspätung von Ihnen erhalten.\n\nWir bitten Sie __4__ um eine Klärung der Situation und um Mitteilung eines neuen, verbindlichen Lieferdatums. Bitte informieren Sie uns auch, __5__ Sie absehen können, wann genau die Lieferung erfolgen wird. Je präziser Ihre Angabe ist, desto besser können wir intern planen.\n\nWir sind auf eine zeitnahe Lieferung angewiesen. __6__ bitten wir um Ihr Verständnis für unsere Nachfrage und hoffen auf eine baldige positive Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann\nProjektleitung",
     "options": [
         {
             "id": "a",
-            "content": "besonders"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "auf"
         },
         {
             "id": "c",
-            "content": "daraufhin"
+            "content": "daher"
         },
         {
             "id": "d",
-            "content": "endlich"
+            "content": "diesbezüglich"
         },
         {
             "id": "e",
-            "content": "eventuell"
+            "content": "dringend"
         },
         {
             "id": "f",
-            "content": "jederzeit"
+            "content": "für"
         },
         {
             "id": "g",
-            "content": "obwohl"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "sofort"
+            "content": "sobald"
         },
         {
             "id": "i",
-            "content": "weiterhin"
+            "content": "sofort"
         },
         {
             "id": "j",
-            "content": "zuvor"
+            "content": "trotzdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
+            "option_id": "d"
         },
         {
             "blank": "2",
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "e"
+            "option_id": "a"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "e"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "f"
+            "option_id": "c"
         }
     ]
 }

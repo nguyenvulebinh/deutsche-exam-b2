@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nbezugnehmend auf meine Bewerbung als Projektmanager vom 15. Mai möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__1__ nun einige Wochen vergangen sind, seit ich meine Unterlagen eingereicht habe, wollte ich nachfragen, ob es bereits Neuigkeiten gibt.\n\nMein Interesse an der Position und Ihrem Unternehmen ist __2__ sehr groß, insbesondere die in der Ausschreibung genannten Entwicklungsmöglichkeiten finde ich nach wie vor sehr spannend.\n\nKönnten Sie mir __3__ mitteilen, wie der weitere Zeitplan aussieht oder __4__ mit einer Entscheidung zu rechnen ist? Über eine kurze Rückmeldung würde ich mich sehr freuen.\n\n__5__ möchte ich nochmals betonen, dass ich für Rückfragen jederzeit zur Verfügung stehe. Ich danke Ihnen __6__ für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu Details Weiterbildungskurs Projektmanagement",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf die interne Ankündigung des Weiterbildungskurses 'Projektmanagement Intensiv'. Ich habe großes Interesse an diesem Kurs und prüfe __1__ meine Teilnahmemöglichkeiten.\n\n__2__ bitte ich Sie um Zusendung detaillierter Informationen. Mich interessieren vor allem die genauen Termine und die Kursgebühren. Könnten Sie mir __3__ mitteilen, bis wann eine verbindliche Anmeldung erfolgen muss?\n\nIch müsste die Teilnahme vorab mit meiner Abteilungsleitung klären. __4__ bestimmte Voraussetzungen für die Teilnahme existieren, wäre ich dankbar für einen Hinweis darauf. Gibt es spezielle Unterlagen, die __5__ eingereicht werden müssen?\n\nIch wäre Ihnen sehr verbunden, wenn Sie mir die gewünschten Informationen __6__ zukommen lassen könnten, damit ich meine Planungen entsprechend ausrichten kann.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen,\nMax Müller",
     "options": [
         {
             "id": "a",
-            "content": "weiterhin"
+            "content": "BALDMÖGLICHST"
         },
         {
             "id": "b",
-            "content": "wenn"
+            "content": "DAHER"
         },
         {
             "id": "c",
-            "content": "Zudem"
+            "content": "DESHALB"
         },
         {
             "id": "d",
-            "content": "deshalb"
+            "content": "EBENFALLS"
         },
         {
             "id": "e",
-            "content": "seitdem"
+            "content": "HIERFÜR"
         },
         {
             "id": "f",
-            "content": "wann"
+            "content": "NUN"
         },
         {
             "id": "g",
-            "content": "bereits"
+            "content": "OBWOHL"
         },
         {
             "id": "h",
-            "content": "eventuell"
+            "content": "SOFERN"
         },
         {
             "id": "i",
-            "content": "während"
+            "content": "TROTZDEM"
         },
         {
             "id": "j",
-            "content": "im Voraus"
+            "content": "WÄHREND"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "h"
-        },
-        {
-            "blank": "4",
             "option_id": "f"
         },
         {
-            "blank": "5",
+            "blank": "2",
             "option_id": "c"
         },
         {
+            "blank": "3",
+            "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
+            "blank": "5",
+            "option_id": "e"
+        },
+        {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "a"
         }
     ]
 }

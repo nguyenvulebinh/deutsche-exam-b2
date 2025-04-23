@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingmanager, die ich Ihnen am 25. April über Ihr Online-Portal zugesandt habe. Den Eingang meiner Unterlagen hatten Sie mir freundlicherweise kurz __1__ per E-Mail bestätigt.\n\n__2__ seitdem einige Wochen vergangen sind, möchte ich mich auf diesem Wege höflich nach dem aktuellen Stand des Auswahlprozesses erkundigen.\n\nIch bin nach wie vor sehr an dieser Position in Ihrem Unternehmen interessiert, da die beschriebenen Aufgaben genau meinen Qualifikationen und Interessen entsprechen. __3__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, __4__ ungefähr mit einer Entscheidung zu rechnen ist.\n\nSelbstverständlich stehe ich Ihnen für eventuelle Rückfragen __5__ telefonisch oder per E-Mail zur Verfügung.\n\nIch bedanke mich für Ihre Bemühungen und freue mich auf eine __6__ Rückmeldung von Ihnen.\n\nMit freundlichen Grüßen\n\nJulia Wagner",
+    "thema": "Nachfrage zur Terminbestätigung für unser Meeting",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf unser Telefonat von letzter Woche, in dem wir __1__ einen Termin für das Kick-off-Meeting unseres Projekts \"X\" am [Datum, z.B., 25. Oktober] um 10:00 Uhr vereinbart hatten.\n\n__2__ habe ich bis heute keine formelle Bestätigung dieses Termins per E-Mail von Ihnen erhalten. Diese Bestätigung ist für unsere interne Koordination und Raumplanung jedoch sehr wichtig, __3__ wir sicherstellen können, dass alle notwendigen Ressourcen verfügbar sind und die weiteren Teilnehmer rechtzeitig informiert werden.\n\n__4__ bitte ich Sie höflich um eine kurze schriftliche Bestätigung des vereinbarten Termins.\n\n__5__ Ihnen der Termin aus unvorhergesehenen Gründen doch nicht mehr passen sollte, lassen Sie es mich bitte wissen, damit wir gemeinsam zeitnah eine Alternative finden können.\n\n__6__ wäre es hilfreich zu erfahren, ob die ursprünglich besprochene Agenda weiterhin gültig ist oder ob es Ihrerseits Änderungswünsche gibt.\n\nVielen Dank für Ihre baldige Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Ob"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Deshalb"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "Letzte"
+            "content": "damit"
         },
         {
             "id": "d",
-            "content": "daraufhin"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "baldige"
+            "content": "erst"
         },
         {
             "id": "f",
-            "content": "Manchmal"
+            "content": "falls"
         },
         {
             "id": "g",
-            "content": "jederzeit"
+            "content": "ferner"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "nämlich"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "Da"
+            "content": "weil"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "j"
-        },
-        {
-            "blank": "3",
             "option_id": "b"
         },
         {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "f"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "g"
         }
     ]
 }

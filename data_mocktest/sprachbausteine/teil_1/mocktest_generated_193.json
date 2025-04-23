@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch am 15. Mai als Projektmanager - Kennziffer PM-2024-03",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich möchte mich nochmals herzlich für das angenehme und informative Vorstellungsgespräch am 15. Mai für die Position als Projektmanager bedanken. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen und der ausgeschriebenen Stelle bestärkt, __1__ ich besonders die offene Diskussion über die Teamstruktur und Entwicklungsmöglichkeiten schätzte.\n\nIch bin __2__ sehr an der Position interessiert und möchte mich höflich erkundigen, __3__ etwa mit einer Entscheidung bezüglich der Besetzung der Stelle zu rechnen ist. Gibt es bereits einen ungefähren Zeitrahmen?\n\nBesonders das von Ihnen erwähnte Projekt zur Prozessoptimierung fand ich spannend. __4__ dieses Themas würde ich mich freuen, bei Bedarf weitere Gedanken oder Erfahrungen einzubringen.\n\nSollten Sie zusätzliche Informationen von meiner Seite benötigen, stehe ich Ihnen __5__ zur Verfügung.\n\nIch sehe Ihrer Rückmeldung mit großem Interesse entgegen. __6__ freue ich mich auf eine positive Nachricht von Ihnen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage Informationen zu Weiterbildungskurs",
+    "textinhalt": "Sehr geehrte Damen und Herren der Personalabteilung,\n\nich schreibe Ihnen bezüglich des __1__ intern angekündigten Weiterbildungskurses „Effektive Teamführung“. Mein Vorgesetzter, Herr Bauer, erwähnte diesen Kurs in unserem letzten Teammeeting, und mein Interesse wurde sofort geweckt.\n\nDa die Entwicklung von Führungsqualitäten für meine aktuelle Position als stellvertretende Teamleiterin von großer Bedeutung ist, möchte ich mich gerne weiterbilden. __2__ bitte ich Sie um Zusendung detaillierter Informationen.\n\nKönnten Sie mir mitteilen, wo ich eine ausführliche Kursbeschreibung sowie Angaben zu Terminen, Dauer und Kosten finden kann? Besonders wichtig wäre __3__ die Information, __4__ die Kosten für diese Weiterbildung vom Unternehmen übernommen werden oder ob es ein spezifisches Budget für solche Maßnahmen gibt.\n\n__5__ eine separate Anmeldung erforderlich ist, wäre ich Ihnen dankbar, wenn Sie mir auch den Anmeldeprozess und die Fristen erläutern könnten. Bitte teilen Sie mir __6__ mit, welche Unterlagen für eine Anmeldung benötigt werden.\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\nAnna Meyer",
     "options": [
         {
             "id": "a",
-            "content": "wenn"
+            "content": "dabei"
         },
         {
             "id": "b",
-            "content": "trotzdem"
+            "content": "dennoch"
         },
         {
             "id": "c",
-            "content": "wegen"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "bereits"
+            "content": "falls"
         },
         {
             "id": "e",
-            "content": "gerne"
+            "content": "gegebenenfalls"
         },
         {
             "id": "f",
-            "content": "weiterhin"
+            "content": "hierzu"
         },
         {
             "id": "g",
-            "content": "daher"
+            "content": "kürzlich"
         },
         {
             "id": "h",
-            "content": "wobei"
+            "content": "ob"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "sofort"
         },
         {
             "id": "j",
-            "content": "bezüglich"
+            "content": "wann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "g"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "i"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "j"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "g"
+            "option_id": "e"
         }
     ]
 }

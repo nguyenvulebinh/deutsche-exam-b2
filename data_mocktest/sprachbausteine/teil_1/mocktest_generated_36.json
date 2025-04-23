@@ -1,68 +1,68 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, die ich Ihnen am 25. April zugesandt habe.\n\n__1__ ich bisher noch keine Rückmeldung erhalten habe und mir durchaus bewusst bin, dass Auswahlprozesse eine gewisse Zeit in Anspruch nehmen, möchte ich mich dennoch höflich nach dem aktuellen Stand des Verfahrens erkundigen.\n\nMein Interesse an dieser Position ist __2__ groß, da die beschriebenen Aufgaben sehr gut __3__ meinen Qualifikationen und beruflichen Zielen passen.\n\nWäre es Ihnen __4__ möglich, mir eine kurze Einschätzung zu geben, wann ungefähr mit einer Entscheidung zu rechnen ist?\n\n__5__ Sie in der Zwischenzeit weitere Unterlagen oder Referenzen benötigen, lasse ich Ihnen diese selbstverständlich umgehend zukommen.\n\nIch bedanke mich __6__ Ihre Bemühungen und sehe einer baldigen Nachricht entgegen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Antrag auf Ausstellung eines qualifizierten Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich Sie um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten. Ich war in Ihrer Abteilung „Marketing“ vom 01. Mai 2020 __1__ zum 30. September 2023 als Online-Marketing-Managerin beschäftigt.\n\nDa mein Arbeitsverhältnis nun beendet ist, benötige ich dieses Dokument für meine zukünftigen Bewerbungen. __2__ wäre ich Ihnen sehr verbunden, wenn Sie die Erstellung veranlassen könnten.\n\nIch bitte __3__ um ein *qualifiziertes* Arbeitszeugnis, das nicht nur meine Aufgabenbereiche, sondern auch meine Leistungen und mein Sozialverhalten bewertet. __4__ § 109 der Gewerbeordnung (GewO) besteht ein rechtlicher Anspruch auf ein solches Zeugnis bei Beendigung des Arbeitsverhältnisses.\n\nMeine aktuelle Anschrift für den Versand lautet: Beispielweg 5, 10115 Berlin. __5__ Sie hierfür noch weitere Angaben oder Unterlagen von mir benötigen sollten, lassen Sie es mich bitte wissen.\n\nIch wäre Ihnen dankbar für eine kurze Bestätigung des Eingangs dieser Anfrage und eine __6__ Zusendung des Zeugnisses.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nAnna Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Falls"
+            "content": "bis"
         },
         {
             "id": "c",
-            "content": "mit"
+            "content": "folglich"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "gemäß"
         },
         {
             "id": "e",
-            "content": "weiterhin"
+            "content": "insbesondere"
         },
         {
             "id": "f",
-            "content": "eventuell"
+            "content": "seit"
         },
         {
             "id": "g",
-            "content": "Ob"
+            "content": "sofern"
         },
         {
             "id": "h",
-            "content": "zu"
+            "content": "trotz"
         },
         {
             "id": "i",
-            "content": "besonders"
+            "content": "wann"
         },
         {
             "id": "j",
-            "content": "für"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "b"
         },
         {
             "blank": "2",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "f"
+            "option_id": "d"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "6",

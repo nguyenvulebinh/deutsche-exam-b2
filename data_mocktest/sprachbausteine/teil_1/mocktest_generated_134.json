@@ -1,42 +1,42 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager, die ich Ihnen am 15. Mai zugesandt habe. __1__ ich bisher noch keine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin __2__ sehr an dieser Position interessiert, __3__ die Aufgabenbeschreibung genau meinen Qualifikationen und beruflichen Zielen entspricht.\n\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer Entscheidung zu rechnen ist? Ich verstehe natürlich, dass der Auswahlprozess Zeit __5__, aber eine kurze Information über den Zeitrahmen wäre sehr hilfreich.\n\nVielen Dank __6__ Ihre Bemühungen im Voraus.\n\nMit freundlichen Grüßen\nAnna Schmidt",
+    "thema": "Betreff: Antrag auf Ausstellung eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nhiermit möchte ich Sie höflich um die Ausstellung eines Zwischenzeugnisses bitten. Ich bin __1__ als Marketingassistent in Ihrer Abteilung tätig und benötige dieses Dokument für meine Bewerbung auf einen Masterstudienplatz im Bereich Wirtschaftspsychologie.\n\nDiese frühzeitige Anfrage ist notwendig, __2__ die Bewerbungsfrist für das Studium bereits in sechs Wochen endet und ich das Zeugnis als wesentlichen Bestandteil meiner Unterlagen einreichen muss. Ich wäre Ihnen dankbar, wenn im Zeugnis insbesondere meine Mitarbeit an der letzten Markteinführungskampagne sowie meine eigenständige Betreuung der Social-Media-Kanäle erwähnt werden könnten. __3__ weiterer Details oder spezifischer Punkte, die hervorgehoben werden sollen, stehe ich Ihnen gerne für ein kurzes Gespräch zur Verfügung.\n\nIch bin mir bewusst, dass die Erstellung eines qualifizierten Zeugnisses Zeit in Anspruch nimmt, __4__ Sie und das Team momentan durch das Jahresendgeschäft stark ausgelastet sind. Ich wäre Ihnen __5__ sehr verbunden, wenn Sie mir eine kurze Rückmeldung geben könnten, mit welchem Zeitrahmen ich ungefähr rechnen darf.\n\nFür eventuelle Rückfragen erreichen Sie mich __6__ unter meiner internen Durchwahl oder per E-Mail.\n\nVielen Dank im Voraus für Ihre Unterstützung und Mühe.\n\nMit freundlichen Grüßen\n\nLukas Schmidt",
     "options": [
         {
             "id": "a",
-            "content": "über"
+            "content": "aktuell"
         },
         {
             "id": "b",
-            "content": "vielleicht"
+            "content": "bezüglich"
         },
         {
             "id": "c",
-            "content": "trotzdem"
+            "content": "dafür"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "beansprucht"
+            "content": "derzeit"
         },
         {
             "id": "f",
-            "content": "obwohl"
+            "content": "gemäß"
         },
         {
             "id": "g",
-            "content": "für"
+            "content": "jederzeit"
         },
         {
             "id": "h",
-            "content": "nach wie vor"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "jedoch"
+            "content": "während"
         },
         {
             "id": "j",
@@ -46,23 +46,23 @@
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
             "option_id": "j"
         },
         {
-            "blank": "4",
+            "blank": "3",
             "option_id": "b"
         },
         {
+            "blank": "4",
+            "option_id": "h"
+        },
+        {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "c"
         },
         {
             "blank": "6",

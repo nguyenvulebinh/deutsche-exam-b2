@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 22. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nbezugnehmend auf meine Bewerbung vom 22. April für die Position als Projektmanager möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n__1__ nun einige Zeit vergangen ist und ich bisher keine Rückmeldung erhalten habe, wende ich mich heute an Sie.\n\nIch bin __2__ sehr an dieser verantwortungsvollen Aufgabe interessiert, da das Anforderungsprofil und die beschriebenen Tätigkeiten meinen Qualifikationen und beruflichen Zielen sehr __3__.\n\n__4__ wäre ich Ihnen dankbar, wenn Sie mir eine kurze Information geben könnten, wann etwa mit einer Entscheidung zu rechnen ist.\n__5__ Sie bereits einen genaueren Zeitplan für die nächsten Schritte haben, würde mir diese Auskunft sehr weiterhelfen.\n\nSollten Sie in der Zwischenzeit weitere Unterlagen oder Informationen __6__ mir benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Verschiebung unseres Termins am 15. Juli",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich schreibe Ihnen bezüglich unseres vereinbarten Termins am kommenden Freitag, den 15. Juli, um 10:00 Uhr.\n\nIch muss Ihnen __1__ mitteilen, dass ich diesen Termin nicht wahrnehmen kann. Ein unerwartetes, dringendes Projekt erfordert meine sofortige Aufmerksamkeit, weshalb ich __2__ absagen muss. Es tut mir sehr leid, Ihnen dadurch Unannehmlichkeiten zu bereiten.\n\nIch muss mich __3__ voll auf diese neue Aufgabe konzentrieren. __4__ bin ich weiterhin sehr an unserem Austausch interessiert und möchte das Gespräch unbedingt nachholen.\n\nKönnten wir __5__ einen neuen Termin in der darauffolgenden Woche finden? Bitte teilen Sie mir mit, __6__ Sie Zeitfenster vorschlagen können. Ich bin flexibel und richte mich gerne nach Ihnen.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Obwohl"
+            "content": "dennoch"
         },
         {
             "id": "b",
-            "content": "passen"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "jedoch"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "kurzfristig"
         },
         {
             "id": "e",
-            "content": "von"
+            "content": "leider"
         },
         {
             "id": "f",
-            "content": "entsprechen"
+            "content": "plötzlich"
         },
         {
             "id": "g",
-            "content": "Da"
+            "content": "sobald"
         },
         {
             "id": "h",
-            "content": "Trotzdem"
+            "content": "stattdessen"
         },
         {
             "id": "i",
-            "content": "Ob"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "Falls"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "f"
-        },
-        {
-            "blank": "4",
             "option_id": "d"
         },
         {
+            "blank": "3",
+            "option_id": "b"
+        },
+        {
+            "blank": "4",
+            "option_id": "a"
+        },
+        {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "h"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "g"
         }
     ]
 }

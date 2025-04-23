@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Marketingassistent, __1__ ich Ihnen am 25. April per E-Mail zugesandt habe.\n\nDa nun bereits einige Zeit vergangen ist, __2__ ich eine Eingangsbestätigung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie ausgeschriebene Position passt __3__ hervorragend zu meinen Qualifikationen und meinem beruflichen Werdegang, weshalb mein Interesse an einer Tätigkeit in Ihrem Unternehmen weiterhin sehr groß ist.\n\nKönnten Sie mir __4__ mitteilen, ob bereits eine Vorauswahl getroffen wurde und wann mit weiteren Schritten im Bewerbungsprozess zu rechnen ist?\n\nIch verstehe selbstverständlich, dass solche Prozesse Zeit in __5__ nehmen.\n\nSollten Sie __6__ noch Fragen zu meiner Bewerbung haben, stehe ich Ihnen gerne jederzeit zur Verfügung.\n\nIch bedanke mich für Ihre Mühe und freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage Protokoll Teambesprechung vom 15.10.",
+    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf unsere Teambesprechung vom 15. Oktober, in der wir wichtige nächste Schritte für das Projekt \"Alpha\" diskutiert haben.\n\n__1__ sind nun über zwei Wochen vergangen, und ich habe das offizielle Protokoll dieser Sitzung noch nicht erhalten. __2__ in diesem Meeting verbindliche Entscheidungen getroffen wurden, ist eine zeitnahe Dokumentation für alle Beteiligten unerlässlich. __3__ wurden konkrete Aufgaben verteilt, deren genaue Formulierungen und Fristen im Protokoll festgehalten sein sollten, um Missverständnisse zu vermeiden.\n\nDas Protokoll ist __4__ eine wichtige Grundlage für die weitere Planung und Koordination der nächsten Projektphasen. Wir benötigen es dringend, um unsere Arbeit effektiv fortsetzen zu können.\n\nIch wäre Ihnen dankbar, wenn Sie mir das Protokoll __5__ zusenden könnten. Bitte lassen Sie mich wissen, falls es zu Verzögerungen bei der Erstellung kommt. Wir benötigen die Informationen, __6__ jeder im Team seine Aufgaben und die entsprechenden Deadlines klar nachvollziehen kann.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "Frage"
+            "content": "damit"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "demzufolge"
         },
         {
             "id": "c",
-            "content": "Anspruch"
+            "content": "dennoch"
         },
         {
             "id": "d",
-            "content": "welche"
+            "content": "infolgedessen"
         },
         {
             "id": "e",
-            "content": "inhaltlich"
+            "content": "inzwischen"
         },
         {
             "id": "f",
-            "content": "die"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "während"
+            "content": "überdies"
         },
         {
             "id": "h",
-            "content": "seitdem"
+            "content": "wodurch"
         },
         {
             "id": "i",
-            "content": "zwischenzeitlich"
+            "content": "zeitnah"
         },
         {
             "id": "j",
-            "content": "eventuell"
+            "content": "zusätzlich"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
             "option_id": "e"
         },
         {
-            "blank": "4",
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
             "option_id": "j"
         },
         {
+            "blank": "4",
+            "option_id": "b"
+        },
+        {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "i"
         },
         {
             "blank": "6",
-            "option_id": "i"
+            "option_id": "a"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nich beziehe mich __1__ meine Bewerbung als Marketing Manager vom 25. April und die dazugehörige Eingangsbestätigung.\n\nDa nun __2__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nIch bin nach wie vor sehr an dieser Position interessiert und würde mich freuen, __3__ Sie mir eine kurze Rückmeldung geben könnten.\n\nKönnten Sie mir __4__ eine Auskunft geben, wann ungefähr mit einer Entscheidung zu rechnen ist? Diese Information wäre für meine weitere Planung __5__ hilfreich.\n\n__6__ Ihre Bemühungen bedanke ich mich bereits im Voraus.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage bezüglich eines Zwischenzeugnisses",
+    "textinhalt": "Sehr geehrter Herr Klein,\n\nich beziehe mich auf unser Gespräch von letzter Woche bezüglich meiner Pläne für ein berufsbegleitendes Masterstudium. Wie besprochen, möchte ich mich nun aktiv bewerben.\n\n__1__ benötige ich für die vollständigen Bewerbungsunterlagen ein aktuelles Zwischenzeugnis von Ihnen. Die Bewerbungsfrist für den Studiengang endet am 30. Juni, daher wäre ich Ihnen dankbar, wenn ich das Zeugnis __2__ Mitte Juni erhalten könnte.\n\nDas Zeugnis sollte __3__ den Anforderungen der Universität auch detaillierte Angaben zu meinen bisherigen Projekten und Verantwortungsbereichen enthalten. Ich habe __4__ in den letzten zwei Jahren maßgeblich an der erfolgreichen Einführung des neuen CRM-Systems mitgewirkt und das Projekt \"Kundenzufriedenheit 2023\" geleitet.\n\nGerne stehe ich Ihnen für Rückfragen oder zur Bereitstellung weiterer Informationen __5__ zur Verfügung. Ich wäre Ihnen sehr verbunden, wenn Sie die Erstellung des Zeugnisses __6__ veranlassen könnten.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen,\nAnna Weber",
     "options": [
         {
             "id": "a",
-            "content": "wenn"
+            "content": "bis"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "gemäß"
         },
         {
             "id": "c",
-            "content": "seit"
+            "content": "hierfür"
         },
         {
             "id": "d",
-            "content": "an"
+            "content": "hierzu"
         },
         {
             "id": "e",
-            "content": "Für"
+            "content": "laut"
         },
         {
             "id": "f",
-            "content": "besonders"
+            "content": "nämlich"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "rechtzeitig"
         },
         {
             "id": "h",
-            "content": "auf"
+            "content": "seit"
         },
         {
             "id": "i",
-            "content": "vielleicht"
+            "content": "sofort"
         },
         {
             "id": "j",
-            "content": "vor"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
-        },
-        {
-            "blank": "2",
             "option_id": "c"
         },
         {
-            "blank": "3",
+            "blank": "2",
             "option_id": "a"
         },
         {
-            "blank": "4",
-            "option_id": "i"
+            "blank": "3",
+            "option_id": "b"
         },
         {
-            "blank": "5",
+            "blank": "4",
             "option_id": "f"
         },
         {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "g"
         }
     ]
 }

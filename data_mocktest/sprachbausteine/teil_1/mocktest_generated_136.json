@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf meine Bewerbung vom 15. Mai für die Position als Marketingmanager, deren Eingang Sie mir freundlicherweise bestätigt haben.\n\nDa __1__ einige Wochen vergangen sind, möchte ich mich höflich nach dem aktuellen Stand des Bewerbungsprozesses erkundigen.\n\nIch bin __2__ sehr an der Position interessiert und möchte mein großes Interesse an einer Mitarbeit in Ihrem Unternehmen bekräftigen.\n\n__3__ ich in Kürze auch eine Entscheidung bezüglich eines anderen Angebots treffen muss, wäre eine zeitnahe Rückmeldung für meine weitere Planung sehr hilfreich.\n\nKönnten Sie mir __4__ mitteilen, wann ungefähr mit einer Entscheidung oder dem nächsten Schritt im Auswahlverfahren zu rechnen ist?\n\nFür ein mögliches weiteres Gespräch __5__ für Rückfragen stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nIch sehe Ihrer Antwort mit Interesse __6__.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Rückmeldung zu Ihrer Anfrage bezüglich IT-Supportpakete",
+    "textinhalt": "Sehr geehrte Frau Nowak,\n\nvielen Dank für Ihre Anfrage vom [Datum] und Ihr Interesse an unseren IT-Supportpaketen für Unternehmen.\n\nWir können Ihnen __1__ bestätigen, dass unsere Standardpakete bereits viele gängige Anforderungen abdecken und eine solide Basis bieten. __2__ verstehen wir, dass jedes Unternehmen einzigartige Bedürfnisse hat, weshalb individuelle Anpassungen manchmal notwendig sind. Eine solche Anpassung ist vor allem dann sinnvoll, __3__ Sie spezielle Software nutzen oder überdurchschnittlich hohe Sicherheitsanforderungen haben.\n\nUm Ihre Situation genau zu analysieren und die optimale Lösung für Sie zu finden, ist ein kurzes Gespräch oft der effizienteste Weg. __4__ würden wir Ihnen __5__ einen unverbindlichen Telefontermin mit einem unserer Fachberater vorschlagen. Dieser kann auf Ihre spezifischen Fragen eingehen und Ihnen die verschiedenen Optionen detailliert erläutern.\n\nIm Anhang finden Sie unsere aktuelle Leistungsübersicht. Sollten Sie __6__ vorab Fragen haben oder weitere Informationen benötigen, stehen wir Ihnen selbstverständlich zur Verfügung.\n\nMit freundlichen Grüßen\n\n[Ihr Name/Firmenname]",
     "options": [
         {
             "id": "a",
-            "content": "Auf"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "beziehungsweise"
+            "content": "deshalb"
         },
         {
             "id": "c",
-            "content": "Da"
+            "content": "diesbezüglich"
         },
         {
             "id": "d",
-            "content": "Deshalb"
+            "content": "gerne"
         },
         {
             "id": "e",
-            "content": "entgegen"
+            "content": "hierzu"
         },
         {
             "id": "f",
-            "content": "eventuell"
+            "content": "insofern"
         },
         {
             "id": "g",
-            "content": "inzwischen"
+            "content": "somit"
         },
         {
             "id": "h",
-            "content": "Obwohl"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "seitdem"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "weiterhin"
+            "content": "zunächst"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "g"
-        },
-        {
-            "blank": "2",
             "option_id": "j"
         },
         {
-            "blank": "3",
-            "option_id": "c"
+            "blank": "2",
+            "option_id": "a"
         },
         {
-            "blank": "4",
+            "blank": "3",
             "option_id": "f"
         },
         {
-            "blank": "5",
+            "blank": "4",
             "option_id": "b"
         },
         {
+            "blank": "5",
+            "option_id": "d"
+        },
+        {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "c"
         }
     ]
 }

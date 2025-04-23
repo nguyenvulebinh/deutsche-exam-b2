@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Bewerbung als Projektmanager - Gespräch am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich möchte mich nochmals herzlich für das informative und angenehme Vorstellungsgespräch am 15. Mai bezüglich der Position als Projektmanager bedanken. Das Gespräch hat meinen positiven Eindruck von Ihrem Unternehmen nur __1__ und mein Interesse an dieser spannenden Aufgabe weiter verstärkt.\n\nWie besprochen, bin ich nach wie vor sehr an der Position interessiert und davon überzeugt, dass meine Erfahrungen im agilen Projektmanagement gut __4__ den Anforderungen der Stelle passen.\n\nSie erwähnten im Gespräch, dass eine Entscheidung über die Besetzung der Stelle __2__ Ende Mai fallen würde. Könnten Sie mir __3__ mitteilen, ob dieser Zeitplan noch aktuell ist und wann ich ungefähr mit einer Rückmeldung rechnen kann?\n\nSelbstverständlich stehe ich Ihnen für weitere Fragen __5__ zur Verfügung. Ich freue mich __6__ auf eine positive Nachricht von Ihnen und verbleibe\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Ausstellung eines Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nbezugnehmend auf mein Arbeitsverhältnis in Ihrer Finanzabteilung, das am 30. September 2023 endete, möchte ich Sie __1__ um die Ausstellung eines qualifizierten Arbeitszeugnisses bitten.\n\nIch benötige dieses Dokument relativ dringend __2__ meiner zahlreichen laufenden Bewerbungsverfahren für eine neue berufliche Herausforderung. Könnten Sie __3__ bitte auch darauf achten, dass sowohl meine Hauptaufgaben als auch besondere Projekterfolge detailliert aufgeführt werden?\n\nDa die Bewerbungsfristen für einige interessante Positionen bald enden, wäre ich Ihnen sehr dankbar, wenn Sie mir das Zeugnis __4__ bald zukommen lassen könnten. Ein aussagekräftiges und wohlwollendes Zeugnis ist __5__ meine weiteren Karrierepläne von großer Wichtigkeit.\n\n__6__ Ihrerseits noch Rückfragen zu meinen Tätigkeiten oder zur Leistungsbeurteilung bestehen sollten, stehe ich Ihnen selbstverständlich gerne telefonisch oder per E-Mail zur Verfügung.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
     "options": [
         {
             "id": "a",
-            "content": "darauf"
+            "content": "aufgrund"
         },
         {
             "id": "b",
-            "content": "während"
+            "content": "außerhalb"
         },
         {
             "id": "c",
-            "content": "bestätigt"
+            "content": "dennoch"
         },
         {
             "id": "d",
-            "content": "sehr"
+            "content": "deswegen"
         },
         {
             "id": "e",
-            "content": "jederzeit"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "mit"
+            "content": "ferner"
         },
         {
             "id": "g",
-            "content": "zu"
+            "content": "für"
         },
         {
             "id": "h",
-            "content": "gegen"
+            "content": "hiermit"
         },
         {
             "id": "i",
-            "content": "deshalb"
+            "content": "möglichst"
         },
         {
             "id": "j",
-            "content": "vielleicht"
+            "content": "seitdem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "c"
-        },
-        {
-            "blank": "2",
             "option_id": "h"
         },
         {
+            "blank": "2",
+            "option_id": "a"
+        },
+        {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "f"
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "i"
         },
         {
             "blank": "5",
-            "option_id": "e"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "e"
         }
     ]
 }

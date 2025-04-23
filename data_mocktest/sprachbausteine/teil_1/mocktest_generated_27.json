@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Schneider,\n\nich beziehe mich auf meine Bewerbung für die Position als Marketing Manager vom 25. April.\n\n__1__ nun bereits einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nKönnten Sie mir __2__ mitteilen, ob bereits eine Vorauswahl getroffen wurde oder wann ungefähr mit einer Entscheidung zu rechnen ist?\n\nIch möchte __3__ betonen, dass mein Interesse an dieser anspruchsvollen Tätigkeit in Ihrem Unternehmen unverändert groß ist. Die in der Ausschreibung genannten Aufgabenbereiche sowie die innovative Ausrichtung Ihres Unternehmens entsprechen genau meinen Vorstellungen.\n\n__4__ Sie zusätzliche Informationen oder Referenzen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung. Für ein persönliches Gespräch bin ich __5__ flexibel und richte mich gerne nach Ihren Terminvorschlägen.\n\nIch wäre Ihnen __6__ sehr dankbar für eine kurze Rückmeldung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu interner Präsentationsschulung",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\naus dem aktuellen internen Newsletter habe ich erfahren, dass demnächst eine Schulung zum Thema Präsentationstechniken angeboten wird. Da ich meine Fähigkeiten in diesem Bereich für anstehende Projektpräsentationen verbessern möchte, bin ich __1__ sehr an einer Teilnahme interessiert.\n\nKönnten Sie mir bitte mitteilen, __2__ bereits konkrete Termine feststehen? __3__ wäre ich Ihnen dankbar, wenn Sie mir Informationen zum Anmeldeverfahren und zu eventuellen Voraussetzungen zukommen lassen könnten. Gibt es __4__ spezielle Vorkenntnisse, die erforderlich sind, oder richtet sich der Kurs an alle Mitarbeiterinnen und Mitarbeiter?\n\nGrundsätzlich bin ich zeitlich recht flexibel, __5__ wäre eine baldige Information über die genauen Daten für meine Planung hilfreich. Ich bitte Sie höflich, mir die entsprechenden Details __6__ mitzuteilen.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "OBWOHL"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "FALLS"
+            "content": "dabei"
         },
         {
             "id": "c",
-            "content": "MÖGLICH"
+            "content": "danach"
         },
         {
             "id": "d",
-            "content": "DESHALB"
+            "content": "ferner"
         },
         {
             "id": "e",
-            "content": "ZEITLICH"
+            "content": "folglich"
         },
         {
             "id": "f",
-            "content": "DA"
+            "content": "hierzu"
         },
         {
             "id": "g",
-            "content": "NACH"
+            "content": "ob"
         },
         {
             "id": "h",
-            "content": "EVENTUELL"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "TROTZDEM"
+            "content": "umgehend"
         },
         {
             "id": "j",
-            "content": "ZUDEM"
+            "content": "wann"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
-        },
-        {
-            "blank": "2",
-            "option_id": "h"
-        },
-        {
-            "blank": "3",
-            "option_id": "j"
-        },
-        {
-            "blank": "4",
-            "option_id": "b"
-        },
-        {
-            "blank": "5",
             "option_id": "e"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "g"
+        },
+        {
+            "blank": "3",
             "option_id": "d"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "a"
+        },
+        {
+            "blank": "6",
+            "option_id": "i"
         }
     ]
 }

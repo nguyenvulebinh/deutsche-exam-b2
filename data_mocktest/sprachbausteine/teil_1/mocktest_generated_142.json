@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 15. Mai",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung als Projektmanager vom 15. Mai.\n\n__1__ ich bisher keine Rückmeldung erhalten habe, möchte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Mir ist bewusst, dass der Auswahlprozess einige Zeit in __2__ nimmt. __3__ möchte ich mein fortbestehendes großes Interesse an dieser Position und Ihrem Unternehmen bekräftigen.\n\nDie beschriebenen Aufgaben und die Entwicklungsmöglichkeiten __4__ mich besonders an.\n\nKönnten Sie mir __5__ mitteilen, wann mit einer Entscheidung zu rechnen ist oder wie die nächsten Schritte aussehen?\n\nFür Rückfragen stehe ich Ihnen selbstverständlich jederzeit __6__ Verfügung.\n\nVielen Dank für Ihre Mühe.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zur Teilnahme an interner Schulung",
+    "textinhalt": "Sehr geehrte Frau/Herr [Name des zuständigen Mitarbeiters/der Abteilung],\n\nich schreibe Ihnen bezüglich der internen Schulung \"Projektmanagement für Fortgeschrittene\", die __1__ in unserem Unternehmen angeboten wird. Ich habe großes Interesse __6__.\n\nMeine Motivation ergibt sich aus meinen aktuellen Projektaufgaben im Bereich [Beispiel: Internationales Marketing]. __2__ ich seit Kurzem auch die Verantwortung für die Koordination von zwei neuen Teilprojekten übernommen habe, wären die vertieften Kenntnisse aus diesem Kurs äußerst wertvoll für mich.\n\n__3__ ist mir bewusst, dass diese Schulung nicht Teil meines regulären Entwicklungsplans ist. Ich bin __4__ davon überzeugt, dass die Inhalte meine Effizienz steigern und zur erfolgreichen Abwicklung meiner Projekte beitragen würden.\n\n__5__ wäre die Teilnahme nicht nur eine persönliche Weiterentwicklung, sondern auch ein direkter Gewinn für unser Team und die Projektziele.\n\nIch würde mich sehr freuen, wenn Sie meine Teilnahme ermöglichen könnten oder mich auf die Warteliste setzen würden. Für Rückfragen stehe ich selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Prüfung meines Anliegens.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Anspruch"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "bevor"
         },
         {
             "id": "c",
-            "content": "Dennoch"
+            "content": "daran"
         },
         {
             "id": "d",
-            "content": "eventuell"
+            "content": "demnächst"
         },
         {
             "id": "e",
-            "content": "Für"
+            "content": "ferner"
         },
         {
             "id": "f",
-            "content": "Obwohl"
+            "content": "insbesondere"
         },
         {
             "id": "g",
-            "content": "sprechen"
+            "content": "jedoch"
         },
         {
             "id": "h",
-            "content": "Vielleicht"
+            "content": "somit"
         },
         {
             "id": "i",
-            "content": "Weil"
+            "content": "wofür"
         },
         {
             "id": "j",
-            "content": "zur"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "b"
-        },
-        {
-            "blank": "2",
-            "option_id": "a"
-        },
-        {
-            "blank": "3",
-            "option_id": "c"
-        },
-        {
-            "blank": "4",
-            "option_id": "g"
-        },
-        {
-            "blank": "5",
             "option_id": "d"
         },
         {
-            "blank": "6",
+            "blank": "2",
             "option_id": "j"
+        },
+        {
+            "blank": "3",
+            "option_id": "a"
+        },
+        {
+            "blank": "4",
+            "option_id": "f"
+        },
+        {
+            "blank": "5",
+            "option_id": "h"
+        },
+        {
+            "blank": "6",
+            "option_id": "c"
         }
     ]
 }

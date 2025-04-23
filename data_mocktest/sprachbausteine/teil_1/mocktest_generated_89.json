@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager/-in vom 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nbezugnehmend __1__ meine Bewerbung vom 15. Mai für die ausgeschriebene Stelle als Projektmanager/-in und das bisherige Ausbleiben einer Rückmeldung, möchte ich mich auf diesem Wege höflich __2__ dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nDie Position entspricht nach wie vor genau meinen Vorstellungen und ich bin weiterhin sehr an einer Mitarbeit in Ihrem Unternehmen interessiert.\n\nKönnten Sie mir __3__ mitteilen, __4__ ungefähr mit einer Entscheidung oder den nächsten Schritten im Bewerbungsprozess zu rechnen ist? Ich verstehe natürlich, dass solche Prozesse Zeit benötigen, eine kurze Orientierung wäre jedoch sehr hilfreich.\n\nFalls Sie in der Zwischenzeit __5__ Unterlagen oder Informationen von mir benötigen, lassen Sie es mich bitte wissen. Gerne stehe ich Ihnen für Rückfragen oder ein Gespräch __6__ Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Anfrage zum Prozess für interne Weiterbildungsmaßnahmen",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich schreibe Ihnen, da ich großes Interesse an den internen Weiterbildungsmöglichkeiten in unserem Unternehmen habe, insbesondere im Bereich Projektmanagement. Ich möchte meine Fähigkeiten in diesem Bereich erweitern. __1__ bitte ich um Informationen zum allgemeinen Prozess für die Beantragung solcher Maßnahmen.\n\nIch konnte im Intranet leider keine zentrale Übersicht __2__ finden. Mich würde insbesondere interessieren, __3__ vor der eigentlichen Kursanmeldung eine Genehmigung des direkten Vorgesetzten erforderlich ist.\n\n__4__ wäre es hilfreich zu wissen, ob es feste Bewerbungsfristen oder einen Kurskatalog gibt, aus dem die verfügbaren Schulungen ersichtlich sind.\n\nZur besseren Veranschaulichung meiner Interessen habe ich eine kurze Liste der für mich relevanten Kompetenzbereiche beigefügt, __5__ der Sie meine Wünsche vielleicht besser einordnen können. Über eine kurze Rückmeldung mit den entsprechenden Informationen würde ich mich sehr freuen, um __6__ das weitere Vorgehen mit meinem Teamleiter besprechen zu können.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "wenn"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "nach"
+            "content": "anhand"
         },
         {
             "id": "c",
-            "content": "eventuell"
+            "content": "anschließend"
         },
         {
             "id": "d",
-            "content": "für"
+            "content": "deshalb"
         },
         {
             "id": "e",
-            "content": "auf"
+            "content": "falls"
         },
         {
             "id": "f",
-            "content": "an"
+            "content": "ferner"
         },
         {
             "id": "g",
-            "content": "über"
+            "content": "hierzu"
         },
         {
             "id": "h",
-            "content": "weitere"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "wann"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "zur"
+            "content": "wodurch"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "2",
-            "option_id": "b"
+            "option_id": "g"
         },
         {
             "blank": "3",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "i"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "6",
-            "option_id": "j"
+            "option_id": "c"
         }
     ]
 }

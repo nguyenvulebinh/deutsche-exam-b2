@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketing Manager vom 15. Mai (Kennziffer MM-123)",
-    "textinhalt": "Sehr geehrte Damen und Herren,\n\nich beziehe mich auf meine Bewerbung als Marketing Manager vom 15. Mai für die Stelle mit der Kennziffer MM-123. Ich habe __1__ leider keine Eingangsbestätigung oder weitere Information zum Stand meiner Bewerbung erhalten.\n\n__2__ seit meiner Einreichung nun einige Wochen vergangen sind, möchte ich mich auf diesem Wege höflich erkundigen, __3__ der aktuelle Stand des Auswahlverfahrens ist und wann ungefähr mit einer Entscheidung zu rechnen ist.\n\nIch möchte erneut betonen, dass ich __4__ sehr an dieser Position in Ihrem Unternehmen interessiert bin, da die beschriebenen Aufgaben und die Unternehmenskultur meinen Vorstellungen und Qualifikationen sehr entsprechen.\n\n__5__ Sie Rückfragen zu meinen Unterlagen haben oder weitere Dokumente benötigen, stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nIch wäre Ihnen für eine kurze Rückmeldung dankbar und sehe einer positiven Nachricht mit Interesse entgegen. Vielen Dank im Voraus __6__ Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
+    "textinhalt": "Sehr geehrte Frau Dr. Schneider,\n\nvielen Dank für Ihre freundliche Einladung zum Vorstellungsgespräch für die Position als Marketing Manager am kommenden Dienstag, den [Datum], um 14:00 Uhr. Ich habe mich sehr darüber gefreut.\n\n__1__ muss ich Sie heute leider kontaktieren, um Sie um eine Verschiebung dieses Termins zu bitten. Ein unaufschiebbarer persönlicher Grund macht es mir unmöglich, an diesem Tag zu erscheinen. Ich bedauere die dadurch für Sie entstehenden Unannehmlichkeiten sehr.\n\nMein Interesse an der ausgeschriebenen Stelle und Ihrem Unternehmen ist __2__ weiterhin sehr groß. Ich bin überzeugt, dass meine Qualifikationen gut zu Ihren Anforderungen passen. __3__ wäre ich Ihnen außerordentlich dankbar, wenn wir eine alternative Möglichkeit für unser Gespräch finden könnten.\n\nFlexible Terminvorschläge meinerseits wären zum Beispiel __4__ der nächsten Woche (KW [Kalenderwoche]) möglich. Selbstverständlich richte ich mich aber auch gerne nach Ihren Kapazitäten.\n\nKönnten Sie mir __5__ bitte kurz mitteilen, ob eine Neuansetzung des Gesprächs für Sie denkbar ist? Ich bitte um eine __6__ Rückmeldung, damit ich entsprechend planen kann.\n\nVielen Dank im Voraus für Ihr Verständnis und Ihre Flexibilität.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "Weil"
+            "content": "bedauerlicherweise"
         },
         {
             "id": "b",
-            "content": "wie"
+            "content": "darüber"
         },
         {
             "id": "c",
-            "content": "weiterhin"
+            "content": "deshalb"
         },
         {
             "id": "d",
-            "content": "Da"
+            "content": "diesbezüglich"
         },
         {
             "id": "e",
-            "content": "für"
+            "content": "innerhalb"
         },
         {
             "id": "f",
-            "content": "nach wie vor"
+            "content": "selbstverständlich"
         },
         {
             "id": "g",
-            "content": "ob"
+            "content": "trotzdem"
         },
         {
             "id": "h",
-            "content": "bisher"
+            "content": "umgehend"
         },
         {
             "id": "i",
-            "content": "Wenn"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "Falls"
+            "content": "zwar"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "h"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "d"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
             "option_id": "f"
         },
         {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "h"
         }
     ]
 }

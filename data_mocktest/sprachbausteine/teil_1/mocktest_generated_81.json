@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingreferent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\n__1__ meine Bewerbung vom 25. April für die Stelle als Marketingreferent, deren Eingang Sie mir freundlicherweise bestätigt hatten, möchte ich mich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\n__2__ nun einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, und ich weiterhin sehr an dieser Position interessiert bin, wollte ich höflich nachfragen.\n\nDie in Ihrer Ausschreibung genannten Aufgaben und Herausforderungen entsprachen __3__ genau meinen Vorstellungen und bisherigen beruflichen Erfahrungen im Online-Marketing.\n\nKönnten Sie mir __4__ mitteilen, wann etwa mit einer Entscheidung oder den nächsten Schritten im Prozess zu rechnen ist?\n\nIch stehe Ihnen für Rückfragen oder ein weiteres Gespräch __5__ gerne zur Verfügung und bin gespannt auf die weiteren Entwicklungen.\n\nÜber eine __6__ Rückmeldung würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Anfrage zu Weiterbildungsangebot: Kurs Effektives Zeitmanagement",
+    "textinhalt": "Sehr geehrter Herr Schneider,\n\n__1__ des aktuellen Unternehmens-Newsletters bin ich auf das Weiterbildungsangebot \"Effektives Zeitmanagement\" aufmerksam geworden. Ich habe großes Interesse daran teilzunehmen, __2__ meine Fähigkeiten in diesem Bereich gezielt zu verbessern.\n\nKönnten Sie mir bitte detaillierte Informationen zukommen lassen? Mich interessieren __3__ die genauen Termine, der Veranstaltungsort sowie die anfallenden Kosten.\n\nDa mein aktuelles Projekt voraussichtlich bis Ende des nächsten Monats läuft, wäre es für mich zudem wichtig zu wissen, ob es bestimmte Voraussetzungen für die Teilnahme gibt. __4__ der Haupttermin für mich ungünstig liegen sollte, wollte ich fragen, ob eventuell alternative Termine geplant sind.\n\nIch wäre Ihnen dankbar, wenn Sie mir __5__ bald möglichst Auskunft geben könnten. Über eine kurze Rückmeldung zu den Anmeldemodalitäten und __6__ benötigten Unterlagen würde ich mich ebenfalls sehr freuen.\n\nVielen Dank im Voraus für Ihre Mühe.\n\nMit freundlichen Grüßen\nAnna Müller",
     "options": [
         {
             "id": "a",
-            "content": "Da"
+            "content": "anhand"
         },
         {
             "id": "b",
-            "content": "trotzdem"
+            "content": "damit"
         },
         {
             "id": "c",
-            "content": "jederzeit"
+            "content": "daraus"
         },
         {
             "id": "d",
-            "content": "bezugnehmend auf"
+            "content": "demnach"
         },
         {
             "id": "e",
-            "content": "zeitnahe"
+            "content": "diesbezüglich"
         },
         {
             "id": "f",
-            "content": "schnell"
+            "content": "falls"
         },
         {
             "id": "g",
-            "content": "wirklich"
+            "content": "insbesondere"
         },
         {
             "id": "h",
-            "content": "eventuell"
+            "content": "obwohl"
         },
         {
             "id": "i",
-            "content": "zeitnah"
+            "content": "um"
         },
         {
             "id": "j",
-            "content": "weil"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "2",
-            "option_id": "a"
+            "option_id": "i"
         },
         {
             "blank": "3",
@@ -58,15 +58,15 @@
         },
         {
             "blank": "4",
-            "option_id": "h"
+            "option_id": "f"
         },
         {
             "blank": "5",
-            "option_id": "c"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "e"
+            "option_id": "d"
         }
     ]
 }

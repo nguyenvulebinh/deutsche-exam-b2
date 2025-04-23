@@ -1,56 +1,56 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager vom 05. April",
-    "textinhalt": "Sehr geehrte Frau Schmidt,\n\nhiermit möchte ich mich auf meine Bewerbung für die Position als Projektmanager beziehen, die ich Ihnen am 05. April zugesandt habe.\n\nDa __1__ einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Könnten Sie mir __2__ mitteilen, ob bereits eine engere Auswahl getroffen wurde oder wann mit einer Entscheidung zu rechnen ist?\n\nIch bin nach wie vor sehr an dieser Position interessiert, __3__ die Aufgabenbeschreibung und die Entwicklungsperspektiven in Ihrem Unternehmen meinen beruflichen Zielen und Qualifikationen sehr entsprechen. __4__ Ihrer Website wurde erwähnt, dass Rückmeldungen in der Regel innerhalb von vier Wochen erfolgen.\n\nIch verstehe natürlich, dass Auswahlprozesse Zeit benötigen, wäre __5__ für eine kurze Rückmeldung dankbar. Sollten Sie __6__ Fragen haben oder weitere Informationen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMarkus Weber",
+    "thema": "Bitte um Ausstellung eines qualifizierten Arbeitszeugnisses",
+    "textinhalt": "Sehr geehrter Herr Schmidt,\n\nwie Sie wissen, endete mein Arbeitsverhältnis als Projektmanagerin in Ihrem Unternehmen zum 31. Mai dieses Jahres. __1__ befinde ich mich aktiv auf der Suche nach einer neuen beruflichen Herausforderung.\n\n__2__ benötige ich für meine weiteren Bewerbungen ein qualifiziertes Arbeitszeugnis, das meine Tätigkeiten und Leistungen detailliert beschreibt. Es wäre sehr hilfreich, wenn dieses Zeugnis __3__ auch eine Beurteilung meiner sozialen Kompetenzen im Team enthalten würde.\n\nIch wäre Ihnen dankbar, wenn Sie mir das Zeugnis zukommen lassen könnten. __4__ eventueller Rückfragen zu spezifischen Projekten oder meiner Leistungsbeurteilung stehe ich Ihnen gerne zur Verfügung.\n\n__5__ ich mir bewusst bin, dass die Erstellung eines solchen Dokuments Zeit in Anspruch nimmt, wäre ich Ihnen für eine Zusendung bis spätestens Ende Juli sehr verbunden.\n\nFür eventuelle Detailabsprachen oder falls Sie zusätzliche Informationen benötigen, bin ich __6__ telefonisch oder per E-Mail erreichbar.\n\nVielen Dank im Voraus für Ihre Bemühungen.\n\nMit freundlichen Grüßen,\n\nAnna Meyer",
     "options": [
         {
             "id": "a",
-            "content": "laut"
+            "content": "bezüglich"
         },
         {
             "id": "b",
-            "content": "obwohl"
+            "content": "folglich"
         },
         {
             "id": "c",
-            "content": "noch"
+            "content": "hiermit"
         },
         {
             "id": "d",
-            "content": "da"
+            "content": "idealerweise"
         },
         {
             "id": "e",
-            "content": "wegen"
-        },
-        {
-            "id": "f",
             "content": "inzwischen"
         },
         {
+            "id": "f",
+            "content": "nämlich"
+        },
+        {
             "id": "g",
-            "content": "seitdem"
+            "content": "obgleich"
         },
         {
             "id": "h",
-            "content": "eventuell"
+            "content": "selbstverständlich"
         },
         {
             "id": "i",
-            "content": "außerdem"
+            "content": "trotzdem"
         },
         {
             "id": "j",
-            "content": "dennoch"
+            "content": "während"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "f"
+            "option_id": "e"
         },
         {
             "blank": "2",
-            "option_id": "h"
+            "option_id": "b"
         },
         {
             "blank": "3",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "g"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "h"
         }
     ]
 }

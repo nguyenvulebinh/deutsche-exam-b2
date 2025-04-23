@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Projektmanager - Kennziffer PM-2024-A7",
-    "textinhalt": "Sehr geehrte Frau Keller,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Projektmanager (Kennziffer PM-2024-A7), die ich Ihnen am 15. Mai habe zukommen lassen.\n\n__1__ nun bereits einige Wochen vergangen sind, seitdem ich meine Unterlagen eingereicht habe, wollte ich mich höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen. Das damals geführte Telefonat mit Herrn Schneider hat mein Interesse an der Position __2__ bestärkt.\n\nIch bin nach wie vor sehr an dieser herausfordernden Tätigkeit interessiert und __3__ überzeugt, dass meine Qualifikationen und Erfahrungen gut zu den Anforderungen passen.\n\nKönnten Sie mir __4__ eine kurze Auskunft geben, wie der weitere Zeitplan aussieht? Ich bin mir bewusst, dass Auswahlprozesse Zeit benötigen, __5__ wäre ich für eine kurze Rückmeldung dankbar.\n\n__6__ Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen selbstverständlich gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bestätigung Anmeldung & Anfrage Unterkunft Weiterbildung",
+    "textinhalt": "Sehr geehrte Damen und Herren,\n\nhiermit bestätige ich meine Anmeldung für die obligatorische Weiterbildung „Effektives Projektmanagement“, die vom 15. bis 17. November stattfinden wird. Ich freue mich auf die Teilnahme.\n\n__1__ ergibt sich für mich eine logistische Frage. Da mein Wohnort über 200 km vom Schulungszentrum entfernt liegt, wäre eine tägliche Anreise sehr umständlich. __2__ benötige ich für die Dauer der Weiterbildung eine Unterkunft vor Ort.\n\nKönnten Sie mir bitte mitteilen, __3__ es zentrale Hotelkontingente für Teilnehmer gibt oder __4__ eine Liste empfohlener Hotels in der Nähe? Mich würde ebenfalls interessieren, wie die Kostenübernahme in solchen Fällen geregelt ist.\n\nIch wäre Ihnen dankbar, wenn Sie mir hierzu __5__ Informationen zukommen lassen könnten, damit ich die notwendigen Buchungen vornehmen kann.\n\n__6__ stehe ich Ihnen für Rückfragen gerne zur Verfügung.\n\nVielen Dank für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "freundlicherweise"
+            "content": "alternativ"
         },
         {
             "id": "b",
-            "content": "Da"
+            "content": "allerdings"
         },
         {
             "id": "c",
-            "content": "obwohl"
+            "content": "ansonsten"
         },
         {
             "id": "d",
-            "content": "Falls"
+            "content": "folglich"
         },
         {
             "id": "e",
-            "content": "nochmals"
+            "content": "ob"
         },
         {
             "id": "f",
-            "content": "während"
+            "content": "selbstverständlich"
         },
         {
             "id": "g",
-            "content": "dennoch"
+            "content": "sofort"
         },
         {
             "id": "h",
-            "content": "damit"
+            "content": "trotzdem"
         },
         {
             "id": "i",
-            "content": "deshalb"
+            "content": "während"
         },
         {
             "id": "j",
-            "content": "davon"
+            "content": "zeitnah"
         }
     ],
     "loesung": [
@@ -50,11 +50,11 @@
         },
         {
             "blank": "2",
-            "option_id": "e"
+            "option_id": "d"
         },
         {
             "blank": "3",
-            "option_id": "j"
+            "option_id": "e"
         },
         {
             "blank": "4",
@@ -62,11 +62,11 @@
         },
         {
             "blank": "5",
-            "option_id": "g"
+            "option_id": "j"
         },
         {
             "blank": "6",
-            "option_id": "d"
+            "option_id": "f"
         }
     ]
 }

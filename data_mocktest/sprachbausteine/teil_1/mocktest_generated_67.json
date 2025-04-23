@@ -1,10 +1,10 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Sachbearbeiter Buchhaltung vom 20. Mai (Kennziffer SB-2024-15)",
-    "textinhalt": "Sehr geehrte Frau Meyer,\n\nich beziehe mich auf meine Bewerbung für die Stelle als Sachbearbeiter Buchhaltung, die ich Ihnen am 20. Mai zugesandt habe.\n\n__1__ ich meine Unterlagen eingereicht habe, ist nun __2__ einige Zeit vergangen. Ich möchte mich __3__ höflich nach dem aktuellen Stand des Auswahlverfahrens erkundigen.\n\nMein Interesse an dieser Position in Ihrem Unternehmen ist __4__ sehr groß. Insbesondere die Möglichkeit, im Bereich der Kreditorenbuchhaltung mitzuwirken, entspricht genau meinen beruflichen Zielen und Erfahrungen. Ich bin __5__ meiner Qualifikationen überzeugt, einen wertvollen Beitrag leisten zu können.\n\nÜber eine kurze Rückmeldung, wann etwa mit einer Entscheidung zu rechnen ist, __6__ ich mich sehr freuen. Selbstverständlich stehe ich Ihnen für Rückfragen oder ein persönliches Gespräch jederzeit zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
+    "thema": "Nachfrage zum Bearbeitungsstand - IT-Support Ticket #TICKET12345",
+    "textinhalt": "Sehr geehrtes IT-Support-Team,\n\nwir beziehen uns auf das IT-Support-Ticket mit der Nummer #TICKET12345, welches wir Ihnen __1__ am [Datum der Einreichung, z.B. 15. Mai] bezüglich eines Problems mit unserer Buchhaltungssoftware gemeldet haben.\n\n__2__ seit unserer Meldung nun mehr als [Anzahl] Arbeitstage vergangen sind, besteht das gemeldete Problem weiterhin und wir haben keine aktuelle Information zum Bearbeitungsstand erhalten. Das ursprüngliche Ticket versprach eine Lösung innerhalb von 48 Stunden.\n\nDas Problem beeinträchtigt unsere Fähigkeit, Rechnungen korrekt zu verarbeiten, erheblich. __3__ bitten wir Sie dringend um eine Beschleunigung der Bearbeitung.\n\nWir möchten uns hiermit erneut __4__ dem aktuellen Stand der Fehlerbehebung und dem voraussichtlichen Zeitrahmen für die Lösung erkundigen.\n\n__5__ wäre es hilfreich zu wissen, ob alternative Übergangslösungen verfügbar sind, die wir nutzen könnten, bis das Hauptproblem behoben ist.\n\nWir bitten um eine __6__ Rückmeldung Ihrerseits.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\n[Ihr Name / Ihre Abteilung]",
     "options": [
         {
             "id": "a",
-            "content": "aufgrund"
+            "content": "bereits"
         },
         {
             "id": "b",
@@ -12,27 +12,27 @@
         },
         {
             "id": "c",
-            "content": "inzwischen"
+            "content": "infolgedessen"
         },
         {
             "id": "d",
-            "content": "seitdem"
+            "content": "kurzfristig"
         },
         {
             "id": "e",
-            "content": "sofort"
+            "content": "nach"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "obwohl"
         },
         {
             "id": "g",
-            "content": "wegen"
+            "content": "trotzdem"
         },
         {
             "id": "h",
-            "content": "weiterhin"
+            "content": "über"
         },
         {
             "id": "i",
@@ -40,33 +40,33 @@
         },
         {
             "id": "j",
-            "content": "würde"
+            "content": "zudem"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
-        },
-        {
-            "blank": "2",
-            "option_id": "c"
-        },
-        {
-            "blank": "3",
-            "option_id": "b"
-        },
-        {
-            "blank": "4",
-            "option_id": "h"
-        },
-        {
-            "blank": "5",
             "option_id": "a"
         },
         {
-            "blank": "6",
+            "blank": "2",
+            "option_id": "f"
+        },
+        {
+            "blank": "3",
+            "option_id": "c"
+        },
+        {
+            "blank": "4",
+            "option_id": "e"
+        },
+        {
+            "blank": "5",
             "option_id": "j"
+        },
+        {
+            "blank": "6",
+            "option_id": "d"
         }
     ]
 }

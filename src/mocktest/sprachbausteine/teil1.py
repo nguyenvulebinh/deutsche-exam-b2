@@ -10,29 +10,29 @@ load_dotenv()
 
 
 example_paths = [
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_1.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_2.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_3.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_4.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_5.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_6.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_7.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_8.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_9.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_10.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_11.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_12.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_13.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_14.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_15.json",
-  "data_mocktest/sprachbausteine/teil_1_refine/mock_16.json"
+  "data_mocktest/sprachbausteine/teil_1/mock_1.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_2.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_3.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_4.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_5.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_6.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_7.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_8.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_9.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_10.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_11.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_12.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_13.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_14.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_15.json",
+  "data_mocktest/sprachbausteine/teil_1/mock_16.json"
 ]
 example_sample = []
 for path in example_paths:
     with open(path, "r", encoding="utf-8") as f:
         example_sample.append(json.load(f))
 
-def generate(debug=False):
+def generate(debug=False, previous_options=[]):
     client = genai.Client(
         api_key=os.environ.get("GEMINI_API_KEY"),
     )
@@ -51,92 +51,101 @@ def generate(debug=False):
         types.Content(
             role="user",
             parts=[
-                types.Part.from_text(text="""I want to generate a complete, coherent, and realistic task for the "Sprachbausteine teil 1" module of the German B2 Beruf test. 
+                types.Part.from_text(text="""I want to generate a complete, coherent, and realistic task for the "Sprachbausteine teil 1" module of the German B2 Beruf test.""" + """
+
+In the previous mocktests, here is the list of options that have been used:
+""" + str(previous_options) + """
 
 The generated task will follow this sequence, reflecting the typical test presentation:
 
-1. Write a markdown to brainstorm the idea of the thema will implement
-2. Write a markdown to describe the idea of the text content (textinhalt), which part will be good to make the blank part for filling out and maybe a good part to have a distractor.
-3. Write a markdown to describe the idea of the distractor options, which can be confuse for the examinee.
-5. Output the whole task in json format as the example in the instruction"""),
+1. Write a markdown to brainstorm the idea of the topic will implement
+2. Write a markdown to describe the idea of the text content (textinhalt), 
+- Brainstorm which part will be good to make the blank part for filling out, explain why it can be tricky.
+- Brainstorm which part will be good to have a distractor, explain why it can be tricky.
+3. Write a markdown to brainstorm the 6 single words that can be used to fill the blank part, which can be tricky for the examinee because of the similar meaning, similar grammar, or similar spelling,.... Explain why it can be tricky. Try not to reuse the options in previous generated mocktests (provied above).
+4. Write a markdown to describe the idea of the 4 single words distractor options, which can be confuse for the examinee. The distractor options try to confuse which correct answer and by what factor? Explain why it can be tricky.
+5. Try to generate a markdown the textinhalt with the blank from 1 to 6 to see:
+- If it fit the idea of the text content and the blank part and the options. 
+- Check if the distractor options and the answer options are good and hard enough. Explain why it can be tricky.
+- Check if the textinhalt is not acidently leak the answer. 
+- Blank id in the textinhalt must be in the range from 1 to 6 in the correct order from the begining to the end.
+- If any condition not match, back to step 3.
+6. Output the whole task in json format as the example in the instruction"""),
             ],
         ),
     ]
     generate_content_config = types.GenerateContentConfig(
         response_mime_type="text/plain",
         system_instruction=[
-            types.Part.from_text(text="""# Prompt for Designing a B2 German "Sprachbausteine" Mock Test
+            types.Part.from_text(text="""# Prompt: Generate B2 Beruf Sprachbausteine Teil 1 Mock Test
 
-## 1. Objective
+## Objective:
+Generate a complete and realistic mock test item for the Goethe-Zertifikat B2 / telc B2 Beruf German exam, specifically the "Sprachbausteine Teil 1" format. The test item must focus on scenarios relevant to professional life (Beruf).
 
-Generate a realistic German language test exercise in the format of "Sprachbausteine Teil 1" targeting the **B2 level** of the Common European Framework of Reference for Languages (CEFR/GER). The exercise should simulate a common professional communication scenario: **writing an email or letter to follow up on a job application**. The primary focus is on creating plausible and challenging multiple-choice options (distractors) that test common B2-level grammatical and lexical nuances.
+## Constraints & Requirements:
 
-## 2. Input Parameters
+**1. Topic Brainstorming & Selection (`thema`):**
+    *   **Task:** Select a specific, realistic scenario from a professional context suitable for B2 level.
+    *   **Context:** Focus on formal written communication (email or letter).
+    *   **Examples:** Following up on a job application, inquiring about application status, requesting information about training/seminars, responding to an offer, asking for clarification on a process, requesting documentation (e.g., Arbeitszeugnis), rescheduling appointments, addressing logistical issues (e.g., payment, deadlines), formal complaints about service/process related to work or applications.
+    *   **Output:** Define a concise and descriptive subject line (`thema`).
+    *   **`thema` Length:** Approximately 3-8 words.
 
-*   **Target Level:** B2 (GER / CEFR)
-*   **Exercise Format:** Sprachbausteine Teil 1 (Multiple-choice gap-fill)
-*   **Context:** Professional Communication - Follow-up regarding a job application (email or formal letter).
-*   **Number of Gaps:** 6
-*   **Number of Options:** 10
-*   **Focus Scenario (Choose one or combine elements):**
-    *   Inquiring about the application status after some time has passed.
-    *   Responding to a request for more information/documents.
-    *   Confirming receipt of an interview invitation / Requesting to reschedule an interview.
-    *   Expressing continued interest after an interview / Thanking for the interview.
-    *   Inquiring about a missing promised document (e.g., *Arbeitszeugnis*).
-    *   Reporting a technical issue with an online application portal.
-    *   Following up after submitting missing documents.
-    *   Inquiring about the next steps in the process.
-*   **Potential `Thema` (Subject Lines - Choose one relevant to the Focus Scenario - Or can expand the list to relevant scenario):**
-    *   Betreff: Nachfrage zum Stand meiner Bewerbung als [Job Title] vom [Date]
-    *   Betreff: Meine Bewerbung als [Job Title] - Kennziffer [Reference Number]
-    *   Betreff: Rückfrage zu meiner Bewerbung vom [Date]
-    *   Betreff: Nachfrage zu meinem Vorstellungsgespräch am [Date]
-    *   Betreff: Benötigte Unterlagen für meine Bewerbung als [Job Title]
-    *   Betreff: Terminbestätigung / Terminanfrage Vorstellungsgespräch [Job Title]
-    *   Betreff: Fehlendes Arbeitszeugnis - Meine Bewerbung vom [Date]
-    *   Betreff: Problem mit Online-Bewerbung - [Your Name]
+**2. Target Word Selection (The "Sprachbausteine"):**
+    *   **Task:** Pre-select exactly **6 target German words** that will be the correct answers for the blanks. These words are the core items being tested.
+    *   **Word Types:** Choose primarily from:
+        *   Connecting Adverbs (Konjunktionaladverbien: e.g., `deshalb`, `trotzdem`, `allerdings`, `inzwischen`, `anschließend`, `folglich`, `zudem`, `dennoch`)
+        *   Subordinating Conjunctions (e.g., `obwohl`, `während`, `seitdem`, `falls`, `damit`, `sobald`, `ob`)
+        *   Prepositions (requiring specific cases or common in formal contexts, e.g., `aufgrund`, `bezüglich`, `trotz`, `innerhalb`, `während`, `einschließlich`, `anhand`)
+        *   Pronominal Adverbs (e.g., `hierfür`, `darauf`, `wobei`, `wodurch`, `damit`)
+        *   Modal/Temporal Adverbs clarifying context (e.g., `bereits`, `umgehend`, `erst`, `selbstverständlich`, `ausschließlich`, `gegebenenfalls`, `nochmals`)
+    *   ***Word Length*: Have to be a single word.
+    *   **Difficulty:** Aim for a mix within the B2 level – some medium difficulty (common connectors, clear prepositions) and 3-4 harder ones (less frequent connectors, nuanced meanings, tricky pronominal adverbs like `insofern`, `gleichwohl`, `gegebenenfalls`).
+    *   **Crucial:** These 6 selected words **must** be the grammatically and semantically correct answers for the blanks later inserted into the `textinhalt`.
 
-## 3. Text Generation Guidelines
+**3. Text Content Design (`textinhalt`):**
+    *   **Task:** Write the body of the formal email/letter.
+    *   **Structure:** Follow standard formal German communication structure:
+        *   Appropriate Salutation (`Sehr geehrte/r...` or `Sehr geehrte Damen und Herren,`).
+        *   Logical flow: Introduction/Reference -> Development/Explanation/Problem/Request -> Conclusion/Next Steps -> Closing (`Mit freundlichen Grüßen`).
+    *   **Integration:** Naturally integrate the 6 pre-selected target words into the text where they fit logically and grammatically.
+    *   **Context Provision:** Design the sentences *around* the locations where the target words will be removed. The surrounding text **must** provide sufficient **grammatical context** (e.g., verb position indicating conjunction vs. adverb, noun requiring a specific preposition) and **semantic/logical context** (e.g., contrast, cause/effect, time sequence) so that only the target word fits perfectly.
+    *   **Blank Insertion:** Replace the 6 target words with blanks numbered `__1__` through `__6__`.
+    *   **Register:** Maintain a consistently formal, polite, and professional tone (B2 level vocabulary and structures).
+    *   **`textinhalt` Length:** Approximately 150-200 words, 3-5 paragraphs (excluding salutation and closing).
 
-*   **Authenticity:** The text should sound like a genuine email or formal letter written in a professional German context. Use appropriate salutations (`Sehr geehrte/r Frau/Herr [Name]`, `Sehr geehrte Damen und Herren`) and closings (`Mit freundlichen Grüßen`).
-*   **Content:** The text must logically develop the chosen "Focus Scenario". It should include:
-    *   A clear reference to the previous application or contact (e.g., date, job title, interview, reference number).
-    *   The reason for writing (the follow-up action).
-    *   Relevant details (e.g., mentioning a deadline, another job offer, availability, specific document).
-    *   A polite request or statement.
-*   **Length:** The `textinhalt` (excluding salutation and closing) should be approximately **100-150 words** long **3-5 paragraphs**. This is typical for this type of communication and provides enough context for B2-level structures without being overwhelming.
-*   **B2 Complexity:**
-    *   **Vocabulary:** Use appropriate professional vocabulary related to applications, deadlines, documents, communication, interviews, etc. Avoid overly simplistic or highly specialized C1/C2 terms. Examples: `fristgerecht`, `bezugnehmend auf`, `Unterlagen`, `zeitnah`, `Rückmeldung`, `erkundigen`, `vereinbaren`, `nachreichen`, `bedauerlicherweise`, `gegebenenfalls`.
-    *   **Grammar:** Incorporate typical B2 structures: subordinate clauses (causal `weil/da`, temporal `als/wenn/während/seitdem/bis`, concessive `obwohl`, conditional `wenn/falls`, relative clauses, indirect questions `ob/wann/wie`), appropriate use of prepositions (especially two-way prepositions, prepositions governing specific cases, or those with specific meanings like `aufgrund`, `trotz`, `bezüglich`), conjunctions and connectors (adverbs like `deshalb/deswegen`, `trotzdem`, `allerdings`, `zudem`, `anschließend`; conjunctions like `sowohl...als auch`), passive voice where natural (e.g., `wurde mir mitgeteilt`), Konjunktiv II for politeness/hypothetical situations (`könnten Sie mir mitteilen`, `wäre es möglich`).
-*   **Gaps (`__1__` to `__6__`):** Place the gaps strategically to test understanding of connectors, prepositions, specific adverbs, modal particles, conjunctions, or verbs requiring specific prepositions/cases that are crucial for coherence and correctness at the B2 level.
+**4. Option Generation (`options`):**
+    *   **Task:** Create a list of 10 possible answer options (labeled `a` through `j`).
+    *   **Content:**
+        *   Include the **6 pre-selected target words** (which are the correct answers).
+        *   Include **4 plausible distractors**.
+    *   **Distractor Design Principles:** Distractors should be incorrect but tempting, designed based on:
+        *   *Semantic Near Miss:* Similar meaning but wrong nuance for the specific context (e.g., `deswegen` vs. `trotzdem`).
+        *   *Grammatical Mismatch:* Would create incorrect word order (e.g., adverb vs. conjunction), require the wrong case, or be the wrong preposition for a verb/noun collocation.
+        *   *Logical Disconnect:* Creates an illogical relationship between clauses/sentences.
+        *   *Common Learner Errors:* Target typical B2 confusion points (e.g., `wann`/`wenn`, `da`/`weil`, incorrect pronominal adverb).
+        *   *Plausibility:* Distractors should look like reasonable German words that *could* fit in some context, but not *this specific* blank.
+        *   *Consistency:* All options should generally fit the formal register.
+    *   ***Word Length*: Have to be a single word.
+    *   **Format:** List the 10 options alphabetically (a-j) below the `textinhalt`. Each option should be relatively short, typically a single word.
+    *   **`options` Entry Length:** Mostly single words, max 2 words if absolutely necessary (e.g., "des Weiteren").
 
-## 4. Gap & Option List Generation Guidelines (CRITICAL FOCUS)
+**5. Solution Mapping (`loesung`):**
+    *   **Task:** Create the solution key.
+    *   **Format:** Map each blank number (`1` to `6`) to the corresponding letter (`a` to `j`) of the correct target word from the options list. Use the specified JSON array format.
 
-*   **Targeted Testing:** Each gap should test a specific grammatical or lexical point relevant to B2. Avoid gaps that test only basic A1/A2 vocabulary if other options are possible.
-*   **Correct Answers:** Select the grammatically and semantically correct word for each gap from the B2 range.
-*   **Distractor Design Strategy:** The remaining 4 options must be carefully crafted distractors. They should *not* be randomly chosen words. Design them based on the following principles, aiming for confusion if the test-taker lacks precise knowledge:
-    *   **Strategy 1: Grammatically Similar, Semantically Different:**
-        *   Include options from the **same word class** (e.g., another conjunction, another preposition, another temporal adverb) as the correct answer, but with a **meaning inappropriate** for the context.
-        *   *Example:* If the answer is the causal conjunction `weil`, a distractor could be the concessive conjunction `obwohl` or the temporal conjunction `während`.
-    *   **Strategy 2: Semantically Similar, Grammatically Different:**
-        *   Include options with a **similar meaning** to the correct answer but belonging to a **different word class** or requiring **different grammatical structures/case government**.
-        *   *Example:* If the answer is the preposition `wegen` (+ Genitive/Dativ), distractors could be the causal conjunction `weil` (requires a subordinate clause) or the causal adverb `deshalb` (requires specific sentence structure).
-        *   *Example:* If the answer is the concessive preposition `trotz` (+ Genitive/Dativ), a distractor could be `obwohl` (conjunction).
-    *   **Strategy 3: Common Learner Confusions:**
-        *   Include words frequently confused by learners at the B1/B2 level.
-        *   *Examples:* `seit` vs. `vor` (temporal), `wann` vs. `wenn` vs. `als` (temporal/conditional), `damit` vs. `um...zu` (final clauses), case confusion with prepositions (`für` + Acc vs. `wegen` + Gen/Dat vs. `dank` + Dat/Gen), modal particles (`doch`, `ja`, `wohl`, `eigentlich`), similar looking adverbs (`bereits` vs. `bereit`).
-    *   **Strategy 4: Contextual Plausibility (but Incorrect):**
-        *   Distractors should seem *somewhat plausible* in the sentence flow at first glance but be definitively wrong upon closer grammatical or semantic analysis within the specific sentence context. Avoid options that are completely nonsensical or belong to a completely unrelated topic.
-    *   **Grammatical Consistency (Distractors):** Ensure distractors generally fit the *potential* grammatical slot type (e.g., don't put a clear adjective where a connector is needed), unless exploiting Strategy 2/3.
-*   **Option List Finalization:**
-    *   The final list must contain 10 options (a-j), including the 6 correct answers and 4 well-designed distractors.
-    *   Randomize the order of options.
-    *   Ensure each option ID (a-j) is unique.
+**6. Final Quality Check:**
+    *   **Correctness:** Verify that the 6 target words are unambiguously the only correct answers for their respective blanks.
+    *   **Context:** Ensure the context provided is sufficient but not overly simplistic. Does it require B2-level analysis?
+    *   **Distractors:** Confirm distractors are genuinely plausible but clearly incorrect upon careful review.
+    *   **Grammar/Spelling:** Proofread the entire text (`thema`, `textinhalt`, `options`) for errors.
+    *   **B2 Level:** Assess if the vocabulary, sentence structures, target words, and distractors are appropriate for the B2 Beruf level.
+    *   **Realism:** Does the overall scenario feel like authentic professional communication?
+    *   **Formatting:** Double-check adherence to the JSON output format.
+    *   **Length Constraints:** Verify `thema` and `textinhalt` lengths.
 
-## 5. Output Format
-
-Present the generated exercise in the following JSON format:
+**7. JSON Output Format:**
+    *   **Task:** Format the entire generated test item strictly according to the following JSON structure:
 
 ```json
 {
@@ -152,14 +161,7 @@ Present the generated exercise in the following JSON format:
   ]
 }
 ```
-
-## 6. Quality Check
-
-*   Review the generated text for natural flow, grammatical correctness, and B2-level appropriateness.
-*   Verify that each correct answer is indeed the only correct option.
-*   Critically evaluate the distractors: Are they genuinely plausible yet incorrect? Do they effectively test the targeted B2 challenges based on the strategies outlined above?
-*   Ensure the JSON format is correct.
-
+                                 
 """ + example_for_prompt_str),
         ],
     )
@@ -331,8 +333,8 @@ def verify_json_structure(json_data):
     # If all validations pass, return success
     return True, "JSON structure is valid"
 
-def generate_mocktest(debug=False):
-    json_str = generate(debug=debug)
+def generate_mocktest(debug=False, previous_options=[]):
+    json_str = generate(debug=debug, previous_options=previous_options)
     json_data = format_json(json_str)
     is_valid, message = verify_json_structure(json_data)
     if not is_valid:
@@ -350,16 +352,25 @@ if __name__ == "__main__":
     start_idx = len(example_sample) + shard_idx * num_tests  # Starting index for filenames
     idx = 0
     print(f"Generating {num_tests} mock tests...")
-    
+    previous_options = []
     while idx < num_tests:
         try:
             print(f"Generating test {idx+1}/{num_tests}...")
-            mocktest = generate_mocktest(debug=True)
-            output_path = f"/Users/binhnguyen/Workspaces/TELC_B2_test/data_mocktest/sprachbausteine/teil_1_refine/mocktest_generated_{idx + 1 + start_idx}.json"
+            mocktest = generate_mocktest(debug=True, previous_options=previous_options)
+            output_path = f"/Users/binhnguyen/Workspaces/TELC_B2_test/data_mocktest/sprachbausteine/teil_1/mocktest_generated_{idx + 1 + start_idx}.json"
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(mocktest, f, indent=4, ensure_ascii=False)
             print(f"Successfully generated test {idx+1}/{num_tests}")
             idx += 1
+
+            # "options": [       {         "id": "a",         "content": "AUFGRUND"       },       {         "id": "b",         "content": "BIS"       },       {         "id": "c",         "content": "DAHER"       },       {         "id": "d",         "content": "DARÜBER"       },       {         "id": "e",         "content": "OB"       },       {         "id": "f",         "content": "SEITDEM"       },       {         "id": "g",         "content": "SOBALD"       },       {         "id": "h",         "content": "SOFORT"       },       {         "id": "i",         "content": "WANN"       },       {         "id": "j",         "content": "ZWISCHEN"       }     ],     "loesung": [       {         "blank": "1",         "option_id": "h"       },       {         "blank": "2",         "option_id": "f"       },       {         "blank": "3",         "option_id": "b"       },       {         "blank": "4",         "option_id": "i"       },       {         "blank": "5",         "option_id": "a"       },       {         "blank": "6",         "option_id": "c"       }     ]
+            losung_option_ids = [item['option_id'] for item in mocktest['loesung']]
+            losung_words = [item['content'] for item in mocktest['options'] if item['id'] in losung_option_ids]
+            previous_options.extend(losung_words)
+            previous_options = list(set(previous_options))
+            random.shuffle(previous_options)
+            if len(previous_options) > 20:
+                previous_options = previous_options[:20]
         except Exception as e:
             print(f"Error generating mocktest {idx}: {e}")
     

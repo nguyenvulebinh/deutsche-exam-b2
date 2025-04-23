@@ -1,72 +1,72 @@
 {
-    "thema": "Betreff: Nachfrage zum Stand meiner Bewerbung als Marketingassistent vom 25. April",
-    "textinhalt": "Sehr geehrte Frau Bergmann,\n\nich beziehe mich auf meine Bewerbung als Marketingassistent vom 25. April und die freundliche Eingangsbestätigung Ihrerseits.\n\n__1__ sind nun mehrere Wochen vergangen, __2__ möchte ich mich höflich erkundigen, wie der aktuelle Stand des Auswahlverfahrens ist.\n\nKönnten Sie mir __3__ mitteilen, bis wann voraussichtlich mit einer Entscheidung zu rechnen ist?\n\nDie ausgeschriebene Stelle in Ihrem Unternehmen interessiert mich __4__ sehr, da die beschriebenen Aufgaben und die innovative Ausrichtung Ihrer Marketingabteilung meinen beruflichen Zielen und Qualifikationen optimal entsprechen.\n\nIch möchte __5__ sicherstellen, dass meine Bewerbung weiterhin im Prozess berücksichtigt wird.\n\n__6__ Rückfragen stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.\n\nVielen Dank für Ihre Bemühungen.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Bitte um Verschiebung des Vorstellungsgesprächs",
+    "textinhalt": "Sehr geehrte Frau Schneider,\n\nvielen Dank für Ihre Einladung zum Vorstellungsgespräch am kommenden Freitag, den 15. Mai, um 10:00 Uhr. Ich habe mich sehr darüber gefreut.\n\nLeider muss ich Ihnen mitteilen, dass ich diesen Termin nicht wahrnehmen kann. Ein unaufschiebbarer privater Termin ist kurzfristig dazwischengekommen, __1__ bitte ich Sie höflich um eine Verschiebung des Gesprächs. Es tut mir sehr leid, Ihnen Umstände zu bereiten.\n\nDer Grund ist eine Prüfung an meiner Weiterbildungsakademie, __2__ diese für meinen Abschluss entscheidend ist und nicht verlegt werden kann.\n\nIch möchte betonen, dass ich __3__ großes Interesse an der ausgeschriebenen Position in Ihrem Unternehmen habe und Sie sehr gerne persönlich kennenlernen möchte.\n\nWäre es eventuell möglich, einen neuen Termin zu finden? Ich könnte Ihnen flexible Daten in der darauffolgenden Woche anbieten, __4__ dies für Sie organisatorisch machbar ist. Alternativ richte ich mich gerne nach Ihren Vorschlägen.\n\nIch bitte __5__ um Ihr Verständnis für diese kurzfristige Änderung. Über einen neuen Terminvorschlag Ihrerseits würde ich mich sehr freuen und hoffe auf eine __6__ positive Rückmeldung.\n\nMit freundlichen Grüßen\n\n[Ihr Name]",
     "options": [
         {
             "id": "a",
-            "content": "SEITDEM"
+            "content": "baldmöglichst"
         },
         {
             "id": "b",
-            "content": "NUR"
+            "content": "dabei"
         },
         {
             "id": "c",
-            "content": "FÜR"
+            "content": "daher"
         },
         {
             "id": "d",
-            "content": "INZWISCHEN"
+            "content": "dennoch"
         },
         {
             "id": "e",
-            "content": "WÄHREND"
+            "content": "hierfür"
         },
         {
             "id": "f",
-            "content": "DESHALB"
+            "content": "nämlich"
         },
         {
             "id": "g",
-            "content": "NACH WIE VOR"
+            "content": "seitdem"
         },
         {
             "id": "h",
-            "content": "VIELLEICHT"
+            "content": "sofern"
         },
         {
             "id": "i",
-            "content": "ZU"
+            "content": "weiterhin"
         },
         {
             "id": "j",
-            "content": "TROTZDEM"
+            "content": "zumal"
         }
     ],
     "loesung": [
         {
             "blank": "1",
-            "option_id": "d"
+            "option_id": "c"
         },
         {
             "blank": "2",
-            "option_id": "f"
+            "option_id": "j"
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "i"
         },
         {
             "blank": "4",
-            "option_id": "g"
+            "option_id": "h"
         },
         {
             "blank": "5",
-            "option_id": "b"
+            "option_id": "e"
         },
         {
             "blank": "6",
-            "option_id": "c"
+            "option_id": "a"
         }
     ]
 }

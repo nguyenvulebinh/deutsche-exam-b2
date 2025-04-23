@@ -1,46 +1,46 @@
 {
-    "thema": "Betreff: Nachfrage zu meinem Vorstellungsgespräch als Projektmanager am 15. Mai",
-    "textinhalt": "Sehr geehrte Frau Müller,\n\nich beziehe mich auf mein Vorstellungsgespräch für die Position als Projektmanager am 15. Mai, für das ich mich nochmals herzlich bedanken möchte.\n\n__1__ ist seit unserem Gespräch einige Zeit vergangen, __2__ möchte ich mich höflich erkundigen, __3__ ungefähr mit einer Entscheidung bezüglich der Stellenbesetzung zu rechnen ist.\n\nIch habe __4__ großes Interesse an dieser Position, __5__ das Gespräch meine positive Einschätzung des Unternehmens und der Aufgaben nur bestärkt hat.\n\nIch würde mich __6__ sehr über eine positive Rückmeldung freuen und stehe Ihnen für Rückfragen jederzeit gerne zur Verfügung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
+    "thema": "Feedbackanfrage zum Projektbericht KW48",
+    "textinhalt": "Sehr geehrte Frau Meier,\n\nich hoffe, diese E-Mail findet Sie gut.\n\nIch schreibe Ihnen __1__ meines Projektberichts für KW48, den ich Ihnen letzten Freitag zugesandt habe. Ich wollte mich erkundigen, ob Sie __2__ die Gelegenheit hatten, einen Blick darauf zu werfen.\n\nIhr Feedback ist für mich sehr wichtig, __3__ für das Kapitel über die Marktanalyse, da dieses die Grundlage für unsere nächste Planungsphase bildet. Ich bin mir bewusst, dass Sie momentan sehr beschäftigt sind, __4__ wäre eine kurze Rückmeldung in den nächsten Tagen äußerst hilfreich.\n\nIch benötige Ihre Anmerkungen, __5__ ich die endgültigen Anpassungen vornehmen und den Bericht bis zum internen Abgabetermin am Ende nächster Woche fertigstellen kann.\n\nKönnten Sie mir bitte kurz mitteilen, __6__ Sie voraussichtlich Zeit für das Feedback finden?\n\nVielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen\n\nMax Mustermann",
     "options": [
         {
             "id": "a",
-            "content": "daher"
+            "content": "allerdings"
         },
         {
             "id": "b",
-            "content": "deshalb"
+            "content": "bereits"
         },
         {
             "id": "c",
-            "content": "inzwischen"
+            "content": "bezüglich"
         },
         {
             "id": "d",
-            "content": "nach wie vor"
+            "content": "damit"
         },
         {
             "id": "e",
-            "content": "obwohl"
+            "content": "insbesondere"
         },
         {
             "id": "f",
-            "content": "trotzdem"
+            "content": "jedoch"
         },
         {
             "id": "g",
-            "content": "weiterhin"
+            "content": "sobald"
         },
         {
             "id": "h",
-            "content": "wann"
+            "content": "sodass"
         },
         {
             "id": "i",
-            "content": "wenn"
+            "content": "trotz"
         },
         {
             "id": "j",
-            "content": "zumal"
+            "content": "während"
         }
     ],
     "loesung": [
@@ -54,19 +54,19 @@
         },
         {
             "blank": "3",
-            "option_id": "h"
+            "option_id": "e"
         },
         {
             "blank": "4",
-            "option_id": "d"
+            "option_id": "a"
         },
         {
             "blank": "5",
-            "option_id": "j"
+            "option_id": "d"
         },
         {
             "blank": "6",
-            "option_id": "a"
+            "option_id": "g"
         }
     ]
 }
